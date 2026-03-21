@@ -5,8 +5,8 @@ Praktische uitleg voor **melissopalynologie**: pollen in honing herkennen en det
 ## Organisatie van de documentatie
 
   - **Microscopie:**
-      - 10× objectief
-      - 40× detailvergroting
+      - overzichtsvergroting
+      - detailvergroting
 
   - **Honing:**
       - Veelvoorkomende soorten in honing:

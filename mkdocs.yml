@@ -40,8 +40,8 @@ nav:
   - Home: index.md
 
   - Microscopie:
-      - 10× objectief: pollen-identificeren/overzichtsvergroting/10x-objectief.md
-      - 40× detailvergroting: pollen-identificeren/detailvergroting/detailvergroting(40x).md
+      - overzichtsvergroting: pollen-identificeren/overzichtsvergroting/overzichtsvergroting.md
+      - detailvergroting: pollen-identificeren/detailvergroting/detailvergroting.md
 
   - Honing:
       - Veelvoorkomende soorten in honing:
