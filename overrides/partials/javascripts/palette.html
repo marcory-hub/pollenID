@@ -1,0 +1,18 @@
+{#-
+  One-shot migratie: wist Material's opgeslagen palet zodat HTML-default (eerste palette in mkdocs.yml) weer geldt.
+  Verhoog extra.palette_migration in mkdocs.yml als je dit opnieuw voor alle bezoekers wilt afdwingen.
+-#}
+<script>
+(function () {
+  var version = "{{ config.extra.palette_migration | d('2026-03-21-dark-default', true) | e }}";
+  var migKey = "pollenid.palette_mig";
+  try {
+    if (localStorage.getItem(migKey) !== version) {
+      var scope = new URL("{{ config.extra.scope | d(base_url) }}", location);
+      localStorage.removeItem(scope.pathname + ".__palette");
+      localStorage.setItem(migKey, version);
+    }
+  } catch (e) {}
+})();
+</script>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>

@@ -1,7 +1,22 @@
 site_name: PollenID
 site_url: https://marcory-hub.github.io/pollenID/
+extra:
+  # Verhoog deze waarde om bij iedereen opnieuw de standaard (eerste palette) af te dwingen.
+  palette_migration: "2026-03-21-dark-default"
+
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    # Eerste schema = standaard bij eerste bezoek (donker)
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Schakel naar licht thema
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Schakel naar donker thema
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -11,7 +26,16 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - toc.integrate
+    - navigation.top
+    # - toc.integrate
+
+plugins:
+  - search:
+      lang: nl
+  - tags:
+      tags_file: tags.md
+
+
 
 extra_css:
   - stylesheets/extra.css
@@ -29,3 +53,4 @@ nav:
       - Geschiedenis: achtergrond-informatie/geschiedenis.md
       - Terminologie: achtergrond-informatie/terminologie.md
       - Bronnen: achtergrond-informatie/bronnen.md
+  - Tags: tags.md
