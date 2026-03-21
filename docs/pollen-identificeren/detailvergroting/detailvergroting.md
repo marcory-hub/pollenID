@@ -25,19 +25,19 @@ Of schat de diameter aan de hand van pollen met een bekende diameter.
 ### Vijf klassen
 **Sawyer** gebruikt hiervoor 5 groepen en gebruikt Corylus (hazelaar) pollen als referentie.
 
-1. Zeer klein: < 20 μm (<1 × Corylus)
+1. Zeer klein: &lt; 20 μm (&lt;1 × Corylus)
 2. Klein: 20–30 μm (1 × Corylus)
-3. Middel: 30–50 μm (>1 × Corylus)
+3. Middel: 30–50 μm (&gt;1 × Corylus)
 4. Groot: 50–100 μm (2 × Corylus)
-5. Zeer groot: > 100 μm (4 × Corylus)
+5. Zeer groot: &gt; 100 μm (4 × Corylus)
 
 **Beug** gebruikt andere afkappunten voor zeer klein, klein en middel.
 
-1. Zeer klein: < 15 μm
+1. Zeer klein: &lt; 15 μm
 2. Klein: 15 tot 25 μm
 3. Middel: 26 tot 50 μm
 4. Groot: 51 tot 100 μm
-5. Zeer groot: > 100 μm
+5. Zeer groot: &gt; 100 μm
 
 ### Drie klassen
 1. Klein: Wilg ([Salix](https://pollenx.eu/species.php?species=Salix_alba)) - veelvoorkomend, 19-25 μm
