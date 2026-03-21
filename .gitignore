@@ -1,0 +1,37 @@
+# Secrets / credentials
+credentials*.md
+
+# Editor / IDE
+.vscode/
+.history/
+
+# Python & envs
+.venv/
+__pycache__/
+__main__.py
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumesIcon.icns
+.com.apple.timemachine.donotpresent
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# MkDocs build directory
+site/
+
+# Search index and temporary build files
+.cache/
+.mkdocs_build/
+.history/
