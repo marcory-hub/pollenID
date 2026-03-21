@@ -1,0 +1,31 @@
+site_name: PollenID
+site_url: https://marcory-hub.github.io/pollenID/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Overzichtsvergroting:
+      - 10× vergroting: overzichtsvergroting/overzichtsvergroting(10x).md
+  - Detailvergroting:
+      - 40× vergroting: detailvergroting/detailvergroting(40x).md
+  - Monoflorale honing:
+      - Lindehoning: monoflorale-honing/lindehoning.md
+      - Koolzaadhoning: monoflorale-honing/koolzaadhoning.md
+  - Achtergrond informatie:
+      - Geschiedenis: achtergrond-informatie/geschiedenis.md
+      - Terminologie: achtergrond-informatie/terminologie.md
+      - Bronnen: achtergrond-informatie/bronnen.md
