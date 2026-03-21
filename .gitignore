@@ -5,6 +5,10 @@ credentials*.md
 .vscode/
 .history/
 
+# Cursor rules
+.cursor/
+!.cursor/rules/
+
 # Python & envs
 .venv/
 __pycache__/
@@ -35,3 +39,4 @@ site/
 .cache/
 .mkdocs_build/
 .history/
+
