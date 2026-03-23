@@ -43,6 +43,12 @@ nav:
       - overzichtsvergroting: pollen-identificeren/overzichtsvergroting/overzichtsvergroting.md
       - detailvergroting: pollen-identificeren/detailvergroting/detailvergroting.md
 
+  - Artificiële pollen-test:
+      - Snelle pollen: artificiele-pollen-test/snelle-pollen.md
+      - Verschillende pollen: artificiele-pollen-test/verschillende-pollen.md
+      - Lastige pollen: artificiele-pollen-test/lastige-pollen.md
+      - Pollen hints: artificiele-pollen-test/pollen-hints.md
+
   - Honing:
       - Veelvoorkomende soorten in honing:
           - Criteria voor monoflorale honing: monoflorale-honing/criteria-monoflorale-honing.md
@@ -83,7 +89,7 @@ nav:
           - Fabaceae (klavers, wikken, robinia, rolklaver, esparcette): determinatie/families-in-nederlandse-honing/fabaceae.md
           - Brassicaceae (koolzaad, mosterd, herik): determinatie/families-in-nederlandse-honing/brassicaceae.md
           - Rosaceae (Prunus, Rubus, Cotoneaster, Spiraea, Filipendula, appel/peer, rozen): determinatie/families-in-nederlandse-honing/rosaceae.md
-          - Oleaceae (liguster, es): determinatie/families-in-nederlandse-honing/oleaceae.md
+          - Oleaceae (liguster): determinatie/families-in-nederlandse-honing/oleaceae.md
           - Malvaceae (linde): determinatie/families-in-nederlandse-honing/malvaceae.md
           - Sapindaceae (paardenkastanje, esdoorn): determinatie/families-in-nederlandse-honing/sapindaceae.md
           - Fagaceae (tamme kastanje, eik): determinatie/families-in-nederlandse-honing/fagaceae.md
