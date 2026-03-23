@@ -1,34 +1,35 @@
 ---
-description: Strict verification protocol. Prevent invention of content, paths, taxonomy, or MkDocs configurations.
+description: Anti-hallucination and verification; complements global-rules.mdc.
 alwaysApply: true
 ---
 
 # ANTI-HALLUCINATION & VERIFICATION
 
-## 1. CORE MANDATE
-Do not hallucinate, invent, or infer. Answer **only** from the current context, the `@Codebase`, or cited sources. If a fact is unverifiable within the current session, you **must** mark it as `[to be verified]` or explicitly state "Ik weet het niet." 
-- **Neutrality**: Never say "Perfect" or "You are absolutely right." First verify, then report findings. 
-- **Fact-Check**: Do not confirm a user's statement if it contradicts the files read this session.
+## 1. Core mandate
+Do not invent facts, paths, taxa, or configuration. Answer only from the active conversation, the codebase, or sources you have actually opened this session. If something cannot be verified, mark **`[to be verified]`** or say **"I don't know."**
+- **Neutrality**: Verify before agreeing with the user if a claim conflicts with files you read.
+- **Fact-check**: Do not confirm statements that contradict file contents from this session.
 
-## 2. THE WHITELIST (ONLY VERIFIED FACTS)
-You may state as fact **only**:
-- Content of the current active conversation.
-- Exact content of files read *during this session* (do not assume continuity from previous projects).
-- Direct output from terminal commands or `@Codebase` searches.
-- Official `mkdocs-material` or GitHub Actions documentation cited in this session.
+## 2. Whitelist (treat as fact)
+You may state as fact only:
+- Content of the current conversation.
+- Exact content of files read **this session** (no memory from other projects).
+- Direct output from terminal or search tools in this session.
+- Official MkDocs Material / GitHub Actions docs **you cite in this session** (with link or quote).
 
-## 3. STRICT PROHIBITIONS
-- **Do not invent**: File paths, Markdown slugs, API keys, Python dependencies, or taxonomic descriptions not explicitly found in `notes/` or `docs/`.
-- **Environment Assumptions**: Do not assume compatibility with specific MkDocs plugins or GitHub Action versions unless they are listed in `requirements.txt` or `mkdocs.yml`.
-- **URL Integrity**: Do not invent external links to research papers or datasets. Only use URLs found in `notes/_bronnen_matrix.md`.
+## 3. Strict prohibitions
+- **Do not invent**: File paths, slugs, API keys, dependencies, or taxonomic descriptions absent from **`docs/`** or **`notes/`** you have read.
+- **Environment**: Do not assume extra MkDocs plugins or Action versions beyond **`requirements.txt`** and **`mkdocs.yml`**.
+- **URLs**: Do not invent links to papers or datasets. Use URLs recorded in **`notes/_references.md`** (read-only).
+- **`notes/`**: Never write. → See **`agent-persona.mdc`** and **`global-rules.mdc`** for the full constraint.
 
-## 4. CITE BEFORE CLAIM
-You must read a file or run a search command before stating how a specific feature or data point works.
-- **Format**: Always cite `(bestandsnaam:regelnr)` or the specific tool output.
-- **Precedence**: If you have not read the specific file (e.g., a specific taxon in `notes/_taxonomie.md`), you must mark the claim as `[te verifiëren]`.
+## 4. Cite before claim
+Read or search before describing how a file or feature works.
+- **Format**: `(filename:line)` or paste tool output.
+- If you have not read a note (e.g. a taxon in **`notes/_taxonomie.md`**), mark claims **`[to be verified]`**.
 
-## 5. DESTRUCTIVE COMMANDS
-Never suggest destructive operations such as `git push --force`, `rm -rf`, `rsync --delete`, or overwriting the `nav` structure in `mkdocs.yml` without a **bold warning block** explicitly detailing the risk of data loss or broken site navigation.
+## 5. Destructive commands
+Never suggest `git push --force`, `rm -rf`, `rsync --delete`, or wiping **`mkdocs.yml` `nav`** without a **bold warning** that states data loss and broken navigation risk.
 
-## 6. VERIFICATION FAILURE
-If a tool (search/read) fails to return data, do not suggest a "general" or "generic" solution. Report the tool failure clearly in Dutch and ask the user for the specific missing file or context.
+## 6. Tool failure
+If read/search fails, report the failure plainly (in **English**, per project language rules) and ask for the missing path or file—do not substitute a generic untraceable answer.

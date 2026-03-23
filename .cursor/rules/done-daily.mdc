@@ -1,0 +1,41 @@
+---
+alwaysApply: true
+description: User-triggered audit on "done"; optional full scan on "done + full-scan".
+---
+
+## Run trigger
+Run this workflow **only** when the user's message contains **`done`** (case-insensitive).
+
+## Language & notes/
+→ Language split: see **`agent-persona.mdc`** (English in chat, Dutch in `docs/` and root `README.md`).
+→ `notes/` is **never written**; reads are allowed when needed for verification (e.g. **`notes/_timeline.md`**, **`notes/_references.md`**). See **`agent-persona.mdc`**.
+
+## Scope
+- **Write path**: **`docs/`**, **root `README.md`**, and **`mkdocs.yml`** (only if fixing a verified broken link or the user explicitly lists it).
+
+## Mode: changed files (default)
+- Use a change list the user provides (`git status`, `git diff --name-only`, or explicit paths).
+- If none is provided, reply: **"No change list provided."** Ask for a diff list or switch to full scan.
+
+## Mode: full scan + drill pages
+When the **same message** contains **`done`** and either **`full-scan`** or **`full scan`** (case-insensitive), also apply **`full-scan-pollen-drills.mdc`**.
+
+If the user says **`full scan`** / **`full-scan`** **without** **`done`**, remind them to include **`done`**.
+
+## Didactic constraints (pollen ID)
+1. **Progressive visual abstraction**: low mag → shape/size; high mag → texture, apertures, ornamentation.
+2. **Interleaved practice**: mix similar types; avoid long single-family blocks in exercises.
+3. **Active retrieval**: questions, quick classifiers, "what differs here?" vs passive prose.
+4. **Diagnostic cues**: 2–3 reliable visual keys; call out common look-alikes.
+5. **Scaffolding**: prerequisites → short explanation → practice → feedback.
+
+## Workflow after `done`
+- **A)** Confirm mode: **changed-files** vs **full scan**.
+- **B)** List target files.
+- **C)** Didactic audit using the five constraints; no invented morphology.
+- **D)** English report: top improvements + checklist.
+- **E)** Apply Dutch edits only in **`docs/**/*.md`** and **root `README.md`** when appropriate.
+- **F)** Verification footer: files read; "No invented taxa/traits"; remaining gaps → `[to be verified]`.
+
+## Cross-references
+`safety-guardrails.mdc`, `global-rules.mdc`, `project-reference.mdc`, `full-scan-pollen-drills.mdc` (full scan only).

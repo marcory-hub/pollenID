@@ -1,34 +1,33 @@
 ---
-description: Boundary definition between .cursor/rules and project notes; prevents duplication and rule-bloat.
+description: Boundary between .cursor/rules and notes/; keeps rules short and avoids duplication.
 alwaysApply: true
 ---
 
-# Rules vs Notes (Scope & Hygiene)
+# Rules vs notes (scope & hygiene)
 
-## Core Principle: The .mdc Hierarchy
-1. **The Actor**: `agent-persona.mdc` - Who the agent is (Senior Academic Mentor) and How it speaks (Dutch, no emojis).
-2. **The Law**: `global-rules.mdc` - Standards for MkDocs, GitHub, and formatting.
-3. **The Map**: `project-context.mdc` - The "GPS" that points to the Publication Roadmap and SoT Matrix.
-4. **The Guardrails**: `safety-guardrails.mdc` - The "Zero-Trust" mandate that marks guesses as `[to be verified]`.
-5. **Hygiene**: This file - The boundary between Rules and Notes.
+## Rule stack (use in this order)
+1. **Actor**: `agent-persona.mdc` — tone, logic-first opener, **English** agent output, **Dutch** in `docs/` and root **`README.md`**.
+2. **Law**: `global-rules.mdc` — editing protocol, language split, MkDocs/GitHub hygiene, **no writes to `notes/`**.
+3. **Map**: `project-context.mdc` — SoT files (`_timeline.md`, `_references.md`), pipeline, directories.
+4. **Guardrails**: `safety-guardrails.mdc` — verification, URLs, no invention.
+5. **Workflows**: `done-daily.mdc` — trigger **`done`**; **`full-scan-pollen-drills.mdc`** — same message must include **`done`** + (**`full-scan`** or **`full scan`**) (see applicability block there).
+6. **Hygiene**: This file.
 
-## Boundary between Rules and Notes
-- **Rules (.mdc)** define the **How** (The Process); instructions that never change regardless of the topic.
-- **Notes (.md)** define the **What** and the **Now** (The Project Memory). They contain taxonomic data, publication schedules, and research findings.
+## Boundary
+- **Rules (`.mdc`)**: Stable *how* — process, triggers, safety.
+- **Notes (`notes/*.md`)**: *What* and *now* — data, bibliography, timeline, taxonomy. **Agent never edits these files.**
 
-## Add to .cursor/rules when:
-- **Recurring Instructions**: Mandatory protocols (e.g., Dutch language requirement, academic tone, citation format).
-- **Hard Guardrails**: "Do Not Suggest" items (e.g., changing slugs, large unoptimized images).
-- **Navigational Triggers**: What to do when the user says "I'm starting a new chapter" or "Sync the notes."
-- **Source of Truth Mapping**: Canonical "Where to read" lists for specific domains (Taxonomy, MkDocs config, Citations).
+## When to add a rule
+- Repeating procedures, hard "do not" lines, or triggers (e.g. `done`, `full-scan`).
+- Never paste large tables from notes into rules; **point to the note path**.
 
-## Put in Notes (notes/ directory) when:
-- **Project Data**: Pollen counts, morphological descriptions, and taxonomic comparison tables.
-- **Publication History**: Draft versions, feedback logs, and GitHub deployment history.
-- **Background Info**: Research methodology, bibliography, and raw data files.
-- **Dynamic Content**: Anything that changes weekly (e.g., `_publicatie_schema.md`).
+## When to use notes
+- Pollen data, morphology tables, publication history, methodology, evolving task lists (**`notes/_timeline.md`**).
 
-## Rule Hygiene:
-- **No Duplication**: Never duplicate a table or list from a note into a rule. Point to the file path instead.
-- **Maintenance**: If a rule is superseded by a more specific note (e.g., a new naming convention in `_project_layout.md`), the rule must be updated to point to that note immediately.
-- **Obsidian Sync**: Remember that notes are primary authored in Obsidian; rules are the instructions for the Agent on how to interpret those notes.
+## Hygiene
+- **No duplication** of SoT tables from notes; link paths instead.
+- If a note supersedes a rule, update the rule to reference the note.
+- **Obsidian** is the sole editor for `notes/` content; the agent only **reads** when needed.
+
+## Dynamic content example
+Task logs and sprint lines belong in **`notes/_timeline.md`**, not in new standalone log files.

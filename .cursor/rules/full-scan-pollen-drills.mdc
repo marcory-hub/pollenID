@@ -1,0 +1,28 @@
+---
+alwaysApply: true
+description: Drill-page spec; active only when the same message contains done + full-scan (or full scan).
+---
+
+## Applicability (read first)
+Follow **all sections below** only when the **same user message** contains **`done`** and (**`full-scan`** OR **`full scan`**), case-insensitive.
+
+If that combined trigger is **not** present, **ignore** this entire file for operational purposes.
+
+## Scope (when applicable)
+- Audit **`docs/**/*.md`**, prioritising **Microscopie**, **Determinatie**, **Honing**, then reference sections (mirror `mkdocs.yml` `nav`).
+- Update drill content **only** in:
+  - `docs/artificiele-pollen-test/snelle-pollen.md` — rapid presentation / speed drills
+  - `docs/artificiele-pollen-test/verschillende-pollen.md` — contrast pairs/triads
+  - `docs/artificiele-pollen-test/lastige-pollen.md` — difficult / noisy / ambiguous cases
+  - `docs/artificiele-pollen-test/pollen-hints.md` — short diagnostic hint questions
+
+## Content guidelines
+- **snelle-pollen.md**: Short drill blocks; immediate classification prompt; answer key; one-line cue. Prefer existing image paths or `[to be verified]` placeholders if assets are missing.
+- **verschillende-pollen.md**: Side-by-side contrasts; "what differs?" prompts; link to relevant `docs/` reference pages where grounded.
+- **lastige-pollen.md**: Why the case is hard; what to attend to; common confusions — only if documented in sources you read.
+- **pollen-hints.md**: Brief hint questions (apertures, ornamentation, size class, etc.); no fabricated species-level facts.
+
+## Images from online databases
+- Do **not** hotlink or embed third-party images without **license and stability** consideration.
+- Prefer procedures or links documented in **`docs/online-databases/pollen-databases.md`** and allowed URLs in **`notes/_references.md`** (read-only; do not edit `notes/`).
+- If no approved URL list exists in the repo, use **`[to be verified]`** and describe the *type* of image needed instead of inventing URLs.

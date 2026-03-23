@@ -1,29 +1,29 @@
 ---
-description: Do-not-suggest list and "done" procedure pointer. Project data lives in notes.
+description: Completion prompts and pointers to internal notes.
 alwaysApply: true
 ---
 
-# Mandatory Procedures:
-- **Completion**: After every task, ask the user to update the central log in `notes/_publicatie_schema.md`. Do not create new standalone log notes; direct the user to add a line to the appropriate `_*.md` index. 
-- **Workflow**: Notes are authored in Obsidian; sync to the repo is handled by the user via `notes/_cli_commands.md`.
-- **Source of Truth (SoT)**: Notes with "SoT: Yes" at the top are considered verified. All other notes must be regarded as `[to be verified]`.
-- **Scientific Integrity**: For any taxonomic change, prompt the user to verify against `notes/_taxonomie.md`.
+# Mandatory procedures
+- **Completion**: After substantive tasks, ask the user to add a line to **`notes/_timeline.md`** (central log). Do not create separate ad-hoc log files. **Do not** edit **`notes/`** yourself — the user updates Obsidian.
+- **Workflow**: Notes are edited in Obsidian; sync is the user's responsibility (`notes/_cli_commands.md` if present).
+- **Source of truth**: Notes tagged **SoT: Yes** at the top are treated as verified; all others are `[to be verified]`.
+- **Taxonomy**: For taxonomic changes, prompt verification against **`notes/_taxonomie.md`** (user reads/edits that file).
 
-## Do Not Suggest (Hard Guardrails)
+## Do not suggest (hard guardrails)
 
-### Project & Documentation Hygiene:
-- **Standalone Logs**: Do not create new standalone log notes. All progress must be integrated into `notes/_publicatie_schema.md`.
-- **Placeholders**: Do not create pages or notes consisting only of "paste content here" or empty sections.
-- **Direct Root Files**: Never suggest creating new files in the root directory (except for `mkdocs.yml` or `.cursorrules`).
-- **Redundant Plugins**: Do not suggest installing new MkDocs plugins without checking if existing `mkdocs-material` features (like `extra.social` or `admonitions`) already cover the requirement.
+### Project & documentation hygiene
+- **Standalone logs**: No new random log files; use **`notes/_timeline.md`** (user-maintained).
+- **Empty placeholders**: Do not ship pages that are only "paste content here" without structure.
+- **Root clutter**: No new root files except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.).
+- **Redundant plugins**: Check **`mkdocs.yml`** and Material built-ins before proposing new MkDocs plugins.
 
-### Technical & Publication Constraints:
-- **Broken Slugs**: Do not suggest changing file names (slugs) of existing pages in `docs/` without a mandatory warning about broken internal links and SEO impact.
-- **Large Assets**: Do not suggest embedding high-resolution images (> 2MB) directly in the `docs/` folder without mentioning optimization or external hosting, to keep the GitHub Pages build light.
-- **Hardcoded Nav**: Do not suggest manually editing the `nav` section in `mkdocs.yml` for every small change; first check if "awesome-pages" or another auto-generation plugin is active.
-- **Public/Private Mix**: Never suggest moving raw research data from `notes/` to `docs/` unless the user explicitly asks to "publish" that specific data.
+### Technical & publication
+- **Slugs**: Renaming existing `docs/` pages requires an explicit **broken-links / SEO** warning and a small migration plan.
+- **Large assets**: Avoid embedding very large images in `docs/` without noting optimization or external hosting.
+- **Hardcoded nav**: This project uses explicit `nav` in **`mkdocs.yml`**; do not suggest bulk manual nav edits for every tiny page—prefer batching and link checks.
+- **Public/private**: Do not move raw research data from `notes/` to `docs/` unless the user explicitly asks to publish that material.
 
-### Palynology & UI Standards:
-- **Non-Standard Terms**: Do not suggest non-standard palynological terminology. Refer to `notes/_bronnen_matrix.md` for the preferred nomenclature.
-- **Emoji Usage**: Strictly forbidden in all documentation and AI responses as per Global Rules.
-- **Mobile Unfriendly**: Do not suggest complex tables or wide diagrams that break the Material for MkDocs mobile responsiveness.
+### Palynology & UI
+- **Terminology**: Prefer standard palynological terms; align with **`notes/_references.md`** when it lists preferred wording or sources.
+- **No emojis** in docs or agent output (see global rules).
+- **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).
