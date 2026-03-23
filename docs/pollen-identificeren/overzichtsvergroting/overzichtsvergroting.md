@@ -1,4 +1,4 @@
-# 10x objectief
+# Overzichtsvergroting
 Omdat pollen zich niet aan alfabetische lijsten of determinatietabellen houden, is de eerste indruk bij een lage vergroting (10x) bepalend voor de rest van je onderzoek.
 
 1. **De Kwaliteit van het Preparaat**
@@ -23,10 +23,10 @@ Let op 'vreemde eenden in de bijt'. De aanwezigheid van exotische pollen (bijv. 
 4. **Niet-pollen elementen**
 Niet alles wat je ziet is een pollenkorrel. Gebruik eventueel polarisatie om te zoeken naar:
 
-Honingdauw-indicatoren: Resten van schimmels of algen die wijzen op honing van bomen (woudhoning).
+**Honingdauw-indicatoren**: Resten van schimmels of algen die wijzen op honing van bomen (woudhoning).
 
-Verontreiniging: Let op de aanwezigheid van zetmeelkorrels, roetdeeltjes of microplastics.
+**Verontreiniging**: Let op de aanwezigheid van zetmeelkorrels, roetdeeltjes of microplastics.
 
-Kristallen: Suikerkristallen of calciumoxalaat (vaak naaldvormig).
+**Kristallen**: Suikerkristallen of calciumoxalaat (vaak naaldvormig).
 
-Bijenharen: Kenmerkend door hun vertakte structuur (geveerd).
+**Bijenharen**: Kenmerkend door hun vertakte structuur (geveerd).

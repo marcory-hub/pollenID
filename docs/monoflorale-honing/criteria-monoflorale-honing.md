@@ -1,0 +1,30 @@
+13.3 Monoflorale honing herkennen
+  - Wat is monoflorale honing?
+  - Criteria: minimaal 45% van één plantensoort
+  - Pollen per 10 gram honing
+- 13.4 Nederlandse Monoflorale Honingsoorten
+  - **Koolzaadhoning (Brassica napus)**
+    - Minimaal 60% koolzaadpollen nodig
+    - Karakteristiek: bolvormig, grof netwerk, tricolpaat
+    - Veel pollen: 75.000-150.000 pollen per 10g honing
+    - Begeleidende pollen: Prunus, Salix, Taraxacum
+  - **Lindehoning (Tilia)**
+    - Minimaal 20% lindepollen nodig (Groep I: ondervertegenwoordigd)
+    - Karakteristiek: grof reticulaat, foveolaat, kristalvorming
+    - Weinig pollen: minder dan 20.000 pollen per 10g honing
+    - Begeleidende pollen: Trifolium repens, Brassica napus, Ligustrum
+  - **Heidehoning (Calluna vulgaris)**
+    - Karakteristiek: tetraden (vier korrels bij elkaar), verrucaat
+    - Begeleidende pollen: Trifolium repens, Erica tetralix, Fagopyrum
+    - Thixotropietest voor bevestiging
+  - **Klaverhoning (Trifolium repens)**
+    - Karakteristiek: fijn reticulaat, tricolporaat, langwerpig
+    - Veelvoorkomend in Nederlandse honing
+  - **Phaceliahoning (Phacelia tanacetifolia)**
+    - Karakteristiek: psilaat (glad), heterocolpaat
+  - **Distelhoning (Cirsium)**
+    - Karakteristiek: echinaat (stekels), Asteraceae
+    - Groep I: ondervertegenwoordigd
+  - **Andere monoflorale honingen:**
+    - Boragehoning
+    - Lamsoorhoning (Limonium vulgare) - Terschelling
