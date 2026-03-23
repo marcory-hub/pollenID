@@ -1,0 +1,29 @@
+---
+description: Do-not-suggest list and "done" procedure pointer. Project data lives in notes.
+alwaysApply: true
+---
+
+# Mandatory Procedures:
+- **Completion**: After every task, ask the user to update the central log in `notes/_publicatie_schema.md`. Do not create new standalone log notes; direct the user to add a line to the appropriate `_*.md` index. 
+- **Workflow**: Notes are authored in Obsidian; sync to the repo is handled by the user via `notes/_cli_commands.md`.
+- **Source of Truth (SoT)**: Notes with "SoT: Yes" at the top are considered verified. All other notes must be regarded as `[to be verified]`.
+- **Scientific Integrity**: For any taxonomic change, prompt the user to verify against `notes/_taxonomie.md`.
+
+## Do Not Suggest (Hard Guardrails)
+
+### Project & Documentation Hygiene:
+- **Standalone Logs**: Do not create new standalone log notes. All progress must be integrated into `notes/_publicatie_schema.md`.
+- **Placeholders**: Do not create pages or notes consisting only of "paste content here" or empty sections.
+- **Direct Root Files**: Never suggest creating new files in the root directory (except for `mkdocs.yml` or `.cursorrules`).
+- **Redundant Plugins**: Do not suggest installing new MkDocs plugins without checking if existing `mkdocs-material` features (like `extra.social` or `admonitions`) already cover the requirement.
+
+### Technical & Publication Constraints:
+- **Broken Slugs**: Do not suggest changing file names (slugs) of existing pages in `docs/` without a mandatory warning about broken internal links and SEO impact.
+- **Large Assets**: Do not suggest embedding high-resolution images (> 2MB) directly in the `docs/` folder without mentioning optimization or external hosting, to keep the GitHub Pages build light.
+- **Hardcoded Nav**: Do not suggest manually editing the `nav` section in `mkdocs.yml` for every small change; first check if "awesome-pages" or another auto-generation plugin is active.
+- **Public/Private Mix**: Never suggest moving raw research data from `notes/` to `docs/` unless the user explicitly asks to "publish" that specific data.
+
+### Palynology & UI Standards:
+- **Non-Standard Terms**: Do not suggest non-standard palynological terminology. Refer to `notes/_bronnen_matrix.md` for the preferred nomenclature.
+- **Emoji Usage**: Strictly forbidden in all documentation and AI responses as per Global Rules.
+- **Mobile Unfriendly**: Do not suggest complex tables or wide diagrams that break the Material for MkDocs mobile responsiveness.

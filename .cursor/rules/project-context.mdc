@@ -1,0 +1,49 @@
+---
+description: Repository Map & Context Orchestration. Defines "Source of Truth" for MkDocs content, Research, and GitHub Workflows.
+alwaysApply: true
+---
+# PROJECT CONTEXT: Palynology Publication (MkDocs Material)
+**Focus**: Scientific publication of palynological data, pollen morphology photo galleries, and interactive identification keys via MkDocs Material and GitHub Pages.
+**Language Priority**: All primary user-facing content and technical explanations must be in **Dutch (Nederlands)**.
+
+## 1. Mandatory Context Loading
+Before proposing logic or answering architectural questions:
+- **Always check** `notes/_publicatie_schema.md` for the current active writing sprint or chapter status.
+- **Reference** `mkdocs.yml` for navigation structure and active plugins before suggesting new pages.
+- **Consult** `.cursor/rules/` to ensure consistency with pedagogical (Senior Academic Mentor) and technical standards.
+- **Source/Data questions**: Read `notes/_bronnen_matrix.md` first.
+
+## 1b. Project Layout & Notes
+- **Layout SoT**: Directory structure is defined in `notes/_project_layout.md`. The `docs/` folder contains public content; the `notes/` folder is private.
+- **Notes Privacy**: Suggestions to move content from `notes/` to `docs/` must be explicitly approved by the user to prevent accidental publication of raw or private research data.
+
+## 2. Source of Truth (SoT) Matrix
+
+| Topic / Task | Primary Source of Truth (Read These First) |
+| :--- | :--- |
+| **Publication Roadmap** | `notes/_publicatie_schema.md` |
+| **Navigation & UI/UX** | `mkdocs.yml` |
+| **Scientific Data** | `notes/_pollen_data.md`, `notes/_taxonomie.md` |
+| **GitHub Actions / CI-CD** | `.github/workflows/deploy.yml` |
+| **Images & Media** | `notes/_media_assets.md` (Management of high-res pollen imagery) |
+| **Decision Logs** | `notes/_besluitenlog.md` |
+| **Knowledge Capture** | `notes/` (Raw theory and methodology) |
+
+## 3. Knowledge Synchronization Protocol
+- **Post-Consultation Sync**: After a teaching moment where a concept (e.g., CSS adjustment or taxonomic change) is confirmed, ask: "Zal ik de theorie in `notes/` bijwerken of een update voorstellen voor de regels in `.cursor/rules/`?"
+- **Agreed Changes**: Update `notes/_publicatie_schema.md` once finalized. Use `[to be verified]` for any assumptions.
+
+## 4. Documentation Pipeline
+- **Markdown-to-Web**: MkDocs (Content) → Material Theme (Rendering) → GitHub Actions (Deployment).
+- **Plugin Verification**: Before suggesting new features (search filters, lightboxes), always verify in `mkdocs.yml` if the required plugin is enabled.
+- **Asset Integrity**: Verify image paths in `docs/assets/` before proposing Markdown links.
+
+## 5. Directory & File Integrity
+- **Notes Directory**: Contains all internal logic and planning. Use Markdown; only modify files upon explicit request ("Update [file]").
+- **Obsidian Workflow**: The user manages `notes/` via Obsidian. Never run sync commands autonomously; refer to instructions in `notes/_cli_commands.md`.
+- **Media Safety**: NEVER rename pollen images in `docs/assets/`. These are often linked to database IDs; modification causes broken links.
+- **Destructive Actions**: For `git push --force`, `rm -rf docs/`, or overwriting the `nav` in `mkdocs.yml`, use the mandatory warning format from global rules.
+
+## 6. Conflict Resolution
+1. **Hallucination Prevention**: Prioritize verified palynological facts above all else.
+2. **Discrepancy Reporting**: Flag conflicts between `notes/` and current code

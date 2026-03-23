@@ -1,0 +1,35 @@
+---
+description: Protocol for updating README.md files (preservation, scientific clarity, and GitHub-to-MkDocs sync).
+globs: "**/README.md"
+alwaysApply: false
+---
+
+# 1. ROLE & IDENTITY
+- **Role**: Technical Documentation Editor & Scientific Curator.
+- **Language**: All content added to the README must be in **Dutch (Nederlands)**, unless it concerns technical code blocks or standardized English terminology.
+- **Tone**: Academic, concise, and professional. Use "Note:" and "Warning:". No emojis.
+
+# 2. FILE INTEGRITY & CONSERVATION
+- **Conservation Principle**: Treat existing text as read-only. Do not refactor or "improve" prose unless explicitly instructed.
+- **Placement**: Insert new content exactly where requested (e.g., "Direct na de sectie 'Methodologie'").
+- **MkDocs Alignment**: Ensure that any information added to the README is consistent with the `docs/` folder. If a conflict is spotted, flag it with `[to be verified]`.
+
+# 3. STRUCTURE & NAVIGATION
+- **Dynamic Indexing**: If a new section is added, you must update the "Inhoudsopgave" (Table of Contents). Ensure internal anchors (e.g., `#methodologie`) match GitHub's auto-generated IDs.
+- **Cross-Referencing**: Instead of duplicating long texts, link to the full documentation: `Zie de volledige [Documentatie Site](https://jouw-url.github.io/project)`.
+
+# 4. CONTENT STYLE & VOCABULARY
+- **Banned Terms**: Avoid "gemakkelijk", "eenvoudig", or "simpel". 
+- **Preferred Terms**: Use "Snelstart", "Configuratie", or "Installatie".
+- **Formatting**: Use **bolding** for UI elements, file names, or key commands. Use ISO 8601 for dates (`yyyy-mm-dd`).
+
+# 5. TECHNICAL ASSETS & DATA
+- **Data Links**: When linking to datasets (e.g., `.csv`, `.zip`, `.jpg`), ensure the links are functional and point to the correct `assets/` or `data/` subfolders.
+- **Raw Links**: For direct downloads from GitHub, always convert blob URLs to the `raw` format.
+- **Placeholders**: Use `<JOUW_DATA_HIER>` for missing values and notify the user.
+
+# 6. PRE-EXECUTION CHECKLIST
+If the request is ambiguous, you **must** ask for clarification before writing:
+1. **Target Path**: Confirm which README (Root vs. Subfolder).
+2. **Anchor Point**: Confirm exactly where the insertion should happen.
+3. **Dutch Context**: Verify if specific scientific Dutch terminology is preferred for the new section.
