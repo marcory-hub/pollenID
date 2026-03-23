@@ -6,7 +6,8 @@ credentials*.md
 .history/
 
 # Cursor rules
-.cursor/
+.cursor/*
+!.cursor/rules/
 !.cursor/rules/*
 
 
