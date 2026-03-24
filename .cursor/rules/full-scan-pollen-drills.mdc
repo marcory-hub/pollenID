@@ -11,16 +11,16 @@ If that combined trigger is **not** present, **ignore** this entire file for ope
 ## Scope (when applicable)
 - Audit **`docs/**/*.md`**, prioritising **Microscopie**, **Determinatie**, **Honing**, then reference sections (mirror `mkdocs.yml` `nav`).
 - Update drill content **only** in:
-  - `docs/artificiele-pollen-test/snelle-pollen.md` — rapid presentation / speed drills
-  - `docs/artificiele-pollen-test/verschillende-pollen.md` — contrast pairs/triads
-  - `docs/artificiele-pollen-test/lastige-pollen.md` — difficult / noisy / ambiguous cases
-  - `docs/artificiele-pollen-test/pollen-hints.md` — short diagnostic hint questions
+ - `docs/determinatie-training/instapherkenning.md` — rapid presentation / speed drills
+ - `docs/determinatie-training/vergelijkende-determinatie.md` — contrast pairs/triads
+ - `docs/determinatie-training/complexe-casus.md` — difficult / noisy / ambiguous cases
+ - `docs/determinatie-training/diagnostische-hints.md` — short diagnostic hint questions
 
 ## Content guidelines
-- **snelle-pollen.md**: Short drill blocks; immediate classification prompt; answer key; one-line cue. Prefer existing image paths or `[to be verified]` placeholders if assets are missing.
-- **verschillende-pollen.md**: Side-by-side contrasts; "what differs?" prompts; link to relevant `docs/` reference pages where grounded.
-- **lastige-pollen.md**: Why the case is hard; what to attend to; common confusions — only if documented in sources you read.
-- **pollen-hints.md**: Brief hint questions (apertures, ornamentation, size class, etc.); no fabricated species-level facts.
+- **instapherkenning.md**: Short drill blocks; immediate classification prompt; answer key; one-line cue. Prefer existing image paths or `[to be verified]` placeholders if assets are missing.
+- **vergelijkende-determinatie.md**: Side-by-side contrasts; "what differs?" prompts; link to relevant `docs/` reference pages where grounded.
+- **complexe-casus.md**: Why the case is hard; what to attend to; common confusions — only if documented in sources you read.
+- **diagnostische-hints.md**: Brief hint questions (apertures, ornamentation, size class, etc.); no fabricated species-level facts.
 
 ## Images from online databases
 - Do **not** hotlink or embed third-party images without **license and stability** consideration.

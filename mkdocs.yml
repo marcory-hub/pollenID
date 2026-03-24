@@ -43,11 +43,11 @@ nav:
       - overzichtsvergroting: pollen-identificeren/overzichtsvergroting/overzichtsvergroting.md
       - detailvergroting: pollen-identificeren/detailvergroting/detailvergroting.md
 
-  - Artificiële pollen-test:
-      - Snelle pollen: artificiele-pollen-test/snelle-pollen.md
-      - Verschillende pollen: artificiele-pollen-test/verschillende-pollen.md
-      - Lastige pollen: artificiele-pollen-test/lastige-pollen.md
-      - Pollen hints: artificiele-pollen-test/pollen-hints.md
+  - Determinatie-training:
+      - Instapherkenning: determinatie-training/instapherkenning.md
+      - Vergelijkende determinatie: determinatie-training/vergelijkende-determinatie.md
+      - Complexe casus: determinatie-training/complexe-casus.md
+      - Diagnostische hints: determinatie-training/diagnostische-hints.md
 
   - Honing:
       - Veelvoorkomende soorten in honing:
