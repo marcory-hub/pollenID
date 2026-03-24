@@ -1,0 +1,31 @@
+# Chamerion angustifolium
+
+## Identificatienotities
+
+**Status:** [to be verified]
+
+Automatisch aangemaakt op basis van een endpoint-vermelding in de van der Ham sleutel.
+
+## Praktische determinatie
+
+- Bevestig met vergelijkingspagina's en preparaatcontext.
+- Verifieer taxon-naar-bestandskoppeling handmatig.
+
+## Pollentabel-logica (van der Ham)
+
+Canoniek beslispad in de sleutel voor dit pollen(type):
+
+- `PK met 3 equatoriale pori (triporaat) -> pori groot - duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)`
+
+## Drachtplantgegevens (Imkerpedia)
+
+- Latijnse naam: *Chamerion angustifolium*
+- Nederlandse naam (Imkerpedia): Wilgenroosje
+- Voorkomen: vast
+- Stuifmeelkleur: Blauwgrijs
+- Nectarwaarde: N 5
+- Pollenwaarde: P 5
+- SB: 7
+- EB: 9
+- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+

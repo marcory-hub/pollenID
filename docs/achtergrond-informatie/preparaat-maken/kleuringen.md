@@ -1,1 +1,0 @@
-Fuchsine kleuring

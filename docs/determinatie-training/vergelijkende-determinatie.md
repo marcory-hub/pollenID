@@ -1,2 +1,0 @@
-# Vergelijkende determinatie
-

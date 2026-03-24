@@ -1,6 +1,6 @@
 ---
 alwaysApply: true
-description: User-triggered audit on "done"; optional full scan on "done + full-scan".
+description: User-triggered audit on "done" with folder-placement and vergelijkende checks.
 ---
 
 ## Run trigger
@@ -15,12 +15,7 @@ Run this workflow **only** when the user's message contains **`done`** (case-ins
 
 ## Mode: changed files (default)
 - Use a change list the user provides (`git status`, `git diff --name-only`, or explicit paths).
-- If none is provided, reply: **"No change list provided."** Ask for a diff list or switch to full scan.
-
-## Mode: full scan + drill pages
-When the **same message** contains **`done`** and either **`full-scan`** or **`full scan`** (case-insensitive), also apply **`full-scan-pollen-drills.mdc`**.
-
-If the user says **`full scan`** / **`full-scan`** **without** **`done`**, remind them to include **`done`**.
+- If none is provided, reply: **"No change list provided."** Ask for a diff list or explicit target paths.
 
 ## Didactic constraints (pollen ID)
 1. **Progressive visual abstraction**: low mag → shape/size; high mag → texture, apertures, ornamentation.
@@ -30,12 +25,20 @@ If the user says **`full scan`** / **`full-scan`** **without** **`done`**, remin
 5. **Scaffolding**: prerequisites → short explanation → practice → feedback.
 
 ## Workflow after `done`
-- **A)** Confirm mode: **changed-files** vs **full scan**.
-- **B)** List target files.
-- **C)** Didactic audit using the five constraints; no invented morphology.
-- **D)** English report: top improvements + checklist.
-- **E)** Apply Dutch edits only in **`docs/**/*.md`** and **root `README.md`** when appropriate.
-- **F)** Verification footer: files read; "No invented taxa/traits"; remaining gaps → `[to be verified]`.
+- **A)** Confirm scope from user change list or explicit paths.
+- **B)** List target files and classify each pollen file by intended folder:
+  - `docs/pollen-determineren/begin-determinatie/`
+  - `docs/pollen-determineren/uitdagende-determinatie/`
+  - `docs/pollen-determineren/vergelijkende-determinatie/`
+- **C)** Enforce folder logic:
+  - **Exclusive sets**: `begin-determinatie` and `uitdagende-determinatie` are mutually exclusive for pollen files.
+  - **Allowed overlap**: `vergelijkende-determinatie` may include pollen that also exist in begin/uitdagende.
+  - **Look-a-like rule**: `vergelijkende-determinatie` should contain look-a-like comparisons and related files.
+- **D)** Check if new files can be added to `vergelijkende-determinatie` based on look-a-like relevance.
+- **E)** Didactic audit using the five constraints; no invented morphology.
+- **F)** English report: placement fixes + candidate additions for `vergelijkende-determinatie`.
+- **G)** Apply Dutch edits only in **`docs/**/*.md`** and **root `README.md`** when appropriate.
+- **H)** Verification footer: files read; "No invented taxa/traits"; remaining gaps → `[to be verified]`.
 
 ## Cross-references
-`safety-guardrails.mdc`, `global-rules.mdc`, `project-reference.mdc`, `full-scan-pollen-drills.mdc` (full scan only).
+`safety-guardrails.mdc`, `global-rules.mdc`, `project-reference.mdc`.

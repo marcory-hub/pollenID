@@ -1,5 +1,11 @@
 site_name: PollenID
 site_url: https://marcory-hub.github.io/pollenID/
+
+# Backlog staat bewust op naslag/raw-documenten-overzicht.md (script), niet in de console-log.
+validation:
+  nav:
+    omitted_files: ignore
+
 extra:
   palette_migration: "2026-03-21-dark-default"
 
@@ -39,124 +45,46 @@ extra_css:
 nav:
   - Home: index.md
 
-  - Microscopie:
-      - overzichtsvergroting: pollen-identificeren/overzichtsvergroting/overzichtsvergroting.md
-      - detailvergroting: pollen-identificeren/detailvergroting/detailvergroting.md
+  - RAW:
+      - Documentenoverzicht: naslag/raw-documenten-overzicht.md
 
-  - Determinatie-training:
-      - Instapherkenning: determinatie-training/instapherkenning.md
-      - Vergelijkende determinatie: determinatie-training/vergelijkende-determinatie.md
-      - Complexe casus: determinatie-training/complexe-casus.md
-      - Diagnostische hints: determinatie-training/diagnostische-hints.md
+  - microscopie:
+      - overzichtvergroting: pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md
+      - detailvergroting: pollen-determineren/verdiepingset-herkenning/detailvergroting.md
 
-  - Honing:
-      - Veelvoorkomende soorten in honing:
-          - Criteria voor monoflorale honing: monoflorale-honing/criteria-monoflorale-honing.md
-          - Regionaal en inheems:
-              - Linde: monoflorale-honing/lindehoning.md
-              - Koolzaad: monoflorale-honing/koolzaadhoning.md
-              - Heide (struikhei): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/heidehoning.md
-              - Impatiens (balsemien): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/impatienshoning.md
-              - Wilg: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/wilghoning.md
-              - Phacelia: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/phaceliahoning.md
-              - Witte klaver: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/witte-klaverhoning.md
-              - Rode klaver: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/rode-klaverhoning.md
-              - Rolklaver: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/rolklaverhoning.md
-              - Liguster: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/ligusterhoning.md
-              - Valse acacia: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/valse-acacia.md
-              - Boekweit: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/boekweithoning.md
-              - Zonnebloem: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/zonnebloemhoning.md
-              - Paardenbloem: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/paardenbloemhoning.md
-              - Braam (rubus type): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/braamhoning.md
-              - Paardenkastanje: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/paardenkastanjehoning.md
-              - Tamme kastanje: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/tamme-kastanje.md
-              - Meidoorn: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/meidoornhoning.md
-              - Voorjaarsbomen (fruitboomgaard type): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/voorjaarsbomen-fruit-type.md
-          - Import en gangbaar in de handel:
-              - Acacia (robinia): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/acacia-robinia.md
-              - Tamme kastanje: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/tamme-kastanje.md
-              - Sinaasappel (citrus): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/sinaasappel-citrus.md
-              - Eucalyptus: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/eucalyptus.md
-              - Lavendel: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/lavendel.md
-              - Tijm: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/tijm.md
-              - Alfalfa (luzerne): determinatie/veelvoorkomende-soorten-in-honing/monofloraal/alfalfa-luzerne.md
-              - Manuka: determinatie/veelvoorkomende-soorten-in-honing/monofloraal/manuka.md
+  - pollen determineren:
+      - kernset: kernset.md
+      - vergelijken: pollen-vergelijkingen.md
+      - verdiepingsset: verdieping.md
+      - Pollen-Wiki (verdieping):
+          - Bestimmungshulp pollenklassen: pollen-determineren/verdiepingset-herkenning/bestimmungshulp-pollenklassen.md
+          - Pollenkalender interpretatie: pollen-determineren/verdiepingset-herkenning/pollenkalender-interpretatie.md
+          - Gattung-prioritering: pollen-determineren/verdiepingset-herkenning/gattung-prioritering.md
 
-  - Determinatie: 
-      - Families herkennen: determinatie/families-herkennen.md
-      - Families in Nederlandse honing:
-          - Salicaceae (wilg, popelier): determinatie/families-in-nederlandse-honing/salicaceae.md
-          - Fabaceae (klavers, wikken, robinia, rolklaver, esparcette): determinatie/families-in-nederlandse-honing/fabaceae.md
-          - Brassicaceae (koolzaad, mosterd, herik): determinatie/families-in-nederlandse-honing/brassicaceae.md
-          - Rosaceae (Prunus, Rubus, Cotoneaster, Spiraea, Filipendula, appel/peer, rozen): determinatie/families-in-nederlandse-honing/rosaceae.md
-          - Oleaceae (liguster): determinatie/families-in-nederlandse-honing/oleaceae.md
-          - Malvaceae (linde): determinatie/families-in-nederlandse-honing/malvaceae.md
-          - Sapindaceae (paardenkastanje, esdoorn): determinatie/families-in-nederlandse-honing/sapindaceae.md
-          - Fagaceae (tamme kastanje, eik): determinatie/families-in-nederlandse-honing/fagaceae.md
-          - Rhamnaceae (vuilboom / Frangula): determinatie/families-in-nederlandse-honing/rhamnaceae.md
-          - Ericaceae (struikheide, dophei, bosbes, rhododendron): determinatie/families-in-nederlandse-honing/ericaceae.md
-          - Asteraceae (paardenbloem, distels, composieten, zonnebloem): determinatie/families-in-nederlandse-honing/asteraceae.md
-          - Poaceae (grassen; o.a. mais): determinatie/families-in-nederlandse-honing/poaceae.md
-          - Apiaceae (fluitenkruid, berenklauw): determinatie/families-in-nederlandse-honing/apiaceae.md
-          - Polygonaceae (zuring, boekweit, duizendknopen): determinatie/families-in-nederlandse-honing/polygonaceae.md
-          - Lamiaceae (lipbloemen / Labiateae): determinatie/families-in-nederlandse-honing/lamiaceae.md
-          - Cucurbitaceae (heggenrank, komkommer): determinatie/families-in-nederlandse-honing/cucurbitaceae.md
-          - Boraginaceae (o.a. hondstong, slangenkruid, Phacelia): determinatie/families-in-nederlandse-honing/boraginaceae.md
-          - Amaryllidaceae (o.a. look, ui): determinatie/families-in-nederlandse-honing/amaryllidaceae.md
-          - Asparagaceae (voorjaarsmonocotenen; o.a. bollen zoals Muscari): determinatie/families-in-nederlandse-honing/asparagaceae.md
-          - Plantaginaceae (weegbree): determinatie/families-in-nederlandse-honing/plantaginaceae.md
-          - Onagraceae (wilgenroosje): determinatie/families-in-nederlandse-honing/onagraceae.md
-          - Violaceae: determinatie/families-in-nederlandse-honing/violaceae.md
-          - Campanulaceae: determinatie/families-in-nederlandse-honing/campanulaceae.md
-          - Caryophyllaceae: determinatie/families-in-nederlandse-honing/caryophyllaceae.md
-          - Papaveraceae: determinatie/families-in-nederlandse-honing/papaveraceae.md
-          - Amaranthaceae (Chenopodium-achtigen): determinatie/families-in-nederlandse-honing/amaranthaceae.md
-          - Ranunculaceae: determinatie/families-in-nederlandse-honing/ranunculaceae.md
-          - Adoxaceae (vlier): determinatie/families-in-nederlandse-honing/adoxaceae.md
-          - Hypericaceae (Sint-Janskruid): determinatie/families-in-nederlandse-honing/hypericaceae.md
-          - Caprifoliaceae (kaardenbol, sneeuwbes, kamperfoelie, valeriaan): determinatie/families-in-nederlandse-honing/caprifoliaceae.md
-          - Pinaceae: determinatie/families-in-nederlandse-honing/pinaceae.md
-          - Plumbaginaceae (lamsoor / Limonium): determinatie/families-in-nederlandse-honing/plumbaginaceae.md
-          - Magnoliaceae: determinatie/families-in-nederlandse-honing/magnoliaceae.md
-          - Berberidaceae: determinatie/families-in-nederlandse-honing/berberidaceae.md
-      - Onderscheiden van pollen die op elkaar lijken:
-          - Overzicht: determinatie/look-a-likes.md
-          - Acer vs Prunus/Pyrus (fruitbloesem type): determinatie/look-a-likes/acer-prunus-pyrus.md
-          - Fraxinus vs Salix; kanttekening Cruciferae (olie, net): determinatie/look-a-likes/fraxinus-salix-cruciferae.md
-          - Schermbloemen (Umbelliferae) vs Vicia type: determinatie/look-a-likes/umbelliferae-vicia.md
-          - Papilionaceae vs Rosaceae (o.a. Ulex type, Rubus, Prunus/Pyrus): determinatie/look-a-likes/papilionaceae-rosaceae.md
-          - Papaveraceae vs Ranunculaceae (korrelig oppervlak): determinatie/look-a-likes/papaveraceae-ranunculaceae.md
-          - Polygonaceae (Polygonum type, Fagopyrum, Rumex type): determinatie/look-a-likes/polygonaceae-polygonum-fagopyrum-rumex.md
-          - Frangula vs Rhamnus; vergelijkbare Myrtaceae (Eucalyptus): determinatie/look-a-likes/frangula-rhamnus-myrtaceae.md
-          - Sambucus vs Filipendula (kleine net-korrels): determinatie/look-a-likes/sambucus-filipendula.md
-          - Myosotis vs Cynoglossum (klein, vergelijkbaar): determinatie/look-a-likes/myosotis-cynoglossum.md
-          - Chenopodium vs Beta (ganzenvoet-familie): determinatie/look-a-likes/chenopodium-beta.md
-          - Melilotus vs Trifolium repens: determinatie/look-a-likes/melilotus-trifolium-repens.md
-          - Amaryllidaceae vs Liliaceae (o.a. Allium, Muscari): determinatie/look-a-likes/amaryllidaceae-liliaceae.md
-          - Myrica gale vs Corylus (gagel vs hazelaar): determinatie/look-a-likes/myrica-corylus.md
-          - Corylus vs Carpinus (poriën-uitstulpingen): determinatie/look-a-likes/corylus-carpinus.md
-          - Betulaceae vs Corylaceae (berk/els vs hazelaar/haagbeuk): determinatie/look-a-likes/betulaceae-corylaceae.md
-          - Saxifraga vs Teucrium (kap/streep op groef): determinatie/look-a-likes/saxifraga-teucrium.md
-          - Reseda vs Ranunculaceae / Papaveraceae: determinatie/look-a-likes/reseda-ranunculaceae-papaveraceae.md
-          - Valeriana vs Dipsaceae (rand, halo, oppervlak): determinatie/look-a-likes/valeriana-dipsaceae.md
-
-  - Analyse en rapportage:
-      - Monstername en rapportage: toepassing/monstername-en-rapportage.md
-      - Kwaliteit en fraude (overzicht): toepassing/kwaliteit-en-fraude.md
-
-  - Achtergrond informatie:
-      - Doel van pollenanalyse: achtergrond-informatie/doel-pollen-analyse.md
-      - Terminologie en morfologie: achtergrond-informatie/terminologie.md
-      - Pollen uit honing halen: achtergrond-informatie/preparaat-maken/pollen-uit-honing-halen.md
-      - Kleuringen: achtergrond-informatie/preparaat-maken/kleuringen.md
-      - Insluitmiddelen: achtergrond-informatie/preparaat-maken/glycerine-gelatine-insluitmiddel.md
-      - Microscopie en fotografie: achtergrond-informatie/microscoop/microscopie-fotografie.md
-      - Geschiedenis: achtergrond-informatie/geschiedenis.md
-
-  - Naslag:
+  - naslag:
       - Cursussen en materiaal: naslag/cursussen-en-materiaal.md
       - Boeken en handleidingen: naslag/boeken-en-handleidingen.md
-      - Databases (online): online-databases/pollen-databases.md
+      - Bestimmungshulp en categorieën: naslag/bestimmungshulp-en-categorieen.md
+      - Beug sleutelgebruik en morfometrie: naslag/beug-sleutelgebruik-en-morfometrie.md
+      - Beug poaceae fasecontrast: naslag/beug-poaceae-fasecontrast.md
+      - Verzamelkalender pollen: naslag/verzamelkalender-pollen.md
+      - Databases (online): naslag/pollen-databases.md
+      - Veelvoorkomende geslachten (gattung): naslag/veelvoorkomende-gattungen.md
+      - Doel van pollenanalyse: naslag/doel-pollen-analyse.md
+      - Monoflorale honing: naslag/monoflorale-honing.md
+      - Terminologie en morfologie: naslag/terminologie.md
+      - Fægri en Iversen (determinatiesleutel): naslag/faegri-iversen-determinatiesleutel.md
+      - Fægri en Iversen (terminologie): naslag/faegri-iversen-terminologie.md
+      - Families herkennen: naslag/families-herkennen.md
+      - Pollen uit honing halen: naslag/preparaat-maken/pollen-uit-honing-halen.md
+      - Kleuringen: naslag/preparaat-maken/kleuringen.md
+      - Insluitmiddelen: naslag/preparaat-maken/glycerine-gelatine-insluitmiddel.md
+      - Microscoopgebruik: naslag/microscoop/gebruik-microscoop.md
+      - Microscopie en fotografie: naslag/microscoop/microscopie-fotografie.md
+      - Wat noteren bij pollenobservatie: naslag/wat-noteren-bij-pollenobservatie.md
+      - Geschiedenis: naslag/geschiedenis.md
       - Instituten en organisaties: naslag/instituten-en-organisaties.md
+      - Warting en beheer: naslag/warting-en-beheer.md
+      - Tags: tags.md
 
-  - Tags: tags.md
+
