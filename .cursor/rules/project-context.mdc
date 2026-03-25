@@ -12,13 +12,13 @@ alwaysApply: true
 
 ## 1. Mandatory context loading
 Before architectural or roadmap answers:
-- Read **`notes/_timeline.md`** for the active writing sprint, tasks, and milestones (if present).
+- Read **`notes/_timeline_pid.md`** for the active writing sprint, tasks, and milestones (if present).
 - Read **`mkdocs.yml`** for `nav`, theme features, and enabled plugins before suggesting structural changes.
-- For **sources, URLs, and preferred terminology**, read **`notes/_references.md`** first when available.
-- Cross-check **`.cursor/rules/`** for workflow triggers: **`done`**; **`done`** + **`full-scan`** / **`full scan`**.
+- For **sources, URLs, and preferred terminology**, read **`notes/_references_pid.md`** first when available.
+- Cross-check **`.cursor/rules/`** for workflow triggers: **`done`**
 
 ## 1b. Layout & privacy
-- **Layout SoT**: `notes/_project_layout.md` (if present).
+- **Layout SoT**: `notes/_project_layout_pid.md` (if present).
 - **`docs/`**: Public site content.
 - **`notes/`**: Private / internal; do not move content to `docs/` without explicit approval.
 
@@ -26,8 +26,8 @@ Before architectural or roadmap answers:
 
 | Topic / task | Read first |
 | :--- | :--- |
-| **Timeline / sprint / tasks** | `notes/_timeline.md` |
-| **References, URLs, nomenclature pointers** | `notes/_references.md` |
+| **Timeline / sprint / tasks** | `notes/_timeline_pid.md` |
+| **References, URLs, nomenclature pointers** | `notes/_references_pid.md` |
 | **Navigation & UI** | `mkdocs.yml` |
 | **CI/CD** | `.github/workflows/deploy.yml` |
 | **Knowledge capture** | `notes/` (general) |

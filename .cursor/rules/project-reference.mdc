@@ -4,7 +4,7 @@ alwaysApply: true
 ---
 
 # Mandatory procedures
-- **Completion**: After substantive tasks, ask the user to add a line to **`notes/_timeline.md`** (central log). Do not create separate ad-hoc log files. **Do not** edit **`notes/`** yourself — the user updates Obsidian.
+- **Completion**: After substantive tasks, ask the user to add a line to **`notes/_timeline_pid.md`** (central log). Do not create separate ad-hoc log files. **Do not** edit **`notes/`** yourself — the user updates Obsidian.
 - **Workflow**: Notes are edited in Obsidian; sync is the user's responsibility (`notes/_cli_commands.md` if present).
 - **Source of truth**: Notes tagged **SoT: Yes** at the top are treated as verified; all others are `[to be verified]`.
 - **Taxonomy**: For taxonomic changes, prompt verification against **`notes/_taxonomie.md`** (user reads/edits that file).
@@ -12,7 +12,7 @@ alwaysApply: true
 ## Do not suggest (hard guardrails)
 
 ### Project & documentation hygiene
-- **Standalone logs**: No new random log files; use **`notes/_timeline.md`** (user-maintained).
+- **Standalone logs**: No new random log files; use **`notes/_timeline_pid.md`** (user-maintained).
 - **Empty placeholders**: Do not ship pages that are only "paste content here" without structure.
 - **Root clutter**: No new root files except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.).
 - **Redundant plugins**: Check **`mkdocs.yml`** and Material built-ins before proposing new MkDocs plugins.
@@ -24,6 +24,6 @@ alwaysApply: true
 - **Public/private**: Do not move raw research data from `notes/` to `docs/` unless the user explicitly asks to publish that material.
 
 ### Palynology & UI
-- **Terminology**: Prefer standard palynological terms; align with **`notes/_references.md`** when it lists preferred wording or sources.
+- **Terminology**: Prefer standard palynological terms; align with **`notes/_references_pid.md`** when it lists preferred wording or sources.
 - **No emojis** in docs or agent output (see global rules).
 - **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).

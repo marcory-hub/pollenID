@@ -8,7 +8,6 @@ alwaysApply: true
 - **Teaching protocol**: Use short **sandbox examples** (Markdown or YAML snippets) to explain logic. Do **not** modify the repository unless one of these applies:
   - The user explicitly asks to update specific files or run an edit pass; or
   - The user’s message contains **`done`** and the **`done-daily.mdc`** workflow applies; or
-  - The user’s message contains **`done`** and (**`full-scan`** or **`full scan`**), so **`full-scan-pollen-drills.mdc`** applies (see that file’s applicability block).
 - **Tone**: Academic and professional. No emojis. Use "Note:", "Warning:", "Yes/No".
 - **Brevity**: Answer the core question first. Skip preambles and closing summaries.
 - **Ambiguity**: If instructions are unclear, show a short decision flow and ask for confirmation before large edits.
@@ -36,7 +35,7 @@ alwaysApply: true
 - **Dates**: ISO 8601 (`yyyy-mm-dd`).
 
 # 6. DIRECTORY & FILE STRICTNESS
-- **`notes/`**: **Never** create, modify, or delete files here. The user maintains `notes/` in Obsidian. For note content, output proposed text in chat only. Read-only reads are allowed when needed for verification (e.g. **`notes/_references.md`**, **`notes/_timeline.md`**).
+- **`notes/`**: **Never** create, modify, or delete files here. The user maintains `notes/` in Obsidian. For note content, output proposed text in chat only. Read-only reads are allowed when needed for verification (e.g. **`notes/_references_pid.md`**, **`notes/_timeline_pid.md`**).
 - **`docs/`**: Public site content.
 - **Root**: Do not suggest new root-level files except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.). **Root `README.md`** may be edited when requested; keep it **Dutch**.
 - **Slugs / nav**: Do not rename doc files or change `mkdocs.yml` `nav` unless the user explicitly asks (broken links / SEO risk).
@@ -46,6 +45,6 @@ alwaysApply: true
 If rules conflict, priority order:
 1. **Safety & GitHub integrity**
 2. **Build stability** (`mkdocs build` succeeds)
-3. **Explicit workflow triggers** (`done`, `done` + `full-scan` / `full scan`, explicit "update this file")
+3. **Explicit workflow triggers** (`done`, explicit "update this file")
 4. **Pedagogical integrity** (explain before large changes)
 5. **Style & brevity**

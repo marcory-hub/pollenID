@@ -8,9 +8,9 @@ alwaysApply: true
 ## Rule stack (use in this order)
 1. **Actor**: `agent-persona.mdc` — tone, logic-first opener, **English** agent output, **Dutch** in `docs/` and root **`README.md`**.
 2. **Law**: `global-rules.mdc` — editing protocol, language split, MkDocs/GitHub hygiene, **no writes to `notes/`**.
-3. **Map**: `project-context.mdc` — SoT files (`_timeline.md`, `_references.md`), pipeline, directories.
+3. **Map**: `project-context.mdc` — SoT files (`_timeline_pid.md`, `_references_pid.md`), pipeline, directories.
 4. **Guardrails**: `safety-guardrails.mdc` — verification, URLs, no invention.
-5. **Workflows**: `done-daily.mdc` — trigger **`done`**; **`full-scan-pollen-drills.mdc`** — same message must include **`done`** + (**`full-scan`** or **`full scan`**) (see applicability block there).
+5. **Workflows**: `done-daily.mdc` — trigger **`done`**; 
 6. **Hygiene**: This file.
 
 ## Boundary
@@ -18,11 +18,11 @@ alwaysApply: true
 - **Notes (`notes/*.md`)**: *What* and *now* — data, bibliography, timeline, taxonomy. **Agent never edits these files.**
 
 ## When to add a rule
-- Repeating procedures, hard "do not" lines, or triggers (e.g. `done`, `full-scan`).
+- Repeating procedures, hard "do not" lines, or triggers (e.g. `done`).
 - Never paste large tables from notes into rules; **point to the note path**.
 
 ## When to use notes
-- Pollen data, morphology tables, publication history, methodology, evolving task lists (**`notes/_timeline.md`**).
+- Pollen data, morphology tables, publication history, methodology, evolving task lists (**`notes/_timeline_pid.md`**).
 
 ## Hygiene
 - **No duplication** of SoT tables from notes; link paths instead.
@@ -30,4 +30,4 @@ alwaysApply: true
 - **Obsidian** is the sole editor for `notes/` content; the agent only **reads** when needed.
 
 ## Dynamic content example
-Task logs and sprint lines belong in **`notes/_timeline.md`**, not in new standalone log files.
+Task logs and sprint lines belong in **`notes/_timeline_pid.md`**, not in new standalone log files.
