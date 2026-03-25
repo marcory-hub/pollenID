@@ -1,8 +1,8 @@
-# Families in Nederlandse honing (uitdagend)
+# Families in Nederlandse honing (verdiepingset-herkenning)
 
-Deze pagina bevat alle families uit `docs/determinatie/families-in-nederlandse-honing/` die niet als familiebestand in `docs/pollen-determineren/begin-determinatie/` staan.
+Deze pagina bevat het overzicht van familiepagina’s voor Nederlandse honing binnen **verdiepingset-herkenning**; waar een familiebestand in **kernset-herkenning** bestaat, linkt de lijst daarnaartoe.
 
-## Families voor uitdagende determinatie
+## Families voor verdiepingset-herkenning
 
 - [Adoxaceae](./adoxaceae.md)
 - [Amaranthaceae](./amaranthaceae.md)

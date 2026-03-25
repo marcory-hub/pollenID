@@ -1,12 +1,12 @@
-# Uitdagende determinatie
+# Verdiepingset-herkenning
 
-Deze set bevat alle overige pollen uit de prioriteitenlijst die niet in de instapherkenning zitten.
+Deze set bevat alle overige pollen uit de prioriteitenlijst die niet in de **kernset** (`kernset-herkenning`) zitten.
 
 ## Families
 
-De families die niet in `begin-determinatie` staan, zijn geplaatst in:
+De families die niet in **kernset-herkenning** staan, zijn geplaatst in:
 
-- `docs/pollen-determineren/uitdagende-determinatie/families-in-nederlandse-honing.md`
+- `docs/pollen-determineren/verdiepingset-herkenning/families-in-nederlandse-honing.md`
 
 ## Overige prioriteitspollen
 
@@ -75,7 +75,7 @@ De families die niet in `begin-determinatie` staan, zijn geplaatst in:
 
 ## Herkomst selectie
 
-- `notes/pollenID/prio pollen.md` minus de kernset van `instapherkenning.md`
+- `notes/pollenID/prio pollen.md` minus de kernset van [`kernset.md`](../../kernset.md)
 
 ## Pollentabel-logica (van der Ham)
 

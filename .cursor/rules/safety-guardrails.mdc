@@ -20,7 +20,7 @@ You may state as fact only:
 ## 3. Strict prohibitions
 - **Do not invent**: File paths, slugs, API keys, dependencies, or taxonomic descriptions absent from **`docs/`** or **`notes/`** you have read.
 - **Environment**: Do not assume extra MkDocs plugins or Action versions beyond **`requirements.txt`** and **`mkdocs.yml`**.
-- **URLs**: Do not invent links to papers or datasets. Use URLs recorded in **`notes/_references_pid.md`** (read-only).
+- **URLs**: Do not invent links to papers or datasets. Use URLs recorded in **`notes/pollenID/_references_pid.md`** (read-only).
 - **`notes/`**: Never write. → See **`agent-persona.mdc`** and **`global-rules.mdc`** for the full constraint.
 
 ## 4. Cite before claim

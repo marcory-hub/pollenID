@@ -8,7 +8,7 @@ alwaysApply: true
 ## Rule stack (use in this order)
 1. **Actor**: `agent-persona.mdc` — tone, logic-first opener, **English** agent output, **Dutch** in `docs/` and root **`README.md`**.
 2. **Law**: `global-rules.mdc` — editing protocol, language split, MkDocs/GitHub hygiene, **no writes to `notes/`**.
-3. **Map**: `project-context.mdc` — SoT files (`_timeline_pid.md`, `_references_pid.md`), pipeline, directories.
+3. **Map**: `project-context.mdc` — SoT files (`notes/pollenID/_timeline_pid.md`, `notes/pollenID/_references_pid.md`), pipeline, directories.
 4. **Guardrails**: `safety-guardrails.mdc` — verification, URLs, no invention.
 5. **Workflows**: `done-daily.mdc` — trigger **`done`**; 
 6. **Hygiene**: This file.
@@ -22,7 +22,7 @@ alwaysApply: true
 - Never paste large tables from notes into rules; **point to the note path**.
 
 ## When to use notes
-- Pollen data, morphology tables, publication history, methodology, evolving task lists (**`notes/_timeline_pid.md`**).
+- Pollen data, morphology tables, publication history, methodology, evolving task lists (**`notes/pollenID/_timeline_pid.md`**).
 
 ## Hygiene
 - **No duplication** of SoT tables from notes; link paths instead.
@@ -30,4 +30,4 @@ alwaysApply: true
 - **Obsidian** is the sole editor for `notes/` content; the agent only **reads** when needed.
 
 ## Dynamic content example
-Task logs and sprint lines belong in **`notes/_timeline_pid.md`**, not in new standalone log files.
+Task logs and sprint lines belong in **`notes/pollenID/_timeline_pid.md`**, not in new standalone log files.

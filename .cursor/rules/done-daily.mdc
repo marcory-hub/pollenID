@@ -8,10 +8,13 @@ Run this workflow **only** when the user's message contains **`done`** (case-ins
 
 ## Language & notes/
 → Language split: see **`agent-persona.mdc`** (English in chat, Dutch in `docs/` and root `README.md`).
-→ `notes/` is **never written**; reads are allowed when needed for verification (e.g. **`notes/_timeline.md`**, **`notes/_references.md`**). See **`agent-persona.mdc`**.
+→ `notes/` is **never written**; reads are allowed when needed for verification (e.g. **`notes/pollenID/_timeline_pid.md`**, **`notes/pollenID/_references_pid.md`**). See **`agent-persona.mdc`**.
 
 ## Scope
 - **Write path**: **`docs/`**, **root `README.md`**, and **`mkdocs.yml`** (only if fixing a verified broken link or the user explicitly lists it).
+
+## Kernset vs verdiepingset (placement SoT)
+Before classifying or moving pollen pages, read **`docs/kernset.md`** and **`notes/pollenID/prio pollen.md`**. **Kernset** (beginner / instap): taxa and routes listed there (monoflorale honing en overige veel in honing geziene pollen) plus the priority list in `prio pollen.md`. **Verdiepingsset** (expert): overige determinatiepagina’s; see also **`docs/pollen-determineren/verdiepingset-herkenning/verdiepingsset.md`**.
 
 ## Mode: changed files (default)
 - Use a change list the user provides (`git status`, `git diff --name-only`, or explicit paths).
@@ -27,16 +30,16 @@ Run this workflow **only** when the user's message contains **`done`** (case-ins
 ## Workflow after `done`
 - **A)** Confirm scope from user change list or explicit paths.
 - **B)** List target files and classify each pollen file by intended folder:
-  - `docs/pollen-determineren/begin-determinatie/`
-  - `docs/pollen-determineren/uitdagende-determinatie/`
-  - `docs/pollen-determineren/vergelijkende-determinatie/`
+  - **`docs/pollen-determineren/kernset-herkenning/`** (kernset)
+  - **`docs/pollen-determineren/verdiepingset-herkenning/`** (verdiepingsset)
+  - **`docs/pollen-determineren/pollen-vergelijkingen/`** (look-a-like / vergelijkende pagina’s)
 - **C)** Enforce folder logic:
-  - **Exclusive sets**: `begin-determinatie` and `uitdagende-determinatie` are mutually exclusive for pollen files.
-  - **Allowed overlap**: `vergelijkende-determinatie` may include pollen that also exist in begin/uitdagende.
-  - **Look-a-like rule**: `vergelijkende-determinatie` should contain look-a-like comparisons and related files.
-- **D)** Check if new files can be added to `vergelijkende-determinatie` based on look-a-like relevance.
+  - **Exclusive sets**: `kernset-herkenning` and `verdiepingset-herkenning` are mutually exclusive for a given species-level pollen page (each page lives in one set).
+  - **Allowed overlap**: `pollen-vergelijkingen` may reference or compare taxa that also have pages in kernset or verdiepingset.
+  - **Look-a-like rule**: `pollen-vergelijkingen` should contain side-by-side or explicit “wat verschilt hier?” vergelijkingen, not standalone species sheets.
+- **D)** Check if new files can be added to `pollen-vergelijkingen` based on look-a-like relevance.
 - **E)** Didactic audit using the five constraints; no invented morphology.
-- **F)** English report: placement fixes + candidate additions for `vergelijkende-determinatie`.
+- **F)** English report: placement fixes + candidate additions for `pollen-vergelijkingen`.
 - **G)** Apply Dutch edits only in **`docs/**/*.md`** and **root `README.md`** when appropriate.
 - **H)** Verification footer: files read; "No invented taxa/traits"; remaining gaps → `[to be verified]`.
 
