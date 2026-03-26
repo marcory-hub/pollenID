@@ -35,6 +35,7 @@ alwaysApply: true
 - **Dates**: ISO 8601 (`yyyy-mm-dd`).
 
 # 6. DIRECTORY & FILE STRICTNESS
+- IMPORTANT: check **mkdocs.yml** after each task and respond with current mkdocs.yml is up to date
 - **`notes/`**: **Never** create, modify, or delete files here. The user maintains `notes/` in Obsidian. For note content, output proposed text in chat only. Read-only reads are allowed when needed for verification (e.g. **`notes/pollenID/_references_pid.md`**, **`notes/pollenID/_timeline_pid.md`**).
 - **`docs/`**: Public site content.
 - **Root**: Do not suggest new root-level clutter except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.), **root `README.md`**, and task-scoped helpers under **`scripts/`**. **Root `README.md`** may be edited when requested; keep it **Dutch**.

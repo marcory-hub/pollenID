@@ -4,9 +4,10 @@ Praktische ingang voor **melissopalynologie**: pollen in honing herkennen en det
 
 ## Inhoud
 
-- [Kernset](kernset.md) voor de eerste herkenning op type- en familieniveau.
-- [Vliegroute](vliegroute.md) voor korte oefenrondes met hetzelfde observatieformat.
 - [Microscopie](pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md) voor de volgorde van 10x naar 40x.
-- [Vergelijkingen](pollen-vergelijkingen.md) als twee of meer look-a-likes overblijven.
+- [Kernset-monoflorale honing](pollen-pages/kernset-monoflorale-honing.md) voor monoflorale honingtypes.
+- [Kernset-nederlandse pollen](pollen-pages/kernset-nederlandse-pollen.md) voor de prio-lijst buiten monofloraal.
+- [Vliegroute](pollen-pages/vliegroute.md) voor korte oefenrondes met hetzelfde observatieformat.
+- [Vergelijkingen](pollen-pages/pollen-vergelijkingen.md) als twee of meer look-a-likes overblijven.
 - [Verdieping](verdieping.md) voor specialistische verschillen en soortniveau.
 

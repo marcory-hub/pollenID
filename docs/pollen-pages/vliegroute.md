@@ -2,9 +2,10 @@
 
 ## Waar begin je?
 
-- [Overzichtsvergroting](pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md)
-- [Detailvergroting](pollen-determineren/verdiepingset-herkenning/detailvergroting.md)
-- [Kernset](kernset.md)
+- [Overzichtsvergroting](../pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md)
+- [Detailvergroting](../pollen-determineren/verdiepingset-herkenning/detailvergroting.md)
+- [Kernset-monoflorale honing](kernset-monoflorale-honing.md)
+- [Kernset-nederlandse pollen](kernset-nederlandse-pollen.md)
 - [Vergelijkingen](pollen-vergelijkingen.md)
 
 ## Oefenblok (vast format)

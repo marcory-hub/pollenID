@@ -44,18 +44,15 @@ extra_css:
 
 nav:
   - Home: index.md
-  - vliegroute: vliegroute.md
-
-  - RAW:
-      - Documentenoverzicht: naslag/raw-documenten-overzicht.md
-
   - microscopie:
       - overzichtvergroting: pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md
       - detailvergroting: pollen-determineren/verdiepingset-herkenning/detailvergroting.md
+  - vliegroute: pollen-pages/vliegroute.md
 
   - pollen determineren:
-      - kernset: kernset.md
-      - vergelijken: pollen-vergelijkingen.md
+      - kernset-monoflorale honing: pollen-pages/kernset-monoflorale-honing.md
+      - kernset-nederlandse pollen: pollen-pages/kernset-nederlandse-pollen.md
+      - vergelijken: pollen-pages/pollen-vergelijkingen.md
       - verdiepingsset: verdieping.md
       - Pollen-Wiki (verdieping):
           - Bestimmungshulp pollenklassen: pollen-determineren/verdiepingset-herkenning/bestimmungshulp-pollenklassen.md
