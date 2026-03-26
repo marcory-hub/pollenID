@@ -1,24 +1,12 @@
 # PollenID
 
-Praktische uitleg voor **melissopalynologie**: pollen in honing herkennen en determineren, met nadruk op **microscopische analyse van honing** in de praktijk. Een vertaling van de informatie uit online databases, artikelen en naslagwerken naar de praktijk.
+Praktische ingang voor **melissopalynologie**: pollen in honing herkennen en determineren via een vaste volgorde van kijken, vergelijken en verdiepen.
 
-## Organisatie van de documentatie
+## Inhoud
 
-  - **microscopie**
-      - overzichtvergroting
-      - detailvergroting
-
-  - **pollen determineren**
-      - kernset
-      - vergelijken
-      - verdiepingsset
-
-  - **naslag**
-
-## Zo gebruik je deze site
-
-1. Begin bij **Microscopie werkwijze** om te benoemen wat er op overzichtsvergroting- en detail vergroting te zien is zonder directe determinatie.
-2. Ga daarna naar **Kernset** voor bouw herkenning van veel voorkomende pollen in honing.
-3. Gebruik **Vergelijkende-determinatie** als het pollen voorkomt in de lijst van look-a-likes.
-4. **Verdiepingsset-herkenning** bevat voor moeilijkere en specialistische verschillen.
+- [Kernset](kernset.md) voor de eerste herkenning op type- en familieniveau.
+- [Vliegroute](vliegroute.md) voor korte oefenrondes met hetzelfde observatieformat.
+- [Microscopie](pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md) voor de volgorde van 10x naar 40x.
+- [Vergelijkingen](pollen-vergelijkingen.md) als twee of meer look-a-likes overblijven.
+- [Verdieping](verdieping.md) voor specialistische verschillen en soortniveau.
 

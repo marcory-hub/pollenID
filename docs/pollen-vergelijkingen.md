@@ -1,6 +1,6 @@
 # Pollen-vergelijkingen
 
-Deze pagina bundelt alle vergelijkingsblokken (look-a-likes) voor stap-voor-stap contrasttraining.
+Hier vergelijk je look-a-likes die in dezelfde context snel door elkaar lopen.
 
 ## Alle vergelijkingen (A-Z)
 
