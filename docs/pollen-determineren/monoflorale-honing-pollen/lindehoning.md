@@ -1,4 +1,5 @@
 # Lindehoning (Tilia-type (Linde species))
+
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -75,21 +76,20 @@ In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voo
 
 ### Externe determinatiebronnen
 - **PollenX**: [Tilia platyphyllos](https://pollenx.eu/species.php?species=Tilia_platyphyllos)
-- **Pollen-Wiki (T. Stebler)**:
+- **Pollen-Wiki (T. Stebler)**
   - [Tilia platyphyllos (zomerlinde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_platyphyllos)
   - [Tilia cordata (winterlinde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_cordata)
   - [Tilia henryana (chinese linde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_henryana)
 
 ## Pollen die erop lijken
-- **TODO**: voeg een vergelijking toe (look-alikes / “wat verschilt hier?”).
 
 ## Relevante neven- en bijpollen
 
 ### Relevante nevenpollen
-- **TODO**: optioneel invullen.
+- 
 
 ### Relevante bijpollen
-- **TODO**: optioneel invullen.
+- 
 
 ## Melissopalynologische interpretatie
 
@@ -150,13 +150,10 @@ In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voo
 | Tilia tomentosa (zilverlinde) | N 5 | P 5 | 7 | 8 |
 | Tilia × europaea (Hollandse linde) | N 5 | P 5 | 6 | 7 |
 
+## Naslag
+  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
-
-
-## Bronnen & verificatiestatus
-- **Kernbronnen:** 
-  - Main European unifloral honeys: descriptive sheets Livia PERSANO ODDO.
-- **Nog te verifiëren claims:**
+## Te verifieren
   - Geen artikel gevonden over steriele cultivars die geen pollen produceren en (mogelijk) groep I monoflorale honing kunnen verklaren (wel steriel zaad).
 
 

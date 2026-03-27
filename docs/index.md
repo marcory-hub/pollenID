@@ -3,11 +3,11 @@
 ## Inhoud
 
 ### Determineren
-- [Microscopie](pollen-pages/overzichtsvergroting.md) 
-- [Monoflorale honing](pollen-pages/monoflorale-honing.md) 
-- [Nederlandse pollen](pollen-pages/pollen_in_nl_honing.md) 
-- [Verdieping](pollen-pages/verdieping.md) 
+- [Microscopie](palynologie-paginas/overzichtsvergroting.md)
+- [Monoflorale honing](palynologie-paginas/monoflorale-honing.md)
+- [Nederlandse pollen](palynologie-paginas/pollen_in_nl_honing.md)
+- [Verdieping](palynologie-paginas/verdieping.md)
 
 ### Onderscheiden
-- [Vergelijkingen](pollen-pages/pollen-vergelijkingen.md)
-- [PalynoQuest](pollen-pages/palynoquest.md) 
+- [Vergelijkingen](palynologie-paginas/pollen-vergelijkingen.md)
+- [PalynoQuest](palynologie-paginas/palynoquest.md) 

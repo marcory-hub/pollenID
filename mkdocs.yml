@@ -45,17 +45,15 @@ extra_css:
 nav:
   - Home: index.md
   - microscopie:
-      - overzichtvergroting: pollen-pages/overzichtsvergroting.md
-      - detailvergroting: pollen-pages/detailvergroting.md
+      - overzichtvergroting: palynologie-paginas/overzichtsvergroting.md
+      - detailvergroting: palynologie-paginas/detailvergroting.md
+      - kristallen in honing: palynologie-paginas/kristallen-in-honing.md
   - pollen determineren:
-      - monoflorale honing: pollen-pages/monoflorale-honing.md
-      - nederlandse pollen: pollen-pages/pollen_in_nl_honing.md
-      - vergelijken: pollen-pages/pollen-vergelijkingen.md
-      - verdiepingsset: pollen-pages/verdieping.md
+      - monoflorale honing: palynologie-paginas/monoflorale-honing.md
+      - nederlandse pollen: palynologie-paginas/pollen_in_nl_honing.md
+      - vergelijken: palynologie-paginas/pollen-vergelijkingen.md
+      - verdiepingsset: palynologie-paginas/verdieping.md
   - naslag:
       - Referenties: naslag/referenties.md
-      - Vergelijking determinatiesleutels: naslag/vergelijking-determinatie-sleutels.md
-      - Kristallen in honing: naslag/kristallen-in-honing.md
-      - Tags: tags.md
 
 

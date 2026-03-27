@@ -27,11 +27,11 @@ Een microscoopfoto kan misleidend lijken, omdat de vergroting per foto verschilt
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
+      <img src="../../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
       <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
+      <img src="../../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
       <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
     </figure>
   </div>
@@ -266,8 +266,7 @@ Gebruik per onbekende korrel steeds dezelfde volgorde:
 
 ## Notitie voor gebruik in deze documentatie
 
-- Deze pagina is bedoeld als snelle besliskaart naast `naslag/vergelijking-determinatie-sleutels.md`.
-- Voor uitgebreide literatuur en context blijft `naslag/referenties.md` leidend.
+- Deze pagina is bedoeld als snelle besliskaart. Vergelijkende naslag over determinatiesleutels: [to be verified]. Voor literatuur en context: [Referenties](../naslag/referenties.md).
 - Sommige termen zijn vertaald naar praktische Nederlandse werktaal; originele Duitstalige labels kunnen in bronliteratuur afwijken.
 # Wat noteren bij pollenobservatie (zonder SEM)
 

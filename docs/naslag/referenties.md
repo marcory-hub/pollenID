@@ -1,25 +1,16 @@
 # Referenties
 
-
- - **Pollen Wiki (tstebler.ch)** 
-  - **PollenX (pollenx.eu)** 
-  - [PalDat](https://www.paldat.org/)
+## Online pollendatabases
+- [Pollen Wiki (tstebler.ch)](https://pollen.tstebler.ch/)
+- [PollenX](https://pollenx.eu/)
+- [PalDat](https://www.paldat.org/)
   
+## Materiaal en methodes
+- [Harmonized methods of melissopalynology, von der Ohe et all 2004](https://doi.org/10.1051/apido:2004050)
+- [Main European unifloral honeys: descriptive sheets, Oddo 2004](https://doi.org/10.1051/apido:2004049)
 
-Bibliografische Angaben für Pollenatlas
-Seitentitel: Pollenatlas
-Autor: Thomas Stebler
-Herausgeber: Dr. Thomas Stebler
-Zeitpunkt der letzten Bearbeitung: 4. Februar 2026, 21:48 UTC
-Datum des Abrufs: 27. März 2026, 16:52 UTC
-Permanente URL: https://pollen.tstebler.ch/MediaWiki/index.php?title=Pollenatlas&oldid=58370
-Versionskennung: 58370
-Foto's in assets/pollenwiki zijn uitsneden genomen van images van de Pollenatlas 
 
----
-[todo]
-
-## Kernwerken voor pollenidentificatie
+## Palynologie 
 - Fægri, K. & Iversen, J. - *Textbook of Pollen Analysis*.
 - Fægri, K. & Iversen, J. - *Bestimmungsschlüssel für die nordwesteuropäische Pollenflora*.
 - Beug, H.-J. - *Leitfaden der Pollenbestimmung für Mitteleuropa und angrenzende Gebiete*.
@@ -44,3 +35,12 @@ Foto's in assets/pollenwiki zijn uitsneden genomen van images van de Pollenatlas
 
 
 
+## Image Attribution: 
+Pollenatlas
+The images located in the assets/pollenwiki directory are cropped excerpts derived from original works hosted on the Pollenatlas.
+Source Title: Pollenatlas
+Author/Editor: Dr. Thomas Stebler
+Permanent URL: https://pollen.tstebler.ch/MediaWiki/index.php?title=Pollenatlas&oldid=58370
+Version ID: 58370
+Last Modified: 4. Februar 2026
+Date Accessed: 27. März 2026

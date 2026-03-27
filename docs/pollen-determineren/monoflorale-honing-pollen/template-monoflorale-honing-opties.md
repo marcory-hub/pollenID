@@ -1,27 +1,32 @@
-<!-- Sjabloon: monoflorale honing (kopieer en vul in per honingtype) -->
+# Honingnaam (Latijnse naam)
 
-# [Naam honing] - [Latijnse plantnaam] ([Nederlandse naam])
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+  </div>
+</div> 
 
-## Pollenmorfologie & determinatie
-### Herkenning hoofdpollen
+## Herkenning hoofdpollen
 
-[Korte introductiezin met 2–3 diagnostische cues, liefst in volgorde: lage vergroting → hoge vergroting.]
 
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | [xx–yy µm] ([klein/middelgroot/groot]) [bron: ...] |
-| **Vorm** | [bijv. rond tot driehoekig; oblaat] [bron: ...] |
-| **Polariteit** | [isopool/heteropool] [bron: ...] |
-| **P/E-ratio** | [bijv. ca. 0,73 (range: 0,63–0,76)] [bron: ...] |
+| **Pollenkorrelgrootte** | [ µm] ([klein/middelgroot/groot])  |
+| **Vorm** | [ |
+| **Polariteit** |   |
+| **P/E-ratio** |  |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** | [type + aantal] [bron: ...] |
-| **Ornamentatie** | [bijv. reticulaat; foveolaat/fossulaat] [bron: ...] |
+| **Aperturen** |  |
+| **Ornamentatie** |  |
 
 ### Afbeeldingen
 
@@ -63,65 +68,67 @@
 </div>
 
 ### Externe determinatiebronnen
-- **PollenX**: [link naar soortpagina]
-- **Pollen-Wiki (T. Stebler)**:
-  - [link naar relevante soortpagina]
+- **PollenX**
+  -
+- **Pollen-Wiki (T. Stebler)**
+  - 
 
-### Determinatie: minimale herkenningsset
-1. [morfologisch punt]
-2. [morfologisch punt]
-3. [morfologisch punt]
+## Pollen die erop lijken
 
-### Uitsluitcriteria (look-alikes)
-- **Look-alikes die je moet uitsluiten:** **TODO**: voeg een vergelijking toe (look-alikes / “wat verschilt hier?”).
-- **Belangrijkste verschil per look-alike:** [kort]
+## Relevante neven- en bijpollen
 
-### Determinatiepad (Van der Ham + Beug)
-- **Van der Ham:** [stappen/criteria die je uitschrijft]
-- **Beug:** [stappen/criteria die je uitschrijft]
+### Relevante nevenpollen
+- 
 
-## Botanische & chemische kenmerken
-### Botanische achtergrond
-- **Taxonomie:** [familie + relevante subgroep] [bron: waarnemingen.nl]
-- **Belangrijkste soorten/varieteiten in NL:** [lijst] [bron: waarnemingen.nl]
-- **Bloeiperiode:** [maand-maand] [bron: imkerpedia]
-- **Regionale relevantie (NL):** [kort] [bron: link naar maps waarnemingen.nl]
-- **Nectar en pollenwaarde (imkercontext):** [kort] [bron: imkerpedia]
+### Relevante bijpollen
+- 
 
 ## Melissopalynologische interpretatie
+
 ### Aandeel in de monoflorale honing
-- **Representatiegroep:** [I/II/III + betekenis] [bron: ...]
-- **Verwacht pollenaandeel in monoflorale honing:** [x-y %] [bron: ...]
-- **Werkdrempel voor soorthoning (praktisch):** [.. %] [bron: ...]
-- **Literatuurbereik:** [.. % of range] [bron: ...]
-- **Methodenoot bij drempel/percentage:** [bijv. verschil tussen telmethoden] [bron: ...]
-- **Representatiegroep onzeker?** [to be verified]
+
+- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
+  - 
+  - 
+  - 
 
 ### Pollengehaltes ("pollengehaltes")
-| Bron / methode | Absolute pollengehaltes (per 10 g) |
+| Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Methode A | [waarde] |
-| Methode B | [waarde] |
-| Methode C | [waarde] |
+| Demianowics |  |
+| IHC (Europese honing) |  |
+| Sawyer |  |
 
-### Interpretatie & confounders
-- **Specifieke interpretatie-indicatoren:** [chemisch/microscopisch] [bron: ...]
-- **Verstorende factoren:** [honingdauw, steriele cultivars, jaarvariatie, methodiek] [bron: ...]
+## Palynologische betekenis
 
-## Relevante nevenpollen
-- **TODO**: optioneel invullen.
 
-## Relevante bijpollen
-- **TODO**: optioneel invullen.
+## Sleutels
+### **Beug:** 
 
-## Praktische beoordeling (labeladvies)
-1. **Drachtinformatie klopt?** -> [ja/nee]
-2. **Morfologie klopt?** -> [ja/nee]
-3. **Pollenaandeel klopt binnen representatiegroep?** -> [ja/nee]
-4. **Confounders verklaard (honingdauw/methode/cultivar/jaar)?** -> [ja/nee]
-5. **Labeladvies:** [monofloraal aannemelijk / aanvullende analyse nodig / niet aannemelijk]
+### **van der Ham**
 
-## Bronnen & verificatiestatus
-- **Kernbronnen:** [1-3]
-- **Broncodes gebruikt in tekst:** [bijv. B1, B2, B3]
-- **Nog te verifieren claims:** [`[to be verified]`-lijst]
+### **Sawyer**
+
+
+## Botanische achtergrond
+
+
+### Taxonomie:
+
+- [Verspreidingskaart (waarneming.nl)]
+
+**Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
+
+| Soort | Nectar | Pollen | Start | Einde |
+| --- | --- | --- | --- | --- |
+
+
+## Naslag
+  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
+
+
+
+
+
+
+
