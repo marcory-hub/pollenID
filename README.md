@@ -1,6 +1,6 @@
 # Praktische handleiding en naslagwerk voor melissopalynologie.
 
-Dit project richt zich op het herkennen en determineren van pollen in honing, met de nadruk op de praktische uitvoering van microscopische analyse. De documentatie is gebouwd met MkDocs Material.
+Notities voor het herkennen en determineren van pollen in honing, met de nadruk op de praktische uitvoering van microscopische analyse. De documentatie is gebouwd met MkDocs Material.
 
 ## Aan de slag (Lokaal draaien)
 Volg deze stappen om de documentatie op je eigen computer te bekijken:
