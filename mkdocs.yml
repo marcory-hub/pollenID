@@ -45,44 +45,22 @@ extra_css:
 nav:
   - Home: index.md
   - microscopie:
-      - overzichtvergroting: pollen-determineren/verdiepingset-herkenning/overzichtsvergroting.md
-      - detailvergroting: pollen-determineren/verdiepingset-herkenning/detailvergroting.md
-  - vliegroute: pollen-pages/vliegroute.md
-
+      - overzichtvergroting: pollen-pages/overzichtsvergroting.md
+      - detailvergroting: pollen-pages/detailvergroting.md
   - pollen determineren:
-      - kernset-monoflorale honing: pollen-pages/kernset-monoflorale-honing.md
-      - kernset-nederlandse pollen: pollen-pages/kernset-nederlandse-pollen.md
+      - monoflorale honing: pollen-pages/monoflorale-honing.md
+      - nederlandse pollen: pollen-pages/pollen_in_nl_honing.md
       - vergelijken: pollen-pages/pollen-vergelijkingen.md
-      - verdiepingsset: verdieping.md
+      - verdiepingsset: pollen-pages/verdieping.md
       - Pollen-Wiki (verdieping):
-          - Bestimmungshulp pollenklassen: pollen-determineren/verdiepingset-herkenning/bestimmungshulp-pollenklassen.md
-          - Pollenkalender interpretatie: pollen-determineren/verdiepingset-herkenning/pollenkalender-interpretatie.md
-          - Gattung-prioritering: pollen-determineren/verdiepingset-herkenning/gattung-prioritering.md
+          - Bestimmungshulp pollenklassen: pollen-determineren/verdiepingsset/bestimmungshulp-pollenklassen.md
+          - Pollenkalender interpretatie: pollen-determineren/verdiepingsset/pollenkalender-interpretatie.md
+          - Gattung-prioritering: pollen-determineren/verdiepingsset/gattung-prioritering.md
 
   - naslag:
-      - Cursussen en materiaal: naslag/cursussen-en-materiaal.md
-      - Boeken en handleidingen: naslag/boeken-en-handleidingen.md
-      - Bestimmungshulp en categorieën: naslag/bestimmungshulp-en-categorieen.md
-      - Beug sleutelgebruik en morfometrie: naslag/beug-sleutelgebruik-en-morfometrie.md
-      - Beug poaceae fasecontrast: naslag/beug-poaceae-fasecontrast.md
-      - Verzamelkalender pollen: naslag/verzamelkalender-pollen.md
-      - Databases (online): naslag/pollen-databases.md
-      - Veelvoorkomende geslachten (gattung): naslag/veelvoorkomende-gattungen.md
-      - Doel van pollenanalyse: naslag/doel-pollen-analyse.md
-      - Monoflorale honing: naslag/monoflorale-honing.md
-      - Terminologie en morfologie: naslag/terminologie.md
-      - Fægri en Iversen (determinatiesleutel): naslag/faegri-iversen-determinatiesleutel.md
-      - Fægri en Iversen (terminologie): naslag/faegri-iversen-terminologie.md
-      - Families herkennen: naslag/families-herkennen.md
-      - Pollen uit honing halen: naslag/preparaat-maken/pollen-uit-honing-halen.md
-      - Kleuringen: naslag/preparaat-maken/kleuringen.md
-      - Insluitmiddelen: naslag/preparaat-maken/glycerine-gelatine-insluitmiddel.md
-      - Microscoopgebruik: naslag/microscoop/gebruik-microscoop.md
-      - Microscopie en fotografie: naslag/microscoop/microscopie-fotografie.md
-      - Wat noteren bij pollenobservatie: naslag/wat-noteren-bij-pollenobservatie.md
-      - Geschiedenis: naslag/geschiedenis.md
-      - Instituten en organisaties: naslag/instituten-en-organisaties.md
-      - Warting en beheer: naslag/warting-en-beheer.md
+      - Referenties: naslag/referenties.md
+      - Vergelijking determinatiesleutels: naslag/vergelijking-determinatie-sleutels.md
+      - Kristallen in honing: naslag/kristallen-in-honing.md
       - Tags: tags.md
 
 

@@ -1,3 +1,0 @@
-  - **Pollen Wiki (tstebler.ch)** - zie 17.6 voor uitgebreide uitleg
-  - **PollenX (pollenx.eu)** - zie 17.7 voor uitgebreide uitleg
-  - PalDat

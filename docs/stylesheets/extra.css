@@ -33,3 +33,57 @@
     display: none !important;
   }
 }
+
+/* PollenID: echte-schaal galerij (10 µm = 50 px; 1 µm = 5 px). */
+.pid-scale-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 0.6rem 0 1rem;
+}
+
+.pid-scale-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: flex-end;
+}
+
+.pid-scale-row.pid-scale-row--snug {
+  gap: 0;
+}
+
+.pid-scale-row.pid-scale-row--snug .pid-scale-item {
+  gap: 0;
+}
+
+.pid-scale-row.pid-scale-row--snug .pid-scale-caption {
+  max-width: none;
+  white-space: nowrap;
+}
+
+.pid-scale-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin: 0;
+}
+
+.pid-scale-item img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  border-radius: 0.2rem;
+  box-shadow: var(--md-shadow-z1);
+}
+
+.pid-scale-row.pid-scale-row--grayscale img {
+  filter: grayscale(1);
+}
+
+.pid-scale-caption {
+  font-size: 0.72rem;
+  line-height: 1.15;
+  color: var(--md-default-fg-color--light);
+  max-width: 48ch;
+}
