@@ -19,8 +19,5 @@ Honing die je in de praktijk koppelt aan een dominante drachtplant.
 - [Tamme kastanje](../pollen-determineren/monoflorale-honing-pollen/tamme-kastanje.md)
 - [Valse acacia](../pollen-determineren/monoflorale-honing-pollen/valse-acacia.md)
 
-## Als je vastloopt
 
-Ga eerst naar **Vergelijkingen**.
-Ga pas daarna naar **Verdieping** als de vergelijking geen duidelijke keuze geeft.
 
