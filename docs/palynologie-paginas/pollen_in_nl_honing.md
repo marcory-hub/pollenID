@@ -55,7 +55,7 @@ Kerkvliet dat in Nederlandse honing Trifolium repens (witte klaver) aanwezig is,
 - [Polygonum aviculare ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/polygonum-aviculare.md)
 - [Polygonum persicaria ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/polygonum-persicaria.md)
 - [Polygonum-Typ ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/polygonum-typ.md)
-- [Populus ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/populus.md)
+- [Populus ([to be verified])](../pollen-determineren/secundaire-inbreng/populus.md)
 - [Potentilla ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/potentilla.md)
 - [Prunus-/Pirus-Typ ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/prunus-pirus-typ.md)
 - [Ranunculus-Typ ([to be verified])](../pollen-determineren/nederlandse-honing-pollen/ranunculus-typ.md)

@@ -11,3 +11,6 @@
 ### Onderscheiden
 - [Vergelijkingen](palynologie-paginas/pollen-vergelijkingen.md)
 - [PalynoQuest](palynologie-paginas/palynoquest.md) 
+
+### Interpretatie
+- [Botanische herkomst van honing](palynologie-paginas/botanische-herkomst.md)

@@ -1,0 +1,25 @@
+# Secundaire inbreng (windbloeiers)
+
+Determinatiepagina’s bij taxa die in de melissopalynologie vaak als **secundaire inbreng** (windverspreiding) worden geteld: los van nectarbronnen en niet in procentuele samenstelling van de hoofddracht. Zie [botanische herkomst](botanische-herkomst.md).
+
+## Pagina’s (A–Z)
+
+- [Alnus glutinosa (zwarte els)](../pollen-determineren/secundaire-inbreng/alnus-glutinosa.md)
+- [Amaranthaceae / Chenopodiaceae (o.a. ganzevoetfamilie)](../pollen-determineren/secundaire-inbreng/amaranthaceae.md)
+- [Chenopodium bonus-henricus (goede henrik)](../pollen-determineren/secundaire-inbreng/chenopodium-bonus-henricus.md)
+- [Corylus avellana (hazelaar)](../pollen-determineren/secundaire-inbreng/corylus-avellana.md)
+- [Fagaceae (o.a. beuk, eik)](../pollen-determineren/secundaire-inbreng/fagaceae.md)
+- [Papaveraceae](../pollen-determineren/secundaire-inbreng/papaveraceae.md)
+- [*Papaver argemone* (stuifschildpapaver)](../pollen-determineren/secundaire-inbreng/papaver-argemone.md)
+- [*Papaver croceum*](../pollen-determineren/secundaire-inbreng/papaver-croceum.md)
+- [*Papaver dubium* (slapende papaver)](../pollen-determineren/secundaire-inbreng/papaver-dubium.md)
+- [*Papaver orientale* (oosterse papaver)](../pollen-determineren/secundaire-inbreng/papaver-orientale.md)
+- [*Papaver somniferum* (slaapbol)](../pollen-determineren/secundaire-inbreng/papaver-somniferum.md)
+- [Pinaceae / coniferen](../pollen-determineren/secundaire-inbreng/pinaceae.md)
+- [*Plantago* (weegbree, overzicht)](../pollen-determineren/secundaire-inbreng/plantago.md)
+- [*Plantago arenaria*](../pollen-determineren/secundaire-inbreng/plantago-arenaria.md)
+- [*Plantago major* (grote weegbree)](../pollen-determineren/secundaire-inbreng/plantago-major.md)
+- [Poaceae (grassen, o.a. maïs als context)](../pollen-determineren/secundaire-inbreng/poaceae.md)
+- [Populus (populier)](../pollen-determineren/secundaire-inbreng/populus.md)
+- [Quercus petraea (wintereik; eikentype)](../pollen-determineren/secundaire-inbreng/quercus-petraea.md)
+- [Rumex (zuring)](../pollen-determineren/secundaire-inbreng/rumex.md)
