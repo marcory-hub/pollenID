@@ -123,7 +123,7 @@
 
 ### Aandeel in de monoflorale honing
 
-- [Representatiegroep](groepsindeling_monoflorale_honing.md): Groep II soms III ( pollenkorrels per 10 gram). 
+- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md): Groep II soms III ( pollenkorrels per 10 gram). 
   - pollen zijn oververtegenwoordigd
   - meer dan 60% mag koolzaadhoning heten
   - secundaire pollen 10-30%

@@ -1,19 +1,11 @@
 # Detailvergroting
 
-Voor het analyseren van structurele kenmerken van individuele pollen is 400x vergroting (40x objectief bij de meeste microscopen) voldoende om onderstaande kenmerken te onderscheiden.
+## Analyse van pollen
 
-
-## Diameter
+### Diameter
 - Meet de pollen inclusief uitstekende delen zoals spinea of verrucea.
 - Of schat de diameter aan de hand van pollen met een bekende diameter.
 
-De eenheid in de palynologie (en microscopie in het algemeen) is de micron of micrometer, waarbij 1 μm = 1/1000 mm. 
-
-### Echte-schaal beelden (vaste afbeeldingslogica)
-Een microscoopfoto kan misleidend lijken, omdat de vergroting per foto verschilt; daarom werken we met vaste weergaveschalen in de determinatiepagina’s.
-
-- **Schaalregel (PollenID)**: 10 μm = 50 px (dus 1 μm = 5 px).
-- **Voorbeeld**: 34 μm → 170 px (zoals bij *Tilia* op de pagina `lindehoning`).
 - **Praktisch**: alle kleurbeelden op een pollenpagina krijgen dezelfde breedte (op basis van de opgegeven `Pollenkorrelgrootte`), met daaronder een grijswaarde referentiebeeld uit `docs/assets/images/pollenwiki/*_size_*.png`.
 
 <div class="pid-scale-gallery">
@@ -37,7 +29,7 @@ Een microscoopfoto kan misleidend lijken, omdat de vergroting per foto verschilt
   </div>
 </div>
 
-### Diameter verdeelt in vijf klassen
+#### Diameter verdeelt in vijf klassen
 **Sawyer** gebruikt hiervoor 5 groepen en gebruikt Corylus (hazelaar) pollen als referentie.
 
 1. Zeer klein: &lt; 20 μm (&lt;1 × Corylus)
@@ -54,7 +46,7 @@ Een microscoopfoto kan misleidend lijken, omdat de vergroting per foto verschilt
 4. Groot: 51 tot 100 μm
 5. Zeer groot: &gt; 100 μm
 
-### Diameter verdeelt in drie klassen
+#### Diameter verdeelt in drie klassen
 1. Klein: Wilg ([Salix](https://pollenx.eu/species.php?species=Salix_alba)) - veelvoorkomend, 19-25 μm
 2. Middel: Witte klaver (Trifolium repens) - meest voorkomend, 25-35 μm
 3. Groot: Linde (Tilia) - karakteristiek, 30-40 μm
@@ -68,7 +60,7 @@ Een microscoopfoto kan misleidend lijken, omdat de vergroting per foto verschilt
 
 Note: exacte schaalwaarden hangen af van jouw microscoopconfiguratie en moeten lokaal geijkt zijn.
 
-## Vorm
+### Vorm
 1. rond of onregelmatig rond
 2. ovaal, afgeplat
 3. ovaal, langwerpig
@@ -109,7 +101,6 @@ Bij micrometeren (kleine stelschroef om scherp te stellen beetje heen en weer dr
 Als een biljarbal, maar de onduidelijke patronen mogen van veel auteurs ook onder deze categorie.
 
 ### Reticulaat (netwerk)
-
 
 #### Fijn netwerk
 #### Grof netwerk
