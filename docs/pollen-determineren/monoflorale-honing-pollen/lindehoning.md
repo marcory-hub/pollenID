@@ -6,13 +6,17 @@
       <img src="../../../assets/images/pollenwiki/Tilia_platyphyllos_P_o.png" width="111" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
     </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Tilia+platyphyllos_E.png" width="111" alt="Tilia platyphyllos (pollen; equatoriaal aanzicht).">
+      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
+    </figure>
   </div>
 </div>  
 ## Herkenning hoofdpollen
 
-Het pollen is middelgroot, driehoekig met afgeronde hoeken en kenmerkt zich door poren met een duidelijke anulus aan de lange zijden.
+- Het pollen is middelgroot, driehoekig met afgeronde hoeken en kenmerkt zich door poren met een duidelijke anulus aan de lange zijden.
 
-In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voor.
+- In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voor.
 
 ### Pollenafmeting en vorm
 
@@ -102,7 +106,7 @@ In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voo
 
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
-| --- | ---: |
+| --- | --- |
 | Demianowics | 1860–2250 |
 | IHC (Europese honing) | 15800 |
 | Sawyer | 10000 |
