@@ -68,10 +68,9 @@
 </div>
 
 ### Externe determinatiebronnen
-- **PollenX**
-  -
-- **Pollen-Wiki (T. Stebler)**
-  - 
+- [PollenX]
+- [Pollen-Wiki]
+- [PalDat] 
 
 ## Pollen die erop lijken
 
