@@ -1,4 +1,3 @@
-# Honingnaam (Latijnse naam)
 
 <!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
