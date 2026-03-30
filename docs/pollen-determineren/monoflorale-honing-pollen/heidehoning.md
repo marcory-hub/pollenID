@@ -1,19 +1,30 @@
 # Heidehoning (Calluna vulgaris (struikheide))
 
+<div class="pid-scale-gallery">
+  <!-- Kleurbeelden (echte schaal): zet desgewenst snug als je ze “tegen elkaar aan” wilt. -->
+  <div class="pid-scale-row pid-scale-row--snug">
+      <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" width="180" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+    </figure>
+      <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" width="225" alt="Calluna vulgaris.">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" width="250" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="200" alt="Calluna vulgaris hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+    </figure>
+ </div>
+ </div>
+
 ## Calluna vulgaris (struikhei)
 - tetrade van 51 µm 
 - kristalgruis
-
-# Honingnaam (Latijnse naam)
-
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" width="97" alt="Calluna vulgaris.">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (30 µm)</figcaption>
-    </figure>
-  </div>
-</div> 
 
 ## Herkenning hoofdpollen
 - alle gebruikelijk heidepollen zijn tetraden. 
@@ -22,8 +33,9 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenunitgrootte** | 	gehydrateerd 31-35 μm (Medium) |
-| **Vorm** | Tetradeae, rond tonvormig, onregelmatig bij ongehydrateerde pollen |
+| **Pollenunitgrootte** | 	26-50 µm |
+| **Pollengrootte** |  size of hydrated pollen (LM): 31-35 µm |
+| **Vorm** | tetradeae, rond tonvormig, onregelmatig bij ongehydrateerde pollen |
 | **Aperturen** | korte brede colpi, tricolpaat of tricolporaat |
 | **Polariteit** | heteropolair  |
 | **P/E-ratio** |  |
@@ -42,20 +54,20 @@
 <div class="pid-scale-gallery">
   <!-- Kleurbeelden (echte schaal): zet desgewenst snug als je ze “tegen elkaar aan” wilt. -->
   <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" width="97" alt="Calluna vulgaris not hydrated">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (30 µm)</figcaption>
+      <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" width="180" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" width="97" alt="Calluna vulgaris not hydrated">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (30 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="163" alt="Calluna vulgaris hydrated">
+      <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" width="225" alt="Calluna vulgaris.">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Calluna-vulgaris-5.png" width="163" alt="Calluna vulgaris hydrated">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" width="250" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="240" alt="Calluna vulgaris hydrated">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
   </div>
@@ -87,12 +99,14 @@
 - [PalDat](https://www.paldat.org/pub/Calluna_vulgaris/304299)
 
 ## Pollen die erop lijken
-### Heidefamilie. **Alle gangbare voorbeelden zijn tetraden.** 
+### Heidefamilie. 
+- Alle gangbare voorbeelden zijn tetraden.
 - Elke korrel heeft drie groeven, aan één uiteinde puntig en aan het andere afgekapt waar hij de contactlijn met de buurkorrel raakt.
 -  Daar sluit hij aan op de overeenkomstige groef van de buur en vormt een samengestelde groef.
 - Op elke groef bevind zich meestal net buiten de contactlijn een porie, vaak lastig te zien.
     - Calluna (struikheide), onregelmatige tetraden, poriën opvallend (30-50 μm)
-    -  Rhododendron, regelmatige tetraden (50 μm). - Vaccinium (bosbes) en Erica-soorten (heide) regelmatige tetraden, alleen in detail verschillend (30-45 μm). 
+    -  Rhododendron, regelmatige tetraden (50 μm). 
+    - Vaccinium (bosbes) en Erica-soorten (heide) regelmatige tetraden, alleen in detail verschillend (30-45 μm). 
     - Empetrum (kraaiheide) van Empetraceae: pollen als de vorige groep maar met dwarsgroeven in plaats van poriën (30 μm). 
     - Euphorbiaceae (wolfsmelkfamilie) Oppervlak met fijne staven, korrelig
 
@@ -109,12 +123,12 @@
 ## Melissopalynologische interpretatie
 - Calluna vulgaris (struikheide) komt in 22% van de Nederlandse honing voor
 - Erica tetralix (gewone dophei) komt in 8% van de Nederlandse honing voor
-- heidehoning bevat colloidale eiwitten en dit veroorzaakt het fysiologisch fenomeen thixotropie (gelachtige consistentie)
-- kan gewonnen worden door zgn honingwals/honinglosser/ericaborstel of persen, dan dus tertiaire inbreng hebben in het laatste geval
+- Heidehoning bevat colloidale eiwitten en dit veroorzaakt het fysiologisch fenomeen thixotropie (gelachtige consistentie)
+- Kan gewonnen worden door zgn honingwals/honinglosser/ericaborstel of persen, dan dus tertiaire inbreng hebben in het laatste geval
 - Mag maximaal 23% vocht bevatten en bakkershoning van struikheide ten hoogste 25% (itt 20% voor normale honing) (bron: cursusboek honingkunde)
-- dus ook snelle toename van HMF
-- hoge zuurgraat
-- dus kortere houdbaarheid
+  - Snelle toename van HMF
+  - Hoge zuurgraad
+  - Kortere houdbaarheid
 
 ### Aandeel in de monoflorale honing
 
@@ -125,8 +139,8 @@
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Persano Oddo | calluna 10-77% (soms ondervertegenwoordigd|
-| Persano Oddo | erica meer dan 45% (normaal vertegenwoordigd|
+| Persano Oddo | calluna 10-77% (soms ondervertegenwoordigd)|
+| Persano Oddo | erica meer dan 45% (normaal vertegenwoordigd)|
 | Demianowics | - |
 | IHC (Europese honing) | - |
 | Sawyer | - |
