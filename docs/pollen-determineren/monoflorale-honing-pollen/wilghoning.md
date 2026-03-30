@@ -1,82 +1,76 @@
-# Wilghoning
-# Honingnaam (Latijnse naam)
+# Wilghoning (Salix sp.)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
 ## Herkenning hoofdpollen
-
+- Wilgenfamilie. Salix (wilg), in sommige soorten duidelijke porie. Netoppervlak met duidelijke hoekige mazen die in grootte afnemen naar de gladde randen van de groeven. 
+- Grootte per soort zeer klein tot klein (17-26 μm). Korrels bevatten heldergele olie, vergelijk Fraxinus en Cruciferae.
 
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** |  |
-| **Vorm** |  |
-| **Polariteit** |   |
-| **P/E-ratio** |  |
+| **Pollenkorrelgrootte** | 22 (19.9-24.8) μm (Small) |
+| **Vorm** | rond tot gering driehoekig |
+| **Polariteit** | isopolair  |
+| **P/E-ratio** | 0.89; 0.84-0.95 |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |  |
+| **Aperturen** | tricolpaat |
+| **Ornamentatie** | reticulaat, aperturen met korrelige ornamentatie |
+
+- pollenkit
 
 ### Afbeeldingen
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
+
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="111" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
-  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -150,31 +144,8 @@
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
+| Salix alba | 	N 5	| P 5 | 	4 |	|
 
 ## Naslag
-  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-
-
-
-
-
-
-## Identificatienotities
-
-Olijffamilie. Ligustrum (liguster) en Fraxinus (es), vorm enigszins onregelmatig. Fraxinus: smalle groeven, duidelijke randen zonder marges. Vergelijk Salix.
-
-## Praktische determinatie
-
-- Start met grootteklasse en apertuurpatroon op 400x.
-- Bevestig met oppervlak en exine in doorsnede.
-- Gebruik look-a-like pagina's en lokale bloeitijd voor de eindkeuze.
-
-## Pollentabel-logica (van der Ham)
-
-**Status:** [to be verified]
-
-Nog geen voldoende specifiek canoniek eindpad uit de sleutel gekoppeld aan dit bestand.
+- [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
