@@ -1,28 +1,9 @@
-/* Defensive: force article content to remain a normal block flow column. */
-.md-content__inner.md-typeset {
-  display: block !important;
-  width: 100%;
-  max-width: 100%;
-}
-
-/* Avoid pathologically narrow first columns (vertical letter-stacking in tc). */
-.md-typeset table:not([class]) td:first-child,
-.md-typeset table:not([class]) th:first-child {
-  min-width: 8rem;
-}
-
 /* PollenID: echte-schaal galerij (10 µm = 50 px; 1 µm = 5 px). */
 .pid-scale-gallery {
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
   margin: 0.6rem 0 1rem;
-  /* Full-width band inside Material flex layout (avoids horizontal “column” collapse). */
-  flex: 0 0 auto;
-  width: 100%;
-  max-width: 100%;
-  min-width: 0;
-  box-sizing: border-box;
 }
 
 .pid-scale-row {
@@ -30,8 +11,6 @@
   flex-wrap: wrap;
   gap: 0.6rem;
   align-items: flex-end;
-  max-width: 100%;
-  min-width: 0;
 }
 
 .pid-scale-row.pid-scale-row--snug {

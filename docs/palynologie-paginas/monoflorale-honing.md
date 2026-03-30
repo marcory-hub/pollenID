@@ -10,10 +10,9 @@
 - [Zonnebloemhoning (Heliantus annuus Asteraceae)](../pollen-determineren/monoflorale-honing-pollen/zonnebloemhoning.md)
 - [Braamhoning](../pollen-determineren/monoflorale-honing-pollen/braamhoning.md)
 - [Paardenbloemhoning (Taraxacum officinale Asteracae)](../pollen-determineren/monoflorale-honing-pollen/paardenbloemhoning.md)
-- [Kastanjehoning (Castanea sativa)](../pollen-determineren/monoflorale-honing-pollen/kastanjehoning.md)
+- [Kastanjehoning (Castanea sativa)](../pollen-determineren/monoflorale-honing-pollen/tammekastanjehoning.md)
 - [Ligusterhoning](../pollen-determineren/monoflorale-honing-pollen/ligusterhoning.md)
 - [Wilghoning](../pollen-determineren/monoflorale-honing-pollen/wilghoning.md)
-- [Tamme kastanje (Castanea sativa Fagaceae)](../pollen-determineren/monoflorale-honing-pollen/tamme-kastanje.md)
 - [Valse acacia (Robinia pseudoacacia Fabaceae)](../pollen-determineren/monoflorale-honing-pollen/valse-acacia.md)
 
 ---

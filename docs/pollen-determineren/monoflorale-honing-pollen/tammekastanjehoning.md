@@ -3,35 +3,36 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Po.png" width="80" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Po.png" width="80" alt="Castanea sativa, polair aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Pd.png" width="80" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Pd.png" width="80" alt="Castanea sativa, polair aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Eo.png" width="80" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Eo.png" width="80" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Ed.png" width="80" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Ed.png" width="80" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
   </div>
 </div>
 
 ## Herkenning hoofdpollen
-
+- Fagaceae-familie. Kleine, driehoekige pollen (tricolporaat). Exine psilaat, aperturen zonder ornamentering.
+- Grootte klein (ca. 16 µm).
 
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
 | --- | --- |
 | **Pollenkorrelgrootte** | 16 (14.6-17.1) μm (Small) 11-15 paldat |
-| **Vorm** | driehoekig (angulair), prolaat|
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | ca. 1.24  |
+| **Vorm** | driehoekig (angulair), prolaat |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | ca. 1.24 |
 
 ### Pollenklasse
 
@@ -44,29 +45,29 @@
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Po.png" width="80" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Po.png" width="80" alt="Castanea sativa, polair aanzicht, oppervlak">
+      <figcaption class="pid-scale-caption">Castanea sativa (P o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Pd.png" width="80" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Pd.png" width="80" alt="Castanea sativa, polair aanzicht, doorsnede">
+      <figcaption class="pid-scale-caption">Castanea sativa (P d)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Eo.png" width="80" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Eo.png" width="80" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
+      <figcaption class="pid-scale-caption">Castanea sativa (E o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Ed.png" width="80" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../../assets/images/pollenwiki/Castanea_sativa_Ed.png" width="80" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <figcaption class="pid-scale-caption">Castanea sativa (E d)</figcaption>
     </figure>
   </div>
+</div>
 
-  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -97,23 +98,20 @@
 ## Relevante neven- en bijpollen
 
 ### Relevante nevenpollen
-- 
+-
 
 ### Relevante bijpollen
-- 
+-
 
 ## Melissopalynologische interpretatie
-
-### Algemene interpretatie
-
 - in 23% van Nederlandse onderzochte honingmonsters
 - blijft lang vloeibaar vanwege hoge fructose en lage glucose gehalte
 - kastanje is goede bron van nectar en pollen, maar kan ook honingdauw geven
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - Oververtegenwoordigde pollen 
+- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram).
+  - Oververtegenwoordigde pollen
   - tenminste 90% nodig voor monoflorale honing
   - meer dan 86% persano oddo
 
@@ -128,7 +126,7 @@
 
 
 ## Sleutels
-### **Beug:** 
+### **Beug:**
 
 ### **van der Ham**
 
@@ -149,12 +147,4 @@
 | *Castanea sativa* (tamme kastanje) | N 5 | P 5 | 6 | 6 |
 
 ## Naslag
-
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-
-
-
-
-

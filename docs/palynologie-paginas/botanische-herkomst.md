@@ -19,7 +19,7 @@
     - Plantago spp. (weegbree)
     - Chenopodiaceae/Amaranthaceae spp. (ganzevoetfamilie)
 
-## 3. [tamme kastanje](../pollen-determineren/monoflorale-honing-pollen/tamme-kastanje.md) en [Vergeet-mij-nietjes]
+## 3. Tamme kastanje en [Vergeet-mij-nietjes]
 - buiten beschouwing laten bij het tellen
 - pas bij 80-90% meetellen omdat het dan monoflorale honing kan zijn
 
