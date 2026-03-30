@@ -23,9 +23,8 @@ theme:
         icon: material/brightness-4
         name: Schakel naar donker thema
   features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.preview
+    # navigation.instant (+ preview/progress) disabled: prefetches/WIP pages hit
+    # missing PLACEHOLDER_*.png (404 spam) and can leave rare layout glitches after DOM swap.
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
