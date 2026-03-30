@@ -1,31 +1,166 @@
-# Zonnebloemhoning
+# Zonnebloemhoning (Helianthus annuus)
 
-## Identificatienotities
 
-**Het pollen van sommige soorten is uniek.** Zo kunnen **Trifolium repens** (witte klaver) en **Trifolium pratense** (rode klaver) van elkaar en van alle andere worden onderscheiden. Vaker komt een pollentype voor dat bij een geslacht of andere plantengroep hoort. Het pollen van alle Tilia (linde) is onmiskenbaar; hoewel nauwkeurige studie de soort kan aangeven, is de indeling 'Tilia-type' doorgaans voldoende om de identificatie tot de lindebomen te beperken. De identificatie beperkt zich dan tot de lindebomen. Het pollen van de grote **Compositae** (composieten)-familie kan in **7 hoofdtypen** worden verdeeld. We noemen ze: 'Taraxacum (paardenbloem)-type', 'Helianthus (zonnebloem)-type', enz., naar een kenmerkend lid van de groep. 
-Het pollen van alle **fruitbomen** is zo gelijkend dat ze in een gemengd monster niet afzonderlijk zijn te determineren. Dan volstaat het ze als '**Prunus/Pyrus (fruitbloesem)-type**' te benoemen.
 
-## Praktische determinatie
+<!--  Vervang WIDTH_PX door 111*(Pollenkorrelgrootte in µm)/34. -->
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
+      <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
+      <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
+      <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
+      <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
+    </figure>
+  </div>
+</div>
 
-- Start met grootteklasse en apertuurpatroon op 400x.
-- Bevestig met oppervlak en exine in doorsnede.
-- Gebruik look-a-like pagina's en lokale bloeitijd voor de eindkeuze.
+## Herkenning hoofdpollen
 
-## Pollentabel-logica (van der Ham)
+### Pollenafmeting en vorm
 
-Canoniek beslispad in de sleutel voor dit pollen(type):
 
-- `PK oblaat (P duidelijk kleiner dan E) - colpi zeer kort - pori met sterk verdikte rand`
+| Kenmerk                 | Waarde                                                 |
+| ----------------------- | ------------------------------------------------------ |
+| **Pollenkorrelgrootte** | 42 (38.9-45.5) μm (Medium) pollenwiki, 26-30 µm paldat |
+| **Vorm**                | rond, sferoid                                          |
+| **Polariteit**          | isopolair                                              |
+| **P/E-ratio**           |                                                        |
 
-## Drachtplantgegevens (Imkerpedia)
 
-- Latijnse naam: *Trifolium repens*
-- Nederlandse naam (Imkerpedia): Witte klaver
-- Voorkomen: vast
-- Stuifmeelkleur: Bruinachtig
-- Nectarwaarde: N 5
-- Pollenwaarde: P 5
-- SB: 5
-- EB: 10
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+### Pollenklasse
+
+
+| Kenmerk          | Waarde                             |
+| ---------------- | ---------------------------------- |
+| **Aperturen**    | tricoporaat                        |
+| **Ornamentatie** | echinaat, lengte van echini 5-6 µm |
+
+
+### Afbeeldingen
+
+(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
+
+
+
+<!--  Vervang WIDTH_PX door 111*(Pollenkorrelgrootte in µm)/34. -->
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
+      <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
+      <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
+      <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
+      <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
+    </figure>
+  </div>
+
+  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+  <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
+      <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
+      <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
+    </figure>
+  </div>
+</div>
+
+### Externe determinatiebronnen
+
+- [PollenX](https://pollenx.eu/species.php?species=Helianthus_annuus)
+- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Helianthus_annuus)
+- [PalDat](https://www.paldat.org/pub/Helianthus_annuus/304619)
+
+## Pollen die erop lijken
+- andere 'Helianthus (zonnebloem)-type' composieten
+
+## Relevante neven- en bijpollen
+
+### Relevante nevenpollen
+
+- 
+
+### Relevante bijpollen
+
+- 
+
+## Melissopalynologische interpretatie
+- in 12% van nederlandse honing
+
+### Aandeel in de monoflorale honing
+
+- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
+  - grote variatie van minder dan 20% tot meer dan 90%
+  - pollen die soms ondervertegenwoordigd zijn
+  - 12-92% Persano Oddo 2004
+  - verschillende varieteiten hebben misschien andere pollen productie (Persano Oddo)
+
+### Pollengehaltes ("pollengehaltes")
+
+
+| Bron                  | Absolute pollengehaltes (per 10 g) meestal onder 30.000 |
+| --------------------- | ------------------------------------------------------- |
+| Demianowics           | 2.830                                                   |
+| IHC (Europese honing) |                                                         |
+| Sawyer                |                                                         |
+
+
+## Palynologische betekenis
+
+- monoflorale honing van zonnebloem geeft geen hogere marktwaarde
+
+## Sleutels
+
+### **Beug:**
+
+### **van der Ham**
+
+### **Sawyer**
+
+## Botanische achtergrond
+
+### Taxonomie:
+
+- [Verspreidingskaart (waarneming.nl)]
+
+**Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
+
+
+| Soort             | Nectar | Pollen | Start | Einde |
+| ----------------- | ------ | ------ | ----- | ----- |
+| Helianthus annuus | N 5    | P 5    | 7     | 10    |
+
+
+## Naslag
+
+- [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
