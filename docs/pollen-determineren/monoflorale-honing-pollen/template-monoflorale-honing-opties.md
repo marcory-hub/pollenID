@@ -1,9 +1,26 @@
 # Honingnaam (Latijnse naam)
 
+<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
   </div>
@@ -16,8 +33,8 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | [ µm] ([klein/middelgroot/groot])  |
-| **Vorm** | [ |
+| **Pollenkorrelgrootte** |  |
+| **Vorm** |  |
 | **Polariteit** |   |
 | **P/E-ratio** |  |
 
@@ -32,19 +49,31 @@
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-<!-- Echte-schaal galerij (1 µm = 5 px). Vervang WIDTH_PX door (Pollenkorrelgrootte in µm) × 5. -->
+<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
-  <!-- Kleurbeelden (echte schaal): zet desgewenst snug als je ze “tegen elkaar aan” wilt. -->
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/[BESTAND_1].png" width="WIDTH_PX" alt="[korte omschrijving].">
-      <figcaption class="pid-scale-caption">[label] ([PK_UM] µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/[BESTAND_2].png" width="WIDTH_PX" alt="[korte omschrijving].">
-      <figcaption class="pid-scale-caption">[label] ([PK_UM] µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
   </div>
+</div> 
 
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
