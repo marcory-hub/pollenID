@@ -4,23 +4,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Ed.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
   </div>
@@ -53,29 +49,26 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER Po.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER Pd.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER Eo.png" width="111" alt="PLACEHOLDE.">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/PLACEHOLDER Po.png" width="111" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
-  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -112,6 +105,7 @@
 - 
 
 ## Melissopalynologische interpretatie
+- in 96.4% van Nederlandse onderzochte honingmonsters
 
 ### Aandeel in de monoflorale honing
 
