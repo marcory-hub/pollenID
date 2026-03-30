@@ -1,39 +1,3 @@
-/*
-  Zijbalk (primaire navigatie) onder de standaard Material-breakpoint zichtbaar houden.
-  Standaard: @media max-width 76.234375em schuift .md-sidebar--primary als drawer weg.
-  Let op: op zeer smalle schermen wordt de leesruimte smaller (~12.1rem gaat naar de nav).
-*/
-
-@media screen and (max-width: 76.234375em) {
-  /* LTR: sidebar vast links in beeld */
-  [dir="ltr"] .md-sidebar--primary {
-    left: 0 !important;
-    transform: translateX(0) !important;
-    box-shadow: var(--md-shadow-z3) !important;
-  }
-
-  /* Hoofdtekst niet onder de vaste sidebar laten lopen (ook met toc.integrate). */
-  [dir="ltr"] .md-content {
-    margin-left: 12.1rem !important;
-  }
-
-  /* RTL */
-  [dir="rtl"] .md-sidebar--primary {
-    right: 0 !important;
-    transform: translateX(0) !important;
-    box-shadow: var(--md-shadow-z3) !important;
-  }
-
-  [dir="rtl"] .md-content {
-    margin-right: 12.1rem !important;
-  }
-
-  /* Hamburger voor de drawer: overbodig als de balk altijd open is */
-  .md-header__button[for="__drawer"] {
-    display: none !important;
-  }
-}
-
 /* PollenID: echte-schaal galerij (10 µm = 50 px; 1 µm = 5 px). */
 .pid-scale-gallery {
   display: flex;
