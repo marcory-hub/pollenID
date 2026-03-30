@@ -23,3 +23,17 @@ Hier vergelijk je look-a-likes die in dezelfde context snel door elkaar lopen.
 - [Umbelliferae vicia (tuinboon)](../pollen-determineren/pollen-vergelijkingen/umbelliferae-vicia.md)
 - [Valeriana dipsaceae ([to be verified])](../pollen-determineren/pollen-vergelijkingen/valeriana-dipsaceae.md)
 
+---
+todo
+ 
+- Acer (esdoorn), Prunus (kers, pruim, striaat 37 μm), Malus (appel rugulaat, 30 μm) en Robinia (valse acacia)
+- Rubus (braam, framboos) en Prunus serotina en P. padus (vogelkers)
+- Trifolium repens (witte klaver), Melilotus (honingklaver) en Aesculus (paardekastanje)
+- Raphanus (bladramenas), Brasica napus (koolzaad), Sinapis (mosterd/herik) en Ligustrum (liguster)
+
+---
+todo
+
+Ericaceae
+
+Heath Family. All common examples are tetrads. Each constituent grain has three furrows, each pointed at one end but truncated at the other where it meets the line of contact with the adjacent grain. Here it abuts against the corresponding furrow of its neighbour to form a compound furrow. A pore, often indefinite, is usually present on each furrow just outside the line of contact with the adjacent grain. Calluna (Ling or Heather), irregular tetrads, pores prominent (30-50 μm); Rhododendron, regular tetrads (50 μm). Vaccinium (Bilberry) and Erica species (Heaths or Bell Heather) regular tetrads only differing in detail (30-45 μm). Empetrum (Crowberry) of Empetraceae, pollen as in the last group but with transverse furrows in place of pores (30 μm). Spurge Family. Surface carries fine rods giving granular
