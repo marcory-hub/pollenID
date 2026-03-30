@@ -67,7 +67,7 @@
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="240" alt="Calluna vulgaris hydrated">
+      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="200" alt="Calluna vulgaris hydrated">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
   </div>
