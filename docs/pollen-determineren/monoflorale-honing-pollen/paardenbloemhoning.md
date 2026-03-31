@@ -66,6 +66,23 @@
   </div>
 </div>
 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Taraxacum_officinale_echinea.png" style="height: 140px; width: auto;" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+    </figure>
+  </div>
+</div>
+
 <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">

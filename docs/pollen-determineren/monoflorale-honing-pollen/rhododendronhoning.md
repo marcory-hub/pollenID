@@ -3,15 +3,15 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_Pd.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron_pore.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_Po.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron_.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_sculptuur.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
   </div>
@@ -41,15 +41,15 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_Pd.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron_pore.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_Po.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Rhododendron_.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <img src="../../../assets/images/persano_oddo/Rhododendron_sp_sculptuur.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
       <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
   </div>

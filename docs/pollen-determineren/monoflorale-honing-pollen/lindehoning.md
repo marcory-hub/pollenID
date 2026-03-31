@@ -57,6 +57,25 @@
     </figure>
   </div>
 
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Tilia_spp_Pd.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; polair aanzicht; focus op doorsnede).">
+      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Tilia_spp_pore_o.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; porie; focus op oppervlak).">
+      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Tilia_spp_pore_d.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; porie; focus op doorsnede).">
+      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Tilia_spp_sculptuur.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; sculptuur).">
+      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
+    </figure>
+  </div>
+
 
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">

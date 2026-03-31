@@ -1,18 +1,18 @@
-# Lavendelhoning (Lavandula spp - Laminaceae)
+# Lavendelhoning (Rosmarinus officinalis - Laminaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_sculptuur.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
   </div>
 </div> 
@@ -41,16 +41,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rosmarinus_officinalis_sculptuur.png" style="height: 190px; width: auto;" alt="Rosmarinus officinalis">
+      <figcaption class="pid-scale-caption">Rosmarinus officinalis</figcaption>
     </figure>
   </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->

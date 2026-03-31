@@ -1,18 +1,18 @@
-# Lavendelhoning (Lavandula spp - Laminaceae)
+# Lavendelhoning (Thymus spp - Laminaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_Pd.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_apertuur.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
   </div>
 </div> 
@@ -41,16 +41,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_Pd.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_apertuur.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Thymus_spp_sculptuur.png" style="height: 190px; width: auto;" alt="Thymus spp">
+      <figcaption class="pid-scale-caption">Thymus spp</figcaption>
     </figure>
   </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
@@ -94,8 +94,12 @@
 ### Aandeel in de monoflorale honing
 
 - [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram).
-  - sterk ondergerepresenteerd
- 
+The melissopalynological pattern of Italian
+samples is more typical of a under-represented
+honey (PG/10 g: 10 100 ± 6 000; Thymus pollen 26.6% ± 10.0), while Greek samples show
+a very variable pollen content (PG/10 g:
+33 800 ± 16 700; Thymus pollen 40.2% ±
+16.4)
     
 
 ### Pollengehaltes ("pollengehaltes")
