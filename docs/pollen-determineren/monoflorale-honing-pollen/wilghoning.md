@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" width="110" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>
@@ -51,19 +51,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" width="111" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="110" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>

@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Po.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Po.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Pd.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Pd.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Eo.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Eo.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Ed.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Ed.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
   </div>
@@ -51,19 +51,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Po.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Po.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Pd.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Pd.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Eo.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Eo.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Ed.png" width="130" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../../assets/images/pollenwiki/Trifolium-repens_Ed.png" style="height: 115px; width: auto;" alt="Trifolium-repens (21-25 µm)">
       <figcaption class="pid-scale-caption">Trifolium repens</figcaption>
     </figure>
   </div>

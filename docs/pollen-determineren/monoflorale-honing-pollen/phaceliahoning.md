@@ -4,19 +4,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png" width="100" alt="Phacelia tanacetifolia.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png" style="height: 100px; width: auto;" alt="Phacelia tanacetifolia.">
       <figcaption class="pid-scale-caption">Phacelia tanacetifolia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png" width="100" alt="Phacelia tanacetifolie.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png" style="height: 100px; width: auto;" alt="Phacelia tanacetifolie.">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png" width="100" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png" style="height: 100px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png" width="100" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png" style="height: 100px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
   </div>
@@ -49,19 +49,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png" width="100" alt="Phacelia tanacetifolie.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png" style="height: 100px; width: auto;" alt="Phacelia tanacetifolie.">
       <figcaption class="pid-scale-caption">Phacelia tanacetifolie</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png" width="100" alt="Phacelia tanacetifolie.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png" style="height: 100px; width: auto;" alt="Phacelia tanacetifolie.">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png" width="100" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png" style="height: 100px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png" width="100" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png" style="height: 100px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Phacelia</figcaption>
     </figure>
   </div>

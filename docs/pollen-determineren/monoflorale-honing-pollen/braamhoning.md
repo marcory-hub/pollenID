@@ -1,29 +1,29 @@
-# Braamhoning (Rubus fruticosus (Rosaceae))
+# Braamhoning (Rubus fruticosus - Rosaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" width="150" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" width="150" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>
@@ -52,31 +52,30 @@
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" width="150" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" width="150" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" width="150" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>

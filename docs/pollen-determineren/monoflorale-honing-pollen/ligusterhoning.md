@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Pd.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Pd.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" width="145" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" style="height: 145px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
   </div>
@@ -48,19 +48,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Pd.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Pd.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" width="145" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" style="height: 145px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" style="height: 145px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
   </div>

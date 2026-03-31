@@ -6,19 +6,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
       <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
       <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
       <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
       <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
     </figure>
   </div>
@@ -56,19 +56,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
       <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" width="200" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
       <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
       <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" width="200" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
+      <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
       <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
     </figure>
   </div>

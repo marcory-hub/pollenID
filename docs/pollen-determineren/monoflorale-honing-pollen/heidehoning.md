@@ -1,26 +1,25 @@
 # Heidehoning (Calluna vulgaris (struikheide))
 
 <div class="pid-scale-gallery">
-  <!-- Kleurbeelden (echte schaal): zet desgewenst snug als je ze “tegen elkaar aan” wilt. -->
   <div class="pid-scale-row pid-scale-row--snug">
       <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" width="180" alt="Calluna vulgaris not hydrated">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" style="height: 255px; width: auto;" alt="Calluna vulgaris not hydrated">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
       <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" width="225" alt="Calluna vulgaris.">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" style="height: 255px; width: auto;" alt="Calluna vulgaris.">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" width="250" alt="Calluna vulgaris not hydrated">
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" style="height: 255px; width: auto;" alt="Calluna vulgaris not hydrated">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="200" alt="Calluna vulgaris hydrated">
+      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" style="height: 255px; width: auto;" alt="Calluna vulgaris hydrated">
       <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
     </figure>
  </div>
- </div>
+</div>
 
 ## Calluna vulgaris (struikhei)
 - tetrade van 51 µm 
@@ -48,30 +47,45 @@
 
 ### Afbeeldingen
 
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-<!-- Echte schaal: width_px = round(PK_UM × 111 ÷ 34) (zelfde anker als lindehoning.md). -->
 <div class="pid-scale-gallery">
-  <!-- Kleurbeelden (echte schaal): zet desgewenst snug als je ze “tegen elkaar aan” wilt. -->
   <div class="pid-scale-row pid-scale-row--snug">
       <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" width="180" alt="Calluna vulgaris not hydrated">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-2.png" style="height: 255px; width: auto;" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
     </figure>
       <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" width="225" alt="Calluna vulgaris.">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris.png" style="height: 255px; width: auto;" alt="Calluna vulgaris.">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" width="250" alt="Calluna vulgaris not hydrated">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/Calluna-vulgaris-3.png" style="height: 255px; width: auto;" alt="Calluna vulgaris not hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" width="200" alt="Calluna vulgaris hydrated">
-      <figcaption class="pid-scale-caption">Calluna vulgaris (50 µm)</figcaption>
+      <img src="../../../assets/images/paldat/Calluna-vulgaris-4.png" style="height: 255px; width: auto;" alt="Calluna vulgaris hydrated">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
     </figure>
   </div>
-
+</div>
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Calluna_vulgaris_Po.png" style="height: 255px; width: auto;" alt="Calluna_vulgaris.">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Calluna_vulgaris_Pd.png" style="height: 255px; width: auto;" alt="Calluna vulgaris">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur.png" width="100" alt="Calluna vulgaris (sculptuur).">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur2.png" width="100" alt="Calluna vulgaris (sculptuur).">
+      <figcaption class="pid-scale-caption">Calluna vulgaris</figcaption>
+    </figure>
+  </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">

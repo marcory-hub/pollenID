@@ -45,7 +45,8 @@ Before architectural or roadmap answers:
 ## 4b. Operational defaults (MkDocs and assets)
 - Run **`mkdocs build`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors, so broken links surface before deploy.
 - **Internal links**: use **relative** Markdown paths between files under **`docs/`** (portable across local and CI builds).
-- **Images**: place files under **`docs/assets/`**; use **Dutch** alt text and captions when the surrounding page is Dutch; keep file size and layout compatible with mobile (avoid huge full-width bitmaps without need).
+- **Images**: place files under **`docs/assets/`**; use **Dutch** alt text and captions when the surrounding page is Dutch
+- **Image size (true scale)**: Set the **longest** dimension to **\(5 px/µm\)** so sizes are comparable across pages. Canonical examples: **40 µm → 200 px**, **26 µm → 130 px**, **17 µm → 85 px**.
 
 ## 5. Directory integrity
 - **Obsidian**: The user manages `notes/`; do not run sync commands autonomously (see `notes/pollenID/_cli_pid.md` if present).

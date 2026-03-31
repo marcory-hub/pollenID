@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png" width="255" alt="Fagopyrum esculentum polair aanzicht met focus op het oppervlak">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum polair aanzicht met focus op het oppervlak">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png" width="255" alt="Fagopyrum esculentum polair, detail">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum polair, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png" width="255" alt="Fagopyrum esculentum equatoriaal, detail">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png" width="255" alt="Fagopyrum esculentum equatoriaal, doorsnede">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, doorsnede">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
   </div>
@@ -42,27 +42,27 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png" width="255" alt="Fagopyrum esculentum polair, detail">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum polair, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png" width="255" alt="Fagopyrum esculentum equatoriaal, oppervlak">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, oppervlak">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Po.png" width="255" alt="Fagopyrum esculentum polair">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Po.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum polair">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed.png" width="255" alt="Fagopyrum esculentum equatoriaal, doorsnede">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, doorsnede">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png" width="255" alt="Fagopyrum esculentum equatoriaal, detail">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png" width="255" alt="Fagopyrum esculentum equatoriaal, doorsnede">
+      <img src="../../../assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, doorsnede">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
   </div>
@@ -95,19 +95,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Eo.png" width="170" alt="Fagopyrum esculentum equatoriaal aanzicht met focus op het oppervlak">
+      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Eo.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal aanzicht met focus op het oppervlak">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Eo2.png" width="170" alt="Fagopyrum esculentum equatoriaal, detail">
+      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Eo2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Ed.png" width="170" alt="Fagopyrum esculentum equatoriaal, detail">
+      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Ed.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, detail">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Ed2.png" width="170" alt="Fagopyrum esculentum equatoriaal, doorsnede">
+      <img src="../../../assets/images/beug/Fagopyrum_esculentum_Ed2.png" style="height: 255px; width: auto;" alt="Fagopyrum esculentum equatoriaal, doorsnede">
       <figcaption class="pid-scale-caption">Fagopyrum</figcaption>
     </figure>
   </div>
@@ -121,7 +121,7 @@
 ## Pollen die erop lijken
 - [polygonacea (duizendknoopfamilie (zuring e.d.)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae)
   - Pollen met drie lange smalle groeven, elk met een ovale of rechthoekige porie. Poriën vaak breder dan de groeven met verdikte randen, wat in doorsnede (poolaanzicht) een kenmerkende wigvorm geeft.
-    - [Polygonum avicular (varkensgras)-type]((https://pollenx.eu/species.php?species=Polygonum_aviculare)): is kleiner en minder grof ivm Fagopyrum 
+    - [Polygonum avicular (varkensgras)-type](https://pollenx.eu/species.php?species=Polygonum_aviculare): is kleiner en minder grof ivm Fagopyrum 
     - [Rumex (zuring)-type](https://pollenx.eu/species.php?species=Rumex_acetosa): windbestoven. Exine zeer dun, korrel rond of afgerond driehoekig met poriën in de middenzijden. Celinhoud: grote zetmeelkorrels.
     - Fagopyrum tataricum (Franse boekweit) is rodelijst soort en komt niet meer in het wild voor in Nederland.
 

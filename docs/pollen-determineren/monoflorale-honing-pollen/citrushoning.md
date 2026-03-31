@@ -1,18 +1,18 @@
-# Rode klaverhoning (Trifolium pratense)
+# Citrushoning (Citrus spp, Rutaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium_pratense_Po.png" style="height: 195px; width: auto;" alt="PLACEHOLDER1">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_Pd.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Trifolium_pratense_Po2.png" style="height: 195px; width: auto;" alt="PLACEHOLDER2">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_sculpture.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium_pratense_Eo.png" style="height: 195px; width: auto;" alt="PLACEHOLDER3">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_sculpture2.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
   </div>
 </div> 
@@ -24,41 +24,36 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 39 (35.9-41.5) μm (Medium) |
-| **Vorm** | gering driehoekig convex  |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | ca. 1.07 |
+| **Pollenkorrelgrootte** | 33 μm   |
+| **Vorm** |  |
+| **Polariteit** |   |
+| **P/E-ratio** |  |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** | tricolporaat |
-| **Ornamentatie** | grof reticulair |
+| **Aperturen** |  |
+| **Ornamentatie** |   |
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium_pratense_Po.png" style="height: 195px; width: auto;" alt="PLACEHOLDER1">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_Pd.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/paldat/Trifolium_pratense_Po2.png" style="height: 195px; width: auto;" alt="PLACEHOLDER2">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_sculpture.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Trifolium_pratense_Eo.png" style="height: 195px; width: auto;" alt="PLACEHOLDER3">
-      <figcaption class="pid-scale-caption">Trifolium pratense</figcaption>
+      <img src="../../../assets/images/persano_oddo/Citrus_spp_sculpture2.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <figcaption class="pid-scale-caption">Citrus spp</figcaption>
     </figure>
   </div>
-</div> 
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
-<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -79,50 +74,48 @@
   </div>
 </div>
 
+
 ### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Trifolium_pratense)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_pratense)
-- [PalDat](https://www.paldat.org/pub/Trifolium_pratense/306432)
+- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
+- [PalDat](https://www.paldat.org/search/genus/Citrus)
 
 ## Pollen die erop lijken
 
+
+### Rutaceae
+
+
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
 
 ## Melissopalynologische interpretatie
+- Hoge economische waarde
+- methynathranilate (tenminste 2mg/kg) is gemische marker voor citrus monoflorale honing
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 
-  - 
-  - 
+- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram). 
+    - ondergerepresenteerd
+    
 
 ### Pollengehaltes ("pollengehaltes")
-| Bron | Absolute pollengehaltes (per 10 g) |
-| --- | ---: |
-| Demianowics |  |
-| IHC (Europese honing) |  |
-| Sawyer |  |
+| Bron                   | Pollengehalte (per 10 g) |
+|------------------------|--------------------------|
+| Absolute waarde        |   |
+| Demianowics            |  |
+| IHC (Europese honing)  |             |
+| Sawyer                 |          |
 
 ## Palynologische betekenis
-- in 11% van Nederlandse honing
+
 
 ## Sleutels
 ### **Beug:** 
 
 ### **van der Ham**
 
-### **Sawyer**
-
 
 ## Botanische achtergrond
-
 
 ### Taxonomie:
 
@@ -130,8 +123,12 @@
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
-| Soort | Nectar | Pollen | Start | Einde |
-| --- | --- | --- | --- | --- |
+| Soort           | Nectar | Pollen | Start bloei | Einde bloei |
+|-----------------|--------|--------|-------------|-------------|
+|  |     |    |         |           |
+
+
+
 
 
 ## Naslag
