@@ -11,19 +11,18 @@
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" width="145" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" width="145" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" width="145" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Liguster_vulgare_Po.png" width="145" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Liguster vulgare</figcaption>
     </figure>
   </div>
 </div>
 
 ## Herkenning hoofdpollen
-- Wilgenfamilie. Salix (wilg), in sommige soorten duidelijke porie. Netoppervlak met duidelijke hoekige mazen die in grootte afnemen naar de gladde randen van de groeven. 
-- Grootte per soort zeer klein tot klein (17-26 μm). Korrels bevatten heldergele olie, vergelijk Fraxinus en Cruciferae.
+
 
 ### Pollenafmeting en vorm
 
