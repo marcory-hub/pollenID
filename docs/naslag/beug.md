@@ -7,3 +7,4 @@
 23.5: gemiddelde grootte, 
 50 PK: aantal gemeten pollen, 
 1a: ouderdom van het preparaat ten tijde van de meting
+

@@ -1,8 +1,5 @@
 # Zonnebloemhoning (Helianthus annuus)
 
-
-
-<!--  Vervang WIDTH_PX door 111*(Pollenkorrelgrootte in µm)/34. -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -48,31 +45,40 @@
 
 ### Afbeeldingen
 
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-
-
-<!--  Vervang WIDTH_PX door 111*(Pollenkorrelgrootte in µm)/34. -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Po.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
-      <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
-      <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
-      <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
-      <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
   </div>
-
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Helianthus_annuus_Pd.png" style="height: 210px; width: auto;" alt="Helianthus annuus">
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Helianthus_annuus_pore.png" style="height: 210px; width: auto;" alt="Helianthus annuus">
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Helianthus_annuus_echinea.png" style="height: 210px; width: auto;" alt="Helianthus annuus">
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
+    </figure>
+  </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
