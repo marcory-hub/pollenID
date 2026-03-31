@@ -1,30 +1,25 @@
-# Paardenbloemhoning (Taraxacum officinalis)
+# paardenbloemhoning (Taraxacum officinale)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" width="140" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
 ## Herkenning hoofdpollen
 
@@ -33,49 +28,46 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** |  |
-| **Vorm** |  |
-| **Polariteit** |   |
-| **P/E-ratio** |  |
+| **Pollenkorrelgrootte** | 28 μm (Medium) |
+| **Vorm** | rond tot driehoekig, sferoid  |
+| **Polariteit** | isopolair  |
+| **P/E-ratio** | 0.89 |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |  |
+| **Aperturen** | tricolpaat, 3-4 slecht zichtbare aperturen|
+| **Ornamentatie** | fenestraat, echinaat |
 
 ### Afbeeldingen
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
+
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" width="140" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" width="140" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
-  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -97,11 +89,14 @@
 </div>
 
 ### Externe determinatiebronnen
-- [PollenX]
-- [Pollen-Wiki]
-- [PalDat] 
+- [PollenX](https://pollenx.eu/species.php?species=Taraxacum_officinale)
+- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale)
+- [PalDat](https://www.paldat.org/pub/Taraxacum_officinale/305331)
+
 
 ## Pollen die erop lijken
+- fenestrate pollen
+- taraxacum type composieten
 
 ## Relevante neven- en bijpollen
 
@@ -112,22 +107,27 @@
 - 
 
 ## Melissopalynologische interpretatie
+- komt voor in 22% van de onderzochte Nederlandse honing
+- hoog vetgehalte (13%) itt mais (2,2%)
+- vroege nectar bron voor bijen
+- niet altijd bezocht door bijen als ze onvoldoende ontwikkels zijn om het te vergaren voor honingproductie
+- kristaliseerd vrij snel door hoge glucose aandeel
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 5-40
-  - ondervertegenwoordigde pollen
-  - 
+- **Representatiegroep:** Groep I (meestal) ( minder dan 20.000 pollenkorrels per 10 gram). 
+- percentage zelden boven de 50%
+- 5-40% Persano Oddo 2004
 
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Demianowics |  |
-| IHC (Europese honing) |  |
-| Sawyer |  |
+| Demianowics | - |
+| IHC (Europese honing) | - |
+| Sawyer | - |
 
 ## Palynologische betekenis
+
 
 
 ## Sleutels
@@ -149,44 +149,8 @@
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
+| Taraxacum officinale | 	N 5	| P 5 | 3 | 5	|
 
 ## Naslag
-  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-
-
-
-
-
-
-## Identificatienotities
-
-**Het pollen van sommige soorten is uniek.** Zo kunnen **Trifolium repens** (witte klaver) en **Trifolium pratense** (rode klaver) van elkaar en van alle andere worden onderscheiden. Vaker komt een pollentype voor dat bij een geslacht of andere plantengroep hoort. Het pollen van alle Tilia (linde) is onmiskenbaar; hoewel nauwkeurige studie de soort kan aangeven, is de indeling 'Tilia-type' doorgaans voldoende om de identificatie tot de lindebomen te beperken. De identificatie beperkt zich dan tot de lindebomen. Het pollen van de grote **Compositae** (composieten)-familie kan in **7 hoofdtypen** worden verdeeld. We noemen ze: 'Taraxacum (paardenbloem)-type', 'Helianthus (zonnebloem)-type', enz., naar een kenmerkend lid van de groep. 
-Het pollen van alle **fruitbomen** is zo gelijkend dat ze in een gemengd monster niet afzonderlijk zijn te determineren. Dan volstaat het ze als '**Prunus/Pyrus (fruitbloesem)-type**' te benoemen.
-
-## Praktische determinatie
-
-- Start met grootteklasse en apertuurpatroon op 400x.
-- Bevestig met oppervlak en exine in doorsnede.
-- Gebruik look-a-like pagina's en lokale bloeitijd voor de eindkeuze.
-
-## Pollentabel-logica (van der Ham)
-
-Canoniek beslispad in de sleutel voor dit pollen(type):
-
-- `PK oblaat (P duidelijk kleiner dan E) - colpi zeer kort - pori met sterk verdikte rand`
-
-## Drachtplantgegevens (Imkerpedia)
-
-- Latijnse naam: *Trifolium repens*
-- Nederlandse naam (Imkerpedia): Witte klaver
-- Voorkomen: vast
-- Stuifmeelkleur: Bruinachtig
-- Nectarwaarde: N 5
-- Pollenwaarde: P 5
-- SB: 5
-- EB: 10
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+- [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 

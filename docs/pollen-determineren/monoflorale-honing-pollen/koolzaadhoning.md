@@ -1,14 +1,22 @@
-# Koolzaadhoning (Brassicaceae)
+# Koolzaadhoning (Brassica napus, Brassicaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Brassica_napus_Po_26.png" width="85" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Brassica_napus_Pd_26.png" width="85" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Brassica_napus_Eo_26.png" width="85" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/pollenwiki/Brassica_napus_Ed_26.png" width="85" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
   </div>
 </div> 
@@ -22,6 +30,7 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Pollenkorrelgrootte** | 26 (22.3-28.2) μm   |
+| **Pollenkorrelgrootte (Beug)** | 24-32 μm   |
 | **Vorm** | rond, sferoid to optisch gering prolaat |
 | **Polariteit** | isopolair  |
 | **P/E-ratio** | PoFormI ca. 1.01; 0.96-1.12 |
@@ -41,19 +50,19 @@
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Brassica_napus_Po_26.png" width="85" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Brassica_napus_Pd_26.png" width="85" alt="Brassica napus (pollen; polair aanzicht; focus op doorsnede).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <img src="../../../assets/images/pollenwiki/Brassica_napus_Pd_26.png" width="85" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Brassica_napus_Eo_26.png" width="85" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/Brassica_napus_Ed_26.png" width="85" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
-      <figcaption class="pid-scale-caption">Brassica napus (26 µm)</figcaption>
+      <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
   </div>
 
@@ -88,6 +97,12 @@
 - Raphanus sativus (bladrammanas)
 - Brassica rapa (raapzaad)
 - Brassica oleraceae (kool)
+
+### Brassicaceae
+- 174 soorten uit 56 geslachten
+- meestal relatief dikwandige pollenkorrels
+- meestal klein polair gebied
+- groot aantal en variatie binnen een soort
 
 ## Relevante neven- en bijpollen
 - Trifolium sp

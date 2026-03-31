@@ -133,7 +133,7 @@
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Demianowics | - |
+| Demianowics | 80.500 |
 | IHC (Europese honing) | - |
 | Sawyer | - |
 

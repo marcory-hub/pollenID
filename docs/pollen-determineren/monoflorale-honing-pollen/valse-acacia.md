@@ -1,82 +1,74 @@
-# Valse acacia
-# Honingnaam (Latijnse naam)
+# Valse acaciahoning (Robinia pseudoacacia)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Po.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Pd.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Eo.png" width="150" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Po.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
 ## Herkenning hoofdpollen
-
+- smalle colpi en onscherp begrensde poren
+- poren barsten vaak bij het insluiten
 
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** |  |
-| **Vorm** |  |
-| **Polariteit** |   |
-| **P/E-ratio** |  |
+| **Pollenkorrelgrootte** | 30 μm (Medium) |
+| **Vorm** | driehoekig tot rond, sferoid tot optisch gering oblaat |
+| **Polariteit** | isopolair  |
+| **P/E-ratio** | 0.89 |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |  |
+| **Aperturen** | tricolpaat, enkele pollen tetracolporoidaat |
+| **Ornamentatie** | scabraat, aperturen zonder ornamentatie |
 
 ### Afbeeldingen
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
+
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Po.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Pd.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Eo.png" width="150" alt="PLACEHOLDER.">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Po.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/PLACEHOLDER_Pd.png" width="111" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">PLACEHOLDER</figcaption>
+      <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Po.png" width="150" alt="PLACEHOLDER">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
-  <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
+<div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
@@ -98,11 +90,14 @@
 </div>
 
 ### Externe determinatiebronnen
-- [PollenX]
-- [Pollen-Wiki]
-- [PalDat] 
+- [PollenX](https://pollenx.eu/species.php?species=Robinia_pseudoacacia)
+- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia)
+- [PalDat](https://www.paldat.org/pub/Robinia_pseudoacacia/304082)
+- [Paldat met typo](https://www.paldat.org/pub/Robinia_pseudacacia/301261)
 
 ## Pollen die erop lijken
+- Rosaceae
+  - Rubus spp
 
 ## Relevante neven- en bijpollen
 
@@ -116,19 +111,26 @@
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 
-  - 
-  - 
+- **Representatiegroep:** Groep I (meestal) ( minder dan 20.000 pollenkorrels per 10 gram). 
+  - minstens 20%
+  - pollen zijn ondergerepresenteerd
+  - hoofdpollen 0,27%, neven 3.87% en bij 5.27% van Belgische honing (Martens)
+  - 30% van alle onderzochte Nederlandse honing
+  - pollen percentage 1-23%
+  - 7-60% Persano Oddo
 
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Demianowics |  |
-| IHC (Europese honing) |  |
-| Sawyer |  |
+| Demianowics | 1.220 |
+| IHC (Europese honing) | - |
+| Sawyer | - |
 
 ## Palynologische betekenis
+- robinia honing
+- vaak foutief acacia honing genoemd
+- vloeibaar door hoge fructose aandeel
+- erg licht van kleur en smaak
 
 
 ## Sleutels
@@ -140,7 +142,7 @@
 
 
 ## Botanische achtergrond
-
+- Nectarium in de wand van het vruchtbeginsel
 
 ### Taxonomie:
 
@@ -150,43 +152,8 @@
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
+| Ligustrum vulgare | 	N 5	| P 5 | 5 | 6	|
 
 ## Naslag
-  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-
-
-
-
-
-
-## Identificatienotities
-
-1. Ulex (Gorse) type. Similiar to, and intermediate in size between, Rubus and Prunus/Pyrus of Rosaceae, Cytisus scoparius (Broom), faint fine net. Robinia (False Acacia), furrows short and poorly defined; pores often burst when mounted. Lupinus (Lupin) rather faint net. Laburnum small (22 μm), rounded, no pores, cf. Sorbus.
-
-## Praktische determinatie
-
-- Let op combinatie van vorm, aperturen en oppervlak in zowel pool- als equatoriaal aanzicht.
-- Vergelijk met look-a-like pagina's bij twijfel in gemengde monsters.
-- Gebruik lokale flora en bloeitijd als context voor typebepaling.
-
-## Pollentabel-logica (van der Ham)
-
-Canoniek beslispad in de sleutel voor dit pollen(type):
-
-- `Ornamentatie striaat of rugulaat -> colpusmembranen zonder stekels -> colpi in het midden versmald - ornamentatie striaat-rugulaat`
-
-## Drachtplantgegevens (Imkerpedia)
-
-- Latijnse naam: *Cytisus scoparius*
-- Nederlandse naam (Imkerpedia): Gewone brem / Bezembrem
-- Voorkomen: struik
-- Stuifmeelkleur: Oranjeachtig
-- Nectarwaarde: N 0
-- Pollenwaarde: P 5
-- SB: 5
-- EB: 6
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+- [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
