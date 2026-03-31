@@ -64,6 +64,18 @@
       <img src="../../../assets/images/pollenwiki/Robinia_pseudoacacia_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Robinia_pseudoacacia_Pd.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Robinia_pseudoacacia_Po.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../../assets/images/persano_oddo/Robinia_pseudoacacia_surface.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
+    </figure>
   </div>
 </div>
 

@@ -25,7 +25,6 @@
 
 ### Pollenafmeting en vorm
 
-
 | Kenmerk                 | Waarde                                                 |
 | ----------------------- | ------------------------------------------------------ |
 | **Pollenkorrelgrootte** | 42 (38.9-45.5) μm (Medium) pollenwiki, 26-30 µm paldat |
@@ -33,15 +32,12 @@
 | **Polariteit**          | isopolair                                              |
 | **P/E-ratio**           |                                                        |
 
-
 ### Pollenklasse
-
 
 | Kenmerk          | Waarde                             |
 | ---------------- | ---------------------------------- |
 | **Aperturen**    | tricoporaat                        |
 | **Ornamentatie** | echinaat, lengte van echini 5-6 µm |
-
 
 ### Afbeeldingen
 
@@ -64,6 +60,8 @@
       <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
   </div>
+</div>
+
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -107,6 +105,7 @@
 - [PalDat](https://www.paldat.org/pub/Helianthus_annuus/304619)
 
 ## Pollen die erop lijken
+
 - andere 'Helianthus (zonnebloem)-type' composieten
 
 ## Relevante neven- en bijpollen
@@ -132,13 +131,11 @@
 
 ### Pollengehaltes ("pollengehaltes")
 
-
 | Bron                  | Absolute pollengehaltes (per 10 g) meestal onder 30.000 |
 | --------------------- | ------------------------------------------------------- |
 | Demianowics           | 2.830                                                   |
 | IHC (Europese honing) |                                                         |
 | Sawyer                |                                                         |
-
 
 ## Palynologische betekenis
 

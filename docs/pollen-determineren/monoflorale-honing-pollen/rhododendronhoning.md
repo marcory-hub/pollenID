@@ -1,18 +1,18 @@
-# Citrushoning (Citrus spp, Rutaceae)
+# Rhododendronhoning (Rhododendron spp, Ericaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus.png" style="height: 165px; width: auto;" alt="Eucalyptus spp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus_pore.png" style="height: 165px; width: auto;" alt="Eucalyptus sp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron_pore.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus_.png" style="height: 165px; width: auto;" alt="Eucalyptus spp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron_.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
   </div>
 </div> 
@@ -41,16 +41,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus.png" style="height: 165px; width: auto;" alt="Eucalyptus spp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus_pore.png" style="height: 165px; width: auto;" alt="Eucalyptus sp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron_pore.png" style="height: 165px; width: auto;" alt="Rhododendron sp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/Eucalyptus_.png" style="height: 165px; width: auto;" alt="Eucalyptus spp">
-      <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
+      <img src="../../../assets/images/persano_oddo/Rhododendron_.png" style="height: 165px; width: auto;" alt="Rhododendron spp">
+      <figcaption class="pid-scale-caption">Rhododendron sp</figcaption>
     </figure>
   </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
@@ -77,7 +77,7 @@
 
 ### Externe determinatiebronnen
 - [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
-- [PalDat](https://www.paldat.org/search/genus/Citrus)
+- [PalDat](https://www.paldat.org/search/genus/Rhododendron)
 
 ## Pollen die erop lijken
 
@@ -89,14 +89,12 @@
 
 
 ## Melissopalynologische interpretatie
-- Hoge economische waarde
-- methynathranilate (tenminste 2mg/kg) is gemische marker voor citrus monoflorale honing
+
 
 ### Aandeel in de monoflorale honing
 
 - [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram).
-  - overgerepresenteerd
-  - tenminste 90% Eucalyptus pollen nodig
+    - ondergerepresenteerd
  
     
 
