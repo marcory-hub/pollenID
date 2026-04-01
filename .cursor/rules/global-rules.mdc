@@ -33,6 +33,7 @@ alwaysApply: true
   - **Existing content**: `startLine:endLine:filepath`.
   - **New content**: fenced blocks with language tags. Do not mix old and new formats in one block.
 - **Dates**: ISO 8601 (`yyyy-mm-dd`).
+- **Tables**: Tight Markdown tables: use **unpadded** table syntax: `| Cell | Cell |`. Do not align columns with extra spaces or tabs; keep diffs small and stable. Use separator cells with exactly `---` (no longer runs), e.g. `|---|---|---|`.
 
 # 6. DIRECTORY & FILE STRICTNESS
 - IMPORTANT: check **mkdocs.yml** after each task and respond with current mkdocs.yml is up to date
