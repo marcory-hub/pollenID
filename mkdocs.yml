@@ -1,7 +1,6 @@
 site_name: PollenID
 site_url: https://marcory-hub.github.io/pollenID/
 
-# Backlog staat bewust op naslag/raw-documenten-overzicht.md (script), niet in de console-log.
 validation:
   nav:
     omitted_files: ignore
@@ -11,8 +10,6 @@ extra:
 
 theme:
   name: material
-  # TEMP (native sidebar check): comment out template overrides.
-  # custom_dir: overrides
   palette:
     - scheme: slate
       toggle:
@@ -37,8 +34,6 @@ plugins:
   - search:
       lang: nl
   - tags
-
-
 
 extra_css:
   - stylesheets/extra.css

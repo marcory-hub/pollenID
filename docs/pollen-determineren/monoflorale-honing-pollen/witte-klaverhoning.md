@@ -23,7 +23,6 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
@@ -44,10 +43,6 @@
 - Dit abortieve pollen niet tellen
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-<!-- Echte-schaal galerij (1 µm = 5 px). Vervang WIDTH_PX door (Pollenkorrelgrootte in µm) × 5. -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -97,12 +92,6 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
@@ -131,62 +120,18 @@
 
 ### **Sawyer**
 
-
 ## Botanische achtergrond
-
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/7574/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
+| Trifolium repens | N 5 | P 5 | 5 | 10 |
 
 ## Naslag
   - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-
-
-
-
-
-
-
-## Identificatienotities
-
-**Status:** [to be verified]
-
-**Verschrompelde of abortieve korrels**
-Vooral bij Rubus (braam), Trifolium repens (witte klaver) en veel tuincultivars (bijv. Saxifraga en Oxalis) vinden we verschrompelde korrels die bij montage niet zwellen. Zulke korrels kunnen zelfs de meerderheid in een monster vormen.
-
-**Het pollen van sommige soorten is uniek.** Zo kunnen **Trifolium repens** (witte klaver) en **Trifolium pratense** (rode klaver) van elkaar en van alle andere worden onderscheiden. Vaker komt een pollentype voor dat bij een geslacht of andere plantengroep hoort. Het pollen van alle Tilia (linde) is onmiskenbaar; hoewel nauwkeurige studie de soort kan aangeven, is de indeling 'Tilia-type' doorgaans voldoende om de identificatie tot de lindebomen te beperken. De identificatie beperkt zich dan tot de lindebomen. Het pollen van de grote **Compositae** (composieten)-familie kan in **7 hoofdtypen** worden verdeeld. We noemen ze: 'Taraxacum (paardenbloem)-type', 'Helianthus (zonnebloem)-type', enz., naar een kenmerkend lid van de groep. 
-Het pollen van alle **fruitbomen** is zo gelijkend dat ze in een gemengd monster niet afzonderlijk zijn te determineren. Dan volstaat het ze als '**Prunus/Pyrus (fruitbloesem)-type**' te benoemen.
-
-## Praktische determinatie
-
-- Let op combinatie van vorm, aperturen en oppervlak in zowel pool- als equatoriaal aanzicht.
-- Vergelijk met look-a-like pagina's bij twijfel in gemengde monsters.
-- Gebruik lokale flora en bloeitijd als context voor typebepaling.
-
-## Pollentabel-logica (van der Ham)
-
-Canoniek beslispad in de sleutel voor dit pollen(type):
-
-- `Ornamentatie striaat of rugulaat -> colpusmembranen zonder stekels -> colpi in het midden versmald - ornamentatie striaat-rugulaat`
-
-## Drachtplantgegevens (Imkerpedia)
-
-- Latijnse naam: *Trifolium repens*
-- Nederlandse naam (Imkerpedia): Witte klaver
-- Voorkomen: vast
-- Stuifmeelkleur: Bruinachtig
-- Nectarwaarde: N 5
-- Pollenwaarde: P 5
-- SB: 5
-- EB: 10
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
 

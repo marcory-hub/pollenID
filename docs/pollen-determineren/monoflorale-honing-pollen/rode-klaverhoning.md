@@ -19,7 +19,6 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
@@ -37,10 +36,6 @@
 | **Ornamentatie** | grof reticulair |
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -88,27 +83,9 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
-
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 
-  - 
-  - 
-
-### Pollengehaltes ("pollengehaltes")
-| Bron | Absolute pollengehaltes (per 10 g) |
-| --- | ---: |
-| Demianowics |  |
-| IHC (Europese honing) |  |
-| Sawyer |  |
 
 ## Palynologische betekenis
 - in 11% van Nederlandse honing
@@ -120,9 +97,7 @@
 
 ### **Sawyer**
 
-
 ## Botanische achtergrond
-
 
 ### Taxonomie:
 
@@ -132,7 +107,6 @@
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

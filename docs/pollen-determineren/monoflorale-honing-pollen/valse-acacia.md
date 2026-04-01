@@ -42,10 +42,6 @@
 | **Ornamentatie** | scabraat, aperturen zonder ornamentatie |
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -113,12 +109,6 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
@@ -144,7 +134,6 @@
 - vloeibaar door hoge fructose aandeel
 - erg licht van kleur en smaak
 
-
 ## Sleutels
 ### **Beug:** 
 
@@ -152,13 +141,12 @@
 
 ### **Sawyer**
 
-
 ## Botanische achtergrond
 - Nectarium in de wand van het vruchtbeginsel
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/7554/maps/?start_date=2020-01-01&interval=157680000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 

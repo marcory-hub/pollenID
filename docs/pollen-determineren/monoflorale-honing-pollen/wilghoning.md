@@ -44,10 +44,6 @@
 - pollenkit
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -100,30 +96,11 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 
-  - 
-  - 
-
-### Pollengehaltes ("pollengehaltes")
-| Bron | Absolute pollengehaltes (per 10 g) |
-| --- | ---: |
-| Demianowics |  |
-| IHC (Europese honing) |  |
-| Sawyer |  |
-
 ## Palynologische betekenis
-
 
 ## Sleutels
 ### **Beug:** 
@@ -132,19 +109,17 @@
 
 ### **Sawyer**
 
-
 ## Botanische achtergrond
-
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/taxa/10031/salix/maps/?start_date=2020-01-01&interval=31536000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-| Salix alba | 	N 5	| P 5 | 	4 |	|
+| Salix alba | 	N 5	| P 5 | 4 | 5	|
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

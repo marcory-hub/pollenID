@@ -1,4 +1,4 @@
-# Lindehoning (Tilia-type (Linde species))
+# Lindehoning (Tilia-type (Linde species) Tiliaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -12,6 +12,7 @@
     </figure>
   </div>
 </div>  
+
 ## Herkenning hoofdpollen
 
 - Het pollen is middelgroot, driehoekig met afgeronde hoeken en kenmerkt zich door poren met een duidelijke anulus aan de lange zijden.
@@ -34,8 +35,6 @@
 | **Ornamentatie** | Reticulaat tot rugulaat, foveolaat/fossulaat |
 
 ## Afbeeldingen
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -108,12 +107,6 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
@@ -138,21 +131,27 @@
 - Pollen wel laag in eiwit
 
 ## Sleutels
-### **Beug:** 
-- 22 Tricolporatae mit reticulaten, microreticulaten oder fossulaten Skulpturen, 22.1 Tilia-Typ
+### Beug: 22 Tricolporatae met reticulate, microreticulate of fossulate sculpturen, 22.1 Tilia-Typ
+
 ### **van der Ham**
-1. geen tetrade maar monade
-2. geen luchtzakken
-3. geen vensters
-4. niet inaperturaat maar een/meer aperturen
-5. niet 1, maar 3 of meer aperturen
-6. niet colpaat, poraat of heterocolpaat maar colporaat (3 of meer langwerpige aperturen: colpi met pori)
-7. 3 colpi (niet meer)
-8. ornamentatie foveolaat (tectum met putjes) of supraretuculaat (netwerk op tectum)
-9. niet peervormig, maar ellipsvormig
-10. niet rond tot prolaat (P groter of gelijk) maar oblaat (P duidelijk kleiner dan E)
+- 1 geen tetrade maar monade
+- 2 geen luchtzakken
+- 3 geen vensters
+- 4 niet inaperturaat maar een/meer aperturen
+- 5 niet 1, maar 3 of meer aperturen
+- 6 niet colpaat, poraat of heterocolpaat maar colporaat (3 of meer langwerpige aperturen: colpi met pori)
+- 7 3 colpi (niet meer)
+- 8 ornamentatie foveolaat (tectum met putjes) of supraretuculaat (netwerk op tectum)
+- 9 niet peervormig, maar ellipsvormig
+- 10 niet rond tot prolaat (P groter of gelijk) maar oblaat (P duidelijk kleiner dan E)
 ### **Sawyer**
-- Een oppervlak met echte perforaties
+- Size medium
+- Shape: ovaal afgeplat, driehoekig
+- Apertuur aantal: 3
+- Apertuurtype: colporaat
+- Oppervlak: pitted
+- Exine Medium no rods, medium met spaced rods or beaded
+- Intine dik of erg dik
 
 ## Botanische achtergrond
 - Zomerlinde- en winterlindepollen lijken sterk op elkaar. Kruising tussen beide wordt *Tilia × vulgaris* (Nederlandse linde) genoemd. Veel cultivars.
@@ -174,10 +173,10 @@
 | Tilia × europaea (Hollandse linde) | N 5 | P 5 | 6 | 7 |
 
 ## Naslag
-  - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
+ [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
 ## Te verifieren
-  - Geen artikel gevonden over steriele cultivars die geen pollen produceren en (mogelijk) groep I monoflorale honing kunnen verklaren (wel steriel zaad).
+- Geen artikel gevonden over steriele cultivars die geen pollen produceren en (mogelijk) groep I monoflorale honing kunnen verklaren (wel steriel zaad).
 
 
 

@@ -23,7 +23,6 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
@@ -41,9 +40,6 @@
 | **Ornamentatie** | fenestraat, echinaat |
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -110,18 +106,11 @@
 - [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale)
 - [PalDat](https://www.paldat.org/pub/Taraxacum_officinale/305331)
 
-
 ## Pollen die erop lijken
 - fenestrate pollen
 - taraxacum type composieten
 
 ## Relevante neven- en bijpollen
-
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
 
 ## Melissopalynologische interpretatie
 - komt voor in 22% van de onderzochte Nederlandse honing
@@ -136,23 +125,23 @@
 - percentage zelden boven de 50%
 - 5-40% Persano Oddo 2004
 
-### Pollengehaltes ("pollengehaltes")
-| Bron | Absolute pollengehaltes (per 10 g) |
-| --- | ---: |
-| Demianowics | - |
-| IHC (Europese honing) | - |
-| Sawyer | - |
-
 ## Palynologische betekenis
-
-
 
 ## Sleutels
 ### **Beug:** 
 
 ### **van der Ham**
-
+1 monade
+3 zonder luchtzakken
+4 met vensters -> Asteraceae
 ### **Sawyer**
+klein-middel
+rond, meerzijdig
+3 aperturen
+poraat
+netvormig, pitted, spines
+Exine small spines
+Other projections
 
 
 ## Botanische achtergrond
@@ -160,7 +149,7 @@
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/taxa/10719/taraxacum/maps/?start_date=2020-01-01&interval=31536000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 

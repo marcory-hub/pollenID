@@ -19,22 +19,21 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
-
+- Citrus limon
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 33 μm   |
-| **Vorm** |  |
-| **Polariteit** |   |
-| **P/E-ratio** |  |
+| **Pollenkorrelgrootte** | 33 (28.8-37.6) μm (Medium)  |
+| **Vorm** | sferoid  |
+| **Polariteit** | isopolair  |
+| **P/E-ratio** | 0.95 |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |   |
+| **Aperturen** | tetracolporaat of pentacolporaat |
+| **Ornamentatie** | reticulaat  |
 
 ### Afbeeldingen
 
@@ -74,31 +73,25 @@
   </div>
 </div>
 
-
 ### Externe determinatiebronnen
 - [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
 - [PalDat](https://www.paldat.org/search/genus/Citrus)
 
 ## Pollen die erop lijken
-
-
-### Rutaceae
-
+[Citrus spp](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Citrus)
 
 ## Relevante neven- en bijpollen
-
 
 ## Melissopalynologische interpretatie
 - Hoge economische waarde
 - methynathranilate (tenminste 2mg/kg) is gemische marker voor citrus monoflorale honing
 
 ### Aandeel in de monoflorale honing
-
-- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram). 
+- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md) I : minder dan 20.000  ( pollenkorrels per 10 gram). 
     - ondergerepresenteerd
+    - door bloembouw of lage pollenproductie komen weinig pollen in de honing terecht, maar nectarbijdrage is zeer hoog.
     
-
-### Pollengehaltes ("pollengehaltes")
+### Pollengehalte
 | Bron                   | Pollengehalte (per 10 g) |
 |------------------------|--------------------------|
 | Absolute waarde        |   |
@@ -108,28 +101,14 @@
 
 ## Palynologische betekenis
 
-
 ## Sleutels
 ### **Beug:** 
-
-### **van der Ham**
-
-
-## Botanische achtergrond
-
-### Taxonomie:
-
-- [Verspreidingskaart (waarneming.nl)]
-
-**Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
-
-| Soort           | Nectar | Pollen | Start bloei | Einde bloei |
-|-----------------|--------|--------|-------------|-------------|
-|  |     |    |         |           |
-
-
-
-
+- 1 PK groter dan 20 µm
+- 4 PK met 4 of 5 colpen
+- 6 PK reticulaat
+- 8 PK reticulaat
+- 9 PK 28-38 µm groot, zijaanzicht elliptisch tot rond, exine dikker dan 1,8 µm, polair veld vaak groot
+- 10 PK tetra- of pentacolporaat, brochi tot 3 µm groot
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

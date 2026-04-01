@@ -1,4 +1,4 @@
-# Heidehoning (Calluna vulgaris (struikheide))
+# Heidehoning (Calluna vulgaris (struikheide) - Ericaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -33,11 +33,11 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Pollenunitgrootte** | 	26-50 µm |
-| **Pollengrootte** |  size of hydrated pollen (LM): 31-35 µm |
+| **Pollengrootte** |  size of hydrated pollen (LM): 	27 (22.5-30.0) μm (Medium) |
 | **Vorm** | tetradeae, rond tonvormig, onregelmatig bij ongehydrateerde pollen |
 | **Aperturen** | korte brede colpi, tricolpaat of tricolporaat |
 | **Polariteit** | heteropolair  |
-| **P/E-ratio** |  |
+| **P/E-ratio** | - |
 
 ### Ornamentatie en structuur
 
@@ -124,15 +124,14 @@
     - Empetrum (kraaiheide) van Empetraceae: pollen als de vorige groep maar met dwarsgroeven in plaats van poriën (30 μm). 
     - Euphorbiaceae (wolfsmelkfamilie) Oppervlak met fijne staven, korrelig
 
-#### andere tetraden 
-- onagraceae (teunisbloemfamilie)
-- sommige typha (lisdodde soorten)
+#### Andere tetraden 
+- Onagraceae (teunisbloemfamilie)
+- Sommige Typha (lisdodde soorten)
 
 ## Relevante neven- en bijpollen
 - Trifolium repens (witte klaver)
 - Erica tetralix gewone dopheide
 - Fagopyrum (boekweit)
-
 
 ## Melissopalynologische interpretatie
 - Calluna vulgaris (struikheide) komt in 22% van de Nederlandse honing voor
@@ -161,7 +160,6 @@
 
 ## Palynologische betekenis
 
-
 ## Sleutels
 ### **Beug:** (EPK = individuele pollenkorrel)
 - Niet 1: EPK niet reticulat–areolat (tabel 1: 1–2), ca. 60–80 µm (niet 4.1 Catalpa).
@@ -187,11 +185,18 @@ Stelling 4 — kies deze optie voor Calluna: EPK in de meeste gevallen met 4 kor
 1. vier pollenkorrels bij elkaar (tetrade)
 2. individuele korrels stevig verbonden, tricolpaat of tricolporaal --> Ericacea (Calluna, Erica, Rhododendron, Vaccinium)
 ### **Sawyer**
-
+Size: medium
+Shape: veelvormig of irregulair
+Apertuuraantal: 3
+Apertuur type: colporaat
+Oppervlak: glad of ongedefineerd (granulair)
+Exine: dun / gemiddeld zonder rods
+Overig: samengestelde korrels
 
 ## Botanische achtergrond
 - Calluna heeft per bloem slechts 4400 pollen
 - nectarium als schijf gelegen rond de basis van de vruchtbladen
+
 ### Taxonomie:
 
 - [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/6509/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
@@ -201,7 +206,6 @@ Stelling 4 — kies deze optie voor Calluna: EPK in de meeste gevallen met 4 kor
 | Soort   | Nectar | Pollen | Start | Einde |
 |---------|--------|--------|-------|-------|
 | Calluna | 5      | 5      | 7     | 9     |
-
 
 ## Naslag
   - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

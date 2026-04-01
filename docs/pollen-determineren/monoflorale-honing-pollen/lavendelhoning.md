@@ -19,22 +19,21 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 36-40 µm   |
-| **Vorm** |  |
-| **Polariteit** |   |
-| **P/E-ratio** |  |
+| **Pollenkorrelgrootte** | 37 μm (Medium)   |
+| **Vorm** | Eliptisch tot hexagonaal  |
+| **Polariteit** | isopolair  |
+| **P/E-ratio** | - |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |   |
+| **Aperturen** | Stephanocolpaat, meestal 6 colpi |
+| **Ornamentatie** | Reticulaat  |
 
 ### Afbeeldingen
 
@@ -81,55 +80,38 @@
 
 ## Pollen die erop lijken
 
-
-### Rutaceae
-
-
 ## Relevante neven- en bijpollen
-
 
 ## Melissopalynologische interpretatie
 
-
 ### Aandeel in de monoflorale honing
 
-- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram).
+- [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md) I :  (minder dan 20.000 pollenkorrels per 10 gram).
   - sterk ondergerepresenteerd
- 
-    
-
-### Pollengehaltes ("pollengehaltes")
-| Bron                   | Pollengehalte (per 10 g) |
-|------------------------|--------------------------|
-| Absolute waarde        |   |
-| Demianowics            |  |
-| IHC (Europese honing)  |             |
-| Sawyer                 |          |
+  - Lavendula latifolia (15-42%) Persano-Oddo
+  - Lavendula x intermedia (1-20%) Persano-Oddo
 
 ## Palynologische betekenis
 
-
 ## Sleutels
 ### **Beug:** 
-
-### **van der Ham**
-
+1 PK reticulaat
+3 Intercolpium randen gelijkaardig
+4 PK met andere kenmerken ()
+5 Intercolpium randen niet verdikt
+6 PK reticulaat of endo-microreticulaat
+8 Exine 2-3,5 µm dik
+9 PK met 6 colpi
 
 ## Botanische achtergrond
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
-
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
-| Soort           | Nectar | Pollen | Start bloei | Einde bloei |
-|-----------------|--------|--------|-------------|-------------|
-|  |     |    |         |           |
-
-
-
-
+| Soort | Nectar | Pollen | Start bloei | Einde bloei |
+|---|---|---|---|---|
+| Lavendel | N 3	| P 0	| 7	| 8 |
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

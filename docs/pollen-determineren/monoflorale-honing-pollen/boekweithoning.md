@@ -27,7 +27,7 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte (Beug)** | 51 µm (groot) (kan kleine korrels maken 25 µm)(bron: van der Ham en Sawyer))|
+| **Pollenkorrelgrootte (Beug)** | 51 µm (groot) (kan kleine korrels maken 25 µm)(bron: van der Ham en Sawyer)|
 | **Vorm** | rond, sferoid |
 | **Polariteit** | isopolair  |
 | **P/E-ratio** | 1.1 |
@@ -182,7 +182,7 @@
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-| fagopyrum | N 5 | P 5  |	6 | 8 |
+| Fagopyrum | N 5 | P 5 |	6 | 8 |
 
 ## Naslag
 - [PALYNOLOGICAL, PHYSICO-CHEMICAL AND BIOLOGICALLY ACTIVE SUBSTANCES PROFILE IN SOME TYPES OF HONEY IN THE REPUBLIC OF MOLDOVA](https://doi.org/10.52326/jes.utm.2021.28(3).14)

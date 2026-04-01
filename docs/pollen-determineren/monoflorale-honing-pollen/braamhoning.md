@@ -3,34 +3,33 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>
 </div>
 
 ## Herkenning hoofdpollen
-- vervormde en abortive pollen komen voor, soms zelfs de meerderheid van een sample
 
 ### Pollenafmeting en vorm
 
@@ -48,34 +47,34 @@
 | **Aperturen** | tricolpaat, enkele pollen tetracolporoidaat |
 | **Ornamentatie** | rugulaat, aperturen met gedeeltelijke korrelige ornamentatie |
 
-### Afbeeldingen
+- Bij diverse Rubus soorten, in het bijzonder bij Rubus fruticosus komen afwijkende of slecht ontwikkelde pollenkorrels voor. 
 
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
+### Afbeeldingen
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>
@@ -114,45 +113,65 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
 
 ### Aandeel in de monoflorale honing
 
 - **Representatiegroep:** Groep  ( pollenkorrels per 10 gram). 
-  - 
-  - 
-  - 
 
-### Pollengehaltes ("pollengehaltes")
+### Pollengehalte
 | Bron | Absolute pollengehaltes (per 10 g) |
 | --- | ---: |
-| Demianowics | 80.500 |
+| Demianowics | 48.000-96.000 |
 | IHC (Europese honing) | - |
 | Sawyer | - |
 
 ## Palynologische betekenis
-- in 46% van de onderzochte Nederlandse honing
+- Pollen komen voor in 46% van de onderzochte Nederlandse honing
 
 ## Sleutels
 ### **Beug:** 
+20 Tricolporoidatae mit striaten, striat-reticulaten oder rugulaten Skulpturen
+- 1 PK striaat
+- 2 PK NIET kogelvormig tot oblaat, dunwandig...
+- 3 Valla smaller of tectum tussen de valla met perforaties, colomella vaak goed herkenbaar
+- 4 Valla overal even duidelijk zichtbaar, meest meridiaal. PK sferoid tot prolaat. Exine nooit tpv equator met transversale kralen
+- 6 PK zonder opercula
+- 7 Sculptuur fijn en contrastarm
+- 11 PK groter dan 25 µm
+- 12 Geen uitstulpingen tpv colpus rand equatoriaal: eenvoudig tot S-vormige vernauwingen van de colpus, brugachtige vernauwingen, lichte uitstulpingen en onregelmatig straalvormige uitstulpingen die beginnen bij de equatoriale regio van de colpi en onder de intercolpia reikende scheuren in de endexine. Valla hoog of laag contrast; PK met of zonder Perforaties tussen de Valla
+  - 20.12 Sorbus-Gruppe
+[Sorbus-groep](https://www.paldat.org/search/genus/Sorbus): 
+- 13 geslachten van de rosaseae
+- veel variatie
 
 ### **van der Ham**
+1 monade
+3 zonder luchtzakken
+4 zonder vensters
+5 PK met 1 of meer aperturen
+9 PK met 3 of meer aperturen
+12 PK met 3 of meer langwerpige colpi zonder pori (colpaat)
+16 tricolpaat
+17 tectum aanwezig
+26 ornamentatie: striaat of rugulaat
+31 pollenkorrel kleiner dan 50 µm
+32 colpusranden niet recht -> Rosaceae
 
 ### **Sawyer**
-
+Size: klein
+Vorm: ovaal, afgeplat / driehoekig
+Aperturen: 3
+Apertuurtype: colpi / colporaat
+Oppervlak: glad of weinig gedefineerd
+Exine: medium, geen rods
 
 ## Botanische achtergrond
 - Nectarium in de wand van het vruchtbeginsel
 
-### Taxonomie:
+### Taxonomie
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/7345/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 

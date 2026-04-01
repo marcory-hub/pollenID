@@ -40,7 +40,6 @@
 | **Ornamentatie** | psilaat, aperturen geen ornamentering |
 
 ### Afbeeldingen
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -86,7 +85,6 @@
     </figure>
   </div>
 </div>
-
 <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">

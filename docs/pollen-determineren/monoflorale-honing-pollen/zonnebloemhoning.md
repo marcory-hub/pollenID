@@ -25,22 +25,21 @@
 
 ### Pollenafmeting en vorm
 
-| Kenmerk                 | Waarde                                                 |
-| ----------------------- | ------------------------------------------------------ |
+| Kenmerk | Waarde |
+| --- | --- |
 | **Pollenkorrelgrootte** | 42 (38.9-45.5) μm (Medium) pollenwiki, 26-30 µm paldat |
-| **Vorm**                | rond, sferoid                                          |
-| **Polariteit**          | isopolair                                              |
-| **P/E-ratio**           |                                                        |
+| **Vorm** | rond, sferoid |
+| **Polariteit** | isopolair |
+| **P/E-ratio**  |   |
 
 ### Pollenklasse
 
-| Kenmerk          | Waarde                             |
-| ---------------- | ---------------------------------- |
-| **Aperturen**    | tricoporaat                        |
+| Kenmerk  | Waarde |
+| --- |--- |
+| **Aperturen** | tricoporaat |
 | **Ornamentatie** | echinaat, lengte van echini 5-6 µm |
 
 ### Afbeeldingen
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -105,21 +104,12 @@
 - [PalDat](https://www.paldat.org/pub/Helianthus_annuus/304619)
 
 ## Pollen die erop lijken
-
 - andere 'Helianthus (zonnebloem)-type' composieten
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-
-- 
-
-### Relevante bijpollen
-
-- 
-
 ## Melissopalynologische interpretatie
-- in 12% van nederlandse honing
+- In 12% van Nederlandse honing
 
 ### Aandeel in de monoflorale honing
 
@@ -129,17 +119,15 @@
   - 12-92% Persano Oddo 2004
   - verschillende varieteiten hebben misschien andere pollen productie (Persano Oddo)
 
-### Pollengehaltes ("pollengehaltes")
-
-| Bron                  | Absolute pollengehaltes (per 10 g) meestal onder 30.000 |
-| --------------------- | ------------------------------------------------------- |
-| Demianowics           | 2.830                                                   |
-| IHC (Europese honing) |                                                         |
-| Sawyer                |                                                         |
+### Pollengehaltes
+| Bron | Absolute pollengehaltes (per 10 g) meestal onder 30.000 |
+| --- | --- |
+| Demianowics | 2.830 |
+| IHC (Europese honing) |    |
+| Sawyer |  |
 
 ## Palynologische betekenis
-
-- monoflorale honing van zonnebloem geeft geen hogere marktwaarde
+- Monoflorale honing van zonnebloem geeft geen hogere marktwaarde
 
 ## Sleutels
 
@@ -153,15 +141,12 @@
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/6848/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
-
-
-| Soort             | Nectar | Pollen | Start | Einde |
-| ----------------- | ------ | ------ | ----- | ----- |
-| Helianthus annuus | N 5    | P 5    | 7     | 10    |
-
+| Soort | Nectar | Pollen | Start | Einde |
+| --- | --- | --- | --- | ---|
+| Helianthus annuus | N 5 | P 5 | 7  | 10 |
 
 ## Naslag
 

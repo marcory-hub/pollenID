@@ -1,4 +1,4 @@
-# Koolzaadhoning (Brassica napus, Brassicaceae)
+# Koolzaadhoning (Brassica napus (koolzaad), Brassicaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -22,8 +22,8 @@
 </div> 
 
 ## Herkenning hoofdpollen
-- middelgrote (26-30 µm) ronde tricolpate reticulate pollen
-- dik exine
+- Middelgrote (26-30 µm) ronde tricolpate reticulate pollen
+- Dik exine
 
 ### Pollenafmeting en vorm
 
@@ -169,7 +169,6 @@
 
 ## Palynologische betekenis
 
-
 ## Sleutels
 ### **Beug:** 
 - 1 PK **gelijkmatig reticulair of microreticulair geskulpteerd** (de skulputering kan in de regio van het polair bereik wat groter zijn of de PK zijn marginaat)
@@ -223,8 +222,8 @@
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
 | Soort           | Nectar | Pollen | Start bloei | Einde bloei |
-|-----------------|--------|--------|-------------|-------------|
-| Brassica napus  | N 5    | P 5    | 4           | 8           |
+|----|---|---|---|---|
+| Brassica napus  | N 5 | P 5 | 4 | 8 |
 
 ## Brassica napis als referentie voor reticulaire sculptuur
 Kerkvliet maakt in de [Determinatietabel voor pollen in Nederlandse honing (mrt2014)](https://www.pollenonderzoek.nl/downloads/pollenanalyse%20determinatietabel%20mrt2014.doc) onderverdeling van reticulate pollen:

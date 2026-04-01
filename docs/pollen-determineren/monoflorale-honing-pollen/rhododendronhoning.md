@@ -19,7 +19,6 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
@@ -81,55 +80,35 @@
 
 ## Pollen die erop lijken
 
-
-### Rutaceae
-
-
 ## Relevante neven- en bijpollen
 
-
 ## Melissopalynologische interpretatie
-
 
 ### Aandeel in de monoflorale honing
 
 - [Representatiegroep](../../palynologie-paginas/groepsindeling_monoflorale_honing.md):  ( pollenkorrels per 10 gram).
-    - ondergerepresenteerd
- 
+  - ondergerepresenteerd
+  - 15-77% (Persano-Oddo)
     
-
-### Pollengehaltes ("pollengehaltes")
-| Bron                   | Pollengehalte (per 10 g) |
-|------------------------|--------------------------|
-| Absolute waarde        |   |
-| Demianowics            |  |
-| IHC (Europese honing)  |             |
-| Sawyer                 |          |
 
 ## Palynologische betekenis
 
-
 ## Sleutels
-### **Beug:** 
+### **Beug** 
 
 ### **van der Ham**
-
 
 ## Botanische achtergrond
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/7312/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
-| Soort           | Nectar | Pollen | Start bloei | Einde bloei |
-|-----------------|--------|--------|-------------|-------------|
-|  |     |    |         |           |
-
-
-
-
+| Soort | Nectar | Pollen | Start bloei | Einde bloei |
+|----|---|---|---|---|
+| Rhododendron | N 1 |	P 1	| 5	| 6 |
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

@@ -1,6 +1,5 @@
 # Phaceliahoning (Phacelia tanacetifolia)
 
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -24,7 +23,6 @@
 
 ## Herkenning hoofdpollen
 
-
 ### Pollenafmeting en vorm
 
 | Kenmerk | Waarde |
@@ -42,10 +40,6 @@
 | **Ornamentatie** | scabraat tot psylaat, aperturen met geringe korrelige ornamentatie |
 
 ### Afbeeldingen
-
-(P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede)
-
-<!--  Vervang WIDTH_PX door 40/200*(Pollenkorrelgrootte in µm). -->
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -95,21 +89,14 @@
 
 ## Relevante neven- en bijpollen
 
-### Relevante nevenpollen
-- 
-
-### Relevante bijpollen
-- 
-
 ## Melissopalynologische interpretatie
-- pollenrijke honing
+- Pollenrijke honing
 
 ### Aandeel in de monoflorale honing
 
-- **Representatiegroep:** Groep II/III ( pollenkorrels per 10 gram). 
+- **Representatiegroep:** Groep II/III ( 100.000-500.000 pollenkorrels per 10 gram). 
   - minimaal 90%
   - meer dan 60% Persano Oddo
-  - 
 
 ### Pollengehaltes ("pollengehaltes")
 | Bron | Absolute pollengehaltes (per 10 g) |
@@ -136,18 +123,17 @@
 15 Ornamentatie fijn reticulaat (mazen kleiner dan 1 um)
 ### **Sawyer**
 
-
 ## Botanische achtergrond
 
 ### Taxonomie:
 
-- [Verspreidingskaart (waarneming.nl)]
+- [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/species/7164/maps/?start_date=2020-01-01&interval=15552000&end_date=2030-01-01&map_type=grid10k)
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 
 | Soort | Nectar | Pollen | Start | Einde |
 | --- | --- | --- | --- | --- |
-
+| Phacelia | N 5 | P 5 | 5 | 9 |
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
