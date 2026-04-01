@@ -7,21 +7,34 @@
 ---
 
 to do
-- curricular architecture: define the spine pages, define gates, then refactor indexes (especially `docs/kernset.md`) so they don’t leak verdiepingset content.
-- manual foto selection from pollen wiki (best pollen row). Rescale!
-- Create a top-level nav entry using your chosen biological label (e.g. Vliegroute).
-	- - Top-level route label: `Vliegroute`
-	- Exercise reveal mechanic: HTML `<details><summary>`
-	- Region default: Nederland
-	- Escape hatch: “als importhoning vermoeden → noteer vermoedelijke herkomstregio”
-	- Bloom period source: Imkerpedia
-	- Bloom period presence: always present
-	- Decision level default: type/family
-	- Species level: only with verdiepingsbadge
-- Kernset boundary: no direct links to verdiepingset
-- That page becomes the course spine with checkpoints and deliverables.
-- Enforce “strict kernset” by restructuring `docs/kernset.md` so it links only to `kernset-herkenning/` (and uses the standardized “vastgelopen → vergelijkingen → verdieping” callout).
-- Define one canonical exercise template (Markdown snippet) and reuse it everywhere, with `<details>` for the answer.
+- add beug monofloraal
+- [[prio pollen]]
+- vergelijkingen
+- secundaire-inbreng
+- add own images
+- add quests
+
+2026-04-01
+- cleanup obsidian
+- cleanup repo
+
+2026-03-31 
+- monoflorale honing persano-oddo
+
+2026-03-30
+- monoflorale honing
+
+2026-03-29
+- monoflorale honing
+
+2026-03-28
+- koolzaadhoning
+- skill scale-image
+
+2026-03-27
+- rescaling of images size in um x 19/6
+- template monoflorale honing
+
 2026-03-26
 - kernset split (monofloraal and dutch pollen)
 
@@ -41,7 +54,7 @@ to do
 	- vergelijkingen
 	- verdiepingsset
 2026-03-23
-- experiment with [[pid plan]]
+- experiment with [[z prompt plan mode]]
 - make obsidian notes structure
 - clean up repo
 - clone on m5

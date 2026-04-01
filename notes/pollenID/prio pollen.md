@@ -1,3 +1,10 @@
+**One-line purpose:** index of relevant pollen for melissopalynology
+**Short summary:** 
+**Agent:** pollen that have after the monofloral pollen have the higest proprity
+**SoT:** yes
+**Main Index:** [[__pollenID]]
+
+---
 
 Brassica-Typ
 Prunus-/Pirus-Typ

@@ -1,3 +1,14 @@
+**One-line purpose:** prompt for mkdocs material
+**Short summary:** build an intuitive MkDocs Material site for identifying pollen
+**Agent:** depricated prompt
+**SoT:** NO
+**Main Index:** [[__pollenID]]
+
+---
+
+
+
+
 
 prompt for grok
 ```
