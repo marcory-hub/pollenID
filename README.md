@@ -3,7 +3,7 @@
 Notities voor het herkennen en determineren van pollen in honing, met de nadruk op de praktische uitvoering van microscopische analyse. De documentatie is gebouwd met MkDocs Material.
 
 ## Online
-https://marcory-hub.github.io/pollenID/
+https://marcory-hub.github.io/pollenID/_index/
 
 ## Aan de slag (Lokaal draaien)
 Volg deze stappen om de documentatie op je eigen computer te bekijken:
