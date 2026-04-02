@@ -17,6 +17,7 @@
 - Halbritter, H. et al. - *Illustrated Pollen Terminology* (2e editie, 2018; open access naslagwerk).
 
 ## Honing- en melissopalynologie
+- [An overview of mellissopalynology and its scope in beekeeping](https://www.biochemjournal.com/archives/2025/vol9issue4S/PartD/S-9-4-30-805.pdf)
 - Armbruster & Jacobs - *Pollenformen und Honigherkunftsbestimmung*.
 - Armbruster & Oenike - *Pollenformen als Mittel der Honigherkunftsbestimmung*.
 - Evenius & Focke - mikroscopische honingonderzoeksmethoden.
@@ -32,7 +33,8 @@
 - Filzer - *Kleines Praktikum der Pollenanalyse*.
 - Kapp - *How to Know Pollen and Spores*.
 
-
+## Botany
+- [Soortaanduidingen bij plantennamen]( https://nl.wikipedia.org/wiki/) De soortaanduidingen bij plantennamen hebben vaak een betekenis met betrekking tot de levenscyclus en de bouw (morfologie) van de plant, de geur en de kleur (meestal van de bloemen, soms van de plant als geheel), de standplaats en het verspreidingsgebied (areaal) van de soort.
 
 
 ## Image Attribution: 
