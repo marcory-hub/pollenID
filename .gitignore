@@ -9,7 +9,8 @@ credentials*.md
 .cursor/*
 !.cursor/rules/
 !.cursor/rules/*
-
+!.cursor/skills/
+!.cursor/skills/*
 
 # Python & envs
 .venv/
