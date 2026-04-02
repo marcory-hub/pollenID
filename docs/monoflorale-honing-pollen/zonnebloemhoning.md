@@ -4,19 +4,19 @@
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Helianthus_annuus_Po.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op oppervlak.">
-      <figcaption class="pid-scale-caption">Helianthus (P o)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), P, focus op doorsnede.">
-      <figcaption class="pid-scale-caption">Helianthus (P d)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op oppervlak.">
-      <figcaption class="pid-scale-caption">Helianthus (E o)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" style="height: 210px; width: auto;" alt="Helianthus annuus (zonnebloem), E, focus op doorsnede.">
-      <figcaption class="pid-scale-caption">Helianthus (E d)</figcaption>
+      <figcaption class="pid-scale-caption">Helianthus annuus</figcaption>
     </figure>
   </div>
 </div>
@@ -145,8 +145,8 @@
 
 **Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
 | Soort | Nectar | Pollen | Start | Einde |
-| --- | --- | --- | --- | ---|
-| Helianthus annuus | N 5 | P 5 | 7  | 10 |
+|---|---|---|---|---|
+| Helianthus annuus | N 5 | P 5 | 7 | 10 |
 
 ## Naslag
 

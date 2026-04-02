@@ -180,5 +180,5 @@ Exine: medium, geen rods
 | Ligustrum vulgare | 	N 5	| P 5 | 5 | 6	|
 
 ## Naslag
-- [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
+- [Main European unifloral honeys: descriptive sheets, Persano Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 
