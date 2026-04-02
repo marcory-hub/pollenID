@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "key": "beug_dicolporatae",
+    "title": "12. Dicolporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §12 Dicolporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 5,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae-laag in opzicht overal duidelijk.",
+          "next": "2"
+        },
+        {
+          "label": "Columellae-laag in opzicht onduidelijk of alleen aan de polen duidelijk.",
+          "next": "3"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine equatoriaal tot 2,0 µm dik, polair tot 3,0 µm dik. PK sferoïdisch tot oblaat, PFormI 0,85–0,95. Poruslengte 2–5 µm (tabel 12: 12).",
+          "outcome": {
+            "text": "12.1 *Potamogeton natans* (blz. 120)"
+          }
+        },
+        {
+          "label": "Exine overal dunner dan 1,5 µm. PK prolaat tot perprolaat. Poruslengte 5–10 µm.",
+          "outcome": {
+            "text": "12.2 *Calystegia sepium* (blz. 120)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae-laag in opzicht onduidelijk of geheel afwezig. Porus met dunne rand (tabel 12: 13–15).",
+          "outcome": {
+            "text": "12.3 *Valeriana dioica* (blz. 122)"
+          }
+        },
+        {
+          "label": "Columellae-laag alleen aan de polen duidelijk. Porusrand normaal gevormd (tabel 12: 16–22).",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat of scabraat. Endexine in optisch aanzicht dun, vaak onduidelijk, minder dan 1,0 µm dik (tabel 12: 16–17).",
+          "outcome": {
+            "text": "12.4 *Cornus sanguinea* (blz. 122)"
+          }
+        },
+        {
+          "label": "PK reticulaat of fossulaat. Endexine in optisch aanzicht dik, duidelijk, boven 1,0 µm dik (tabel 12: 18–22).",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Reticulum zeer fijnmazig tot microreticulaat (fig. 20a–c).",
+          "outcome": {
+            "text": "12.5 *Swertia perennis* (blz. 122)"
+          }
+        },
+        {
+          "label": "Reticulum grofmazig, vaak van onregelmatige brochi (fig. 20d).",
+          "outcome": {
+            "text": "12.6 *Menyanthes trifoliata* (blz. 124)"
+          }
+        }
+      ]
+    }
+  }
+}

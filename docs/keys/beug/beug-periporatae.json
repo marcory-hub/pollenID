@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_periporatae",
+    "title": "17. Periporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17 Periporatae. PK = pollenkorrel, CL-Index = colpuslengte-index. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 4–15 poriën, die 1,2–1,9 µm breed zijn, ca. 2,0–3,5 µm uit elkaar liggen. PK 23–45 µm (tabel 34: 1–8).",
+          "outcome": {
+            "text": "17.1 *Chenopodium* (blz. 210)"
+          }
+        },
+        {
+          "label": "PK met 4–6 poriën, 2,0–2,8 µm breed, ca. 5,0 µm uit elkaar liggend. PK 29–47 µm (tabel 34: 9–14).",
+          "outcome": {
+            "text": "17.2 *Cannabis sativa*-type (blz. 210)"
+          }
+        }
+      ]
+    }
+  }
+}

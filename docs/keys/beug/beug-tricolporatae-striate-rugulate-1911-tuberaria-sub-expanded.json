@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_striate_rugulate_1911_tuberaria_sub_expanded",
+    "title": "19.11 Tuberaria-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §19.11 Tuberaria-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 2,8-3,2 µm dik.",
+          "outcome": {
+            "text": "19.11.1 *Tuberaria guttata*"
+          }
+        },
+        {
+          "label": "Exine 3,8-4,2 µm dik.",
+          "outcome": {
+            "text": "19.11.2 *Helianthemum umbellatum*"
+          }
+        }
+      ]
+    }
+  }
+}

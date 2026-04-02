@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_verrucate_rugulate",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (verrucate-rugulate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit verruse-rugulaten Skulpturen. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met duidelijke verrucate-rugulate sculptuur (tabel 38: 6–10).",
+          "outcome": {
+            "text": "16.15 *Medicago sativa*-type (blz. 216)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne verrucate-rugulate sculptuur (tabel 38: 11–15).",
+          "outcome": {
+            "text": "16.16 *Onobrychis viciifolia*-type (blz. 216)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_178_linnaea_borealis",
+    "title": "17.8 Linnaea borealis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.8 Linnaea borealis. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 46: 9–13).",
+          "outcome": {
+            "text": "17.8.1 *Linnaea borealis*-type (blz. 244)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 46: 14–18).",
+          "outcome": {
+            "text": "17.8.2 *Linnaea borealis*-type 2 (blz. 244)"
+          }
+        }
+      ]
+    }
+  }
+}

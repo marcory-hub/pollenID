@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_229_rhamnus_type_sub",
+    "title": "22.9 Rhamnus-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.9 Rhamnus-Typ. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi groter dan 1 µm en tot 2 µm groot, muri breed en contrastarm (Tafel 71: 1-5).",
+          "outcome": {
+            "text": "22.9 *Rhamnus*-type (blz. 330)"
+          }
+        },
+        {
+          "label": "PK microreticulaat, brochi tot 1 µm groot, muri smal en contrastrijk (Tafel 70: 23-29).",
+          "outcome": {
+            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+        }
+      ]
+    }
+  }
+}

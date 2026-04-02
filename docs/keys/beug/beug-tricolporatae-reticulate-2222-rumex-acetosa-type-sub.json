@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2222_rumex_acetosa_type_sub",
+    "title": "22.22 Rumex acetosa-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.22 Rumex acetosa-type. PK = pollenkorrel, PFieldI = poolveldindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microreticulaat, rond, dunwandig, 17-37 µm groot, muri reticulaat-rugulaat of scabraat gesculpteerd (Tafel 75: 8-14).",
+          "outcome": {
+            "text": "22.22 *Rumex acetosa*-type (blz. 340)"
+          }
+        },
+        {
+          "label": "Poolfelder middelgroot of groot (PFieldI ca. 0,3-0,6) (Tafel 75: 8-14).",
+          "outcome": {
+            "text": "22.22 *Rumex acetosa*-type (blz. 340)"
+          }
+        },
+        {
+          "label": "Geen van beide.",
+          "outcome": {
+            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+        }
+      ]
+    }
+  }
+}

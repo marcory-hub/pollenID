@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_172_valeriana_officinalis",
+    "title": "17.2 Valeriana officinalis-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.2 Valeriana officinalis-Gruppe. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
+          "outcome": {
+            "text": "17.2.1 *Valeriana officinalis*-type (blz. 236)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
+          "outcome": {
+            "text": "17.2.2 *Valeriana montana*-type (blz. 236)"
+          }
+        }
+      ]
+    }
+  }
+}

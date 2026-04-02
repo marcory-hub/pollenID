@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "key": "beug_inaperturatae_72_ephedra",
+    "title": "7.2 Ephedra (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §7.2 Ephedra. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 2,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Pseudocolpi zigzagvormig en vertakt, PK met 3–8 ribben (fig. 9d).",
+          "outcome": {
+            "text": "7.2.1 *Ephedra distachya*-type"
+          }
+        },
+        {
+          "label": "Pseudocolpi onvertakt, recht of zwak golvend resp. zigzagvormig, PK met meer dan 8 ribben (fig. 9e).",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PFormI 1,5–2,3, PK met (9)11–17 ribben.",
+          "outcome": {
+            "text": "7.2.2 *Ephedra fragilis*-type"
+          }
+        },
+        {
+          "label": "PFormI 1,1–1,4, PK met 16–20 ribben.",
+          "outcome": {
+            "text": "7.2.3 *Ephedra foliata*-type"
+          }
+        }
+      ]
+    }
+  }
+}

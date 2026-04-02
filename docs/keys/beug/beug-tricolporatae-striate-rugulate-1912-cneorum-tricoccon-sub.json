@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_striate_rugulate_1912_cneorum_tricoccon_sub",
+    "title": "19.12 Cneorum tricoccon (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §19.12 Cneorum tricoccon. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striate, met talrijke perforaties tussen de valla, ook striat-reticulaat, rangschikking van de valla niet regelmatig, poriën 5-8 µm groot (Tafel 51: 11-18, Tafel 52: 1-4).",
+          "outcome": {
+            "text": "19.11 *Tuberaria*-Gruppe (blz. 264)"
+          }
+        },
+        {
+          "label": "PK striat-microreticulaat, regelmatige patroonvorming als gevolg van lange parallel gerangschikte valla. Poriën 7-12 µm groot (Tafel 52: 5-10).",
+          "outcome": {
+            "text": "19.12 *Cneorum tricoccon* (blz. 264)"
+          }
+        }
+      ]
+    }
+  }
+}

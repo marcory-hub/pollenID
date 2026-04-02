@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2214_cistus_albidus_type_sub",
+    "title": "22.14 Cistus albidus-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.14 Cistus albidus-Typ. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1-1,5(2) µm groot, colpen zonder margines, PFormI 1,0-1,2, wanneer groter als 1,2, vgl. *Fumana laevipes*-type (blz. 326) (Tafel 73: 1-6).",
+          "outcome": {
+            "text": "22.14 *Cistus albidus*-type (blz. 334)"
+          }
+        },
+        {
+          "label": "Brochi 1,5-3,5 µm groot, colpen met ongeveer 5 µm brede margines uit 1 µm grote brochi (Tafel 72: 1-12).",
+          "outcome": {
+            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+        }
+      ]
+    }
+  }
+}

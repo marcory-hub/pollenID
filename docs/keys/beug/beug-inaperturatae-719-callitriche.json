@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_inaperturatae_719_callitriche",
+    "title": "7.19 Callitriche stagnalis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §7.19 Callitriche stagnalis. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK inaperturaat of met enkele zones van gereduceerde sculptuur.",
+          "outcome": {
+            "text": "*Callitriche stagnalis*"
+          }
+        },
+        {
+          "label": "PK met 2, zelden 3 of 4 brede, onregelmatig gevormde en begrensde, langwerpige tot ronde aperturen (tabel 96: 1–4).",
+          "outcome": {
+            "text": "*Callitriche palustris*-type (blz. 424)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_171_asteraceae",
+    "title": "17.1 Asteraceae p.p. (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.1 Asteraceae p.p. PK = pollenkorrel, PFormI = pollenvormindex, CL-Index = colpuslengte-index. Afbeeldingen niet opgenomen.",
+    "stepCount": 11,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine tussen de echini scabraat of verrucaat (tabel 38: 1-4).",
+          "outcome": {
+            "text": "17.1.1 *Crupinia* (blz. 224)"
+          }
+        },
+        {
+          "label": "Exine alleen met echini.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echini netvormig met elkaar verbonden door richelvormige verheffingen van het tectum en de buitenste columellae-laag (tabel 37: 6-7). Binnenste columellae-laag onduidelijk, binnenste columellae dun, vaak kort, meestal alleen in aanzicht herkenbaar. PK sferoïdisch, PFormI iets kleiner dan 1,0. Indien PK langgerekt of binnenste columellae-laag duidelijk, vgl. *Carthamus* (zeer korte colpen), *Cirsium*, *Saussurea* of *Rhaponticum* (tabel 37: 6-7).",
+          "outcome": {
+            "text": "17.1.2 *Centaurea alpina*-type (blz. 226)"
+          }
+        },
+        {
+          "label": "Echini zonder richelvormige verbindingen.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpen extreem kort, CL-Index 2,5-7,2.",
+          "next": "4"
+        },
+        {
+          "label": "Colpen langer, CL-Index < 2,5.",
+          "next": "5"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK > 50 µm groot, langgerekt, sferoïdisch tot prolaat, CL-Index 2,5-4,4 (tabel 39: 1-3).",
+          "outcome": {
+            "text": "17.1.3 *Carthamus*-type (blz. 226)"
+          }
+        },
+        {
+          "label": "PK 18-25 µm groot, sferoïdisch, CL-Index 5,4-7,2 (tabel 39: 4-7).",
+          "outcome": {
+            "text": "17.1.4 *Xanthium spinosum*-type (blz. 226)"
+          }
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Binnenste columellae-laag aanwezig.",
+          "next": "6"
+        },
+        {
+          "label": "Binnenste columellae-laag volledig of alleen onder de echini gereduceerd of in stompjes onder de tussenlaag; zelden staan deze stompjes op de endexine.",
+          "next": "9"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat, ca. 65-95 µm lang. Buitenste columellae-laag in het midden van het intercolpium op het dikst (9-14 µm). Intercolpia daardoor ±geflankeerd en exine 18-23 µm dik. Binnenste columellae zeer krachtig, opbouw van de buitenste columellae-laag onduidelijk. Echini is ongeveer 2 µm lang. Kleinere maten bij de Zuid-Europese soort *Echinops bannaticus* (tabel 38: 5-8).",
+          "outcome": {
+            "text": "17.1.5 *Echinops* (blz. 226)"
+          }
+        },
+        {
+          "label": "Exine en buitenste columellae-laag dunner, PK meest kleiner en ofwel ± kugelig.",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën zonder costae. PK klein. Polasymmetrisch met echini meestal kleiner dan 35 µm, echini lang en spits. Exine tussen de echini < 5 µm dik. PK sferoïdisch.",
+          "outcome": {
+            "text": "17.1.6 *Matricaria*-type (blz. 226)"
+          }
+        },
+        {
+          "label": "Poriën met costae. PK groter. Polasymmetrisch met echini zelden kleiner dan 40 µm. Echini vaak zeer kort en stomp. Exine tussen de echini 5-10 µm dik.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Binnenste columellae onder de echini tot 3 µm lang, tussen de echini meestal onder 2 µm, bij rondachtige dwarsdoorsnede (aanzicht) dunner dan 2 µm, distaal niet of hoogstens onduidelijk verzweerd. PK sferoïdisch, PFormI om of onder 1,0 (tabel 39: 8-10).",
+          "outcome": {
+            "text": "17.1.7 *Cirsium* (blz. 228)"
+          }
+        },
+        {
+          "label": "Binnenste columellae maximaal 3,5-5,0 µm lang en 3-4(5) µm dik, distaal verzwegen, dicht gesteld (tabel 39: 11-15, tabel 40: 1-2).",
+          "outcome": {
+            "text": "17.1.8 *Saussurea*-type (blz. 229)"
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Binnenste columellae ontbreken volledig of zijn slechts op sommige plaatsen onder de echini aanwezig.",
+          "next": "10"
+        },
+        {
+          "label": "Binnenste columellae rudimentair in de vorm van stompjes aan de binnenkant van het tussenlaagje in grote aantallen en niet alleen onder de echini aanwezig (tabel 37: 8).",
+          "outcome": {
+            "text": "17.1.9 *Staehelina dubia* (blz. 230)"
+          }
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echini 1-2 µm lang, PK met ringfurche, buitenste columellae zeer dun (tabel 40: 3-15).",
+          "outcome": {
+            "text": "17.1.10 *Centaurea jacea*-type (blz. 230)"
+          }
+        },
+        {
+          "label": "Echini langer dan 2 µm, PK zonder ringfurche.",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endexine 2-3 µm dik, wanneer 1,5-2 µm dik, dan PK > 50 µm.",
+          "outcome": {
+            "text": "17.1.11 *Carduus*-type (blz. 230)"
+          }
+        },
+        {
+          "label": "Endexine 0,5-1,5 µm dik, PK < 50 µm (tabel 41: 1-13).",
+          "outcome": {
+            "text": "17.1.12 *Senecio*-type (blz. 231)"
+          }
+        }
+      ]
+    }
+  }
+}

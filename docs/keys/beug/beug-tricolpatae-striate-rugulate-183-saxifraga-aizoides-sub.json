@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_striate_rugulate_183_saxifraga_aizoides_sub",
+    "title": "18.3 Saxifraga aizoides-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §18.3 Saxifraga aizoides-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 2,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae-laag 0,8-1,1 µm dik, zo dik als het tectum en de valla samen. Valla 0,7-1,0 µm breed, columellae in opzicht en in optische doorsnede duidelijk herkenbaar (Tafel 47: 1-6).",
+          "outcome": {
+            "text": "18.3.1 *Saxifraga cuneifolia*-type"
+          }
+        },
+        {
+          "label": "Columellae-laag dunner dan tectum en valla samen, ongeveer 0,5-0,7 µm dik, columellae in opzicht en in optische doorsnede niet altijd duidelijk herkenbaar.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Patroon van de striate sculpturering met microbrochi resp. perforaties (Tafel 47: 7-10).",
+          "outcome": {
+            "text": "18.3.2 *Saxifraga caesia*-type"
+          }
+        },
+        {
+          "label": "Patroon van de striate sculpturering zonder microbrochi resp. perforaties (Tafel 47: 11-14).",
+          "outcome": {
+            "text": "18.3.3 *Saxifraga aizoides*-type"
+          }
+        }
+      ]
+    }
+  }
+}

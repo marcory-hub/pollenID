@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "key": "beug_tetradeae_410_epipactis",
+    "title": "4.10 Epipactis-groep (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §4.10. EPK = individuele pollenkorrel binnen de tetrade. Afbeeldingen niet opgenomen.",
+    "stepCount": 3,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Sculptuur striaat(-reticulaat).",
+          "outcome": {
+            "text": "4.10.1 *Listera cordata*"
+          }
+        },
+        {
+          "label": "Sculptuur reticulaat.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "EPK met 1 of 2 grote poriën.",
+          "next": "3"
+        },
+        {
+          "label": "EPK inaperturaat.",
+          "outcome": {
+            "text": "*Listera* p.p., *Neottia* p.p., *Spiranthes* p.p."
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "EPK met 1 porie, tetraden reticulaat gesculpteerd.",
+          "outcome": {
+            "text": "4.10.2 *Epipactis*"
+          }
+        },
+        {
+          "label": "EPK met 2 poriën, tetraden reticulaat of reticulaat-striaat gesculpteerd.",
+          "outcome": {
+            "text": "4.10.3 *Neottia*-type"
+          }
+        }
+      ]
+    }
+  }
+}

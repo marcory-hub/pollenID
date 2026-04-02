@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_striate_rugulate",
+    "title": "18. Tricolpatae (striate, striat-reticulate of rugulate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §18 Tricolpatae PK mit striaten, striat-reticulaten oder rugulaten Skulpturen. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 8,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK rugulaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK striate of striat-(micro)reticulaat.",
+          "next": "3"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine > 6 µm dik, PK > 45 µm groot, sculptuur rugulaat-reticulaat (Tafel 46: 14).",
+          "outcome": {
+            "text": "18.1 *Erodium* (blz. 248)"
+          }
+        },
+        {
+          "label": "Exine dunner dan 4 µm (wanneer PK kogelig, dunwandig, met groot poolveld, verrucaat-rugulaat, vgl. *Datura stramonium*, blz. 274).",
+          "outcome": {
+            "text": "vgl. tricolporoïde PK (blz. 265)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine equatoriaal tot subpolair duidelijk dikker dan in het poolgebied. PK in polair aanzicht driehoekig en planapertuuraat, of PK met sterk verdikte opercula (Tafel 14:13-16).",
+          "outcome": {
+            "text": "*Alchemilla*-Gruppe (blz. 131)"
+          }
+        },
+        {
+          "label": "Exine overal gelijk dik of polair iets verdikt.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla overwegend of toch minstens in equatoriaal gebied transversaal gerangschikt.",
+          "next": "5"
+        },
+        {
+          "label": "Valla ook in equatoriaal gebied meridiaal of annapertuuraat meridiaal geordend.",
+          "next": "7"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpen equatoriaal s-vormig of meervoudig verengd, wanneer enkel verengd of onverengd, dan intercolpi-randen golvend of equatoriaal opgelost. Opvallende verdikkingen van de intercolpium-randen kunnen in het equatoriaal gebied aanwezig zijn.",
+          "outcome": {
+            "text": "vgl. tricolporoïde PK (blz. 265)"
+          }
+        },
+        {
+          "label": "Colpen equatoriaal onverengd of zelden enkel verengd, maar dan zonder equatoriaal opgeloste of verdikte intercolpium-randen.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endexine dikker dan Tectum en Valla samen of gelijk dik (Tafel 46: 5-8).",
+          "outcome": {
+            "text": "18.2 *Trollius europaeus* (blz. 248)"
+          }
+        },
+        {
+          "label": "Endexine steeds dunner dan Tectum en Valla samen (Tafel 47: 1-14).",
+          "next": "beug-tricolpatae-striate-rugulate-183-saxifraga-aizoides-sub"
+          }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla maximaal 0,7-1,4 µm breed, columellae zeer laag (ongeveer 0,3 µm), in opzicht zowel als in optische doorsnede moeilijk herkenbaar (Tafel 53: 6-8).",
+          "outcome": {
+            "text": "*Menyanthes trifoliata* (blz. 270)"
+          }
+        },
+        {
+          "label": "Valla smaller, vaak onduidelijk, columellae minstens in optische doorsnede overal herkenbaar.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpium-randen steeds glad en zonder onregelmatigheden (Tafel 47: 15-18).",
+          "outcome": {
+            "text": "18.4 *Acer* (blz. 250)"
+          }
+        },
+        {
+          "label": "Intercolpium-randen equatoriaal onderbroken, colpen equatoriaal verengd of met zwak ontwikkelde poriën.",
+          "outcome": {
+            "text": "vgl. tricolporoïde PK, blz. 265"
+          }
+        }
+      ]
+    }
+  }
+}

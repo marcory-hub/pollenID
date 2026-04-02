@@ -18,7 +18,7 @@
   }
 
   /**
-   * JSON-eindpunten gebruiken *cursief* zoals in het boek; geen volledige Markdown.
+   * JSON-labels en eindpunten gebruiken *cursief* zoals in het boek; geen volledige Markdown.
    * Paren asterisken worden <em>; overige tekst ge-escaped.
    */
   function formatEmphasisAst(s) {
@@ -103,12 +103,14 @@
         btn.className = "vdh-pollentabel-btn vdh-pollentabel-btn--choice";
         // Render label + optional image as a small "proof-of-concept".
         const labelSpan = document.createElement("span");
-        labelSpan.textContent = ch.label || "Optie " + (idx + 1);
+        const labelText = ch.label || "Optie " + (idx + 1);
+        labelSpan.innerHTML = formatEmphasisAst(labelText);
         btn.appendChild(labelSpan);
         if (ch.image) {
           const img = document.createElement("img");
           img.src = ch.image;
-          img.alt = (ch.label || "Keuze") + " (afbeelding)";
+          img.alt =
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)";
           img.style.display = "block";
           if (ch.imageWidthPx) {
             img.style.width = String(ch.imageWidthPx) + "px";
@@ -311,7 +313,11 @@
       tdS.className = "vdh-pollentabel-td-step";
 
       const tdL = document.createElement("td");
-      tdL.textContent = row.label;
+      if (row.label.indexOf("*") !== -1) {
+        tdL.innerHTML = formatEmphasisAst(row.label);
+      } else {
+        tdL.textContent = row.label;
+      }
 
       const tdR = document.createElement("td");
       if (row.kind.indexOf("eindpunt") === 0 && row.result.indexOf("*") !== -1) {

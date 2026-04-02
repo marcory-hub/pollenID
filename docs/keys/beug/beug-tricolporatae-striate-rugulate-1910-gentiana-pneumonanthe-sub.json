@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_striate_rugulate_1910_gentiana_pneumonanthe_sub",
+    "title": "19.10 Gentiana pneumonanthe-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §19.10 Gentiana pneumonanthe-type. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla smal: een groep van 6-8 parallelle valla heeft een breedte van 5 µm (Tafel 50: 10-23, Tafel 51: 1-4).",
+          "outcome": {
+            "text": "19.10 *Gentiana pneumonanthe*-type (blz. 262)"
+          }
+        },
+        {
+          "label": "Valla breder: een groep van 5 parallelle valla heeft een breedte van 5 µm.",
+          "next": "16"
+        }
+      ]
+    }
+  }
+}

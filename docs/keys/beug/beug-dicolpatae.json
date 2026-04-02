@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "key": "beug_dicolpatae",
+    "title": "11. Dicolpatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §11 Dicolpatae. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 6,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat, retipilaat, rugulaat of fossulaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK psilaat of scabraat.",
+          "next": "6"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae aanwezig.",
+          "next": "3"
+        },
+        {
+          "label": "Columellae afwezig.",
+          "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK langer dan breed, reticulaat, marginaat (tabel 11: 1–3).",
+          "outcome": {
+            "text": "11.1 *Tamus communis* (blz. 118)"
+          }
+        },
+        {
+          "label": "PK sferoïdisch, retipilaat, niet marginaat, colpen onduidelijk.",
+          "outcome": {
+            "text": "*Callitriche palustris*-type (blz. 424)"
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "De beide colpen liggen op één zijde van de PK dicht naast elkaar (afstand 5–8 µm).",
+          "outcome": {
+            "text": "11.2 *Chamaerops humilis* (blz. 118)"
+          }
+        },
+        {
+          "label": "De colpen liggen tegenover elkaar.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK ± sferoïdisch, in de omtrek onregelmatig gevormd. Exine meestal rugulaat-reticulaat, zelden reticulaat of fossulaat. Intercolpium-randen onregelmatig, meestal ingekrompen.",
+          "outcome": {
+            "text": "11.3 *Calla palustris* (blz. 118)"
+          }
+        },
+        {
+          "label": "PK prolaat tot perprolaat, met regelmatig gevormd reticulum.",
+          "outcome": {
+            "text": "11.4 *Tofieldia* (blz. 118)"
+          }
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, columellae-laag duidelijk.",
+          "outcome": {
+            "text": "11.5 *Hypecoum pendulum* (blz. 120)"
+          }
+        },
+        {
+          "label": "PK prolaat tot perprolaat, zonder columellae-laag.",
+          "outcome": {
+            "text": "11.6 *Cypripedium calceolus* (blz. 120)"
+          }
+        }
+      ]
+    }
+  }
+}

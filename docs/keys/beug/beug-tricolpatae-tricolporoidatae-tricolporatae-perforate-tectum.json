@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_perforate_tectum",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (perforate tectum) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit perforaten tectum. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met geperforeerd tectum (tabel 38: 26–30).",
+          "outcome": {
+            "text": "16.19 *Euphorbia cyparissias*-type (blz. 216)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijn geperforeerd tectum (tabel 39: 1–5).",
+          "outcome": {
+            "text": "16.20 *Euphorbia esula*-type (blz. 216)"
+          }
+        }
+      ]
+    }
+  }
+}

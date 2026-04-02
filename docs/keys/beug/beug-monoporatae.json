@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "key": "beug_monoporatae",
+    "title": "Monoporatae (Beug §8) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §8 Monoporatae. PK = pollenkorrel, PMT = pollenmiddendeel (centraal lichaam), PFormI = pollenvormindex, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
+    "note": "De Duitse afkorting 'p.p.' staat voor 'pro parte' (deels). Plate-/figuurnummers (Tafel, Abb.) als tekstreferentie behouden.",
+    "stepCount": 6,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK oblaat tot sferoïdisch, distale deel clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en met enkele clavae. De grote porie op de proximale zijde is operculaat. Het operculum is verrucaat gesculpteerd (tabel 2: 5–7).",
+          "outcome": {
+            "text": "8.1 *Nymphaea* (blz. 73)"
+          }
+        },
+        {
+          "label": "Porie zonder operculum of PK zonder clavae, gemmae en bacula.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Sculptuur verrucaat tot gemmaat, PK sferoïdisch, dikwandig, zeer dicht gesculpteerd. Apertuur groot, vaak iets verlengd, meestal onregelmatig en hoekig begrensd (tabel 8: 11–12).",
+          "outcome": {
+            "text": "*Sciadopitys verticillata* (blz. 99)"
+          }
+        },
+        {
+          "label": "PK reticulaat, echinaat, psilaat of microgemmaat.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porie met annulus en costa, sculptuur psilaat-scabraat (tabel 6 en 7, tabel 8: 1–4, tabel 9: 5–6, fig. 11–17).",
+          "next": "beug-monoporatae-82-poaceae"
+        },
+        {
+          "label": "Porie zonder annulus en costa.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, rond en afgeplat, porie 20–25 µm groot (tabel 5: 6–11).",
+          "outcome": {
+            "text": "*Ginkgo biloba* (blz. 110)"
+          }
+        },
+        {
+          "label": "PK reticulaat of echinaat.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat (tabel 8: 5–6).",
+          "outcome": {
+            "text": "8.3 *Lemnaceae* (blz. 91)"
+          }
+        },
+        {
+          "label": "PK reticulaat.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porie tot 6(8) µm groot (tabel 5: 18–22, tabel 9: 1).",
+          "outcome": {
+            "text": "8.4 *Sparganium*-type (blz. 91)"
+          }
+        },
+        {
+          "label": "Porie over 10 µm (tot 33 µm) groot. Poriënmembraan, indien aanwezig, fijnreticulaat of scabraat (tabel 9: 2–4).",
+          "outcome": {
+            "text": "8.5 *Cephalanthera*-type (blz. 92)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_striate_rugulate_195_hyoscyamus_albus_sub",
+    "title": "19.5 Hyoscyamus albus (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §19.5 Hyoscyamus albus. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi transversales aan de lange zijden met costae (Tafel 48: 5-29).",
+          "outcome": {
+            "text": "19.4 *Rhus*-Gruppe (blz. 255)"
+          }
+        },
+        {
+          "label": "Colpi transversales zonder costae, PK sferoïdisch (indien PK prolaat, < 30 µm en eventueel met afzonderlijke valla parallel aan de colpus-randen, anders microreticulaat, vgl. dan *Ptelea*, blz. 342. Indien PK < 30 µm en doorlopend met valla, vgl. *Lycium*, blz. 284) (Tafel 51: 5-10).",
+          "outcome": {
+            "text": "19.5 *Hyoscyamus albus* (blz. 256)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_227_vitis_sub",
+    "title": "22.7 Vitis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.7 Vitis. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën klein, rond en scherp konturiert, niet over de intercolpium-randen reikend, deze scherp gekromd. (Micro-)Reticulum in het poolgebied grofmaziger als equatoriaal, vaak alleen in het fasecontrastbeeld duidelijk (Tafel 70: 17-22).",
+          "outcome": {
+            "text": "22.7 *Vitis* (blz. 328)"
+          }
+        },
+        {
+          "label": "Poriën rond tot spaltaat, altijd zwak konturiert.",
+          "outcome": {
+            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+        }
+      ]
+    }
+  }
+}

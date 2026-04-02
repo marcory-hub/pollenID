@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit echinaten Skulpturen. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 25–40 µm, met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
+          "outcome": {
+            "text": "16.7 *Centaurea cyanus*-type (blz. 216)"
+          }
+        },
+        {
+          "label": "PK 25–40 µm, met echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
+          "outcome": {
+            "text": "16.8 *Centaurea jacea*-type (blz. 216)"
+          }
+        }
+      ]
+    }
+  }
+}

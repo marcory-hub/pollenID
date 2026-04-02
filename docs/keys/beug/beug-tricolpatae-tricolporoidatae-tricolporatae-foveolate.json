@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_foveolate",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (foveolate tot scrobiculate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit foveolaten bis scrobiculaten Skulpturen. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met duidelijke foveolate tot scrobiculate sculptuur (tabel 37: 26–30).",
+          "outcome": {
+            "text": "16.13 *Lupinus albus*-type (blz. 216)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne foveolate tot scrobiculate sculptuur (tabel 38: 1–5).",
+          "outcome": {
+            "text": "16.14 *Lupinus angustifolius*-type (blz. 216)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_psilate_1311_alchemilla",
+    "title": "13.11 Alchemilla-groep (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §13.11 Alchemilla-groep. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine equatoriaal tot subpolair 3–4 µm dik (tabel 14: 9–12).",
+          "outcome": {
+            "text": "13.11.1 *Aphanes arvensis*-type"
+          }
+        },
+        {
+          "label": "Exine equatoriaal tot subpolair dunner als 3 µm (tabel 14: 13–20).",
+          "outcome": {
+            "text": "13.11.2 *Alchemilla pentaphyllea*-type"
+          }
+        }
+      ]
+    }
+  }
+}

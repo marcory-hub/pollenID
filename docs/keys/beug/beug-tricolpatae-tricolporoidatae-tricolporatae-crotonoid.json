@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_crotonoid",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (crotonoid sculpturen) (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit crotonoid Skulpturen. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met crotonoid sculptuur (tabel 38: 16–20).",
+          "outcome": {
+            "text": "16.17 *Croton tiglium*-type (blz. 216)"
+          }
+        },
+        {
+          "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne crotonoid sculptuur (tabel 38: 21–25).",
+          "outcome": {
+            "text": "16.18 *Jatropha curcas*-type (blz. 216)"
+          }
+        }
+      ]
+    }
+  }
+}

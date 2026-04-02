@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_154_mercurialis",
+    "title": "15.4 Mercurialis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §15.4 Mercurialis. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine tot 2,5 µm, columellae tot 1 µm dik; equatoriale brug 3–4 µm breed; afstand der perforaties tot elkaar overwegend groter dan hun diameter (tabel 32: 9–13).",
+          "outcome": {
+            "text": "15.4.1 *Mercurialis perennis*-type"
+          }
+        },
+        {
+          "label": "Exine tot ca. 1,3 µm, columellae tot ca. 0,5 µm dik; equatoriale brug tot 2 µm breed, afstand der perforaties in de grootte van hun diameter (tabel 32: 14–18).",
+          "outcome": {
+            "text": "15.4.2 *Mercurialis annua*"
+          }
+        }
+      ]
+    }
+  }
+}

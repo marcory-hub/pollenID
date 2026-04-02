@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "key": "beug_monoporatae_82_poaceae",
+    "title": "8.2 Poaceae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §8.2 Poaceae. PK = pollenkorrel, PFormI = pollenvormindex, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
+    "note": "De Duitse afkorting 'p.p.' staat voor 'pro parte' (deels). Plate-/figuurnummers (Tafel, Abb.) als tekstreferentie behouden.",
+    "stepCount": 9,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK kleiner dan 37 µm.",
+          "outcome": {
+            "text": "8.2.8 Wildgras-type (blz. 87)"
+          }
+        },
+        {
+          "label": "PK groter dan 37 µm.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriëndiameter minstens 2,7 µm, annulus-breedte minstens 2,7 µm en dikte van de annulus (incl. costa) >2,0 µm (meestal rond 3,0 µm).",
+          "next": "3"
+        },
+        {
+          "label": "Maten van porie en annulus kleiner.",
+          "outcome": {
+            "text": "8.2.8 Wildgras-type (blz. 87)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fasecontrastbeeld alleen met individueel staande punten (fig. 12).",
+          "next": "4"
+        },
+        {
+          "label": "Fasecontrastbeeld met puntgroepen (fig. 13), puntklompen (fig. 14) of met een 1–2 µm groot veld (tabel 8: 1); individueel staande punten kunnen aanwezig zijn.",
+          "next": "7"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 53–138 µm groot, sferoïdisch, poriëndiameter 3,7–8,6 µm.",
+          "outcome": {
+            "text": "8.2.1 *Zea mays* (blz. 81)"
+          }
+        },
+        {
+          "label": "PK kleiner of prolaat of met kleinere poriëndiameter.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat tot perprolaat.",
+          "next": "6"
+        },
+        {
+          "label": "PK sferoïdisch, rondachtig tot eivormig.",
+          "outcome": {
+            "text": "8.2.2 *Hordeum*-type (blz. 81)"
+          }
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porie op de lengtezijde van de PK over ca. 1/3 van de smalle zijde van de in dwarsdoorsnede draaiende PK verwijderd, lengte van de PK 30–65 µm, PFormI 1,30–1,55 (tabel 6: 5–8).",
+          "outcome": {
+            "text": "8.2.3 *Secale* (blz. 82)"
+          }
+        },
+        {
+          "label": "Porie op de lengtezijde van de PK over ca. 1/2 van de smalle zijde van de PK verwijderd, lengte van de PK 70–95 µm; de van de porie afgewende zijde van de PK afgeplat tot zwak concaaf, PFormI 1,80–2,90 (tabel 9: 5–6).",
+          "outcome": {
+            "text": "8.2.4 *Elymus spartina*-type (blz. 82)"
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fasecontrastpatroon met puntklompen of geveld.",
+          "next": "8"
+        },
+        {
+          "label": "Fasecontrastpatroon met puntgroepen.",
+          "next": "9"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fasecontrastpatroon met 0,8–2,2 µm grote, meestal polyhedrische velden (tabel 8: 1).",
+          "outcome": {
+            "text": "*Sorghum*-type (blz. 86)"
+          }
+        },
+        {
+          "label": "Fasecontrastpatroon met puntklompen, daarnaast met individuele punten. Tot 1 µm grote polygonale elementen kunnen aanwezig zijn, maar treden kwantitatief meestal aanzienlijk terug.",
+          "outcome": {
+            "text": "8.2.5 *Avena*-type (blz. 84)"
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Puntgroepen uit (2)3–4 punten.",
+          "outcome": {
+            "text": "8.2.6 *Triticum*-type (blz. 84)"
+          }
+        },
+        {
+          "label": "Puntgroepen uit tot 5–6 punten.",
+          "outcome": {
+            "text": "8.2.7 *Panicum*-type (blz. 84)"
+          }
+        }
+      ]
+    }
+  }
+}

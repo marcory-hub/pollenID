@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_monocolpatae_94_magnoliaceae",
+    "title": "9.4 Magnoliaceae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §9.4 Magnoliaceae. PK = pollenkorrel, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
+    "stepCount": 2,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, exine over 2 µm dik (tabel 9: 7–11).",
+          "outcome": {
+            "text": "9.4.1 *Liriodendron tulipifera*"
+          }
+        },
+        {
+          "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens verspreide brochi tussen deze sculptuurelementen. Exine dunner als 2 µm (tabel 9: 12–14).",
+          "outcome": {
+            "text": "9.4.2 *Magnolia*"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -134,7 +134,8 @@
 }
 
 .vdh-pollentabel-outcome p em,
-.vdh-pollentabel-table-grid td em {
+.vdh-pollentabel-table-grid td em,
+.vdh-pollentabel-btn--choice em {
   font-style: italic;
 }
 

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_178_linnaea_borealis_sub",
+    "title": "17.8 Linnaea borealis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.8 Linnaea borealis. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK endo-microreticulaat (tabel 46: 9-13).",
+          "outcome": {
+            "text": "*Linnaea borealis*"
+          }
+        }
+      ]
+    }
+  }
+}

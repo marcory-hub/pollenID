@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_222_cistus_salvifolius_sub",
+    "title": "22.2 Cistus salvifolius (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.2 Cistus salvifolius. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri met ongeveer 1 µm lange echini, columellae duidelijk (Tafel 68: 6-13).",
+          "outcome": {
+            "text": "22.2 *Cistus salvifolius* (blz. 324)"
+          }
+        },
+        {
+          "label": "Muri scabraat of rugulaat gesculpteerd.",
+          "outcome": {
+            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+        }
+      ]
+    }
+  }
+}

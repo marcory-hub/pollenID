@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "key": "beug_monocolpatae",
+    "title": "Monocolpatae (Beug §9) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §9 Monocolpatae. PK = pollenkorrel, ÄFormI = äquatoriale vormindex, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
+    "note": "De Duitse afkorting 'p.p.' staat voor 'pro parte' (deels). Plate-/figuurnummers (Tafel, Abb.) als tekstreferentie behouden. Stap 9 is afgekapt op de scan; hier met volledige leads (9-25) en een verwijzing naar 26 (PK psilaat). Stap 11, de laatste lead is vertaald naar 'Muri niet uit smalle segmenten opgebouwd of Lumina der Brochi met Sculptuurelementen'.",
+    "stepCount": 38,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK in polair aanzicht ± cirkelvormig of loodrecht op de colpus in het equatoriale vlak iets uitgerekt, peroblaat. Colpen spits toelopend. Sculptuur psilaat-scabraat of reticulaat (tabel 8: 7–10).",
+          "outcome": {
+            "text": "9.1 *Asphodelus*-groep (blz. 98)"
+          }
+        },
+        {
+          "label": "PK in polair aanzicht meestal in de richting van de colpus langgerekt (prolaat of perprolaat), indien in polair aanzicht cirkelvormig of breed ovaal, dan PK sferoïdisch en sculptuur psilaat-scabraat of reticulaat, of colpen met afgeronde einden.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met lengteribben.",
+          "outcome": {
+            "text": "9.2 *Welwitschia mirabilis* (blz. 98)"
+          }
+        },
+        {
+          "label": "PK zonder lengteribben.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK verrucaat, gemmaat of rugulaat tot rugulaat-reticulaat.",
+          "next": "4"
+        },
+        {
+          "label": "PK met andere sculptuur.",
+          "next": "5"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK verrucaat tot gemmaat, d.w.z. zeer dicht met kleine vesiculae gesculpteerd, sferoïdisch, colpus meestal kort en breed.",
+          "outcome": {
+            "text": "9.3 *Sciadopitys verticillata* (blz. 99)"
+          }
+        },
+        {
+          "label": "PK verrucaat (geen vesiculae), rugulaat tot rugulaat-reticulaat, tussen de sculptuurelementen met of zonder brochi, PK langgerekt, colpus lang (tabel 9: 7–14).",
+          "next": "beug-monocolpatae-94-magnoliaceae"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat, baculaat of clavaat.",
+          "next": "6"
+        },
+        {
+          "label": "PK psilaat, scabraat of reticulaat, maar niet rugulaat-reticulaat.",
+          "next": "8"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat.",
+          "next": "7"
+        },
+        {
+          "label": "PK clavaat-baculaat.",
+          "outcome": {
+            "text": "9.5 *Iris pumila*-type (blz. 99)"
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat of perprolaat, echini krachtig, 5–6 µm lang. Exine met een columella-laag.",
+          "outcome": {
+            "text": "9.6 *Nuphar* (blz. 100)"
+          }
+        },
+        {
+          "label": "PK sferoïdisch, echini 3–4 µm lang, columellae aanwezig.",
+          "outcome": {
+            "text": "9.7 *Stratiotes aloides* (blz. 100)"
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat.",
+          "next": "9"
+        },
+        {
+          "label": "PK scabraat, psilaat of microreticulaat (brochi tot 1 µm groot).",
+          "next": "26"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi groter dan 4 µm (4–18 µm).",
+          "next": "10"
+        },
+        {
+          "label": "Brochi 1–4 µm groot.",
+          "next": "15"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Reticulum heterobrochaat (tabel 8: 15).",
+          "next": "11"
+        },
+        {
+          "label": "Reticulum ± homobrochaat: de brochi zijn weliswaar vaak van verschillende grootte, maar verdelen zich overal niet op twee duidelijk verschillende grootteklassen.",
+          "next": "12"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Margo smal (3–4 µm), PK relatief smal, ÄFormI 1,40–2,07.",
+          "outcome": {
+            "text": "9.8 *Pancratium* (blz. 100)"
+          }
+        },
+        {
+          "label": "Margo breed (8–12 µm), PK relatief breed, ÄFormI meestal 1,00–1,55 (tabel 8: 15).",
+          "outcome": {
+            "text": "9.9 *Anthericum* (blz. 100)"
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri van smalle segmenten opgebouwd (tabel 8: 17). Lumina van de brochi zonder sculptuurelementen. Margo aanwezig.",
+          "outcome": {
+            "text": "9.10 *Lilium* (blz. 101)"
+          }
+        },
+        {
+          "label": "De Muri zijn niet uit smalle segmenten opgebouwd of Lumina der Brochi met Sculptuurelementen.",
+          "next": "13"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri microechinaat (tabel 8: 13–14).",
+          "outcome": {
+            "text": "9.11 *Paradisia liliastrum* (blz. 101)"
+          }
+        },
+        {
+          "label": "Muri glad, zonder microechini.",
+          "next": "14"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Aan de einden van de PK bevindt zich elk een duidelijk afgezette zone met een fijnmazig reticulum (tabel 8: 16).",
+          "outcome": {
+            "text": "9.12 *Hemerocallis* (blz. 101)"
+          }
+        },
+        {
+          "label": "PK zonder zone met een fijnmazig reticulum aan de einden. (tabel 10: 1–2).",
+          "outcome": {
+            "text": "9.13 *Iris germanica*-type (blz. 102)"
+          }
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpus langer als de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (tabel 10: 3). Reticulum aan de einden van de PK en langs de colpus fijnmazig, overigens heterobrochaat met grote brochi tot 3 µm.",
+          "next": "beug-monocolpatae-914-muscari"
+        },
+        {
+          "label": "Colpus hoogstens zo lang als de PK.",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri duplicolumellaat, indien uit segmenten samengesteld, vergelijk *Lloydia* (blz. 104).",
+          "outcome": {
+            "text": "9.15 *Polygonatum verticillatum* (blz. 102)"
+          }
+        },
+        {
+          "label": "Muri simplicolumellaat.",
+          "next": "17"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Reticulum heterobrochaat.",
+          "next": "18"
+        },
+        {
+          "label": "Reticulum homobrochaat.",
+          "next": "21"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi tot 4 µm groot.",
+          "next": "19"
+        },
+        {
+          "label": "Brochi tot 1,5(2,0) µm groot.",
+          "outcome": {
+            "text": "9.16 *Asparagus acutifolius* (blz. 103)"
+          }
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK langgerekt, meest smal. De grote brochi (1,5–4,0 µm) bevinden zich in relatief geringer aantal overwegend op de proximale zijde van de PK, omgeven door vele kleine brochi (tabel 10:4).",
+          "outcome": {
+            "text": "9.17 *Ornithogalum umbellatum*-type (blz. 103)"
+          }
+        },
+        {
+          "label": "Grote brochi overwegen in aantal, ten minste buiten de intercolpium-randen. Kleine brochi liggen tussen de grote.",
+          "next": "20"
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK breed ovaal, boven 65 en tot 97 µm groot; de kleine brochi liggen enkel tussen de grote brochi.",
+          "outcome": {
+            "text": "9.18 *Erythronium dens-canis* (blz. 104)"
+          }
+        },
+        {
+          "label": "PK smaller, kleiner dan 65 µm.",
+          "outcome": {
+            "text": "9.19 *Fritillaria* (blz. 104)"
+          }
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi tot 4 µm (vergelijk *Sternbergia* blz. 107).",
+          "next": "22"
+        },
+        {
+          "label": "Brochi tot 1,5 (max. 2,0, zelden 2,5) µm groot (vergelijk *Sternbergia* blz. 107).",
+          "next": "25"
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "De Muri bestaan uit meestal schijfvormige segmenten.",
+          "outcome": {
+            "text": "9.20 *Lloydia serotina* (blz. 104)"
+          }
+        },
+        {
+          "label": "Muri ongeleed.",
+          "next": "23"
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 50–100 µm groot, breed ovaal, zonder margo.",
+          "outcome": {
+            "text": "9.21 *Iris pseudacorus*-type (blz. 104)"
+          }
+        },
+        {
+          "label": "PK kleiner dan 50 µm (25–47 µm), met of zonder een brede, fijnmazige margo.",
+          "next": "24"
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Margo ca. 10 µm breed, met tot 1 µm grote brochi.",
+          "outcome": {
+            "text": "9.22 *Butomus umbellatus* (blz. 106)"
+          }
+        },
+        {
+          "label": "Margo nauwelijks aangeduid, brochi langs de colpus-randen iets kleiner dan in het proximale deel.",
+          "outcome": {
+            "text": "9.23 *Veratrum* (blz. 106)"
+          }
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri zo breed als de diameter van de lumina (kan op een tectum perforatum lijken).",
+          "outcome": {
+            "text": "9.24 *Gagea*-type (blz. 106)"
+          }
+        },
+        {
+          "label": "Muri smaller dan de diameter van de lumina.",
+          "outcome": {
+            "text": "9.25 *Narcissus poeticus*-type (blz. 106)"
+          }
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, om 17–23 µm groot (tabel 9: 15–18).",
+          "outcome": {
+            "text": "9.26 *Acorus calamus* (blz. 107)"
+          }
+        },
+        {
+          "label": "PK groter dan 25 µm, of PK microreticulaat.",
+          "next": "27"
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met tectum perforatum.",
+          "outcome": {
+            "text": "9.27 *Gladiolus*-type (blz. 107)"
+          }
+        },
+        {
+          "label": "Tectum zonder perforaties of PK intectaat.",
+          "next": "28"
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK gebogen (tabel 10: 6–9), met verdikte einden.",
+          "outcome": {
+            "text": "9.28 *Sisyrinchium bermudiana* (blz. 107)"
+          }
+        },
+        {
+          "label": "PK niet gebogen of einden niet verdikt.",
+          "next": "29"
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Einden van de PK stomp afgerond, intercolpium-randen meestal sterk ingekrompen (fig. 18a–c). De PK klappen vaak tweedelig open. PK psilaat of zwak microreticulaat, tot 38 µm groot, exine ca. 1 µm dik.",
+          "outcome": {
+            "text": "9.29 *Leucojum*-type (blz. 108)"
+          }
+        },
+        {
+          "label": "Einden van de PK meestal spits toelopend. Intercolpium-randen niet of slechts zwak ingekrompen, indien duidelijk ingekrompen dan PK boven 40 µm groot.",
+          "next": "30"
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpus langer dan de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (fig. 18d, tabel 10: 10).",
+          "outcome": {
+            "text": "9.30 *Allium vineale*-type (blz. 108)"
+          }
+        },
+        {
+          "label": "Colpus hoogstens zo lang als de PK of korter.",
+          "next": "31"
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microreticulaat of microreticulaat-rugulaat, ook sculpturen met zeer kleine lumina en relatief brede muri (deels vergelijkbaar met een tectum perforatum).",
+          "next": "32"
+        },
+        {
+          "label": "PK psilaat.",
+          "next": "36"
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 70–85 µm groot.",
+          "outcome": {
+            "text": "9.31 *Iris humilis* (blz. 108)"
+          }
+        },
+        {
+          "label": "PK kleiner dan 65 µm.",
+          "next": "33"
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microreticulaat-rugulaat.",
+          "outcome": {
+            "text": "9.32 *Majanthemum*-type (blz. 108)"
+          }
+        },
+        {
+          "label": "PK alleen microreticulaat of met zeer kleine lumina en relatief brede muri.",
+          "next": "34"
+        }
+      ]
+    },
+    "34": {
+      "id": "34",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri niet breder dan de diameter van de lumina (kan op een tectum perforatum lijken).",
+          "outcome": {
+            "text": "9.33 *Asparagus officinalis*-type (blz. 109)"
+          }
+        },
+        {
+          "label": "Muri breder dan de diameter van de lumina.",
+          "next": "35"
+        }
+      ]
+    },
+    "35": {
+      "id": "35",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi op de proximale zijde van de PK groter dan in een brede strook op de colpus-randen (margo). Wanneer op de proximale zijde alleen met verspreide lumina of perforaties, vergelijk *Polygonatum odoratum*-type (blz. 110).",
+          "outcome": {
+            "text": "9.34 *Narthecium ossifragum* (blz. 109)"
+          }
+        },
+        {
+          "label": "Brochi langs de colpen niet kleiner dan op de proximale zijde.",
+          "outcome": {
+            "text": "9.35 *Convallaria*-type (blz. 109)"
+          }
+        }
+      ]
+    },
+    "36": {
+      "id": "36",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpus vaak vanuit een distale positie iets zijdelings verschoven, colpus-einden vaak verbreed, overigens smal (fig. 18e–g).",
+          "outcome": {
+            "text": "9.36 *Allium ursinum*-type (blz. 110)"
+          }
+        },
+        {
+          "label": "Colpus niet zijdelings verschoven, colpus-einden niet verbreed.",
+          "next": "37"
+        }
+      ]
+    },
+    "37": {
+      "id": "37",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, 27–53 µm groot, columellae niet of slechts plaatselijk herkenbaar. Exine 1,2–1,8 µm dik, plaatselijk tot 2,0 µm (tabel 5: 5–11).",
+          "outcome": {
+            "text": "9.37 *Ginkgo biloba* (blz. 110)"
+          }
+        },
+        {
+          "label": "PK psilaat of scabraat, tectum deels met enkele perforaties, exine gelijkmatig met een columella-laag uitgerust.",
+          "outcome": {
+            "text": "9.38 *Polygonatum odoratum*-type (blz. 110)"
+          }
+        }
+      ]
+    }
+  }
+}
