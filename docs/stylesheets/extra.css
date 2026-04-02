@@ -1,4 +1,4 @@
-/* PollenID: echte-schaal galerij (10 µm = 50 px; 1 µm = 5 px). */
+/* PollenID: echte-schaal galerij (1 µm = 5 px). */
 .pid-scale-gallery {
   display: flex;
   flex-direction: column;
@@ -50,4 +50,171 @@
   line-height: 1.15;
   color: var(--md-default-fg-color--light);
   max-width: 48ch;
+}
+
+/* Pollentabel (van der Ham) interactief */
+.vdh-pollentabel {
+  margin: 1rem 0 1.5rem;
+  padding: 1rem;
+  border-radius: 0.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background-color: var(--md-code-bg-color);
+}
+
+.vdh-pollentabel-step h4 {
+  margin-top: 0;
+}
+
+/* Geen theme .md-button: die gaf laag contrast (blauw op grijs). */
+.vdh-pollentabel-btn {
+  display: inline-block;
+  margin: 0.35rem 0.5rem 0.35rem 0;
+  padding: 0.5em 0.85em;
+  font: inherit;
+  line-height: 1.35;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 0.2rem;
+  transition: filter 0.12s ease, border-color 0.12s ease, background 0.12s ease;
+}
+
+/* Keuzes: rustige rand (grijs), tekst helder — omgekeerd t.o.v. te felle witte rand */
+.vdh-pollentabel-btn--choice {
+  display: block;
+  width: 100%;
+  max-width: 48rem;
+  box-sizing: border-box;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  border: 1.5px solid var(--md-default-fg-color--light);
+  text-align: left;
+}
+
+.vdh-pollentabel-btn--choice:hover {
+  background: color-mix(in srgb, var(--md-default-fg-color) 6%, transparent);
+  color: var(--md-default-fg-color);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.vdh-pollentabel-btn--choice:focus-visible {
+  outline: 2px solid var(--md-default-fg-color--light);
+  outline-offset: 2px;
+}
+
+.vdh-pollentabel-btn--nav {
+  background: transparent;
+  color: var(--md-typeset-a-color, var(--md-primary-bg-color));
+  border: 1.5px solid var(--md-default-fg-color--light);
+  text-align: center;
+}
+
+.vdh-pollentabel-btn--nav:hover {
+  background: color-mix(in srgb, var(--md-default-fg-color) 6%, transparent);
+  color: var(--md-typeset-a-color, var(--md-primary-bg-color));
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+.vdh-pollentabel-btn--nav:focus-visible {
+  outline: 2px solid var(--md-default-fg-color--light);
+  outline-offset: 2px;
+}
+
+.vdh-pollentabel-nav {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.vdh-pollentabel-outcome {
+  margin-top: 1rem;
+}
+
+.vdh-pollentabel-outcome h4 {
+  margin-top: 0;
+}
+
+.vdh-pollentabel-outcome p em,
+.vdh-pollentabel-table-grid td em {
+  font-style: italic;
+}
+
+/* Platte pollentabel (JSON → filterbare tabel) */
+.vdh-pollentabel-table {
+  margin: 1rem 0 1.5rem;
+}
+
+.vdh-pollentabel-table-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.vdh-pollentabel-table-filter-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+}
+
+.vdh-pollentabel-table-filter {
+  flex: 1 1 12rem;
+  min-width: 10rem;
+  max-width: 28rem;
+  padding: 0.4em 0.65em;
+  font: inherit;
+  border-radius: 0.15rem;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+}
+
+.vdh-pollentabel-table-count {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.vdh-pollentabel-table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 0.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.vdh-pollentabel-table-grid {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.vdh-pollentabel-table-grid th,
+.vdh-pollentabel-table-grid td {
+  padding: 0.45rem 0.55rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.vdh-pollentabel-table-grid th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--md-default-bg-color);
+  font-weight: 600;
+  box-shadow: 0 1px 0 var(--md-default-fg-color--lightest);
+}
+
+/* Material for MkDocs hides top navigation tabs below ~76em.
+   Force them visible so the "Home / monoflorale honing / ..." tabs stay accessible. */
+@media screen and (max-width: 76.234375em) {
+  .md-tabs {
+    display: block !important;
+  }
+}
+
+.vdh-pollentabel-td-step {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  width: 3rem;
 }

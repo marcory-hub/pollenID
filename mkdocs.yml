@@ -38,19 +38,142 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/vdh-pollentabel.js
+
 nav:
-  - Home: index.md
-  - microscopie:
-      - overzichtvergroting: palynologie-paginas/overzichtsvergroting.md
-      - detailvergroting: palynologie-paginas/detailvergroting.md
-      - kristallen in honing: palynologie-paginas/kristallen-in-honing.md
-  - pollen determineren:
-      - monoflorale honing: palynologie-paginas/monoflorale-honing.md
-      - nederlandse pollen: palynologie-paginas/pollen_in_nl_honing.md
-      - secundaire inbreng: palynologie-paginas/secundaire-inbreng.md
-      - vergelijken: palynologie-paginas/pollen-vergelijkingen.md
-      - verdiepingsset: palynologie-paginas/verdieping.md
-  - naslag:
-      - Referenties: naslag/referenties.md
+  - Home: _index.md
+  - Keys: Identificatiesleutels/_index.md
+  - Monofloraal:
+      - Overzicht: monoflorale-honing-pollen/_index.md
+      - Zonnebloem (Helianthus annuus): monoflorale-honing-pollen/zonnebloemhoning.md
+      - Witte klaver: monoflorale-honing-pollen/witte-klaverhoning.md
+      - Wilg: monoflorale-honing-pollen/wilghoning.md
+      - Valse acacia: monoflorale-honing-pollen/valse-acacia.md
+      - Tijm: monoflorale-honing-pollen/tijmhoning.md
+      - Tamme kastanje: monoflorale-honing-pollen/tammekastanjehoning.md
+      - Rosemarijn: monoflorale-honing-pollen/rosemarijnhoning.md
+      - Rode klaver: monoflorale-honing-pollen/rode-klaverhoning.md
+      - Rhododendron: monoflorale-honing-pollen/rhododendronhoning.md
+      - Phacelia: monoflorale-honing-pollen/phaceliahoning.md
+      - Paardenbloem: monoflorale-honing-pollen/paardenbloemhoning.md
+      - Linde: monoflorale-honing-pollen/lindehoning.md
+      - Liguster: monoflorale-honing-pollen/ligusterhoning.md
+      - Lavendel: monoflorale-honing-pollen/lavendelhoning.md
+      - Koolzaad: monoflorale-honing-pollen/koolzaadhoning.md
+      - Heide: monoflorale-honing-pollen/heidehoning.md
+      - Eucalyptus: monoflorale-honing-pollen/eucalyptushoning.md
+      - Citrus: monoflorale-honing-pollen/citrushoning.md
+      - Braam: monoflorale-honing-pollen/braamhoning.md
+      - Boekweit: monoflorale-honing-pollen/boekweithoning.md
+  - Nederlands:
+      - Overzicht: nederlandse-honing-pollen/_index.md
+      - acer-platanoides: nederlandse-honing-pollen/acer-platanoides.md
+      - achillea-typ: nederlandse-honing-pollen/achillea-typ.md
+      - ailanthus: nederlandse-honing-pollen/ailanthus.md
+      - allium-typ: nederlandse-honing-pollen/allium-typ.md
+      - amorpha-fruticosa: nederlandse-honing-pollen/amorpha-fruticosa.md
+      - anchusa: nederlandse-honing-pollen/anchusa.md
+      - anthriscus-typ: nederlandse-honing-pollen/anthriscus-typ.md
+      - asparagus-typ: nederlandse-honing-pollen/asparagus-typ.md
+      - aster-solidago-typ: nederlandse-honing-pollen/aster-solidago-typ.md
+      - brassicaceae: nederlandse-honing-pollen/brassicaceae.md
+      - buddlejaceae: nederlandse-honing-pollen/buddlejaceae.md
+      - centaurea-cyanus: nederlandse-honing-pollen/centaurea-cyanus.md
+      - centaurea-jacea-typ: nederlandse-honing-pollen/centaurea-jacea-typ.md
+      - centaurea-typ: nederlandse-honing-pollen/centaurea-typ.md
+      - cornus-mas: nederlandse-honing-pollen/cornus-mas.md
+      - cornus-sanguinea: nederlandse-honing-pollen/cornus-sanguinea.md
+      - crataegus-typ: nederlandse-honing-pollen/crataegus-typ.md
+      - cynoglossum: nederlandse-honing-pollen/cynoglossum.md
+      - echium: nederlandse-honing-pollen/echium.md
+      - eleagnaceae: nederlandse-honing-pollen/eleagnaceae.md
+      - epilobium: nederlandse-honing-pollen/epilobium.md
+      - filipendula: nederlandse-honing-pollen/filipendula.md
+      - fragaria: nederlandse-honing-pollen/fragaria.md
+      - fraxinus: nederlandse-honing-pollen/fraxinus.md
+      - genista-typ: nederlandse-honing-pollen/genista-typ.md
+      - hedera: nederlandse-honing-pollen/hedera.md
+      - helianthus-typ: nederlandse-honing-pollen/helianthus-typ.md
+      - heracleum-typ: nederlandse-honing-pollen/heracleum-typ.md
+      - hydrangeaceae: nederlandse-honing-pollen/hydrangeaceae.md
+      - impatiens-glandulifera: nederlandse-honing-pollen/impatiens-glandulifera.md
+      - impatiens-parviflora: nederlandse-honing-pollen/impatiens-parviflora.md
+      - jasione: nederlandse-honing-pollen/jasione.md
+      - lamium-typ: nederlandse-honing-pollen/lamium-typ.md
+      - lotus: nederlandse-honing-pollen/lotus.md
+      - lychnis-flos-cuculi: nederlandse-honing-pollen/lychnis-flos-cuculi.md
+      - majoranus-typ: nederlandse-honing-pollen/majoranus-typ.md
+      - melilotus: nederlandse-honing-pollen/melilotus.md
+      - myosotis: nederlandse-honing-pollen/myosotis.md
+      - ononis: nederlandse-honing-pollen/ononis.md
+      - parthenocissus: nederlandse-honing-pollen/parthenocissus.md
+      - polygonum-aviculare: nederlandse-honing-pollen/polygonum-aviculare.md
+      - polygonum-persicaria: nederlandse-honing-pollen/polygonum-persicaria.md
+      - polygonum-typ: nederlandse-honing-pollen/polygonum-typ.md
+      - potentilla: nederlandse-honing-pollen/potentilla.md
+      - prunus-pirus-typ: nederlandse-honing-pollen/prunus-pirus-typ.md
+      - ranunculus-typ: nederlandse-honing-pollen/ranunculus-typ.md
+      - raphanus-typ: nederlandse-honing-pollen/raphanus-typ.md
+      - rhamnus: nederlandse-honing-pollen/rhamnus.md
+      - rhus: nederlandse-honing-pollen/rhus.md
+      - ribes: nederlandse-honing-pollen/ribes.md
+      - rosaceae: nederlandse-honing-pollen/rosaceae.md
+      - serratula-typ: nederlandse-honing-pollen/serratula-typ.md
+      - sinapis-typ: nederlandse-honing-pollen/sinapis-typ.md
+      - spiraea: nederlandse-honing-pollen/spiraea.md
+      - symphoricarpus: nederlandse-honing-pollen/symphoricarpus.md
+      - symphytum: nederlandse-honing-pollen/symphytum.md
+      - tradescantia: nederlandse-honing-pollen/tradescantia.md
+      - vaccinium: nederlandse-honing-pollen/vaccinium.md
+      - verbascum: nederlandse-honing-pollen/verbascum.md
+      - vicia-typ: nederlandse-honing-pollen/vicia-typ.md
+      - violaceae: nederlandse-honing-pollen/violaceae.md
+  - Secundair:
+      - Overzicht: secundaire-inbreng/_index.md
+      - Alnus glutinosa: secundaire-inbreng/alnus-glutinosa.md
+      - Amaranthaceae: secundaire-inbreng/amaranthaceae.md
+      - Chenopodium bonus-henricus: secundaire-inbreng/chenopodium-bonus-henricus.md
+      - Corylus avellana: secundaire-inbreng/corylus-avellana.md
+      - Fagaceae: secundaire-inbreng/fagaceae.md
+      - Papaver argemone: secundaire-inbreng/papaver-argemone.md
+      - Papaver croceum: secundaire-inbreng/papaver-croceum.md
+      - Papaver dubium: secundaire-inbreng/papaver-dubium.md
+      - Papaver orientale: secundaire-inbreng/papaver-orientale.md
+      - Papaver somniferum: secundaire-inbreng/papaver-somniferum.md
+      - Papaveraceae: secundaire-inbreng/papaveraceae.md
+      - Pinaceae: secundaire-inbreng/pinaceae.md
+      - Plantago: secundaire-inbreng/plantago.md
+      - Plantago major: secundaire-inbreng/plantago-major.md
+      - Plantago arenaria: secundaire-inbreng/plantago-arenaria.md
+      - Poaceae: secundaire-inbreng/poaceae.md
+      - Populus: secundaire-inbreng/populus.md
+      - Quercus petraea: secundaire-inbreng/quercus-petraea.md
+      - Rumex: secundaire-inbreng/rumex.md
+  - Sporadisch:
+      - Overzicht: sporadische-pollen/_index.md
+      - Bestimmungshulp pollenklassen: sporadische-pollen/bestimmungshulp-pollenklassen.md
+  - niet-EU: niet-eu-pollen/_index.md
+  - Dubbelgangers:
+      - Overzicht: dubbelgangers/_index.md
+      - Acer prunus pyrus: dubbelgangers/acer-prunus-pyrus.md
+      - Amaryllidaceae Liliaceae: dubbelgangers/amaryllidaceae-liliaceae.md
+      - Betulaceae Corylaceae: dubbelgangers/betulaceae-corylaceae.md
+      - Chenopodium beta: dubbelgangers/chenopodium-beta.md
+      - Corylus carpinus: dubbelgangers/corylus-carpinus.md
+      - Frangula Rhamnus Myrtaceae: dubbelgangers/frangula-rhamnus-myrtaceae.md
+      - Fraxinus Salix Cruciferae: dubbelgangers/fraxinus-salix-cruciferae.md
+      - Melilotus Trifolium repens: dubbelgangers/melilotus-trifolium-repens.md
+      - Myosotis Cynoglossum: dubbelgangers/myosotis-cynoglossum.md
+      - Myrica Corylus: dubbelgangers/myrica-corylus.md
+      - Papaveraceae Ranunculaceae: dubbelgangers/papaveraceae-ranunculaceae.md
+      - Papilionaceae Rosaceae: dubbelgangers/papilionaceae-rosaceae.md
+      - Polygonaceae Polygonum Fagopyrum Rumex: dubbelgangers/polygonaceae-polygonum-fagopyrum-rumex.md
+      - Reseda Ranunculaceae Papaveraceae: dubbelgangers/reseda-ranunculaceae-papaveraceae.md
+      - Sambucus Filipendula: dubbelgangers/sambucus-filipendula.md
+      - Saxifraga Teucrium: dubbelgangers/saxifraga-teucrium.md
+      - Umbelliferae Vicia: dubbelgangers/umbelliferae-vicia.md
+      - Valeriana Dipsaceae: dubbelgangers/valeriana-dipsaceae.md
+  - Naslag: naslag/_index.md
 
 

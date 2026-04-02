@@ -27,3 +27,53 @@ alwaysApply: true
 - **Terminology**: Prefer standard palynological terms; align with **`notes/pollenID/_references_pid.md`** when it lists preferred wording or sources.
 - **No emojis** in docs or agent output (see global rules).
 - **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).
+
+
+Schematic map of public mkdocs site
+
+docs/
+├─ index.md
+├─ Identificatiesleutels/
+│  ├─ index.md                     -> nav: Keys
+│  ├─ beug.md
+│  └─ pollen-tabel-vanderham.md
+├─ monoflorale-honing-pollen/
+│  ├─ index.md                     -> nav: Monofloraal (Overzicht)
+│  ├─ <uniflorale honey pages>.md -> nav children (Zonnebloem, Witte klaver, Wilg, ...)
+├─ nederlandse-honing-pollen/
+│  ├─ index.md                     -> nav: Nederlands (Overzicht)
+│  └─ <taxon pages>.md            -> nav children (A–Z style list)
+├─ secundaire-inbreng/
+│  ├─ index.md                     -> nav: Secundair (Overzicht)
+│  └─ <taxon pages>.md
+├─ sporadische-pollen/
+│  ├─ index.md                     -> nav: Sporadisch (Overzicht)
+│  ├─ verdiepingsset.md
+│  ├─ gattung-prioritering.md
+│  ├─ pollenkalender-interpretatie.md
+│  ├─ bestimmungshulp-pollenklassen.md
+│  └─ families-in-nederlandse-honing.md
+├─ niet-eu-pollen/
+│  └─ index.md                     -> nav: niet-EU
+├─ dubbelgangers/
+│  ├─ index.md                     -> nav: Dubbelgangers (Overzicht)
+│  └─ <double-check pages>.md    -> nav children (Acer/Amaryllidaceae/Betulaceae/...)
+├─ naslag/
+│  ├─ index.md                     -> nav: Naslag
+│  ├─ botanische-herkomst.md
+│  ├─ detailvergroting.md
+│  ├─ honingdauwhoning.md
+│  ├─ kristallen-in-honing.md
+│  ├─ monofloraal-groepsindeling.md
+│  ├─ monofloraal-naslag.md
+│  ├─ opvallende-kenmerken.md
+│  ├─ overzichtsvergroting.md
+│  ├─ palynoquest.md
+│  ├─ referenties.md
+│  └─ secundaire-inbreng.md
+├─ assets/                         (shared media; used by pages via relative `assets/images/...`)
+├─ stylesheets/
+│  └─ extra.css                    (configured in `mkdocs.yml`)
+├─ javascripts/
+│  └─ vdh-pollentabel.js          (configured in `mkdocs.yml`)
+└─ tags.md

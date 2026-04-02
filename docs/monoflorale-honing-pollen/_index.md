@@ -1,0 +1,25 @@
+# Monoflorale honing
+
+- [Zonnebloem (Helianthus annuus)](zonnebloemhoning.md)
+- [Witte klaver](witte-klaverhoning.md)
+- [Wilg](wilghoning.md)
+- [Valse acacia](valse-acacia.md)
+- [Tijm](tijmhoning.md)
+- [Tamme kastanje](tammekastanjehoning.md)
+- [Rosemarijn](rosemarijnhoning.md)
+- [Rode klaver](rode-klaverhoning.md)
+- [Rhododendron](rhododendronhoning.md)
+- [Phacelia](phaceliahoning.md)
+- [Paardenbloem](paardenbloemhoning.md)
+- [Linde](lindehoning.md)
+- [Liguster](ligusterhoning.md)
+- [Lavendel](lavendelhoning.md)
+- [Koolzaad](koolzaadhoning.md)
+- [Heide](heidehoning.md)
+- [Eucalyptus](eucalyptushoning.md)
+- [Citrus](citrushoning.md)
+- [Braam](braamhoning.md)
+- [Boekweit](boekweithoning.md)
+
+## Naslag
+[Naslag monoflorale honing](../naslag/monofloraal-naslag.md)

@@ -1,0 +1,25 @@
+# Secundaire inbreng (windbloeiers)
+
+Determinatiepagina’s bij taxa die in de melissopalynologie vaak als **secundaire inbreng** (windverspreiding) worden geteld: los van nectarbronnen en niet in procentuele samenstelling van de hoofddracht. Zie [botanische herkomst](botanische-herkomst.md).
+
+## Pagina’s (A–Z)
+
+- [Alnus glutinosa (zwarte els)](../secundaire-inbreng/alnus-glutinosa.md)
+- [Amaranthaceae / Chenopodiaceae (o.a. ganzevoetfamilie)](../secundaire-inbreng/amaranthaceae.md)
+- [Chenopodium bonus-henricus (goede henrik)](../secundaire-inbreng/chenopodium-bonus-henricus.md)
+- [Corylus avellana (hazelaar)](../secundaire-inbreng/corylus-avellana.md)
+- [Fagaceae (o.a. beuk, eik)](../secundaire-inbreng/fagaceae.md)
+- [Papaveraceae](../secundaire-inbreng/papaveraceae.md)
+- [*Papaver argemone* (stuifschildpapaver)](../secundaire-inbreng/papaver-argemone.md)
+- [*Papaver croceum*](../secundaire-inbreng/papaver-croceum.md)
+- [*Papaver dubium* (slapende papaver)](../secundaire-inbreng/papaver-dubium.md)
+- [*Papaver orientale* (oosterse papaver)](../secundaire-inbreng/papaver-orientale.md)
+- [*Papaver somniferum* (slaapbol)](../secundaire-inbreng/papaver-somniferum.md)
+- [Pinaceae / coniferen](../secundaire-inbreng/pinaceae.md)
+- [*Plantago* (weegbree, overzicht)](../secundaire-inbreng/plantago.md)
+- [*Plantago arenaria*](../secundaire-inbreng/plantago-arenaria.md)
+- [*Plantago major* (grote weegbree)](../secundaire-inbreng/plantago-major.md)
+- [Poaceae (grassen, o.a. maïs als context)](../secundaire-inbreng/poaceae.md)
+- [Populus (populier)](../secundaire-inbreng/populus.md)
+- [Quercus petraea (wintereik; eikentype)](../secundaire-inbreng/quercus-petraea.md)
+- [Rumex (zuring)](../secundaire-inbreng/rumex.md)
