@@ -40,6 +40,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/vdh-pollentabel.js
+  - javascripts/kerkvliet-determinatietabel.js
 
 nav:
   - Home: _index.md

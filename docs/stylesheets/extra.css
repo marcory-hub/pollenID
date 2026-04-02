@@ -205,6 +205,37 @@
   box-shadow: 0 1px 0 var(--md-default-fg-color--lightest);
 }
 
+/* Kerckvliet determinatietabel: toolbar on two lines (row 2: Grootteklasse + Zoeken). */
+.kerkvliet-toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.kerkvliet-toolbar-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+
+.kerkvliet-select {
+  max-width: 100%;
+}
+
+.kerkvliet-search {
+  flex: 1 1 16rem;
+  min-width: 12rem;
+  max-width: 36rem;
+}
+
+.kerkvliet-count {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
 /* Material for MkDocs hides top navigation tabs below ~76em.
    Force them visible so the "Home / monoflorale honing / ..." tabs stay accessible. */
 @media screen and (max-width: 76.234375em) {
