@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "key": "beug_polyadeae_placeholder",
+    "title": "3. Polyadeae (Beug) — determinatietabel",
+    "locale": "nl",
+    "source": "[te verifiëren] Placeholder; sleutel volgt.",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": []
+    }
+  }
+}

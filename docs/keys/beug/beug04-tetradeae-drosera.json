@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "key": "beug_tetradeae_drosera_placeholder",
+    "title": "Tetradeae — Drosera (Beug)",
+    "locale": "nl",
+    "source": "[te verifiëren] Placeholder; sleutel volgt.",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": []
+    }
+  }
+}

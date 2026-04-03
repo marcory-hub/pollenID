@@ -1,4 +1,4 @@
-# 1. Determinatietabel voor pollenklassen (Beug)
+# 1. Determinatiesleutel voor pollenklasse (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug-pollenklasse.json"></div>
 
@@ -8,8 +8,7 @@
     - Faegri & Iversen: "furrow equatorially constricted or with a thin, indistinct and usually ruptured poroid area"
     - Erdman: poroid
 
-
-### Tabel-overzicht
+### Pollenklasse
 
 <div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug-pollenklasse.json"></div>
 

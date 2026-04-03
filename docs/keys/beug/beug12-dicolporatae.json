@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "key": "beug_dicolporatae_placeholder",
+    "title": "12. Dicolporatae (Beug) — determinatietabel",
+    "locale": "nl",
+    "source": "[te verifiëren] Placeholder; sleutel volgt.",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": []
+    }
+  }
+}

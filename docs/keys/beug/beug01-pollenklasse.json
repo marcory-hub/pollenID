@@ -1,10 +1,10 @@
 {
   "meta": {
-    "key": "beug_pollenklassen",
-    "title": "Determinatietabel voor pollenklassen (Beug) — tekst (NL)",
+    "key": "beug01_pollenklassen",
+    "title": "Determinatsleutel voor pollenklassen (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans: “Bestimmungsschlüssel für die Pollenklassen”; schema naar FAEGRI & IVERSEN (1964). Afbeeldingen niet opgenomen.",
-    "note": "Stap 18: op de fragmenten is alleen het tweeled ‘Slechts elke tweede colpus met een porie’ → Heterocolpatae volledig leesbaar; de eerste leidraad ontbreekt op het fragment. Tegenstelling hier uitgewerkt als elke colpus met porie → Stephanocolporatae (zie ook docs/Identificatiesleutels/_index.md). [te verifiëren] tegen papieren bron. Stap 5 eindpunt voor Polyplicatae: bron vermeldt alleen *Ephedra*.",
+    "source": "Beug",
+    "note": "status: diagonaal gecontroleerd",
     "stepCount": 20,
     "start": "1"
   },
@@ -19,7 +19,7 @@
           "next": "2"
         },
         {
-          "label": "PK enkelvoudig.",
+          "label": "PK enkelvoudig (monade).",
           "next": "4"
         }
       ]
@@ -29,7 +29,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met velen verenigd.",
+          "label": "PK met velen tezamen.",
           "outcome": { "text": "Polyadeae" }
         },
         {
@@ -85,7 +85,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met ronde of hoekige zones (lacunae) waarin de ektexine ontbreekt en die door ribben zijn omzoomd.",
+          "label": "PK met ronde of hoekige zones (lacunae) waarin de extexine ontbreekt en die door ribben zijn omzoomd.",
           "outcome": { "text": "Fenestratae" }
         },
         {
@@ -99,11 +99,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 1 porie of 1 colpus.",
+          "label": "PK met 1 pore of 1 colpus.",
           "next": "8"
         },
         {
-          "label": "PK met meer dan 1 porie en/of meer dan 1 colpus.",
+          "label": "PK met meer dan 1 pore en/of meer dan 1 colpus.",
           "next": "9"
         }
       ]
@@ -141,11 +141,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 2 colpi en/of poriën.",
+          "label": "PK met 2 colpi en/of poren.",
           "next": "11"
         },
         {
-          "label": "PK met meer dan 2 colpi en/of poriën.",
+          "label": "PK met meer dan 2 colpi en/of poren.",
           "next": "13"
         }
       ]

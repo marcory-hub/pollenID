@@ -2,8 +2,8 @@
 
 Sleutel voor **Tilia**, §22.1 in Beug. PK = pollenkorrel.
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug-tricolporatae-reticulate-221-tilia-sub.json"></div>
+<div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-tilia.json"></div>
 
 ### Tabel-overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug-tricolporatae-reticulate-221-tilia-sub.json"></div>
+<div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-tilia.json"></div>
