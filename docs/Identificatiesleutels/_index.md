@@ -72,22 +72,22 @@
     - [13.36 Papaver rhoeas-groep](beug13-tricolpatae-ps-papaver.md)
 
 ### 14. Tricolpatae - PK met psilate, scabrate, (micro)verrucate sculpturen
-- [14. Tricolpatae PK met psilate, scabrate, (micro)verrucate sculpturen](beug-tricolpatae-ps.md)
+- [14. Tricolpatae PK met psilate, scabrate, (micro)verrucate sculpturen](beug14-tricolpatae-ps.md)
     - [14.9 (Bistorta-) Polygonum bistorta-type](beug14-tricolpatae-ps-bistorta.md)
-    - [14.11 Apiaceae](beug-tricolpatae-ps-apiaceae.md)
-        -[14.11.14 Berula erecta-groep](beug-tricolpatae-ps-berula.md)
-        -[14.11.23 Pleurospermum, Smyrium, Laserpitium nitidum](beug-tricolpatae-ps-pleurospermum.md)
-    - [14.29 Lotus, Tetragonolobus](beug-tricolpatae-ps-lotus.md)
+    - [14.11 Apiaceae](beug14-tricolpatae-ps-apiaceae.md)
+        -[14.11.14 Berula erecta-groep](beug14-tricolpatae-ps-berula.md)
+        -[14.11.23 Pleurospermum, Smyrium, Laserpitium nitidum](beug14-tricolpatae-ps-pleurospermum.md)
+    - [14.29 Lotus, Tetragonolobus](beug14-tricolpatae-ps-lotus.md)
 
 ### 15. Tricolporoidatae - PK met psilate, scabrate of (micro)verrucate sculpturen
-- [15. Tricolporoidatae PK met psilate, scabrate of (micro)verrucate sculpturen](tricolporoidatae-ps.md)
-    - [15.1 Cornus](beug-tricolporoidatae-ps-cornus.md)
+- [15. Tricolporoidatae PK met psilate, scabrate of (micro)verrucate sculpturen](beug15-tricolporoidatae-ps.md)
+    - [15.1 Cornus](beug15-tricolporoidatae-ps-cornus.md)
     - [15.4 Mercurialis](beug15-tricolporoidatae-ps-mercurialis.md)
-    - [15.9 Verzamelgroep](beug-tricolporoidatae-ps-verzamelgroep.md)
+    - [15.9 Verzamelgroep](beug15-tricolporoidatae-ps-verzamelgroep.md)
 
 ### 16. Tricolpatae, tricolporoidatae en tricolporatae - PK met clavate, baculate, verrucate of gemmate sculpturen
 - [16. Tricolpatae, tricolporoidatae en tricolporatae - PK met clavate, baculate, verrucate of gemmate sculpturen](beug16-ttt-clav.md)
-    - [16.6 Linum](beug26-ttt-clav-linum.md)
+    - [16.6 Linum](beug16-ttt-clav-linum.md)
 
 ### 17. Tricolpatae, tricolporoidatae en tricolporatae - PK met echinate sculpturen
 - [17. Tricolpatae, tricolporoidatae en tricolporatae - PK met echinate sculpturen](beug17-ttt-ech.md)
@@ -99,17 +99,17 @@
     - [17.7 Lonicera](beug17-ttt-ech-lonicera.md)
 
 ### 18. Tricolpatae - PK met striate, striaat-reticulate of rugulate sculpturen
-- [18. Tricolpatae - PK met striate, striaat-reticulate of rugulate sculpturen](tricolpatae-str.md)
-    - [18.3 Saxifraga aizoides-groep](beug-tricolpatae-str-saxifraga.md)
+- [18. Tricolpatae - PK met striate, striaat-reticulate of rugulate sculpturen](beug18-tricolpatae-str.md)
+    - [18.3 Saxifraga aizoides-groep](beug18-tricolpatae-str-saxifraga.md)
 
 ### 19. Tricolporatae - PK met striate, striaat-reticulate of rugulate sculpturen
-- [19. Tricolporatae - PK met striate, striaat-reticulate of rugulate sculpturen](tricolporatae-str.md)
-    - [19.4 Rhus-groep](beug-tricolporatae-str-rhus.md)
-    - [19.7 Helianthemum nummularium-groep](beug-tricolporatae-str-helianthemum.md)
-    - [19.11 Tuberaria-groep](beug-tricolporatae-str-tuberaria.md) 
+- [19. Tricolporatae - PK met striate, striaat-reticulate of rugulate sculpturen](beug19-tricolporatae-str.md)
+    - [19.4 Rhus-groep](beug19-tricolporatae-str-rhus.md)
+    - [19.7 Helianthemum nummularium-groep](beug19-tricolporatae-str-helianthemum.md)
+    - [19.11 Tuberaria-groep](beug19-tricolporatae-str-tuberaria.md) 
 
 ### 20. Tricolporoidatae - PK met striate, striaat-reticulate of rugulate sculpturen
-- [20. Tricolporoidatae - PK met striate, striaat-reticulate of rugulate sculpturen](beug-tricolporoidatae-str.md)
+- [20. Tricolporoidatae - PK met striate, striaat-reticulate of rugulate sculpturen](beug20-tricolporoidatae-str.md)
 
 ### 21. Tricolpatae - PK met (micro)reticulate (per- of suprareticulate) sculpturen
 - [21. Tricolpatae - PK met (micro)reticulate (per- of suprareticulate) sculpturen](beug21-tricolpatae-ret.md)
@@ -156,7 +156,7 @@
     - [Colchicum-groep](beug30-diporatae-colchicum.md)
 
 ### 31. Triporatae
-- [31. Triporatae](beug-triporatae.md)
+- [31. Triporatae](beug31-triporatae.md)
 
 ### 32. Stephanoporatae
 - [32. Stephanoporatae](beug32-stephanoporatae.md)
@@ -178,4 +178,4 @@
 ### Online pollendatabases
 - [Pollen Wiki (tstebler.ch)](https://pollen.tstebler.ch/)
 - [PollenX](https://pollenx.eu/)
-- [PalDat](https://www.paldat.org/)- [Periporatae](beug-periporatae.md)
+- [PalDat](https://www.paldat.org/)
