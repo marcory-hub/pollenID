@@ -7,11 +7,15 @@
 ---
 
 to do
-- add images to pollentabel and add pollen description of pollen that are not included
+- make prio list of nl honing pollen
+- review beug keys
+- continue images to pollentabel vanm der ham and add pollen description of pollen that are not included
 - monoflorale honing: make categories (dutch oververtegenwoordigde pollen, dutch ondervertegenwoordigde pollen)
-- composeitentype documentation
+- composietentype documentation
 
 2026-03-03
+- add [[pollen terminology]]
+- add beug keys in json format
 - cleaned up key index
 - checked keys 1-15
 - renamed `_index.md` to `index.md`

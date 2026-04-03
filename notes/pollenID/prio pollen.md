@@ -6,80 +6,80 @@
 
 ---
 
-Brassica-Typ
-Prunus-/Pirus-Typ
-Rubus-Typ
-Taraxacum-Typ
-Centaurea cyanus
-Trifolium repens
-Rhamnus
-Aesculus
-Robinia
-Vicia-Typ
-Acer platanoides
-Anthriscus-Typ
-Salix
-Echium
-Tilia
-Ranunculus-Typ
-Parthenocissus
-Raphanus-Typ
-Verbascum
-Lotus
-Lamium-Typ
-Myosotis
-Phacelia
-Genista-Typ
-Ligustrum
-Ailanthus
-Melilotus
-Sinapis-Typ
-Ononis
-Violaceae
-Spiraea
-Allium-Typ
-Helianthus annuus
-Cornus sanguinea
-Populus
-Hydrangeaceae
-Achillea-Typ
-Aster-Solidago-Typ
-Castanea
-Polygonum aviculare
-Polygonum persicaria
-Amorpha fruticosa
-Serratula-Typ
-Crataegus-Typ
-Trifolium pratense
-Hedera
-Rhus
-Anchusa
-Lychnis flos-cuculi
-Asparagus-Typ
-Rosaceae
-Impatiens glandulifera
-Filipendula
-Fagopyrum
-Fragaria
-Majoranus-Typ
-Eleagnaceae
-Symphytum
-Symphoricarpus
-Buddlejaceae
-Vaccinium
-Epilobium
-Ribes
-Calluna vulgaris
-Heracleum-Typ
-Cynoglossum
-Tradescantia
-Brassicaceae
-Centaurea-Typ
-Jasione
-Cornus mas
-Polygonum-Typ
-Fraxinus
-Potentilla
-Centaurea jacea-Typ
-Impatiens parviflora
-Helianthus-Typ
+1. Brassica-Typ (Kruisbloemige)
+2. Prunus-/Pirus-Typ (Pruim/Peer)
+3. Rubus-Typ (Braam)
+4. Taraxacum-Typ (Paardebloem)
+5. Centaurea cyanus (Korenbloem)
+6. Trifolium repens (Witte klaver)
+7. Rhamnus (Wegedoorn)
+8. Aesculus (Paardekastanje)
+9. Robinia (Valse acacia)
+10. Vicia-Typ (Wikke)
+11. Acer platanoides (Noorse esdoorn)
+12. Anthriscus-Typ (Berenklauw)
+13. Salix (Wilg)
+14. Echium (Slangenkruid)
+15. Tilia (Linde)
+16. Ranunculus-Typ (Ranonkel)
+17. Parthenocissus (Wilde wingerd)
+18. Raphanus-Typ (Radijs)
+19. Verbascum (Toorts)
+20. Lotus (Vogelvoet)
+21. Lamium-Typ (Lamium)
+22. Myosotis (Vergeet-mij-nietje)
+23. Phacelia (Phacelia)
+24. Genista-Typ (Zonnewinde)
+25. Ligustrum (Liguster)
+26. Ailanthus (Hemelboom)
+27. Melilotus (Steenklaver)
+28. Sinapis-Typ (Mosterd)
+29. Ononis (Stalkruid)
+30. Violaceae (Viooltje)
+31. Spiraea (Spirea)
+32. Allium-Typ (Look)
+33. Helianthus annuus (Zonnebloem)
+34. Cornus sanguinea (Rode kornoelje)
+35. Populus (Populier)
+36. Hydrangeaceae (Hortensia)
+37. Achillea-Typ (Duizendblad)
+38. Aster-Solidago-Typ (Aster/Goldenrod)
+39. Castanea (Kastanje)
+40. Polygonum aviculare (Zwaluwtong)
+41. Polygonum persicaria (Zonnerus)
+42. Amorpha fruticosa (Indigobosje)
+43. Serratula-Typ (Zaagblad)
+44. Crataegus-Typ (Meidoorn)
+45. Trifolium pratense (Rode klaver)
+46. Hedera (Klimop)
+47. Rhus (Sumak)
+48. Anchusa (Oksaal)
+49. Lychnis flos-cuculi (Koekoeksbloem)
+50. Asparagus-Typ (Asperge)
+51. Rosaceae (Rozenfamilie)
+52. Impatiens glandulifera (Reuzenbalsamine)
+53. Filipendula (Pluimkruid)
+54. Fagopyrum (Boekweit)
+55. Fragaria (Aardbei)
+56. Majoranus-Typ (Marjolein)
+57. Eleagnaceae (Oleaster)
+58. Symphytum (Smeerwortel)
+59. Symphoricarpus (Sneeuwbes)
+60. Buddlejaceae (Vlinderstruik)
+61. Vaccinium (Bosbessen)
+62. Epilobium (Teunisbloem)
+63. Ribes (Aalbes)
+64. Calluna vulgaris (Struikhei)
+65. Heracleum-Typ (Reuzenkruiskruid)
+66. Cynoglossum (Hondstonge)
+67. Tradescantia (Driekleurig bloemzegge)
+68. Brassicaceae (Kruisbloemigen)
+69. Centaurea-Typ (Centaurea)
+70. Jasione (Jasione)
+71. Cornus mas (Gele kornoelje)
+72. Polygonum-Typ (Duizendknoop)
+73. Fraxinus (Es)
+74. Potentilla (Zilverschoon)
+75. Centaurea jacea-Typ (Akkercentaurie)
+76. Impatiens parviflora (Kleine balsamine)
+77. Helianthus-Typ (Zonnebloem-soorten)
