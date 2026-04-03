@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_reticulate_2110_galeopsis_ballota_sub",
-    "title": "21.10 Galeopsis-Ballota-Gruppe (Beug) — interactieve sleutel (NL)",
+    "key": "beug21-tricolpatae-ret-galeopsis.json",
+    "title": "21.10 Galeopsis-Ballota-groep (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §21.10 Galeopsis-Ballota-Gruppe. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -14,13 +14,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi duidelijk groter dan 1 µm en tot 2,5 µm groot, tectum op de lumina door microbrochi onderverdeeld (Tafel 60: 3-9).",
+          "label": "brochi duidelijk groter dan 1 µm en tot 2,5 µm groot, tectum op de lumina door microbrochi onderverdeeld (Tafel 60: 3-9).",
           "outcome": {
             "text": "21.10.1 *Galeopsis*-type"
           }
         },
         {
-          "label": "Brochi slechts tot 1(1,2) µm groot, overwegend ononderverdeeld (Tafel 60: 10-13).",
+          "label": "brochi slechts tot 1(1,2) µm groot, overwegend ononderverdeeld (Tafel 60: 10-13).",
           "outcome": {
             "text": "21.10.2 *Ballota*-type"
           }

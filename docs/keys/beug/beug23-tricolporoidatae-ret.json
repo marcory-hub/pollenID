@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporoidatae_reticulate_23",
-    "title": "23. Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "key": "beug23-tricolporoidatae-ret.json",
+    "title": "23. Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23 Tricolporoidatae PK mit reticulaten (per- en suprareticulaten), microreticulaten oder fossulaten Skulpturen. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 25,
     "start": "1"
   },
@@ -14,11 +14,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poolfelder psilaat, met Tectum perforatum of Brochi hier aanzienlijk kleiner en Exine (Ektexine) dunner als op den Intercolpium-Rändern, PK perreticulaat (wanneer PK suprareticulaat, vgl. 23.12 Genista-Gruppe).",
+          "label": "Poolvelden psilaat, met Tectum perforatum of Brochi hier aanzienlijk kleiner en Exine (Ektexine) dunner als op de intercolpiumrandenn, PK perreticulaat (wanneer PK suprareticulaat, vgl. 23.12 Genista-Gruppe).",
           "next": "2"
         },
         {
-          "label": "Sculpturering op den Poolfeldern als op den Intercolpium-Rändern.",
+          "label": "sculpturering op de poolvelden als op de intercolpiumrandenn.",
           "next": "4"
         }
       ]
@@ -28,11 +28,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK homobrochaat, Brochi bis ca. 1,2 µm groot (Tafel 79: 11-16).",
+          "label": "PK homobrochaat, Brochi tot ca. 1,2 µm groot (Tafel 79: 11-16).",
           "next": "beug_tricolporoidatae_reticulate_231_sambucus_nigra_type_sub"
         },
         {
-          "label": "PK heterobrochaat, grote Brochi 1 bis 2 µm groot.",
+          "label": "PK heterobrochaat, grote Brochi 1 tot 2 µm groot.",
           "next": "3"
         }
       ]
@@ -42,11 +42,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine in het midden van de Intercolpiën equatoriaal bis 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
+          "label": "Exine in het midden van de Intercolpiën equatoriaal tot 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
           "next": "beug_tricolporoidatae_reticulate_232_sambucus_ebulus_sub"
         },
         {
-          "label": "Exine in het midden van de Intercolpiën equatoriaal bis 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
+          "label": "Exine in het midden van de Intercolpiën equatoriaal tot 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
           "next": "beug_tricolporoidatae_reticulate_233_adoxa_moschatellina_sub"
         }
       ]
@@ -56,11 +56,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine microreticulaat of fossulaat met Overgangen zu einer microreticulaten Sculpturierung, Brochi vereinzelnt bis 1,2 (1,3) µm, PK relatief dunwandig (Exine bis 2 µm dik), bei Exinen-Dicken über 2-2,5 µm vgl. Euphorbia.",
+          "label": "Exine microreticulaat of fossulaat met overgangen zu einer microreticulaten Sculpturierung, Brochi vereinzelnt tot 1,2 (1,3) µm, PK relatief dunwandig (Exine tot 2 µm dik), bei Exinen-Dicken over 2-2,5 µm vgl. Euphorbia.",
           "next": "5"
         },
         {
-          "label": "Exine reticulaat (supra- oder perreticulaat), Brochi meerderheid duidelijk über 1 µm groot; hier ook de PK van Euphorbia mit undeutlichem Suprareticulum en een Exinen-Dicke von (2)2,5-3(4) µm.",
+          "label": "Exine reticulaat (supra- of perreticulaat), Brochi meerderheid duidelijk over 1 µm groot; hier ook de PK van Euphorbia met undeutlichem Suprareticulum en een Exinen-dikte von (2)2,5-3(4) µm.",
           "next": "17"
         }
       ]
@@ -70,9 +70,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK fossulaat met Overgangen zu einer microreticulaten Sculpturierung tussen den rugulaten Sculpturelementen (bei ausschließlich undeutlich grubiger Sculpturierung vergl. ook den Medicago sativa-Typ, S. 207).",
+          "label": "PK fossulaat met overgangen zu einer microreticulaten Sculpturierung tussen de rugulaten Sculpturelementen (bei ausschließlich onduidelijk grubbig Sculpturierung vgl. ook de Medicago sativa-type, Blz. 207).",
           "outcome": {
-            "text": "Geen match. Zie Medicago sativa-type (blz. 207) [te verifiëren]"
+            "text": "Geen match. Zie Medicago sativa-type (Blz. 207) [te verifiëren]"
           }
         },
         {
@@ -86,11 +86,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 24-33 µm groß, Elemente der rugulaten Sculpturierung locker gestellt, fossulate Sculpturierung daardoor duidelijk (Tafel 80: 1-5).",
+          "label": "PK 24-33 µm groot, Elemente der rugulaten Sculpturierung locker gestellt, fossulate Sculpturierung daardoor duidelijk (Tafel 80: 1-5).",
           "next": "beug_tricolporoidatae_reticulate_234_laburnum_sub"
         },
         {
-          "label": "PK 30-40 µm groß, Elemente der rugulaten Sculpturierung dicht gestellt, vaak vernetzt (Tafel 80: 6-9).",
+          "label": "PK 30-40 µm groot, Elemente der rugulaten Sculpturierung dicht gestellt, vaak vernetzt (Tafel 80: 6-9).",
           "next": "beug_tricolporoidatae_reticulate_235_robinia_pseudoacacia_sub"
         }
       ]
@@ -100,7 +100,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK heteropolaar, mit einem abgerundeten und einem zugespitzten Pol, 15-22 µm groß (Tafel 80: 26-27).",
+          "label": "PK heteropolaar, met einem abgerundeten en einem toegespitste Pol, 15-22 µm groot (Tafel 80: 26-27).",
           "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub"
         },
         {
@@ -114,11 +114,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi im Hellfeldbild (Ölimmersion) niet, im Phasenkontrastbild oft nur schwer erkennbar, vorherrschende Größe der Lumina om 0,5 µm (schwierige Gruppen).",
+          "label": "Brochi im lichtveldbeeld (olie-immersie) niet, im Phasenkontrastbild vaak nur schwer herkenbaar, overheersende Größe der Lumina om 0,5 µm (schwierige Gruppen).",
           "next": "9"
         },
         {
-          "label": "Brochi im Hellfeldbild (Ölimmersion) erkennbaar, vorherrschende Größe der Lumina 0,5-1,0 µm.",
+          "label": "Brochi im lichtveldbeeld (olie-immersie) herkenbaar, overheersende Größe der Lumina 0,5-1,0 µm.",
           "next": "11"
         }
       ]
@@ -128,11 +128,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Breite der Muri meist geringer als der Durchmesser der Lumina, PK 25-32 µm groß, meist rhomboïdisch, selten elliptisch (Tafel 80: 10-15).",
+          "label": "breedte der Muri meestal geringer als der Diameter der Lumina, PK 25-32 µm groot, meestal ruitvormig, zelden elliptisch (Tafel 80: 10-15).",
           "next": "beug_tricolporoidatae_reticulate_236_lobelia_dortmanna_sub"
         },
         {
-          "label": "Muri meist so breit wie der Durchmesser der Lumina.",
+          "label": "Muri meestal so breit wie der Diameter der Lumina.",
           "next": "10"
         }
       ]
@@ -142,11 +142,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi im Phasenkontrastbild gut erkennbaar, PK 18-28 µm groot (recentes Vergleichsmaterial benutzen) (Tafel 80: 26-35, Tafel 81: 1-16).",
+          "label": "Brochi im Phasenkontrastbild gut herkenbaar, PK 18-28 µm groot (recentes Vergleichsmaterial benutzen) (Tafel 80: 26-35, Tafel 81: 1-16).",
           "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub"
         },
         {
-          "label": "Brochi im Phasenkontrastbild schwer erkennbar, PK nur 11-21 µm groß (rezentes Vergleichsmaterial benutzen) (Tafel 80: 16-25).",
+          "label": "Brochi im Phasenkontrastbild schwer herkenbaar, PK nur 11-21 µm groot (rezentes Vergleichsmaterial benutzen) (Tafel 80: 16-25).",
           "next": "beug_tricolporoidatae_reticulate_237_primula_clusiana_type_sub"
         }
       ]
@@ -170,11 +170,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae in Aufsicht mindestens im Phasenkontrastbild erkennbaar.",
+          "label": "columella's in Aufsicht ten minste im Phasenkontrastbild herkenbaar.",
           "next": "20"
         },
         {
-          "label": "Columellae in Aufsicht ook im Phasenkontrastbild niet erkennbaar.",
+          "label": "columella's in Aufsicht ook im Phasenkontrastbild niet herkenbaar.",
           "next": "21"
         }
       ]
@@ -184,11 +184,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae unter den Muri z.T. doppelreihig, Brochi Poren duidelijk kleiner als op den Intercolpiën, PK sferoïdisch, selten schwach prolaat (Cercis).",
+          "label": "columella's unter de Muri z.T. dubbelrijig, Brochi Poriën duidelijk kleiner als op de Intercolpiën, PK sferoïdisch, zelden zwak prolaat (Cercis).",
           "next": "beug_tricolporoidatae_reticulate_2316_cercis_siliquastrum_sub"
         },
         {
-          "label": "Columellae unter den Muri stets einreihig. Brochi Poren niet kleiner als op den Intercolpium-Rändern. PK prolaat bis sferoïdisch (Tafel 80: 26-35, Tafel 81: 1-16).",
+          "label": "columella's unter de Muri altijd enkelrijig. Brochi Poriën niet kleiner als op de intercolpiumrandenn. PK prolaat tot sferoïdisch (Tafel 80: 26-35, Tafel 81: 1-16).",
           "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub"
         }
       ]
@@ -198,7 +198,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK micro-suprareticulaat, Brochi daher relatief contrastarm, Columellae-Schicht im optischen Schnitt met kontrastschwachen und relatief weit gestellten Columellae erkennbaar; wenn eng gestellt, vergl. Linaria (S. 368) (Tafel 81: 17-22).",
+          "label": "PK micro-suprareticulaat, Brochi daardoor relatief contrastarm, columella-laag im optischen Schnitt met kontrastschwachen en relatief weit gestellten columella's herkenbaar; Indien eng gestellt, vgl. Linaria (Blz. 368) (Tafel 81: 17-22).",
           "next": "beug_tricolporoidatae_reticulate_239_hypericum_perforatum_type_sub"
         },
         {
@@ -212,11 +212,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 15-18 µm groß, dünnwandig (Tafel 80: 26-35, Tafel 81: 1-16).",
+          "label": "PK 15-18 µm groot, dunwandig (Tafel 80: 26-35, Tafel 81: 1-16).",
           "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub"
         },
         {
-          "label": "PK größer (vergl. ook Elatine, S. 206).",
+          "label": "PK größer (vgl. ook Elatine, Blz. 206).",
           "next": "16"
         }
       ]
@@ -226,13 +226,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK polair meest abgerundet, Endexine relatief dünn (Tafel 80: 16-25).",
+          "label": "PK polair meest afgerond, Endexine relatief dun (Tafel 80: 16-25).",
           "outcome": {
-            "text": "23.7 *Primula clusiana*-Typ (große PK) (blz. 364)"
+            "text": "23.7 *Primula clusiana*-type (grote PK) (Blz. 364)"
           }
         },
         {
-          "label": "PK mit polair meest verjüngt zulaufenden Enden, Endexine relatief dik. Schwer von den großen PK vom Primula clusiana-Typ zu trennen.",
+          "label": "PK met polair meest taps toelopende Enden, Endexine relatief dik. Schwer von de großen PK vom Primula clusiana-type zu trennen.",
           "next": "beug_tricolporoidatae_reticulate_2310_saxifraga_hieracifolia_sub"
         }
       ]
@@ -256,13 +256,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK dikwandig (Dicke der Exine 2-4 µm). Die suprareticulate oder (selten) supramicoreticulate Sculpturierung verlangt hoge optische Auflösung en is meist nur im Phasenkontrastbild met hinreichende Deutlichkeit erkennbaar (Tafel 81: 23-30, Tafel 82: 1-7).",
+          "label": "PK dikwandig (dikte der Exine 2-4 µm). Die suprareticulate of (zelden) supramicroreticulate Sculpturierung verlangt hoge optische resolutie en is meestal nur im Phasenkontrastbild met voldoende duidelijkheid herkenbaar (Tafel 81: 23-30, Tafel 82: 1-7).",
           "outcome": {
-            "text": "23.11 *Euphorbia* (blz. 371)"
+            "text": "23.11 *Euphorbia* (Blz. 371)"
           }
         },
         {
-          "label": "Exine nur bis 2 µm dick. Reticulate Sculpturierung mindestens im Phasenkontrastbild stets deutlich erkennbaar.",
+          "label": "Exine nur tot 2 µm dik. Reticulate Sculpturierung ten minste im Phasenkontrastbild altijd duidelijk herkenbaar.",
           "next": "19"
         }
       ]
@@ -272,13 +272,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi met opvallend brede Muri. Columellae im Phasenkontrastbild duidelijk, unter den Muri meerreihig (Tafel 76: 11-17).",
+          "label": "Brochi met opvallend breedte Muri. columella's im Phasenkontrastbild duidelijk, unter de Muri meerrijig (Tafel 76: 11-17).",
           "outcome": {
-            "text": "*Hypericum elodes* (blz. 344)"
+            "text": "*Hypericum elodes* (Blz. 344)"
           }
         },
         {
-          "label": "Muri niet opvallend breit. Columellae im Phasenkontrastbild niet of nur im polaren und subpolaren Bereich erkennbaar (Tafel 82: 8-19, Tafel 83: 1-9).",
+          "label": "Muri niet opvallend breit. columella's im Phasenkontrastbild niet of nur im polaren en subpolaren gebied herkenbaar (Tafel 82: 8-19, Tafel 83: 1-9).",
           "next": "beug_tricolporoidatae_reticulate_2312_genista_gruppe_sub"
         }
       ]
@@ -288,11 +288,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae duidelijk einreihig of niet erkennbaar.",
+          "label": "columella's duidelijk enkelrijig of niet herkenbaar.",
           "next": "21"
         },
         {
-          "label": "Columellae meerreihig of streckenweise 2 Columellae nebeneinander.",
+          "label": "columella's meerrijig of streckenweise 2 columella's nebeneinander.",
           "next": "25"
         }
       ]
@@ -304,11 +304,11 @@
         {
           "label": "PK prolaat, marginaat (Tafel 61: 26-32, Tafel 62: 1-3).",
           "outcome": {
-            "text": "*Salix* (blz. 300)"
+            "text": "*Salix* (Blz. 300)"
           }
         },
         {
-          "label": "PK sferoïdisch, mit oder ohne Margines.",
+          "label": "PK sferoïdisch, met of zonder marges.",
           "next": "22"
         }
       ]
@@ -318,13 +318,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae im Phasenkontrastbild niet erkennbaar (Tafel 63: 9-15).",
+          "label": "columella's im Phasenkontrastbild niet herkenbaar (Tafel 63: 9-15).",
           "outcome": {
-            "text": "*Hottonia palustris* (blz. 304)"
+            "text": "*Hottonia palustris* (Blz. 304)"
           }
         },
         {
-          "label": "Columellae mindestens im Phasenkontrastbild erkennbaar.",
+          "label": "columella's ten minste im Phasenkontrastbild herkenbaar.",
           "next": "23"
         }
       ]
@@ -334,11 +334,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine 2,0-3,0(5,5) µm dick (wenn Polarfelder klein, Reticulum mit bis 2 µm langgestreckten, meridional ausgerichteten Brochi, vergl. Hyoscyamus niger, S. 332), Brochi über 2,0 µm groß; die Ektexine wird zu den Intercolpium-Rändern hin dünner (Exine hier um 1 µm dick).",
+          "label": "Exine 2,0-3,0(5,5) µm dik (Indien Poolvelden klein, Reticulum met tot 2 µm langgestreckten, meridionaal ausgerichteten Brochi, vgl. Hyoscyamus niger, Blz. 332), Brochi over 2,0 µm groot; die Ektexine wird zu de intercolpiumrandenn hin dunner (Exine hier um 1 µm dik).",
           "next": "24"
         },
         {
-          "label": "Exine 1,5-1,8 µm dick, an den Intercolpium-Rändern niet dünner. Brochi 1,0-1,8(2,1) µm groß. Wenn Brochi nur bis 1,2 µm groß, vergl. 6. Scrophulariaceae p.p. (Tafel 83: 15-19).",
+          "label": "Exine 1,5-1,8 µm dik, an de intercolpiumrandenn niet dunner. Brochi 1,0-1,8(2,1) µm groot. Indien Brochi nur tot 1,2 µm groot, vgl. 6. Scrophulariaceae p.p. (Tafel 83: 15-19).",
           "next": "beug_tricolporoidatae_reticulate_2313_diapensia_lapponica_sub"
         }
       ]
@@ -348,13 +348,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi 2,0-2,5(3,0) µm groß, Columellae doppelreihig (Tafel 83: 10-14).",
+          "label": "Brochi 2,0-2,5(3,0) µm groot, columella's dubbelrijig (Tafel 83: 10-14).",
           "next": "beug_tricolporoidatae_reticulate_2314_euonymus_sub"
         },
         {
-          "label": "Brochi maximal 4-5 µm groß, Columellae stets einreihig (Tafel 73: 18-25).",
+          "label": "Brochi maximal 4-5 µm groot, columella's altijd enkelrijig (Tafel 73: 18-25).",
           "outcome": {
-            "text": "*Viburnum lantana* (blz. 336)"
+            "text": "*Viburnum lantana* (Blz. 336)"
           }
         }
       ]
@@ -364,11 +364,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 32-42 µm groß, prolaat, Lumina kleiner als die Breite der Muri, Columellae meerreihig (Tafel 83: 20-23).",
+          "label": "PK 32-42 µm groot, prolaat, Lumina kleiner als die breedte der Muri, columella's meerrijig (Tafel 83: 20-23).",
           "next": "beug_tricolporoidatae_reticulate_2315_paeonia_officinalis_sub"
         },
         {
-          "label": "PK 20-28 µm groß, meestal sferoïdisch, Muri etwa so breit wie der Durchmesser der Lumina of nur wenig schmäler, Columellae nur vereinzelnt doppelreihig (Tafel 83: 24-28).",
+          "label": "PK 20-28 µm groot, meestal sferoïdisch, Muri etwa so breit wie der Diameter der Lumina of nur wenig schmäler, columella's nur vereinzelnt dubbelrijig (Tafel 83: 24-28).",
           "next": "beug_tricolporoidatae_reticulate_2316_cercis_siliquastrum_sub"
         }
       ]

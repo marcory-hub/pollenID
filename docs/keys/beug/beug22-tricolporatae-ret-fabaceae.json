@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporatae_reticulate_2231_fabaceae_pp_sub",
-    "title": "22.31 Fabaceae p.p. (Beug) — interactieve sleutel (NL)",
+    "key": "beug22-tricolporatae-ret-fabaceae.json",
+    "title": "22.31 Fabaceae p.p. (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.31 Fabaceae p.p.. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 6,
     "start": "1"
   },
@@ -42,11 +42,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi 1,0-1,5 (max. 1,8) µm groot (Tafel 77: 11-19).",
+          "label": "brochi 1,0-1,5 (max. 1,8) µm groot (Tafel 77: 11-19).",
           "next": "beug_tricolporatae_reticulate_22313_astragalus_type_sub"
         },
         {
-          "label": "Brochi duidelijk groter als 1,5 µm.",
+          "label": "brochi duidelijk groter als 1,5 µm.",
           "next": "4"
         }
       ]
@@ -56,11 +56,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porenrandingen minstens gedeeltelijk met Costae, Poren daarom contrastrijk.",
+          "label": "Porenrandingen minstens gedeeltelijk met costae, poriën daarom contrastrijk.",
           "next": "5"
         },
         {
-          "label": "Porenrandingen zonder Costae, Poren daarom vaak contrastarm (Tafel 77: 20-22, Tafel 78: 1-14, Tafel 79: 1-2).",
+          "label": "Porenrandingen zonder costae, poriën daarom vaak contrastarm (Tafel 77: 20-22, Tafel 78: 1-14, Tafel 79: 1-2).",
           "next": "beug_tricolporatae_reticulate_22314_trifolium_sub"
         }
       ]
@@ -70,11 +70,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Grootste Brochi over 3,0 µm en tot 4,5 µm groot (Tafel 78: 15-19, Tafel 79: 8-10).",
+          "label": "Grootste brochi over 3,0 µm en tot 4,5 µm groot (Tafel 78: 15-19, Tafel 79: 8-10).",
           "next": "beug_tricolporatae_reticulate_22315_vicia_type_sub"
         },
         {
-          "label": "Brochi maximaal 2,5-3,0 µm groot.",
+          "label": "brochi maximaal 2,5-3,0 µm groot.",
           "next": "6"
         }
       ]

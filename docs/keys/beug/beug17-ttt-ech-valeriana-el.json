@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_176_valeriana_elongata_sub",
-    "title": "17.6 Valeriana elongata-Gruppe (Beug) — interactieve sleutel (NL)",
+    "key": "beug17-ttt-ech-valeriana-el.json",
+    "title": "17.6 Valeriana elongata-groep (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.6 Valeriana elongata-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 3,
     "start": "1"
   },
@@ -30,13 +30,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Echini maximaal 2 µm lang, PK ongeveer 30-40 µm groot, PFormI ongeveer 1,0.",
+          "label": "Echini maximaal 2 µm lang, PK ongeveer 30-40 µm groot, pollenvormindex ongeveer 1,0.",
           "outcome": {
             "text": "17.6.2 *Valeriana elongata*"
           }
         },
         {
-          "label": "Echini maximaal 2,0-2,8 µm lang, PK bovendien met kleinere echini, PK groter dan 40 µm, PFormI groter dan 1,10.",
+          "label": "Echini maximaal 2,0-2,8 µm lang, PK bovendien met kleinere echini, PK groter dan 40 µm, pollenvormindex groter dan 1,10.",
           "outcome": {
             "text": "17.6.3 *Valeriana celtica*"
           }

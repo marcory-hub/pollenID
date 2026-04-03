@@ -1,7 +1,7 @@
 {
   "meta": {
-    "key": "beug15-tricolporoidatae-ps-cornus",
-    "title": "15.1 Cornus",
+    "key": "beug15-tricolporoidatae-ps-cornus.json",
+    "title": "15.1 Cornus (Beug)",
     "locale": "nl",
     "source": "Beug",
     "note": "-"
@@ -11,7 +11,7 @@
     "1": {
       "choices": [
         {
-          "label": "PK ca. 55-80 µm groß, prolat bis perprolat",
+          "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
           "outcome": {
             "text": "15.1.1 *Cornus sanguinea*"
           }
@@ -19,7 +19,7 @@
         {
           "label": "PK < 40 µm",
           "outcome": {
-            "text": "15.1.2 *Cornus mas-Typ*"
+            "text": "15.1.2 *Cornus mas-type*"
           }
         }
       ]

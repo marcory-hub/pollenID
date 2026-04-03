@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_clavate",
-    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug) — interactieve sleutel (NL)",
+    "key": "beug16-ttt-clav.json",
+    "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §16 Tricolpatae, Tricolporoidatae und Tricolporatae (PK mit clavaten, baculaten, verrucaten oder gemmaten Skulpturen). PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 7,
     "start": "1"
   },
@@ -30,11 +30,11 @@
         {
           "label": "Exine bis 1,5 µm dik, PK bis ca. 30 µm groot. Sculptuurelementen (clavae) klein, netzig (retipilaat) gerangschikt, aperturen onduidelijk (tabel 96: 1–4).",
           "outcome": {
-            "text": "*Callitriche palustris*-type (blz. 424)"
+            "text": "*Callitriche palustris*-type (Blz... 424)"
           }
         },
         {
-          "label": "Exine duidelijk over 1,5 µm dik, PK über 40 µm und bis 150 µm groß.",
+          "label": "Exine duidelijk over 1,5 µm dik, PK über 40 µm en bis 150 µm groot.",
           "next": "3"
         }
       ]
@@ -46,13 +46,13 @@
         {
           "label": "De clavae staan op een reticulum (tabel 34: 18–21; Afb. 20).",
           "outcome": {
-            "text": "16.1 *Geranium* (blz. 211)"
+            "text": "16.1 *Geranium* (Blz... 211)"
           }
         },
         {
-          "label": "De clavae zijn distaal miteenverbonden en micro-echinaat gesculpteerd, ze staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
+          "label": "De clavae zijn distaal met elkaar verbonden en micro-echinaat gesculpteerd, ze staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
           "outcome": {
-            "text": "*Armeria* p.p. (blz. 302)"
+            "text": "*Armeria* p.p. (Blz... 302)"
           }
         }
       ]
@@ -64,11 +64,11 @@
         {
           "label": "PK met margo, poolvelden klein. PK met bis 3 µm langen, dicht stehenden clavae (tabel 34: 22–25).",
           "outcome": {
-            "text": "16.2 *Ilex aquifolium* (blz. 214)"
+            "text": "16.2 *Ilex aquifolium* (Blz... 214)"
           }
         },
         {
-          "label": "PK zonder margo, wenn zwach aangeduid, dan poolvelden zeer groot.",
+          "label": "PK zonder margo, Indien zwach aangeduid, dan poolvelden zeer groot.",
           "next": "5"
         }
       ]
@@ -92,15 +92,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine veel dikker als het tectum, poolvelden groot, sculptuurelementen (hauptsächlich bacula) bis 4 µm lang (tabel 35: 1–4).",
+          "label": "Exine veel dikker als het tectum, poolvelden groot, sculptuurelementen (hoofdzakelijk bacula) bis 4 µm lang (tabel 35: 1–4).",
           "outcome": {
-            "text": "16.3 *Viscum album* (blz. 214)"
+            "text": "16.3 *Viscum album* (Blz... 214)"
           }
         },
         {
-          "label": "Tectum so dik wie die endexine oder dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
+          "label": "tectum so dik wie die endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
           "outcome": {
-            "text": "16.4 *Rubus chamaemorus* (blz. 214)"
+            "text": "16.4 *Rubus chamaemorus* (Blz... 214)"
           }
         }
       ]
@@ -112,11 +112,14 @@
         {
           "label": "PK < 30 µm (ca. 20–25 µm) (tabel 35: 9–11).",
           "outcome": {
-            "text": "16.5 *Radiola linoides* (blz. 214)"
+            "text": "16.5 *Radiola linoides* (Blz... 214)"
           }
         },
         {
           "label": "PK > 30 µm (ca. 35–100 µm) (tabel 35: 12–15, tabel 36: 1–7, tabel 37: 1–5, Afb. 21–22).",
           "next": "beug-tricolpatae-tricolporoidatae-tricolporatae-clavate-166-linum"
-          }
         }
+      ]
+    }
+  }
+}

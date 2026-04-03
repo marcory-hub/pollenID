@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_stephanocolpatae_2410_salvia_pratensis_gruppe_sub",
-    "title": "24.10 Salvia pratensis-Gruppe (Beug) — interactieve sleutel (NL)",
+    "key": "beug24-stephanocolpatae-salvia.json",
+    "title": "24.10 Salvia pratensis-groep (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §24.10 Salvia pratensis-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -14,15 +14,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae staan nur onder den Macromuri (Tafel 86: 5-13).",
+          "label": "columella's staan nur onder de Macromuri (Tafel 86: 5-13).",
           "outcome": {
-            "text": "24.10.1 *Salvia pratensis*-Typ"
+            "text": "24.10.1 *Salvia pratensis*-type"
           }
         },
         {
-          "label": "Columellae staan onder den Muri en onder den Lumina der Macrobrochi.",
+          "label": "columella's staan onder de Muri en onder de Lumina der Macrobrochi.",
           "outcome": {
-            "text": "24.10.2 *Salvia officinalis*-Typ"
+            "text": "24.10.2 *Salvia officinalis*-type"
           }
         }
       ]

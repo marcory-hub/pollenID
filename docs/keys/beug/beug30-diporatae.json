@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_diporatae_30_new",
-    "title": "30 Diporatae (Beug) — interactieve sleutel (NL)",
+    "key": "beug30-diporatae.json",
+    "title": "30 Diporatae (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §30 Diporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 6,
     "start": "1"
   },
@@ -18,7 +18,7 @@
           "next": "2"
         },
         {
-          "label": "PK psilat of scabraat.",
+          "label": "PK psilaat of scabraat.",
           "next": "4"
         }
       ]
@@ -30,7 +30,7 @@
         {
           "label": "PK echinaat of microechinaat (Tafel 105: 1-18).",
           "outcome": {
-            "text": "*Campanulaceae* p.p. (S. 449)"
+            "text": "*Campanulaceae* p.p. (Blz. 449)"
           }
         },
         {
@@ -44,13 +44,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat of microreticulaat, 50-75 µm groß (Tafel 96: 5-6).",
+          "label": "PK reticulaat of microreticulaat, 50-75 µm groot (Tafel 96: 5-6).",
           "next": "beug_diporatae_301_colchicum_gruppe_sub"
         },
         {
-          "label": "PK retipilat, 19-35 µm groß (Tafel 96: 1-4).",
+          "label": "PK retipilat, 19-35 µm groot (Tafel 96: 1-4).",
           "outcome": {
-            "text": "30.2 *Callitriche palustris*-Typ (S. 424)"
+            "text": "30.2 *Callitriche palustris*-type (Blz. 424)"
           }
         }
       ]
@@ -60,13 +60,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK bis ca. 17 µm groß (Tafel 120: 21-23).",
+          "label": "PK tot ca. 17 µm groot (Tafel 120: 21-23).",
           "outcome": {
-            "text": "30.3 *Ficus carica* (S. 424)"
+            "text": "30.3 *Ficus carica* (Blz. 424)"
           }
         },
         {
-          "label": "PK mindestens 17-20 µm groß.",
+          "label": "PK ten minste 17-20 µm groot.",
           "next": "5"
         }
       ]
@@ -76,13 +76,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poren met kräftigem Anulus, Anuli 4,0-4,8 µm breit und 3,8-4,6 µm hoch.",
+          "label": "Poriën met kräftigem annulus, Anuli 4,0-4,8 µm breit en 3,8-4,6 µm hoch.",
           "outcome": {
-            "text": "*Myriophyllum alterniflorum* (S. 448)"
+            "text": "*Myriophyllum alterniflorum* (Blz. 448)"
           }
         },
         {
-          "label": "Poren ohne Anulus.",
+          "label": "Poriën zonder annulus.",
           "next": "6"
         }
       ]
@@ -92,15 +92,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porendurchmesser 5-7 µm, PK 20-28 µm groß (Tafel 95: 13-15).",
+          "label": "Porendurchmesser 5-7 µm, PK 20-28 µm groot (Tafel 95: 13-15).",
           "outcome": {
-            "text": "30.4 *Cytinus hypocistis* (S. 426)"
+            "text": "30.4 *Cytinus hypocistis* (Blz. 426)"
           }
         },
         {
-          "label": "Porendurchmesser 2,5-3 µm, PK (17)26-35 µm groß (Tafel 95: 16-17).",
+          "label": "Porendurchmesser 2,5-3 µm, PK (17)26-35 µm groot (Tafel 95: 16-17).",
           "outcome": {
-            "text": "30.5 *Itea* (S. 426)"
+            "text": "30.5 *Itea* (Blz. 426)"
           }
         }
       ]

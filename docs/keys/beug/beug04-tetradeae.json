@@ -1,7 +1,7 @@
 {
   "meta": {
-    "key": "beug04_tetradeae",
-    "title": "Determinatiesleutel voor tetradeae",
+    "key": "beug04-tetradeae.json",
+    "title": "4. Tetradeae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "note": "Diagonaal gecontroleerd",
@@ -16,7 +16,9 @@
       "choices": [
         {
           "label": "EPK reticulaat-areolaat (tabel 1: 1–2), ca. 60–80 µm groot.",
-          "outcome": { "text": "4.1 *Catalpa* (blz. 43)" }
+          "outcome": {
+            "text": "4.1 *Catalpa* (Blz... 43)"
+          }
         },
         {
           "label": "EPK niet areolaat.",
@@ -30,7 +32,9 @@
       "choices": [
         {
           "label": "EPK echinaat (tabel 2: 1–2).",
-          "outcome": { "text": "4.2 *Drosera* (blz. 43)" }
+          "outcome": {
+            "text": "4.2 *Drosera* (Blz... 43)"
+          }
         },
         {
           "label": "EPK niet echinaat.",
@@ -43,8 +47,10 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, blz. 44 en 50).",
-          "outcome": { "text": "4.3 Juncaceae (blz. 43)" }
+          "label": "EPK inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, Blz... 44 en 50).",
+          "outcome": {
+            "text": "4.3 Juncaceae (Blz... 43)"
+          }
         },
         {
           "label": "EPK met poriën en/of colpi (meestal tricolpaat, monoporaat of triporaat).",
@@ -86,11 +92,15 @@
       "choices": [
         {
           "label": "Tetraden met 16–24 poriën. Telkens 2 poriën van aangrenzende EPK zijn coaperturaat met elkaar verbonden (tabel 1: 6; fig. 2a).",
-          "outcome": { "text": "4.4 *Periploca* (blz. 43)" }
+          "outcome": {
+            "text": "4.4 *Periploca* (Blz... 43)"
+          }
         },
         {
           "label": "Tetraden met 8 poriën. Per 4 poriën zijn coaperturaat met elkaar verbonden (fig. 3b).",
-          "outcome": { "text": "4.5 *Spiranthes* (blz. 44)" }
+          "outcome": {
+            "text": "4.5 *Spiranthes* (Blz... 44)"
+          }
         }
       ]
     },
@@ -100,11 +110,15 @@
       "choices": [
         {
           "label": "EPK echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).",
-          "outcome": { "text": "4.6 *Aldrovanda vesiculosa* (blz. 44)" }
+          "outcome": {
+            "text": "4.6 *Aldrovanda vesiculosa* (Blz... 44)"
+          }
         },
         {
-          "label": "EPK verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (blz. 49).",
-          "outcome": { "text": "4.7 Ericaceae — Empetrum-groep (blz. 44)" }
+          "label": "EPK verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).",
+          "outcome": {
+            "text": "4.7 Ericaceae — Empetrum-groep (Blz... 44)"
+          }
         }
       ]
     },
@@ -114,7 +128,9 @@
       "choices": [
         {
           "label": "EPK tricolpaat, meestal met dwarsplooien. EPK slechts weinig onderling vergroeid; vaak zit in het midden van de tetrade een kleine holte (tabel 3: 1–3).",
-          "outcome": { "text": "4.8 *Chimaphila umbellata* (blz. 49)" }
+          "outcome": {
+            "text": "4.8 *Chimaphila umbellata* (Blz... 49)"
+          }
         },
         {
           "label": "EPK met 1 of 2 poriën.",
@@ -128,7 +144,9 @@
       "choices": [
         {
           "label": "EPK oblaat tot peroblaat, triporaat, poriën uitgetrokken. De EPK zitten slechts aan de porieranden losjes aan elkaar vast (tabel 98: 11–12).",
-          "outcome": { "text": "*Epilobium* (blz. 43)" }
+          "outcome": {
+            "text": "*Epilobium* (Blz... 43)"
+          }
         },
         {
           "label": "EPK ± sferoïdisch, monoporaat of diporaat, reticulaat of striaat(-reticulaat).",
@@ -142,7 +160,9 @@
       "choices": [
         {
           "label": "Poriën tot 4 µm groot, EPK steeds monoporaat (tabel 2: 10–11; fig. 2c).",
-          "outcome": { "text": "4.9 *Typha latifolia*-type (blz. 49)" }
+          "outcome": {
+            "text": "4.9 *Typha latifolia*-type (Blz... 49)"
+          }
         },
         {
           "label": "Poriën tot 8–15 µm groot, EPK monoporaat of diporaat. Poriën evt. niet herkenbaar (fig. 3; tabel 1: 3–4).",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporatae_reticulate_223142_trifolium_pratense_type_sub",
-    "title": "22.31.4.2 Trifolium pratense-type (Beug) — interactieve sleutel (NL)",
+    "key": "beug22-tricolporatae-ret-trifolium.json",
+    "title": "22.31.4.2 Trifolium pratense-type (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.31.4.2 Trifolium pratense-type. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -14,9 +14,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi polair en subpolair niet of nur onwezenlijk kleiner als op den Intercolpiën (Tafel 78: 1-7).",
+          "label": "brochi polair en subpolair niet of nur onwezenlijk kleiner als op den Intercolpiën (Tafel 78: 1-7).",
           "outcome": {
-            "text": "22.31.4.2 *Trifolium pratense*-type (blz. 351)"
+            "text": "22.31.4.2 *Trifolium pratense*-type (Blz... 351)"
           }
         },
         {

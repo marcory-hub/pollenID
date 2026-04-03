@@ -1,7 +1,7 @@
 {
   "meta": {
-    "key": "beug01_pollenklassen",
-    "title": "Determinatsleutel voor pollenklassen (Beug)",
+    "key": "beug01-pollenklasse.json",
+    "title": "1. Pollenklasse (Beug)",
     "locale": "nl",
     "source": "Beug",
     "note": "status: diagonaal gecontroleerd",
@@ -30,7 +30,9 @@
       "choices": [
         {
           "label": "PK met velen tezamen.",
-          "outcome": { "text": "Polyadeae" }
+          "outcome": {
+            "text": "[Polyadeae](beug03-polyadeae.md)"
+          }
         },
         {
           "label": "PK per vier of per twee verenigd.",
@@ -44,11 +46,15 @@
       "choices": [
         {
           "label": "PK per vier verenigd.",
-          "outcome": { "text": "Tetradeae" }
+          "outcome": {
+            "text": "Tetradeae"
+          }
         },
         {
           "label": "PK per twee verenigd.",
-          "outcome": { "text": "Dyadeae" }
+          "outcome": {
+            "text": "Dyadeae"
+          }
         }
       ]
     },
@@ -58,7 +64,9 @@
       "choices": [
         {
           "label": "PK met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
-          "outcome": { "text": "Vesiculatae" }
+          "outcome": {
+            "text": "Vesiculatae"
+          }
         },
         {
           "label": "PK zonder luchtzakken.",
@@ -72,7 +80,9 @@
       "choices": [
         {
           "label": "PK zonder poriën of colpi, deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: alleen *Ephedra*).",
-          "outcome": { "text": "Inaperturatae (1), Polyplicatae (2)" }
+          "outcome": {
+            "text": "Inaperturatae (1), Polyplicatae (2)"
+          }
         },
         {
           "label": "PK met poriën en/of colpi.",
@@ -86,7 +96,9 @@
       "choices": [
         {
           "label": "PK met ronde of hoekige zones (lacunae) waarin de extexine ontbreekt en die door ribben zijn omzoomd.",
-          "outcome": { "text": "Fenestratae" }
+          "outcome": {
+            "text": "Fenestratae"
+          }
         },
         {
           "label": "PK zonder dergelijke lacunae.",
@@ -99,11 +111,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 1 pore of 1 colpus.",
+          "label": "PK met 1 porie of 1 colpus.",
           "next": "8"
         },
         {
-          "label": "PK met meer dan 1 pore en/of meer dan 1 colpus.",
+          "label": "PK met meer dan 1 porie en/of meer dan 1 colpus.",
           "next": "9"
         }
       ]
@@ -114,11 +126,15 @@
       "choices": [
         {
           "label": "PK met 1 porie.",
-          "outcome": { "text": "Monoporatae" }
+          "outcome": {
+            "text": "Monoporatae"
+          }
         },
         {
           "label": "PK met 1 colpus.",
-          "outcome": { "text": "Monocolpatae" }
+          "outcome": {
+            "text": "Monocolpatae"
+          }
         }
       ]
     },
@@ -128,7 +144,9 @@
       "choices": [
         {
           "label": "Colpi met een ring- of schroefvormig verloop of met twee of drie colpi die polair met elkaar verbonden zijn, of met colpi die het oppervlak van de PK in hoekige zones verdelen en met elkaar verbonden zijn.",
-          "outcome": { "text": "Syncolpatae" }
+          "outcome": {
+            "text": "Syncolpatae"
+          }
         },
         {
           "label": "Colpi anders gerangschikt, niet met elkaar verbonden.",
@@ -141,11 +159,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 2 colpi en/of poren.",
+          "label": "PK met 2 colpi en/of poriën.",
           "next": "11"
         },
         {
-          "label": "PK met meer dan 2 colpi en/of poren.",
+          "label": "PK met meer dan 2 colpi en/of poriën.",
           "next": "13"
         }
       ]
@@ -160,7 +178,9 @@
         },
         {
           "label": "PK met 2 colpi die equatoriaal elk een porie bezitten.",
-          "outcome": { "text": "Dicolporatae" }
+          "outcome": {
+            "text": "Dicolporatae"
+          }
         }
       ]
     },
@@ -170,11 +190,15 @@
       "choices": [
         {
           "label": "PK met 2 colpi.",
-          "outcome": { "text": "Dicolpatae" }
+          "outcome": {
+            "text": "Dicolpatae"
+          }
         },
         {
           "label": "PK met 2 poriën.",
-          "outcome": { "text": "Diporatae" }
+          "outcome": {
+            "text": "Diporatae"
+          }
         }
       ]
     },
@@ -184,7 +208,9 @@
       "choices": [
         {
           "label": "PK met 3 poriën.",
-          "outcome": { "text": "Triporatae" }
+          "outcome": {
+            "text": "Triporatae"
+          }
         },
         {
           "label": "PK met meer dan 3 poriën of met 3 colpi die bovendien in het midden elk 1 porie hebben, of met meer dan 3 colpi die bovendien in het midden 1 porie kunnen hebben.",
@@ -217,7 +243,7 @@
           "next": "16"
         },
         {
-          "label": "Aperturen min of meer regelmatig over de exine verdeeld.",
+          "label": "Aperturen min of meer regelmatig over de Exine verdeeld.",
           "next": "19"
         }
       ]
@@ -242,11 +268,15 @@
       "choices": [
         {
           "label": "PK alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
-          "outcome": { "text": "Stephanocolpatae" }
+          "outcome": {
+            "text": "Stephanocolpatae"
+          }
         },
         {
           "label": "PK alleen met poriën.",
-          "outcome": { "text": "Stephanoporatae" }
+          "outcome": {
+            "text": "Stephanoporatae"
+          }
         }
       ]
     },
@@ -257,11 +287,15 @@
       "choices": [
         {
           "label": "Elke colpus heeft een porie (geen patroon ‘slechts om de andere’ colpus met porie).",
-          "outcome": { "text": "Stephanocolporatae" }
+          "outcome": {
+            "text": "Stephanocolporatae"
+          }
         },
         {
           "label": "Slechts elke tweede colpus met een porie.",
-          "outcome": { "text": "Heterocolpatae" }
+          "outcome": {
+            "text": "Heterocolpatae"
+          }
         }
       ]
     },
@@ -271,7 +305,9 @@
       "choices": [
         {
           "label": "PK alleen met poriën.",
-          "outcome": { "text": "Periporatae" }
+          "outcome": {
+            "text": "Periporatae"
+          }
         },
         {
           "label": "PK met colpi of met colpi die elk een porie bezitten.",
@@ -285,11 +321,15 @@
       "choices": [
         {
           "label": "PK colpaat.",
-          "outcome": { "text": "Pericolpatae" }
+          "outcome": {
+            "text": "Pericolpatae"
+          }
         },
         {
           "label": "PK colporaat.",
-          "outcome": { "text": "Pericolporatae" }
+          "outcome": {
+            "text": "Pericolporatae"
+          }
         }
       ]
     }

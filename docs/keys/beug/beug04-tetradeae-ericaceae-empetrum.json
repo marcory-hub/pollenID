@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tetradeae_47_ericaceae_empetrum",
-    "title": "4.7 Ericaceae–Empetrum-groep (Beug) — interactieve sleutel (NL)",
+    "key": "beug04-tetradeae-ericaceae-empetrum.json",
+    "title": "4.7 Ericaceae–Empetrum-groep (Beug)",
     "locale": "nl",
-    "source": "Beug.",
+    "source": "Beug",
     "note": "-",
     "stepCount": 6,
     "start": "1"
@@ -81,7 +81,7 @@
         {
           "label": "Binnenwanden van de tetraden duidelijk dikker dan de buitenwanden, meest > 2 tot 3,5 µm (tabel 1: 8–9; fig. 4).",
           "outcome": {
-            "text": "4.7.5 *Empetrum* / *Ledum*. *Empetrum nigrum* L. s.str. (5): 32,8–39,5 µm, MiW 36,6 µm; 50 PK, 0a; sculptuur scabraat, colpuslengte 11,3–18,6 µm, polaire velden 11,3–13,8 µm. *Empetrum hermaphroditum* Hagerup (2): 30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a."
+            "text": "4.7.5 *Empetrum* / *Ledum*. *Empetrum nigrum* L. Blz...str. (5): 32,8–39,5 µm, MiW 36,6 µm; 50 PK, 0a; sculptuur scabraat, colpuslengte 11,3–18,6 µm, polaire velden 11,3–13,8 µm. *Empetrum hermaphroditum* Hagerup (2): 30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a."
           }
         },
         {

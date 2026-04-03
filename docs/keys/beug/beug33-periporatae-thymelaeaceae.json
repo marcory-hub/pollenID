@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_periporatae_3313_thymelaeaceae_sub",
-    "title": "33.13 Thymelaeaceae (Beug) — interactieve sleutel (NL)",
+    "key": "beug33-periporatae-thymelaeaceae.json",
+    "title": "33.13 Thymelaeaceae (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.13 Thymelaeaceae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -14,13 +14,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 20-38 µm groß, Poren unscharf begrenzt (Tafel 114: 18-20).",
+          "label": "PK 20-38 µm groot, Poriën unscharf begrenzt (Tafel 114: 18-20).",
           "outcome": {
             "text": "33.13.1 *Daphne*"
           }
         },
         {
-          "label": "PK 34-47 µm groß, Poren kontrastreich begrenzt (Tafel 115: 1-5).",
+          "label": "PK 34-47 µm groot, Poriën kontrastreich begrenzt (Tafel 115: 1-5).",
           "outcome": {
             "text": "33.13.2 *Thymelaea*"
           }

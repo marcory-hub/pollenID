@@ -153,7 +153,7 @@
 
 ### 30. Diporatae
 - [30. Diporatae](beug30-diporatae.md)
-    - [Colchicum-groep](beug30-diporatae-colchicum.md)
+    - [30.1 Colchicum-groep](beug30-diporatae-colchicum.md)
 
 ### 31. Triporatae
 - [31. Triporatae](beug31-triporatae.md)

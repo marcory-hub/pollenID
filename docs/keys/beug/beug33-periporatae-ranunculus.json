@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_periporatae_333_ranunculus_arvensis_gruppe_sub",
-    "title": "33.3 Ranunculus arvensis-Gruppe (Beug) — interactieve sleutel (NL)",
+    "key": "beug33-periporatae-ranunculus.json",
+    "title": "33.3 Ranunculus arvensis-groep (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.3 Ranunculus arvensis-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -14,13 +14,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 49-60 µm groß, papillöse Vorwölbungen des Tectums deutlich, Echini bis 1,5 µm lang (Tafel 107: 19-22).",
+          "label": "PK 49-60 µm groot, papillöse Vorwölbungen des Tectums duidelijk, Echini tot 1,5 µm lang (Tafel 107: 19-22).",
           "outcome": {
             "text": "33.3.1 *Ranunculus arvensis*"
           }
         },
         {
-          "label": "PK 35-31 µm groß, papillöse Vorwölbungen des Tectums flach, Microechini ca. 0,5 µm lang (Tafel 107: 23-25).",
+          "label": "PK 35-31 µm groot, papillöse Vorwölbungen des Tectums flach, Microechini ca. 0,5 µm lang (Tafel 107: 23-25).",
           "outcome": {
             "text": "33.3.2 *Ranunculus parviflorus*"
           }

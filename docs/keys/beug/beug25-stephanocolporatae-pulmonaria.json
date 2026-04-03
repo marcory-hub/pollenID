@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_stephanocolporatae_254_pulmonaria_gruppe_sub",
-    "title": "25.4 Pulmonaria-Gruppe (Beug) — interactieve sleutel (NL)",
+    "key": "beug25-stephanocolporatae-pulmonaria.json",
+    "title": "25.4 Pulmonaria-groep (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §25.4 Pulmonaria-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -16,7 +16,7 @@
         {
           "label": "PK groter dan 30 µm (Tafel 87: 31-34).",
           "outcome": {
-            "text": "25.4.1 *Pulmonaria*-Typ"
+            "text": "25.4.1 *Pulmonaria*-type"
           }
         },
         {

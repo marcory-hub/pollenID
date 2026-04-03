@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub",
-    "title": "23.8 Scrophulariaceae p.p. (Beug) — interactieve sleutel (NL)",
+    "key": "beug23-tricolporoidatae-ret-scrophulariaceae.json",
+    "title": "23.8 Scrophulariaceae p.p. (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.8 Scrophulariaceae p.p.. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 8,
     "start": "1"
   },
@@ -14,9 +14,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK heteropolaar, met een abgerundeten en een zugespitzten Pol, 15-20 µm groot (Tafel 80: 26-27).",
+          "label": "PK heteropolaar, met een abgerundeten en een toegespitste Pol, 15-20 µm groot (Tafel 80: 26-27).",
           "outcome": {
-            "text": "23.8.1 *Chaenorrhinum minus* (S. 367)"
+            "text": "23.8.1 *Chaenorrhinum minus* (Blz. 367)"
           }
         },
         {
@@ -32,7 +32,7 @@
         {
           "label": "PK 15-18 µm groot, sferoïdisch, zeer dunwandig (Tafel 80: 28-30).",
           "outcome": {
-            "text": "23.8.2 *Lindernia procumbens* (S.367)"
+            "text": "23.8.2 *Lindernia procumbens* (Blz.367)"
           }
         },
         {
@@ -46,13 +46,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met aangedeuteten Margines uit bijzonder kleine Brochi (Tafel 81: 1-6).",
+          "label": "PK met aangedeuteten marges uit bijzonder kleine Brochi (Tafel 81: 1-6).",
           "outcome": {
-            "text": "23.8.3 *Verbascum* (S. 368)"
+            "text": "23.8.3 *Verbascum* (Blz. 368)"
           }
         },
         {
-          "label": "PK niet met aangedeuteten Margines uit bijzonder kleine Brochi.",
+          "label": "PK niet met aangedeuteten marges uit bijzonder kleine Brochi.",
           "next": "4"
         }
       ]
@@ -76,15 +76,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi in Hellfeldbild (Ölimmersion) duidelijk zichtbaar, tot 1 µm groot; PK overwegend elliptisch met afgeronde polen.",
+          "label": "Brochi in lichtveldbeeld (olie-immersie) duidelijk zichtbaar, tot 1 µm groot; PK overwegend elliptisch met afgeronde polen.",
           "outcome": {
-            "text": "23.8.4 *Linaria*-Typ (S. 368)"
+            "text": "23.8.4 *Linaria*-type (Blz. 368)"
           }
         },
         {
-          "label": "Brochi kleiner, in Hellfeldbild (Ölimmersion) meestal niet herkenbaar, PK vaak met toegespitste polen, elliptisch tot rhomboïdisch (Tafel 80: 31-35).",
+          "label": "Brochi kleiner, in lichtveldbeeld (olie-immersie) meestal niet herkenbaar, PK vaak met toegespitste polen, elliptisch tot ruitvormig (Tafel 80: 31-35).",
           "outcome": {
-            "text": "23.8.5 *Kickxia* (S. 370)"
+            "text": "23.8.5 *Kickxia* (Blz. 370)"
           }
         }
       ]
@@ -94,13 +94,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met kleine Polarfeldern.",
+          "label": "PK met kleine poolvelden.",
           "next": "7"
         },
         {
-          "label": "PK met middelgrote Polarfeldern.",
+          "label": "PK met middelgrote poolvelden.",
           "outcome": {
-            "text": "23.8.6 *Antirrhinum*-Typ (S. 370)"
+            "text": "23.8.6 *Antirrhinum*-type (Blz. 370)"
           }
         }
       ]
@@ -110,15 +110,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Breite der Muri niet uniform, PK daarom met een onrustig microreticulaat patroon (Tafel 81: 7-11).",
+          "label": "breedte der Muri niet uniform, PK daarom met een onrustig microreticulaat patroon (Tafel 81: 7-11).",
           "outcome": {
-            "text": "23.8.7 *Digitalis* (S. 370)"
+            "text": "23.8.7 *Digitalis* (Blz. 370)"
           }
         },
         {
-          "label": "Breite der Muri uniform, PK daarom met een regelmatig microreticulaat patroon (Tafel 81: 12-16).",
+          "label": "breedte der Muri uniform, PK daarom met een regelmatig microreticulaat patroon (Tafel 81: 12-16).",
           "outcome": {
-            "text": "23.8.8 *Scrophularia*-Typ (S. 370)"
+            "text": "23.8.8 *Scrophularia*-type (Blz. 370)"
           }
         }
       ]

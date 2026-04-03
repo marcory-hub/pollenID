@@ -1,6 +1,8 @@
 /**
  * Pollentabel (van der Ham): wizard + platte tabel uit vanderham-pollentabel.json.
  * Werkt met MkDocs Material instant navigation wanneer document$ beschikbaar is.
+ * data-json-url: relatief pad; wordt opgelost met document.baseURI (directory URLs + instant nav).
+ * Eindpunttekst: *cursief* + Markdown-links [label](https://…) alleen voor http(s); regelwit in JSON (\n) → <br />.
  */
 (function () {
   "use strict";
@@ -15,6 +17,23 @@
     const d = document.createElement("div");
     d.textContent = s;
     return d.innerHTML;
+  }
+
+  function escAttr(s) {
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/"/g, "&quot;")
+      .replace(/</g, "&lt;");
+  }
+
+  /** Relatieve data-json-url → absolute URL voor fetch (zelfde regels als browser voor <a href>). */
+  function resolveDataJsonUrl(url) {
+    if (typeof url !== "string" || !url) return url;
+    try {
+      return new URL(url, document.baseURI).href;
+    } catch (e) {
+      return url;
+    }
   }
 
   /**
@@ -43,17 +62,59 @@
     return chunks.join("");
   }
 
+  /** Markdown-achtige links [label](url): alleen http(s), extern tabblad. */
+  const OUTCOME_LINK_RE = /\[([^\]]*)\]\(([^)]+)\)/g;
+
+  /** Verwijdert dubbele weergave als bron `Taxon[Taxon](url)` heeft (zelfde label vóór de link). */
+  function stripRedundantLabelBeforeMarkdownLink(s) {
+    const m = /^([^[\]]*?)\[([^\]]*)\]\(/.exec(s);
+    if (!m) return s;
+    const before = m[1];
+    const label = m[2];
+    if (before.trimEnd() === label) {
+      return s.slice(before.length);
+    }
+    return s;
+  }
+
+  function formatOutcomeRichText(s) {
+    if (typeof s !== "string" || !s) return "";
+    s = stripRedundantLabelBeforeMarkdownLink(s);
+    let out = "";
+    let last = 0;
+    let m;
+    OUTCOME_LINK_RE.lastIndex = 0;
+    while ((m = OUTCOME_LINK_RE.exec(s)) !== null) {
+      out += formatEmphasisAst(s.slice(last, m.index));
+      const href = m[2].trim();
+      if (/^https?:\/\//i.test(href)) {
+        out +=
+          '<a href="' +
+          escAttr(href) +
+          '" class="vdh-pollentabel-outcome-link" rel="noopener noreferrer" target="_blank">' +
+          formatEmphasisAst(m[1]) +
+          "</a>";
+      } else {
+        out += esc(m[0]);
+      }
+      last = OUTCOME_LINK_RE.lastIndex;
+    }
+    out += formatEmphasisAst(s.slice(last));
+    return out.replace(/\n/g, "<br />");
+  }
+
   function fetchJsonCached(url) {
-    if (!jsonCache.has(url)) {
+    var abs = resolveDataJsonUrl(url);
+    if (!jsonCache.has(abs)) {
       jsonCache.set(
-        url,
-        fetch(url, { credentials: "same-origin" }).then(function (r) {
+        abs,
+        fetch(abs, { credentials: "same-origin" }).then(function (r) {
           if (!r.ok) throw new Error(r.status + " " + r.statusText);
           return r.json();
         })
       );
     }
-    return jsonCache.get(url);
+    return jsonCache.get(abs);
   }
 
   function runKey(root, data) {
@@ -126,7 +187,7 @@
             stack.push(id);
             outcomeEl.hidden = false;
             outcomeEl.innerHTML =
-              "<h4>Eindpunt</h4><p>" + formatEmphasisAst(ch.outcome.text) + "</p>";
+              "<h4>Eindpunt</h4><p>" + formatOutcomeRichText(ch.outcome.text) + "</p>";
             actionsEl.replaceChildren();
             addOutcomeNavRow();
             return;
@@ -320,8 +381,8 @@
       }
 
       const tdR = document.createElement("td");
-      if (row.kind.indexOf("eindpunt") === 0 && row.result.indexOf("*") !== -1) {
-        tdR.innerHTML = formatEmphasisAst(row.result);
+      if (row.kind.indexOf("eindpunt") === 0) {
+        tdR.innerHTML = formatOutcomeRichText(row.result);
       } else {
         tdR.textContent = row.result;
       }

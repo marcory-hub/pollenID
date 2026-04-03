@@ -1,42 +1,42 @@
 {
-    "meta": {
-      "key": "beug13-tricolpatae-ps-aconitum-groep",
-      "title": "13.4 Aconitum-Gruppe",
-      "locale": "nl",
-      "source": "Beug",
-      "note": "-"
+  "meta": {
+    "key": "beug13-tricolpatae-ps-aconitum-groep.json",
+    "title": "13.4 Aconitum-groep (Beug)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "choices": [
+        {
+          "label": "pollenvormindex > 1,30 (bis ca. 1,80), Indien kleiner, dan PK meestal über 28 µm groot",
+          "next": "2"
+        },
+        {
+          "label": "pollenvormindex bis 1,20 (1,30), PK 17-28 µm groot (Tafel 13: 4-6)",
+          "outcome": {
+            "text": "13.4.1 *Aquilegia-type*"
+          }
+        }
+      ]
     },
-    "start": "1",
-    "steps": {
-      "1": {
-        "choices": [
-          {
-            "label": "PFormI > 1,30 (bis ca. 1,80), wenn kleiner, dann PK meist über 28 µm groß",
-            "next": "2"
-          },
-          {
-            "label": "PFormI bis 1,20 (1,30), PK 17-28 µm groß (Tafel 13: 4-6)",
-            "outcome": {
-              "text": "13.4.1 *Aquilegia-Typ*"
-            }
+    "2": {
+      "choices": [
+        {
+          "label": "columellae äquatorial en subäquatorial sterk verkürzt en reduziert, meestal in Aufsicht niet herkenbaar (Tafel 13: 10)",
+          "outcome": {
+            "text": "13.4.2 *Aconitum-type*"
           }
-        ]
-      },
-      "2": {
-        "choices": [
-          {
-            "label": "Columellae äquatorial und subäquatorial stark verkürzt und reduziert, meist in Aufsicht nicht erkennbar (Tafel 13: 10)",
-            "outcome": {
-              "text": "13.4.2 *Aconitum-Typ*"
-            }
-          },
-          {
-            "label": "Columellae äquatorial und subäquatorial in Aufsicht gut erkennbar",
-            "outcome": {
-              "text": "13.4.3 *Consolida-Typ*"
-            }
+        },
+        {
+          "label": "columellae äquatorial en subäquatorial in Aufsicht gut herkenbaar",
+          "outcome": {
+            "text": "13.4.3 *Consolida-type*"
           }
-        ]
-      }
+        }
+      ]
     }
   }
+}

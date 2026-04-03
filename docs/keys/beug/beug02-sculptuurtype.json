@@ -1,7 +1,7 @@
 {
   "meta": {
-    "key": "beug02_sculptuurtypen",
-    "title": "Determinatiesleutel voor sculptuurtypen",
+    "key": "beug02-sculptuurtype.json",
+    "title": "2. Sculptuurtype",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 13,
@@ -14,11 +14,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine niet gesculpteerd. Tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
-          "outcome": { "text": "psilaat" }
+          "label": "Exine niet gesculpteerd. tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
+          "outcome": {
+            "text": "psilaat"
+          }
         },
         {
-          "label": "Oppervlak van de exine met verdiepingen of met uitstekende sculptuurelementen, of het tectum is netvormig doorbroken.",
+          "label": "Oppervlak van de Exine met verdiepingen of met uitstekende sculptuurelementen, of het tectum is netvormig doorbroken.",
           "next": "2"
         }
       ]
@@ -28,11 +30,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Oppervlak van de exine met verdiepingen.",
+          "label": "Oppervlak van de Exine met verdiepingen.",
           "next": "3"
         },
         {
-          "label": "Oppervlak van de exine met uitstekende sculptuurelementen of het tectum is netvormig doorbroken.",
+          "label": "Oppervlak van de Exine met uitstekende sculptuurelementen of het tectum is netvormig doorbroken.",
           "next": "5"
         }
       ]
@@ -42,11 +44,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Oppervlak van de exine met ronde verdiepingen.",
-          "outcome": { "text": "foveolaat" }
+          "label": "Oppervlak van de Exine met ronde verdiepingen.",
+          "outcome": {
+            "text": "foveolaat"
+          }
         },
         {
-          "label": "Oppervlak van de exine met langgerekte (gootvormige) verdiepingen.",
+          "label": "Oppervlak van de Exine met langgerekte (gootvormige) verdiepingen.",
           "next": "4"
         }
       ]
@@ -57,11 +61,15 @@
       "choices": [
         {
           "label": "De langgerekte verdiepingen staan geïsoleerd.",
-          "outcome": { "text": "fossulaat" }
+          "outcome": {
+            "text": "fossulaat"
+          }
         },
         {
           "label": "De verdiepingen sluiten aaneen tot een netwerk.",
-          "outcome": { "text": "frustillaat of areolaat" }
+          "outcome": {
+            "text": "frustillaat of areolaat"
+          }
         }
       ]
     },
@@ -85,7 +93,9 @@
       "choices": [
         {
           "label": "Diameter of lengte van de sculptuurelementen tot 1 µm (verzamelbegrip: omvat micro-echinaat, micro-gemmaat, micro-clavaat, micro-verrucaat, micro-baculaat en micro-reticulaat; in tectate of in intectate positie).",
-          "outcome": { "text": "scabraat" }
+          "outcome": {
+            "text": "scabraat"
+          }
         },
         {
           "label": "Diameter of lengte van de sculptuurelementen groter dan 1 µm.",
@@ -99,7 +109,9 @@
       "choices": [
         {
           "label": "Sculptuurelementen toegespitst (in tectate of in intectate positie).",
-          "outcome": { "text": "echinaat" }
+          "outcome": {
+            "text": "echinaat"
+          }
         },
         {
           "label": "Sculptuurelementen niet toegespitst.",
@@ -127,11 +139,15 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "outcome": { "text": "gemmaat" }
+          "outcome": {
+            "text": "gemmaat"
+          }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "outcome": { "text": "verrucaat" }
+          "outcome": {
+            "text": "verrucaat"
+          }
         }
       ]
     },
@@ -141,11 +157,15 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "outcome": { "text": "clavaat" }
+          "outcome": {
+            "text": "clavaat"
+          }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "outcome": { "text": "baculaat" }
+          "outcome": {
+            "text": "baculaat"
+          }
         }
       ]
     },
@@ -169,11 +189,15 @@
       "choices": [
         {
           "label": "Netvormige sculpturering met gesloten brochi, perreticulaat (semitectaat) of suprareticulaat (tectaat).",
-          "outcome": { "text": "reticulaat" }
+          "outcome": {
+            "text": "reticulaat"
+          }
         },
         {
           "label": "Sculpturering bestaat uit netvormig geplaatste bacula of clavae.",
-          "outcome": { "text": "retipilaat" }
+          "outcome": {
+            "text": "retipilaat"
+          }
         }
       ]
     },
@@ -183,11 +207,15 @@
       "choices": [
         {
           "label": "Sculptuurelementen in ± parallelle rangschikking, ten minste in bundels parallel.",
-          "outcome": { "text": "striaat" }
+          "outcome": {
+            "text": "striaat"
+          }
         },
         {
           "label": "Sculptuurelementen onregelmatig (niet netvormig en niet parallel) gerangschikt.",
-          "outcome": { "text": "rugulaat" }
+          "outcome": {
+            "text": "rugulaat"
+          }
         }
       ]
     }

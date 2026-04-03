@@ -1,778 +1,778 @@
 {
-    "meta": {
-      "key": "beug14-tricolporatae-ps",
-      "title": "14. Tricolporatae",
-      "locale": "nl",
-      "source": "Beug",
-      "note": "-"
+  "meta": {
+    "key": "beug14-tricolporatae-ps.json",
+    "title": "14. Tricolporatae (Beug)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "choices": [
+        {
+          "label": "PK gedrongen knuppelvormig of peervormig bis afgerond driehoekig. Polarfelder verschillend groot of PK an einem Pol syncolpaat, PK 10-20(22) µm groot",
+          "next": "2"
+        },
+        {
+          "label": "PK niet gedrongen knuppelvormig bis afgerond driehoekig, niet of nur zwak heteropolar en dan pollenvormindex meestal unter 1,0 en PK größer als 30 µm",
+          "next": "3"
+        }
+      ]
     },
-    "start": "1",
-    "steps": {
-      "1": {
-        "choices": [
-          {
-            "label": "PK gedrungen keulenförmig oder birnförmig bis abgerundet dreieckig. Polarfelder verschieden groß oder PK an einem Pol syncolpat, PK 10-20(22) µm groß",
-            "next": "2"
-          },
-          {
-            "label": "PK nicht gedrungen keulenförmig bis abgerundet dreieckig, nicht oder nur schwach heteropolar und dann PFormI meist unter 1,0 und PK größer als 30 µm",
-            "next": "3"
+    "2": {
+      "choices": [
+        {
+          "label": "PK am brede uiteinde vaak syncolpaat, am smalle uiteinde met großem Polarfeld, PK 14-22 µm groot, poriën duidelijk zum brede uiteinde verschoven (Tafel 21: 1-5)",
+          "outcome": {
+            "text": "14.1 *Onosma* (S. 160)"
           }
-        ]
-      },
-      "2": {
-        "choices": [
-          {
-            "label": "PK am breiten Ende oft syncolpat, am schmalen Ende mit großem Polarfeld, PK 14-22 µm groß, Poren deutlich zum breiten Ende verschoben (Tafel 21: 1-5)",
-            "outcome": {
-              "text": "14.1 *Onosma* (S. 160)"
-            }
-          },
-          {
-            "label": "PK gedrungen birnförmig, am breiten Ende mit großem Polarfeld, am schmalen Ende syncolpat oder mit kleinem Polarfeld, PK 12-15 µm groß, Poren in der Mitte der Colpen (Tafel 21: 6-11)",
-            "outcome": {
-              "text": "14.2 *Cyclamen europaeum* (S. 160)"
-            }
+        },
+        {
+          "label": "PK gedrongen peervormig, am brede uiteinde met großem Polarfeld, am smalle uiteinde syncolpaat of met kleinem Polarfeld, PK 12-15 µm groot, poriën in der Mitte der colpen (Tafel 21: 6-11)",
+          "outcome": {
+            "text": "14.2 *Cyclamen europaeum* (S. 160)"
           }
-        ]
-      },
-      "3": {
-        "choices": [
-          {
-            "label": "Intercolpien subpolar mit je zwei 10-15µm großen Eindlellungen (Tafel 21: 12-14). PK scabrat bzw. microverrucat, sphäroidisch, mit großen Polarfeldern und deutlichen Colpi transversales (Tafel 21: 12-15)",
-            "outcome": {
-              "text": "14.3 *Nicandra physalodes* (S. 162)"
-            }
-          },
-          {
-            "label": "Intercolpien ohne solche Eindlellungen",
-            "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "choices": [
+        {
+          "label": "intercolpia subpolair met je zwei 10-15µm großen indrukken (Tafel 21: 12-14). PK scabraat bzw. microverrucat, sferoïdisch, met großen Polarfeldern en deutlichen colpen transversales (Tafel 21: 12-15)",
+          "outcome": {
+            "text": "14.3 *Nicandra physalodes* (S. 162)"
           }
-        ]
-      },
-      "4": {
-        "choices": [
-          {
-            "label": "Äquatorialbereich der Colpen stark vorgewölbt, zusätzlich können wulstig vorgezogene Colpi transversales vorhanden sein (Verbena). PK oblat bis schwach sphäroidisch.",
-            "next": "5"
-          },
-          {
-            "label": "Äquatorialbereich der Colpen nicht vorgewölbt oder PFormI größer als 1,0. Colpi transversales, wenn vorhanden, können wulstig ausgebildet sein (*Capsicum-Typ*)",
-            "next": "11"
+        },
+        {
+          "label": "intercolpia zonder solche indrukken",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "choices": [
+        {
+          "label": "Äquatorialbereich der colpen sterk voorgewelfd, zusätzlich können wulstig naar voren getrokken colpen transversales aanwezig sein (Verbena). PK oblaat bis zwak sferoïdisch.",
+          "next": "5"
+        },
+        {
+          "label": "Äquatorialbereich der colpen niet voorgewelfd of pollenvormindex größer als 1,0. colpen transversales, Indien aanwezig, können wulstig gevormd sein (*Capsicum-type*)",
+          "next": "11"
+        }
+      ]
+    },
+    "5": {
+      "choices": [
+        {
+          "label": "binnenoppervlak der endexine im gebied der equatoriale voorgewelving glad",
+          "next": "6"
+        },
+        {
+          "label": "binnenoppervlak der endexine im gebied der equatoriale voorgewelving scabraat.",
+          "next": "8"
+        }
+      ]
+    },
+    "6": {
+      "choices": [
+        {
+          "label": "colpen transversales 10 µm lang en zeer smal; aan weerszijden en im Abstand von etwa 5 µm befinden sich parallel zu den colpen smalle Pseudocolpi (Tafel 21: 16-20)",
+          "outcome": {
+            "text": "14.4 *Verbena officinalis* (S. 162)"
           }
-        ]
-      },
-      "5": {
-        "choices": [
-          {
-            "label": "Innenfläche der Endexine im Bereich der äquatorialen Vorwölbung glatt",
-            "next": "6"
-          },
-          {
-            "label": "Innenfläche der Endexine im Bereich der äquatorialen Vorwölbung scabrat.",
-            "next": "8"
+        },
+        {
+          "label": "PK zonder smalle en bis 10 µm lange equatoriaal verlängerte poriën en zonder die colpen begeleidende Pseudocolpi",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "choices": [
+        {
+          "label": "PK oblaat, Polarfelder groot (Tafel 21: 21-22)",
+          "outcome": {
+            "text": "14.5 *Symplocos* (S. 162)"
           }
-        ]
-      },
-      "6": {
-        "choices": [
-          {
-            "label": "Colpi transversales 10 µm lang und sehr schmal; beiderseits und im Abstand von etwa 5 µm befinden sich parallel zu den Colpen schmale Pseudocolpi (Tafel 21: 16-20)",
-            "outcome": {
-              "text": "14.4 *Verbena officinalis* (S. 162)"
-            }
-          },
-          {
-            "label": "PK ohne schmale und bis 10 µm lange äquatorial verlängerte Poren und ohne die Colpen begleitende Pseudocolpi",
-            "next": "7"
+        },
+        {
+          "label": "PK sferoïdisch, Polarfelder klein (Tafel 21: 27-31)",
+          "outcome": {
+            "text": "14.6 *Hippophaë rhamnoides* (S. 163)"
           }
-        ]
-      },
-      "7": {
-        "choices": [
-          {
-            "label": "PK oblat, Polarfelder groß (Tafel 21: 21-22)",
-            "outcome": {
-              "text": "14.5 *Symplocos* (S. 162)"
-            }
-          },
-          {
-            "label": "PK sphäroidisch, Polarfelder klein (Tafel 21: 27-31)",
-            "outcome": {
-              "text": "14.6 *Hippophaë rhamnoides* (S. 163)"
-            }
+        }
+      ]
+    },
+    "8": {
+      "choices": [
+        {
+          "label": "Polarfelder klein, PFeldI < 0,18",
+          "next": "9"
+        },
+        {
+          "label": "Polarfelder middelgroot of groot (PFeldI > 0,40)",
+          "next": "10"
+        }
+      ]
+    },
+    "9": {
+      "choices": [
+        {
+          "label": "Scabrate zones auf der binnenoppervlak der endexine breed (Tafel 22: 1-4)",
+          "outcome": {
+            "text": "14.8 *Elaeagnus* (S. 163)"
           }
-        ]
-      },
-      "8": {
-        "choices": [
-          {
-            "label": "Polarfelder klein, PFeldI < 0,18",
-            "next": "9"
-          },
-          {
-            "label": "Polarfelder mittelgroß oder groß (PFeldI > 0,40)",
-            "next": "10"
+        },
+        {
+          "label": "Scabrate zones auf der binnenoppervlak der endexine smal (Tafel 22: 9-18)",
+          "outcome": {
+            "text": "*Ludwigia palustris* (S. 433)"
           }
-        ]
-      },
-      "9": {
-        "choices": [
-          {
-            "label": "Scabrate Zonen auf der Innenfläche der Endexine breit (Tafel 22: 1-4)",
-            "outcome": {
-              "text": "14.8 *Elaeagnus* (S. 163)"
-            }
-          },
-          {
-            "label": "Scabrate Zonen auf der Innenfläche der Endexine schmal (Tafel 22: 9-18)",
-            "outcome": {
-              "text": "*Ludwigia palustris* (S. 433)"
-            }
+        }
+      ]
+    },
+    "10": {
+      "choices": [
+        {
+          "label": "colpen kort, Polarfelder groot of zeer groot",
+          "next": "12"
+        },
+        {
+          "label": "colpen middellang bis zeer lang, Polarfelder klein bis groot",
+          "next": "16"
+        }
+      ]
+    },
+    "11": {
+      "choices": [
+        {
+          "label": "PK 45-75 µm groot, exine polair 3,8-5,5 µm dik, columella's hier am längsten, equatoriaal en subequatoriaal dagegen vaak nur onduidelijk, stets zeer kort en exine hier nur 1,8-2,9 µm dik. poriën groot, rund bis meridionaal gestreckt, gelegentlich zeer kontrastarm, Polarfelder groot (Tafel 22: 5-8)",
+          "outcome": {
+            "text": "14.9 *(Bistorta officinalis-)* *Polygonum bistorta-type* (S. 163)"
           }
-        ]
-      },
-      "10": {
-        "choices": [
-          {
-            "label": "Colpen kurz, Polarfelder groß oder sehr groß",
-            "next": "12"
-          },
-          {
-            "label": "Colpen mittellang bis sehr lang, Polarfelder klein bis groß",
-            "next": "16"
+        },
+        {
+          "label": "PK kleiner of met anderer kenmerkencombinatie.",
+          "next": "13"
+        }
+      ]
+    },
+    "12": {
+      "choices": [
+        {
+          "label": "colpen kort, Polarfelder groot of zeer groot. PK scabraat/microechinat en met deutlicher columella-laag, die außer im gebied der intercolpiumranden duidelijk von der endexine abgehoben ist (Tafel 21: 23-26)",
+          "outcome": {
+            "text": "14.10 *Xanthium strumarium-type* (S. 164)"
           }
-        ]
-      },
-      "11": {
-        "choices": [
-          {
-            "label": "PK 45-75 µm groß, Exine polar 3,8-5,5 µm dick, Columellae hier am längsten, äquatorial und subäquatorial dagegen oft nur undeutlich, stets sehr kurz und Exine hier nur 1,8-2,9 µm dick. Poren groß, rund bis meridional gestreckt, gelegentlich sehr kontrastarm, Polarfelder groß (Tafel 22: 5-8)",
-            "outcome": {
-              "text": "14.9 *(Bistorta officinalis-)* *Polygonum bistorta-Typ* (S. 163)"
-            }
-          },
-          {
-            "label": "PK kleiner oder mit anderer Merkmalskombination.",
-            "next": "13"
+        },
+        {
+          "label": "colpen kort, Polarfelder groot of zeer groot. ektexine niet von der endexine abgehoben of PK 30-35 µm groot.",
+          "next": "14"
+        }
+      ]
+    },
+    "13": {
+      "choices": [
+        {
+          "label": "PK scabraat/microechinat en met deutlicher columella-laag, die außer im gebied der intercolpiumranden duidelijk von der endexine abgehoben ist (Tafel 21: 23-26)",
+          "outcome": {
+            "text": "14.10 *Xanthium strumarium-type* (S. 164)"
           }
-        ]
-      },
-      "12": {
-        "choices": [
-          {
-            "label": "Colpen kurz, Polarfelder groß oder sehr groß. PK scabrat/microechinat und mit deutlicher Columellae-Schicht, die außer im Bereich der Intercolpium-Ränder deutlich von der Endexine abgehoben ist (Tafel 21: 23-26)",
-            "outcome": {
-              "text": "14.10 *Xanthium strumarium-Typ* (S. 164)"
-            }
-          },
-          {
-            "label": "Colpen kurz, Polarfelder groß oder sehr groß. Ektexine nicht von der Endexine abgehoben oder PK 30-35 µm groß.",
-            "next": "14"
+        },
+        {
+          "label": "ektexine niet von der endexine abgehoben of PK 30-35 µm groot",
+          "next": "14"
+        }
+      ]
+    },
+    "14": {
+      "choices": [
+        {
+          "label": "PK 22-27 µm groot, pollenvormindex 0,8-0,9, columella's niet herkenbaar. colpen gelegentlich met einer bis 3 x 5 µm großen porie-achtige structuur (Tafel 17: 6-10)",
+          "outcome": {
+            "text": "*Monotropa* (S. 142)"
           }
-        ]
-      },
-      "13": {
-        "choices": [
-          {
-            "label": "PK scabrat/microechinat und mit deutlicher Columellae-Schicht, die außer im Bereich der Intercolpium-Ränder deutlich von der Endexine abgehoben ist (Tafel 21: 23-26)",
-            "outcome": {
-              "text": "14.10 *Xanthium strumarium-Typ* (S. 164)"
-            }
-          },
-          {
-            "label": "Ektexine nicht von der Endexine abgehoben oder PK 30-35 µm groß",
-            "next": "14"
+        },
+        {
+          "label": "PK größer, pollenvormindex über 1,0, poriën duidelijk, vaak transversaal verlengd en met costae",
+          "next": "15"
+        }
+      ]
+    },
+    "15": {
+      "choices": [
+        {
+          "label": "exine als gevolg van stellenweise längerer of kürzerer columella's von opvallend wisselende dikke. PK meestal prolaat (Tafel 22: 9-10, Tafel 23-27).",
+          "outcome": {
+            "text": "14.11 *Apiaceae* (S. 164)"
           }
-        ]
-      },
-      "14": {
-        "choices": [
-          {
-            "label": "PK 22-27 µm groß, PFormI 0,8-0,9, Columellae nicht erkennbar. Colpen gelegentlich mit einer bis 3 x 5 µm großen porenartigen Struktur (Tafel 17: 6-10)",
-            "outcome": {
-              "text": "*Monotropa* (S. 142)"
-            }
-          },
-          {
-            "label": "PK größer, PFormI über 1,0, Poren deutlich, oft transversal verlängert und mit Costae",
-            "next": "15"
+        },
+        {
+          "label": "exine gleich dik, columella's gleich lang, colpen transversales 11-16 x 2,5-9 µm groot (Tafel 28: 13-15).",
+          "outcome": {
+            "text": "14.12 *Lycopsis arvensis-type* (S. 186)"
           }
-        ]
-      },
-      "15": {
-        "choices": [
-          {
-            "label": "Exine infolge stellenweise längerer oder kürzerer Columellae von auffällig wechselnder Dicke. PK meist prolat (Tafel 22: 9-10, Tafel 23-27).",
-            "outcome": {
-              "text": "14.11 *Apiaceae* (S. 164)"
-            }
-          },
-          {
-            "label": "Exine gleich dick, Columellae gleich lang, Colpi transversales 11-16 x 2,5-9 µm groß (Tafel 28: 13-15).",
-            "outcome": {
-              "text": "14.12 *Lycopsis arvensis-Typ* (S. 186)"
-            }
+        }
+      ]
+    },
+    "16": {
+      "choices": [
+        {
+          "label": "colpen met equatoriaal sterk verdikte opercula",
+          "next": "17"
+        },
+        {
+          "label": "colpen zonder opercula of diese equatoriaal niet verdikt.",
+          "next": "18"
+        }
+      ]
+    },
+    "17": {
+      "choices": [
+        {
+          "label": "PK kogelvormig, pollenvormindex um 0,94-1,05, exine 1,4-2,6 µm dik (Tafel 13: 16-17; Afb.. 26, S. 272)",
+          "outcome": {
+            "text": "*Sanguisorba minor-type* (S. 130)"
           }
-        ]
-      },
-      "16": {
-        "choices": [
-          {
-            "label": "Colpen mit äquatorial stark verdickten Opercula",
-            "next": "17"
-          },
-          {
-            "label": "Colpen ohne Opercula oder diese äquatorial nicht verdickt.",
-            "next": "18"
+        },
+        {
+          "label": "PK ruitvormig, pollenvormindex 1,11-1,40, exine 3,3-4,8(5,0) µm dik (Tafel 13: 18-19)",
+          "outcome": {
+            "text": "*Sanguisorba dodecandra* (S. 130)"
           }
-        ]
-      },
-      "17": {
-        "choices": [
-          {
-            "label": "PK kugelig, PFormI um 0,94-1,05, Exine 1,4-2,6 µm dick (Tafel 13: 16-17; Abb. 26, S. 272)",
-            "outcome": {
-              "text": "*Sanguisorba minor-Typ* (S. 130)"
-            }
-          },
-          {
-            "label": "PK rhomboidisch, PFormI 1,11-1,40, Exine 3,3-4,8(5,0) µm dick (Tafel 13: 18-19)",
-            "outcome": {
-              "text": "*Sanguisorba dodecandra* (S. 130)"
-            }
+        }
+      ]
+    },
+    "18": {
+      "choices": [
+        {
+          "label": "tectum dikker als die endexine (Indien costae aanwezig, dan buiten der costae beoordelen) of PK met uiterlijke en innerlijke columella-laag (innere columella-laag kann reduziert sein of ontbreken). dikke der exine bis über 2 µm. PK häufig microechinat.",
+          "next": "19"
+        },
+        {
+          "label": "tectum höchstens so dik wie die endexine, meistens dunner. PK scabraat of psilaat",
+          "next": "23"
+        }
+      ]
+    },
+    "19": {
+      "choices": [
+        {
+          "label": "PK met relatief kleinen en meestal zwak angedeuteten poriën bzw. colpen transversales, diese zonder costae. PK kogelvormig of etwas langgestreckt, zwischen 15 en 32(35) µm groot. exine zwischen 2,0 en 5,2 µm dik, met deutlicher (innerlijke) columella-laag. Äußere columella's im Lichtmikroskop niet sichtbar. tectum met einer inneren stärker en einer äußeren, weniger sterk lichtbrekende laag, regelmatig microechinat (Tafel 28: 1-12)",
+          "outcome": {
+            "text": "14.13 *Artemisia* (S. 188)"
           }
-        ]
-      },
-      "18": {
-        "choices": [
-          {
-            "label": "Tectum dicker als die Endexine (wenn Costae vorhanden, dann außerhalb der Costae beurteilen) oder PK mit äußerer und innerer Columellae-Schicht (innere Columellae-Schicht kann reduziert sein oder fehlen). Dicke der Exine bis über 2 µm. PK häufig microechinat.",
-            "next": "19"
-          },
-          {
-            "label": "Tectum höchstens so dick wie die Endexine, meistens dünner. PK scabrat oder psilat",
-            "next": "23"
+        },
+        {
+          "label": "PK met deutlichen poriën of colpen transversales, ook met colpen äquatoriales, vaak met costae. Äußere columella-laag nur als zwak radiale streping sichtbar.",
+          "next": "20"
+        }
+      ]
+    },
+    "20": {
+      "choices": [
+        {
+          "label": "PK met deutlicher innerlijke columella-laag, innere columella's z.T. distaal vertakt. Innere columella-laag entweder volledig ontbrekend of zu stompjes auf der Innenseite des Zwischentctums reduziert.",
+          "next": "21"
+        },
+        {
+          "label": "PK met deutlicher innerlijke columella-laag, innere columella's zu stompjes auf der Innenseite des Zwischentctums reduziert.",
+          "next": "22"
+        }
+      ]
+    },
+    "21": {
+      "choices": [
+        {
+          "label": "PK met deutlichen, bis 3 µm hohen costae (Tafel 28: 18-22)",
+          "outcome": {
+            "text": "14.14 *Centaurea cyanus* (S. 190)"
           }
-        ]
-      },
-      "19": {
-        "choices": [
-          {
-            "label": "PK mit relativ kleinen und meist schwach angedeuteten Poren bzw. Colpi transversales, diese ohne Costae. PK kugelig oder etwas langgestreckt, zwischen 15 und 32(35) µm groß. Exine zwischen 2,0 und 5,2 µm dick, mit deutlicher (innerer) Columellae-Schicht. Äußere Columellae im Lichtmikroskop nicht sichtbar. Tectum mit einer inneren stärker und einer äußeren, weniger stark lichtbrechenden Schicht, regelmäßig microechinat (Tafel 28: 1-12)",
-            "outcome": {
-              "text": "14.13 *Artemisia* (S. 188)"
-            }
-          },
-          {
-            "label": "PK mit deutlichen Poren oder Colpi transversales, auch mit Colpi äquatoriales, oft mit Costae. Äußere Columellae-Schicht nur als schwach radiale Streifung sichtbar.",
-            "next": "20"
+        },
+        {
+          "label": "PK zonder of nur met schwachen costae (Tafel 28: 23-25).",
+          "outcome": {
+            "text": "14.15 *Centaurea montana-type* (S. 190)"
           }
-        ]
-      },
-      "20": {
-        "choices": [
-          {
-            "label": "PK mit deutlicher innerer Columellae-Schicht, innere Columellae z.T. distal verzweigt. Innere Columellae-Schicht entweder völlig fehlend oder zu Stümpfen auf der Innenseite des Zwischentctums reduziert.",
-            "next": "21"
-          },
-          {
-            "label": "PK mit deutlicher innerer Columellae-Schicht, innere Columellae zu Stümpfen auf der Innenseite des Zwischentctums reduziert.",
-            "next": "22"
+        }
+      ]
+    },
+    "22": {
+      "choices": [
+        {
+          "label": "Innere columella's ontbreken volledig. PK in equatoriaal aanzicht meestal elliptisch (Tafel 40: 3-15)",
+          "outcome": {
+            "text": "*Centaurea jacea-type* (S. 230)"
           }
-        ]
-      },
-      "21": {
-        "choices": [
-          {
-            "label": "PK mit deutlichen, bis 3 µm hohen Costae (Tafel 28: 18-22)",
-            "outcome": {
-              "text": "14.14 *Centaurea cyanus* (S. 190)"
-            }
-          },
-          {
-            "label": "PK ohne oder nur mit schwachen Costae (Tafel 28: 23-25).",
-            "outcome": {
-              "text": "14.15 *Centaurea montana-Typ* (S. 190)"
-            }
+        },
+        {
+          "label": "Innere columella's zu stompjes auf der Innenseite des Zwischentctums reduziert. PK in equatoriaal aanzicht meestal ruitvormig (Tafel 18: 16-17).",
+          "outcome": {
+            "text": "14.16 *Centaurea scabiosa-type* (S. 190)"
           }
-        ]
-      },
-      "22": {
-        "choices": [
-          {
-            "label": "Innere Columellae fehlen völlig. PK in Äquatorialansicht meist elliptisch (Tafel 40: 3-15)",
-            "outcome": {
-              "text": "*Centaurea jacea-Typ* (S. 230)"
-            }
-          },
-          {
-            "label": "Innere Columellae zu Stümpfen auf der Innenseite des Zwischentctums reduziert. PK in Äquatorialansicht meist rhomboidisch (Tafel 18: 16-17).",
-            "outcome": {
-              "text": "14.16 *Centaurea scabiosa-Typ* (S. 190)"
-            }
+        }
+      ]
+    },
+    "23": {
+      "choices": [
+        {
+          "label": "exine met opvallend wisselende dikke durch stellenweise kürzere of längere columella's (geringfügige polair Verdickungen niet beachten)",
+          "next": "24"
+        },
+        {
+          "label": "columella's überall ± gleich lang of columella's niet herkenbaar",
+          "next": "25"
+        }
+      ]
+    },
+    "24": {
+      "choices": [
+        {
+          "label": "PK met innerlijke en uiterlijke columella-laag en Ringfurche (Centaurea). Reste der inneren columella-laag können am Zwischentctum aanwezig sein, exine dik (4,5-10,0 µm)",
+          "next": "21"
+        },
+        {
+          "label": "PK met enkelvoudige columella-laag.",
+          "next": "26"
+        }
+      ]
+    },
+    "25": {
+      "choices": [
+        {
+          "label": "columella's ± regelmatig verdeeld of niet herkenbaar",
+          "next": "26"
+        },
+        {
+          "label": "columella's im polair gebied am längsten (exine hier 3,8-5,5 µm dik) en einander vaak gruppenweise genähert, equatoriaal en subequatoriaal zeer kort en subequatoriaal vaak nur onduidelijk. exine 1,8-2,9 µm dik. poriën groot, rund bis meridionaal gestreckt, gelegentlich kontrastarm, PK 45-75 µm groot (Tafel 22: 5-8)",
+          "outcome": {
+            "text": "14.9 *(Bistorta-)* *Polygonum bistorta-type* (S. 163)"
           }
-        ]
-      },
-      "23": {
-        "choices": [
-          {
-            "label": "Exine mit auffällig wechselnder Dicke durch stellenweise kürzere oder längere Columellae (geringfügige polare Verdickungen nicht beachten)",
-            "next": "24"
-          },
-          {
-            "label": "Columellae überall ± gleich lang oder Columellae nicht erkennbar",
-            "next": "25"
+        }
+      ]
+    },
+    "26": {
+      "choices": [
+        {
+          "label": "colpen transversales met costae, lang en veelvuldig zu einer equatoriale groeve verbonden. PK sferoïdisch bis zwak prolaat (pollenvormindex <1,5), exine entweder subpolair of polair en equatoriaal am dicksten.",
+          "next": "27"
+        },
+        {
+          "label": "colpen transversales of poriën zonder deutliche costae of PK met andersoortig verdikte exine (Tafel 22: 9-10; Tafeln 23-27)",
+          "next": "28"
+        }
+      ]
+    },
+    "27": {
+      "choices": [
+        {
+          "label": "exine polair en equatoriaal am dicksten, Umriß ruitvormig bis elliptisch (Tafel 29: 1-5)",
+          "outcome": {
+            "text": "14.17 *Fallopia* (S. 191)"
           }
-        ]
-      },
-      "24": {
-        "choices": [
-          {
-            "label": "PK mit innerer und äußerer Columellae-Schicht und Ringfurche (Centaurea). Reste der inneren Columellae-Schicht können am Zwischentctum vorhanden sein, Exine dick (4,5-10,0 µm)",
-            "next": "21"
-          },
-          {
-            "label": "PK mit einfacher Columellae-Schicht.",
-            "next": "26"
+        },
+        {
+          "label": "exine subpolair am dicksten, Umriß elliptisch of met parallelen Seitenrändern en breed afgeronde Polarfeldern (Tafel 29: 6-10)",
+          "outcome": {
+            "text": "14.18 *Polygonum aviculare-type* (S. 191)"
           }
-        ]
-      },
-      "25": {
-        "choices": [
-          {
-            "label": "Columellae ± regelmäßig verteilt oder nicht erkennbar",
-            "next": "26"
-          },
-          {
-            "label": "Columellae im Polarbereich am längsten (Exine hier 3,8-5,5 µm dick) und einander oft gruppenweise genähert, äquatorial und subäquatorial sehr kurz und subäquatorial oft nur undeutlich. Exine 1,8-2,9 µm dick. Poren groß, rund bis meridional gestreckt, gelegentlich kontrastarm, PK 45-75 µm groß (Tafel 22: 5-8)",
-            "outcome": {
-              "text": "14.9 *(Bistorta-)* *Polygonum bistorta-Typ* (S. 163)"
-            }
+        }
+      ]
+    },
+    "28": {
+      "choices": [
+        {
+          "label": "endexine im Äquatorialbereich verdikt (Indien columella-laag onduidelijk, vergl. *Androsace alpina-type* en *Lotus*, evtl. ook andere psilate of scabrate Fabaceae) of innerlijke of uiterlijke diameter der PK im Äquatorialbereich kleiner als subequatoriaal of subpolair (Tafel 22: 9-10; Tafeln 23-27)",
+          "outcome": {
+            "text": "14.11 *Apiaceae* (S. 164)"
           }
-        ]
-      },
-      "26": {
-        "choices": [
-          {
-            "label": "Colpi transversales mit Costae, lang und vielfach zu einer äquatorialen Furche verbunden. PK sphäroidisch bis schwach prolat (PFormI <1,5), Exine entweder subpolar oder polar und äquatorial am dicksten.",
-            "next": "27"
-          },
-          {
-            "label": "Colpi transversales oder Poren ohne deutliche Costae oder PK mit andersartig verdickter Exine (Tafel 22: 9-10; Tafeln 23-27)",
-            "next": "28"
+        },
+        {
+          "label": "endexine afgezien van gelegentlich optredende costae zonder opvallende Verdickungen; noch der innere noch der äußere diameter der PK ist equatoriaal kleiner als subequatoriaal of subpolair.",
+          "next": "29"
+        }
+      ]
+    },
+    "29": {
+      "choices": [
+        {
+          "label": "exine 2-3 µm dik, columella's duidelijk. exine psilaat, endexine viel dikker als das tectum. poriën bijna altijd transversaal verlengd, vaak als Ringfurche gevormd, gelegentlich ontbrekend (Tafel 29: 6-10)",
+          "outcome": {
+            "text": "14.18 *Polygonum aviculare-type* (S. 191)"
           }
-        ]
-      },
-      "27": {
-        "choices": [
-          {
-            "label": "Exine polar und äquatorial am dicksten, Umriß rhomboidisch bis elliptisch (Tafel 29: 1-5)",
-            "outcome": {
-              "text": "14.17 *Fallopia* (S. 191)"
-            }
-          },
-          {
-            "label": "Exine subpolar am dicksten, Umriß elliptisch oder mit parallelen Seitenrändern und breit abgerundeten Polarfeldern (Tafel 29: 6-10)",
-            "outcome": {
-              "text": "14.18 *Polygonum aviculare-Typ* (S. 191)"
-            }
+        },
+        {
+          "label": "exine unter 2 µm dik, Indien dikker, dan columella's onduidelijk bzw. ontbrekend of endexine niet duidelijk dikker als das tectum of exine scabraat, verrucaat, rugulat of poriën onduidelijk of transversal niet verlängert, im gebied der colpen meridionaal eingeschnürt of PK zonder Ringfurche.",
+          "next": "30"
+        }
+      ]
+    },
+    "30": {
+      "choices": [
+        {
+          "label": "poriën transversaal verlengd, PK scabraat, rugulat, verrucaat of foveolaat gesculpteerd of psilaat, Skulpturelemente gelegentlich polair bij wijze van aanduiding netzig gestellt.",
+          "next": "31"
+        },
+        {
+          "label": "poriën ± rundlich of meridionaal gestreckt",
+          "next": "49"
+        }
+      ]
+    },
+    "31": {
+      "choices": [
+        {
+          "label": "poriën bzw. colpen transversales im gebied der colpen meridionaal eingeschnürt: vlinderporiën.",
+          "next": "32"
+        },
+        {
+          "label": "poriën bzw. colpen transversales im gebied der colpen niet meridionaal eingeschnürt",
+          "next": "34"
+        }
+      ]
+    },
+    "32": {
+      "choices": [
+        {
+          "label": "PK ca. 35-52 µm groot, relatief dunwandig en daardoor von geringer vormvastheid, in equatoriaal aanzicht rechthoekig (Tafel 29: 11-15)",
+          "outcome": {
+            "text": "14.19 *Anthyllis vulneraria* (S. 191)"
           }
-        ]
-      },
-      "28": {
-        "choices": [
-          {
-            "label": "Endexine im Äquatorialbereich verdickt (wenn Columellae-Schicht undeutlich, vergl. *Androsace alpina-Typ* und *Lotus*, evtl. auch andere psilate oder scabrate Fabaceae) oder innerer oder äußerer Durchmesser der PK im Äquatorialbereich kleiner als subäquatorial oder subpolar (Tafel 22: 9-10; Tafeln 23-27)",
-            "outcome": {
-              "text": "14.11 *Apiaceae* (S. 164)"
-            }
-          },
-          {
-            "label": "Endexine abgesehen von gelegentlich auftretenden Costae ohne auffällige Verdickungen; weder der innere noch der äußere Durchmesser der PK ist äquatorial kleiner als subäquatorial oder subpolar.",
-            "next": "29"
+        },
+        {
+          "label": "PK um 20-30(35) µm groot, von guter vormvastheid. exine scabraat of foveolaat",
+          "next": "33"
+        }
+      ]
+    },
+    "33": {
+      "choices": [
+        {
+          "label": "PK in equatoriaal aanzicht rechthoekig, duidelijk scabraat (Tafel 29: 16-22); Indien endexine viel dikker als das tectum, vergl. *Osyris alba* (S. 326); ähnliche Formen u.U. ook bei *Dorcyium* (S. 197)",
+          "outcome": {
+            "text": "14.20 *Ornithopus* (S. 192)"
           }
-        ]
-      },
-      "29": {
-        "choices": [
-          {
-            "label": "Exine 2-3 µm dick, Columellae deutlich. Exine psilat, Endexine viel dicker als das Tectum. Poren fast stets transversal verlängert, oft als Ringfurche ausgebildet, gelegentlich fehlend (Tafel 29: 6-10)",
-            "outcome": {
-              "text": "14.18 *Polygonum aviculare-Typ* (S. 191)"
-            }
-          },
-          {
-            "label": "Exine unter 2 µm dick, wenn dicker, dann Columellae undeutlich bzw. fehlend oder Endexine nicht deutlich dicker als das Tectum oder Exine scabrat, verrucat, rugulat oder Poren undeutlich oder transversal nicht verlängert, im Bereich der Colpen meridional eingeschnürt oder PK ohne Ringfurche.",
-            "next": "30"
+        },
+        {
+          "label": "PK in equatoriaal aanzicht elliptisch, met afgeronde Polarbereichen; Indien aangeduid rechthoekig, dan Skulptur psilaat bis zwak scabraat, zwak rugulat bis zwak microreticulat (vergl. ook *Androsace alpina-type*)",
+          "outcome": {
+            "text": "*Coronilla* p.p. (S. 254)"
           }
-        ]
-      },
-      "30": {
-        "choices": [
-          {
-            "label": "Poren transversal verlängert, PK scabrat, rugulat, verrucat oder foveolat skulpturiert oder psilat, Skulpturelemente gelegentlich polar andeutungsweise netzig gestellt.",
-            "next": "31"
-          },
-          {
-            "label": "Poren ± rundlich oder meridional gestreckt",
-            "next": "49"
+        }
+      ]
+    },
+    "34": {
+      "choices": [
+        {
+          "label": "tectum im gebied der colpen transversales duidelijk vesicula-achtig von der endexine abgehoben (Tafel 29: 23-30), ektexine dadurch über den colpen transversales wulstig verdikt (Indien PK unter 12 µm groot, siehe ook *Solanum dulcamara*)",
+          "outcome": {
+            "text": "14.21 *Capsicum-type* (S. 192)"
           }
-        ]
-      },
-      "31": {
-        "choices": [
-          {
-            "label": "Poren bzw. Colpi transversales im Bereich der Colpen meridional eingeschnürt: Schmetterlingsporen.",
-            "next": "32"
-          },
-          {
-            "label": "Poren bzw. Colpi transversales im Bereich der Colpen nicht meridional eingeschnürt",
-            "next": "34"
+        },
+        {
+          "label": "exine im gebied der colpen transversales niet wulstig verdikt, höchstens etwas vorgezogen bis zwak voorgewelfd.",
+          "next": "35"
+        }
+      ]
+    },
+    "35": {
+      "choices": [
+        {
+          "label": "PK sferoïdisch bis prolaat, als gevolg van naar voren getrokken Äquatorialregion der colpen in poolaanzicht driehoekig. Polarfelder klein",
+          "next": "36"
+        },
+        {
+          "label": "PK met anderer combinatie der Merkmale",
+          "next": "37"
+        }
+      ]
+    },
+    "36": {
+      "choices": [
+        {
+          "label": "PK in equatoriaal aanzicht ± kogelvormig, naar voren getrokken Äquatorialbereiche relatief klein (Tafel 21: 27-31)",
+          "outcome": {
+            "text": "14.6 *Hippophaë rhamnoides* (S. 163)"
           }
-        ]
-      },
-      "32": {
-        "choices": [
-          {
-            "label": "PK ca. 35-52 µm groß, relativ dünnwandig und daher von geringer Formbeständigkeit, in Äquatorialansicht rechteckig (Tafel 29: 11-15)",
-            "outcome": {
-              "text": "14.19 *Anthyllis vulneraria* (S. 191)"
-            }
-          },
-          {
-            "label": "PK um 20-30(35) µm groß, von guter Formbeständigkeit. Exine scabrat oder foveolat",
-            "next": "33"
+        },
+        {
+          "label": "PK in equatoriaal aanzicht ruitvormig (Indien ± rechthoekig of tonvormig, vergl. Fabaceae p.p. unter 48 en 48-), meestal duidelijk länger als breed (pollenvormindex 1,2-1,9). naar voren getrokken Äquatorialbereiche relatief groot (Tafel 22: 9-10; Tafeln 23-27)",
+          "outcome": {
+            "text": "14.11 *Apiaceae* (S. 164)"
           }
-        ]
-      },
-      "33": {
-        "choices": [
-          {
-            "label": "PK in Äquatorialansicht rechteckig, deutlich scabrat (Tafel 29: 16-22); wenn Endexine viel dicker als das Tectum, vergl. *Osyris alba* (S. 326); ähnliche Formen u.U. auch bei *Dorcyium* (S. 197)",
-            "outcome": {
-              "text": "14.20 *Ornithopus* (S. 192)"
-            }
-          },
-          {
-            "label": "PK in Äquatorialansicht elliptisch, mit abgerundeten Polarbereichen; wenn angedeutet rechteckig, dann Skulptur psilat bis schwach scabrat, schwach rugulat bis schwach microreticulat (vergl. auch *Androsace alpina-Typ*)",
-            "outcome": {
-              "text": "*Coronilla* p.p. (S. 254)"
-            }
+        }
+      ]
+    },
+    "37": {
+      "choices": [
+        {
+          "label": "colpen transversales smal, z.T. spleetachtig nauw.",
+          "next": "38"
+        },
+        {
+          "label": "colpen transversales breed",
+          "next": "43"
+        }
+      ]
+    },
+    "38": {
+      "choices": [
+        {
+          "label": "PK bis 15 µm groot (Tafel 30: 16-20)",
+          "outcome": {
+            "text": "14.22 *Solanum dulcamara* (S. 194)"
           }
-        ]
-      },
-      "34": {
-        "choices": [
-          {
-            "label": "Tectum im Bereich der Colpi transversales deutlich vesicula-artig von der Endexine abgehoben (Tafel 29: 23-30), Ektexine dadurch über den Colpi transversales wulstig verdickt (wenn PK unter 12 µm groß, siehe auch *Solanum dulcamara*)",
-            "outcome": {
-              "text": "14.21 *Capsicum-Typ* (S. 192)"
-            }
-          },
-          {
-            "label": "Exine im Bereich der Colpi transversales nicht wulstig verdickt, höchstens etwas vorgezogen bis schwach vorgewölbt.",
-            "next": "35"
+        },
+        {
+          "label": "PK größer",
+          "next": "39"
+        }
+      ]
+    },
+    "39": {
+      "choices": [
+        {
+          "label": "colpen transversales zeer kort, slechts eineUnterbrechung der intercolpiumranden (Indien PK microechinat, vergl. 42 *Filipendula*)",
+          "outcome": {
+            "text": "Tricolporoidate PK (S. 201)"
           }
-        ]
-      },
-      "35": {
-        "choices": [
-          {
-            "label": "PK sphäroidisch bis prolat, infolge vorgezogener Äquatorialregion der Colpen in Polaransicht dreieckig. Polarfelder klein",
-            "next": "36"
-          },
-          {
-            "label": "PK mit anderer Kombination der Merkmale",
-            "next": "37"
+        },
+        {
+          "label": "colpen transversales länger",
+          "next": "40"
+        }
+      ]
+    },
+    "40": {
+      "choices": [
+        {
+          "label": "PK psilaat bis zwak scabraat",
+          "next": "41"
+        },
+        {
+          "label": "Skulpturelemente duidelijk herkenbaar",
+          "next": "42"
+        }
+      ]
+    },
+    "41": {
+      "choices": [
+        {
+          "label": "PK prolaat, pollenvormindex 1,31-1,81, intercolpiumranden duidelijk ingebogen, PK 22-28 µm groot (Tafel 33: 25-29) (Indien kleiner vergl. ook *Castanea* S. 196)",
+          "outcome": {
+            "text": "*Orthilia secunda* (S. 210)"
           }
-        ]
-      },
-      "36": {
-        "choices": [
-          {
-            "label": "PK in Äquatorialansicht ± kugelig, vorgezogene Äquatorialbereiche relativ klein (Tafel 21: 27-31)",
-            "outcome": {
-              "text": "14.6 *Hippophaë rhamnoides* (S. 163)"
-            }
-          },
-          {
-            "label": "PK in Äquatorialansicht rhomboidisch (wenn ± rechteckig oder tonnenförmig, vergl. Fabaceae p.p. unter 48 und 48-), meist deutlich länger als breit (PFormI 1,2-1,9). Vorgezogene Äquatorialbereiche relativ groß (Tafel 22: 9-10; Tafeln 23-27)",
-            "outcome": {
-              "text": "14.11 *Apiaceae* (S. 164)"
-            }
+        },
+        {
+          "label": "PK sferoïdisch, pollenvormindex 0,90-1,12, met kleinem Polarfeld (Tafel 30: 1-5)",
+          "outcome": {
+            "text": "14.23 *Solanum nigrum-type* (S. 194)"
           }
-        ]
-      },
-      "37": {
-        "choices": [
-          {
-            "label": "Colpi transversales schmal, z.T. spaltartig eng.",
-            "next": "38"
-          },
-          {
-            "label": "Colpi transversales breit",
-            "next": "43"
+        }
+      ]
+    },
+    "42": {
+      "choices": [
+        {
+          "label": "PK scabraat bis microechinat (Tafel 30: 6-11)",
+          "outcome": {
+            "text": "14.24 *Filipendula* (S. 194)"
           }
-        ]
-      },
-      "38": {
-        "choices": [
-          {
-            "label": "PK bis 15 µm groß (Tafel 30: 16-20)",
-            "outcome": {
-              "text": "14.22 *Solanum dulcamara* (S. 194)"
-            }
-          },
-          {
-            "label": "PK größer",
-            "next": "39"
+        },
+        {
+          "label": "PK scabraat, fossulat of seltener verrucaat (Tafel 30: 12-15)",
+          "outcome": {
+            "text": "14.25 *Bruckenthalia spiculifolia* (S. 196)"
           }
-        ]
-      },
-      "39": {
-        "choices": [
-          {
-            "label": "Colpi transversales sehr kurz, lediglich eineUnterbrechung der Intercolpium-Ränder (wenn PK microechinat, vergl. 42 *Filipendula*)",
-            "outcome": {
-              "text": "Tricolporoidate PK (S. 201)"
-            }
-          },
-          {
-            "label": "Colpi transversales länger",
-            "next": "40"
+        }
+      ]
+    },
+    "43": {
+      "choices": [
+        {
+          "label": "PK microverrucat, intercolpiumranden meestal sterk ingezonken, intercolpia afgeplat bis concaaf (Tafel 31: 9-23)",
+          "outcome": {
+            "text": "*Cornus* (S. 203)"
           }
-        ]
-      },
-      "40": {
-        "choices": [
-          {
-            "label": "PK psilat bis schwach scabrat",
-            "next": "41"
-          },
-          {
-            "label": "Skulpturelemente deutlich erkennbar",
-            "next": "42"
+        },
+        {
+          "label": "PK psilaat of onduidelijk scabraat, intercolpia ± convex",
+          "next": "44"
+        }
+      ]
+    },
+    "44": {
+      "choices": [
+        {
+          "label": "PK über 40 µm groot, vormvast (Indien dunwandig en dadurch wenig vormvast, vergl. *Anthyllis vulneraria*, S. 191) (Tafel 33: 17-19)",
+          "outcome": {
+            "text": "*Diospyros* (S. 207)"
           }
-        ]
-      },
-      "41": {
-        "choices": [
-          {
-            "label": "PK prolat, PFormI 1,31-1,81, Intercolpium-Ränder deutlich eingekrümmt, PK 22-28 µm groß (Tafel 33: 25-29) (wenn kleiner vergl. auch *Castanea* S. 196)",
-            "outcome": {
-              "text": "*Orthilia secunda* (S. 210)"
-            }
-          },
-          {
-            "label": "PK sphäroidisch, PFormI 0,90-1,12, mit kleinem Polarfeld (Tafel 30: 1-5)",
-            "outcome": {
-              "text": "14.23 *Solanum nigrum-Typ* (S. 194)"
-            }
+        },
+        {
+          "label": "PK kleiner, meestal kleiner als 35 µm",
+          "next": "45"
+        }
+      ]
+    },
+    "45": {
+      "choices": [
+        {
+          "label": "PK 24-35 µm groot, endexine (ca. 1,5 µm) viel dikker als das tectum (bis 0,5 µm); meestal microreticulat of wenigstens met einzelnen microbrochi (Tafel 70: 5-10)",
+          "outcome": {
+            "text": "*Osyris alba* (S. 326)"
           }
-        ]
-      },
-      "42": {
-        "choices": [
-          {
-            "label": "PK scabrat bis microechinat (Tafel 30: 6-11)",
-            "outcome": {
-              "text": "14.24 *Filipendula* (S. 194)"
-            }
-          },
-          {
-            "label": "PK scabrat, fossulat oder seltener verrucat (Tafel 30: 12-15)",
-            "outcome": {
-              "text": "14.25 *Bruckenthalia spiculifolia* (S. 196)"
-            }
+        },
+        {
+          "label": "exine of niet of niet überall dikker als das tectum of endexine unter 1,5 µm dik",
+          "next": "46"
+        }
+      ]
+    },
+    "46": {
+      "choices": [
+        {
+          "label": "PFeldI < 0,4, colpen transversales meestal onregelmatig begrenzt",
+          "outcome": {
+            "text": "14.26 *Castanea* (S. 196)"
           }
-        ]
-      },
-      "43": {
-        "choices": [
-          {
-            "label": "PK microverrucat, Intercolpium-Ränder meist stark eingesenkt, Intercolpien abgeflacht bis konkav (Tafel 31: 9-23)",
-            "outcome": {
-              "text": "*Cornus* (S. 203)"
-            }
-          },
-          {
-            "label": "PK psilat oder undeutlich scabrat, Intercolpien ± konvex",
-            "next": "44"
+        },
+        {
+          "label": "PFeldI > 0,4, colpen transversales meestal regelmatig elliptisch of breed spoelvormig",
+          "next": "47"
+        }
+      ]
+    },
+    "47": {
+      "choices": [
+        {
+          "label": "endexine dikker als das tectum, PK < (22)20 µm groot (Tafel 30: 26-29)",
+          "outcome": {
+            "text": "14.27 *Androsace alpina-type* (S. 197)"
           }
-        ]
-      },
-      "44": {
-        "choices": [
-          {
-            "label": "PK über 40 µm groß, formstabil (wenn dünnwandig und dadurch wenig formstabil, vergl. *Anthyllis vulneraria*, S. 191) (Tafel 33: 17-19)",
-            "outcome": {
-              "text": "*Diospyros* (S. 207)"
-            }
-          },
-          {
-            "label": "PK kleiner, meist kleiner als 35 µm",
-            "next": "45"
+        },
+        {
+          "label": "endexine ten minste polair en subpolair etwa so dik wie das tectum of PK größer als 20 µm",
+          "next": "48"
+        }
+      ]
+    },
+    "48": {
+      "choices": [
+        {
+          "label": "PK meestal sferoïdisch en in equatoriaal aanzicht elliptisch bis viereckig. exine überall gleich dik. PK 19-36 µm groot (Tafel 30: 36-37)",
+          "outcome": {
+            "text": "14.28 *Dorcyium* (S. 197)"
           }
-        ]
-      },
-      "45": {
-        "choices": [
-          {
-            "label": "PK 24-35 µm groß, Endexine (ca. 1,5 µm) viel dicker als das Tectum (bis 0,5 µm); meist microreticulat oder wenigstens mit einzelnen Microbrochi (Tafel 70: 5-10)",
-            "outcome": {
-              "text": "*Osyris alba* (S. 326)"
-            }
-          },
-          {
-            "label": "Exine oder nicht oder nicht überall dicker als das Tectum oder Endexine unter 1,5 µm dick",
-            "next": "46"
+        },
+        {
+          "label": "PK in equatoriaal aanzicht met ± parallelen Seitenrändern, fast ausschließlich prolaat, 13-21(29) µm groot. Besonders bei PK, die über 20 µm groot sind, ist die exine polair en subpolair duidelijk dunner als equatoriaal en subequatoriaal (Indien PK im Phasenkontrastbild rugulat of scabraat, vergl. *Coronilla*, S. 254) (Tafel 30: 30-35)",
+          "outcome": {
+            "text": "14.29 *Lotus*, *Tetragonolobus* (S. 197)"
           }
-        ]
-      },
-      "46": {
-        "choices": [
-          {
-            "label": "PFeldI < 0,4, Colpi transversales meist unregelmäßig begrenzt",
-            "outcome": {
-              "text": "14.26 *Castanea* (S. 196)"
-            }
-          },
-          {
-            "label": "PFeldI > 0,4, Colpi transversales meist regelmäßig elliptisch oder breit spindelförmig",
-            "next": "47"
+        }
+      ]
+    },
+    "49": {
+      "choices": [
+        {
+          "label": "PK microverrucat, über 50 µm groot (Tafel 31: 9-13)",
+          "outcome": {
+            "text": "*Cornus sanguinea* (S. 203)"
           }
-        ]
-      },
-      "47": {
-        "choices": [
-          {
-            "label": "Endexine dicker als das Tectum, PK < (22)20 µm groß (Tafel 30: 26-29)",
-            "outcome": {
-              "text": "14.27 *Androsace alpina-Typ* (S. 197)"
-            }
-          },
-          {
-            "label": "Endexine mindestens polar und subpolar etwa so dick wie das Tectum oder PK größer als 20 µm",
-            "next": "48"
+        },
+        {
+          "label": "PK kleiner, psilaat of scabraat, aber niet ausgesprochen microverrucat",
+          "next": "50"
+        }
+      ]
+    },
+    "50": {
+      "choices": [
+        {
+          "label": "intercolpia concaaf bis flach, intercolpiumranden sterk ingebogen",
+          "next": "51"
+        },
+        {
+          "label": "intercolpia convex.",
+          "next": "52"
+        }
+      ]
+    },
+    "51": {
+      "choices": [
+        {
+          "label": "columella's duidelijk, poriën (3)4-5 µm groot, met costae. colpen marginat (Tafel 31: 1-4)",
+          "outcome": {
+            "text": "14.30 *Nyssa* (S. 198)"
           }
-        ]
-      },
-      "48": {
-        "choices": [
-          {
-            "label": "PK meist sphäroidisch und in Äquatorialansicht elliptisch bis viereckig. Exine überall gleich dick. PK 19-36 µm groß (Tafel 30: 36-37)",
-            "outcome": {
-              "text": "14.28 *Dorcyium* (S. 197)"
-            }
-          },
-          {
-            "label": "PK in Äquatorialansicht mit ± parallelen Seitenrändern, fast ausschließlich prolat, 13-21(29) µm groß. Besonders bei PK, die über 20 µm groß sind, ist die Exine polar und subpolar deutlich dünner als äquatorial und subäquatorial (wenn PK im Phasenkontrastbild rugulat oder scabrat, vergl. *Coronilla*, S. 254) (Tafel 30: 30-35)",
-            "outcome": {
-              "text": "14.29 *Lotus*, *Tetragonolobus* (S. 197)"
-            }
+        },
+        {
+          "label": "columella's onduidelijk, poriën 2-3 µm groot, colpen niet marginat (Tafel 30: 40-44)",
+          "outcome": {
+            "text": "14.31 *Frangula alnus* (S. 198)"
           }
-        ]
-      },
-      "49": {
-        "choices": [
-          {
-            "label": "PK microverrucat, über 50 µm groß (Tafel 31: 9-13)",
-            "outcome": {
-              "text": "*Cornus sanguinea* (S. 203)"
-            }
-          },
-          {
-            "label": "PK kleiner, psilat oder scabrat, aber nicht ausgesprochen microverrucat",
-            "next": "50"
+        }
+      ]
+    },
+    "52": {
+      "choices": [
+        {
+          "label": "PK prolaat (Tafel 30: 38-39)",
+          "outcome": {
+            "text": "14.32 *Shepherdia canadensis* (S. 198)"
           }
-        ]
-      },
-      "50": {
-        "choices": [
-          {
-            "label": "Intercolpien konkav bis flach, Intercolpium-Ränder stark eingekrümmt",
-            "next": "51"
-          },
-          {
-            "label": "Intercolpien konvex.",
-            "next": "52"
+        },
+        {
+          "label": "PK sferoïdisch",
+          "next": "53"
+        }
+      ]
+    },
+    "53": {
+      "choices": [
+        {
+          "label": "PK 12-15 µm groot, colpen met costae, columella's niet herkenbaar",
+          "outcome": {
+            "text": "14.33 *Cyclamen hederifolium* (S. 200)"
           }
-        ]
-      },
-      "51": {
-        "choices": [
-          {
-            "label": "Columellae deutlich, Poren (3)4-5 µm groß, mit Costae. Colpen marginat (Tafel 31: 1-4)",
-            "outcome": {
-              "text": "14.30 *Nyssa* (S. 198)"
-            }
-          },
-          {
-            "label": "Columellae undeutlich, Poren 2-3 µm groß, Colpen nicht marginat (Tafel 30: 40-44)",
-            "outcome": {
-              "text": "14.31 *Frangula alnus* (S. 198)"
-            }
+        },
+        {
+          "label": "PK größer",
+          "next": "54"
+        }
+      ]
+    },
+    "54": {
+      "choices": [
+        {
+          "label": "PK psilaat, exine tweelagig, 1,8-2,2 µm dik, columella's niet herkenbaar, colpen ungleich lang (Tafel 120: 10-15)",
+          "outcome": {
+            "text": "14.34 *Eucommia ulmoides* (S. 200)"
           }
-        ]
-      },
-      "52": {
-        "choices": [
-          {
-            "label": "PK prolat (Tafel 30: 38-39)",
-            "outcome": {
-              "text": "14.32 *Shepherdia canadensis* (S. 198)"
-            }
-          },
-          {
-            "label": "PK sphäroidisch",
-            "next": "53"
+        },
+        {
+          "label": "PK met duidelijk erkennbaren columella's of microreticulat bzw. endo-microreticulat, colpen von gleicher Länge",
+          "next": "55"
+        }
+      ]
+    },
+    "55": {
+      "choices": [
+        {
+          "label": "PK microreticulat of endo-microreticulat",
+          "outcome": {
+            "text": "*Rumex*, *Oxyria* (S. 340 en 342)"
           }
-        ]
-      },
-      "53": {
-        "choices": [
-          {
-            "label": "PK 12-15 µm groß, Colpen mit Costae, Columellae nicht erkennbar",
-            "outcome": {
-              "text": "14.33 *Cyclamen hederifolium* (S. 200)"
-            }
-          },
-          {
-            "label": "PK größer",
-            "next": "54"
+        },
+        {
+          "label": "PK duidelijk met einzeln stehenden columella's, tectum höchstens gelegentlich met einzelnen Perforationen. exine scabraat, PK kogelvormig, poriën rundlich of etwas meridionaal gestreckt, vaak kontrastarm, (Indien met abweichenden Merkmalen: columella's onduidelijk bis ontbrekend, poriën onregelmatig begrenzt of pollenvormindex duidelijk über 1,0, vergl. tricolporoidate PK, S. 201) (Tafel 31: 5-7)",
+          "outcome": {
+            "text": "14.35 *Fagus* (S. 200)"
           }
-        ]
-      },
-      "54": {
-        "choices": [
-          {
-            "label": "PK psilat, Exine zweischichtig, 1,8-2,2 µm dick, Columellae nicht erkennbar, Colpen ungleich lang (Tafel 120: 10-15)",
-            "outcome": {
-              "text": "14.34 *Eucommia ulmoides* (S. 200)"
-            }
-          },
-          {
-            "label": "PK mit deutlich erkennbaren Columellae oder microreticulat bzw. endo-microreticulat, Colpen von gleicher Länge",
-            "next": "55"
-          }
-        ]
-      },
-      "55": {
-        "choices": [
-          {
-            "label": "PK microreticulat oder endo-microreticulat",
-            "outcome": {
-              "text": "*Rumex*, *Oxyria* (S. 340 und 342)"
-            }
-          },
-          {
-            "label": "PK deutlich mit einzeln stehenden Columellae, Tectum höchstens gelegentlich mit einzelnen Perforationen. Exine scabrat, PK kugelig, Poren rundlich oder etwas meridional gestreckt, oft kontrastarm, (wenn mit abweichenden Merkmalen: Columellae undeutlich bis fehlend, Poren unregelmäßig begrenzt oder PFormI deutlich über 1,0, vergl. tricolporoidate PK, S. 201) (Tafel 31: 5-7)",
-            "outcome": {
-              "text": "14.35 *Fagus* (S. 200)"
-            }
-          }
-        ]
-      }
+        }
+      ]
     }
   }
+}

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_175_centhrantus",
-    "title": "17.5 Centhrantus (Beug) — interactieve sleutel (NL)",
+    "key": "beug17-ttt-ech-centhrantus.json",
+    "title": "17.5 Centhrantus (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.5 Centhrantus. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -16,13 +16,13 @@
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 43: 7–10).",
           "outcome": {
-            "text": "17.5.1 *Centhrantus ruber*-type (blz. 242)"
+            "text": "17.5.1 *Centhrantus ruber*-type (Blz... 242)"
           }
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 43: 11–14).",
           "outcome": {
-            "text": "17.5.2 *Centhrantus angustifolius*-type (blz. 242)"
+            "text": "17.5.2 *Centhrantus angustifolius*-type (Blz... 242)"
           }
         }
       ]

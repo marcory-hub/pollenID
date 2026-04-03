@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporoidatae_154_mercurialis",
-    "title": "15.4 Mercurialis (Beug) — interactieve sleutel (NL)",
+    "key": "beug15-tricolporoidatae-ps-mercurialis.json",
+    "title": "15.4 Mercurialis (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §15.4 Mercurialis. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },

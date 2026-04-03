@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolporatae_reticulate_224_fumana_sub",
-    "title": "22.4 Fumana (Beug) — interactieve sleutel (NL)",
+    "key": "beug22-tricolporatae-ret-fumana.json",
+    "title": "22.4 Fumana (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.4 Fumana. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -16,7 +16,7 @@
         {
           "label": "Exine 2,0-2,8 µm dik, poolvelden middelgroot tot klein, PK 38-67 µm groot (Tafel 69: 1-12, Tafel 70: 1-4).",
           "outcome": {
-            "text": "22.4 *Fumana* (blz. 324)"
+            "text": "22.4 *Fumana* (Blz... 324)"
           }
         },
         {

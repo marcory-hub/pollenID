@@ -1,7 +1,7 @@
 {
   "meta": {
-    "key": "beug09-monocolpatae-magnoliaceae",
-    "title": "9.4 Magnoliaceae (Beug) — interactieve sleutel (NL)",
+    "key": "beug09-monocolpatae-magnoliaceae.json",
+    "title": "9.4 Magnoliaceae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 2,
@@ -14,7 +14,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, exine over 2 µm dik (tabel 9: 7–11).",
+          "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
           "outcome": {
             "text": "9.4.1 *Liriodendron tulipifera*"
           }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_tricolporoidatae_tricolporatae_echinate_sculpturen_177_lonicera",
-    "title": "17.7 Lonicera (Beug) — interactieve sleutel (NL)",
+    "key": "beug17-ttt-ech-lonicera.json",
+    "title": "17.7 Lonicera (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §17.7 Lonicera. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
@@ -16,13 +16,13 @@
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 45: 4–8).",
           "outcome": {
-            "text": "17.7.1 *Lonicera periclymenum*-type (blz. 244)"
+            "text": "17.7.1 *Lonicera periclymenum*-type (Blz... 244)"
           }
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 46: 1–4).",
           "outcome": {
-            "text": "17.7.2 *Lonicera xylosteum*-type (blz. 244)"
+            "text": "17.7.2 *Lonicera xylosteum*-type (Blz... 244)"
           }
         }
       ]

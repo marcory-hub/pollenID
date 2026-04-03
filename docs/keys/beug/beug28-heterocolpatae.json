@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_heterocolpatae_28",
-    "title": "28 Heterocolpatae (Beug) — interactieve sleutel (NL)",
+    "key": "beug28-heterocolpatae.json",
+    "title": "28 Heterocolpatae (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §28 Heterocolpatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 10,
     "start": "1"
   },
@@ -14,9 +14,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "Niet-porate Colpi opvallend breed (6-9 µm breit), bijna poraatre; PK 15-22 µm groot (Tafel 93: 9-14).",
+          "label": "niet-porate Colpi opvallend breed (6-9 µm breit), bijna poraatre; PK 15-22 µm groot (Tafel 93: 9-14).",
           "outcome": {
-            "text": "28.1 *Peplis portula* (S. 410)"
+            "text": "28.1 *Peplis portula* (Blz. 410)"
           }
         },
         {
@@ -30,11 +30,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK > 18 µm, wenn nur 17-18 µm, dann met 8 Colpen (siehe dann *Myosotis discolor*).",
+          "label": "PK > 18 µm, Indien nur 17-18 µm, dan met 8 Colpi (siehe dan *Myosotis discolor*).",
           "next": "3"
         },
         {
-          "label": "PK < 18 µm (vergl. aber auch kleine PK von *Lythrum*).",
+          "label": "PK < 18 µm (vgl. aber ook kleine PK von *Lythrum*).",
           "next": "6"
         }
       ]
@@ -44,13 +44,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 8 Colpen, davon 4 porat (Tafel 93: 15-21).",
+          "label": "PK met 8 Colpi, davon 4 porat (Tafel 93: 15-21).",
           "outcome": {
-            "text": "28.2 *Myosotis discolor* (S. 410)"
+            "text": "28.2 *Myosotis discolor* (Blz. 410)"
           }
         },
         {
-          "label": "PK met 6(9) Colpen, davon 3 porat oder poroid.",
+          "label": "PK met 6(9) Colpi, davon 3 porat of poroid.",
           "next": "4"
         }
       ]
@@ -60,13 +60,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK striat, wenn Skulptur unkenntlich, dann Poren met deutlichen Costae (Tafel 93: 22-30).",
+          "label": "PK striat, Indien Skulptur unkenntlich, dan Poriën met deutlichen costae (Tafel 93: 22-30).",
           "outcome": {
-            "text": "28.3 *Lythrum* (S. 410)"
+            "text": "28.3 *Lythrum* (Blz. 410)"
           }
         },
         {
-          "label": "PK scabraat, Poren ohne Costae, oft undeutlich (*Heliotropium*).",
+          "label": "PK scabraat, Poriën zonder costae, vaak onduidelijk (*Heliotropium*).",
           "next": "5"
         }
       ]
@@ -76,15 +76,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 29-38 µm groß, langgestreckt, PFormI 1,3-2,0 (Tafel 93: 31-34).",
+          "label": "PK 29-38 µm groot, langgestreckt, pollenvormindex 1,3-2,0 (Tafel 93: 31-34).",
           "outcome": {
-            "text": "28.4 *Heliotropium europaeum* (S. 412)"
+            "text": "28.4 *Heliotropium europaeum* (Blz. 412)"
           }
         },
         {
-          "label": "PK 21-28 µm groß, PFormI 0,78-0,87 (Tafel 21: 16-20).",
+          "label": "PK 21-28 µm groot, pollenvormindex 0,78-0,87 (Tafel 21: 16-20).",
           "outcome": {
-            "text": "*Verbena officinalis* (S. 163)"
+            "text": "*Verbena officinalis* (Blz. 163)"
           }
         }
       ]
@@ -94,13 +94,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met schmaler Ringfurche, die porate und nicht-porate Colpen miteinander verbindet (Tafel 94: 1-2).",
+          "label": "PK met schmaler Ringfurche, die porate en niet-porate Colpi miteinander verbindet (Tafel 94: 1-2).",
           "outcome": {
-            "text": "28.5 *Cynoglossum* (S. 412)"
+            "text": "28.5 *Cynoglossum* (Blz. 412)"
           }
         },
         {
-          "label": "PK ohne eine solche Ringfurche.",
+          "label": "PK zonder eine solche Ringfurche.",
           "next": "7"
         }
       ]
@@ -114,7 +114,7 @@
           "next": "8"
         },
         {
-          "label": "Alle Poren in äquatorialer Position, PK (meist schwach) hantelförmig.",
+          "label": "Alle Poriën in äquatorialer Position, PK (meestal zwak) hantelförmig.",
           "next": "9"
         }
       ]
@@ -124,15 +124,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porate Colpi kürzer als nicht-porate (Tafel 94: 3-6).",
+          "label": "Porate Colpi kürzer als niet-porate (Tafel 94: 3-6).",
           "outcome": {
-            "text": "28.6 *Eritrichum nanum* (S. 414)"
+            "text": "28.6 *Eritrichum nanum* (Blz. 414)"
           }
         },
         {
-          "label": "Porate und nicht-porate Colpi von gleicher Länge.",
+          "label": "Porate en niet-porate Colpi von gleicher lengte.",
           "outcome": {
-            "text": "28.7 *Lappula* (S. 414)"
+            "text": "28.7 *Lappula* (Blz. 414)"
           }
         }
       ]
@@ -142,13 +142,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK polar abgerundet (Abrundung oft nur schwach).",
+          "label": "PK polar afgerond (Abrundung vaak nur zwak).",
           "outcome": {
-            "text": "28.8 *Myosotis sylvatica*-Typ (S. 414)"
+            "text": "28.8 *Myosotis sylvatica*-type (Blz. 414)"
           }
         },
         {
-          "label": "PK polar deutlich abgeflacht (Tafel 94: 7-12).",
+          "label": "PK polar duidelijk abgeflacht (Tafel 94: 7-12).",
           "next": "10"
         }
       ]
@@ -158,15 +158,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 13-18 µm groß, porate und nicht-porate Colpi von gleicher Länge.",
+          "label": "PK 13-18 µm groot, porate en niet-porate Colpi von gleicher lengte.",
           "outcome": {
-            "text": "28.9 *Mertensia maritima* (S. 414)"
+            "text": "28.9 *Mertensia maritima* (Blz. 414)"
           }
         },
         {
-          "label": "PK 7-12(13) µm groß, porate Colpi kürzer als nicht-porate.",
+          "label": "PK 7-12(13) µm groot, porate Colpi kürzer als niet-porate.",
           "outcome": {
-            "text": "28.10 *Omphalodes*-Typ (S. 415)"
+            "text": "28.10 *Omphalodes*-type (Blz. 415)"
           }
         }
       ]

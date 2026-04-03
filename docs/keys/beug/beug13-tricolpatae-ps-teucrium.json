@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_tricolpatae_psilate_1323_teucrium",
-    "title": "13.23 Teucrium (Beug) — interactieve sleutel (NL)",
+    "key": "beug13-tricolpatae-ps-teucrium.json",
+    "title": "13.23 Teucrium (Beug)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §13.23 Teucrium. PK = pollenkorrel, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 1,
     "start": "1"
   },
