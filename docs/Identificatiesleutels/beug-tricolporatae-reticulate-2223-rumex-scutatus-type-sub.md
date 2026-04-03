@@ -1,9 +1,0 @@
-# 22.23 Rumex scutatus-type (Beug) — determinatietabel
-
-Sleutel voor **Rumex scutatus-type**, §22.23 in Beug. PK = pollenkorrel, PFieldI = poolveldindex.
-
-<div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug-tricolporatae-reticulate-2223-rumex-scutatus-type-sub.json"></div>
-
-### Tabel-overzicht
-
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug-tricolporatae-reticulate-2223-rumex-scutatus-type-sub.json"></div>
