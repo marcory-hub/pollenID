@@ -1,0 +1,336 @@
+{
+    "meta": {
+      "key": "beug14-tricolpatae-ps-apiaceae",
+      "title": "14.11 Apiaceae",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "Akontur auf der IC-Seite gerade (Tafel 23: 18) oder konkav (Tafel 25: 18), C-Seite gerade (Tafel 25: 23), konkav (Tafel 25: 25, Tafel 27: 25) oder jochförmig gebogen (Tafel 26: 12), nicht mit blasenförmig vorgewölbter Pore. PK meist stäbchen- oder hantelförmig",
+            "next": "2"
+          },
+          {
+            "label": "Akontur auf der C-Seite konvex (Tafel 27: 8, 13), wenn gerade oder jochförmig, dann mit blasenartig vorgewölbter Pore, IC-Seite unterschiedlich, PK elliptisch (Tafel 25: 36) oder C-Seite rhomboidisch (Tafel 26: 24), Pore vorgewölbt oder nicht vorgewölbt",
+            "next": "12"
+          }
+        ]
+      },
+      "2": {
+        "choices": [
+          {
+            "label": "PK 60-85 µm groß, Exine äquatorial auf der IC-Seite 14-19 µm dick und mit 8-10 µm langen Columellae. Tectum dick (Tafel 22: 9-10)",
+            "outcome": {
+              "text": "14.11.1 *Turgenia latifolia* (S. 170)"
+            }
+          },
+          {
+            "label": "PK kleiner oder mit anderen Merkmalen",
+            "next": "3"
+          }
+        ]
+      },
+      "3": {
+        "choices": [
+          {
+            "label": "Unterschiede in der Dicke der Columellae-Schicht und der Exine deutlich",
+            "next": "4"
+          },
+          {
+            "label": "Unterschiede in der Dicke der Columellae-Schicht (äquatorial max. 1,5 µm) und z.T. auch der Exine zwischen dem äquatorialen und polaren Bereich geringfügig oder fehlend, manchmal auch subäquatorial etwas dicker als äquatorial und polar.",
+            "next": "8"
+          }
+        ]
+      },
+      "4": {
+        "choices": [
+          {
+            "label": "Columellae äquatorial und/oder subäquatorial deutlich länger als polar",
+            "next": "5"
+          },
+          {
+            "label": "Columellae polar länger als äquatorial (Tafel 23: 1-3).",
+            "outcome": {
+              "text": "14.11.2 *Heracleum sphondylium* (S. 170)"
+            }
+          }
+        ]
+      },
+      "5": {
+        "choices": [
+          {
+            "label": "Colpen kurz, CL-Index 0,30-0,48, PK größer als 39 µm, IKontur zur Äquatormitte hin stark eingebogen (Tafel 23: 6), Columellae hier max. 3,0-4,5 µm lang.",
+            "next": "6"
+          },
+          {
+            "label": "Colpen länger, CL-Index größer als 0,50 oder PK kleiner als 43 µm",
+            "next": "7"
+          }
+        ]
+      },
+      "6": {
+        "choices": [
+          {
+            "label": "Columellae in der Äquatormitte 4,0-4,7 µm lang. IKontur zur Äquatormitte stark eingesenkt (Tafel 23: 4-6)",
+            "outcome": {
+              "text": "14.11.3 *Tordylium apulum* (S. 170)"
+            }
+          },
+          {
+            "label": "Columellae in der Äquatormitte (1,7)2,0-3,0 µm lang, C-Seite eingesenkt oder eingebogen (Tafel 23: 7-9)",
+            "outcome": {
+              "text": "14.11.4 *Caucalis platycarpos-Typ* (S. 170)"
+            }
+          }
+        ]
+      },
+      "7": {
+        "choices": [
+          {
+            "label": "Columellae subäquatorial deutlich länger als polar und äquatorial, Intercolpien hier dadurch flügelartig verdickt (Tafel 25: 1-2)",
+            "outcome": {
+              "text": "14.11.5 *Pimpinella saxifraga* (S. 172)"
+            }
+          },
+          {
+            "label": "Columellae im Äquatorialbereich, mindestens in der Äquatormitte, deutlich länger (äquatorial mindestens 1,5 µm lang und zweimal so lang wie polar) als polar (hier nur 0,7-1,0 µm lang) (Tafel 23: 13-22)",
+            "outcome": {
+              "text": "14.11.6 *Conium-Typ* (S. 172)"
+            }
+          }
+        ]
+      },
+      "8": {
+        "choices": [
+          {
+            "label": "PK 54-67 µm groß, mit auffällig dickem Tectum (Tafel 24: 1-2)",
+            "outcome": {
+              "text": "14.11.7 *Orlaya grandiflora* (S. 173)"
+            }
+          },
+          {
+            "label": "PK nicht mit auffällig dickem Tectum",
+            "next": "9"
+          }
+        ]
+      },
+      "9": {
+        "choices": [
+          {
+            "label": "Äquatorialdurchmesser 20-32 µm, PK 36-72 µm groß.",
+            "next": "10"
+          },
+          {
+            "label": "Äquatorialdurchmesser 13-19 µm, PK 22-45 µm groß.",
+            "next": "11"
+          }
+        ]
+      },
+      "10": {
+        "choices": [
+          {
+            "label": "Columellae-Schicht äquatorial 1,8-2,0 µm dick. Columellae bis 1 µm dick, sehr deutlich und kontrastreich (Tafel 23: 10-12)",
+            "outcome": {
+              "text": "14.11.8 *Oenanthe fistulosa* (S. 173)"
+            }
+          },
+          {
+            "label": "Columellae-Schicht äquatorial 0,7-1,0 µm dick. Columellae nur um 0,5 µm dick, kontrastarm (Tafel 24: 3-6)",
+            "outcome": {
+              "text": "14.11.9 *Astrantia-Typ* (S. 173)"
+            }
+          }
+        ]
+      },
+      "11": {
+        "choices": [
+          {
+            "label": "Columellae im Polarbereich etwas dicker und mit größeren Abständen als äquatorial, PK 36-45 µm groß, Äquatorialdurchmesser 17-19 µm, CL-Index 0,88-0,92, PFormI-S 2,17-2,37 (Tafel 25: 3-5)",
+            "outcome": {
+              "text": "14.11.10 *Cicuta virosa* (S. 173)"
+            }
+          },
+          {
+            "label": "Columellae äquatorial und polar gleich dick und mit gleichen Abständen oder Columellae sehr dünn oder PK mit anderen Merkmalen (Tafel 25: 7-25, 30-36)",
+            "outcome": {
+              "text": "14.11.11 Sammelgruppe (S. 173)"
+            }
+          }
+        ]
+      },
+      "12": {
+        "choices": [
+          {
+            "label": "C-Seite meist konvex, PK 40-65 µm groß, Exine polar und äquatorial ohne deutliche Unterschiede, 1,5-2,5 µm dick, Columellae oft undeutlich. Äquatorialbereich oder Äquatormitte konkav oder gerade, C-Seite oft mit blasenartig vorgewölbter Pore. Akontur im Polarbereich auf der IC-Seite abgeschrägt, auf der C-Seite gerunde (Tafel 24: 7-14)",
+            "outcome": {
+              "text": "14.11.12 *Eryngium* (S. 176)"
+            }
+          },
+          {
+            "label": "PK mit anderen Merkmalen",
+            "next": "13"
+          }
+        ]
+      },
+      "13": {
+        "choices": [
+          {
+            "label": "PK elliptisch oder C-Seite gerade oder jochförmig und mit blasenartig vorgewölbter Pore.",
+            "next": "14"
+          },
+          {
+            "label": "C-Seite rhomboidisch, mit oder ohne vorgewölbte Pore. IC-Seite elliptisch, gerade oder konkav",
+            "next": "20"
+          }
+        ]
+      },
+      "14": {
+        "choices": [
+          {
+            "label": "PK elliptisch",
+            "next": "15"
+          },
+          {
+            "label": "C-Seite gerade bis jochförmig und mit blasenartig vorgewölbter Pore.",
+            "next": "16"
+          }
+        ]
+      },
+      "15": {
+        "choices": [
+          {
+            "label": "Columellae-Schicht polar dicker als äquatorial (Tafel 27: 1-2)",
+            "outcome": {
+              "text": "14.11.13 *Trochiscanthus nodiflorus* (S. 177)"
+            }
+          },
+          {
+            "label": "Columellae-Schicht äquatorial dicker als polar (Tafel 25: 35-36; Tafel 27: 5-6)",
+            "outcome": {
+              "text": "14.11.14 *Berula erecta-Gruppe* (S. 177)"
+            }
+          }
+        ]
+      },
+      "16": {
+        "choices": [
+          {
+            "label": "Exine polar deutlich am dicksten (Tafel 25: 26-29)",
+            "outcome": {
+              "text": "14.11.15 *Anthriscus cerefolium* (S. 177)"
+            }
+          },
+          {
+            "label": "Exine polar nicht am dicksten",
+            "next": "17"
+          }
+        ]
+      },
+      "17": {
+        "choices": [
+          {
+            "label": "Exine subäquatorial stark verdickt (3,5-6,0 µm), polar und äquatorial dünner (Tafel 26: 1-4).",
+            "outcome": {
+              "text": "14.11.16 *Pimpinella major-Typ* (S. 178)"
+            }
+          },
+          {
+            "label": "PK subäquatorial nicht oder nur schwach verdickt",
+            "next": "18"
+          }
+        ]
+      },
+      "18": {
+        "choices": [
+          {
+            "label": "PK 44-55 µm groß, CL-Index 0,42-0,55 (Tafel 26: 5-6)",
+            "outcome": {
+              "text": "14.11.17 *Scandix pecten-veneris* (S. 178)"
+            }
+          },
+          {
+            "label": "PK kleiner als 44 µm oder CL-Index größer als 0,55",
+            "next": "19"
+          }
+        ]
+      },
+      "19": {
+        "choices": [
+          {
+            "label": "C-Seite gerade (Tafel 26: 7-10)",
+            "outcome": {
+              "text": "14.11.18 *Daucus-Typ* (S. 180)"
+            }
+          },
+          {
+            "label": "C-Seite jochförmig (Tafel 26: 11-12)",
+            "outcome": {
+              "text": "14.11.19 *Bifora-Typ* (S. 180)"
+            }
+          }
+        ]
+      },
+      "20": {
+        "choices": [
+          {
+            "label": "Exine polar dicker als äquatorial.",
+            "next": "21"
+          },
+          {
+            "label": "Exine polar nicht dicker als äquatorial, C-Seite deutlich konvex, rhomboidisch mit oder ohne vorgewölbte Porenregion, IC-Seite gerade oder sehr schwach konvex, nicht jochförmig. PK angular (Tafel 26: 13-26)",
+            "outcome": {
+              "text": "14.11.20 *Bupleurum*, *Grafia*, *Molopospermum* (S. 180)"
+            }
+          }
+        ]
+      },
+      "21": {
+        "choices": [
+          {
+            "label": "Polare Verdickung der Exine deutlich",
+            "next": "22"
+          },
+          {
+            "label": "Polare und subpolare Verdickung der Exine gering, Poren äquatorial verlängert (Tafel 27: 3-4).",
+            "outcome": {
+              "text": "14.11.21 *Ligusticum mutellina-Typ* (S. 182)"
+            }
+          }
+        ]
+      },
+      "22": {
+        "choices": [
+          {
+            "label": "PFormI-S 1,26-1,38, Poren äquatorial verlängert, polare Verdickung der Exine deutlich (polar 2,5-3,0 µm, äquatorial 1,5-1,8 µm), PK 23-30 µm groß (Tafel 27: 7-11)",
+            "outcome": {
+              "text": "14.11.22 *Hydrocotyle vulgaris* (S. 184)"
+            }
+          },
+          {
+            "label": "PFormI-S 1,38-1,90, polare Verdickung der Exine geringer.",
+            "next": "23"
+          }
+        ]
+      },
+      "23": {
+        "choices": [
+          {
+            "label": "Poren meridional verlängert oder quadratisch, PK mindestens äquatorial angular (Tafel 27: 12-25)",
+            "outcome": {
+              "text": "14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (S. 184)"
+            }
+          },
+          {
+            "label": "Poren äquatorial verlängert, PK interangular (Tafel 27: 26-29)",
+            "outcome": {
+              "text": "14.11.24 *Levisticum-Typ* (S. 186)"
+            }
+          }
+        ]
+      }
+    }
+  }

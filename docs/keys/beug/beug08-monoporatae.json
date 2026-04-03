@@ -1,10 +1,10 @@
 {
   "meta": {
-    "key": "beug_monoporatae",
+    "key": "beug08_monoporatae",
     "title": "Monoporatae (Beug §8) — interactieve sleutel (NL)",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §8 Monoporatae. PK = pollenkorrel, PMT = pollenmiddendeel (centraal lichaam), PFormI = pollenvormindex, MiW = middelwaarde. Afbeeldingen niet opgenomen.",
-    "note": "De Duitse afkorting 'p.p.' staat voor 'pro parte' (deels). Plate-/figuurnummers (Tafel, Abb.) als tekstreferentie behouden.",
+    "source": "Beug",
+    "note": "-",
     "stepCount": 6,
     "start": "1"
   },

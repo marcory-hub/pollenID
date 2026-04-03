@@ -39,6 +39,8 @@ Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 
 `data-json-url` relative to the `.md` (often `../../keys/...` from `docs/Identificatiesleutels/`). No extra page JS; `mkdocs.yml` loads the script.
 
+**No boilerplate above the widgets** unless the user explicitly requests it: do not add lines such as "Onderdeel van…", "Uitkomst … volgt…", "Deelsleutel bij §…", "Zie […]", or "PK = …" between the `H1` and the first `div`. Stick to the snippet above. Pages without a key JSON may keep a single relative Markdown link directly under the `H1` (no extra prose).
+
 ## Dutch in labels (examples)
 
 *Pollenkorrels (PK)* / *PK* for German PK; prefer **colpi/colpus**, **poriën/porie**, **exine**, **tectum**, **aperturen** like existing `docs/`. Use **verdiepingen**, not *vertiepingen*. Gaps: **[te verifiëren]** per project rules.

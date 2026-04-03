@@ -4,7 +4,7 @@
 
 ### Oververtegenwoordigde pollen (groep IV)
 - [Eucalyptus](eucalyptushoning.md) (meer dan 83%)
-- [Koolzaad](koolzaadhoning.md) (II soms III, IV volgend Persano Oddo) (meer dan 60%)
+- [Koolzaad](koolzaadhoning.md) (II soms III, IV volgens Persano Oddo) (meer dan 60%)
 - [Phacelia](phaceliahoning.md) (II/III) (meer dan 60%)
 - Vergeet-mij-nietje (III/IV)
 

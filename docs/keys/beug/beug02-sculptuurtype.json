@@ -1,9 +1,9 @@
 {
   "meta": {
-    "key": "beug_sculptuurtypen",
-    "title": "Determinatiesleutel voor sculptuurtypen (Beug) — tekst (NL)",
+    "key": "beug02_sculptuurtypen",
+    "title": "Determinatiesleutel voor sculptuurtypen",
     "locale": "nl",
-    "source": "Vertaling (Duits → Nederlands) van de door gebruiker aangeleverde scan: “Bestimmungsschlüssel für die Skulpturtypen”. Afbeeldingen niet opgenomen.",
+    "source": "Beug",
     "stepCount": 13,
     "start": "1"
   },

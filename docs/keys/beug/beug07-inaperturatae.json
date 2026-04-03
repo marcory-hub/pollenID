@@ -1,0 +1,308 @@
+{
+    "meta": {
+      "key": "beug07-inaperturatae",
+      "title": "7. Inaperturatae inkl. Polyplicatae",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "PK als dreiseitige Pyramide ausgebildet, (15)18-27(32) µm groß, Kanten und Ecken der Pyramide psilat, Flächen reticulat mit bis zu 5(6) µm großen Brochi (Tafel 5: 12-17)",
+            "outcome": {
+              "text": "7.1 *Thesium* (S. 62)"
+            }
+          },
+          {
+            "label": "PK nicht als Pyramide ausgebildet",
+            "next": "2"
+          }
+        ]
+      },
+      "2": {
+        "choices": [
+          {
+            "label": "PK oblat bis sphäroidisch, heteropolar: distale Seite clavat, gemmat und/oder baculat, seltener ganz verrucat und evtl. met einzelnen Clavae, proximale Seite verrucat of am Rande verrucat und in der Mitte psilat, von dem proximalen Teil durch eine Art Ringfurche geschieden (Tafel 2: 5-7)",
+            "outcome": {
+              "text": "*Nymphaea* (S. 73)"
+            }
+          },
+          {
+            "label": "PK niet heteropolar en niet met een Ringfurche",
+            "next": "3"
+          }
+        ]
+      },
+      "3": {
+        "choices": [
+          {
+            "label": "PK prolat. Im Umriß elliptisch bis spindelförmig, mit Längsrippen (polyplicate PK). Zwischen je zwei Längsrippen verläuft eine unverzweigte, gerade (Abb. 9e) oder eine verzweigte, zickzackförmige (Abb. 9d) Längsfurche (>Pseudocolpus<)",
+            "outcome": {
+              "text": "7.2 *Ephedra* (S. 64)"
+            }
+          },
+          {
+            "label": "PK sphäroidisch, rundlich-eckig oder in zwei Hälften aufspaltend. Wenn prolat, dann reticulat und niemals mit Längsfurchen oder Längsrippen.",
+            "next": "4"
+          }
+        ]
+      },
+      "4": {
+        "choices": [
+          {
+            "label": "PK dickwandig mit Papille (Tafel 4: 8-9)",
+            "outcome": {
+              "text": "7.3 *Cryptomeria-Typ* (S. 65)"
+            }
+          },
+          {
+            "label": "PK ohne Papille oder PK dünnwandig",
+            "next": "5"
+          }
+        ]
+      },
+      "5": {
+        "choices": [
+          {
+            "label": "PK microgemmat (verkürzte Bacula und Clavae bei *Asarum* können wie Gemmae aussehen). Die Gemmae fallen leicht ab, sie sind daher in stark wechselnder Anzahl vorhanden und meist unregelmäßig verteilt. Bei *Cephalotaxus* und *Cunninghamia* sind sie nur im Bereich einer schwer erkennbaren Papille vorhanden. PK sphäroidisch, dünnwandig. Sie platzen bei Anfeuchtung meist in zwei noch miteinander verbundenen, spindelförmige Hälften auseinander (Tafel 4: 1-7; vergl. auch *Taxus*, Tafel 4: 10-13). In seltenen Fällen kann man eine Pore beobachten",
+            "outcome": {
+              "text": "7.4 *Juniperus-Typ* (S. 66)"
+            }
+          },
+          {
+            "label": "PK niet gemmat",
+            "next": "6"
+          }
+        ]
+      },
+      "6": {
+        "choices": [
+          {
+            "label": "PK psilat oder scabrat",
+            "next": "7"
+          },
+          {
+            "label": "PK reticulat, echinat, baculat oder verrucat",
+            "next": "11"
+          }
+        ]
+      },
+      "7": {
+        "choices": [
+          {
+            "label": "PK psilat",
+            "next": "8"
+          },
+          {
+            "label": "PK scabrat (microechinat, microclavat)",
+            "next": "10"
+          }
+        ]
+      },
+      "8": {
+        "choices": [
+          {
+            "label": "PK ca. 60-100 µm groß, Exine mit einem faltenartig, oft zweiteilig klaffenden Einschnitt (Abb. 9a-c)",
+            "outcome": {
+              "text": "7.5 *Larix*, *Pseudotsuga* (S. 69)"
+            }
+          },
+          {
+            "label": "PK kleiner.",
+            "next": "9"
+          }
+        ]
+      },
+      "9": {
+        "choices": [
+          {
+            "label": "PK ohne Strukturelemente (Abb. 9f)",
+            "outcome": {
+              "text": "7.6 *Arum* (S. 68)"
+            }
+          },
+          {
+            "label": "PK mit deutlicher Columellae-Schicht, z.T. im optischen Schnitt mit gewellter Oberfläche (Abb. 9g).",
+            "outcome": {
+              "text": "7.7 *Aristolochia* (S. 68)"
+            }
+          }
+        ]
+      },
+      "10": {
+        "choices": [
+          {
+            "label": "Skulptur scabrat-microechinat. PK sphäroidisch, oft verbogen und rissig-feldrig, Exine sehr dünnwandig (ca. 0,5 µm). Die Skulpturelemente staan vaak op de Muri van een vlakke Microreticulum (Fasecontrastbeeld).",
+            "outcome": {
+              "text": "7.8 *Populus* (S. 69)"
+            }
+          },
+          {
+            "label": "Skulpturelemente niet toegespitst, microclavat (microgemmat?). PK dikwandiger als bij Populus (ca. 1 µm), steeds eckig-eiförmig, meestal met Längsspalt (Tafel 4: 10-13).",
+            "outcome": {
+              "text": "7.9 *Taxus* (S. 69)"
+            }
+          }
+        ]
+      },
+      "11": {
+        "choices": [
+          {
+            "label": "PK baculat und clavat (Abb. 9h)",
+            "outcome": {
+              "text": "7.10 *Asarum europaeum* (S. 69)"
+            }
+          },
+          {
+            "label": "PK echinat of reticulat (vergl. untypische Formen von *Daphne*, S. 490)",
+            "next": "12"
+          }
+        ]
+      },
+      "12": {
+        "choices": [
+          {
+            "label": "PK echinat",
+            "next": "13"
+          },
+          {
+            "label": "PK reticulat",
+            "next": "17"
+          }
+        ]
+      },
+      "13": {
+        "choices": [
+          {
+            "label": "Columellae-Schicht aanwezig, PK 40-150 µm groot",
+            "outcome": {
+              "text": "7.11 *Crocus vernus-Typ* (S. 69)"
+            }
+          },
+          {
+            "label": "PK zonder Columellae-Schicht of Tectum zeer dun, daher scheinbar intectat (*Elodea*, Abb. 9k), PK tot 70 µm groot",
+            "next": "14"
+          }
+        ]
+      },
+      "14": {
+        "choices": [
+          {
+            "label": "PK 50-70 µm groot",
+            "outcome": {
+              "text": "7.12 *Elodea* (S. 70)"
+            }
+          },
+          {
+            "label": "PK < 40 µm",
+            "next": "15"
+          }
+        ]
+      },
+      "15": {
+        "choices": [
+          {
+            "label": "Die Echini sitzen auf winzigen Wandverdickungen (Abb. 9l), die – schwach angedeutet – untereinander zu einem unvollständigen Reticulum verbunden sind",
+            "outcome": {
+              "text": "7.13 *Hydrocharis* (S. 70)"
+            }
+          },
+          {
+            "label": "PK niet met diesen Merkmalen",
+            "next": "16"
+          }
+        ]
+      },
+      "16": {
+        "choices": [
+          {
+            "label": "Exine ca. 1 µm dick, Echini ca. 1 µm lang en zeer dun (Abb. 9m)",
+            "outcome": {
+              "text": "7.14 *Smilax* (S. 70)"
+            }
+          },
+          {
+            "label": "Exine onder 0,5 µm dick, hyalin, dicht mit stumpfkegeligen, kurzen Echini besetzt, meist nur fragmentarisch erhalten (Abb. 9n)",
+            "outcome": {
+              "text": "7.15 *Laurus*, *Cinnamomum* (S. 70)"
+            }
+          }
+        ]
+      },
+      "17": {
+        "choices": [
+          {
+            "label": "PK prolat, im Umriß elliptisch",
+            "next": "18"
+          },
+          {
+            "label": "PK kugelFörmig bis eckig-eiförmig",
+            "next": "19"
+          }
+        ]
+      },
+      "18": {
+        "choices": [
+          {
+            "label": "PK meistens etwas gebogen (Abb. 10). Reticulum heterobrochat, an drei Stellen mit undeutlich ausgebildetem Reticulum (Tafel 4: 14; Abb. 10)",
+            "outcome": {
+              "text": "7.16 *Ruppia maritima* (S. 70)"
+            }
+          },
+          {
+            "label": "PK niet gebogen, Reticulum gleichmäßig ausgebildet (Tafel 4: 15)",
+            "outcome": {
+              "text": "7.17 *Callitriche obtusangula* (S. 71)"
+            }
+          }
+        ]
+      },
+      "19": {
+        "choices": [
+          {
+            "label": "Reticulum zonder Columellae of Columellae nur vereinzelt erkennbar (Phako) (Tafel 4: 16)",
+            "outcome": {
+              "text": "7.18 *Triglochin* (S. 71)"
+            }
+          },
+          {
+            "label": "Columellae deutlich erkennbar (Phako)",
+            "next": "20"
+          }
+        ]
+      },
+      "20": {
+        "choices": [
+          {
+            "label": "Reticulum hauptsächlich aus kräftigen, evtl. etwas verdickten Columellae bestehend. Muri nur schwach angedeutet oder erst bei tiefer optischer Ebene sichtbar. Oft stehen Columellae auch ohne Verbindung in netziger Anordnung (Tafel 5: 1-5)",
+            "outcome": {
+              "text": "7.19 *Callitriche stagnalis* (S. 71)"
+            }
+          },
+          {
+            "label": "Muri deutlich ausgebildet",
+            "next": "21"
+          }
+        ]
+      },
+      "21": {
+        "choices": [
+          {
+            "label": "Columellae etwa so breit wie die Muri, daher wenig auffallend (Tafel 4: 17)",
+            "outcome": {
+              "text": "7.20 *Potamogeton natans-Typ* (S. 72)"
+            }
+          },
+          {
+            "label": "Columellae dicker als die Muri, daher deutlich sichtbar (Tafel 4: 18)",
+            "outcome": {
+              "text": "7.21 *Potamogeton pectinatus-Typ* (S. 72)"
+            }
+          }
+        ]
+      }
+    }
+  }

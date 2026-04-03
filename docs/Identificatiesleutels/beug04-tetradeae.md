@@ -1,9 +1,7 @@
-# Tetradeae — determinatietabel (Beug)
-
-Sleutel voor tetraden (vierlingen), §4 in Beug. EPK = individuele pollenkorrel binnen de tetrade.
+# Tetradeae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug04-tetradeae.json"></div>
 
-### Tabel-overzicht
+### Tetradeae
 
 <div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug04-tetradeae.json"></div>

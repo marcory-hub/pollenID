@@ -1,4 +1,4 @@
-# 3. Polyadeae (Beug) — determinatietabel
+# 3. Polyadeae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug03-polyadeae.json"></div>
 

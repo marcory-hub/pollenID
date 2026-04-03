@@ -1,0 +1,28 @@
+{
+    "meta": {
+      "key": "beug14-tricolpatae-ps-bistorta",
+      "title": "14.9 (Bistorta-) Polygonum bistorta-Typ",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "Columellae im Polarbereich in Gruppen stehend. Exine polar 4,4-5,5 µm dick, äquatorial 1,8-2,9 µm (Tafel 22: 5-6)",
+            "outcome": {
+              "text": "14.9.1 *Bistorta officinalis*\n*Bistorta officinalis* (L.) Delabre (2)\n45,5-63,0 µm, MiW 55,1 µm; 50 PK, 0a"
+            }
+          },
+          {
+            "label": "Columellae im Polarbereich ± gleichmäßig verteilt, Exine polar 3,8-4,3 µm dick, äquatorial 2,5-3,0 µm (Tafel 22: 7-8)",
+            "outcome": {
+              "text": "14.9.2 *Bistorta vivipara*\n*Bistorta vivipara* (L.) Delabre (3)\n48,1-75,4 µm, MiW 58,7 µm; 50 PK, 1a"
+            }
+          }
+        ]
+      }
+    }
+  }

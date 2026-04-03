@@ -1,0 +1,42 @@
+{
+    "meta": {
+      "key": "beug07-inaperturatae-juniperus-typ",
+      "title": "7.4 Juniperus-Typ",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "PK dünnwandig. Exine bis ca. 0.5 µm dick",
+            "outcome": {
+              "text": "7.4.1 *Juniperus communis-Typ*"
+            }
+          },
+          {
+            "label": "PK dickwandig. Exine ca. 0,5-1,5 µm dick",
+            "next": "2"
+          }
+        ]
+      },
+      "2": {
+        "choices": [
+          {
+            "label": "Microgemmae unregelmäßig über das PK verteilt",
+            "outcome": {
+              "text": "7.4.2 *Juniperus excelsa-Typ*"
+            }
+          },
+          {
+            "label": "PK meist nur im Bereich einer schwer erkennbaren Keimpapille mit gestielten (?) Microgemmae bzw. mit Microclavae",
+            "outcome": {
+              "text": "7.4.3 *Cunninghamia-Typ*"
+            }
+          }
+        ]
+      }
+    }
+  }

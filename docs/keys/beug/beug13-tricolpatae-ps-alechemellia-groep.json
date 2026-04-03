@@ -1,0 +1,28 @@
+{
+    "meta": {
+      "key": "beug13-tricolpatae-ps-alechemellia-groep",
+      "title": "13.11 Alchemilla-Gruppe",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "Exine äquatorial bis subpolar 3-4 µm dick (Tafel 14: 9-12)",
+            "outcome": {
+              "text": "13.11.1 *Aphanes arvensis-Typ*"
+            }
+          },
+          {
+            "label": "Exine äquatorial bis subpolar dünner als 3 µm (Tafel 14: 13-20)",
+            "outcome": {
+              "text": "13.11.2 *Alchemilla pentaphyllea-Typ*"
+            }
+          }
+        ]
+      }
+    }
+  }

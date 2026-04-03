@@ -1,0 +1,28 @@
+{
+    "meta": {
+      "key": "beug14-tricolpatae-ps-berula",
+      "title": "14.11.14 Berula erecta-Gruppe",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "Äquatorialdurchmesser 10-13 µm",
+            "outcome": {
+              "text": "14.11.14.1 *Sison amomum*, *Trinia kitaibelii*"
+            }
+          },
+          {
+            "label": "Äquatorialdurchmesser 15-22 µm",
+            "outcome": {
+              "text": "14.11.14.2 *Berula erecta*, *Sium sisarum*"
+            }
+          }
+        ]
+      }
+    }
+  }

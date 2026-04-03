@@ -43,7 +43,7 @@ extra_javascript:
   - javascripts/kerkvliet-determinatietabel.js
 
 nav:
-  - Home: _index.md
+  - Home: index.md
   - Keys: Identificatiesleutels/_index.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md

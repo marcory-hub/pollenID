@@ -4,10 +4,10 @@ Onderdeel van de tetradensleutel. Omvat Ericaceae, Empetraceae en alle Pyrolacea
 
 **Colpus-index:** verhouding tetradediameter : colpuslengte — de totale lengte van de tussen aangrenzende EPK in elkaar overlopende colpi.
 
-Referenties in de sleutel: tabel 1–2, figuren 4a–b (zie drukwerk Beug).
+Referenties in de sleutel: tabel 1–2, figuren 4a–b (zie Beug).
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>
 
-### Tabel-overzicht
+### Overzicht
 
 <div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>

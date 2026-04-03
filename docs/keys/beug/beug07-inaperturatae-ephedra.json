@@ -1,0 +1,42 @@
+{
+    "meta": {
+      "key": "beug07-inaperturatae-ephedra",
+      "title": "7.2 Ephedra",
+      "locale": "nl",
+      "source": "Beug",
+      "note": "-"
+    },
+    "start": "1",
+    "steps": {
+      "1": {
+        "choices": [
+          {
+            "label": "Pseudocolpi zickzackförmig und verzweigt, PK mit 3-8 Rippen (Abb. 9d)",
+            "outcome": {
+              "text": "7.2.1 *Ephedra distachya-Typ*"
+            }
+          },
+          {
+            "label": "Pseudocolpi unverzweigt, gerade oder schwach geschlängelt bzw. zickzackförmig, PK mit mehr als 8 Rippen (Abb. 9e)",
+            "next": "2"
+          }
+        ]
+      },
+      "2": {
+        "choices": [
+          {
+            "label": "PFormI 1,5-2,3, PK mit (9)11-17 Rippen",
+            "outcome": {
+              "text": "7.2.2 *Ephedra fragilis-Typ*"
+            }
+          },
+          {
+            "label": "PFormI 1,1-1,4, PK mit 16-20 Rippen",
+            "outcome": {
+              "text": "7.2.3 *Ephedra foliata-Typ*"
+            }
+          }
+        ]
+      }
+    }
+  }
