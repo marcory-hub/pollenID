@@ -1,1 +1,1 @@
-2026-04-02: Added link for Beug §33.13 Thymelaeaceae key to _index.md.
+2026-04-03: Corrected _index.md by removing all erroneous Tricolpatae-related links and inserting correct placeholder links for main keys. Validated MkDocs build.
