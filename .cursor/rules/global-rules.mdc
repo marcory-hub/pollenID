@@ -50,3 +50,6 @@ If rules conflict, priority order:
 3. **Explicit workflow triggers** (`done`, concrete doc/link/script tasks, or explicit structural approval for nav/slugs/deps)
 4. **Pedagogical integrity** (explain before large changes)
 5. **Style & brevity**
+
+# 8. SUSTAINABILITY & TOKEN EFFICIENCY
+- **Token economy**: Be highly effective with tokens. Minimize unnecessary compute to reduce electricity and water consumption; prioritize concise, high-impact operations over verbose or redundant processing.
