@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_periporatae_337_alisma_gruppe_sub",
+    "title": "33.7 Alisma-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.7 Alisma-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microechini fehlen oder schwach erkennbar (Phasenkontrast!) (Tafel 109: 5-11).",
+          "outcome": {
+            "text": "33.7.1 *Alisma*-Typ"
+          }
+        },
+        {
+          "label": "Microechini deutlich, zumindest im Phasenkontrastbild in Aufsicht. Durchmesser der Microechini basal 0,6-0,8 µm (Tafel 109: 12-14).",
+          "outcome": {
+            "text": "33.7.2 *Luronium natans*"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_234_laburnum_sub",
+    "title": "23.4 Laburnum (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.4 Laburnum. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 24-33 µm groß, Elemente der rugulaten Sculpturierung locker gestellt, fossulate Sculpturierung daardoor duidelijk (Tafel 80: 1-5).",
+          "outcome": {
+            "text": "23.4 *Laburnum* (blz. 364)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

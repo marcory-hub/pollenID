@@ -40,7 +40,7 @@
 ### Vesiculatae
 - [Vesiculatae — interactieve sleutel](beug-vesiculatae.md)
 ### Inapertuatae
-- [Inaperturatae inclusief Polyplicatae — interactieve sleutel](beug-inapertuatae.md)
+- [Inapertuatae inclusief Polyplicatae — interactieve sleutel](beug-inapertuatae.md)
     - [7.2 Ephedra — interactieve sleutel](beug-inapertuatae-72-ephedra.md)
     - [7.4 Juniperus-type — interactieve sleutel](beug-inapertuatae-74-juniperus.md)
     - [7.19 Callitriche stagnalis — interactieve sleutel](beug-inapertuatae-719-callitriche.md)
@@ -63,10 +63,10 @@
 ### Dicolporatae
 - [Dicolporatae — interactieve sleutel](beug-dicolporatae.md)
 - De enige vertegenwoordiger in de Midden-Europese flora (Tordylium maximum)
-    - [to be verified] [Tordylium apulum](https://www.paldat.org/pub/Tordylium_apulum/306191) in mediteraanse landen
+    - [te verifiëren] [Tordylium apulum](https://www.paldat.org/pub/Tordylium_apulum/306191) in mediteraanse landen
 ### Tricolpatae
 - PK met psilaten, scabraten, verrucaten of microverrucaten sculpturen
-    - [Tricolpatae (psilaat, scabraat, verrucaat, microverrucaat) — interactieve sleutel](beug-tricolpatae-psilate.md)
+    - [Tricolpatae (psilaat, scabraat, verrucaat, microververrucaat) — interactieve sleutel](beug-tricolpatae-psilate.md)
         - [13.4 Aconitum-groep — interactieve sleutel](beug-tricolporatae-psilate-134-aconitum.md)
         - [13.11 Alchemilla-groep — interactieve sleutel](beug-tricolporatae-psilate-1311-alchemilla.md)
         - [13.23 Teucrium — interactieve sleutel](beug-tricolporatae-psilate-1323-teucrium.md)
@@ -76,12 +76,6 @@ Bijzondere omstandigheden en moeilijkheden bij het determinatieproces:
 2. Bij verschillende tricolporate pollentypes: Door het verlies van poriën kunnen tricolpate vormen voorkomen. Dit is onder andere af en toe het geval bij Polygonum aviculare (gewoon varkensgras), Bistorta officinalis (adderwortel), B. vivipara (knolduizendknoop) en Fagus (beuk).
 3. Onder de overwegend dicolpate stuifmeelkorrels van Cypripedium calceolus (vrouwenschoentje, p. 120): kunnen ook tricolpate stuifmeelkorrels voorkomen met naar elkaar toe gelegen, oftewel asymmetrisch geplaatste, colpi (kiemgleuven).
 
-### Tricolporatae
-#### PK met psilaten, scabraten, verrucaten of microverrucaten Skulpturen
-- [Tricolporatae (psilaat, scabraat, verrucaat, microverrucaat) — interactieve sleutel](beug-tricolporatae-psilate.md)
-    - [14.9 Polygonum bistorta-type — interactieve sleutel](beug-tricolporatae-psilate-149-polygonum-bistorta.md)
-    - [14.11 Apiaceae — interactieve sleutel](beug-tricolporatae-psilate-1411-apiaceae.md)
-        - [14.11.23 Pleurospermum, Smyrnium, Laserpitium nitidum — interactieve sleutel](beug-tricolporatae-psilate-141123-pleurospermum.md)
 **Tricolporate stuifmeelkorrels (PK)**
 Stuifmeelkorrels met 3 colpi, deze altijd met een duidelijk, d.w.z. contrastrijk begrensde, ronde, transversaal (dwars) of meridionaal (in de lengte) verlengde porie, of met elk een colpus transversalis of een colpus equatorialis. De randen van deze extra aperturen kunnen geheel of gedeeltelijk verdikt zijn door costae (verstevigingslijsten). Colpi transversales zijn af en toe spleetvormig ontwikkeld. Wanneer deze spleten zo kort zijn dat ze niet of nauwelijks voorbij de colpus-randen overgaan op de intercolpia, dient men ofwel uitsluitend, ofwel mede de determinatiesleutel voor tricolporoidate stuifmeelkorrels (p. 201) te raadplegen.
 
@@ -94,68 +88,96 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
 - [Tricolporoidatae (psilaat, scabraat, verrucaat, microverrucaat) — interactieve sleutel](beug-tricolporoidatae.md)
     - [15.4 Mercurialis — interactieve sleutel](beug-tricolporoidatae-154-mercurialis.md)
     - [15.9 Sammelgruppe — interactieve sleutel](beug-tricolporoidatae-159-sammelgruppe.md)
-### Polyporatae
-- [Polyporatae — interactieve sleutel](beug-polyporatae.md)
+- [Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) — interactieve sleutel](beug-tricolporoidatae-reticulate-23.md)
+    - [23.1 Sambucus nigra-type — interactieve sleutel](beug-tricolporoidatae-reticulate-231-sambucus-nigra-type-sub.md)
+    - [23.2 Sambucus ebulus — interactieve sleutel](beug-tricolporoidatae-reticulate-232-sambucus-ebulus-sub.md)
+    - [23.3 Adoxa moschatellina — interactieve sleutel](beug-tricolporoidatae-reticulate-233-adoxa-moschatellina-sub.md)
+    - [23.4 Laburnum — interactieve sleutel](beug-tricolporoidatae-reticulate-234-laburnum-sub.md)
+    - [23.5 Robinia pseudoacacia — interactieve sleutel](beug-tricolporoidatae-reticulate-235-robinia-pseudoacacia-sub.md)
+    - [23.6 Lobelia dortmanna — interactieve sleutel](beug-tricolporoidatae-reticulate-236-lobelia-dortmanna-sub.md)
+    - [23.8 Scrophulariaceae p.p. — interactieve sleutel](beug-tricolporoidatae-reticulate-238_scrophulariaceae_sub.md)
+    - [23.7 Primula clusiana-type (kleine PK) — interactieve sleutel](beug-tricolporoidatae-reticulate-237-primula-clusiana-type-sub.md)
+    - [23.12 Genista-Gruppe — interactieve sleutel](beug-tricolporoidatae-reticulate-2312_genista_gruppe_sub.md)
+    - [23.9 Hypericum perforatum-type — interactieve sleutel](beug-tricolporoidatae-reticulate-239-hypericum-perforatum-type-sub.md)
+    - [23.13 Diapensia lapponica — interactieve sleutel](beug-tricolporoidatae-reticulate-2313-diapensia-lapponica-sub.md)
+    - [23.14 Euonymus — interactieve sleutel](beug-tricolporoidatae-reticulate-2314-euonymus-sub.md)
+    - [23.15 Paeonia officinalis — interactieve sleutel](beug-tricolporoidatae-reticulate-2315-paeonia-officinalis-sub.md)
+    - [23.16 Cercis siliquastrum — interactieve sleutel](beug-tricolporatae-reticulate-2316-cercis-siliquastrum-sub.md)
+
+### Stephanocolpatae
+- [Stephanocolpatae — interactieve sleutel](beug-stephanocolpatae-24.md)
+    - [24.10 Salvia pratensis-Gruppe — interactieve sleutel](beug-stephanocolpatae-2410_salvia_pratensis_gruppe_sub.md)
+    - [24.13 Primula veris-Gruppe — interactieve sleutel](beug-stephanocolpatae-2413_primula_veris_gruppe_sub.md)
+
+### Stephanocolporatae
+- [Stephanocolporatae — interactieve sleutel](beug-stephanocolporatae-25.md)
+    - [25.4 Pulmonaria-Gruppe — interactieve sleutel](beug-stephanocolporatae-254_pulmonaria_gruppe_sub.md)
+
+### Pericolpatae
+- [Pericolpatae — interactieve sleutel](beug-pericolpatae-26.md)
+    - [26.6 Corydalis-Gruppe — interactieve sleutel](beug-pericolpatae-266_corydalis_gruppe_sub.md)
+
 ### Periporatae
-- [Periporatae — interactieve sleutel](beug-periporatae.md)
+- [Periporatae — interactieve sleutel](beug-periporatae-27.md)
 
-### Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit clavaten, baculaten, verrucaten oder gemmaten Skulpturen
-- [Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-clavate.md)
-    - [16.6 Linum — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-clavate-166-linum.md)
-### Tricolpatae, Tricolporoidatae und Tricolporatae
-    - PK mit echinaten Skulpturen
-- [Tricolporatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-echinate-sculpturen.md)
+### Pantocolpatae
+- [Pantocolpatae — interactieve sleutel](beug-pantocolpatae-28.md)
 
-### Tricolpatae, Tricolporoidatae und Tricolporatae
-    - PK mit striaten, striat-reticulaten of rugulaten Skulpturen
-- [Tricolporatae, Tricolporoidatae en Tricolporatae (striate, striat-reticulate of rugulate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-striate.md)
+### Panporatae
+- [Panporatae — interactieve sleutel](beug-panporatae-29.md)
 
-### Tricolpatae
-    - PK met reticulate of microreticulate sculpturen
-- [Tricolpatae (reticulate of microreticulate sculpturen) — interactieve sleutel](beug-tricolporatae-reticulate-21.md)
-    - [21.10 Galeopsis-Ballota-Gruppe — interactieve sleutel](beug-tricolporatae-reticulate-2110-galeopsis-ballota-sub.md)
+### Pantoporatae
+- [Pantoporatae — interactieve sleutel](beug-pantoporatae-30.md)
 
-### Tricolporatae
-    - PK met reticulate, microreticulate of fossulate sculpturen
-- [Tricolporatae (reticulate, microreticulate of fossulate sculpturen) — interactieve sleutel](beug-tricolporatae-reticulate-22.md)
-    - [22.1 Tilia — interactieve sleutel](beug-tricolporatae-reticulate-221-tilia-sub.md)
-    - [22.2 Cistus salvifolius — interactieve sleutel](beug-tricolporatae-reticulate-222-cistus-salvifolius-sub.md)
-    - [22.3 Cistus monspeliensis — interactieve sleutel](beug-tricolporatae-reticulate-223-cistus-monspeliensis-sub.md)
-    - [22.4 Fumana — interactieve sleutel](beug-tricolporatae-reticulate-224-fumana-sub.md)
-    - [22.5 Osyris alba — interactieve sleutel](beug-tricolporatae-reticulate-225-osyris-alba-sub.md)
-    - [22.6 Hedera helix — interactieve sleutel](beug-tricolporatae-reticulate-226-hedera-helix-sub.md)
-    - [22.7 Vitis — interactieve sleutel](beug-tricolporatae-reticulate-227-vitis-sub.md)
-    - [22.8 Trientalis europaea — interactieve sleutel](beug-tricolporatae-reticulate-228-trientalis-europaea-sub.md)
-    - [22.9 Rhamnus-type — interactieve sleutel](beug-tricolporatae-reticulate-229-rhamnus-type-sub.md)
-    - [22.10 Gentiana germanica-type — interactieve sleutel](beug-tricolporatae-reticulate-2210-gentiana-germanica-type-sub.md)
-    - [22.10 Dictamnus albus — interactieve sleutel](beug-tricolporatae-reticulate-2210-dictamnus-albus-sub.md)
-    - [22.11 Parnassia palustris — interactieve sleutel](beug-tricolporatae-reticulate-2211-parnassia-palustris-sub.md)
-    - [22.11 Hyoscyamus niger — interactieve sleutel](beug-tricolporatae-reticulate-2211-hyoscyamus-niger-sub.md)
-    - [22.12 Bryonia — interactieve sleutel](beug-tricolporatae-reticulate-2212-bryonia-sub.md)
-    - [22.13 Gentiana germanica-type — interactieve sleutel](beug-tricolporatae-reticulate-2213-gentiana-germanica-type-sub.md)
-    - [22.14 Cistus albidus-type — interactieve sleutel](beug-tricolporatae-reticulate-2214-cistus-albidus-type-sub.md)
-    - [22.15 Parnassia palustris — interactieve sleutel](beug-tricolporatae-reticulate-2215-parnassia-palustris-sub.md)
-    - [22.16 Lysimachia vulgaris-type — interactieve sleutel](beug-tricolporatae-reticulate-2216-lysimachia-vulgaris-type-sub.md)
-    - [22.17 Viburnum — interactieve sleutel](beug-tricolporatae-reticulate-2217-viburnum-sub.md)
-        - [22.17.1 Viburnum opulus-type — interactieve sleutel](beug-tricolporatae-reticulate-22171-viburnum-opulus-type-sub.md)
-        - [22.17.2 Viburnum lantana — interactieve sleutel](beug-tricolporatae-reticulate-22172-viburnum-lantana-sub.md)
-    - [22.18 Sterculia — interactieve sleutel](beug-tricolporatae-reticulate-2218-sterculia-sub.md)
-    - [22.19 Staphylea pinnata — interactieve sleutel](beug-tricolporatae-reticulate-2219-staphylea-pinnata-sub.md)
-    - [22.20 Echium — interactieve sleutel](beug-tricolporatae-reticulate-2220-echium-sub.md)
-    - [22.21 Rheum — interactieve sleutel](beug-tricolporatae-reticulate-2221-rheum-sub.md)
-    - [22.22 Rumex acetosa-type — interactieve sleutel](beug-tricolporatae-reticulate-2222-rumex-acetosa-type-sub.md)
-    - [22.23 Rumex scutatus-type — interactieve sleutel](beug-tricolporatae-reticulate-2223-rumex-scutatus-type-sub.md)
-    - [22.24 Ruta graveolens — interactieve sleutel](beug-tricolporatae-reticulate-2224-ruta-graveolens-sub.md)
-    - [22.25 Ptelea trifoliata — interactieve sleutel](beug-tricolporatae-reticulate-2225-ptelea-trifoliata-sub.md)
-    - [22.26 Anagallis-type — interactieve sleutel](beug-tricolporatae-reticulate-2226-anagallis-type-sub.md)
-    - [22.27 Androsace maxima — interactieve sleutel](beug-tricolporatae-reticulate-2227-androsace-maxima-sub.md)
-    - [22.28 Fagopyrum — interactieve sleutel](beug-tricolporatae-reticulate-2228-fagopyrum-sub.md)
-    - [22.29 Rumex tenuifolius-type — interactieve sleutel](beug-tricolporatae-reticulate-2229-rumex-tenuifolius-type-sub.md)
-    - [22.30 Hypericum elodes — interactieve sleutel](beug-tricolporatae-reticulate-2230-hypericum-elodes-sub.md)
-    - [22.31 Fabaceae p.p. — interactieve sleutel](beug-tricolporatae-reticulate-2231-fabaceae-pp-sub.md)
+### Pseudocolpatae
+- [Pseudocolpatae — interactieve sleutel](beug-pseudocolpatae-31.md)
 
-### Tricolpatae, Tricolporoidatae und Tricolporatae
-    - PK mit foveolaten bis scrobiculaten Skulpturen
+### Pseudoporatae
+- [Pseudoporatae — interactieve sleutel](beug-pseudoporatae-32.md)
+
+### Pseudo-annulatae
+- [Pseudo-annulatae — interactieve sleutel](beug-pseudoannul-33.md)
+
+### Anomocolpatae
+- [Anomocolpatae — interactieve sleutel](beug-anomocolpatae-34.md)
+
+### Anomoporatae
+- [Anomoporatae — interactieve sleutel](beug-anomoporatae-35.md)
+
+### Anomoplicatae
+- [Anomoplicatae — interactieve sleutel](beug-anomoplicatae-36.md)
+
+### Pericolporatae
+- [Pericolporatae — interactieve sleutel](beug-pericolporatae-27_new.md)
+
+### Heterocolpatae
+- [Heterocolpatae — interactieve sleutel](beug-heterocolpatae-28.md)
+
+### Fenestratae
+- [Fenestratae — interactieve sleutel](beug-fenestratae-29.md)
+
+### Diporatae
+- [Diporatae — interactieve sleutel](beug-diporatae-30_new.md)
+    - [30.1 Colchicum-Gruppe — interactieve sleutel](beug-diporatae-301_colchicum_gruppe_sub.md)
+
+### Triporatae
+- [Triporatae — interactieve sleutel](beug-triporatae-31.md)
+
+### Stephanoporatae
+- [Stephanoporatae — interactieve sleutel](beug-stephanoporatae-32.md)
+    - [32.11 Campanulaceae — interactieve sleutel](beug-stephanoporatae-3211_campanulaceae_sub.md)
+
+### Periporatae
+- [Periporatae — interactieve sleutel](beug-periporatae-33.md)
+    - [33.2 Plantaginaceae — interactieve sleutel](beug-periporatae-332_plantaginaceae_sub.md)
+    - [33.3 Ranunculus arvensis-Gruppe — interactieve sleutel](beug-periporatae-333_ranunculus_arvensis_gruppe_sub.md)
+    - [33.6 Malvaceae — interactieve sleutel](beug-periporatae-336_malvaceae_sub.md)
+    - [33.7 Alisma-Gruppe — interactieve sleutel](beug-periporatae-337_alisma_gruppe_sub.md)
+    - [33.8 Caryophyllaceae p.p. — interactieve sleutel](beug-periporatae-338_caryophyllaceae_sub.md)
+    - [33.11 Polemonium — interactieve sleutel](beug-periporatae-3311_polemonium_sub.md)
+    - [33.13 Thymelaeaceae — interactieve sleutel](beug-periporatae-3313_thymelaeaceae_sub.md)
+
+### Tricolpatae, Tricolporoidatae und Tricolporatae. PK mit foveolaten bis scrobiculaten Skulpturen
 - [Tricolpatae, Tricolporoidatae en Tricolporatae (foveolate tot scrobiculate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-foveolate.md)
 
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
@@ -164,7 +186,7 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
 
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
     - PK mit crotonoid Skulpturen
-- [Tricolpatae, Tricolporoidatae en Tricolporatae (crotonoid sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-crotonoid.md)
+- [Tricolporatae, Tricolporoidatae en Tricolporatae (crotonoid sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-crotonoid.md)
 
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
     - PK mit perforaten tectum
@@ -188,7 +210,7 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
 
 ### Tricolpatae
     - PK met striate, striat-reticulate of rugulate sculpturen
-    - [Tricolpatae (striate, striat-reticulate of rugulate sculpturen) — interactieve sleutel](beug-tricolporatae-striate-rugulate.md)
+- [Tricolpatae (striate, striat-reticulate of rugulate sculpturen) — interactieve sleutel](beug-tricolporatae-striate-rugulate.md)
     - [18.3 Saxifraga aizoides-Gruppe — interactieve sleutel](beug-tricolporatae-striate-rugulate-183-saxifraga-aizoides-sub.md)
 
 ### Tricolporatae
@@ -200,7 +222,7 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
     - [19.4 Rhus-Gruppe — interactieve sleutel](beug-tricolporatae-striate-rugulate-194-rhus-sub.md)
     - [19.5 Hyoscyamus albus — interactieve sleutel](beug-tricolporatae-striate-rugulate-195-hyoscyamus-albus-sub.md)
     - [19.6 Helianthemum oelandicum-type — interactieve sleutel](beug-tricolporatae-striate-rugulate-196-helianthemum-oelandicum-sub.md)
-    - [19.7 Helianthemum nummularium-Gruppe — interactieve sleutel](beug-tricolporatae-striate-rugulate-197-helianthemum-nummularium-sub-expanded.md)
+    - [19.7 Helianthemum nummularium-Gruppe — interactieve sleutel](beug-tricolporatae-striat-rugulate-197-helianthemum-nummularium-sub-expanded.md)
     - [19.8 Blackstonia-type — interactieve sleutel](beug-tricolporatae-striate-rugulate-198-blackstonia-sub.md)
     - [19.9 Swertia perennis — interactieve sleutel](beug-tricolporatae-striate-rugulate-199-swertia-perennis-sub.md)
     - [19.10 Gentiana pneumonanthe-type — interactieve sleutel](beug-tricolporatae-striate-rugulate-1910-gentiana-pneumonanthe-sub.md)

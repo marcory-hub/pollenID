@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "key": "beug_periporatae_338_caryophyllaceae_sub",
+    "title": "33.8 Caryophyllaceae p.p. (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.8 Caryophyllaceae p.p.. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 11,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus (1,)1,2-4 µm breit, fein scabraat, microechinaat und microreticulat oder met Tectum perforatum, PK meist 8eckig und met 12 Poren.",
+          "next": "2"
+        },
+        {
+          "label": "Anulus 0,6-1,0 µm breit, wenn bis 1,1 µm breit, PK nicht 8eckig und met mehr als 12 Poren, Anuli glatt oder Poren ohne Anulus.",
+          "next": "4"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anuli 1,2-2,0 µm breit, fein scabraat (wenn in Intrareticulum oder Intramicroreticulum, vergl. Alisma-Gruppe, S. 464) (Tafel 110: 1-6).",
+          "outcome": {
+            "text": "33.8.1 *Gypsophila repens*-Typ (S. 469)"
+          }
+        },
+        {
+          "label": "Anuli 2-4 µm breit, microreticulat oder met deutlichem Tectum perforatum, met 0,6-1,0 µm breitem glatten Innenring.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae an der schmalsten Stelle der Interporen nur 1-2 reihig, Columellae bis 2,0(2,5) µm dick (Tafel 110: 7-10).",
+          "outcome": {
+            "text": "33.8.2 *Scleranthus* (S. 470)"
+          }
+        },
+        {
+          "label": "Columellae an der schmalsten Stelle der Interporen mehr als zweireihig, PK microreticulat und microechinaat, Columellae 1,0-1,2 µm dick (Tafel 110: 11-16).",
+          "outcome": {
+            "text": "33.8.3 *Stellaria holostea* (S. 470)"
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren ohne Anulus.",
+          "next": "5"
+        },
+        {
+          "label": "Poren met Anulus.",
+          "next": "6"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zahl der Perforationen oder Microbrochi deutlich größer als die Zahl der Columellae (Tafel 110: 17-20).",
+          "outcome": {
+            "text": "33.8.5 *Cerastium*-Typ (S. 472)"
+          }
+        },
+        {
+          "label": "Zahl der Perforationen, Mircobrochi, bzw. Brochi oder Netzmaschen in der Columellae-Schicht etwa so wie die Zahl der Columellae oder deutlich kleiner.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulat, Brochi 1,5-4,0 µm groß (Tafel 110: 21-22).",
+          "outcome": {
+            "text": "33.8.6 *Melandrium* (S. 474)"
+          }
+        },
+        {
+          "label": "PK met Tectum perforatum oder microreticulat.",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microreticulat: Lumina regelmäßig angeordnet, Abstände der Lumina so groß wie ihr Durchmesser oder nur wenig größer; wenn Brochi deutlich über 1,0 µm (*Honkeya* max. 1,8 µm), dann Poren kleiner als bei *Melandrium* (Tafel 111: 1-4).",
+          "outcome": {
+            "text": "33.8.7 *Minuartia verna*-Typ (S. 474)"
+          }
+        },
+        {
+          "label": "PK met Tectum perforatum.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK größer als 54 µm, met 30-40 Poren (Tafel 111: 5-10).",
+          "outcome": {
+            "text": "33.8.8 *Agrostemma githago* (S. 476)"
+          }
+        },
+        {
+          "label": "PK met weniger als 30 Poren.",
+          "next": "9"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae deutlich netzig gestellt, met je einer Perforation in der Mitte der Endobrochi, Netzmaschen im Allgemeinen 2-3(5) µm groß.",
+          "next": "10"
+        },
+        {
+          "label": "Columellae nicht oder nur undeutlich netzig gestellt, Perforationen nur über den größeren Lücken zwischen den Columellae (Tafel 111: 11-13).",
+          "outcome": {
+            "text": "33.8.9 *Silene*-Typ (S. 476)"
+          }
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 38-48 µm groß, im Umriß 8eckig, met 20-26 Poren (Tafel 112: 1-5).",
+          "outcome": {
+            "text": "33.8.10 *Petrorhagia prolifera* (S. 480)"
+          }
+        },
+        {
+          "label": "PK met weniger als 20 Poren, im Umriß rundlich.",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Opercula kronenförmig oder met verdicktem, geschlossenem oder unterbrochenem Rand, PK 35-67 µm groß, met 8-19 Poren (Tafel 112: 6-12).",
+          "outcome": {
+            "text": "33.8.11 *Dianthus* (S. 480)"
+          }
+        },
+        {
+          "label": "Opercula körnig besetzt, PK 42-49 µm groß, met 12-14 Poren (Tafel 113: 1-2).",
+          "outcome": {
+            "text": "33.8.12 *Vaccaria hispanica* (S. 482)"
+          }
+        }
+      ]
+    }
+  }
+}

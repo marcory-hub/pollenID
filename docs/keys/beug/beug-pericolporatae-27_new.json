@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_pericolporatae_27_new",
+    "title": "27 Pericolporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §27 Pericolporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microreticulate PK met kleinen runden Poren (Tafel 93: 6-8).",
+          "outcome": {
+            "text": "27.1 *Rumex aquaticus*-Typ"
+          }
+        },
+        {
+          "label": "PK psilat, met equatoriaal verlängerten Poren (Tafel 88: 5-7).",
+          "outcome": {
+            "text": "*Polygonum raii* (S. 395)"
+          }
+        }
+      ]
+    }
+  }
+}

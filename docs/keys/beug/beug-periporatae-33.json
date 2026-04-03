@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "key": "beug_periporatae_33",
+    "title": "33 Periporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33 Periporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 33,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK verrucaat (ggf. im Phasenkontrastbild entscheiden) bis verrucat-rugulaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK nicht verrucat skulpturiert.",
+          "next": "3"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met großen Verrucae und wenigen, 6-12 µm großen, met breiten Anuli versehen Poren (Tafel 106: 1-3).",
+          "outcome": {
+            "text": "33.1 *Fumaria* (S. 456)"
+          }
+        },
+        {
+          "label": "PK met kleinen Verrucae. Poren kleiner als 8 µm, met oder ohne Anulus (Tafel 106: 4-16, Tafel 107: 1-18).",
+          "next": "beug_periporatae_332_plantaginaceae_sub"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat.",
+          "next": "4"
+        },
+        {
+          "label": "PK nicht echinaat, microechinaat dann mit Microechini bis um 1 µm Länge (*Stellaria holostea*).",
+          "next": "8"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 21-28 µm groß, Aperturen selten als Poren, meistens als kurze Colpen ausgebildet (Tafel 91: 14-20).",
+          "outcome": {
+            "text": "*Koenigia islandica* (S. 405)"
+          }
+        },
+        {
+          "label": "PK größer, immer mit Poren.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK bis 60 µm groß, met papillösen Vorwölbungen der Exine, diese mit je einer Columella und einem bis 1,5 µm langen Echinus oder einem ca. 0,5 µm langen Microechinus. Poren groß und in geringer Zahl (Tafel 107: 19-25).",
+          "outcome": {
+            "text": "33.3 *Ranunculus arvensis*-Gruppe (S. 462)"
+          }
+        },
+        {
+          "label": "PK ohne papillöse Vorwölbungen.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 70-155 µm groß.",
+          "next": "7"
+        },
+        {
+          "label": "PK 26-31 µm groß, Echini 1-1,5 µm lang, Poren um 3 µm groß, unregelmäßig und kontrastschwach begrenzt (Tafel 108: 1-3).",
+          "outcome": {
+            "text": "33.4 *Sagittaria sagittifolia* (S. 463)"
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 130-156 µm groß, mit 6-10 Poren, Porendurchmesser 20,0-25,0 µm, neben 9-11 µm langen Echini ist die Exine dicht met fädigen Bacula besetzt (Tafel 108: 4-7).",
+          "outcome": {
+            "text": "33.5 *Cucurbita pepo* (S. 463)"
+          }
+        },
+        {
+          "label": "PK 70-140 µm groß, Poren nur 2-4 µm groß, zahlreich, Exine zwischen den Echini nicht dicht met fädigen Bacula besetzt (Tafel 109: 1-4).",
+          "outcome": {
+            "text": "33.6 *Malvaceae* (S. 463)"
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren mit Anuli oder Costae (wenn im Phasenkontrastbild verrucat: Plantaginaceae).",
+          "next": "9"
+        },
+        {
+          "label": "Poren ohne Anuli.",
+          "next": "12"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulat, microreticulat, mit netzig gestellten Columellae oder mit Tectum perforatum oder intrareticulat (wenn PK nur mit 5-8 Poren, 0,8-1,4(1,8) µm großen Brochi und meridional verlängerten Poren s. Pistacia S. 453).",
+          "next": "10"
+        },
+        {
+          "label": "PK scabraat, nicht intrareticulat.",
+          "next": "11"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, intrareticulat oder microintrareticulat, Endobrochi überwiegend (Tafel 109: 5-14).",
+          "next": "beug_periporatae_337_alisma_gruppe_sub"
+        },
+        {
+          "label": "PK nicht intrareticulat oder microintrareticulat, die Columellae können netzig wie angeordnet sein; PK met Tectum perforatum oder PK reticulat, microreticulat oder perreticulat; das Tectum ist außerdem scabraat oder microechinaat skulpturiert (Tafel 110-112, Tafel 113: 1-2).",
+          "next": "beug_periporatae_338_caryophyllaceae_sub"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit (25)30 bis > 100 Poren, Poren 1,1-3,0(4,0) µm groß (Tafel 113: 3-29).",
+          "outcome": {
+            "text": "33.9 *Chenopodiaceae* p.p., *Amaranthus* (S. 482)"
+          }
+        },
+        {
+          "label": "PK met weniger als 10 Poren, Poren 3-5 µm groß (Tafel 114: 1-10).",
+          "outcome": {
+            "text": "33.10 *Ribes* (S. 488)"
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulat (auch reticulat und microechinat), intrareticulat (auch intrareticulat und microechinat), striat oder striat-reticulat.",
+          "next": "13"
+        },
+        {
+          "label": "PK scabraat, psilaat, microechinaat, microreticulat, mit oder ohne Tectum perforatum, wenn gemmat oder clavat, dann mit großen und kleinen Skulpturelementen, vergl. Linum S. 218.",
+          "next": "20"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striat oder striat-reticulat (Tafel 114: 11-17).",
+          "outcome": {
+            "text": "33.11 *Polemonium* (S. 488)"
+          }
+        },
+        {
+          "label": "PK reticulat oder intrareticulat.",
+          "next": "14"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 100-145 µm groß, dickwandig, mit großen, eng stehenden und eingesenkten, runden und länglichen Poren (Tafel 115: 9-11).",
+          "outcome": {
+            "text": "33.12 *Opuntia* (S. 488)"
+          }
+        },
+        {
+          "label": "PK kleiner als 60 µm.",
+          "next": "15"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine in der Mitte zwischen den Poren intrareticulat mit 1,5-2,5 µm großen Brochi, gegen die Porenränder hin intrareticulat oder microintrareticulat. Skulptur psilat oder microechinaat (Tafel 109: 5-14).",
+          "outcome": {
+            "text": "33.7 *Alisma*-Gruppe (S. 464)"
+          }
+        },
+        {
+          "label": "PK perreticulat, nicht intrareticulat oder microintrareticulat, Reticulum zwischen den Porenrändern gleichmässig ausgebildet.",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 2,5-4,5 µm dick, Brochi 1,5-3,0 µm, Poren 1-2 µm groß (Tafel 114: 18-20, Tafel 115: 1-5).",
+          "next": "beug_periporatae_3313_thymelaeaceae_sub"
+        },
+        {
+          "label": "Exine dünner, wenn dicker als 2,5 µm, dann Brochi deutlich größer.",
+          "next": "17"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 5 bis 7(13) µm groß.",
+          "next": "18"
+        },
+        {
+          "label": "Brochi 1 bis 2 µm groß.",
+          "next": "19"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri simpilocolumellat, 1 Pore in jedem Brochus, Poren kleiner als die Lumina. Endexine 2-3 µm dick (Tafel 115: 6-8).",
+          "outcome": {
+            "text": "33.14 *Tribulus terrestris* (S. 490)"
+          }
+        },
+        {
+          "label": "Muri mindestens duplicolumellat, Poren nicht in jedem Brochus (Tafel 116: 1-4).",
+          "outcome": {
+            "text": "33.15 *Persicaria maculosa*-Typ (S. 492)"
+          }
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren 5-10 µm groß, rund bis länglich, Brochi 1,0-1,5 µm mit breiten, wenigstens teilweise duplicolumellaten Muri (Tafel 116: 5-8).",
+          "outcome": {
+            "text": "33.16 *Liquidambar* (S. 492)"
+          }
+        },
+        {
+          "label": "Poren nur 1,5-2,0 µm groß (Tafel 116: 9-13).",
+          "outcome": {
+            "text": "33.17 *Buxus* (S. 492)"
+          }
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK langgestreckt, etwa kegelförmig, d.h. im Umriß spitz kegelig-dreieckig oder stumpf kegelig-sackförmig met 4-6 Poren oder Colpen auf der Mantelfläche und einem Colpus oder einer Pore auf der Grundfläche der kegelförmigen PK (Tafel 116: 14-17, Tafel 117: 1-16, Tafel 118: 1-7).",
+          "outcome": {
+            "text": "33.18 *Cyperaceae* (S. 494)"
+          }
+        },
+        {
+          "label": "PK kugelig bis ellipsoidisch, Poren ± regelmäßig verteilt.",
+          "next": "21"
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK klein, 11-23 µm, mit wenigen Poren und mit Columellae-Schicht, psilaat.",
+          "next": "22"
+        },
+        {
+          "label": "PK größer, mit zahlreichen Poren, wenn um 20 µm und mit wenigen Poren, dann ohne Columellae-Schicht (*Ribes* p.p.).",
+          "next": "23"
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit (4)6-11 Poren (Tafel 118: 8-25).",
+          "outcome": {
+            "text": "33.19 *Herniaria*, *Paronychia*, *Illecebrum verticillatum* (S. 500)"
+          }
+        },
+        {
+          "label": "PK mit 12 Poren, im Umriß sechseckig (Tafel 118: 26-31).",
+          "outcome": {
+            "text": "33.20 *Polygonum* (S. 502)"
+          }
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit papillösen Vorwölbungen der Exine, diese mit je einer Columella, wenn ohne papillöse Vorwölbungen, dann mit ca. 1 µm dicken, weit gestellten Columellae. PK microechinaat, Microechini oft schwer erkennbar.",
+          "outcome": {
+            "text": "33.2 *Plantaginaceae* (S. 457)"
+          }
+        },
+        {
+          "label": "PK ohne papillöse Vorwölbungen der Exine, mit dünneren, nicht auffallend weit gestellten Columellae, PK scabraat, psilaat oder microechinaat.",
+          "next": "24"
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK über 70 µm groß, psilat, mit Tectum perforatum (Tafel 118: 32-34, Tafel 119: 1).",
+          "outcome": {
+            "text": "33.21 *Calystegia* (S. 504)"
+          }
+        },
+        {
+          "label": "PK kleiner.",
+          "next": "25"
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microechinaat.",
+          "next": "26"
+        },
+        {
+          "label": "PK psilat, scabraat oder microverrucat.",
+          "next": "28"
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "type": "step",
+      "choices": [
+        {
+          "label": "je 1 Microechinus über einer Columella (Tafel 119: 2-5).",
+          "outcome": {
+            "text": "33.22 *Anemone coronaria* (S. 504)"
+          }
+        },
+        {
+          "label": "Microechini anders verteilt.",
+          "next": "27"
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met meist 10-12 Poren, Poren 4-6 µm groß met kontrastarmen Rändern (Tafel 119: 6-12).",
+          "outcome": {
+            "text": "33.23 *Caldesia parnassifolia* (S. 504)"
+          }
+        },
+        {
+          "label": "PK mit 19-35 Poren, Poren 1,5-3,5 µm groß (Tafel 110-112, Tafel 113: 1-2).",
+          "next": "beug_periporatae_338_caryophyllaceae_sub"
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit mindestens (25)30 bis > 100 Poren, Porendurchmesser (1,)1,7-3,0(4,0) µm (Tafel 113: 3-29).",
+          "outcome": {
+            "text": "33.9 *Chenopodiaceae* p.p., *Amaranthus* (S. 482)"
+          }
+        },
+        {
+          "label": "PK met weniger als 20 Poren.",
+          "next": "29"
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 33-44 µm, Poren 8-13 µm groß (Tafel 119: 13-19).",
+          "outcome": {
+            "text": "33.24 *Papaver argemone* (S. 506)"
+          }
+        },
+        {
+          "label": "PK und/oder Poren kleiner (im Phasenkontrastbild auf schwache verrucate Skulpturierung achten: Plantaginaceae).",
+          "next": "30"
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, wenn schwach scabraat, PK mit Lacunae (*Ribes*, Tafel 114: 1-10).",
+          "outcome": {
+            "text": "33.10 *Ribes* (S. 488)"
+          }
+        },
+        {
+          "label": "PK scabraat, 6-14 Poren, Poren eingesänkt, 2,5-6 µm groß, unregelmäßig geformt. Exine um 1,5 µm dick. Endexine so dick wie die Exine oder dicker (wenn Poren regelmäßig rund und Endexine dünner als Exine, vergl. Sagina apetala-Typ S. 470) (Tafel 119: 20-25).",
+          "outcome": {
+            "text": "33.25 *Thalictrum* (S. 506)"
+          }
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine ca. 0,7 µm dick, Poren 1,5 µm groß (Tafel 120: 1-4).",
+          "outcome": {
+            "text": "33.26 *Urtica pilulifera* (S. 506)"
+          }
+        },
+        {
+          "label": "Exine 1,2-1,7 µm dick, Poren 3-5 µm groß (Tafel 114: 1-10).",
+          "outcome": {
+            "text": "33.10 *Ribes* (S. 488)"
+          }
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren 5-7 µm groß, ohne deutliche Costae oder Anulus, PK 20-30 µm groß, äquatorialansicht quadratisch (Tafel 101: 30-32).",
+          "outcome": {
+            "text": "31.13 *Vicia lathyroides* (S. 434)"
+          }
+        },
+        {
+          "label": "Poren 8-10 µm groß, mit kräftig ausgebildetem, 3-4 µm breitem Anulus (Costae), PK sphäroidisch bis oblat (Tafel 100: 1-2).",
+          "outcome": {
+            "text": "31.14 *Cucumis sativus* (S. 436)"
+          }
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sphäroidisch, PFormI um 1,0.",
+          "next": "19"
+        },
+        {
+          "label": "PK oblat, wenn sphäroidisch, dann PFormI 0,75-0,90.",
+          "next": "21"
+        }
+      ]
+    }
+  }
+}

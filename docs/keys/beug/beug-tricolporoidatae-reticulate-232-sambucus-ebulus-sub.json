@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_232_sambucus_ebulus_sub",
+    "title": "23.2 Sambucus ebulus (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.2 Sambucus ebulus. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine in het midden van de Intercolpiën equatoriaal bis 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
+          "outcome": {
+            "text": "23.2 *Sambucus ebulus* (blz. 363)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

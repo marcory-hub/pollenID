@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "key": "beug_fenestratae_29",
+    "title": "29 Fenestratae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §29 Fenestratae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 9,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met Echini.",
+          "next": "3"
+        },
+        {
+          "label": "PK psilat.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK periporaat, Lacunae um einzelne Poren oder um 2-3 Poren (Tafel 114: 1-10).",
+          "outcome": {
+            "text": "*Ribes* (S. 487)"
+          }
+        },
+        {
+          "label": "PK stephanocolporat met Lacunae op den Polarfeldern (Tafel 90: 4-8).",
+          "outcome": {
+            "text": "*Polygala comosa*-Typ (S. 398)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porale Lacunae dreikammerig, PK met äquatorialen Rippen.",
+          "next": "7"
+        },
+        {
+          "label": "Porale Lacunae zweikammerig oder äquatorial nur verengt, PK ohne äquatoriale Rippen.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Äquatoriale Rippen met 2 Reihen Echini, paraporale Lacunae schmal, PK nur 25-33 µm groß (Tafel 94: 13-17).",
+          "outcome": {
+            "text": "29.1 *Arnoseris minima* (S. 418)"
+          }
+        },
+        {
+          "label": "Äquatoriale Rippen met 1 Reihe von Echini, PK überwiegend größer als 35 µm. Der Crepis-Typ ist met dem Sonchus- und met dem Lactuca-Typ durch Übergänge verbunden.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Die 3 die polaren Lacunae begrenzenden Rippen sind im Polarbereich nicht oder kaum verbreitert, randlich met je 1 oder 2 Reihen von Echini (Tafel 94: 18-21).",
+          "outcome": {
+            "text": "29.2 *Lactuca*-Typ (S. 418)"
+          }
+        },
+        {
+          "label": "Die Rippen münden polar in ein meist dreieckiges breites und echinates Feld. Dieses Feld kann gleichmäßig oder ungleichmäßig met Echini besetzt sein.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met deutlichen, meist 3 polaren Lacunae pro Polarbereich (Tafel 94: 22-25).",
+          "outcome": {
+            "text": "29.3 *Sonchus*-Typ (S. 418)"
+          }
+        },
+        {
+          "label": "PK ohne polare Lacunae; in den echinaten polaren Feldern können größere Zwischenräume zwischen den Echini auftreten, in denen aber äußere Columellae vorhanden sind (keine Lacunae). Polarbereiche met 1-2 meist kleinen Lacunae kommen vor (Tafel 94: 26-28).",
+          "outcome": {
+            "text": "29.4 *Crepis*-Typ (S. 419)"
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK nur met 3 (poralen) Lacunae (Tafel 95: 1-3).",
+          "outcome": {
+            "text": "29.5 *Scorzonera humilis*-Typ (S. 420)"
+          }
+        },
+        {
+          "label": "PK außer den polaren Lacunae met weiteren Lacunae.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 6 äquatorialen Lacunae.",
+          "next": "9"
+        },
+        {
+          "label": "PK met 3 äquatorialen Lacunae (Tafel 95: 4-6).",
+          "outcome": {
+            "text": "29.6 *Tragopogon* (S. 421)"
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 1 großen polaren Lacuna in jedem Polarbereich (Tafel 95: 7-9).",
+          "outcome": {
+            "text": "29.7 *Scorzonera hispanica* (S. 421)"
+          }
+        },
+        {
+          "label": "Polarbereiche met je 1(2)2-3(4) Lacunae oder ohne Lacunae (Tafel 95: 10-12).",
+          "outcome": {
+            "text": "29.8 *Scorzonera laciniata*-Typ (S. 421)"
+          }
+        }
+      ]
+    }
+  }
+}

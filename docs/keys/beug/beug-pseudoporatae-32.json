@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "key": "beug_pseudoporatae_32",
+    "title": "32 Pseudoporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §32 Pseudoporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 3-7 poriën, Exine 1,8-2,2 µm dick (Tafel 94: 10-12).",
+          "outcome": {
+            "text": "32.1 *Potentilla argentea*-Typ (S. 412)"
+          }
+        }
+      ]
+    }
+  }
+}

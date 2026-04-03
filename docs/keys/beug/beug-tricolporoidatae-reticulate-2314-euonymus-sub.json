@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_2314_euonymus_sub",
+    "title": "23.14 Euonymus (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.14 Euonymus. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "outcome",
+      "outcome": {
+        "text": "23.14 *Euonymus* (blz. 379)"
+      }
+    }
+  }
+}

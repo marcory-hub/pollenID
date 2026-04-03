@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "key": "beug_stephanoporatae_32",
+    "title": "32 Stephanoporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §32 Stephanoporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 13,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat of scabraat, met oder ohne Tectum perforatum.",
+          "next": "2"
+        },
+        {
+          "label": "PK echinaat, microechinaat, reticulaat oder rugulaat, wenn scabraat, dann Skulpturelemente mit nur 1-2 µm Abstand.",
+          "next": "12"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit Tectum perforatum, dicker Endexine und deutlicher Columellae-Schicht (Tafel 102: 22-25).",
+          "outcome": {
+            "text": "32.1 *Theligonum cynocrambe* (S. 442)"
+          }
+        },
+        {
+          "label": "Tectum nicht perforiert.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK zusätzlich mit einzelnen Poren auf einem Polarfelder, oblat (Tafel 103: 5-9).",
+          "outcome": {
+            "text": "32.2 *Juglans* (S. 442)"
+          }
+        },
+        {
+          "label": "PK ohne zusätzliche Poren auf einem Polarfelder.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK auf beiden Polarfeldern mit bogenförmigen, von Pore zu Pore verlaufenden Verdickungen des Tectums (Arcus), wenn ohne Arcus, dann mit einem Knick in der Exine anstelle der Arcus (Tafel 102: 8-21).",
+          "outcome": {
+            "text": "32.3 *Alnus* (S. 444)"
+          }
+        },
+        {
+          "label": "PK ohne Arcus und ohne Knick in der Exine anstelle der Arcus.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, Exine 1,7-1,9 µm dick, mit dickem Tectum und dünner Columellae-Schicht. Poren 3,5-4,5 µm groß, mit Anulus (Tafel 103: 1-4).",
+          "outcome": {
+            "text": "32.4 *Celtis* (S. 446)"
+          }
+        },
+        {
+          "label": "Tectum nicht auffällig dick, Columellae nicht erkennbar.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK mit Vestibulum.",
+          "next": "7"
+        },
+        {
+          "label": "PK ohne Vestibulum, Poren mit einem stark oder wenig stark vorspringenden Anulus oder ohne Anulus.",
+          "next": "8"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 34-42 µm groß, mit 5-6(7) Poren und (Phasenkontrast) runden, ca. 0,5 µm großen Skulpturelementen (Microverrucae), Polarfelder mit je 2-3 ca. 8-10 µm großen, lacunae-artigen Eindellungen (Tafel 103: 10-15).",
+          "outcome": {
+            "text": "32.5 *Pterocarya* (S. 448)"
+          }
+        },
+        {
+          "label": "PK 37-48 µm groß, mit 3-5(6) Poren, Exine psilat, Polarfelder ohne lacunae-artige Eindellungen (Tafel 104: 5-7).",
+          "outcome": {
+            "text": "32.6 *Carpinus betulus* (S. 448)"
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endexine auf der Innenseite rauh bis schollig, insbesondere im Bereich der Porenumrandung (Costae), Poren mit Anulus, oft deutlich vorstehend (Tafel 104: 1-3).",
+          "outcome": {
+            "text": "32.7 *Nerium oleander* (S. 448)"
+          }
+        },
+        {
+          "label": "Endexine auf der Innenseite glatt.",
+          "next": "9"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine höchstens ca. 0,8 µm dick, Poren mit schmalem Anulus, oder mit einer schwachen Aufbiegung der Porenumrandungen oder ohne Anulus (Tafel 101: 17-29).",
+          "outcome": {
+            "text": "*Urticaceae*, *Moraceae* (S. 436)"
+          }
+        },
+        {
+          "label": "Exine dicker, Poren met zeer breitem und dickem Anulus.",
+          "next": "10"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren mehr oder weniger gleichmäßig am Äquator angeordnet.",
+          "next": "11"
+        },
+        {
+          "label": "PK in Polaransticht mit 2 miteinander gegenüber liegenden Gruppen von (1)2-3(4) Poren (Tafel 104: 8-12).",
+          "outcome": {
+            "text": "32.8 *Myriophyllum alterniflorum* (S. 448)"
+          }
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Verdickung der Anuli erfolgt abrupt (Tafel 104: 13-16).",
+          "outcome": {
+            "text": "32.9 *Myriophyllum spicatum* (S. 448)"
+          }
+        },
+        {
+          "label": "Verdickung der Anuli erfolgt allmählich (Tafel 104: 17-18).",
+          "outcome": {
+            "text": "32.10 *Myriophyllum verticillatum* (S. 448)"
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat, microechinaat oder scabraat, Poren mit auffälligen Costae (Tafel 105: 1-18).",
+          "next": "beug_stephanoporatae_3211_campanulaceae_sub"
+        },
+        {
+          "label": "PK rugulaat oder reticulat.",
+          "next": "13"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sphäroidisch (PFormI <1,0), perreticulat, Brochi 0,8-1,4(1,8) µm groß, Exine mit Columellae-Schicht (Tafel 104: 19-22).",
+          "outcome": {
+            "text": "32.12 *Pistacia* (S. 453)"
+          }
+        },
+        {
+          "label": "PK oblat, rugulaat oder mit bis zu 2-5 µm großen suprareticulaten, oft unvollständig geschlossenen Brochi, Umrandung der Poren verdickt, Columellae-Schicht fehlt (Tafel 105: 19-25).",
+          "outcome": {
+            "text": "32.13 *Ulmus*, *Zelkova* (S. 454)"
+          }
+        }
+      ]
+    }
+  }
+}

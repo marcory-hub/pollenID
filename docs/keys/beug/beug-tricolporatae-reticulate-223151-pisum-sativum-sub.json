@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_223151_pisum_sativum_sub",
+    "title": "22.31.5.1 Pisum sativum (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.31.5.1 Pisum sativum. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriëndurchmesser 9-10 µm, PK 53-59 µm groot, PFormI 1,8-2,1 (Tafel 78: 15-19).",
+          "outcome": {
+            "text": "22.31.5.1 *Pisum sativum* (blz. 354)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

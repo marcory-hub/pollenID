@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "key": "beug_stephanocolpatae_24",
+    "title": "24. Stephanocolpatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §24 Stephanocolpatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 17,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK reticulaat, endo-reticulaat, microreticulaat, retipilaat, rugulaat, psilaat of scabraat.",
+          "next": "3"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 3(4-5(6) equatoriaal verlaufenden Colpi (Tafel 84: 1-6).",
+          "outcome": {
+            "text": "24.1 *Euryale ferox* (S. 381)"
+          }
+        },
+        {
+          "label": "PK met 3 kurzen en langen, meridionale geordnete Colpi (Tafel 84: 7-11).",
+          "outcome": {
+            "text": "24.2 *Arceuthobium oxycedri* (S. 381)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 6 Colpi, waarvan elke tweede een contrastrijk kornig aufgelöste Intercolpium-Ränder angrenzt (Tafel 84: 12-18).",
+          "outcome": {
+            "text": "24.3 *Phacelia tanacetifolia* (S. 382)"
+          }
+        },
+        {
+          "label": "Intercolpium-Ränder gleichartig.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK (endo-)reticulaat of (endo-)microreticulaat; retipilaat en met 2-4 µm breiten, onduidelijk begrenzten en ausgebildeten Intercolpium-Rändern (Tafel 5: 1-5).",
+          "outcome": {
+            "text": "*Callitriche palustris*-Typ (S. 424)"
+          }
+        },
+        {
+          "label": "PK met andere kenmerken.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpium-Ränder verdickt, aperturen kurz; vgl. Stephanoporatae, S. 441.",
+          "next": "6"
+        },
+        {
+          "label": "Intercolpium-Ränder niet verdickt.",
+          "next": "7"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sabraat, psilaat, zwak verrucaat of zwak rugulaat.",
+          "next": "7"
+        },
+        {
+          "label": "PK reticulaat of endo-microreticulaat.",
+          "outcome": {
+            "text": "Geen match. Zie Stephanoporatae (blz. 441) [te verifiëren]"
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 4 contrastarme Colpi en met middelgrote tot grote polarfelder, 33-60 µm groot, scabraat en zwak verrucaat of zwak rugulaat; vgl. Scopolia, S. 204 of Datura, S. 270.",
+          "outcome": {
+            "text": "24.4 *Rubiaceae* (S. 382)"
+          }
+        },
+        {
+          "label": "PK kleiner, met 6 of meer contrastrijke Colpi (Tafel 84: 19-25).",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine über 2 µm en bis 3,5 µm dick.",
+          "next": "9"
+        },
+        {
+          "label": "Exine bis 2 µm dick.",
+          "next": "10"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 6 Colpi, in equatoriale aanzicht rond tot elliptisch, Columellae duidelijk (Tafel 84: 26-28, Tafel 85: 1-3).",
+          "outcome": {
+            "text": "24.5 *Lavandula angustifolia* (S. 384)"
+          }
+        },
+        {
+          "label": "PK met 4(5) Colpi, in equatoriale aanzicht vierhoekig, Columellae niet herkenbaar (Tafel 85: 4-8).",
+          "outcome": {
+            "text": "24.6 *Sideritis hyssopifolia* (S. 384)"
+          }
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi nur 2,5-3 maal zo lang als breed, PK oblaat, heteropolar: distale en proximale zijde verschillend gewelfd (Tafel 104: 19-22).",
+          "outcome": {
+            "text": "*Pistacia* (S. 453)"
+          }
+        },
+        {
+          "label": "Colpi um ein vielfaches länger als breit, PK niet heteropolar.",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi met duidelijk Columellae.",
+          "next": "12"
+        },
+        {
+          "label": "Brochi zonder Columellae, hoogstens gelegen bij een dieper optisch vlak (F3) als afzonderlijke donkere punten in de Muri of per endo-microreticulaat.",
+          "outcome": {
+            "text": "Geen match."
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpium-Ränder alle gleich breit of PK met 3 bredere en 3 smallere Intercolpiën (Polaraanzicht).",
+          "next": "13"
+        },
+        {
+          "label": "Twee tegenover elkaar liggende Intercolpiën zijn duidelijk breder dan de overige 4 (Polaraanzicht).",
+          "next": "14"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 0,3-1,5 µm, indien groter, dan Columellae nur onder den Muri (wanneer Muri en Columellae in het Phasenkontrastbeeld contrastzwak zijn, vgl. Rubiaceae, S. 382), Tectum der Lumina zonder microbrochi of met 2-3 microbrochi (Tafel 85: 9-17).",
+          "outcome": {
+            "text": "24.7 *Mentha*-Typ (S. 386)"
+          }
+        },
+        {
+          "label": "Größere Brochi (Makrobrochi) über 2 und bis 5(7) µm (ggf. Phasenkontrast), Tectum der Lumina microreticulaat en meestal met mehr als 4 microbrochi per Lumen, Columellae gleichmäßig verdeeld, d.w.z. ook innerhalb der Makrobrochi (Tafel 85: 18-25).",
+          "outcome": {
+            "text": "24.8 *Prunella*-Typ (S. 386)"
+          }
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi bis 1,5 µm groot, Lumina met weinige microbrochi (2-4), PK ca. 20-30 µm groot (Tafel 86: 1-4).",
+          "outcome": {
+            "text": "24.9 *Salvia verticillata* (S. 387)"
+          }
+        },
+        {
+          "label": "Brochi stets über 2 µm groß, grootste Brochi bis 4 µm, Lumina met talrijke microbrochi, PK ca. 27-72 µm groot (Tafel 86: 5-13).",
+          "next": "beug_stephanocolpatae_2410_salvia_pratensis_gruppe_sub"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi bis 1 µm groot, PK in polaraanzicht rond.",
+          "next": "16"
+        },
+        {
+          "label": "Brochi 1-5 µm groot, PK in polaraanzicht langgestrekt (Tafel 87: 1-6).",
+          "outcome": {
+            "text": "24.11 *Impatiens* (S. 388)"
+          }
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi 3-7 µm breit (Tafel 86: 14-17).",
+          "outcome": {
+            "text": "24.12 *Hippuris vulgaris* (S. 388)"
+          }
+        },
+        {
+          "label": "Colpi zeer smal.",
+          "next": "17"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK tectaat, Brochi vaak onduidelijk, Exine 1,2-1,8 µm dick. Colpi meestal duidelijk ingezonken, Intercolpiën in polaraanzicht meestal sterker gekrümmt als der Umriß der PK (Tafel 84: 19-25).",
+          "outcome": {
+            "text": "24.4 *Rubiaceae* (S. 382)"
+          }
+        },
+        {
+          "label": "PK intectaat, Brochi steeds duidelijk, Exine meestal bis 1 µm dick, zelden dicker. Colpi nur schwach ingezonken, Intercolpium-Ränder in polaraanzicht meestal niet sterker gekrümmt als der Umriß der PK (Tafel 87: 7-22).",
+          "next": "beug_stephanocolpatae_2413_primula_veris_gruppe_sub"
+        }
+      ]
+    }
+  }
+}

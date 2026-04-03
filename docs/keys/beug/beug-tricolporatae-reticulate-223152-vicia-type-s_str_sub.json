@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_223152_vicia_type_s_str_sub",
+    "title": "22.31.5.2 Vicia-type s.str. (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.31.5.2 Vicia-type s.str.. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriëndurchmesser bis 8 µm, PK tussen 32 en 54 µm groot, PFormI tussen 1,3 en 2,5 (Tafel 79: 8-10).",
+          "outcome": {
+            "text": "22.31.5.2 *Vicia*-type s.str. (blz. 355)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

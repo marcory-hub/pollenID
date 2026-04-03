@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_231_sambucus_nigra_type_sub",
+    "title": "23.1 Sambucus nigra-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.1 Sambucus nigra-type. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK homobrochaat, Brochi bis ca. 1,2 µm groot (Tafel 79: 11-16).",
+          "outcome": {
+            "text": "23.1 *Sambucus nigra*-Typ (blz. 362)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_2312_genista_gruppe_sub",
+    "title": "23.12 Genista-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.12 Genista-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 7,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Sculpturering rugulaat met tendensen naar een rugulaat-reticulate sculpturering, ook additioneel fossulaat, sculpturering meestal contrastzwak.",
+          "next": "2"
+        },
+        {
+          "label": "Sculpturering suprareticulaat, brochi kleiner of groter dan 1 µm.",
+          "next": "4"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK groot, psilaat-scabraat.",
+          "outcome": {
+            "text": "*Medicago sativa*-Typ (S. 207)"
+          }
+        },
+        {
+          "label": "PK rugulaat en fossulaat tot microreticulaat.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 24-33 µm groot, elementen van de rugulaten sculpturering los gesteld, fossulate sculpturering daardoor duidelijk (Tafel 80: 1-5).",
+          "outcome": {
+            "text": "*Laburnum* (S. 363)"
+          }
+        },
+        {
+          "label": "PK 30-40 µm groot, elementen van de rugulaten sculpturering dicht gesteld, vaak vernetzt (Tafel 80: 6-9).",
+          "outcome": {
+            "text": "*Robinia pseudoacacia* (S. 363)"
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae in Aufsicht op den Intercolpiën en den Polarfeldern herkenbaar (Phasenkontrastbild).",
+          "next": "5"
+        },
+        {
+          "label": "Columellae niet of nur polair en subpolair herkenbaar.",
+          "next": "6"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri deutlich breiter als der Durchmesser der Lumina, PK 35-45 µm groot, dikwandig, kugelig (Tafel 82: 8-11).",
+          "outcome": {
+            "text": "23.12.1 *Spartium junceum* (S. 374)"
+          }
+        },
+        {
+          "label": "Breite der Muri deutlich kleiner als der Durchmesser der Lumina (Tafel 82: 12-14).",
+          "outcome": {
+            "text": "23.12.2 *Lupinus* (S. 374)"
+          }
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat-rugulaat tot reticulaat, met wulstigen, tot 1 µm breiten Muri en ronde tot langgestrekte, 0,5-1,5 µm grote Lumina. Durchmesser der Lumina vaak kleiner als de Breite der Muri. Columellae in Aufsicht in het Phasenkontrastbild niet of nur polair herkenbaar, polarfelder zonder sculpturering (Tafel 83: 7-9).",
+          "outcome": {
+            "text": "23.12.3 *Medicago lupulina*-Typ (S. 376)"
+          }
+        },
+        {
+          "label": "PK reticulaat, Muri relatief contrastrijk, niet wulstig en niet breiter als der Durchmesser der Lumina.",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarfelder middelgroot, Brochi op den Polarfeldern kleiner als op den Intercolpiën, Columellae nur polair en subpolair in Aufsicht (Phasenkontrastbild) herkenbaar (Tafel 83: 1-6).",
+          "outcome": {
+            "text": "23.12.4 *Cytisus*-Typ (S. 376)"
+          }
+        },
+        {
+          "label": "Polarfelder klein, Brochi op den Polarfeldern meestal niet kleiner als op den Intercolpiën. Columellae auch polair en subpolair in Aufsicht niet herkenbaar (Tafel 82: 15-19).",
+          "outcome": {
+            "text": "23.12.5 *Genista*-Typ (S. 378)"
+          }
+        }
+      ]
+    }
+  }
+}

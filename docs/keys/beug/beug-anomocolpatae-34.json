@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "key": "beug_anomocolpatae_34",
+    "title": "34 Anomocolpatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §34 Anomocolpatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 2,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat (Tafel 94: 15-18).",
+          "outcome": {
+            "text": "34.1 *Cistus incanus*-Typ (S. 412)"
+          }
+        },
+        {
+          "label": "PK niet echinaat.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 3 poriën (Tafel 94: 19-21).",
+          "outcome": {
+            "text": "34.2 *Cerinthe* (S. 413)"
+          }
+        },
+        {
+          "label": "PK met 4 poriën (Tafel 94: 22-24).",
+          "outcome": {
+            "text": "34.3 *Lithospermum officinale*-Typ (S. 413)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "key": "beug_panporatae_29",
+    "title": "29 Panporatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §29 Panporatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 3-10 poriën.",
+          "outcome": {
+            "text": "29.1 *Plantago maior*-Typ (S. 410)"
+          }
+        }
+      ]
+    }
+  }
+}

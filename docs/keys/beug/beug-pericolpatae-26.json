@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "key": "beug_pericolpatae_26",
+    "title": "26 Pericolpatae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §26 Pericolpatae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 9,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat (Tafel 91: 14-20).",
+          "outcome": {
+            "text": "26.1 *Koenigia islandica* (S. 405)"
+          }
+        },
+        {
+          "label": "PK niet echinaat.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat, wanneer PK met breiten Margines, vergl. 26.5 *Montia fontana*.",
+          "next": "6"
+        },
+        {
+          "label": "PK niet reticulaat, höchstens rugulaat-reticulaat of microechinaat: PK met 12 Colpen (*Montia, Spergula arvensis*) of 6 Colpen (*Corydalis*-Gruppe) in regel- und/oder unregelmäßiger (*Cuscuta* p.p.) Anordnung.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK kugelig, 50-70 µm groß, met 30 schmalen Colpen (Tafel 91: 11-13).",
+          "outcome": {
+            "text": "26.2 *Persicaria amphibia* (S. 405)"
+          }
+        },
+        {
+          "label": "PK kleiner als 45 µm oder langgestreckt und met wenigen undeutlichen Colpen.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK rund, homopolar.",
+          "next": "5"
+        },
+        {
+          "label": "PK langgestreckt, spitz gleichschenklig-dreieckig oder stumpf dreieckig-sackförmig met 4-6 Colpen in paralleler Anordnung und einem Colpus oder Porus auf der kurzen Seite des gleichschenkligen Dreiecks (Tafel 116: 14-17, Tafel 117, Tafel 118: 1-7).",
+          "outcome": {
+            "text": "*Cyperaceae* (S. 404)"
+          }
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 3,5-4 µm dick, PK met 6 Colpen, in einigen Fällen met unregelmäßig verteilten Colpen (Tafel 91: 21-24).",
+          "outcome": {
+            "text": "26.3 *Cuscuta lupuliformis* (S. 405)"
+          }
+        },
+        {
+          "label": "Exine 1,0-1,2 µm dick, PK met 6-8 breiten, engesenkten und körnig bekleideten Colpen (Tafel 92: 1-4).",
+          "outcome": {
+            "text": "26.4 *Cercidiphyllum* (S. 405)"
+          }
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK marginat, microechinaat. Margines 5 µm breit, Exine und Columellae hier dünner (Tafel 92: 5-9).",
+          "outcome": {
+            "text": "26.5 *Montia fontana* (S. 405)"
+          }
+        },
+        {
+          "label": "PK niet marginat.",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK rugulat, rugulat-reticulaat, verrucat oder fossulat (Tafel 92: 10-19).",
+          "next": "beug_pericolpatae_266_corydalis_gruppe_sub"
+        },
+        {
+          "label": "PK psilaat of scabraat.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK scabraat (microechinaat); die Skulpturelemente stehen ausschließlich über 0,6-1,0 µm dicken Columellae (Tafel 92: 20-23).",
+          "outcome": {
+            "text": "26.7 *Pulsatilla alpina* (S. 408)"
+          }
+        },
+        {
+          "label": "Skulpturelemente nicht an die Lage von Columellae gebunden oder PK psilaat.",
+          "next": "9"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine meist 2,0-3,0 µm dick, Columellae meist 0,5-0,8 µm dick, Anordnung der Colpen tetraedrisch oder unregelmäßig, Tectum mit einzelnen Perforationen.",
+          "outcome": {
+            "text": "26.8 *Cuscuta* p.p. (S. 408)"
+          }
+        },
+        {
+          "label": "PK met Tectum perforatum, met 12 Colpen in regelmäßiger Anordnung, Exine 1,5-2,0 µm dick, Columellae ca. 0,7 µm dick (Tafel 93: 1-5).",
+          "outcome": {
+            "text": "26.9 *Spergula arvensis* (S. 408)"
+          }
+        }
+      ]
+    }
+  }
+}

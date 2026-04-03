@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_periporatae_3311_polemonium_sub",
+    "title": "33.11 Polemonium (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.11 Polemonium. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striat, mit vereinzelten Anastomosen zwischen den Valla (Tafel 114: 11-13).",
+          "outcome": {
+            "text": "33.11.1 *Polemonium caeruleum*"
+          }
+        },
+        {
+          "label": "PK striat-reticulat (Tafel 114: 14-17).",
+          "outcome": {
+            "text": "33.11.2 *Polemonium boreale*"
+          }
+        }
+      ]
+    }
+  }
+}

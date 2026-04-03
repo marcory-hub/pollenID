@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_236_lobelia_dortmanna_sub",
+    "title": "23.6 Lobelia dortmanna (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.6 Lobelia dortmanna. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Breite der Muri meist geringer als der Durchmesser der Lumina, PK 25-32 µm groß, meist rhomboïdisch, selten elliptisch (Tafel 80: 10-15).",
+          "outcome": {
+            "text": "23.6 *Lobelia dortmanna* (blz. 364)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

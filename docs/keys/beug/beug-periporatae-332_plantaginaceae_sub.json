@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "key": "beug_periporatae_332_plantaginaceae_sub",
+    "title": "33.2 Plantaginaceae (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §33.2 Plantaginaceae. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 6,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren kontrastscharf begrenzt (Hellfeld), met oder ohne Anulus.",
+          "next": "3"
+        },
+        {
+          "label": "Poren kontrastarm (Hellfeld) begrenzt.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK (32)33-44 µm (Tafel 106: 4-6).",
+          "outcome": {
+            "text": "33.2.1 *Litorelly-Typ* (S. 458)"
+          }
+        },
+        {
+          "label": "PK 21-32(34) µm (Tafel 106: 7-13).",
+          "outcome": {
+            "text": "33.2.2 *Plantago major-media*-Typ (S. 458)"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poren mit Anulus, Anulus als geschlossener Ring mit glattem oder gelapptem Außenrand oder als eine deutlich verdicktete Zone von Verrucae ausgebildet.",
+          "next": "5"
+        },
+        {
+          "label": "Poren ohne Anulus; im Phasenkontrastbild kann um die Poren herum eine Zone mit etwas dickeren oder verdichteten Verrucae sichtbar sein.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 32-45 µm groß, Opercula meist scheibenförmig (Tafel 106: 14-16).",
+          "outcome": {
+            "text": "33.2.3 *Plantago albicans* (S. 460)"
+          }
+        },
+        {
+          "label": "PK 20-26 µm groß, Opercula körnig ausgebildet (Tafel 107: 1-4).",
+          "outcome": {
+            "text": "33.2.4 *Plantago tenuiflora*-Typ (S. 460)"
+          }
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Opercula scheibenförmig, glatt (Tafel 107: 4-9).",
+          "outcome": {
+            "text": "33.2.5 *Plantago lanceolata*-Typ (S. 460)"
+          }
+        },
+        {
+          "label": "Opercula bzw. Porenmembranen körnig ausgebildet.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus als geschlossener, glatter oder außen etwas gelappter, im optischen Schnitt meist als deutliche Verdickung der Exine erkennbar (Tafel 107: 10-14).",
+          "outcome": {
+            "text": "33.2.6 *Plantago coronopus*-Typ (S. 462)"
+          }
+        },
+        {
+          "label": "Anulus flach, z.T. erst im Phasenkontrastbild deutlich erkennbar, Außenrand deutlich gelappt und/oder aus größeren und dickeren Verrucae zusammengesetzt und daher stellenweise unterbrochen (Tafel 107: 15-18).",
+          "outcome": {
+            "text": "33.2.7 *Plantago maritima*-Typ (S. 462)"
+          }
+        }
+      ]
+    }
+  }
+}

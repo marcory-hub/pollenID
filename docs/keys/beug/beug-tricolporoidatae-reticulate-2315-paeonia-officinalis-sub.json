@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_2315_paeonia_officinalis_sub",
+    "title": "23.15 Paeonia officinalis (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.15 Paeonia officinalis. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "outcome",
+      "outcome": {
+        "text": "23.15 *Paeonia officinalis* (blz. 379)"
+      }
+    }
+  }
+}

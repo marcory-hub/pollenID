@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporoidatae_reticulate_233_adoxa_moschatellina_sub",
+    "title": "23.3 Adoxa moschatellina (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §23.3 Adoxa moschatellina. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine in het midden van de Intercolpiën equatoriaal bis 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
+          "outcome": {
+            "text": "23.3 *Adoxa moschatellina* (blz. 363)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

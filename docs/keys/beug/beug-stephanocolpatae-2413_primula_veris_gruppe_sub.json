@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "key": "beug_stephanocolpatae_2413_primula_veris_gruppe_sub",
+    "title": "24.13 Primula veris-Gruppe (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §24.13 Primula veris-Gruppe. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi recht, zonder of met niet noemenswaardige equatoriale versmalling, PK sferoïdisch (Tafel 87: 7-15).",
+          "outcome": {
+            "text": "24.13.1 *Primula veris*-Typ"
+          }
+        },
+        {
+          "label": "Colpi equatoriaal versmald of s-vormig gebogen, PK prolaat, met 4 Colpi, PK sferoïdisch tot prolaat, PFormI 1,11-1,53 (Tafel 87: 16-22).",
+          "outcome": {
+            "text": "24.13.2 *Primula halleri*"
+          }
+        }
+      ]
+    }
+  }
+}
