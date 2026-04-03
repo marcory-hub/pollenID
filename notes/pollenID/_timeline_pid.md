@@ -1,1 +1,1 @@
-2026-04-02: Implemented Beug §22.23 Rumex scutatus-type sub-key, including JSON data file, Markdown page, and updates to parent key and _index.md.
+2026-04-02: Implemented Beug §22.17.1 Viburnum opulus-type sub-key and §22.17.2 Viburnum lantana sub-key, including JSON data files, Markdown pages, and updates to the parent key and _index.md.

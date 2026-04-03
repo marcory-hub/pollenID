@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2231_fabaceae_pp_sub",
+    "title": "22.31 Fabaceae p.p. (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.31 Fabaceae p.p.. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1-4,5 µm groot, columellae alleen polair en subpolair of niet herkenbaar, nooit meerrijig onder de muri (Tafel 77: 1-22, Tafel 78: 1-19, Tafel 79: 1-10).",
+          "outcome": {
+            "text": "22.31 *Fabaceae* p.p. (blz. 344)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

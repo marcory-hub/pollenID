@@ -4,7 +4,7 @@
     "title": "22.17 Viburnum (Beug) — interactieve sleutel (NL)",
     "locale": "nl",
     "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.17 Viburnum. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
-    "stepCount": 1,
+    "stepCount": 2,
     "start": "1"
   },
   "start": "1",
@@ -14,16 +14,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae eenrijig, PK 23-35 µm groot, poolfelder klein, PFormI 1,1-1,3 (wanneer poriën duidelijk equatoriaal gestrekt, spits toelopend en/of met ingescheurde randen, PFormI tot 1,8-1,9 en onduidelijke columellae, vgl. 21.16. *Lysimachia vulgaris*-type) (Tafel 73: 18-23, Tafel 74: 1-8).",
-          "outcome": {
-            "text": "22.17 *Viburnum* (blz. 336)"
-          }
+          "label": "Brochi max. 2-2,5 µm groot, Columellae dun (ca. 0,5 µm), kleinreticulate Margines meestal aanwezig, Poriën meestal goed herkenbaar.",
+          "next": "beug_tricolporatae_reticulate_22171_viburnum_opulus_type_sub"
         },
         {
-          "label": "Columellae meerrijig onder de muri.",
-          "outcome": {
-            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
-          }
+          "label": "Brochi maximaal 4-5 µm groot, Columellae dik (ca. 1 µm), Margines zijn nauwelijks ontwikkeld of ontbreken, Poriën vaak onduidelijk, vaak is alleen een equatoriale vernauwing van de Colpen herkenbaar.",
+          "next": "beug_tricolporatae_reticulate_22172_viburnum_lantana_sub"
         }
       ]
     }

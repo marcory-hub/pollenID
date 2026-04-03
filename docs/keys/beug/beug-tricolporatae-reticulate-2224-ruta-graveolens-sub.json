@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2224_ruta_graveolens_sub",
+    "title": "22.24 Ruta graveolens (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.24 Ruta graveolens. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK apiculaat tot rhomboïdisch, porieranden meridionaal met verdikkingen (Tafel 75: 21-28).",
+          "outcome": {
+            "text": "22.24 *Ruta graveolens* (blz. 342)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2228_fagopyrum_sub",
+    "title": "22.28 Fagopyrum (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.28 Fagopyrum. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK zonder margines (Tafel 76: 7-10).",
+          "outcome": {
+            "text": "22.28 *Fagopyrum* (blz. 343)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

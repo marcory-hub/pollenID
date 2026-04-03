@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_22171_viburnum_opulus_type_sub",
+    "title": "22.17.1 Viburnum opulus-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.17.1 Viburnum opulus-type. PK = pollenkorrel. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi max. 2-2,5 µm groot, Columellae dun (ca. 0,5 µm), kleinreticulate Margines meestal aanwezig, Poriën meestal goed herkenbaar.",
+          "outcome": {
+            "text": "22.17.1 *Viburnum opulus*-type (blz. 336)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}

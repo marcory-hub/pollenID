@@ -67,7 +67,7 @@
 ### Tricolpatae
 - PK met psilaten, scabraten, verrucaten of microverrucaten sculpturen
     - [Tricolpatae (psilaat, scabraat, verrucaat, microverrucaat) — interactieve sleutel](beug-tricolpatae-psilate.md)
-        - [13.4 Aconitum-groep — interactieve sleutel](beug-tricolpatae-psilate-134-aconitum.md)
+        - [13.4 Aconitum-groep — interactieve sleutel](beug-tricolporatae-psilate-134-aconitum.md)
         - [13.11 Alchemilla-groep — interactieve sleutel](beug-tricolporatae-psilate-1311-alchemilla.md)
         - [13.23 Teucrium — interactieve sleutel](beug-tricolporatae-psilate-1323-teucrium.md)
         - [13.36 Papaver rhoeas-groep — interactieve sleutel](beug-tricolporatae-psilate-1336-papaver.md)
@@ -104,11 +104,11 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
     - [16.6 Linum — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-clavate-166-linum.md)
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
     - PK mit echinaten Skulpturen
-- [Tricolpatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-echinate-sculpturen.md)
+- [Tricolporatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-echinate-sculpturen.md)
 
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
     - PK mit striaten, striat-reticulaten of rugulaten Skulpturen
-- [Tricolpatae, Tricolporoidatae en Tricolporatae (striate, striat-reticulate of rugulate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-striate.md)
+- [Tricolporatae, Tricolporoidatae en Tricolporatae (striate, striat-reticulate of rugulate sculpturen) — interactieve sleutel](beug-tricolporatae-tricolporoidatae-tricolporatae-striate.md)
 
 ### Tricolpatae
     - PK met reticulate of microreticulate sculpturen
@@ -137,12 +137,22 @@ Stuifmeelkorrels met 3 colpi, deze altijd met elk een extra equatoriale apertuur
     - [22.15 Parnassia palustris — interactieve sleutel](beug-tricolporatae-reticulate-2215-parnassia-palustris-sub.md)
     - [22.16 Lysimachia vulgaris-type — interactieve sleutel](beug-tricolporatae-reticulate-2216-lysimachia-vulgaris-type-sub.md)
     - [22.17 Viburnum — interactieve sleutel](beug-tricolporatae-reticulate-2217-viburnum-sub.md)
+        - [22.17.1 Viburnum opulus-type — interactieve sleutel](beug-tricolporatae-reticulate-22171-viburnum-opulus-type-sub.md)
+        - [22.17.2 Viburnum lantana — interactieve sleutel](beug-tricolporatae-reticulate-22172-viburnum-lantana-sub.md)
     - [22.18 Sterculia — interactieve sleutel](beug-tricolporatae-reticulate-2218-sterculia-sub.md)
     - [22.19 Staphylea pinnata — interactieve sleutel](beug-tricolporatae-reticulate-2219-staphylea-pinnata-sub.md)
     - [22.20 Echium — interactieve sleutel](beug-tricolporatae-reticulate-2220-echium-sub.md)
     - [22.21 Rheum — interactieve sleutel](beug-tricolporatae-reticulate-2221-rheum-sub.md)
     - [22.22 Rumex acetosa-type — interactieve sleutel](beug-tricolporatae-reticulate-2222-rumex-acetosa-type-sub.md)
     - [22.23 Rumex scutatus-type — interactieve sleutel](beug-tricolporatae-reticulate-2223-rumex-scutatus-type-sub.md)
+    - [22.24 Ruta graveolens — interactieve sleutel](beug-tricolporatae-reticulate-2224-ruta-graveolens-sub.md)
+    - [22.25 Ptelea trifoliata — interactieve sleutel](beug-tricolporatae-reticulate-2225-ptelea-trifoliata-sub.md)
+    - [22.26 Anagallis-type — interactieve sleutel](beug-tricolporatae-reticulate-2226-anagallis-type-sub.md)
+    - [22.27 Androsace maxima — interactieve sleutel](beug-tricolporatae-reticulate-2227-androsace-maxima-sub.md)
+    - [22.28 Fagopyrum — interactieve sleutel](beug-tricolporatae-reticulate-2228-fagopyrum-sub.md)
+    - [22.29 Rumex tenuifolius-type — interactieve sleutel](beug-tricolporatae-reticulate-2229-rumex-tenuifolius-type-sub.md)
+    - [22.30 Hypericum elodes — interactieve sleutel](beug-tricolporatae-reticulate-2230-hypericum-elodes-sub.md)
+    - [22.31 Fabaceae p.p. — interactieve sleutel](beug-tricolporatae-reticulate-2231-fabaceae-pp-sub.md)
 
 ### Tricolpatae, Tricolporoidatae und Tricolporatae
     - PK mit foveolaten bis scrobiculaten Skulpturen

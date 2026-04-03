@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "key": "beug_tricolporatae_reticulate_2229_rumex_tenuifolius_type_sub",
+    "title": "22.29 Rumex tenuifolius-type (Beug) — interactieve sleutel (NL)",
+    "locale": "nl",
+    "source": "Vertaling (Duits → Nederlands) van door gebruiker aangeleverde paginascans bij Beug §22.29 Rumex tenuifolius-type. PK = pollenkorrel, PFormI = pollenvormindex. Afbeeldingen niet opgenomen.",
+    "stepCount": 1,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,1-1,5 µm groot, lumina met perforaties, PK sferoïdisch, PFormI ongeveer 1,0, PK met kleine ronde poriën (Tafel 120: 5-7).",
+          "outcome": {
+            "text": "22.29 *Rumex tenuifolius*-type (blz. 344)"
+          }
+        },
+        {
+          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+        }
+      ]
+    }
+  }
+}
