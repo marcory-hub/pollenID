@@ -62,7 +62,9 @@ Before architectural or roadmap answers:
   - **`steps`**: object keyed by step id strings. Each step: `id`, `type` (`"step"`), `choices` (array). Optional: step `note`.
   - **Each choice**: `label` (string); exactly one of **`next`** (string: next step id **in the same JSON file**) or **`outcome`** with **`text`**; optional **`outcome.incomplete`**. Optional: **`image`**, **`imageWidthPx`**.
   - **Markup in strings**: paired `*…*` for emphasis in labels and outcomes; in outcomes, `[label](url)` is turned into a link **only** for `http:` / `https:` URLs (see **`docs/javascripts/vdh-pollentabel.js`**).
+Note:  beug03-polyadeae.md and beug05-dyade.md do NOT contain links to json file! Do not change these files.
 
 ## 6. Conflict handling
 1. Prefer verified palynological statements over speculation.
 2. Flag mismatches between `notes/` and `docs/` when you detect them.
+3. Ask user.

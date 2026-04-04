@@ -6,11 +6,23 @@
   margin: 0.6rem 0 1rem;
 }
 
+/* Material: .md-typeset figure { margin: 1em auto }. Auto L/R on flex children
+   eats free space and spreads figures across the row; reset for pollen rows. */
+.md-typeset .pid-scale-gallery figure.pid-scale-item {
+  margin: 0;
+}
+
 .pid-scale-row {
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;
   align-items: flex-end;
+  justify-content: flex-start;
+}
+
+/* Keep items content-sized; theme resets sometimes give figure { flex: 1 }. */
+.pid-scale-row > .pid-scale-item {
+  flex: 0 0 auto;
 }
 
 .pid-scale-row.pid-scale-row--snug {

@@ -14,7 +14,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 20-38 µm groot, Poriën unscharf begrenzt (Tafel 114: 18-20).",
+          "label": "PK 20-38 µm groot, poren unscharf begrenzt (Tafel 114: 18-20).",
           "outcome": {
             "text": "33.13.1 *Daphne*"
           }
