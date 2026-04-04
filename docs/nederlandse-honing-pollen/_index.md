@@ -8,7 +8,7 @@ Image scale (2,5*size )
 #### Calluna vulgaris (struikheide)
 - Bloeiperiode: juli-september
 - Waarde: N 5, P 5
-- [Heidehoning](monoflorale-honing-pollen/heidehoning.md), zomerhoning
+- [Heidehoning](../monoflorale-honing-pollen/heidehoning.md), zomerhoning
 - Pollen: unit 50 µm, tetrade, verrucaat 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -75,6 +75,7 @@ Image scale (2,5*size )
 04 ##### Pieris Andromeda)
 #### Vaccinium corymb (blauwe bes)
 
+4.1 Catalpa ovata | catalpa ovata 
 4.7 ##### Vaccinium Bosbessen/Rode bosbes) — Kerkvliet: 0.6%
 4.7 ##### Vaccinium vitis-idaea Rode bosbes)
 
@@ -104,16 +105,25 @@ Image scale (2,5*size )
 - Pollen: - 
 - Bloeiperiode: maart - april
 
+
+7.4 Thuja sp. | thuja sp. 
+7.8 Populus sp | populus sp 
 7.8 ##### Populus Populier) — Kerkvliet: 0.6%
 - Secundaire inbreng: **Populus**
 7.9 ##### Taxus baccata Taxus) — Kerkvliet: 0.6%
- 
+7.11 Crocus albiflorus | crocus albiflorus 
+7.11 Crocus ancyrensis | crocus ancyrensis 
+7.11 Crocus sp. | crocus sp. 
+
 ### 8. **Monoporatae**
 
 ##### Poaceae (grassen)
 - Kerkvliet: 16.3% | — | Secundaire inbreng
 - Pollen: - 
 - Bloeiperiode: mei - september
+
+8.1 Nymphaea alba | nymphaea alba 
+8.2 Zea | zea 
 
 ### 9. **Monocolpatae**
 
@@ -135,6 +145,17 @@ Image scale (2,5*size )
 9.29 ##### Leucojum aestivum Zomerklokje)
 9.35 ##### Narcissus Narcis)
 9. ##### Allium-Typ (look)
+9.1 Asphodelus aestiv | asphodelus aestiv 
+9.4 Liriodendron tulip | liriodendron tulip 
+9.4 Lirodendron tulipi | lirodendron tulipi 
+9.6 Nuphar lutea | nuphar lutea 
+9.10 Lilium sp. | lilium sp. 
+9.17 Scilla bifolia | scilla bifolia 
+9.17 Scilla nonscripta | scilla nonscripta 
+9.24 Tulipa sp. | tulipa sp. 
+9.36 Allium cepa | allium cepa 
+9.36 Allium schoenopr. | allium schoenopr. 
+9.36 Allium ursinum | allium ursinum 
 
 ### 10. **Syncolpatae**
 
@@ -145,6 +166,8 @@ Image scale (2,5*size )
 - Waarde: N 5 - P 5
 
 10 ##### Crocus Krokus)
+10.6 Mahonia aquifolia | mahonia aquifolia 
+10.14 Primula vulgaris | primula vulgaris 
 
 ### 11. **Dicolpatae**
 
@@ -169,6 +192,23 @@ Image scale (2,5*size )
 13.32 ##### Ranunculus Ranonkel) — Kerkvliet: 4.4%
 13.36 ##### Papaver somniferum Klaproos) — Kerkvliet: 5.0%
 - Secundaire inbreng: **Papaver-soorten**
+13.4 Aconitum sp | aconitum sp 
+13.7 Sanguisorba off | sanguisorba officinalis 
+13.7 Sanguisorba minor | sanguisorba minor 
+13.9 Convolvulus arve | convolvulus arve 
+13.13 Melampyrum | melampyrum 
+13.19 Rhinanthus sp. | rhinanthus sp. 
+13.19 Veronica filiformis | veronica filiformis 
+13.19 Veronica sp. | veronica sp. 
+13.19 Veronica sp. | veronica sp. 
+13.19 Veronica sp. | veronica sp. 
+13.20 Vinca sp. | vinca sp. 
+13.23 Teucrium chamae | teucrium chamae 
+13.29 Nigella | nigella 
+13.29 Nigella damasc. | nigella damasc. 
+13.32 Anemone | anemone 
+13.32 Clematis vitalba | clematis vitalba 
+13.35 Caltha palustris | caltha palustris 
 
 ### 14. **Tricolporaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
@@ -231,8 +271,30 @@ Image scale (2,5*size )
 14.9 ##### Polygonum aviculare Zwaluwtong)
 14.11 ##### Heracleum-Typ Reuzenkruiskruid)
 14.23 ##### Solanum Nachtschadefamilie) — Kerkvliet: 1.3%
+14.6 Hippophaë rhamn | hippophaë rhamn 
+14.11 Angelica sylvestris | angelica sylvestris 
+14.11 Astrantia major | astrantia major 
+14.11 Coriandrum sativ | coriandrum sativa 
+14.11 Daucus carota | daucus carota 
+14.11 Eryngium sp. | eryngium sp. 
+14.11 Ferula communis | ferula communis 
+14.11 Foeniculum vulga | foeniculum vulgare 
+14.11 Pimpinella anisum | pimpinella anisum 
+14.11 Pimpinella anisum | pimpinella anisum 
+14.17 Fallopia baldschur | fallopia baldschuanica 
+14.17 Fallopia japonica | fallopia japonica 
+14.21 Capsicum annuum | capsicum annuum 
+14.21 Clethra alnifolia | clethra alnifolia 
+14.35 Fagus sylvatica | fagus sylvaticum 
 
 ### 15. **Tricolporoidaat - Psilate, scabrate, verrucate of microverrucate pollen**
+
+15.1 Cornus mas | cornus mas 
+15.1 Cornus sanguinea | cornus sanguinea 
+15.4 Mercurialis annua | mercurialis annua 
+15.4 Mercurialus ann/per(bos)bingelkruid | mercurialus ann/perbingelkruid 
+15.7 Medicago | medicago 
+15.9.5 Punica granatum | punica granatum 
 
 ### 16. **Drie aperturen - Clavate, baculate, verrucate of gemmate sculpturen**
 ##### Ilex aquifolium (hulst)
@@ -243,6 +305,9 @@ Image scale (2,5*size )
 
 16 ##### Geranium Ooievaarsbekfamilie) — Kerkvliet: 0.6%
 16.6 ##### Linum Vlas) — Kerkvliet: 0.6%
+16.1 Geranium sp. | geranium sp. 
+16.3 Viscum album | viscum album 
+16.6 Linum usitatissim | linum usitatissim 
 
 ### 17. **Drie aperturen - Echinate sculpturen**
 
@@ -299,6 +364,28 @@ Image scale (2,5*size )
 17.1 ##### Tussilago farfara Klein hoefblad)
 17.2 ##### Valeriana Valeriaan) — Kerkvliet: 0.6%
 17.4 ##### Succisa pratensis Blauwe knoop)
+17.1 Anthemis nobilis | anthemis nobilis 
+17.1 Arcticum majus | arcticum majus 
+17.1 Arcticum minus | arcticum minus 
+17.1 Bidens sp | bidens sp 
+17.1 Calendula officin | calendula officin 
+17.1 Carduus nutans | carduus nutans 
+17.1 Carthamus lanatuswollige saffloer | carthamus lanatuswollige saffloer 
+17.1 Carthamus tinctor | carthamus tinctoria 
+17.1 Erigeron canaden | erigeron canaden 
+17.1 Eupatorium cann | eupatorium cannabinum 
+17.1 Galinsoga sp | galinsoga sp 
+17.1 Onopordon acant | onopordon acant 
+17.1 Petasitis officinalis | petasitis officinalis 
+17.1 Serrulata tinctoria | serrulata tinctoria 
+17.1 Solidago virga au | solidago virga au 
+17.1 Sylibum marianum | silybum marianum 
+17.1 Tagetes erecta | tagetes erecta 
+17.1.6 Chrysanthemum leuc margriet | chrysanthemum leuc margriet 
+17.4 Dipsacus | dipsacus 
+17.4 Scabiosa columbar | scabiosa columbar 
+17.5 Centranthus ruber | centranthus ruber 
+17.5 Centranthus ruber | centranthus ruber 
 
 ### 18. **Tricolpaat - Striate, striaat-reticulate en rugulate sculpturen**
 
@@ -306,6 +393,9 @@ Image scale (2,5*size )
 - Kerkvliet: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: april - juni
+
+18.1 Erodium cicutarium | erodium cicutarium 
+18.3 Saxifraga granul | saxifraga granul 
 
 ### 19. **Tricolporaat - Striate, striaat-reticulate en rugulate sculpture**
 
@@ -316,6 +406,9 @@ Image scale (2,5*size )
 - Waarde: N 5, P 5
 
 19. ##### Ailanthus glandulosa (hemelboom) — Kerkvliet: 0.6%
+19.4 Rhus chinensis | rhus chinensis 
+19.4 Rhus typhina | rhus typhina 
+19.7 Helianthemum | helianthemum 
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
@@ -347,7 +440,23 @@ Image scale (2,5*size )
 20.6 ##### Rosa spinosissima Duinroosje)
 20.6 ##### Rosaceae Rozenfamilie — divers) — Kerkvliet: 5.0%
 20.10 ##### Spiraea Spirea) — Kerkvliet: 7.5%
-
+20.1 Sedum sp. | sedum sp. 
+20.1 Sedum acre | sedum acre 
+20.2 Datura stramonium | datura stramonium 
+20.5 Fragaria vesca | fragaria vesca 
+20.5 Potentilla anserina | potentilla anserina 
+20.9 Nicotiana glauca | nicotiana glauca 
+20.9 Nicotiana tabacum siertabak | nicotiana tabacum siertabak 
+20.10 Spiraea | spiraea 
+20.10 Spiraea japonica | spiraea japonica 
+20.10 Spirea (van Houti?) | spirea 
+20.10 Aruncus | aruncus 
+20.12 Photinia sp. | photinia sp. 
+20.12 Rubus sp. | rubus sp. 
+20.12 Crataegus sp | crataegus sp 
+20.12 Prunus-laurocera | prunus-laurocera 
+20.12 Rubus fructicosus | rubus fructicosus 
+20.12 Rubus idaeus | rubus idaeus 
 ### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 ##### Salix sp (wilg)
 - Kerkvliet: 96.4% | De Boer: 8.0%
@@ -391,6 +500,22 @@ Image scale (2,5*size )
 21.27 ##### Raphanus-Typ Radijs)
 21.27 ##### Sinapis alba Witte mosterd)
 21.27 ##### Sinapis-Typ Mosterd)
+21.6 Oxalis | oxalis 
+21.10 Ajuga reptans | ajuga reptans 
+21.10 Galeopsis tetrahit | galeopsis tetrahit 
+21.10 Stachys palustris | stachys palustris 
+21.12 Reseda lutea | reseda lutea 
+21.14 Chelidonium | chelidonium 
+21.17 Tamarix | tamarix 
+21.18 Salix)+striaat (ret < Viburnum opulus) | salix)+striaat 
+21.20 Armeria maritima | armeria maritima 
+21.23 Olea | olea 
+21.23 Olea europaea | olea europaea 
+21.27 Diplotaxis muralis | diplotaxis muralis 
+21.27 Diplotaxis tenuïfoliarucola | diplotaxis tenuïfoliarucola 
+21.27 Eruca sativa | eruca sativa 
+21.30 Corylopsis parcifl | corylopsis parcifl 
+21.31 Fraxinus ornus | fraxinus ornus 
 
 ### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
@@ -475,6 +600,19 @@ Image scale (2,5*size )
 22.31 ##### Vicia faba Tuinboon/Voederboon)
 22.31 ##### Vicia sepium Wikke)
 22.31 ##### Vicia-Typ Wikke — divers)
+22.6 Hedera helix | hedera helix 
+22.14 Cistus salviifolius | cistus salviifolius 
+22.15 Parnassia palustris | parnassia palustris 
+22.16 Lysimachia | lysimachia 
+22.17.2 Viburnum lantanum | viburnum lantanum 
+22.17.2 Viburnum opulus | viburnum opulus 
+22.17.2 Viburnum tinus | viburnum tinus 
+22.19 Staphylea pinnata | staphylea pinnata 
+22.28 Fagopyrum esc. | fagopyrum esc. 
+22.31 Lathyrus sylvestris | lathyrus sylvestris 
+22.31 Onosis spinoza | ononis spinoza 
+22.31 Astragalus sinicus | astragalus sinicus 
+22.31 Sophora japonica onregelmatig | sophora japonica onregelmatig 
 
 ### 23. **Tricolporoidaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
@@ -496,6 +634,24 @@ Image scale (2,5*size )
 23 ##### Genista-Typ Zonnewinde) — Kerkvliet: 0.6%
 23.1 ##### Sambucus nigra Vlier) — Kerkvliet: 3.8%
 23.8.3 ##### Verbascum Toorts)
+23.8 Anthirrhinum | antirrhinum 
+23.8 Scropuhlaria nodo | scropuhlaria nodo 
+23.8 Verbascum nigrum | verbascum nigrum 
+23.8 Verbascum nigrum | verbascum nigrum 
+23.8 Verbascum thaps | verbascum thaps 
+23.8.4 Linaria cymbalaria | linaria cymbalaria 
+23.8.4 Linaria vulg | linaria vulgaris 
+23.8.7 Digitalis purpurea | digitalis purpurea 
+23.11 Euphorbia spp | euphorbia spp 
+23.12 Cytisus | cytisus 
+23.12 Genista anglica | genista anglica 
+23.12 Lupinus | lupinus 
+23.12 Lupinus angustifo | lupinus angustifo 
+23.12 Sarothamnus sco of | sarothamnus scoparius of 
+23.12 Ulex europaeus | ulex europaeus 
+23.12 Ulex sp | ulex sp 
+23.14 Euonymus europ | euonymus europ 
+23.16 Cercis siliquastrum | cercis siliquastrum 
 
 ### 24. **Stephanocolpatae**
 
@@ -528,6 +684,18 @@ Image scale (2,5*size )
 25 ##### Buddlejaceae davidii (vlinderstruik)
 25 ##### Anchusa (oksaal)
 25.16 ##### Symphytum officinale Smeerwortel)
+24.4 Asperula odorata | asperula odorata 
+24.4 Asperula odorata | asperula odorata 
+24.4 Galium sylvatica | galium sylvaticum 
+24.5 Lavandula angust | lavandula angustifolia 
+24.5 Lavandula angisti | lavandula angustifolia 
+24.7 Mentha aquatica | mentha aquatica 
+24.7 Origanum vulgare | origanum vulgare 
+24.7 Origanum vulgare | origanum vulgare 
+24.7 Satureia hortensis | satureia hortensis 
+24.7 Thymus serpyllum? | thymus serpyllum 
+24.8 Nepeta cataria | nepeta cataria 
+24.10 Rosmarinus off | rosmarinus officinalis 
 
 ### 25. **Stephanocolporatae**
 
@@ -536,8 +704,14 @@ Image scale (2,5*size )
 - Pollen: - 
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
+25.4 Pulmonaria off | pulmonaria officinalis 
+25.9 Citrus sinensis | citrus sinensis 
+25.10 Ceratonia silqua | ceratonia silqua 
+25.17 Borago | borago 
 
 ### 26. **Pericolpatae**
+26.6 Corydalis cava | corydalis cava 
+26.6 Corydalis lutea | corydalis lutea 
 
 ### 27. **Pericolporatae**
 
@@ -564,7 +738,16 @@ Image scale (2,5*size )
 - Bloeiperiode: maart-mei
 - Waarde: N 5, P 5 
 
+29.3 Sonchus arvensis | sonchus arvensis 
+29.4 Cichorium intybus | cichorium intybus 
+29.4 Hieracium aurantia | hieracium aurantia 
+29.4 Hieracium sp. | hieracium sp. 
+29.6 Tragopogon sp | tragopogon sp 
+
 ### 30. **Diporatae**
+
+30.1 Colchicinum autu | colchicinum autumnale 
+30.1 Colchicinum autum | colchicinum autumnale 
 
 ### 31. **Triporatae**
 
@@ -583,6 +766,13 @@ Image scale (2,5*size )
 31 ##### Corylus avellana Hazelaar)
 - Secundaire inbreng: **Corylus avellana**
 31 ##### Cucumis sativus Komkommer/augurk) — Kerkvliet: 4.4%
+31.1 Knautia spp | knautia spp 
+31.4 Phaseolus coccin | phaseolus coccinea 
+31.4 Phaseolus vulgaris | phaseolus vulgaris 
+31.6 Oenothera tetrag | oenothera tetragona 
+31.10 Betula | betula 
+31.15 Humulus | humulus 
+31.15 Cannabis sativa | cannabis sativa 
 
 ### 32. **Stephanoporatae**
 
@@ -594,6 +784,10 @@ Image scale (2,5*size )
 32 ##### Campanula Klokje)
 32.11 ##### Jasione Jasione)
 32.2 ##### Juglans Walnoot) — Kerkvliet: 0.6%
+32.2 Juglans regia | juglans regia 
+32.6 Carpinus betulus | carpinus betulus 
+32.11 Jasione montana | jasione montana 
+32.12 Ulmus sp. | ulmus sp. 
 
 
 ### 33. **Periporatae**
@@ -639,12 +833,120 @@ Image scale (2,5*size )
 33.8 ##### Stellaria holostea Grote muur)
 33.8 ##### Stellaria media Vogelmuur)
 33.10 ##### Ribes Aalbes/Rode aalbes)
+33.1 Fumaria officinalis | fumaria officinalis 
+33.6 Malva sp. | malva sp. 
+33.6 Hibiscus esculent | hibiscus esculent 
+33.8 Cerastium fontan | cerastium fontan 
+33.8 Lychnis-flos-cuculi | lychnis-flos-cuculi 
+33.8 Silene dioica | silene dioica 
+33.10 Ribes sanguineum | ribes sanguineum 
+33.11 Polemonium coeru | polemonium coeru 
+33.17 Buxus sempervi | buxus sempervi 
+33.21 Calystegia sepium | calystegia sepium 
 
 ---
 
 ##### Gilia capitata Gilia) — Kerkvliet: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
 ##### Myrica gale Gagel) — Kerkvliet: 0.6%
 ##### Rhamnus Wegedoorn/Vuilboom)
-
+Ambrosia artemis | ambrosia artemis 
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Afrika | afrika 
+Alyssum sp. | alyssum sp. 
+Anacardium occid | anacardium occid 
+Anethum graveole | anethum graveolens 
+Borreria sp. (Rubia) | borreria sp. 
+Cakile maritima | cakile maritima 
+Carlina aucalis | carlina aucalis 
+Cnicus benedict | cnicus benedict 
+Cosmos sp. | cosmos sp. 
+Crepis sp. | crepis sp. 
+Cyto: gran | cyto: gran 
+Cyto:. zetmeel. Syn:Polygonum jap. | cyto:. zetmeel. syn:polygonum jap. 
+Escallonia sp | escallonia sp 
+Euodia hupehensis | euodia hupehensis 
+Granulair | granulair 
+Hedysarum corona | hedysarum corona 
+Lampsana commu | lampsana commu 
+Larix decidua | larix decidua 
+Larix decidua | larix decidua 
+Leontodon  autum | leontodon autumnale 
+Loranthus europaeus | loranthus europaeus 
+Mespilus germani | mespilus germani 
+Morus alba | morus alba 
+Nemophila menzi | nemophila menziesii 
+Nemophila sp. | nemophila sp. 
+Odontites vernus gelig | odontites vernus gelig 
+Oost Azië | oost azië 
+Ornithopus perpus | ornithopus perpusillus 
+Pachysandra ter(?) | pachysandra ter 
+Pastinaca sativa | pastinaca sativa 
+Picris echinoïdes | picris echinoïdes 
+Picris hiëracioïdes | picris hiëracioïdes 
+Platanus hybr | platanus hybrida 
+PK09 Asparagus | asparagus 
+PK09 Limnanthes dougl | limnanthes douglasii 
+PK09 Narcissus sp | narcissus sp 
+PK09 Narcissus sp. | narcissus sp. 
+PK10 Portulacca oleacera | portulacca oleracea 
+PK10 Eucalyptus camal | eucalyptus camal 
+PK13 Callicarpa sp. | callicarpa sp. 
+PK14 Verbena officinalis | verbena officinalis 
+PK14 Ruta graveolens | ruta graveolens 
+PK14 Symphoricarpus sp | symphoricarpus sp 
+PK15 Gleditsia triacanth | gleditsia triacanth 
+PK15 Carragena arbores | carragena arborescens 
+PK16 Carpobrotis edulis | carpobrotis edulis 
+PK17 Kolkwitzia amabilis | kolkwitzia amabilis 
+PK17 Helenium autumn | helenium autumn 
+PK19 Solanum dul- camara | solanum dul- camara 
+PK19 Solanum lycopers | solanum lycopersicum 
+PK19 Solanum tuber. | solanum tuber. 
+PK19 Davidia involcrata | davidia involucrata 
+PK19 Davidia involcrata | davidia involucrata 
+PK19 Mangifera indica | mangifera indica 
+PK21 Osmanthus sp. | osmanthus sp. 
+PK21 Theobroma cacao | theobroma cacao 
+PK22 Hydrangea sp | hydrangea sp 
+PK22 Hydrangea macr. | hydrangea macr. 
+PK22 Philadelphus coronarium | philadelphus coronarium 
+PK22 Philadelphus coronarium | philadelphus coronarium 
+PK22 Coffea sp. | coffea sp. 
+PK22 Deutzia sp. | deutzia sp. 
+PK22 Deutzia sp. | deutzia sp. 
+PK22 Aralia elata | aralia elata 
+PK22 Citrullus lanatus | citrullus lanatus 
+PK23 Tropaeolum majus | tropaeolum majus 
+PK24 Eschscholtzia calif | eschscholtzia calif 
+PK24 Escholzia | escholzia 
+PK24 Mimulus guttatus | mimulus guttatus 
+PK24 Salvia pratensis | salvia pratensis 
+PK24 Salvia sp. | salvia sp. 
+PK25 Anchusa arvensis | anchusa arvensis 
+PK25 Anchusa officinalis | anchusa officinalis 
+PK25 Buddleiea | buddleja 
+PK25 Skimmia | skimmia 
+PK33 Carex spp | carex spp 
+Santolina | santolina 
+Sapindaceae (fam.) | sapindaceae 
+Tordylium apulum | tordylium apulum 
+Weigelia/Diervilla | weigelia/diervilla 
+Xanthium italicum | xanthium italicum 

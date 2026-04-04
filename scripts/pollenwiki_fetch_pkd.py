@@ -17,7 +17,10 @@ PKD_DECIMAL = re.compile(
     r"\|\s*pkd\s*=\{\{PK\d+\}\}\s*,\s*([\d.]+(?:\.[\d]+)*)", re.IGNORECASE
 )
 # | pkd ={{PK33}} end (no decimal segment)
-PKD_PK_ONLY = re.compile(r"\|\s*pkd\s*=\{\{PK(\d+)\}\}\s*\|", re.IGNORECASE)
+# PK-only lines: | pkd={{PK09}} then newline or next field (not comma + decimal)
+PKD_PK_ONLY = re.compile(
+    r"\|\s*pkd\s*=\{\{PK(\d+)\}\}(?!\s*,)", re.IGNORECASE
+)
 
 # line_number -> override search term (1-based lines in _index.md)
 SEARCH_OVERRIDES: dict[int, str] = {
