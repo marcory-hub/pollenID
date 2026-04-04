@@ -257,6 +257,28 @@
   }
 }
 
+/* TOC (secondary sidebar): Material uses height:0 on .md-sidebar--secondary; without a capped
+   scroll area, wheel/touch scroll targets the article and long TOCs (e.g. Kerkvliet index) clip. */
+@media screen and (min-width: 60em) {
+  .md-sidebar--secondary .md-sidebar__scrollwrap {
+    max-height: calc(100vh - 5.5rem);
+    max-height: calc(100dvh - 5.5rem);
+  }
+
+  .md-header--lifted ~ .md-container .md-sidebar--secondary .md-sidebar__scrollwrap {
+    max-height: calc(100vh - 8.5rem);
+    max-height: calc(100dvh - 8.5rem);
+  }
+}
+
+/* Tabs forced visible below ~76em: header stack is taller; avoid clipping TOC bottom. */
+@media screen and (min-width: 60em) and (max-width: 76.234375em) {
+  .md-sidebar--secondary .md-sidebar__scrollwrap {
+    max-height: calc(100vh - 8rem);
+    max-height: calc(100dvh - 8rem);
+  }
+}
+
 .vdh-pollentabel-td-step {
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
