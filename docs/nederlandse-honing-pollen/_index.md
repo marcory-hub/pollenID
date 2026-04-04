@@ -1,15 +1,16 @@
 # Pollen in Nederlandse honing
 
-Pollen die in Nederlandse honing gecategoriseerrd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kerkvliet & v.d. Putten (1980) en De Boer (1930). Bij verschillende beschrijvingen van aperturen is pollenwiki als eerste keuze aangehouden, tenzij anders vermeld.
+Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op In honing & v.d. Putten (1980) en De Boer (1930). Bij verschillende beschrijvingen van aperturen is pollenwiki als eerste keuze aangehouden, tenzij anders vermeld.
 
-Image scale (2,5*size )
+Image scale (2,5*size in µm = px)
 
 ### 4. **Tetradeae**
+
 #### Calluna vulgaris (struikheide)
+- [Heidehoning](../monoflorale-honing-pollen/heidehoning.md), zomerhoning
+- Pollen: 27 (22.5-30.0) μm, unit 50 µm, tetrade, verrucaat 
 - Bloeiperiode: juli-september
 - Waarde: N 5, P 5
-- [Heidehoning](../monoflorale-honing-pollen/heidehoning.md), zomerhoning
-- Pollen: unit 50 µm, tetrade, verrucaat 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -26,9 +27,10 @@ Image scale (2,5*size )
     </figure>
   </div>
 </div>
+
 #### Erica tetralix (dopheide)
-- Kerkvliet: 8.1% | — |incidenteel in zomerhoning
-- Pollen: - 
+- In honing: 8.1% — incidenteel in zomerhoning
+- Pollen: 26-50 µm
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
@@ -37,135 +39,253 @@ Image scale (2,5*size )
       <img src="../../assets/images/paldat/Erica_tetralix_1.png" style="height: 125px; width: auto;" alt="Erica tetralix">
     </figure>
       <figure class="pid-scale-item">
-      <img src="../../assets/images/paldat/Erica_tetralix_2.png" style="height: 125px; width: auto;" alt="Calluna vulgaris.">
+      <img src="../../assets/images/paldat/Erica_tetralix_2.png" style="height: 125px; width: auto;" alt="Calluna vulgaris">
     </figure>
- </div>
-</div>
+  </div> </div>
 
-##### Erica carnea (winterheide/Erica vagans) — Kerkvliet: 1.3%
+#### Erica carnea (winterheide/Erica vagans) 
+- In honing: 1.3%
+- Pollen: 26-50 µm
+- Bloeiperiode: juni - september
+- Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Erica_carnea_Po.png" style="height: 125px; width: auto;" alt="Erica_carnea">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Erica_carnea_Eo.png" style="height: 125px; width: auto;" alt="Erica_carnea">
+    </figure>
+  </div>
+</div>
 
 #### Vaccinium vitis-idea (vossebes)
-- incidenteel in zomerhoning Vaccinium vitis-idaea
+- In honing: 1.3%, incidenteel in zomerhoning 
+- Pollen: 35 (31.5-40.9) μm
+- Bloeiperiode: juni - september
+- Waarde:
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
-      <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png" style="height: 125px; width: auto;" alt="Erica tetralix">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png" style="height: 88px; width: auto;" alt="Vaccinium vitis-idea">
     </figure>
-      <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png" style="height: 125px; width: auto;" alt="Calluna vulgaris.">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png" style="height: 88px; width: auto;" alt="Vaccinium vitis-idea">
     </figure>
- </div>
+  </div>
 </div>
-##### Rhododendron dauricum (rododendron)
-- Kerkvliet: 1.9% | —
-- Pollen: - 
+
+#### Rhododendron dauricum (rododendron)
+- In honing: 1.9%
+- Pollen: 49 (45.8-40.6) μm, scabraat tot verrucaat
 - Bloeiperiode: april - mei
+- Waarde: -
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
-      <figure class="pid-scale-item">
+    <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Rhododendron_dauricum_Po.png" style="height: 123px; width: auto;" alt="Rhododendron_dauricum_Po">
     </figure>
-      <figure class="pid-scale-item">
+    <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Rhododendron_dauricum_Pd.png" style="height: 123px; width: auto;" alt="Rhododendron_dauricum_Pd">
     </figure>
- </div>
+  </div>
 </div>
-#### Vaccinium myrtillus (bosbes)
-- incidenteel in zomerhoning
-04 ##### Pieris Andromeda)
-#### Vaccinium corymb (blauwe bes)
 
-4.1 Catalpa ovata | catalpa ovata 
-4.7 ##### Vaccinium Bosbessen/Rode bosbes) — Kerkvliet: 0.6%
-4.7 ##### Vaccinium vitis-idaea Rode bosbes)
+#### [Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus/304305) (bosbes) - incidenteel in zomerhoning
+#### [Pieris Japonica](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pieris_japonica) Pieris Andromeda (rotsheide)
+#### [Vaccinium corymbosum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymbosum) (blauwe bes)
+#### [Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata/301425) (trompetboom)
 
 ### 6. **Vesiculatae**
+
 #### Pinus syvestris (grove den)
-- Kerkvliet: 2.5% 
-- Bloeiperiode: april-mei
-- Secundaire inbreng: **Pinaceae**
+- In honing: 2.5%, secundaire inbreng
+- Pollen: 65 μm, reticulaat
+- Bloeiperiode: april - mei
+- Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
-      <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Pinus_silvestris.png" style="height: 163px; width: auto;" alt="Pinus sylvestris">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Pinus_silvestris.png" style="height: 162px; width: auto;" alt="Pinus sylvestris">
     </figure>
- </div>
+  </div>
 </div>
 
 ### 7. **Inaperturatae inclusief polyplicatae**
 
-##### Juniperus (jeneverbes)
-- Kerkvliet: 1.3% | —
-- Pollen: - 
-- Bloeiperiode: maart
-- Einde bloeiperiode: mei
+#### Juniperus communis (Cupressaceae) (jeneverbes)
+- In honing: 1.3%
+- Pollen: 26–30 μm
+- Bloeiperiode: maart–mei
+- Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Juniperus_communis_1.png" style="height: 70px; width: auto;" alt="Juniperus communis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Juniperus_communis_2.png" style="height: 70px; width: auto;" alt="Juniperus communis">
+    </figure>
+  </div>
+</div>
 
-##### Laurus nobilis (laurier)
-- Kerkvliet: 0.6% | —
-- Pollen: - 
+#### Laurus nobilis (laurier)
+- In honing: 0.6%
+- Pollen: 38 (34.1–40.1) μm
+- Bloeiperiode: maart–april
+- Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Lauris_nobilis_o.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Lauris_nobilis_d.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Lauris_nobilis_o2.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
+    </figure>
+  </div>
+</div>
+
+#### Populus sp (populier) 
+- In honing: 0.6% secundaire inbreng
+- Pollen: 29 (24.3-31.6) μm
+- Bloeiperiode: 
+- Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Populus_nigra_o.png" style="height: 73px; width: auto;" alt="Populus_nigra">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Populus_nigra_d.png" style="height: 73px; width: auto;" alt="Populus_nigra">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Populus_nigra_scabraat_verrucaat.png" style="height: 73px; width: auto;" alt="Populus_nigra">
+    </figure>
+  </div>
+</div>
+
+#### Taxus baccata (taxus) 
+- In honing: 0.6%
+- Pollen: 26 (22.5-31.1) μm, scabraat, gemmaat tot verrucaat
 - Bloeiperiode: maart - april
+- Waarde: N 0, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Taxus_baccata_o.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Taxus_baccata_o2.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Taxus_baccata_o3.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
+    </figure>
+  </div>
+</div>
 
-
-7.4 Thuja sp. | thuja sp. 
-7.8 Populus sp | populus sp 
-7.8 ##### Populus Populier) — Kerkvliet: 0.6%
-- Secundaire inbreng: **Populus**
-7.9 ##### Taxus baccata Taxus) — Kerkvliet: 0.6%
-7.11 Crocus albiflorus | crocus albiflorus 
-7.11 Crocus ancyrensis | crocus ancyrensis 
-7.11 Crocus sp. | crocus sp. 
+#### Thuja sp.
+#### Crocus albiflorus 
+#### Crocus ancyrensis 
+#### Crocus sp. 
 
 ### 8. **Monoporatae**
 
-##### Poaceae (grassen)
-- Kerkvliet: 16.3% | — | Secundaire inbreng
-- Pollen: - 
-- Bloeiperiode: mei - september
+#### Poaceae [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
+- In honing: 16.3%, secundaire inbreng
 
-8.1 Nymphaea alba | nymphaea alba 
-8.2 Zea | zea 
+#### Alopecurus pratensis (grote vossestaart)
+- In honing: secundaire inbreng
+- Pollen: 29 (26.4-30.8) μm, scabraat
+- Bloeiperiode: 
+- Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Alopecurus_pratensis_E.png" style="height: 73px; width: auto;" alt="Alopecurus_pratensis_E">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Alopecurus_pratensis_P.png" style="height: 73px; width: auto;" alt="Alopecurus_pratensis_P">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Populus_nigra_scabraat_verrucaat.png" style="height: 73px; width: auto;" alt="Populus_nigra">
+    </figure>
+ </div>
+</div>
+
+#### Zea mays (mais)
+- In honing: 
+- Pollen: 84 (76.9-88.3) μm, rugulaat tot verrucaat
+- Bloeiperiode: juni - augustus
+- Waarde: N 0, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Zea_mays.png" style="height: 210px; width: auto;" alt="Zea_mays">
+    </figure>
+ </div>
+</div>
+
+#### Nymphaea alba 
+- In honing: 
+- Pollen: 38 (34.8-42.9) μm, echinaat/baculaat/clavaat tot psilaat, een zijde met grote ornametering and de andere zijde duidelijk minder
+- Bloeiperiode: mei - augustus
+- Waarde: N 0, P 1
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Nymphea_alba_o.png" style="height: 94px; width: auto;" alt="Nymphea_alba">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Nymphea_alba_d.png" style="height: 94px; width: auto;" alt="Nymphea_alba">
+    </figure>
+  </div>
+</div>
 
 ### 9. **Monocolpatae**
 
-##### Magnolia kobus (magnolia)
-- Kerkvliet: 1.9% | —
-- Pollen: - 
+#### Magnolia kobus (magnolia)
+- In honing: 1.9%
+- Pollen:
 - Bloeiperiode: maart - april
+- Waarde: 
 
-09. Muscari odorata (Blauwe druifhyacint)
-09 ##### Asparagus-Type (asperge)
-09 ##### Chionodoxa Sneeuwroem)
-09 ##### Iris reticulata Gegroefde lis)
-09 ##### Muscari botryoides (blauwe druif)
-09 ##### Tradescantia Driekleurig bloemzegge)
-9.10 ##### Liliaceae Leliefamilie) — Kerkvliet: 12.5%
-9.14 ##### Muscari botryoides Blauwe druif)
-9.24 ##### Tulipa Tulp)
-9.29 ##### Hyacinthus orientalis Hyacint)
-9.29 ##### Leucojum aestivum Zomerklokje)
-9.35 ##### Narcissus Narcis)
-9. ##### Allium-Typ (look)
-9.1 Asphodelus aestiv | asphodelus aestiv 
-9.4 Liriodendron tulip | liriodendron tulip 
-9.4 Lirodendron tulipi | lirodendron tulipi 
-9.6 Nuphar lutea | nuphar lutea 
-9.10 Lilium sp. | lilium sp. 
-9.17 Scilla bifolia | scilla bifolia 
-9.17 Scilla nonscripta | scilla nonscripta 
-9.24 Tulipa sp. | tulipa sp. 
-9.36 Allium cepa | allium cepa 
-9.36 Allium schoenopr. | allium schoenopr. 
-9.36 Allium ursinum | allium ursinum 
+Muscari odorata (Blauwe druifhyacint)
+#### Asparagus-Type (asperge)
+#### Chionodoxa Sneeuwroem)
+#### Iris reticulata Gegroefde lis)
+#### Muscari botryoides (blauwe druif)
+#### Tradescantia Driekleurig bloemzegge)
+#### Liliaceae Leliefamilie) — In honing: 12.5%
+#### Muscari botryoides Blauwe druif)
+#### Tulipa Tulp)
+#### Hyacinthus orientalis Hyacint)
+#### Leucojum aestivum Zomerklokje)
+#### Narcissus Narcis)
+#### Allium-Typ (look)
+#### Asphodelus aestiv | asphodelus aestiv 
+#### Liriodendron tulip | liriodendron tulip 
+#### Lirodendron tulipi | lirodendron tulipi 
+#### Nuphar lutea | nuphar lutea 
+#### Lilium sp. | lilium sp. 
+#### Scilla bifolia | scilla bifolia 
+#### Scilla nonscripta | scilla nonscripta 
+#### Tulipa sp. | tulipa sp. 
+#### Allium cepa | allium cepa 
+#### Allium schoenopr. | allium schoenopr. 
+#### Allium ursinum | allium ursinum 
 
 ### 10. **Syncolpatae**
 
-##### Berberis vulgaris (zuurbes)
-- Kerkvliet: 1.9% | —
+#### Berberis vulgaris (zuurbes)
+- In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-10 ##### Crocus Krokus)
+10 #### Crocus Krokus)
 10.6 Mahonia aquifolia | mahonia aquifolia 
 10.14 Primula vulgaris | primula vulgaris 
 
@@ -175,22 +295,22 @@ Image scale (2,5*size )
 
 ### 13. **Tricolpaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-##### Quercus robur (eik)
-- Kerkvliet: 9.4% | — secundaire inbreng
+#### Quercus robur (eik)
+- In honing: 9.4% | — secundaire inbreng
 - Pollen: - 
 - Bloeiperiode: mei - mei
 - Waarde: honingdauw
 - Pollenwaarde: P 0
 
 
-13 ##### Ficaria verna Gewoon speenkruid)
-13.19 ##### Veronica Ereprijs)
-13.22 ##### Lamium album Witte dovenetel)
-13.22 ##### Lamium purpureum Paarse dovenetel)
-13.22 ##### Lamium-Typ Lamium — divers)
-13.32 ##### Ranunculus acris Scherpe boterbloem)
-13.32 ##### Ranunculus Ranonkel) — Kerkvliet: 4.4%
-13.36 ##### Papaver somniferum Klaproos) — Kerkvliet: 5.0%
+13 #### Ficaria verna Gewoon speenkruid)
+13.19 #### Veronica Ereprijs)
+13.22 #### Lamium album Witte dovenetel)
+13.22 #### Lamium purpureum Paarse dovenetel)
+13.22 #### Lamium-Typ Lamium — divers)
+13.32 #### Ranunculus acris Scherpe boterbloem)
+13.32 #### Ranunculus Ranonkel) — In honing: 4.4%
+13.36 #### Papaver somniferum Klaproos) — In honing: 5.0%
 - Secundaire inbreng: **Papaver-soorten**
 13.4 Aconitum sp | aconitum sp 
 13.7 Sanguisorba off | sanguisorba officinalis 
@@ -212,65 +332,65 @@ Image scale (2,5*size )
 
 ### 14. **Tricolporaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-##### Lotus corniculatus (rolklaver)
-- Kerkvliet: 23.1% | De Boer: 34.2%
+#### Lotus corniculatus (rolklaver)
+- In honing: 23.1% | De Boer: 34.2%
 - Pollen: - 
 - Bloeiperiode: mei - augustus
 
-##### Castanea sativa (tamme kastanje)
-- Kerkvliet: 23.1% | De Boer: 21.3%
+#### Castanea sativa (tamme kastanje)
+- In honing: 23.1% | De Boer: 21.3%
 - Pollen: - 
 - Bloeiperiode: juni - juni
 - Waarde: N 5, P 5 
 
-##### Frangula alnus (vuilboom / sporkehout)
-- Kerkvliet: 22.5% | De Boer: 35.4%
+#### Frangula alnus (vuilboom / sporkehout)
+- In honing: 22.5% | De Boer: 35.4%
 - Pollen: - 
 - Bloeiperiode: mei - juni
 
-##### Centaurea cyanus (korenbloem)
-- Kerkvliet: 17.5% | De Boer: 7.6%
+#### Centaurea cyanus (korenbloem)
+- In honing: 17.5% | De Boer: 7.6%
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 - Waarde: N 5, P 5
 
-##### Anthriscus sylvestris (fluitekruid)
-- Kerkvliet: 16.3% | —
+#### Anthriscus sylvestris (fluitekruid)
+- In honing: 16.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 2, N2
 
-##### Heracleum spondylium (bereklauw)
-- Kerkvliet: 8.8% | —
+#### Heracleum spondylium (bereklauw)
+- In honing: 8.8% | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: augustus
 
-##### Symphoricarpos albus (sneeuwbes)
-- Kerkvliet: 2.5% | —
+#### Symphoricarpos albus (sneeuwbes)
+- In honing: 2.5% | —
 - Pollen: - 
 - Bloeiperiode: juli - augustus
 - Waarde: N 5, P 5
 
-##### Filipendula ulmaria (moerasspiraea)
-- Kerkvliet: 8.1% | —
+#### Filipendula ulmaria (moerasspiraea)
+- In honing: 8.1% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
-##### Carum carvi (karwij)
-- Kerkvliet: 0.6% | —
+#### Carum carvi (karwij)
+- In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-14 ##### Artemisia vulgaris (alsem) — Kerkvliet: 2.5%
-14 ##### Centaurea-Typ Centaurea)
-14 ##### Centaurea jacea-Typ (akkercentaurie)
-14 ##### Symphoricarpos Sneeuwbes)
-14.9 ##### Polygonum aviculare Zwaluwtong)
-14.11 ##### Heracleum-Typ Reuzenkruiskruid)
-14.23 ##### Solanum Nachtschadefamilie) — Kerkvliet: 1.3%
+14 #### Artemisia vulgaris (alsem) — In honing: 2.5%
+14 #### Centaurea-Typ Centaurea)
+14 #### Centaurea jacea-Typ (akkercentaurie)
+14 #### Symphoricarpos Sneeuwbes)
+14.9 #### Polygonum aviculare Zwaluwtong)
+14.11 #### Heracleum-Typ Reuzenkruiskruid)
+14.23 #### Solanum Nachtschadefamilie) — In honing: 1.3%
 14.6 Hippophaë rhamn | hippophaë rhamn 
 14.11 Angelica sylvestris | angelica sylvestris 
 14.11 Astrantia major | astrantia major 
@@ -297,73 +417,73 @@ Image scale (2,5*size )
 15.9.5 Punica granatum | punica granatum 
 
 ### 16. **Drie aperturen - Clavate, baculate, verrucate of gemmate sculpturen**
-##### Ilex aquifolium (hulst)
-- Kerkvliet: 1.3% | —
+#### Ilex aquifolium (hulst)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-16 ##### Geranium Ooievaarsbekfamilie) — Kerkvliet: 0.6%
-16.6 ##### Linum Vlas) — Kerkvliet: 0.6%
+16 #### Geranium Ooievaarsbekfamilie) — In honing: 0.6%
+16.6 #### Linum Vlas) — In honing: 0.6%
 16.1 Geranium sp. | geranium sp. 
 16.3 Viscum album | viscum album 
 16.6 Linum usitatissim | linum usitatissim 
 
 ### 17. **Drie aperturen - Echinate sculpturen**
 
-##### Helianthus annuus (zonnebloem)
-- Kerkvliet: 11.9% | —
+#### Helianthus annuus (zonnebloem)
+- In honing: 11.9% | —
 - Bloeiperiode: juli
 - Einde bloeiperiode: oktober
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-##### Aster amellus (aster)
-- Kerkvliet: 9.4% | —
+#### Aster amellus (aster)
+- In honing: 9.4% | —
 - Bloeiperiode: juli
 - Einde bloeiperiode: oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-##### Senecio jacobaea (Kruiskruid)
-- Kerkvliet: 5.6% | —
+#### Senecio jacobaea (Kruiskruid)
+- In honing: 5.6% | —
 - Bloeiperiode: juni
 - Einde bloeiperiode: oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-##### Matricaria recutita (Kamille)
-- Kerkvliet: 1.9% | —
+#### Matricaria recutita (Kamille)
+- In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - oktober
 - Waarde: N 0, P 3 
 
-##### Cirsium arvense (distel)
-- Kerkvliet: 16.9% | —
+#### Cirsium arvense (distel)
+- In honing: 16.9% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
 
-##### Lonicera (kamperfoelie)
-- Kerkvliet: 1.3% | —
+#### Lonicera (kamperfoelie)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 
-##### Achillea-Typ (duizendblad)
-- Kerkvliet: — | —
+#### Achillea-Typ (duizendblad)
+- In honing: — | —
 - Pollen: - 
 - Bloeiperiode: —
 
-17 ##### Bellis perennis (madelief)
-17 ##### Dipsacaceae Kaardebolfamilie) — Kerkvliet: 3.1%
-17 ##### Echinops sphaerocephalus Kogeldistel) — Kerkvliet: 0.6%
-17.1 ##### Helianthus-Typ Zonnebloem-soorten)
-17.1 ##### Senecio Kruiskruid)
-17.1 ##### Serratula-Typ Zaagblad)
-17.1 ##### Solidago Guldenroede) — Kerkvliet: 5.0%
-17.1 ##### Tussilago farfara Klein hoefblad)
-17.2 ##### Valeriana Valeriaan) — Kerkvliet: 0.6%
-17.4 ##### Succisa pratensis Blauwe knoop)
+17 #### Bellis perennis (madelief)
+17 #### Dipsacaceae Kaardebolfamilie) — In honing: 3.1%
+17 #### Echinops sphaerocephalus Kogeldistel) — In honing: 0.6%
+17.1 #### Helianthus-Typ Zonnebloem-soorten)
+17.1 #### Senecio Kruiskruid)
+17.1 #### Serratula-Typ Zaagblad)
+17.1 #### Solidago Guldenroede) — In honing: 5.0%
+17.1 #### Tussilago farfara Klein hoefblad)
+17.2 #### Valeriana Valeriaan) — In honing: 0.6%
+17.4 #### Succisa pratensis Blauwe knoop)
 17.1 Anthemis nobilis | anthemis nobilis 
 17.1 Arcticum majus | arcticum majus 
 17.1 Arcticum minus | arcticum minus 
@@ -389,8 +509,8 @@ Image scale (2,5*size )
 
 ### 18. **Tricolpaat - Striate, striaat-reticulate en rugulate sculpturen**
 
-##### Saxifragaceae (Steenbreekfamilie)
-- Kerkvliet: 1.3% | —
+#### Saxifragaceae (Steenbreekfamilie)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: april - juni
 
@@ -399,47 +519,47 @@ Image scale (2,5*size )
 
 ### 19. **Tricolporaat - Striate, striaat-reticulate en rugulate sculpture**
 
-##### Aesculus hippocastanum (paardekastanje)
-- Kerkvliet: 26.3% | De Boer: 9.9%
+#### Aesculus hippocastanum (paardekastanje)
+- In honing: 26.3% | De Boer: 9.9%
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
-19. ##### Ailanthus glandulosa (hemelboom) — Kerkvliet: 0.6%
+19. #### Ailanthus glandulosa (hemelboom) — In honing: 0.6%
 19.4 Rhus chinensis | rhus chinensis 
 19.4 Rhus typhina | rhus typhina 
 19.7 Helianthemum | helianthemum 
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
-##### Prunus/pirus species (prunus/pruim/kers/peer/appel)
-- Kerkvliet: 55.0% | De Boer: 25.5%
+#### Prunus/pirus species (prunus/pruim/kers/peer/appel)
+- In honing: 55.0% | De Boer: 25.5%
 - Pollen: - 
 - Bloeiperiode: maart - april
 
-##### Cotoneaster integerrimus (cotoneaster)
-- Kerkvliet: 16.9% | —
+#### Cotoneaster integerrimus (cotoneaster)
+- In honing: 16.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 
-##### Malus domestica (appel)
-- Kerkvliet: 11.3% | —
+#### Malus domestica (appel)
+- In honing: 11.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 - Waarde: N 3, P 3
 
-##### Acer pseudoplatanus (Esdoorn)
-- Kerkvliet: 16.3% | —
+#### Acer pseudoplatanus (Esdoorn)
+- In honing: 16.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 - Waarde: N 5, P 5
 
-20 ##### Crataegus-Typ Meidoorn)
-20 ##### Fragaria Aardbei)
-20.5 ##### Potentilla Zilverschoon)
-20.6 ##### Rosa spinosissima Duinroosje)
-20.6 ##### Rosaceae Rozenfamilie — divers) — Kerkvliet: 5.0%
-20.10 ##### Spiraea Spirea) — Kerkvliet: 7.5%
+20 #### Crataegus-Typ Meidoorn)
+20 #### Fragaria Aardbei)
+20.5 #### Potentilla Zilverschoon)
+20.6 #### Rosa spinosissima Duinroosje)
+20.6 #### Rosaceae Rozenfamilie — divers) — In honing: 5.0%
+20.10 #### Spiraea Spirea) — In honing: 7.5%
 20.1 Sedum sp. | sedum sp. 
 20.1 Sedum acre | sedum acre 
 20.2 Datura stramonium | datura stramonium 
@@ -458,48 +578,48 @@ Image scale (2,5*size )
 20.12 Rubus fructicosus | rubus fructicosus 
 20.12 Rubus idaeus | rubus idaeus 
 ### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
-##### Salix sp (wilg)
-- Kerkvliet: 96.4% | De Boer: 8.0%
+#### Salix sp (wilg)
+- In honing: 96.4% | De Boer: 8.0%
 - Pollen: - 
 - Bloeiperiode: februari
 - Einde bloeiperiode: april
 
-##### Brassica napus (koolzaad)
-- Kerkvliet: 60.6% | De Boer: 64.7%
+#### Brassica napus (koolzaad)
+- In honing: 60.6% | De Boer: 64.7%
 - Bloeiperiode: april - augustus
 - Waarde: N 5, P 5
 
-##### Ligustrum vulgare (liguster)
-- Kerkvliet: 45.6% | De Boer: 1.5%
+#### Ligustrum vulgare (liguster)
+- In honing: 45.6% | De Boer: 1.5%
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 4, P 4
 
-##### Eleagnus (olijfwilg)
-- Kerkvliet: 1.3% | —
+#### Eleagnus (olijfwilg)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 
-##### Limonium vulgare (lamsoor)
-- Kerkvliet: 2.5% | —
+#### Limonium vulgare (lamsoor)
+- In honing: 2.5% | —
 - Pollen: - 
 - Bloeiperiode: juli - oktober
 - Waarde: N 5, P 5
 
-21 ##### Capsella bursa-pastoris Herderstasje)
-21 ##### Cardamine hirsuta Kleine veldkers)
-21 ##### Cardamine pratensis Pinksterbloem)
-21 ##### Chelidonium Stinkende gouwe) — Kerkvliet: 0.6%
-21 ##### Crucifereae Overige kruisbloemigen) — Kerkvliet: 3.8%
-21 ##### Fraxinus Es)
-21 ##### Helleborus Helleborus)
-21.4 ##### Onobrychis viciifolia Esparcette)
-21.27 ##### Herik Sinapis arvensis) — Kerkvliet: 3.1%
-21.27 ##### Knopherik Raphanus sp) — Kerkvliet: 2.5%
-21.27 ##### Raphanus sativus Bladrammenas)
-21.27 ##### Raphanus-Typ Radijs)
-21.27 ##### Sinapis alba Witte mosterd)
-21.27 ##### Sinapis-Typ Mosterd)
+21 #### Capsella bursa-pastoris Herderstasje)
+21 #### Cardamine hirsuta Kleine veldkers)
+21 #### Cardamine pratensis Pinksterbloem)
+21 #### Chelidonium Stinkende gouwe) — In honing: 0.6%
+21 #### Crucifereae Overige kruisbloemigen) — In honing: 3.8%
+21 #### Fraxinus Es)
+21 #### Helleborus Helleborus)
+21.4 #### Onobrychis viciifolia Esparcette)
+21.27 #### Herik Sinapis arvensis) — In honing: 3.1%
+21.27 #### Knopherik Raphanus sp) — In honing: 2.5%
+21.27 #### Raphanus sativus Bladrammenas)
+21.27 #### Raphanus-Typ Radijs)
+21.27 #### Sinapis alba Witte mosterd)
+21.27 #### Sinapis-Typ Mosterd)
 21.6 Oxalis | oxalis 
 21.10 Ajuga reptans | ajuga reptans 
 21.10 Galeopsis tetrahit | galeopsis tetrahit 
@@ -519,87 +639,87 @@ Image scale (2,5*size )
 
 ### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-##### Trifolium repens (witte klaver)
-- Kerkvliet: 68.2% | De Boer: 95.8%
+#### Trifolium repens (witte klaver)
+- In honing: 68.2% | De Boer: 95.8%
 - Pollen: - 
 - Bloeiperiode: mei
 - Einde bloeiperiode: oktober
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-##### Tilia sp (linde)
-- Kerkvliet: 39.4% | De Boer: 4.9%
+#### Tilia sp (linde)
+- In honing: 39.4% | De Boer: 4.9%
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: juli
 
-##### Vicia species (tuinboon/voederboon)
-- Kerkvliet: 21.9% | De Boer: 39.1%
+#### Vicia species (tuinboon/voederboon)
+- In honing: 21.9% | De Boer: 39.1%
 - Pollen: - 
 - Bloeiperiode: april - juni
 
-##### Melilotus officinalis (honingklaver)
-- Kerkvliet: 17.5% | De Boer: 9.5% | Zomerhoning 1-63%
+#### Melilotus officinalis (honingklaver)
+- In honing: 17.5% | De Boer: 9.5% | Zomerhoning 1-63%
 - Pollen
 - Bloeiperiode: juli
 - Einde bloeiperiode: september
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-##### Bryonia dioica (heggerank)
-- Kerkvliet: 12.5% | —
+#### Bryonia dioica (heggerank)
+- In honing: 12.5% | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: augustus
 
-##### Rumex obtusifolius (zuring)
-- Kerkvliet: 15.6% | —
+#### Rumex obtusifolius (zuring)
+- In honing: 15.6% | —
 - Pollen: - 
 - Bloeiperiode: mei
 - Einde bloeiperiode: augustus
 - Secundaire inbreng: **Rumex**
 
-##### Trifolium pratense (rode klaver)
-- Kerkvliet: 11.3% | —
+#### Trifolium pratense (rode klaver)
+- In honing: 11.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - oktober
 - Waarde: N 1, P 1
  
-##### Echium vulgare (slangenkruid)
-- Kerkvliet: 8.1% | —
+#### Echium vulgare (slangenkruid)
+- In honing: 8.1% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 4, P 4
 
-##### Vitis vinifera (wijnstok)
-- Kerkvliet: 1.3% | —
+#### Vitis vinifera (wijnstok)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juni - juni
 - Waarde: N 2, P 2
 
-##### Parthenocissus quinquefolia (wilde wingerd)
-- Kerkvliet: — | —
+#### Parthenocissus quinquefolia (wilde wingerd)
+- In honing: — | —
 - Pollen: - 
 - Bloeiperiode: mei - mei
 - Waarde: N 3, P 0
 
-##### Trifolium incarnatum (incarnaatklaver)
-- Kerkvliet: 1.9% | —
+#### Trifolium incarnatum (incarnaatklaver)
+- In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
-22. ##### Amorpha fruticosa (indigobosje)
-22 ##### Boekweit (fagopyrum) — Kerkvliet: 6.3%
-22 ##### Hedera Klimop)
-22 ##### Hydrangeaceae Hortensia)
-22.31 ##### Ononis Stalkruid)
-22.31 ##### Papilionaceae Overige vlinderbloemigen) — Kerkvliet: 1.9%
-22.31 ##### Pisum sativum Tuinboon)
-22.31 ##### Vicia cracca Wikke)
-22.31 ##### Vicia faba Tuinboon/Voederboon)
-22.31 ##### Vicia sepium Wikke)
-22.31 ##### Vicia-Typ Wikke — divers)
+22. #### Amorpha fruticosa (indigobosje)
+22 #### Boekweit (fagopyrum) — In honing: 6.3%
+22 #### Hedera Klimop)
+22 #### Hydrangeaceae Hortensia)
+22.31 #### Ononis Stalkruid)
+22.31 #### Papilionaceae Overige vlinderbloemigen) — In honing: 1.9%
+22.31 #### Pisum sativum Tuinboon)
+22.31 #### Vicia cracca Wikke)
+22.31 #### Vicia faba Tuinboon/Voederboon)
+22.31 #### Vicia sepium Wikke)
+22.31 #### Vicia-Typ Wikke — divers)
 22.6 Hedera helix | hedera helix 
 22.14 Cistus salviifolius | cistus salviifolius 
 22.15 Parnassia palustris | parnassia palustris 
@@ -616,24 +736,24 @@ Image scale (2,5*size )
 
 ### 23. **Tricolporoidaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-##### Robinia pseudoacacia (valse acacia)
-- Kerkvliet: 30.0% | De Boer: 2.3%
+#### Robinia pseudoacacia (valse acacia)
+- In honing: 30.0% | De Boer: 2.3%
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 5, P 5
 
-##### Hypericum perforatum (sint-janskruid)
-- Kerkvliet: 3.8% | —
+#### Hypericum perforatum (sint-janskruid)
+- In honing: 3.8% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
-23 ##### Cytisus (brem)) — Kerkvliet: 0.6%
-23 ##### Euonymus Kardinaalsmuts) — Kerkvliet: 0.6%
-23 ##### Euphorbia Wolfsmelk)
-23 ##### Genista-Typ Zonnewinde) — Kerkvliet: 0.6%
-23.1 ##### Sambucus nigra Vlier) — Kerkvliet: 3.8%
-23.8.3 ##### Verbascum Toorts)
+23 #### Cytisus (brem)) — In honing: 0.6%
+23 #### Euonymus Kardinaalsmuts) — In honing: 0.6%
+23 #### Euphorbia Wolfsmelk)
+23 #### Genista-Typ Zonnewinde) — In honing: 0.6%
+23.1 #### Sambucus nigra Vlier) — In honing: 3.8%
+23.8.3 #### Verbascum Toorts)
 23.8 Anthirrhinum | antirrhinum 
 23.8 Scropuhlaria nodo | scropuhlaria nodo 
 23.8 Verbascum nigrum | verbascum nigrum 
@@ -655,35 +775,35 @@ Image scale (2,5*size )
 
 ### 24. **Stephanocolpatae**
 
-##### Lamiaceae (lipbloemigen — divers)
-- Kerkvliet: 13.8% | —
+#### Lamiaceae (lipbloemigen — divers)
+- In honing: 13.8% | —
 - Pollen: - 
 - Bloeiperiode: april - september
 
-##### Phacelia tanacetifolia (phacelia)
-- Kerkvliet: 5.0% | —
+#### Phacelia tanacetifolia (phacelia)
+- In honing: 5.0% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 5, P 5
 
-##### Impatiens balsamina (balsemien)
-- Kerkvliet: 1.3% | —
+#### Impatiens balsamina (balsemien)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juli - september
 
-##### Impatiens glandulifera (reuzenbalsamine)
-- Kerkvliet: — | —
+#### Impatiens glandulifera (reuzenbalsamine)
+- In honing: — | —
 - Pollen: - 
 - Bloeiperiode: juli - oktober
 - Waarde: N 3, P 3
 
-24 ##### Glechoma hederacea Hondsdraf)
-24.5 ##### Lavandula Lavendel)
-24.7 ##### Majoranus-Typ Marjolein)
-24.13 ##### Primula Sleutelbloem)
-25 ##### Buddlejaceae davidii (vlinderstruik)
-25 ##### Anchusa (oksaal)
-25.16 ##### Symphytum officinale Smeerwortel)
+24 #### Glechoma hederacea Hondsdraf)
+24.5 #### Lavandula Lavendel)
+24.7 #### Majoranus-Typ Marjolein)
+24.13 #### Primula Sleutelbloem)
+25 #### Buddlejaceae davidii (vlinderstruik)
+25 #### Anchusa (oksaal)
+25.16 #### Symphytum officinale Smeerwortel)
 24.4 Asperula odorata | asperula odorata 
 24.4 Asperula odorata | asperula odorata 
 24.4 Galium sylvatica | galium sylvaticum 
@@ -699,8 +819,8 @@ Image scale (2,5*size )
 
 ### 25. **Stephanocolporatae**
 
-##### Viola tricolor (viooltje)
-- Kerkvliet: 8.8% | —
+#### Viola tricolor (viooltje)
+- In honing: 8.8% | —
 - Pollen: - 
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
@@ -717,24 +837,24 @@ Image scale (2,5*size )
 
 ### 28. **Hetrocolpatae**
 
-##### Cynoglossum officinale (hondstong)
-- Kerkvliet: 12.5% | —
+#### Cynoglossum officinale (hondstong)
+- In honing: 12.5% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 3, P 3
 
-##### Myosotis scorpioides (vergeet-mij-niet)
-- Kerkvliet: 5.6% | —
+#### Myosotis scorpioides (vergeet-mij-niet)
+- In honing: 5.6% | —
 - Pollen: - 
 - Bloeiperiode: mei - augustus
 - Waarde: N 1, P 0
 
-28.3 ##### Lythrum salicaria Watereppe)
+28.3 #### Lythrum salicaria Watereppe)
 
 ### 29. **Fenestratae**
 
-##### Taraxacum officinale (paardebloem)
-- Kerkvliet: 21.9% | De Boer: 49.1%
+#### Taraxacum officinale (paardebloem)
+- In honing: 21.9% | De Boer: 49.1%
 - Bloeiperiode: maart-mei
 - Waarde: N 5, P 5 
 
@@ -751,21 +871,21 @@ Image scale (2,5*size )
 
 ### 31. **Triporatae**
 
-##### Epilobium angustifolium (wilgeroosje)
-- Kerkvliet: 10.0% | —
+#### Epilobium angustifolium (wilgeroosje)
+- In honing: 10.0% | —
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 
-##### Urtica dioica (brandnetel)
-- Kerkvliet: — | —
+#### Urtica dioica (brandnetel)
+- In honing: — | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: september
 
-31 ##### Betula Berk)
-31 ##### Corylus avellana Hazelaar)
+31 #### Betula Berk)
+31 #### Corylus avellana Hazelaar)
 - Secundaire inbreng: **Corylus avellana**
-31 ##### Cucumis sativus Komkommer/augurk) — Kerkvliet: 4.4%
+31 #### Cucumis sativus Komkommer/augurk) — In honing: 4.4%
 31.1 Knautia spp | knautia spp 
 31.4 Phaseolus coccin | phaseolus coccinea 
 31.4 Phaseolus vulgaris | phaseolus vulgaris 
@@ -776,14 +896,14 @@ Image scale (2,5*size )
 
 ### 32. **Stephanoporatae**
 
-##### Campanula (klokje)
-- Kerkvliet: 6.9% | —
+#### Campanula (klokje)
+- In honing: 6.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 
-32 ##### Campanula Klokje)
-32.11 ##### Jasione Jasione)
-32.2 ##### Juglans Walnoot) — Kerkvliet: 0.6%
+32 #### Campanula Klokje)
+32.11 #### Jasione Jasione)
+32.2 #### Juglans Walnoot) — In honing: 0.6%
 32.2 Juglans regia | juglans regia 
 32.6 Carpinus betulus | carpinus betulus 
 32.11 Jasione montana | jasione montana 
@@ -792,47 +912,47 @@ Image scale (2,5*size )
 
 ### 33. **Periporatae**
 
-##### Plantago lanceolata (weegbree)
-- Kerkvliet: 10.0% | — secundaire inbreng
+#### Plantago lanceolata (weegbree)
+- In honing: 10.0% | — secundaire inbreng
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 0, P 3
 
-##### Lychnis flos-cuculi (koekoeksbloem)
-- Kerkvliet: — | —
+#### Lychnis flos-cuculi (koekoeksbloem)
+- In honing: — | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 3, P 3
 
-##### Daphne laureola (peperboompje)
-- Kerkvliet: 0.6% | —
+#### Daphne laureola (peperboompje)
+- In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: februari - april
 
-##### Phlox subulata (vlambloem)
-- Kerkvliet: 1.3% | —
+#### Phlox subulata (vlambloem)
+- In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juli
 
-##### Thalictrum flavum (ruit)
-- Kerkvliet: 0.6% | —
+#### Thalictrum flavum (ruit)
+- In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 0 - P 3
 
 33. Caryophyllaceae (Anjerfamilie)
-33 ##### Anemone (anemoon)
-33 ##### Caryophyllaceae Anjerfamilie) — Kerkvliet: 5.0%
-33 ##### Chenopodium album Ganzevoetfamilie) — Kerkvliet: 4.4%
+33 #### Anemone (anemoon)
+33 #### Caryophyllaceae Anjerfamilie) — In honing: 5.0%
+33 #### Chenopodium album Ganzevoetfamilie) — In honing: 4.4%
 - Secundaire inbreng: **Amaranthaceae**
-33 ##### Cyperaceae Zeggen) — Kerkvliet: 1.3%
-33 ##### Polygonum persicaria Zonnerus)
-33 ##### Polygonum-Typ Duizendknoop)
-33 ##### Trachelospermum Jasmijn)
-33.8 ##### Silene Anjerfamilie) — Kerkvliet: —
-33.8 ##### Stellaria holostea Grote muur)
-33.8 ##### Stellaria media Vogelmuur)
-33.10 ##### Ribes Aalbes/Rode aalbes)
+33 #### Cyperaceae Zeggen) — In honing: 1.3%
+33 #### Polygonum persicaria Zonnerus)
+33 #### Polygonum-Typ Duizendknoop)
+33 #### Trachelospermum Jasmijn)
+33.8 #### Silene Anjerfamilie) — In honing: —
+33.8 #### Stellaria holostea Grote muur)
+33.8 #### Stellaria media Vogelmuur)
+33.10 #### Ribes Aalbes/Rode aalbes)
 33.1 Fumaria officinalis | fumaria officinalis 
 33.6 Malva sp. | malva sp. 
 33.6 Hibiscus esculent | hibiscus esculent 
@@ -846,9 +966,9 @@ Image scale (2,5*size )
 
 ---
 
-##### Gilia capitata Gilia) — Kerkvliet: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
-##### Myrica gale Gagel) — Kerkvliet: 0.6%
-##### Rhamnus Wegedoorn/Vuilboom)
+#### Gilia capitata Gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
+#### Myrica gale Gagel) — In honing: 0.6%
+#### Rhamnus Wegedoorn/Vuilboom)
 Ambrosia artemis | ambrosia artemis 
 
 ---
