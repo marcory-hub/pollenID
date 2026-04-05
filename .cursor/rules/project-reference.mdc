@@ -4,16 +4,13 @@ alwaysApply: true
 ---
 
 # Mandatory procedures
-- **Completion**: After substantive tasks, ask the user to add a line to **`notes/pollenID/_timeline_pid.md`** (central log). Do not create separate ad-hoc log files. **Do not** edit **`notes/`** yourself — the user updates Obsidian.
 - **Workflow**: Notes are edited in Obsidian; sync is the user's responsibility (`notes/pollenID/_cli_pid.md` if present).
 - **Source of truth**: Notes tagged **SoT: Yes** at the top are treated as verified; all others are `[to be verified]`.
-- **Taxonomy**: For taxonomic changes, prompt verification against **`notes/_taxonomie.md`** (user reads/edits that file).
 
 ## Do not suggest (hard guardrails)
 
 ### Project & documentation hygiene
-- **Standalone logs**: No new random log files; use **`notes/pollenID/_timeline_pid.md`** (user-maintained).
-- **Empty placeholders**: Do not ship pages that are only "paste content here" without structure.
+- **Standalone logs**: No new random log files.
 - **Root clutter**: No new root-level clutter except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.) and focused helpers under **`scripts/`** when the user asks for automation.
 - **Redundant plugins**: Check **`mkdocs.yml`** and Material built-ins before proposing new MkDocs plugins.
 
@@ -24,36 +21,37 @@ alwaysApply: true
 - **Public/private**: Do not move raw research data from `notes/` to `docs/` unless the user explicitly asks to publish that material.
 
 ### Palynology & UI
-- **Terminology**: Prefer standard palynological terms; align with **`notes/pollenID/_references_pid.md`** when it lists preferred wording or sources.
-- **No emojis** in docs or agent output (see global rules).
+- **Terminology**: Prefer standard palynological terms.
+- **No emojis** never, also not in docs or agent output (see global rules).
 - **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).
 
 
-Summary of the public MkDocs site structure
+## Summary of the public MkDocs site structure
 
 docs/
 ├── index.md
 ├── Identificatiesleutels/
-│   ├── index.md                      # nav: Keys
-│   ├── beug.md
+│   ├── _index.md                     # nav: Keys
+│   ├── beug*.md
+│   ├── kerkvliet-determinatietabel.md
 │   └── pollen-tabel-vanderham.md
 ├── monoflorale-honing-pollen/
-│   ├── index.md                      # nav: Monofloraal (Overzicht)
+│   ├── _index.md                     # nav: Monofloraal (Overzicht)
 │   └── <uniflorale_honing>.md        # nav children (Zonnebloem, ...)
 ├── nederlandse-honing-pollen/
-│   ├── index.md                      # nav: Nederlands (Overzicht)
+│   ├── _index.md                     # nav: Nederlands (Overzicht)
 │   └── <taxon>.md                    # nav children (A–Z-lijst)
 ├── secundaire-inbreng/
-│   ├── index.md                      # nav: Secundair (Overzicht)
+│   ├── _index.md                     # nav: Secundair (Overzicht)
 │   └── <taxon>.md
 ├── sporadische-pollen/
-│   ├── index.md                      # nav: Sporadisch (Overzicht)
+│   ├── _index.md                     # nav: Sporadisch (Overzicht)
 │   └── <taxon>.md
 ├── niet-eu-pollen/
-│   ├── index.md                      # nav: niet-EU
+│   ├── _index.md                     # nav: niet-EU
 │   └── <taxon>.md
 ├── dubbelgangers/
-│   ├── index.md                      # nav: Dubbelgangers (Overzicht)
+│   ├── _index.md                     # nav: Dubbelgangers (Overzicht)
 │   └── <dubbelganger>.md             # nav children (Acer/Amaryllidaceae/Betulaceae/...)
 ├── naslag/
 │   ├── index.md                      # nav: Naslag

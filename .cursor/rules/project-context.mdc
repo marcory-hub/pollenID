@@ -12,44 +12,38 @@ alwaysApply: true
 
 ## 1. Mandatory context loading
 Before architectural or roadmap answers:
-- Read **`notes/pollenID/_timeline_pid.md`** for the active writing sprint, tasks, and milestones (if present).
 - Read **`mkdocs.yml`** for `nav`, theme features, and enabled plugins before suggesting structural changes.
-- For **sources, URLs, and preferred terminology**, read **`notes/pollenID/_references_pid.md`** first when available.
-- Cross-check **`.cursor/rules/`** for workflow triggers: **`done`**
 
 ## 1b. Layout & privacy
-- **Layout SoT**: `notes/pollenID/_project_layout_pid.md` (if present).
+- **Layout SoT**: `project-reference.mdc`
 - **`docs/`**: Public site content.
-- **`notes/`**: Private / internal; do not move content to `docs/` without explicit approval.
+- **`notes/`**: Private / internal; do not move content to `docs/` do not change notes without user asking for it
 
 ## 2. Source of truth matrix
 
 | Topic / task | Read first |
 | :--- | :--- |
-| **Timeline / sprint / tasks** | `notes/pollenID/_timeline_pid.md` |
-| **References, URLs, nomenclature pointers** | `notes/pollenID/_references_pid.md` |
 | **Navigation & UI** | `mkdocs.yml` |
 | **CI/CD** | `.github/workflows/deploy.yml` |
 | **Knowledge capture** | `notes/` (general) |
 
 ## 3. Knowledge sync
-- After agreeing on a substantive change, remind the user to log it in **`notes/pollenID/_timeline_pid.md`** (they edit in Obsidian).
 - Use `[to be verified]` for any assumption not grounded in files read this session.
 
 ## 4. Documentation pipeline
 **Markdown → MkDocs → Material → GitHub Actions → GitHub Pages.**
 
 - Verify plugin availability in **`mkdocs.yml`** before proposing new features.
-- Before adding image links, confirm paths under **`docs/`** (e.g. `docs/assets/`). Do not rename assets in **`docs/assets/`** without an explicit request (see **§5 Directory integrity** below).
+- Before adding image links, confirm paths under **`docs/`** (e.g. `docs/assets/`). Do not rename assets in **`docs/assets/`** without an explicit request (see **5. Directory integrity** below).
 
 ## 4b. Operational defaults (MkDocs and assets)
 - Run **`mkdocs build`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors, so broken links surface before deploy.
 - **Internal links**: use **relative** Markdown paths between files under **`docs/`** (portable across local and CI builds).
-- **Images**: place files under **`docs/assets/`**; use **Dutch** alt text and captions when the surrounding page is Dutch
-- **Image size (true scale)**: Set the **longest** dimension to **\(5 px/µm\)** so sizes are comparable across pages. Canonical examples: **40 µm → 200 px**, **26 µm → 130 px**, **17 µm → 85 px**.
+- **Images**: place files under **`docs/assets/`**
+- **Image size (true scale)**: Set the **longest** dimension to **\(2,5 (nederlandse honing) or 5 px/µm (other pages)\)** so sizes are comparable across pages. Canonical examples: **40 µm → 200 px**, **26 µm → 130 px**, **17 µm → 85 px**.
 
 ## 5. Directory integrity
-- **Obsidian**: The user manages `notes/`; do not run sync commands autonomously (see `notes/pollenID/_cli_pid.md` if present) and do not change these notes.
+- **Obsidian**: The user manages `notes/`; do not change these notes.
 - **Assets**: Do not rename pollen images in **`docs/assets/`** without an explicit request and impact check (IDs / external references).
 - **Destructive ops**: For `git push --force`, `rm -rf docs/`, or wholesale `nav` rewrites, use the warning pattern from **`global-rules.mdc`**.
 
@@ -62,9 +56,8 @@ Before architectural or roadmap answers:
   - **`steps`**: object keyed by step id strings. Each step: `id`, `type` (`"step"`), `choices` (array). Optional: step `note`.
   - **Each choice**: `label` (string); exactly one of **`next`** (string: next step id **in the same JSON file**) or **`outcome`** with **`text`**; optional **`outcome.incomplete`**. Optional: **`image`**, **`imageWidthPx`**.
   - **Markup in strings**: paired `*…*` for emphasis in labels and outcomes; in outcomes, `[label](url)` is turned into a link **only** for `http:` / `https:` URLs (see **`docs/javascripts/vdh-pollentabel.js`**).
-Note:  beug03-polyadeae.md and beug05-dyade.md do NOT contain links to json file! Do not change these files.
+Note:  beug03-polyadeae.md and beug05-dyade.md do NOT contain links to json file! Do not change these files or invent JSON files
 
 ## 6. Conflict handling
 1. Prefer verified palynological statements over speculation.
-2. Flag mismatches between `notes/` and `docs/` when you detect them.
-3. Ask user.
+2. Ask user.

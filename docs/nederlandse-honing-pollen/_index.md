@@ -1,8 +1,6 @@
 # Pollen in Nederlandse honing
 
-Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op In honing & v.d. Putten (1980) (en De Boer (1930). Bij verschillende beschrijvingen van aperturen is pollenwiki als eerste keuze aangehouden, tenzij anders vermeld.
-
-Image scale (2,5*size in µm = px)
+Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kervliet & v.d. Putten (1980) (k) en De Boer (1930) (db). Bij verschillende beschrijvingen van grootte en aperturen is pollenwiki (pw) als eerste keuze aangehouden en evtenueel paldat (pd). (image scale 2.5 times µm = px)
 
 ### 4. **Tetradeae**
 
@@ -29,7 +27,7 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Erica tetralix](https://pollenx.eu/species.php?species=Erica_tetralix) (dopheide)
-- In honing: 8.1% — incidenteel in zomerhoning
+- In honing: 8.1% - incidenteel in zomerhoning
 - Pollen: 26-50 µm, fossulate, scabrate, verrucate, gemmate
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
@@ -265,14 +263,14 @@ Image scale (2,5*size in µm = px)
  </div>
 </div>
 
-[to be verified]
+#### to be verified
 #### [Muscari odorata](https://pollenx.eu/species.php?species=Muscari_odorata) (blauwe druifhyacint)
 #### [Asparagus-Type](https://pollenx.eu/species.php?species=Asparagus-Type) (asperge)
 #### [Chionodoxa](https://pollenx.eu/species.php?species=Chionodoxa) (sneeuwroem)
 #### [Iris reticulata](https://pollenx.eu/species.php?species=Iris_reticulata) (gegroefde lis)
 #### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) (blauwe druif)
 #### [Tradescantia](https://pollenx.eu/species.php?species=Tradescantia) (driekleurig bloemzegge)
-#### [Liliaceae](https://pollenx.eu/species.php?species=Liliaceae) [Liliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Liliaceae) (leliefamilie) — In honing: 12.5%
+#### [Liliaceae](https://pollenx.eu/species.php?species=Liliaceae) [Liliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Liliaceae) (leliefamilie) - In honing: 12.5%
 #### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) (blauwe druif)
 #### [Tulipa](https://pollenx.eu/species.php?species=Tulipa) (tulp)
 #### [Hyacinthus orientalis](https://pollenx.eu/species.php?species=Hyacinthus_orientalis) (hyacint)
@@ -315,7 +313,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-[to be verified]
+#### to be verified
 #### [Crocus](https://pollenx.eu/species.php?species=Crocus) (krokus)
 #### [Mahonia aquifolia](https://pollenx.eu/species.php?species=Mahonia_aquifolia)
 #### [Primula vulgaris](https://pollenx.eu/species.php?species=Primula_vulgaris)
@@ -330,8 +328,7 @@ Image scale (2,5*size in µm = px)
 - In honing: 9.4% secundaire inbreng
 - Pollen: 33 (29.3-38.1) μm, scabrate, verrucate, gemmate sculpturen
 - Bloeiperiode: mei - mei
-- Waarde: honingdauw
-- Pollenwaarde: P 0
+- Waarde: P 0
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -350,7 +347,7 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) (scherpe boterbloem) 
-— In honing: 4.4%
+- In honing: 4.4%
 - Pollen: 29 (27.0-34.9) μm, scabrate, microechinate, granulate, echinate sculptuur, aperturen korrelige ornamentatie.  Syncolpaat of pericoplaat zijn ook mogelijk.
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
@@ -369,7 +366,7 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) (papaver, slaapbol) 
-— In honing: 5.0%, secundaire inbreng
+- In honing: 5.0%, secundaire inbreng
 - Pollen: 30 (28.0-32.0) μm
 - Bloeiperiode: juni - augustus
 - Waarde: N 0, P 5
@@ -390,7 +387,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-[to be verified]
+#### to be verified
 #### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) (gewoon speenkruid)
 #### [Veronica](https://pollenx.eu/species.php?species=Veronica) (ereprijs)
 #### [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) (witte dovenetel)
@@ -548,7 +545,7 @@ Image scale (2,5*size in µm = px)
 - In honing: 16.3%
 - Pollen: k: 24x15; pw: 26 (24.2-27.2); 15 (13.1-15.5) μm
 - Bloeiperiode: mei - juni
-- Waarde: N 2, N2
+- Waarde: N 2, N 2
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -570,6 +567,7 @@ Image scale (2,5*size in µm = px)
 - In honing: 8.8%
 - Pollen: 38 (35.4-41.6) μm, verrucate, scabrate, gemmate sculptuur
 - Bloeiperiode: juni-augustus
+- Waarde: P 3, N 3
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug"> <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Heracleum_sphondylium_Ed.png" style="height: 95px; width: auto;" alt="Heracleum_sphondylium">
@@ -622,7 +620,8 @@ Image scale (2,5*size in µm = px)
       <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> </figure>
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
@@ -649,34 +648,33 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) 
-— In honing: 2.5%
-- Pollen: ,tricolpate, colporate, triporate sculptuur
+- In honing: 2.5%
+- Pollen: 23 (20.7-25.5); 20 (18.7-21.1) μm,tricolpate, colporate, triporate sculptuur
 - Bloeiperiode: 
 - Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Ed.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Ed.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Eo.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Eo.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Pd.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris"> </figure>
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Pd.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Po.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Po.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
   </div>
 </div>
 
 #### [Solanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Solanaceae) (nachtschadefamilie) 
-— In honing: 1.3%
+- In honing: 1.3%
 
-
-
-[to be verified]
-Solanum dulcamara	Bitterzoet	vast/klim	?	N 5	P 5	6	9
-Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
+#### to be verified
+#### Solanum dulcamara	Bitterzoet	vast/klim	?	N 5	P 5	6	9
+#### Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) (centaurea)
 #### [Centaurea jacea-Typ](https://pollenx.eu/species.php?species=Centaurea_jacea-Typ) (akkercentaurie)
 #### [Symphoricarpos](https://pollenx.eu/species.php?species=Symphoricarpos) (sneeuwbes)
@@ -700,44 +698,46 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 ### 15. **Tricolporoidaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-#### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas)
-— In honing: 
-- Pollen: 
-- Bloeiperiode: 
-- Waarde: 
+#### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas) (gele kornoelje)
+- In honing: 
+- Pollen: 24 μm, scabrate, psilate, verrucate sculptuur
+- Bloeiperiode: februari - maart
+- Waarde: N 4,	P 4
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_mas_Ed.png" style="height: 60px; width: auto;" alt="Cornus_mas">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_mas_Eo.png" style="height: 60px; width: auto;" alt="Cornus_mas">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Cornus_mas_Eo2.png" style="height: 60px; width: auto;" alt="Cornus_mas"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_mas_Pd.png" style="height: 60px; width: auto;" alt="Cornus_mas">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cornus_mas_Po.png" style="height: 60px; width: auto;" alt="Cornus_mas">
     </figure>
   </div>
 </div>
 
 #### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
-— In honing: 
-- Pollen: 
-- Bloeiperiode: 
-- Waarde: 
+- In honing: 
+- Pollen: 58 μm, scabrate, psilate, verrucate
+- Bloeiperiode: juni - juli
+- Waarde: N 1,	P 1	
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_sanguinea_Eo.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_sanguinea_Pd.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cornus_sanguinea_Po.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea">
     </figure>
   </div>
 </div>
@@ -748,6 +748,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
 ### 16. **Drie aperturen - Clavate, baculate, verrucate of gemmate sculpturen**
+
 #### [Ilex aquifolium](https://pollenx.eu/species.php?species=Ilex_aquifolium) (hulst)
 - In honing: 1.3%
 - Pollen: 
@@ -770,7 +771,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Geranium](https://pollenx.eu/species.php?species=Geranium) (ooievaarsbekfamilie) 
-— In honing: 0.6%
+- In honing: 0.6%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde: 
@@ -791,7 +792,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Linum](https://pollenx.eu/species.php?species=Linum) (vlas) 
-— In honing: 0.6%
+- In honing: 0.6%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde: 
@@ -819,8 +820,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 #### [Helianthus annuus](https://pollenx.eu/species.php?species=Helianthus_annuus) (zonnebloem)
 - In honing: 11.9% 
-- Bloeiperiode: juli
- - oktober
+- Bloeiperiode: juli - oktober
 - Waarde: N 5 - P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -839,8 +839,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 #### [Aster amellus](https://pollenx.eu/species.php?species=Aster_amellus) (aster)
 - In honing: 9.4% 
-- Bloeiperiode: juli
- - oktober
+- Bloeiperiode: juli - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 <div class="pid-scale-gallery">
@@ -861,8 +860,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 #### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (kruiskruid)
 - In honing: 5.6% 
-- Bloeiperiode: juni
- - oktober
+- Bloeiperiode: juni - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 <div class="pid-scale-gallery">
@@ -983,7 +981,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
-— In honing: 3.1%
+- In honing: 3.1%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
@@ -1004,7 +1002,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
- — In honing: 0.6%
+ - In honing: 0.6%
  - Pollen: 
 - Bloeiperiode: 
 - Waarde:
@@ -1025,7 +1023,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
-— In honing: 5.0%
+- In honing: 5.0%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1060,7 +1058,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1154,7 +1152,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
-— In honing: 0.6%
+- In honing: 0.6%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
@@ -1180,8 +1178,8 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
-#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) (rozenfamilie — divers) 
-— In honing: 5.0%
+#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) (rozenfamilie - divers) 
+- In honing: 5.0%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
@@ -1290,7 +1288,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 
 #### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) (spirea) 
-— In honing: 7.5%
+- In honing: 7.5%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
@@ -1328,7 +1326,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Rubus fructicosus](https://pollenx.eu/species.php?species=Rubus_fructicosus)
 #### [Rubus idaeus](https://pollenx.eu/species.php?species=Rubus_idaeus)
 
-### 21. **Tricolpaat - Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
+### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_sp) (wilg)
 - In honing: 96.4% | De Boer: 8.0%
 - Pollen: 
@@ -1421,7 +1419,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) (pinksterbloem)
 
 #### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) (stinkende gouwe) 
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1439,7 +1437,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
-— In honing: 3.8%
+- In honing: 3.8%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1460,7 +1458,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) (helleborus)
 #### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) (esparcette)
 #### [Herik](https://pollenx.eu/species.php?species=Herik) (sinapis arvensis) 
-— In honing: 3.1%
+- In honing: 3.1%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1478,7 +1476,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) (raphanus sp) 
-— In honing: 2.5%
+- In honing: 2.5%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1703,7 +1701,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Parthenocissus quinquefolia](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) (wilde wingerd)
-- In honing: — 
+- In honing: - 
 - Pollen: 
 - Bloeiperiode: mei - mei
 - Waarde: N 3, P 0
@@ -1746,7 +1744,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 #### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
 #### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) 
-— In honing: 6.3%
+- In honing: 6.3%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1767,13 +1765,13 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Hydrangeaceae](https://pollenx.eu/species.php?species=Hydrangeaceae) (hortensia)
 #### [Ononis](https://pollenx.eu/species.php?species=Ononis) (stalkruid)
 #### [Papilionaceae](https://pollenx.eu/species.php?species=Papilionaceae) (overige vlinderbloemigen) 
-— In honing: 1.9%
+- In honing: 1.9%
 
 #### [Pisum sativum](https://pollenx.eu/species.php?species=Pisum_sativum) (tuinboon)
 #### [Vicia cracca](https://pollenx.eu/species.php?species=Vicia_cracca) (wikke)
 #### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) (tuinboon/voederboon)
 #### [Vicia sepium](https://pollenx.eu/species.php?species=Vicia_sepium) (wikke)
-#### [Vicia-Typ](https://pollenx.eu/species.php?species=Vicia-Typ) (wikke — divers)
+#### [Vicia-Typ](https://pollenx.eu/species.php?species=Vicia-Typ) (wikke - divers)
 #### [Hedera helix](https://pollenx.eu/species.php?species=Hedera_helix)
 #### [Cistus salviifolius](https://pollenx.eu/species.php?species=Cistus_salviifolius)
 #### [Parnassia palustris](https://pollenx.eu/species.php?species=Parnassia_palustris)
@@ -1833,7 +1831,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Cytisus](https://pollenx.eu/species.php?species=Cytisus) (brem)) 
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1851,7 +1849,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Euonymus](https://pollenx.eu/species.php?species=Euonymus) (kardinaalsmuts) 
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1870,7 +1868,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 #### [Euphorbia](https://pollenx.eu/species.php?species=Euphorbia) (wolfsmelk)
 #### [Genista-Typ](https://pollenx.eu/species.php?species=Genista-Typ) (zonnewinde) 
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1888,7 +1886,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Sambucus nigra](https://pollenx.eu/species.php?species=Sambucus_nigra) (vlier) 
-— In honing: 3.8%
+- In honing: 3.8%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1927,7 +1925,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 ### 24. **Stephanocolpatae**
 
-#### [Lamiaceae](https://pollenx.eu/species.php?species=Lamiaceae) (lipbloemigen — divers)
+#### [Lamiaceae](https://pollenx.eu/species.php?species=Lamiaceae) (lipbloemigen - divers)
 - In honing: 13.8% 
 - Pollen: 
 - Bloeiperiode: april - september
@@ -2165,7 +2163,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
-- In honing: — 
+- In honing: - 
 - Pollen: 
 - Bloeiperiode: juni - september
 <div class="pid-scale-gallery">
@@ -2188,7 +2186,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) (hazelaar)
 - Secundaire inbreng: **Corylus avellana**
 #### [Cucumis sativus](https://pollenx.eu/species.php?species=Cucumis_sativus) (komkommer/augurk) 
-— In honing: 4.4%
+- In honing: 4.4%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2238,7 +2236,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
 #### [Jasione](https://pollenx.eu/species.php?species=Jasione) (jasione)
 #### [Juglans](https://pollenx.eu/species.php?species=Juglans) (walnoot) 
-— In honing: 0.6%
+- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2369,7 +2367,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie)
 #### [Anemone](https://pollenx.eu/species.php?species=Anemone) (anemoon)
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie) 
-— In honing: 5.0%
+- In honing: 5.0%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2387,7 +2385,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 </div>
 
 #### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) (ganzevoetfamilie) 
-— In honing: 4.4%, secundaire inbreng
+- In honing: 4.4%, secundaire inbreng
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2404,7 +2402,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
   </div>
 </div>
 
-#### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) (zeggen) — In honing: 1.3%
+#### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) (zeggen) - In honing: 1.3%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2425,7 +2423,7 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Polygonum-Typ](https://pollenx.eu/species.php?species=Polygonum-Typ) (duizendknoop)
 #### [Trachelospermum](https://pollenx.eu/species.php?species=Trachelospermum) (jasmijn)
 #### [Silene](https://pollenx.eu/species.php?species=Silene) (anjerfamilie)
-— In honing:
+- In honing:
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -2458,8 +2456,8 @@ Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 
 ---
 
-#### [Gilia capitata](https://pollenx.eu/species.php?species=Gilia_capitata) (gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
-#### [Myrica gale](https://pollenx.eu/species.php?species=Myrica_gale) (gagel) — In honing: 0.6%
+#### [Gilia capitata](https://pollenx.eu/species.php?species=Gilia_capitata) (gilia) - In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
+#### [Myrica gale](https://pollenx.eu/species.php?species=Myrica_gale) (gagel) - In honing: 0.6%
 #### [Rhamnus](https://pollenx.eu/species.php?species=Rhamnus) (wegedoorn/Vuilboom)
 Ambrosia artemis | ambrosia artemis 
 #### [Alyssum sp.](https://pollenx.eu/species.php?species=Alyssum_sp.)

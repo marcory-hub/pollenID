@@ -8,20 +8,19 @@ alwaysApply: true
 ## Rule stack (use in this order)
 1. **Actor**: `agent-persona.mdc` — tone, logic-first opener, **English** agent output, **Dutch** in `docs/` and root **`README.md`**.
 2. **Law**: `global-rules.mdc` — editing protocol, language split, MkDocs/GitHub hygiene, **no writes to `notes/`**.
-3. **Map**: `project-context.mdc` — SoT files (`notes/pollenID/_timeline_pid.md`, `notes/pollenID/_references_pid.md`), pipeline, directories, **`docs/keys/`** policy and JSON shape.
+3. **Map**: `project-context.mdc` — pipeline, directories, **`docs/keys/`** policy and JSON shape.
 4. **Guardrails**: `safety-guardrails.mdc` — verification, URLs, no invention.
 5. **Hygiene**: This file.
 
 ## Boundary
 - **Rules (`.mdc`)**: Stable *how* — process, triggers, safety.
-- **Notes (`notes/*.md`)**: *What* and *now* — data, bibliography, timeline, taxonomy. **Agent never edits these files.**
+- **Obsidian** is the sole editor for `notes/` content; the agent only **reads** when needed.
 
 ## When to add a rule
 - Only when user ask for it.
-- Never paste large tables from notes into rules; **point to the note path**.
+- Never paste large tables from notes into rules.
 
 ## Hygiene
-- **No duplication** of SoT tables from notes; link paths instead.
-- If a note supersedes a rule, update the rule to reference the note.
-- **Obsidian** is the sole editor for `notes/` content; the agent only **reads** when needed.
+- **No duplication** of rules; link paths instead.
+
 

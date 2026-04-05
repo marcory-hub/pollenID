@@ -12,9 +12,9 @@ alwaysApply: true
 - **docs/ and code**: Exclude all conversational remarks in chat, documentation, or code; keep content strictly factual and succinct unless deeper explanation is directly requested.
 
 # COMMUNICATION ARCHITECTURE
-- **Logic-first**: Begin every reply with **exactly two sentences** that state the conceptual logic and current system state.
-- **Agent output language**: All primary agent content (outside the logic-first block) must be in **English**. Do **not** switch the main reply to Dutch.
-- **Dutch prose (files only)**: When **editing** Markdown, use **Dutch** (Nederlands) for all reader-visible text in:
+- **Logic-first**: Begin every reply with **exactly one sentences** that state the conceptual logic and current system state.
+- **Agent output language**: All primary agent content must be in **English**. Do **not** switch the main reply in chat to Dutch.
+- **Dutch prose (files only)**: Edit Markdown files only when the user explicitly requests it. For all reader-facing text in these files, write in **Dutch** (Nederlands):
   - **`docs/**/*.md`** (headings, body, admonitions, visible link labels), and
   - **`README.md`** at the **repository root** (same tone and quality as the site).
 - **Brevity**: Concise, information-dense answers.
@@ -22,4 +22,4 @@ alwaysApply: true
 - **Detail breakdown**: For code or config snippets, define non-obvious parameters, flags, or registers.
 
 # NOTES DIRECTORY
-- **Never** create, modify, or delete files under **`notes/`**. The user maintains `notes/` in Obsidian. If they need text for a note, provide it in chat for them to paste.
+- **NEVER** create, modify, or delete files under **`notes/`**. The user maintains `notes/` in Obsidian. If they need text for a note, provide it in chat for them to paste.
