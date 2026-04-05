@@ -6,7 +6,7 @@ Image scale (2,5*size in µm = px)
 
 ### 4. **Tetradeae**
 
-#### Calluna vulgaris (struikheide)
+#### [Calluna vulgaris](https://pollenx.eu/species.php?species=Calluna_vulgaris) (struikheide)
 - [Heidehoning](../monoflorale-honing-pollen/heidehoning.md), zomerhoning
 - Pollen: 27 (22.5-30.0) μm, unit 50 µm, tetrade, verrucaat 
 - Bloeiperiode: juli-september
@@ -28,7 +28,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Erica tetralix (dopheide)
+#### [Erica tetralix](https://pollenx.eu/species.php?species=Erica_tetralix) (dopheide)
 - In honing: 8.1% — incidenteel in zomerhoning
 - Pollen: 26-50 µm
 - Bloeiperiode: juni - september
@@ -43,7 +43,7 @@ Image scale (2,5*size in µm = px)
     </figure>
   </div> </div>
 
-#### Erica carnea (winterheide/Erica vagans) 
+#### [Erica carnea](https://pollenx.eu/species.php?species=Erica_carnea) (winterheide/Erica vagans)
 - In honing: 1.3%
 - Pollen: 26-50 µm
 - Bloeiperiode: juni - september
@@ -59,7 +59,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Vaccinium vitis-idea (vossebes)
+#### [Vaccinium vitis-idea](https://pollenx.eu/species.php?species=Vaccinium_vitis-idea) (vossebes)
 - In honing: 1.3%, incidenteel in zomerhoning 
 - Pollen: 35 (31.5-40.9) μm
 - Bloeiperiode: juni - september
@@ -75,7 +75,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Rhododendron dauricum (rododendron)
+#### [Rhododendron dauricum](https://pollenx.eu/species.php?species=Rhododendron_dauricum) (rododendron)
 - In honing: 1.9%
 - Pollen: 49 (45.8-40.6) μm, scabraat tot verrucaat
 - Bloeiperiode: april - mei
@@ -91,14 +91,14 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus/304305) (bosbes) - incidenteel in zomerhoning
-#### [Pieris Japonica](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pieris_japonica) Pieris Andromeda (rotsheide)
-#### [Vaccinium corymbosum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymbosum) (blauwe bes)
-#### [Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata/301425) (trompetboom)
+#### [Vaccinium myrtillus](https://pollenx.eu/species.php?species=Vaccinium_myrtillus) (bosbes) - incidenteel in zomerhoning
+#### [Pieris Japonica](https://pollenx.eu/species.php?species=Pieris_Japonica) (rotsheide)
+#### [Vaccinium corymbosum](https://pollenx.eu/species.php?species=Vaccinium_corymbosum) (blauwe bes)
+#### [Catalpa ovata](https://pollenx.eu/species.php?species=Catalpa_ovata) (trompetboom)
 
 ### 6. **Vesiculatae**
 
-#### Pinus syvestris (grove den)
+#### [Pinus syvestris](https://pollenx.eu/species.php?species=Pinus_syvestris) (grove den)
 - In honing: 2.5%, secundaire inbreng
 - Pollen: 65 μm, reticulaat
 - Bloeiperiode: april - mei
@@ -113,7 +113,7 @@ Image scale (2,5*size in µm = px)
 
 ### 7. **Inaperturatae inclusief polyplicatae**
 
-#### Juniperus communis (Cupressaceae) (jeneverbes)
+#### [Juniperus communis](https://pollenx.eu/species.php?species=Juniperus_communis) (Cupressaceae) (jeneverbes)
 - In honing: 1.3%
 - Pollen: 26–30 μm
 - Bloeiperiode: maart–mei
@@ -129,7 +129,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Laurus nobilis (laurier)
+#### [Laurus nobilis](https://pollenx.eu/species.php?species=Laurus_nobilis) (laurier)
 - In honing: 0.6%
 - Pollen: 38 (34.1–40.1) μm
 - Bloeiperiode: maart–april
@@ -148,7 +148,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Populus sp (populier) 
+#### [Populus sp](https://pollenx.eu/species.php?species=Populus_sp) (populier)
 - In honing: 0.6% secundaire inbreng
 - Pollen: 29 (24.3-31.6) μm
 - Bloeiperiode: 
@@ -167,7 +167,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Taxus baccata (taxus) 
+#### [Taxus baccata](https://pollenx.eu/species.php?species=Taxus_baccata) (taxus)
 - In honing: 0.6%
 - Pollen: 26 (22.5-31.1) μm, scabraat, gemmaat tot verrucaat
 - Bloeiperiode: maart - april
@@ -186,17 +186,17 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### Thuja sp.
-#### Crocus albiflorus 
-#### Crocus ancyrensis 
-#### Crocus sp. 
+#### [Thuja sp.](https://pollenx.eu/species.php?species=Thuja_sp.)
+#### [Crocus albiflorus](https://pollenx.eu/species.php?species=Crocus_albiflorus)
+#### [Crocus ancyrensis](https://pollenx.eu/species.php?species=Crocus_ancyrensis)
+#### [Crocus sp.](https://pollenx.eu/species.php?species=Crocus_sp.)
 
 ### 8. **Monoporatae**
 
-#### Poaceae [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
+#### [Poaceae](https://pollenx.eu/species.php?species=Poaceae) [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
 - In honing: 16.3%, secundaire inbreng
 
-#### Alopecurus pratensis (grote vossestaart)
+#### [Alopecurus pratensis](https://pollenx.eu/species.php?species=Alopecurus_pratensis) (grote vossestaart)
 - In honing: secundaire inbreng
 - Pollen: 29 (26.4-30.8) μm, scabraat
 - Bloeiperiode: 
@@ -215,7 +215,7 @@ Image scale (2,5*size in µm = px)
  </div>
 </div>
 
-#### Zea mays (mais)
+#### [Zea mays](https://pollenx.eu/species.php?species=Zea_mays) (mais)
 - In honing: 
 - Pollen: 84 (76.9-88.3) μm, rugulaat tot verrucaat
 - Bloeiperiode: juni - augustus
@@ -228,7 +228,7 @@ Image scale (2,5*size in µm = px)
  </div>
 </div>
 
-#### Nymphaea alba 
+#### [Nymphaea alba](https://pollenx.eu/species.php?species=Nymphaea_alba)
 - In honing: 
 - Pollen: 38 (34.8-42.9) μm, echinaat/baculaat/clavaat tot psilaat, een zijde met grote ornametering and de andere zijde duidelijk minder
 - Bloeiperiode: mei - augustus
@@ -246,48 +246,48 @@ Image scale (2,5*size in µm = px)
 
 ### 9. **Monocolpatae**
 
-#### Magnolia kobus (magnolia)
+#### [Magnolia kobus](https://pollenx.eu/species.php?species=Magnolia_kobus) (magnolia)
 - In honing: 1.9%
 - Pollen:
 - Bloeiperiode: maart - april
 - Waarde: 
 
-Muscari odorata (Blauwe druifhyacint)
-#### Asparagus-Type (asperge)
-#### Chionodoxa Sneeuwroem)
-#### Iris reticulata Gegroefde lis)
-#### Muscari botryoides (blauwe druif)
-#### Tradescantia Driekleurig bloemzegge)
-#### Liliaceae Leliefamilie) — In honing: 12.5%
-#### Muscari botryoides Blauwe druif)
-#### Tulipa Tulp)
-#### Hyacinthus orientalis Hyacint)
-#### Leucojum aestivum Zomerklokje)
-#### Narcissus Narcis)
-#### Allium-Typ (look)
-#### Asphodelus aestiv | asphodelus aestiv 
-#### Liriodendron tulip | liriodendron tulip 
-#### Lirodendron tulipi | lirodendron tulipi 
-#### Nuphar lutea | nuphar lutea 
-#### Lilium sp. | lilium sp. 
-#### Scilla bifolia | scilla bifolia 
-#### Scilla nonscripta | scilla nonscripta 
-#### Tulipa sp. | tulipa sp. 
-#### Allium cepa | allium cepa 
-#### Allium schoenopr. | allium schoenopr. 
-#### Allium ursinum | allium ursinum 
+#### [Muscari odorata](https://pollenx.eu/species.php?species=Muscari_odorata) (Blauwe druifhyacint)
+#### [Asparagus-Type](https://pollenx.eu/species.php?species=Asparagus-Type) (asperge)
+#### [Chionodoxa](https://pollenx.eu/species.php?species=Chionodoxa) Sneeuwroem)
+#### [Iris reticulata](https://pollenx.eu/species.php?species=Iris_reticulata) Gegroefde lis)
+#### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) (blauwe druif)
+#### [Tradescantia](https://pollenx.eu/species.php?species=Tradescantia) Driekleurig bloemzegge)
+#### [Liliaceae](https://pollenx.eu/species.php?species=Liliaceae) [Liliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Liliaceae) (Leliefamilie) — In honing: 12.5%
+#### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) Blauwe druif)
+#### [Tulipa](https://pollenx.eu/species.php?species=Tulipa) Tulp)
+#### [Hyacinthus orientalis](https://pollenx.eu/species.php?species=Hyacinthus_orientalis) Hyacint)
+#### [Leucojum aestivum](https://pollenx.eu/species.php?species=Leucojum_aestivum) Zomerklokje)
+#### [Narcissus](https://pollenx.eu/species.php?species=Narcissus) Narcis)
+#### [Allium-Typ](https://pollenx.eu/species.php?species=Allium-Typ) (look)
+#### [Asphodelus aestiv](https://pollenx.eu/species.php?species=Asphodelus_aestiv)
+#### [Liriodendron tulip](https://pollenx.eu/species.php?species=Liriodendron_tulip)
+#### [Lirodendron tulipi](https://pollenx.eu/species.php?species=Lirodendron_tulipi)
+#### [Nuphar lutea](https://pollenx.eu/species.php?species=Nuphar_lutea)
+#### [Lilium sp.](https://pollenx.eu/species.php?species=Lilium_sp.)
+#### [Scilla bifolia](https://pollenx.eu/species.php?species=Scilla_bifolia)
+#### [Scilla nonscripta](https://pollenx.eu/species.php?species=Scilla_nonscripta)
+#### [Tulipa sp.](https://pollenx.eu/species.php?species=Tulipa_sp.)
+#### [Allium cepa](https://pollenx.eu/species.php?species=Allium_cepa)
+#### [Allium schoenopr.](https://pollenx.eu/species.php?species=Allium_schoenopr.)
+#### [Allium ursinum](https://pollenx.eu/species.php?species=Allium_ursinum)
 
 ### 10. **Syncolpatae**
 
-#### Berberis vulgaris (zuurbes)
+#### [Berberis vulgaris](https://pollenx.eu/species.php?species=Berberis_vulgaris) (zuurbes)
 - In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-10 #### Crocus Krokus)
-10.6 Mahonia aquifolia | mahonia aquifolia 
-10.14 Primula vulgaris | primula vulgaris 
+#### [Crocus](https://pollenx.eu/species.php?species=Crocus) Krokus)
+#### [Mahonia aquifolia](https://pollenx.eu/species.php?species=Mahonia_aquifolia)
+#### [Primula vulgaris](https://pollenx.eu/species.php?species=Primula_vulgaris)
 
 ### 11. **Dicolpatae**
 
@@ -295,7 +295,7 @@ Muscari odorata (Blauwe druifhyacint)
 
 ### 13. **Tricolpaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-#### Quercus robur (eik)
+#### [Quercus robur](https://pollenx.eu/species.php?species=Quercus_robur) (eik)
 - In honing: 9.4% | — secundaire inbreng
 - Pollen: - 
 - Bloeiperiode: mei - mei
@@ -303,343 +303,344 @@ Muscari odorata (Blauwe druifhyacint)
 - Pollenwaarde: P 0
 
 
-13 #### Ficaria verna Gewoon speenkruid)
-13.19 #### Veronica Ereprijs)
-13.22 #### Lamium album Witte dovenetel)
-13.22 #### Lamium purpureum Paarse dovenetel)
-13.22 #### Lamium-Typ Lamium — divers)
-13.32 #### Ranunculus acris Scherpe boterbloem)
-13.32 #### Ranunculus Ranonkel) — In honing: 4.4%
-13.36 #### Papaver somniferum Klaproos) — In honing: 5.0%
+#### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) Gewoon speenkruid)
+#### [Veronica](https://pollenx.eu/species.php?species=Veronica) Ereprijs)
+#### [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) Witte dovenetel)
+#### [Lamium purpureum](https://pollenx.eu/species.php?species=Lamium_purpureum) Paarse dovenetel)
+#### [Lamium-Typ](https://pollenx.eu/species.php?species=Lamium-Typ) Lamium — divers)
+#### [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) Scherpe boterbloem)
+#### [Ranunculus](https://pollenx.eu/species.php?species=Ranunculus) Ranonkel) — In honing: 4.4%
+#### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) Klaproos) — In honing: 5.0%
 - Secundaire inbreng: **Papaver-soorten**
-13.4 Aconitum sp | aconitum sp 
-13.7 Sanguisorba off | sanguisorba officinalis 
-13.7 Sanguisorba minor | sanguisorba minor 
-13.9 Convolvulus arve | convolvulus arve 
-13.13 Melampyrum | melampyrum 
-13.19 Rhinanthus sp. | rhinanthus sp. 
-13.19 Veronica filiformis | veronica filiformis 
-13.19 Veronica sp. | veronica sp. 
-13.19 Veronica sp. | veronica sp. 
-13.19 Veronica sp. | veronica sp. 
-13.20 Vinca sp. | vinca sp. 
-13.23 Teucrium chamae | teucrium chamae 
-13.29 Nigella | nigella 
-13.29 Nigella damasc. | nigella damasc. 
-13.32 Anemone | anemone 
-13.32 Clematis vitalba | clematis vitalba 
-13.35 Caltha palustris | caltha palustris 
+#### [Aconitum sp](https://pollenx.eu/species.php?species=Aconitum_sp) | aconitum sp
+#### [Sanguisorba off](https://pollenx.eu/species.php?species=Sanguisorba_off)
+#### [Sanguisorba minor](https://pollenx.eu/species.php?species=Sanguisorba_minor)
+#### [Convolvulus arve](https://pollenx.eu/species.php?species=Convolvulus_arve)
+#### [Melampyrum](https://pollenx.eu/species.php?species=Melampyrum)
+#### [Rhinanthus sp.](https://pollenx.eu/species.php?species=Rhinanthus_sp.)
+#### [Veronica filiformis](https://pollenx.eu/species.php?species=Veronica_filiformis)
+#### [Veronica sp.](https://pollenx.eu/species.php?species=Veronica_sp.)
+#### [Veronica sp.](https://pollenx.eu/species.php?species=Veronica_sp.)
+#### [Veronica sp.](https://pollenx.eu/species.php?species=Veronica_sp.)
+#### [Vinca sp.](https://pollenx.eu/species.php?species=Vinca_sp.)
+#### [Teucrium chamae](https://pollenx.eu/species.php?species=Teucrium_chamae)
+#### [Nigella](https://pollenx.eu/species.php?species=Nigella)
+#### [Nigella damasc.](https://pollenx.eu/species.php?species=Nigella_damasc.)
+#### [Anemone](https://pollenx.eu/species.php?species=Anemone)
+#### [Clematis vitalba](https://pollenx.eu/species.php?species=Clematis_vitalba)
+#### [Caltha palustris](https://pollenx.eu/species.php?species=Caltha_palustris)
 
 ### 14. **Tricolporaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-#### Lotus corniculatus (rolklaver)
+#### [Lotus corniculatus](https://pollenx.eu/species.php?species=Lotus_corniculatus) (rolklaver)
 - In honing: 23.1% | De Boer: 34.2%
 - Pollen: - 
 - Bloeiperiode: mei - augustus
 
-#### Castanea sativa (tamme kastanje)
+#### [Castanea sativa](https://pollenx.eu/species.php?species=Castanea_sativa) (tamme kastanje)
 - In honing: 23.1% | De Boer: 21.3%
 - Pollen: - 
 - Bloeiperiode: juni - juni
 - Waarde: N 5, P 5 
 
-#### Frangula alnus (vuilboom / sporkehout)
+#### [Frangula alnus](https://pollenx.eu/species.php?species=Frangula_alnus) (vuilboom / sporkehout)
 - In honing: 22.5% | De Boer: 35.4%
 - Pollen: - 
 - Bloeiperiode: mei - juni
 
-#### Centaurea cyanus (korenbloem)
+#### [Centaurea cyanus](https://pollenx.eu/species.php?species=Centaurea_cyanus) (korenbloem)
 - In honing: 17.5% | De Boer: 7.6%
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 - Waarde: N 5, P 5
 
-#### Anthriscus sylvestris (fluitekruid)
+#### [Anthriscus sylvestris](https://pollenx.eu/species.php?species=Anthriscus_sylvestris) (fluitekruid)
 - In honing: 16.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 2, N2
 
-#### Heracleum spondylium (bereklauw)
+#### [Heracleum spondylium](https://pollenx.eu/species.php?species=Heracleum_spondylium) (bereklauw)
 - In honing: 8.8% | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: augustus
 
-#### Symphoricarpos albus (sneeuwbes)
+#### [Symphoricarpos albus](https://pollenx.eu/species.php?species=Symphoricarpos_albus) (sneeuwbes)
 - In honing: 2.5% | —
 - Pollen: - 
 - Bloeiperiode: juli - augustus
 - Waarde: N 5, P 5
 
-#### Filipendula ulmaria (moerasspiraea)
+#### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria) (moerasspiraea)
 - In honing: 8.1% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
-#### Carum carvi (karwij)
+#### [Carum carvi](https://pollenx.eu/species.php?species=Carum_carvi) (karwij)
 - In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-14 #### Artemisia vulgaris (alsem) — In honing: 2.5%
-14 #### Centaurea-Typ Centaurea)
-14 #### Centaurea jacea-Typ (akkercentaurie)
-14 #### Symphoricarpos Sneeuwbes)
-14.9 #### Polygonum aviculare Zwaluwtong)
-14.11 #### Heracleum-Typ Reuzenkruiskruid)
-14.23 #### Solanum Nachtschadefamilie) — In honing: 1.3%
-14.6 Hippophaë rhamn | hippophaë rhamn 
-14.11 Angelica sylvestris | angelica sylvestris 
-14.11 Astrantia major | astrantia major 
-14.11 Coriandrum sativ | coriandrum sativa 
-14.11 Daucus carota | daucus carota 
-14.11 Eryngium sp. | eryngium sp. 
-14.11 Ferula communis | ferula communis 
-14.11 Foeniculum vulga | foeniculum vulgare 
-14.11 Pimpinella anisum | pimpinella anisum 
-14.11 Pimpinella anisum | pimpinella anisum 
-14.17 Fallopia baldschur | fallopia baldschuanica 
-14.17 Fallopia japonica | fallopia japonica 
-14.21 Capsicum annuum | capsicum annuum 
-14.21 Clethra alnifolia | clethra alnifolia 
-14.35 Fagus sylvatica | fagus sylvaticum 
+#### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) — In honing: 2.5%
+#### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) Centaurea)
+#### [Centaurea jacea-Typ](https://pollenx.eu/species.php?species=Centaurea_jacea-Typ) (akkercentaurie)
+#### [Symphoricarpos](https://pollenx.eu/species.php?species=Symphoricarpos) Sneeuwbes)
+#### [Polygonum aviculare](https://pollenx.eu/species.php?species=Polygonum_aviculare) Zwaluwtong)
+#### [Heracleum-Typ](https://pollenx.eu/species.php?species=Heracleum-Typ) Reuzenkruiskruid)
+#### [Solanum](https://pollenx.eu/species.php?species=Solanum) Nachtschadefamilie) — In honing: 1.3%
+#### [Hippophaë rhamn](https://pollenx.eu/species.php?species=Hippophaë_rhamn)
+#### [Angelica sylvestris](https://pollenx.eu/species.php?species=Angelica_sylvestris)
+#### [Astrantia major](https://pollenx.eu/species.php?species=Astrantia_major)
+#### [Coriandrum sativ](https://pollenx.eu/species.php?species=Coriandrum_sativ)
+#### [Daucus carota](https://pollenx.eu/species.php?species=Daucus_carota)
+#### [Eryngium sp.](https://pollenx.eu/species.php?species=Eryngium_sp.)
+#### [Ferula communis](https://pollenx.eu/species.php?species=Ferula_communis)
+#### [Foeniculum vulga](https://pollenx.eu/species.php?species=Foeniculum_vulga)
+#### [Pimpinella anisum](https://pollenx.eu/species.php?species=Pimpinella_anisum)
+#### [Pimpinella anisum](https://pollenx.eu/species.php?species=Pimpinella_anisum)
+#### [Fallopia baldschur](https://pollenx.eu/species.php?species=Fallopia_baldschur)
+#### [Fallopia japonica](https://pollenx.eu/species.php?species=Fallopia_japonica)
+#### [Capsicum annuum](https://pollenx.eu/species.php?species=Capsicum_annuum)
+#### [Clethra alnifolia](https://pollenx.eu/species.php?species=Clethra_alnifolia)
+#### [Fagus sylvatica](https://pollenx.eu/species.php?species=Fagus_sylvatica)
 
 ### 15. **Tricolporoidaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
-15.1 Cornus mas | cornus mas 
-15.1 Cornus sanguinea | cornus sanguinea 
-15.4 Mercurialis annua | mercurialis annua 
-15.4 Mercurialus ann/per(bos)bingelkruid | mercurialus ann/perbingelkruid 
-15.7 Medicago | medicago 
-15.9.5 Punica granatum | punica granatum 
+#### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas)
+#### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
+#### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
+#### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) ann/per(bos)bingelkruid | mercurialus ann/perbingelkruid
+#### [Medicago](https://pollenx.eu/species.php?species=Medicago)
+#### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
 ### 16. **Drie aperturen - Clavate, baculate, verrucate of gemmate sculpturen**
-#### Ilex aquifolium (hulst)
+#### [Ilex aquifolium](https://pollenx.eu/species.php?species=Ilex_aquifolium) (hulst)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-16 #### Geranium Ooievaarsbekfamilie) — In honing: 0.6%
-16.6 #### Linum Vlas) — In honing: 0.6%
-16.1 Geranium sp. | geranium sp. 
-16.3 Viscum album | viscum album 
-16.6 Linum usitatissim | linum usitatissim 
+#### [Geranium](https://pollenx.eu/species.php?species=Geranium) Ooievaarsbekfamilie) — In honing: 0.6%
+#### [Linum](https://pollenx.eu/species.php?species=Linum) Vlas) — In honing: 0.6%
+#### [Geranium sp.](https://pollenx.eu/species.php?species=Geranium_sp.)
+#### [Viscum album](https://pollenx.eu/species.php?species=Viscum_album)
+#### [Linum usitatissim](https://pollenx.eu/species.php?species=Linum_usitatissim)
 
 ### 17. **Drie aperturen - Echinate sculpturen**
 
-#### Helianthus annuus (zonnebloem)
+#### [Helianthus annuus](https://pollenx.eu/species.php?species=Helianthus_annuus) (zonnebloem)
 - In honing: 11.9% | —
 - Bloeiperiode: juli
 - Einde bloeiperiode: oktober
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-#### Aster amellus (aster)
+#### [Aster amellus](https://pollenx.eu/species.php?species=Aster_amellus) (aster)
 - In honing: 9.4% | —
 - Bloeiperiode: juli
 - Einde bloeiperiode: oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-#### Senecio jacobaea (Kruiskruid)
+#### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (Kruiskruid)
 - In honing: 5.6% | —
 - Bloeiperiode: juni
 - Einde bloeiperiode: oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-#### Matricaria recutita (Kamille)
+#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (Kamille)
 - In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - oktober
 - Waarde: N 0, P 3 
 
-#### Cirsium arvense (distel)
+#### [Cirsium arvense](https://pollenx.eu/species.php?species=Cirsium_arvense) (distel)
 - In honing: 16.9% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
 
-#### Lonicera (kamperfoelie)
+#### [Lonicera](https://pollenx.eu/species.php?species=Lonicera) (kamperfoelie)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 
-#### Achillea-Typ (duizendblad)
+#### [Achillea-Typ](https://pollenx.eu/species.php?species=Achillea-Typ) (duizendblad)
 - In honing: — | —
 - Pollen: - 
 - Bloeiperiode: —
 
-17 #### Bellis perennis (madelief)
-17 #### Dipsacaceae Kaardebolfamilie) — In honing: 3.1%
-17 #### Echinops sphaerocephalus Kogeldistel) — In honing: 0.6%
-17.1 #### Helianthus-Typ Zonnebloem-soorten)
-17.1 #### Senecio Kruiskruid)
-17.1 #### Serratula-Typ Zaagblad)
-17.1 #### Solidago Guldenroede) — In honing: 5.0%
-17.1 #### Tussilago farfara Klein hoefblad)
-17.2 #### Valeriana Valeriaan) — In honing: 0.6%
-17.4 #### Succisa pratensis Blauwe knoop)
-17.1 Anthemis nobilis | anthemis nobilis 
-17.1 Arcticum majus | arcticum majus 
-17.1 Arcticum minus | arcticum minus 
-17.1 Bidens sp | bidens sp 
-17.1 Calendula officin | calendula officin 
-17.1 Carduus nutans | carduus nutans 
-17.1 Carthamus lanatuswollige saffloer | carthamus lanatuswollige saffloer 
-17.1 Carthamus tinctor | carthamus tinctoria 
-17.1 Erigeron canaden | erigeron canaden 
-17.1 Eupatorium cann | eupatorium cannabinum 
-17.1 Galinsoga sp | galinsoga sp 
-17.1 Onopordon acant | onopordon acant 
-17.1 Petasitis officinalis | petasitis officinalis 
-17.1 Serrulata tinctoria | serrulata tinctoria 
-17.1 Solidago virga au | solidago virga au 
-17.1 Sylibum marianum | silybum marianum 
-17.1 Tagetes erecta | tagetes erecta 
-17.1.6 Chrysanthemum leuc margriet | chrysanthemum leuc margriet 
-17.4 Dipsacus | dipsacus 
-17.4 Scabiosa columbar | scabiosa columbar 
-17.5 Centranthus ruber | centranthus ruber 
-17.5 Centranthus ruber | centranthus ruber 
+#### [Bellis perennis](https://pollenx.eu/species.php?species=Bellis_perennis) (madelief)
+#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) Kaardebolfamilie) — In honing: 3.1%
+#### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) Kogeldistel) — In honing: 0.6%
+#### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) Zonnebloem-soorten)
+#### [Senecio](https://pollenx.eu/species.php?species=Senecio) Kruiskruid)
+#### [Serratula-Typ](https://pollenx.eu/species.php?species=Serratula-Typ) Zaagblad)
+#### [Solidago](https://pollenx.eu/species.php?species=Solidago) Guldenroede) — In honing: 5.0%
+#### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) Klein hoefblad)
+#### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) Valeriaan) — In honing: 0.6%
+#### [Succisa pratensis](https://pollenx.eu/species.php?species=Succisa_pratensis) Blauwe knoop)
+#### [Anthemis nobilis](https://pollenx.eu/species.php?species=Anthemis_nobilis)
+#### [Arcticum majus](https://pollenx.eu/species.php?species=Arcticum_majus)
+#### [Arcticum minus](https://pollenx.eu/species.php?species=Arcticum_minus)
+#### [Bidens sp](https://pollenx.eu/species.php?species=Bidens_sp)
+#### [Calendula officin](https://pollenx.eu/species.php?species=Calendula_officin)
+#### [Carduus nutans](https://pollenx.eu/species.php?species=Carduus_nutans)
+#### [Carthamus lanatuswollige saffloer](https://pollenx.eu/species.php?species=Carthamus_lanatuswollige_saffloer) | carthamus lanatuswollige saffloer
+#### [Carthamus tinctor](https://pollenx.eu/species.php?species=Carthamus_tinctor)
+#### [Erigeron canaden](https://pollenx.eu/species.php?species=Erigeron_canaden)
+#### [Eupatorium cann](https://pollenx.eu/species.php?species=Eupatorium_cann)
+#### [Galinsoga sp](https://pollenx.eu/species.php?species=Galinsoga_sp)
+#### [Onopordon acant](https://pollenx.eu/species.php?species=Onopordon_acant)
+#### [Petasitis officinalis](https://pollenx.eu/species.php?species=Petasitis_officinalis)
+#### [Serrulata tinctoria](https://pollenx.eu/species.php?species=Serrulata_tinctoria)
+#### [Solidago virga au](https://pollenx.eu/species.php?species=Solidago_virga_au) | solidago virga au
+#### [Sylibum marianum](https://pollenx.eu/species.php?species=Sylibum_marianum)
+#### [Tagetes erecta](https://pollenx.eu/species.php?species=Tagetes_erecta)
+#### [Chrysanthemum leuc margriet](https://pollenx.eu/species.php?species=Chrysanthemum_leuc_margriet) | chrysanthemum leuc margriet
+#### [Dipsacus](https://pollenx.eu/species.php?species=Dipsacus)
+#### [Scabiosa columbar](https://pollenx.eu/species.php?species=Scabiosa_columbar)
+#### [Centranthus ruber](https://pollenx.eu/species.php?species=Centranthus_ruber)
+#### [Centranthus ruber](https://pollenx.eu/species.php?species=Centranthus_ruber)
 
 ### 18. **Tricolpaat - Striate, striaat-reticulate en rugulate sculpturen**
 
-#### Saxifragaceae (Steenbreekfamilie)
+#### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifragaceae) (Steenbreekfamilie)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: april - juni
 
-18.1 Erodium cicutarium | erodium cicutarium 
-18.3 Saxifraga granul | saxifraga granul 
+#### [Erodium cicutarium](https://pollenx.eu/species.php?species=Erodium_cicutarium)
+#### [Saxifraga granul](https://pollenx.eu/species.php?species=Saxifraga_granul)
 
 ### 19. **Tricolporaat - Striate, striaat-reticulate en rugulate sculpture**
 
-#### Aesculus hippocastanum (paardekastanje)
+#### [Aesculus hippocastanum](https://pollenx.eu/species.php?species=Aesculus_hippocastanum) (paardekastanje)
 - In honing: 26.3% | De Boer: 9.9%
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
-19. #### Ailanthus glandulosa (hemelboom) — In honing: 0.6%
-19.4 Rhus chinensis | rhus chinensis 
-19.4 Rhus typhina | rhus typhina 
-19.7 Helianthemum | helianthemum 
+#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) — In honing: 0.6%
+#### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
+#### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
+#### [Helianthemum](https://pollenx.eu/species.php?species=Helianthemum)
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
-#### Prunus/pirus species (prunus/pruim/kers/peer/appel)
+#### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
 - In honing: 55.0% | De Boer: 25.5%
 - Pollen: - 
 - Bloeiperiode: maart - april
 
-#### Cotoneaster integerrimus (cotoneaster)
+#### [Cotoneaster integerrimus](https://pollenx.eu/species.php?species=Cotoneaster_integerrimus) (cotoneaster)
 - In honing: 16.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 
-#### Malus domestica (appel)
+#### [Malus domestica](https://pollenx.eu/species.php?species=Malus_domestica) (appel)
 - In honing: 11.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 - Waarde: N 3, P 3
 
-#### Acer pseudoplatanus (Esdoorn)
+#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (Esdoorn)
 - In honing: 16.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 - Waarde: N 5, P 5
 
-20 #### Crataegus-Typ Meidoorn)
-20 #### Fragaria Aardbei)
-20.5 #### Potentilla Zilverschoon)
-20.6 #### Rosa spinosissima Duinroosje)
-20.6 #### Rosaceae Rozenfamilie — divers) — In honing: 5.0%
-20.10 #### Spiraea Spirea) — In honing: 7.5%
-20.1 Sedum sp. | sedum sp. 
-20.1 Sedum acre | sedum acre 
-20.2 Datura stramonium | datura stramonium 
-20.5 Fragaria vesca | fragaria vesca 
-20.5 Potentilla anserina | potentilla anserina 
-20.9 Nicotiana glauca | nicotiana glauca 
-20.9 Nicotiana tabacum siertabak | nicotiana tabacum siertabak 
-20.10 Spiraea | spiraea 
-20.10 Spiraea japonica | spiraea japonica 
-20.10 Spirea (van Houti?) | spirea 
-20.10 Aruncus | aruncus 
-20.12 Photinia sp. | photinia sp. 
-20.12 Rubus sp. | rubus sp. 
-20.12 Crataegus sp | crataegus sp 
-20.12 Prunus-laurocera | prunus-laurocera 
-20.12 Rubus fructicosus | rubus fructicosus 
-20.12 Rubus idaeus | rubus idaeus 
+#### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) Meidoorn)
+#### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) Aardbei)
+#### [Potentilla](https://pollenx.eu/species.php?species=Potentilla) Zilverschoon)
+#### [Rosa spinosissima](https://pollenx.eu/species.php?species=Rosa_spinosissima) Duinroosje)
+#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) Rozenfamilie — divers) — In honing: 5.0%
+#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) Spirea) — In honing: 7.5%
+#### [Sedum sp.](https://pollenx.eu/species.php?species=Sedum_sp.)
+#### [Sedum acre](https://pollenx.eu/species.php?species=Sedum_acre)
+#### [Datura stramonium](https://pollenx.eu/species.php?species=Datura_stramonium)
+#### [Fragaria vesca](https://pollenx.eu/species.php?species=Fragaria_vesca)
+#### [Potentilla anserina](https://pollenx.eu/species.php?species=Potentilla_anserina)
+#### [Nicotiana glauca](https://pollenx.eu/species.php?species=Nicotiana_glauca)
+#### [Nicotiana tabacum](https://pollenx.eu/species.php?species=Nicotiana_tabacum) siertabak
+#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea)
+#### [Spiraea japonica](https://pollenx.eu/species.php?species=Spiraea_japonica)
+#### [Spirea](https://pollenx.eu/species.php?species=Spirea) (van Houti?)
+#### [Aruncus](https://pollenx.eu/species.php?species=Aruncus)
+#### [Photinia sp.](https://pollenx.eu/species.php?species=Photinia_sp.)
+#### [Rubus sp.](https://pollenx.eu/species.php?species=Rubus_sp.)
+#### [Crataegus sp](https://pollenx.eu/species.php?species=Crataegus_sp)
+#### [Prunus-laurocera](https://pollenx.eu/species.php?species=Prunus-laurocera)
+#### [Rubus fructicosus](https://pollenx.eu/species.php?species=Rubus_fructicosus)
+#### [Rubus idaeus](https://pollenx.eu/species.php?species=Rubus_idaeus)
+
 ### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
-#### Salix sp (wilg)
+#### [Salix sp](https://pollenx.eu/species.php?species=Salix_sp) (wilg)
 - In honing: 96.4% | De Boer: 8.0%
 - Pollen: - 
 - Bloeiperiode: februari
 - Einde bloeiperiode: april
 
-#### Brassica napus (koolzaad)
+#### [Brassica napus](https://pollenx.eu/species.php?species=Brassica_napus) (koolzaad)
 - In honing: 60.6% | De Boer: 64.7%
 - Bloeiperiode: april - augustus
 - Waarde: N 5, P 5
 
-#### Ligustrum vulgare (liguster)
+#### [Ligustrum vulgare](https://pollenx.eu/species.php?species=Ligustrum_vulgare) (liguster)
 - In honing: 45.6% | De Boer: 1.5%
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 4, P 4
 
-#### Eleagnus (olijfwilg)
+#### [Eleagnus](https://pollenx.eu/species.php?species=Eleagnus) (olijfwilg)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: april - mei
 
-#### Limonium vulgare (lamsoor)
+#### [Limonium vulgare](https://pollenx.eu/species.php?species=Limonium_vulgare) (lamsoor)
 - In honing: 2.5% | —
 - Pollen: - 
 - Bloeiperiode: juli - oktober
 - Waarde: N 5, P 5
 
-21 #### Capsella bursa-pastoris Herderstasje)
-21 #### Cardamine hirsuta Kleine veldkers)
-21 #### Cardamine pratensis Pinksterbloem)
-21 #### Chelidonium Stinkende gouwe) — In honing: 0.6%
-21 #### Crucifereae Overige kruisbloemigen) — In honing: 3.8%
-21 #### Fraxinus Es)
-21 #### Helleborus Helleborus)
-21.4 #### Onobrychis viciifolia Esparcette)
-21.27 #### Herik Sinapis arvensis) — In honing: 3.1%
-21.27 #### Knopherik Raphanus sp) — In honing: 2.5%
-21.27 #### Raphanus sativus Bladrammenas)
-21.27 #### Raphanus-Typ Radijs)
-21.27 #### Sinapis alba Witte mosterd)
-21.27 #### Sinapis-Typ Mosterd)
-21.6 Oxalis | oxalis 
-21.10 Ajuga reptans | ajuga reptans 
-21.10 Galeopsis tetrahit | galeopsis tetrahit 
-21.10 Stachys palustris | stachys palustris 
-21.12 Reseda lutea | reseda lutea 
-21.14 Chelidonium | chelidonium 
-21.17 Tamarix | tamarix 
-21.18 Salix)+striaat (ret < Viburnum opulus) | salix)+striaat 
-21.20 Armeria maritima | armeria maritima 
-21.23 Olea | olea 
-21.23 Olea europaea | olea europaea 
-21.27 Diplotaxis muralis | diplotaxis muralis 
-21.27 Diplotaxis tenuïfoliarucola | diplotaxis tenuïfoliarucola 
-21.27 Eruca sativa | eruca sativa 
-21.30 Corylopsis parcifl | corylopsis parcifl 
-21.31 Fraxinus ornus | fraxinus ornus 
+#### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) Herderstasje)
+#### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) Kleine veldkers)
+#### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) Pinksterbloem)
+#### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) Stinkende gouwe) — In honing: 0.6%
+#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) Overige kruisbloemigen) — In honing: 3.8%
+#### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) Es)
+#### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) Helleborus)
+#### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) Esparcette)
+#### [Herik](https://pollenx.eu/species.php?species=Herik) Sinapis arvensis) — In honing: 3.1%
+#### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) Raphanus sp) — In honing: 2.5%
+#### [Raphanus sativus](https://pollenx.eu/species.php?species=Raphanus_sativus) Bladrammenas)
+#### [Raphanus-Typ](https://pollenx.eu/species.php?species=Raphanus-Typ) Radijs)
+#### [Sinapis alba](https://pollenx.eu/species.php?species=Sinapis_alba) Witte mosterd)
+#### [Sinapis-Typ](https://pollenx.eu/species.php?species=Sinapis-Typ) Mosterd)
+#### [Oxalis](https://pollenx.eu/species.php?species=Oxalis)
+#### [Ajuga reptans](https://pollenx.eu/species.php?species=Ajuga_reptans)
+#### [Galeopsis tetrahit](https://pollenx.eu/species.php?species=Galeopsis_tetrahit)
+#### [Stachys palustris](https://pollenx.eu/species.php?species=Stachys_palustris)
+#### [Reseda lutea](https://pollenx.eu/species.php?species=Reseda_lutea)
+#### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium)
+#### [Tamarix](https://pollenx.eu/species.php?species=Tamarix)
+#### [Salix](https://pollenx.eu/species.php?species=Salix) )+striaat (ret < Viburnum opulus) | salix)+striaat
+#### [Armeria maritima](https://pollenx.eu/species.php?species=Armeria_maritima)
+#### [Olea](https://pollenx.eu/species.php?species=Olea)
+#### [Olea europaea](https://pollenx.eu/species.php?species=Olea_europaea)
+#### [Diplotaxis muralis](https://pollenx.eu/species.php?species=Diplotaxis_muralis)
+#### [Diplotaxis tenuïfoliarucola](https://pollenx.eu/species.php?species=Diplotaxis_tenuïfoliarucola)
+#### [Eruca sativa](https://pollenx.eu/species.php?species=Eruca_sativa)
+#### [Corylopsis parcifl](https://pollenx.eu/species.php?species=Corylopsis_parcifl)
+#### [Fraxinus ornus](https://pollenx.eu/species.php?species=Fraxinus_ornus)
 
 ### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-#### Trifolium repens (witte klaver)
+#### [Trifolium repens](https://pollenx.eu/species.php?species=Trifolium_repens) (witte klaver)
 - In honing: 68.2% | De Boer: 95.8%
 - Pollen: - 
 - Bloeiperiode: mei
@@ -647,18 +648,18 @@ Muscari odorata (Blauwe druifhyacint)
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-#### Tilia sp (linde)
+#### [Tilia sp](https://pollenx.eu/species.php?species=Tilia_sp) (linde)
 - In honing: 39.4% | De Boer: 4.9%
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: juli
 
-#### Vicia species (tuinboon/voederboon)
+#### [Vicia species](https://pollenx.eu/species.php?species=Vicia_species) (tuinboon/voederboon)
 - In honing: 21.9% | De Boer: 39.1%
 - Pollen: - 
 - Bloeiperiode: april - juni
 
-#### Melilotus officinalis (honingklaver)
+#### [Melilotus officinalis](https://pollenx.eu/species.php?species=Melilotus_officinalis) (honingklaver)
 - In honing: 17.5% | De Boer: 9.5% | Zomerhoning 1-63%
 - Pollen
 - Bloeiperiode: juli
@@ -666,309 +667,309 @@ Muscari odorata (Blauwe druifhyacint)
 - Waarde: N 5
 - Pollenwaarde: P 5
 
-#### Bryonia dioica (heggerank)
+#### [Bryonia dioica](https://pollenx.eu/species.php?species=Bryonia_dioica) (heggerank)
 - In honing: 12.5% | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: augustus
 
-#### Rumex obtusifolius (zuring)
+#### [Rumex obtusifolius](https://pollenx.eu/species.php?species=Rumex_obtusifolius) (zuring)
 - In honing: 15.6% | —
 - Pollen: - 
 - Bloeiperiode: mei
 - Einde bloeiperiode: augustus
 - Secundaire inbreng: **Rumex**
 
-#### Trifolium pratense (rode klaver)
+#### [Trifolium pratense](https://pollenx.eu/species.php?species=Trifolium_pratense) (rode klaver)
 - In honing: 11.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - oktober
 - Waarde: N 1, P 1
  
-#### Echium vulgare (slangenkruid)
+#### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
 - In honing: 8.1% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 4, P 4
 
-#### Vitis vinifera (wijnstok)
+#### [Vitis vinifera](https://pollenx.eu/species.php?species=Vitis_vinifera) (wijnstok)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juni - juni
 - Waarde: N 2, P 2
 
-#### Parthenocissus quinquefolia (wilde wingerd)
+#### [Parthenocissus quinquefolia](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) (wilde wingerd)
 - In honing: — | —
 - Pollen: - 
 - Bloeiperiode: mei - mei
 - Waarde: N 3, P 0
 
-#### Trifolium incarnatum (incarnaatklaver)
+#### [Trifolium incarnatum](https://pollenx.eu/species.php?species=Trifolium_incarnatum) (incarnaatklaver)
 - In honing: 1.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
-22. #### Amorpha fruticosa (indigobosje)
-22 #### Boekweit (fagopyrum) — In honing: 6.3%
-22 #### Hedera Klimop)
-22 #### Hydrangeaceae Hortensia)
-22.31 #### Ononis Stalkruid)
-22.31 #### Papilionaceae Overige vlinderbloemigen) — In honing: 1.9%
-22.31 #### Pisum sativum Tuinboon)
-22.31 #### Vicia cracca Wikke)
-22.31 #### Vicia faba Tuinboon/Voederboon)
-22.31 #### Vicia sepium Wikke)
-22.31 #### Vicia-Typ Wikke — divers)
-22.6 Hedera helix | hedera helix 
-22.14 Cistus salviifolius | cistus salviifolius 
-22.15 Parnassia palustris | parnassia palustris 
-22.16 Lysimachia | lysimachia 
-22.17.2 Viburnum lantanum | viburnum lantanum 
-22.17.2 Viburnum opulus | viburnum opulus 
-22.17.2 Viburnum tinus | viburnum tinus 
-22.19 Staphylea pinnata | staphylea pinnata 
-22.28 Fagopyrum esc. | fagopyrum esc. 
-22.31 Lathyrus sylvestris | lathyrus sylvestris 
-22.31 Onosis spinoza | ononis spinoza 
-22.31 Astragalus sinicus | astragalus sinicus 
-22.31 Sophora japonica onregelmatig | sophora japonica onregelmatig 
+#### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
+#### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) — In honing: 6.3%
+#### [Hedera](https://pollenx.eu/species.php?species=Hedera) Klimop)
+#### [Hydrangeaceae](https://pollenx.eu/species.php?species=Hydrangeaceae) Hortensia)
+#### [Ononis](https://pollenx.eu/species.php?species=Ononis) Stalkruid)
+#### [Papilionaceae](https://pollenx.eu/species.php?species=Papilionaceae) Overige vlinderbloemigen) — In honing: 1.9%
+#### [Pisum sativum](https://pollenx.eu/species.php?species=Pisum_sativum) Tuinboon)
+#### [Vicia cracca](https://pollenx.eu/species.php?species=Vicia_cracca) Wikke)
+#### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) Tuinboon/Voederboon)
+#### [Vicia sepium](https://pollenx.eu/species.php?species=Vicia_sepium) Wikke)
+#### [Vicia-Typ](https://pollenx.eu/species.php?species=Vicia-Typ) Wikke — divers)
+#### [Hedera helix](https://pollenx.eu/species.php?species=Hedera_helix)
+#### [Cistus salviifolius](https://pollenx.eu/species.php?species=Cistus_salviifolius)
+#### [Parnassia palustris](https://pollenx.eu/species.php?species=Parnassia_palustris)
+#### [Lysimachia](https://pollenx.eu/species.php?species=Lysimachia)
+#### [Viburnum lantanum](https://pollenx.eu/species.php?species=Viburnum_lantanum)
+#### [Viburnum opulus](https://pollenx.eu/species.php?species=Viburnum_opulus)
+#### [Viburnum tinus](https://pollenx.eu/species.php?species=Viburnum_tinus)
+#### [Staphylea pinnata](https://pollenx.eu/species.php?species=Staphylea_pinnata)
+#### [Fagopyrum esc.](https://pollenx.eu/species.php?species=Fagopyrum_esc.)
+#### [Lathyrus sylvestris](https://pollenx.eu/species.php?species=Lathyrus_sylvestris)
+#### [Onosis spinoza](https://pollenx.eu/species.php?species=Onosis_spinoza)
+#### [Astragalus sinicus](https://pollenx.eu/species.php?species=Astragalus_sinicus)
+#### [Sophora japonica](https://pollenx.eu/species.php?species=Sophora_japonica) onregelmatig
 
 ### 23. **Tricolporoidaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-#### Robinia pseudoacacia (valse acacia)
+#### [Robinia pseudoacacia](https://pollenx.eu/species.php?species=Robinia_pseudoacacia) (valse acacia)
 - In honing: 30.0% | De Boer: 2.3%
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 5, P 5
 
-#### Hypericum perforatum (sint-janskruid)
+#### [Hypericum perforatum](https://pollenx.eu/species.php?species=Hypericum_perforatum) (sint-janskruid)
 - In honing: 3.8% | —
 - Pollen: - 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
-23 #### Cytisus (brem)) — In honing: 0.6%
-23 #### Euonymus Kardinaalsmuts) — In honing: 0.6%
-23 #### Euphorbia Wolfsmelk)
-23 #### Genista-Typ Zonnewinde) — In honing: 0.6%
-23.1 #### Sambucus nigra Vlier) — In honing: 3.8%
-23.8.3 #### Verbascum Toorts)
-23.8 Anthirrhinum | antirrhinum 
-23.8 Scropuhlaria nodo | scropuhlaria nodo 
-23.8 Verbascum nigrum | verbascum nigrum 
-23.8 Verbascum nigrum | verbascum nigrum 
-23.8 Verbascum thaps | verbascum thaps 
-23.8.4 Linaria cymbalaria | linaria cymbalaria 
-23.8.4 Linaria vulg | linaria vulgaris 
-23.8.7 Digitalis purpurea | digitalis purpurea 
-23.11 Euphorbia spp | euphorbia spp 
-23.12 Cytisus | cytisus 
-23.12 Genista anglica | genista anglica 
-23.12 Lupinus | lupinus 
-23.12 Lupinus angustifo | lupinus angustifo 
-23.12 Sarothamnus sco of | sarothamnus scoparius of 
-23.12 Ulex europaeus | ulex europaeus 
-23.12 Ulex sp | ulex sp 
-23.14 Euonymus europ | euonymus europ 
-23.16 Cercis siliquastrum | cercis siliquastrum 
+#### [Cytisus](https://pollenx.eu/species.php?species=Cytisus) (brem)) — In honing: 0.6%
+#### [Euonymus](https://pollenx.eu/species.php?species=Euonymus) Kardinaalsmuts) — In honing: 0.6%
+#### [Euphorbia](https://pollenx.eu/species.php?species=Euphorbia) Wolfsmelk)
+#### [Genista-Typ](https://pollenx.eu/species.php?species=Genista-Typ) Zonnewinde) — In honing: 0.6%
+#### [Sambucus nigra](https://pollenx.eu/species.php?species=Sambucus_nigra) Vlier) — In honing: 3.8%
+#### [Verbascum](https://pollenx.eu/species.php?species=Verbascum) Toorts)
+#### [Anthirrhinum](https://pollenx.eu/species.php?species=Anthirrhinum)
+#### [Scropuhlaria nodo](https://pollenx.eu/species.php?species=Scropuhlaria_nodo)
+#### [Verbascum nigrum](https://pollenx.eu/species.php?species=Verbascum_nigrum)
+#### [Verbascum nigrum](https://pollenx.eu/species.php?species=Verbascum_nigrum)
+#### [Verbascum thaps](https://pollenx.eu/species.php?species=Verbascum_thaps)
+#### [Linaria cymbalaria](https://pollenx.eu/species.php?species=Linaria_cymbalaria)
+#### [Linaria vulg](https://pollenx.eu/species.php?species=Linaria_vulg)
+#### [Digitalis purpurea](https://pollenx.eu/species.php?species=Digitalis_purpurea)
+#### [Euphorbia spp](https://pollenx.eu/species.php?species=Euphorbia_spp)
+#### [Cytisus](https://pollenx.eu/species.php?species=Cytisus)
+#### [Genista anglica](https://pollenx.eu/species.php?species=Genista_anglica)
+#### [Lupinus](https://pollenx.eu/species.php?species=Lupinus)
+#### [Lupinus angustifo](https://pollenx.eu/species.php?species=Lupinus_angustifo)
+#### [Sarothamnus sco](https://pollenx.eu/species.php?species=Sarothamnus_sco) of
+#### [Ulex europaeus](https://pollenx.eu/species.php?species=Ulex_europaeus)
+#### [Ulex sp](https://pollenx.eu/species.php?species=Ulex_sp)
+#### [Euonymus europ](https://pollenx.eu/species.php?species=Euonymus_europ)
+#### [Cercis siliquastrum](https://pollenx.eu/species.php?species=Cercis_siliquastrum)
 
 ### 24. **Stephanocolpatae**
 
-#### Lamiaceae (lipbloemigen — divers)
+#### [Lamiaceae](https://pollenx.eu/species.php?species=Lamiaceae) (lipbloemigen — divers)
 - In honing: 13.8% | —
 - Pollen: - 
 - Bloeiperiode: april - september
 
-#### Phacelia tanacetifolia (phacelia)
+#### [Phacelia tanacetifolia](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia) (phacelia)
 - In honing: 5.0% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 5, P 5
 
-#### Impatiens balsamina (balsemien)
+#### [Impatiens balsamina](https://pollenx.eu/species.php?species=Impatiens_balsamina) (balsemien)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: juli - september
 
-#### Impatiens glandulifera (reuzenbalsamine)
+#### [Impatiens glandulifera](https://pollenx.eu/species.php?species=Impatiens_glandulifera) (reuzenbalsamine)
 - In honing: — | —
 - Pollen: - 
 - Bloeiperiode: juli - oktober
 - Waarde: N 3, P 3
 
-24 #### Glechoma hederacea Hondsdraf)
-24.5 #### Lavandula Lavendel)
-24.7 #### Majoranus-Typ Marjolein)
-24.13 #### Primula Sleutelbloem)
-25 #### Buddlejaceae davidii (vlinderstruik)
-25 #### Anchusa (oksaal)
-25.16 #### Symphytum officinale Smeerwortel)
-24.4 Asperula odorata | asperula odorata 
-24.4 Asperula odorata | asperula odorata 
-24.4 Galium sylvatica | galium sylvaticum 
-24.5 Lavandula angust | lavandula angustifolia 
-24.5 Lavandula angisti | lavandula angustifolia 
-24.7 Mentha aquatica | mentha aquatica 
-24.7 Origanum vulgare | origanum vulgare 
-24.7 Origanum vulgare | origanum vulgare 
-24.7 Satureia hortensis | satureia hortensis 
-24.7 Thymus serpyllum? | thymus serpyllum 
-24.8 Nepeta cataria | nepeta cataria 
-24.10 Rosmarinus off | rosmarinus officinalis 
+#### [Glechoma hederacea](https://pollenx.eu/species.php?species=Glechoma_hederacea) Hondsdraf)
+#### [Lavandula](https://pollenx.eu/species.php?species=Lavandula) Lavendel)
+#### [Majoranus-Typ](https://pollenx.eu/species.php?species=Majoranus-Typ) Marjolein)
+#### [Primula](https://pollenx.eu/species.php?species=Primula) Sleutelbloem)
+#### [Buddlejaceae davidii](https://pollenx.eu/species.php?species=Buddlejaceae_davidii) (vlinderstruik)
+#### [Anchusa](https://pollenx.eu/species.php?species=Anchusa) (oksaal)
+#### [Symphytum officinale](https://pollenx.eu/species.php?species=Symphytum_officinale) Smeerwortel)
+#### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
+#### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
+#### [Galium sylvatica](https://pollenx.eu/species.php?species=Galium_sylvatica)
+#### [Lavandula angust](https://pollenx.eu/species.php?species=Lavandula_angust)
+#### [Lavandula angisti](https://pollenx.eu/species.php?species=Lavandula_angisti)
+#### [Mentha aquatica](https://pollenx.eu/species.php?species=Mentha_aquatica)
+#### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
+#### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
+#### [Satureia hortensis](https://pollenx.eu/species.php?species=Satureia_hortensis)
+#### [Thymus serpyllum?](https://pollenx.eu/species.php?species=Thymus_serpyllum?)
+#### [Nepeta cataria](https://pollenx.eu/species.php?species=Nepeta_cataria)
+#### [Rosmarinus off](https://pollenx.eu/species.php?species=Rosmarinus_off)
 
 ### 25. **Stephanocolporatae**
 
-#### Viola tricolor (viooltje)
+#### [Viola tricolor](https://pollenx.eu/species.php?species=Viola_tricolor) (viooltje)
 - In honing: 8.8% | —
 - Pollen: - 
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
-25.4 Pulmonaria off | pulmonaria officinalis 
-25.9 Citrus sinensis | citrus sinensis 
-25.10 Ceratonia silqua | ceratonia silqua 
-25.17 Borago | borago 
+#### [Pulmonaria off](https://pollenx.eu/species.php?species=Pulmonaria_off)
+#### [Citrus sinensis](https://pollenx.eu/species.php?species=Citrus_sinensis)
+#### [Ceratonia silqua](https://pollenx.eu/species.php?species=Ceratonia_silqua)
+#### [Borago](https://pollenx.eu/species.php?species=Borago)
 
 ### 26. **Pericolpatae**
-26.6 Corydalis cava | corydalis cava 
-26.6 Corydalis lutea | corydalis lutea 
+#### [Corydalis cava](https://pollenx.eu/species.php?species=Corydalis_cava)
+#### [Corydalis lutea](https://pollenx.eu/species.php?species=Corydalis_lutea)
 
 ### 27. **Pericolporatae**
 
 ### 28. **Hetrocolpatae**
 
-#### Cynoglossum officinale (hondstong)
+#### [Cynoglossum officinale](https://pollenx.eu/species.php?species=Cynoglossum_officinale) (hondstong)
 - In honing: 12.5% | —
 - Pollen: - 
 - Bloeiperiode: mei - juni
 - Waarde: N 3, P 3
 
-#### Myosotis scorpioides (vergeet-mij-niet)
+#### [Myosotis scorpioides](https://pollenx.eu/species.php?species=Myosotis_scorpioides) (vergeet-mij-niet)
 - In honing: 5.6% | —
 - Pollen: - 
 - Bloeiperiode: mei - augustus
 - Waarde: N 1, P 0
 
-28.3 #### Lythrum salicaria Watereppe)
+#### [Lythrum salicaria](https://pollenx.eu/species.php?species=Lythrum_salicaria) Watereppe)
 
 ### 29. **Fenestratae**
 
-#### Taraxacum officinale (paardebloem)
+#### [Taraxacum officinale](https://pollenx.eu/species.php?species=Taraxacum_officinale) (paardebloem)
 - In honing: 21.9% | De Boer: 49.1%
 - Bloeiperiode: maart-mei
 - Waarde: N 5, P 5 
 
-29.3 Sonchus arvensis | sonchus arvensis 
-29.4 Cichorium intybus | cichorium intybus 
-29.4 Hieracium aurantia | hieracium aurantia 
-29.4 Hieracium sp. | hieracium sp. 
-29.6 Tragopogon sp | tragopogon sp 
+#### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
+#### [Cichorium intybus](https://pollenx.eu/species.php?species=Cichorium_intybus)
+#### [Hieracium aurantia](https://pollenx.eu/species.php?species=Hieracium_aurantia)
+#### [Hieracium sp.](https://pollenx.eu/species.php?species=Hieracium_sp.)
+#### [Tragopogon sp](https://pollenx.eu/species.php?species=Tragopogon_sp)
 
 ### 30. **Diporatae**
 
-30.1 Colchicinum autu | colchicinum autumnale 
-30.1 Colchicinum autum | colchicinum autumnale 
+#### [Colchicinum autu](https://pollenx.eu/species.php?species=Colchicinum_autu)
+#### [Colchicinum autum](https://pollenx.eu/species.php?species=Colchicinum_autum)
 
 ### 31. **Triporatae**
 
-#### Epilobium angustifolium (wilgeroosje)
+#### [Epilobium angustifolium](https://pollenx.eu/species.php?species=Epilobium_angustifolium) (wilgeroosje)
 - In honing: 10.0% | —
 - Pollen: - 
 - Bloeiperiode: juni - augustus
 
-#### Urtica dioica (brandnetel)
+#### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
 - In honing: — | —
 - Pollen: - 
 - Bloeiperiode: juni
 - Einde bloeiperiode: september
 
-31 #### Betula Berk)
-31 #### Corylus avellana Hazelaar)
+#### [Betula](https://pollenx.eu/species.php?species=Betula) Berk)
+#### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) Hazelaar)
 - Secundaire inbreng: **Corylus avellana**
-31 #### Cucumis sativus Komkommer/augurk) — In honing: 4.4%
-31.1 Knautia spp | knautia spp 
-31.4 Phaseolus coccin | phaseolus coccinea 
-31.4 Phaseolus vulgaris | phaseolus vulgaris 
-31.6 Oenothera tetrag | oenothera tetragona 
-31.10 Betula | betula 
-31.15 Humulus | humulus 
-31.15 Cannabis sativa | cannabis sativa 
+#### [Cucumis sativus](https://pollenx.eu/species.php?species=Cucumis_sativus) Komkommer/augurk) — In honing: 4.4%
+#### [Knautia spp](https://pollenx.eu/species.php?species=Knautia_spp)
+#### [Phaseolus coccin](https://pollenx.eu/species.php?species=Phaseolus_coccin)
+#### [Phaseolus vulgaris](https://pollenx.eu/species.php?species=Phaseolus_vulgaris)
+#### [Oenothera tetrag](https://pollenx.eu/species.php?species=Oenothera_tetrag)
+#### [Betula](https://pollenx.eu/species.php?species=Betula)
+#### [Humulus](https://pollenx.eu/species.php?species=Humulus)
+#### [Cannabis sativa](https://pollenx.eu/species.php?species=Cannabis_sativa)
 
 ### 32. **Stephanoporatae**
 
-#### Campanula (klokje)
+#### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
 - In honing: 6.9% | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 
-32 #### Campanula Klokje)
-32.11 #### Jasione Jasione)
-32.2 #### Juglans Walnoot) — In honing: 0.6%
-32.2 Juglans regia | juglans regia 
-32.6 Carpinus betulus | carpinus betulus 
-32.11 Jasione montana | jasione montana 
-32.12 Ulmus sp. | ulmus sp. 
+#### [Campanula](https://pollenx.eu/species.php?species=Campanula) Klokje)
+#### [Jasione](https://pollenx.eu/species.php?species=Jasione) Jasione)
+#### [Juglans](https://pollenx.eu/species.php?species=Juglans) Walnoot) — In honing: 0.6%
+#### [Juglans regia](https://pollenx.eu/species.php?species=Juglans_regia)
+#### [Carpinus betulus](https://pollenx.eu/species.php?species=Carpinus_betulus)
+#### [Jasione montana](https://pollenx.eu/species.php?species=Jasione_montana)
+#### [Ulmus sp.](https://pollenx.eu/species.php?species=Ulmus_sp.)
 
 
 ### 33. **Periporatae**
 
-#### Plantago lanceolata (weegbree)
+#### [Plantago lanceolata](https://pollenx.eu/species.php?species=Plantago_lanceolata) (weegbree)
 - In honing: 10.0% | — secundaire inbreng
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 0, P 3
 
-#### Lychnis flos-cuculi (koekoeksbloem)
+#### [Lychnis flos-cuculi](https://pollenx.eu/species.php?species=Lychnis_flos-cuculi) (koekoeksbloem)
 - In honing: — | —
 - Pollen: - 
 - Bloeiperiode: mei - september
 - Waarde: N 3, P 3
 
-#### Daphne laureola (peperboompje)
+#### [Daphne laureola](https://pollenx.eu/species.php?species=Daphne_laureola) (peperboompje)
 - In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: februari - april
 
-#### Phlox subulata (vlambloem)
+#### [Phlox subulata](https://pollenx.eu/species.php?species=Phlox_subulata) (vlambloem)
 - In honing: 1.3% | —
 - Pollen: - 
 - Bloeiperiode: mei - juli
 
-#### Thalictrum flavum (ruit)
+#### [Thalictrum flavum](https://pollenx.eu/species.php?species=Thalictrum_flavum) (ruit)
 - In honing: 0.6% | —
 - Pollen: - 
 - Bloeiperiode: juni - juli
 - Waarde: N 0 - P 3
 
-33. Caryophyllaceae (Anjerfamilie)
-33 #### Anemone (anemoon)
-33 #### Caryophyllaceae Anjerfamilie) — In honing: 5.0%
-33 #### Chenopodium album Ganzevoetfamilie) — In honing: 4.4%
+#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (Anjerfamilie)
+#### [Anemone](https://pollenx.eu/species.php?species=Anemone) (anemoon)
+#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) Anjerfamilie) — In honing: 5.0%
+#### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) Ganzevoetfamilie) — In honing: 4.4%
 - Secundaire inbreng: **Amaranthaceae**
-33 #### Cyperaceae Zeggen) — In honing: 1.3%
-33 #### Polygonum persicaria Zonnerus)
-33 #### Polygonum-Typ Duizendknoop)
-33 #### Trachelospermum Jasmijn)
-33.8 #### Silene Anjerfamilie) — In honing: —
-33.8 #### Stellaria holostea Grote muur)
-33.8 #### Stellaria media Vogelmuur)
-33.10 #### Ribes Aalbes/Rode aalbes)
-33.1 Fumaria officinalis | fumaria officinalis 
-33.6 Malva sp. | malva sp. 
-33.6 Hibiscus esculent | hibiscus esculent 
-33.8 Cerastium fontan | cerastium fontan 
-33.8 Lychnis-flos-cuculi | lychnis-flos-cuculi 
-33.8 Silene dioica | silene dioica 
-33.10 Ribes sanguineum | ribes sanguineum 
-33.11 Polemonium coeru | polemonium coeru 
-33.17 Buxus sempervi | buxus sempervi 
-33.21 Calystegia sepium | calystegia sepium 
+#### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) Zeggen) — In honing: 1.3%
+#### [Polygonum persicaria](https://pollenx.eu/species.php?species=Polygonum_persicaria) Zonnerus)
+#### [Polygonum-Typ](https://pollenx.eu/species.php?species=Polygonum-Typ) Duizendknoop)
+#### [Trachelospermum](https://pollenx.eu/species.php?species=Trachelospermum) Jasmijn)
+#### [Silene](https://pollenx.eu/species.php?species=Silene) Anjerfamilie) — In honing: —
+#### [Stellaria holostea](https://pollenx.eu/species.php?species=Stellaria_holostea) Grote muur)
+#### [Stellaria media](https://pollenx.eu/species.php?species=Stellaria_media) Vogelmuur)
+#### [Ribes](https://pollenx.eu/species.php?species=Ribes) Aalbes/Rode aalbes)
+#### [Fumaria officinalis](https://pollenx.eu/species.php?species=Fumaria_officinalis)
+#### [Malva sp.](https://pollenx.eu/species.php?species=Malva_sp.)
+#### [Hibiscus esculent](https://pollenx.eu/species.php?species=Hibiscus_esculent)
+#### [Cerastium fontan](https://pollenx.eu/species.php?species=Cerastium_fontan)
+#### [Lychnis-flos-cuculi](https://pollenx.eu/species.php?species=Lychnis-flos-cuculi)
+#### [Silene dioica](https://pollenx.eu/species.php?species=Silene_dioica)
+#### [Ribes sanguineum](https://pollenx.eu/species.php?species=Ribes_sanguineum)
+#### [Polemonium coeru](https://pollenx.eu/species.php?species=Polemonium_coeru)
+#### [Buxus sempervi](https://pollenx.eu/species.php?species=Buxus_sempervi)
+#### [Calystegia sepium](https://pollenx.eu/species.php?species=Calystegia_sepium)
 
 ---
 
-#### Gilia capitata Gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
-#### Myrica gale Gagel) — In honing: 0.6%
-#### Rhamnus Wegedoorn/Vuilboom)
+#### [Gilia capitata](https://pollenx.eu/species.php?species=Gilia_capitata) Gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
+#### [Myrica gale](https://pollenx.eu/species.php?species=Myrica_gale) Gagel) — In honing: 0.6%
+#### [Rhamnus](https://pollenx.eu/species.php?species=Rhamnus) Wegedoorn/Vuilboom)
 Ambrosia artemis | ambrosia artemis 
 
 ---
@@ -990,83 +991,83 @@ Ambrosia artemis | ambrosia artemis
 
 
 Afrika | afrika 
-Alyssum sp. | alyssum sp. 
-Anacardium occid | anacardium occid 
-Anethum graveole | anethum graveolens 
-Borreria sp. (Rubia) | borreria sp. 
-Cakile maritima | cakile maritima 
-Carlina aucalis | carlina aucalis 
-Cnicus benedict | cnicus benedict 
-Cosmos sp. | cosmos sp. 
-Crepis sp. | crepis sp. 
-Cyto: gran | cyto: gran 
-Cyto:. zetmeel. Syn:Polygonum jap. | cyto:. zetmeel. syn:polygonum jap. 
-Escallonia sp | escallonia sp 
-Euodia hupehensis | euodia hupehensis 
-Granulair | granulair 
-Hedysarum corona | hedysarum corona 
-Lampsana commu | lampsana commu 
-Larix decidua | larix decidua 
-Larix decidua | larix decidua 
-Leontodon  autum | leontodon autumnale 
-Loranthus europaeus | loranthus europaeus 
-Mespilus germani | mespilus germani 
-Morus alba | morus alba 
-Nemophila menzi | nemophila menziesii 
-Nemophila sp. | nemophila sp. 
-Odontites vernus gelig | odontites vernus gelig 
-Oost Azië | oost azië 
-Ornithopus perpus | ornithopus perpusillus 
-Pachysandra ter(?) | pachysandra ter 
-Pastinaca sativa | pastinaca sativa 
-Picris echinoïdes | picris echinoïdes 
-Picris hiëracioïdes | picris hiëracioïdes 
-Platanus hybr | platanus hybrida 
-PK09 Asparagus | asparagus 
-PK09 Limnanthes dougl | limnanthes douglasii 
-PK09 Narcissus sp | narcissus sp 
-PK09 Narcissus sp. | narcissus sp. 
-PK10 Portulacca oleacera | portulacca oleracea 
-PK10 Eucalyptus camal | eucalyptus camal 
-PK13 Callicarpa sp. | callicarpa sp. 
-PK14 Verbena officinalis | verbena officinalis 
-PK14 Ruta graveolens | ruta graveolens 
-PK14 Symphoricarpus sp | symphoricarpus sp 
-PK15 Gleditsia triacanth | gleditsia triacanth 
-PK15 Carragena arbores | carragena arborescens 
-PK16 Carpobrotis edulis | carpobrotis edulis 
-PK17 Kolkwitzia amabilis | kolkwitzia amabilis 
-PK17 Helenium autumn | helenium autumn 
-PK19 Solanum dul- camara | solanum dul- camara 
-PK19 Solanum lycopers | solanum lycopersicum 
-PK19 Solanum tuber. | solanum tuber. 
-PK19 Davidia involcrata | davidia involucrata 
-PK19 Davidia involcrata | davidia involucrata 
-PK19 Mangifera indica | mangifera indica 
-PK21 Osmanthus sp. | osmanthus sp. 
-PK21 Theobroma cacao | theobroma cacao 
-PK22 Hydrangea sp | hydrangea sp 
-PK22 Hydrangea macr. | hydrangea macr. 
-PK22 Philadelphus coronarium | philadelphus coronarium 
-PK22 Philadelphus coronarium | philadelphus coronarium 
-PK22 Coffea sp. | coffea sp. 
-PK22 Deutzia sp. | deutzia sp. 
-PK22 Deutzia sp. | deutzia sp. 
-PK22 Aralia elata | aralia elata 
-PK22 Citrullus lanatus | citrullus lanatus 
-PK23 Tropaeolum majus | tropaeolum majus 
-PK24 Eschscholtzia calif | eschscholtzia calif 
-PK24 Escholzia | escholzia 
-PK24 Mimulus guttatus | mimulus guttatus 
-PK24 Salvia pratensis | salvia pratensis 
-PK24 Salvia sp. | salvia sp. 
-PK25 Anchusa arvensis | anchusa arvensis 
-PK25 Anchusa officinalis | anchusa officinalis 
-PK25 Buddleiea | buddleja 
-PK25 Skimmia | skimmia 
-PK33 Carex spp | carex spp 
-Santolina | santolina 
-Sapindaceae (fam.) | sapindaceae 
-Tordylium apulum | tordylium apulum 
-Weigelia/Diervilla | weigelia/diervilla 
-Xanthium italicum | xanthium italicum 
+#### [Alyssum sp.](https://pollenx.eu/species.php?species=Alyssum_sp.)
+#### [Anacardium occid](https://pollenx.eu/species.php?species=Anacardium_occid)
+#### [Anethum graveole](https://pollenx.eu/species.php?species=Anethum_graveole)
+#### [Borreria sp.](https://pollenx.eu/species.php?species=Borreria_sp.) (Rubia)
+#### [Cakile maritima](https://pollenx.eu/species.php?species=Cakile_maritima)
+#### [Carlina aucalis](https://pollenx.eu/species.php?species=Carlina_aucalis)
+#### [Cnicus benedict](https://pollenx.eu/species.php?species=Cnicus_benedict)
+#### [Cosmos sp.](https://pollenx.eu/species.php?species=Cosmos_sp.)
+#### [Crepis sp.](https://pollenx.eu/species.php?species=Crepis_sp.)
+#### [Cyto: gran](https://pollenx.eu/species.php?species=Cyto:_gran)
+#### [Cyto:. zetmeel.](https://pollenx.eu/species.php?species=Cyto:._zetmeel.) Syn:Polygonum jap.
+#### [Escallonia sp](https://pollenx.eu/species.php?species=Escallonia_sp)
+#### [Euodia hupehensis](https://pollenx.eu/species.php?species=Euodia_hupehensis)
+#### [Granulair](https://pollenx.eu/species.php?species=Granulair)
+#### [Hedysarum corona](https://pollenx.eu/species.php?species=Hedysarum_corona)
+#### [Lampsana commu](https://pollenx.eu/species.php?species=Lampsana_commu)
+#### [Larix decidua](https://pollenx.eu/species.php?species=Larix_decidua)
+#### [Larix decidua](https://pollenx.eu/species.php?species=Larix_decidua)
+#### [Leontodon autum](https://pollenx.eu/species.php?species=Leontodon_autum)
+#### [Loranthus europaeus](https://pollenx.eu/species.php?species=Loranthus_europaeus)
+#### [Mespilus germani](https://pollenx.eu/species.php?species=Mespilus_germani)
+#### [Morus alba](https://pollenx.eu/species.php?species=Morus_alba)
+#### [Nemophila menzi](https://pollenx.eu/species.php?species=Nemophila_menzi)
+#### [Nemophila sp.](https://pollenx.eu/species.php?species=Nemophila_sp.)
+#### [Odontites vernus](https://pollenx.eu/species.php?species=Odontites_vernus) gelig
+#### [Oost](https://pollenx.eu/species.php?species=Oost) Azië
+#### [Ornithopus perpus](https://pollenx.eu/species.php?species=Ornithopus_perpus)
+#### [Pachysandra ter(?)](https://pollenx.eu/species.php?species=Pachysandra_ter(?))
+#### [Pastinaca sativa](https://pollenx.eu/species.php?species=Pastinaca_sativa)
+#### [Picris echinoïdes](https://pollenx.eu/species.php?species=Picris_echinoïdes)
+#### [Picris hiëracioïdes](https://pollenx.eu/species.php?species=Picris_hiëracioïdes)
+#### [Platanus hybr](https://pollenx.eu/species.php?species=Platanus_hybr)
+#### [Asparagus](https://pollenx.eu/species.php?species=Asparagus)
+#### [Limnanthes dougl](https://pollenx.eu/species.php?species=Limnanthes_dougl)
+#### [Narcissus sp](https://pollenx.eu/species.php?species=Narcissus_sp)
+#### [Narcissus sp.](https://pollenx.eu/species.php?species=Narcissus_sp.)
+#### [Portulacca oleacera](https://pollenx.eu/species.php?species=Portulacca_oleacera)
+#### [Eucalyptus camal](https://pollenx.eu/species.php?species=Eucalyptus_camal)
+#### [Callicarpa sp.](https://pollenx.eu/species.php?species=Callicarpa_sp.)
+#### [Verbena officinalis](https://pollenx.eu/species.php?species=Verbena_officinalis)
+#### [Ruta graveolens](https://pollenx.eu/species.php?species=Ruta_graveolens)
+#### [Symphoricarpus sp](https://pollenx.eu/species.php?species=Symphoricarpus_sp)
+#### [Gleditsia triacanth](https://pollenx.eu/species.php?species=Gleditsia_triacanth)
+#### [Carragena arbores](https://pollenx.eu/species.php?species=Carragena_arbores)
+#### [Carpobrotis edulis](https://pollenx.eu/species.php?species=Carpobrotis_edulis)
+#### [Kolkwitzia amabilis](https://pollenx.eu/species.php?species=Kolkwitzia_amabilis)
+#### [Helenium autumn](https://pollenx.eu/species.php?species=Helenium_autumn)
+#### [Solanum dul-](https://pollenx.eu/species.php?species=Solanum_dul-) camara
+#### [Solanum lycopers](https://pollenx.eu/species.php?species=Solanum_lycopers)
+#### [Solanum tuber.](https://pollenx.eu/species.php?species=Solanum_tuber.)
+#### [Davidia involcrata](https://pollenx.eu/species.php?species=Davidia_involcrata)
+#### [Davidia involcrata](https://pollenx.eu/species.php?species=Davidia_involcrata)
+#### [Mangifera indica](https://pollenx.eu/species.php?species=Mangifera_indica)
+#### [Osmanthus sp.](https://pollenx.eu/species.php?species=Osmanthus_sp.)
+#### [Theobroma cacao](https://pollenx.eu/species.php?species=Theobroma_cacao)
+#### [Hydrangea sp](https://pollenx.eu/species.php?species=Hydrangea_sp)
+#### [Hydrangea macr.](https://pollenx.eu/species.php?species=Hydrangea_macr.)
+#### [Philadelphus coronarium](https://pollenx.eu/species.php?species=Philadelphus_coronarium)
+#### [Philadelphus coronarium](https://pollenx.eu/species.php?species=Philadelphus_coronarium)
+#### [Coffea sp.](https://pollenx.eu/species.php?species=Coffea_sp.)
+#### [Deutzia sp.](https://pollenx.eu/species.php?species=Deutzia_sp.)
+#### [Deutzia sp.](https://pollenx.eu/species.php?species=Deutzia_sp.)
+#### [Aralia elata](https://pollenx.eu/species.php?species=Aralia_elata)
+#### [Citrullus lanatus](https://pollenx.eu/species.php?species=Citrullus_lanatus)
+#### [Tropaeolum majus](https://pollenx.eu/species.php?species=Tropaeolum_majus)
+#### [Eschscholtzia calif](https://pollenx.eu/species.php?species=Eschscholtzia_calif)
+#### [Escholzia](https://pollenx.eu/species.php?species=Escholzia)
+#### [Mimulus guttatus](https://pollenx.eu/species.php?species=Mimulus_guttatus)
+#### [Salvia pratensis](https://pollenx.eu/species.php?species=Salvia_pratensis)
+#### [Salvia sp.](https://pollenx.eu/species.php?species=Salvia_sp.)
+#### [Anchusa arvensis](https://pollenx.eu/species.php?species=Anchusa_arvensis)
+#### [Anchusa officinalis](https://pollenx.eu/species.php?species=Anchusa_officinalis)
+#### [Buddleiea](https://pollenx.eu/species.php?species=Buddleiea)
+#### [Skimmia](https://pollenx.eu/species.php?species=Skimmia)
+#### [Carex spp](https://pollenx.eu/species.php?species=Carex_spp)
+#### [Santolina](https://pollenx.eu/species.php?species=Santolina)
+#### [Sapindaceae](https://pollenx.eu/species.php?species=Sapindaceae) (fam.)
+#### [Tordylium apulum](https://pollenx.eu/species.php?species=Tordylium_apulum)
+#### [Weigelia/Diervilla](https://pollenx.eu/species.php?species=Weigelia_Diervilla)
+#### [Xanthium italicum](https://pollenx.eu/species.php?species=Xanthium_italicum)
