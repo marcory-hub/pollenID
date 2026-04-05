@@ -610,93 +610,78 @@ Image scale (2,5*size in µm = px)
 
 #### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria) (moerasspiraea)
 - In honing: 8.1% 
-- Pollen: 
+- Pollen: 17 (15.1-18.3) μm, gemmate, psilate, microechinate, scabrate, verrucate
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
   </div>
 </div>
 
 #### [Carum carvi](https://pollenx.eu/species.php?species=Carum_carvi) (karwij)
 - In honing: 0.6% 
-- Pollen: 
+- Pollen: 26 (24.4-28.0) μm, scabrate, verrucate, gemmate sculpturen
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Carum_carvi_Ed.png" style="height: 65px; width: auto;" alt="Carum_carvi">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Carum_carvi_Ed2.png" style="height: 65px; width: auto;" alt="Carum_carvi">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Carum_carvi_Eo.png" style="height: 65px; width: auto;" alt="Carum_carvi"> 
     </figure>
   </div>
 </div>
 
 #### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) 
 — In honing: 2.5%
-- Pollen: 
+- Pollen: ,tricolpate, colporate, triporate sculptuur
 - Bloeiperiode: 
 - Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Ed.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Eo.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Pd.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris"> </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Artemisia_vulgaris_Po.png" style="height: 94px; width: auto;" alt="Artemisia_vulgaris">
     </figure>
   </div>
 </div>
 
-#### [Solanum](https://pollenx.eu/species.php?species=Solanum) (nachtschadefamilie) 
+#### [Solanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Solanaceae) (nachtschadefamilie) 
 — In honing: 1.3%
-- Pollen: 
-- Bloeiperiode: 
-- Waarde:
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 
+
+
+[to be verified]
+Solanum dulcamara	Bitterzoet	vast/klim	?	N 5	P 5	6	9
+Solanum nigrum ssp. nigrum	Zwarte nachtschade	1-jarig	?	N 1	P 1	6	9
 #### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) (centaurea)
 #### [Centaurea jacea-Typ](https://pollenx.eu/species.php?species=Centaurea_jacea-Typ) (akkercentaurie)
 #### [Symphoricarpos](https://pollenx.eu/species.php?species=Symphoricarpos) (sneeuwbes)
 #### [Polygonum aviculare](https://pollenx.eu/species.php?species=Polygonum_aviculare) (zwaluwtong)
-#### [Heracleum-Typ](https://pollenx.eu/species.php?species=Heracleum-Typ) (eeuzenkruiskruid)
+#### [Heracleum-Typ](https://pollenx.eu/species.php?species=Heracleum-Typ) (reuzenkruiskruid)
 #### [Hippophaë rhamn](https://pollenx.eu/species.php?species=Hippophaë_rhamn)
 #### [Angelica sylvestris](https://pollenx.eu/species.php?species=Angelica_sylvestris)
 #### [Astrantia major](https://pollenx.eu/species.php?species=Astrantia_major)
@@ -716,6 +701,10 @@ Image scale (2,5*size in µm = px)
 ### 15. **Tricolporoidaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas)
+— In honing: 
+- Pollen: 
+- Bloeiperiode: 
+- Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -733,6 +722,10 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
+— In honing: 
+- Pollen: 
+- Bloeiperiode: 
+- Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -750,7 +743,7 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
-#### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (ann/per(bos)bingelkruid
+#### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (bos)bingelkruid
 #### [Medicago](https://pollenx.eu/species.php?species=Medicago)
 #### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
