@@ -30,7 +30,7 @@ Image scale (2,5*size in µm = px)
 
 #### [Erica tetralix](https://pollenx.eu/species.php?species=Erica_tetralix) (dopheide)
 - In honing: 8.1% — incidenteel in zomerhoning
-- Pollen: 26-50 µm
+- Pollen: 26-50 µm, fossulate, scabrate, verrucate, gemmate
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
@@ -59,9 +59,9 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Vaccinium vitis-idea](https://pollenx.eu/species.php?species=Vaccinium_vitis-idea) (vossebes)
+#### [Vaccinium vitis-ideae](https://pollenx.eu/species.php?species=Vaccinium_vitis-idaea) (vossebes)
 - In honing: 1.3%, incidenteel in zomerhoning 
-- Pollen: 35 (31.5-40.9) μm
+- Pollen: 35 (31.5-40.9) μm, psilate, scabrate
 - Bloeiperiode: juni - september
 - Waarde:
 <div class="pid-scale-gallery">
@@ -75,7 +75,7 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Rhododendron dauricum](https://pollenx.eu/species.php?species=Rhododendron_dauricum) (rododendron)
+#### [Rhododendron dauricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_dauricum) (rododendron)
 - In honing: 1.9%
 - Pollen: 49 (45.8-40.6) μm, scabraat tot verrucaat
 - Bloeiperiode: april - mei
@@ -92,13 +92,13 @@ Image scale (2,5*size in µm = px)
 </div>
 
 #### [Vaccinium myrtillus](https://pollenx.eu/species.php?species=Vaccinium_myrtillus) (bosbes) - incidenteel in zomerhoning
-#### [Pieris Japonica](https://pollenx.eu/species.php?species=Pieris_Japonica) (rotsheide)
+#### [Pieris Japonica](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pieris_japonica) (rotsheide)
 #### [Vaccinium corymbosum](https://pollenx.eu/species.php?species=Vaccinium_corymbosum) (blauwe bes)
-#### [Catalpa ovata](https://pollenx.eu/species.php?species=Catalpa_ovata) (trompetboom)
+#### [Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata/301425) (trompetboom)
 
 ### 6. **Vesiculatae**
 
-#### [Pinus syvestris](https://pollenx.eu/species.php?species=Pinus_syvestris) (grove den)
+#### [Pinus sylvestris](https://pollenx.eu/species.php?species=Pinus_sylvestris) (grove den)
 - In honing: 2.5%, secundaire inbreng
 - Pollen: 65 μm, reticulaat
 - Bloeiperiode: april - mei
@@ -113,9 +113,9 @@ Image scale (2,5*size in µm = px)
 
 ### 7. **Inaperturatae inclusief polyplicatae**
 
-#### [Juniperus communis](https://pollenx.eu/species.php?species=Juniperus_communis) (Cupressaceae) (jeneverbes)
+#### [Juniperus communis](https://www.paldat.org/pub/Juniperus_communis/) (cupressaceae) (jeneverbes)
 - In honing: 1.3%
-- Pollen: 26–30 μm
+- Pollen: 26–30 μm, verrucate, scabrate, gemmate sculptuur
 - Bloeiperiode: maart–mei
 - Waarde: 
 <div class="pid-scale-gallery">
@@ -129,9 +129,9 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Laurus nobilis](https://pollenx.eu/species.php?species=Laurus_nobilis) (laurier)
+#### [Laurus nobilis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Laurus_nobilis) (laurier)
 - In honing: 0.6%
-- Pollen: 38 (34.1–40.1) μm
+- Pollen: 38 (34.1–40.1) μm, echinaat (echini zijn kort, breed, piramide vormig tot verrucaat)
 - Bloeiperiode: maart–april
 - Waarde: 
 <div class="pid-scale-gallery">
@@ -148,9 +148,9 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Populus sp](https://pollenx.eu/species.php?species=Populus_sp) (populier)
+#### [Populus sp](https://pollenx.eu/species.php?species=Populus_nigra) (populier)
 - In honing: 0.6% secundaire inbreng
-- Pollen: 29 (24.3-31.6) μm
+- Pollen: 29 (24.3-31.6) μm, gemmate, microreticulate, scabrate, echinate, verrucate
 - Bloeiperiode: 
 - Waarde: 
 <div class="pid-scale-gallery">
@@ -186,10 +186,10 @@ Image scale (2,5*size in µm = px)
   </div>
 </div>
 
-#### [Thuja sp.](https://pollenx.eu/species.php?species=Thuja_sp.)
-#### [Crocus albiflorus](https://pollenx.eu/species.php?species=Crocus_albiflorus)
-#### [Crocus ancyrensis](https://pollenx.eu/species.php?species=Crocus_ancyrensis)
-#### [Crocus sp.](https://pollenx.eu/species.php?species=Crocus_sp.)
+#### [Thuja sp.](https://pollen.tstebler.ch/MediaWiki/index.php?title=Thuja_occidentalis)
+#### [Crocus albiflorus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus)
+#### [Crocus ancyrensis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_ancyrensis)
+#### [Crocus sp.](https://pollenx.eu/species.php?species=Crocus.)
 
 ### 8. **Monoporatae**
 
@@ -198,7 +198,7 @@ Image scale (2,5*size in µm = px)
 
 #### [Alopecurus pratensis](https://pollenx.eu/species.php?species=Alopecurus_pratensis) (grote vossestaart)
 - In honing: secundaire inbreng
-- Pollen: 29 (26.4-30.8) μm, scabraat
+- Pollen: 29 (26.4-30.8) μm, psilate, scabrate sculptuur, operculate, annulate apertuur
 - Bloeiperiode: 
 - Waarde: 
 <div class="pid-scale-gallery">
@@ -230,7 +230,7 @@ Image scale (2,5*size in µm = px)
 
 #### [Nymphaea alba](https://pollenx.eu/species.php?species=Nymphaea_alba)
 - In honing: 
-- Pollen: 38 (34.8-42.9) μm, echinaat/baculaat/clavaat tot psilaat, een zijde met grote ornametering and de andere zijde duidelijk minder
+- Pollen: 38 (34.8-42.9) μm, baculate, clavate, echinate tot psilate sculptuur, één zijde met grote ornametering and de andere zijde duidelijk minder
 - Bloeiperiode: mei - augustus
 - Waarde: N 0, P 1
 <div class="pid-scale-gallery">
@@ -246,24 +246,38 @@ Image scale (2,5*size in µm = px)
 
 ### 9. **Monocolpatae**
 
-#### [Magnolia kobus](https://pollenx.eu/species.php?species=Magnolia_kobus) (magnolia)
+#### [Magnolia kobus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Magnolia_kobus) (magnolia)
 - In honing: 1.9%
-- Pollen:
+- Pollen: 41 (34.6-48.2) μm, rugulate tot verrucate, deels gering reticulate sculptuur
 - Bloeiperiode: maart - april
 - Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Magnolia_kobus_Eo.png" style="height: 73px; width: auto;" alt="Magnolia_kobus_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Magnolia_kobus_Eo2.png" style="height: 73px; width: auto;" alt="Magnolia_kobus_Eo2">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Magnolia_kobus_Eo3.png" style="height: 73px; width: auto;" alt="Magnolia_kobus_Eo3">
+    </figure>
+ </div>
+</div>
 
-#### [Muscari odorata](https://pollenx.eu/species.php?species=Muscari_odorata) (Blauwe druifhyacint)
+[to be verified]
+#### [Muscari odorata](https://pollenx.eu/species.php?species=Muscari_odorata) (blauwe druifhyacint)
 #### [Asparagus-Type](https://pollenx.eu/species.php?species=Asparagus-Type) (asperge)
-#### [Chionodoxa](https://pollenx.eu/species.php?species=Chionodoxa) Sneeuwroem)
-#### [Iris reticulata](https://pollenx.eu/species.php?species=Iris_reticulata) Gegroefde lis)
+#### [Chionodoxa](https://pollenx.eu/species.php?species=Chionodoxa) (sneeuwroem)
+#### [Iris reticulata](https://pollenx.eu/species.php?species=Iris_reticulata) (gegroefde lis)
 #### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) (blauwe druif)
-#### [Tradescantia](https://pollenx.eu/species.php?species=Tradescantia) Driekleurig bloemzegge)
-#### [Liliaceae](https://pollenx.eu/species.php?species=Liliaceae) [Liliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Liliaceae) (Leliefamilie) — In honing: 12.5%
-#### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) Blauwe druif)
-#### [Tulipa](https://pollenx.eu/species.php?species=Tulipa) Tulp)
-#### [Hyacinthus orientalis](https://pollenx.eu/species.php?species=Hyacinthus_orientalis) Hyacint)
-#### [Leucojum aestivum](https://pollenx.eu/species.php?species=Leucojum_aestivum) Zomerklokje)
-#### [Narcissus](https://pollenx.eu/species.php?species=Narcissus) Narcis)
+#### [Tradescantia](https://pollenx.eu/species.php?species=Tradescantia) (driekleurig bloemzegge)
+#### [Liliaceae](https://pollenx.eu/species.php?species=Liliaceae) [Liliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Liliaceae) (leliefamilie) — In honing: 12.5%
+#### [Muscari botryoides](https://pollenx.eu/species.php?species=Muscari_botryoides) (blauwe druif)
+#### [Tulipa](https://pollenx.eu/species.php?species=Tulipa) (tulp)
+#### [Hyacinthus orientalis](https://pollenx.eu/species.php?species=Hyacinthus_orientalis) (hyacint)
+#### [Leucojum aestivum](https://pollenx.eu/species.php?species=Leucojum_aestivum) (zomerklokje)
+#### [Narcissus](https://pollenx.eu/species.php?species=Narcissus) (narcis)
 #### [Allium-Typ](https://pollenx.eu/species.php?species=Allium-Typ) (look)
 #### [Asphodelus aestiv](https://pollenx.eu/species.php?species=Asphodelus_aestiv)
 #### [Liriodendron tulip](https://pollenx.eu/species.php?species=Liriodendron_tulip)
@@ -280,12 +294,26 @@ Image scale (2,5*size in µm = px)
 ### 10. **Syncolpatae**
 
 #### [Berberis vulgaris](https://pollenx.eu/species.php?species=Berberis_vulgaris) (zuurbes)
-- In honing: 1.9% | —
-- Pollen: - 
+- In honing: 1.9%
+- Pollen: 46 (39.5-51.9) μm, scabrate, psilate, verrucate, gemmate sculptuur, spiraperturate deels met korrelige tot verrucate ornamentatie
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Crocus](https://pollenx.eu/species.php?species=Crocus) Krokus)
+[to be verified]
+#### [Crocus](https://pollenx.eu/species.php?species=Crocus) (krokus)
 #### [Mahonia aquifolia](https://pollenx.eu/species.php?species=Mahonia_aquifolia)
 #### [Primula vulgaris](https://pollenx.eu/species.php?species=Primula_vulgaris)
 
@@ -296,22 +324,47 @@ Image scale (2,5*size in µm = px)
 ### 13. **Tricolpaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Quercus robur](https://pollenx.eu/species.php?species=Quercus_robur) (eik)
-- In honing: 9.4% | — secundaire inbreng
-- Pollen: - 
+- In honing: 9.4% secundaire inbreng
+- Pollen: 33 (29.3-38.1) μm, scabrate, verrucate, gemmate sculpturen
 - Bloeiperiode: mei - mei
 - Waarde: honingdauw
 - Pollenwaarde: P 0
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Quercus_robor_Po.png" style="height: 94px; width: auto;" alt="Quercus_robor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Quercus_robor_Pd.png" style="height: 94px; width: auto;" alt="Quercus_robor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Quercus_robor_Eo.png" style="height: 94px; width: auto;" alt="Quercus_robor"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Quercus_robor_Eo2.png" style="height: 94px; width: auto;" alt="Quercus_robor">
+    </figure>
+  </div>
+</div>
 
+[]
+#### [Ranunculus](https://pollenx.eu/species.php?species=Ranunculus) (ranonkel) 
+— In honing: 4.4%
+- Pollen:
+- Bloeiperiode: 
+- Waarde:
 
-#### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) Gewoon speenkruid)
-#### [Veronica](https://pollenx.eu/species.php?species=Veronica) Ereprijs)
-#### [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) Witte dovenetel)
-#### [Lamium purpureum](https://pollenx.eu/species.php?species=Lamium_purpureum) Paarse dovenetel)
-#### [Lamium-Typ](https://pollenx.eu/species.php?species=Lamium-Typ) Lamium — divers)
-#### [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) Scherpe boterbloem)
-#### [Ranunculus](https://pollenx.eu/species.php?species=Ranunculus) Ranonkel) — In honing: 4.4%
-#### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) Klaproos) — In honing: 5.0%
-- Secundaire inbreng: **Papaver-soorten**
+#### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) (klaproos) 
+— In honing: 5.0%, secundaire inbreng
+- Pollen:
+- Bloeiperiode: 
+- Waarde:
+
+[to be verified]
+#### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) (gewoon speenkruid)
+#### [Veronica](https://pollenx.eu/species.php?species=Veronica) (ereprijs)
+#### [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) (witte dovenetel)
+#### [Lamium purpureum](https://pollenx.eu/species.php?species=Lamium_purpureum) (paarse dovenetel)
+#### [Lamium-Typ](https://pollenx.eu/species.php?species=Lamium-Typ) (lamium sp)
+#### [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) (scherpe boterbloem)
 #### [Aconitum sp](https://pollenx.eu/species.php?species=Aconitum_sp) | aconitum sp
 #### [Sanguisorba off](https://pollenx.eu/species.php?species=Sanguisorba_off)
 #### [Sanguisorba minor](https://pollenx.eu/species.php?species=Sanguisorba_minor)
@@ -333,64 +386,75 @@ Image scale (2,5*size in µm = px)
 ### 14. **Tricolporaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Lotus corniculatus](https://pollenx.eu/species.php?species=Lotus_corniculatus) (rolklaver)
-- In honing: 23.1% | De Boer: 34.2%
-- Pollen: - 
+- In honing: 23.1% (k), 34.2% (db)
+- Pollen:
 - Bloeiperiode: mei - augustus
+- Waarde:
 
 #### [Castanea sativa](https://pollenx.eu/species.php?species=Castanea_sativa) (tamme kastanje)
-- In honing: 23.1% | De Boer: 21.3%
-- Pollen: - 
+- In honing: 23.1% (k), 21.3% (db)
+- Pollen:
 - Bloeiperiode: juni - juni
 - Waarde: N 5, P 5 
 
 #### [Frangula alnus](https://pollenx.eu/species.php?species=Frangula_alnus) (vuilboom / sporkehout)
-- In honing: 22.5% | De Boer: 35.4%
-- Pollen: - 
+- In honing: 22.5% (k), 35.4% (db)
+- Pollen:
 - Bloeiperiode: mei - juni
+- Waarde:
 
 #### [Centaurea cyanus](https://pollenx.eu/species.php?species=Centaurea_cyanus) (korenbloem)
-- In honing: 17.5% | De Boer: 7.6%
-- Pollen: - 
+- In honing: 17.5% (k), 7.6% (db)
+- Pollen: 
 - Bloeiperiode: juni - augustus
 - Waarde: N 5, P 5
 
 #### [Anthriscus sylvestris](https://pollenx.eu/species.php?species=Anthriscus_sylvestris) (fluitekruid)
-- In honing: 16.3% | —
-- Pollen: - 
+- In honing: 16.3%
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 2, N2
 
 #### [Heracleum spondylium](https://pollenx.eu/species.php?species=Heracleum_spondylium) (bereklauw)
-- In honing: 8.8% | —
-- Pollen: - 
-- Bloeiperiode: juni
-- Einde bloeiperiode: augustus
+- In honing: 8.8%
+- Pollen: 
+- Bloeiperiode: juni-augustus
 
 #### [Symphoricarpos albus](https://pollenx.eu/species.php?species=Symphoricarpos_albus) (sneeuwbes)
-- In honing: 2.5% | —
-- Pollen: - 
+- In honing: 2.5%
+- Pollen: 
 - Bloeiperiode: juli - augustus
 - Waarde: N 5, P 5
 
 #### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria) (moerasspiraea)
-- In honing: 8.1% | —
-- Pollen: - 
+- In honing: 8.1% 
+- Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
 #### [Carum carvi](https://pollenx.eu/species.php?species=Carum_carvi) (karwij)
-- In honing: 0.6% | —
-- Pollen: - 
+- In honing: 0.6% 
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-#### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) — In honing: 2.5%
-#### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) Centaurea)
+#### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) 
+— In honing: 2.5%
+- Pollen: 
+- Bloeiperiode: 
+- Waarde: 
+
+#### [Solanum](https://pollenx.eu/species.php?species=Solanum) (nachtschadefamilie) 
+— In honing: 1.3%
+- Pollen: 
+- Bloeiperiode: 
+- Waarde:
+
+#### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) (centaurea)
 #### [Centaurea jacea-Typ](https://pollenx.eu/species.php?species=Centaurea_jacea-Typ) (akkercentaurie)
-#### [Symphoricarpos](https://pollenx.eu/species.php?species=Symphoricarpos) Sneeuwbes)
-#### [Polygonum aviculare](https://pollenx.eu/species.php?species=Polygonum_aviculare) Zwaluwtong)
-#### [Heracleum-Typ](https://pollenx.eu/species.php?species=Heracleum-Typ) Reuzenkruiskruid)
-#### [Solanum](https://pollenx.eu/species.php?species=Solanum) Nachtschadefamilie) — In honing: 1.3%
+#### [Symphoricarpos](https://pollenx.eu/species.php?species=Symphoricarpos) (sneeuwbes)
+#### [Polygonum aviculare](https://pollenx.eu/species.php?species=Polygonum_aviculare) (zwaluwtong)
+#### [Heracleum-Typ](https://pollenx.eu/species.php?species=Heracleum-Typ) (eeuzenkruiskruid)
 #### [Hippophaë rhamn](https://pollenx.eu/species.php?species=Hippophaë_rhamn)
 #### [Angelica sylvestris](https://pollenx.eu/species.php?species=Angelica_sylvestris)
 #### [Astrantia major](https://pollenx.eu/species.php?species=Astrantia_major)
@@ -412,19 +476,29 @@ Image scale (2,5*size in µm = px)
 #### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas)
 #### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
 #### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
-#### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) ann/per(bos)bingelkruid | mercurialus ann/perbingelkruid
+#### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (ann/per(bos)bingelkruid
 #### [Medicago](https://pollenx.eu/species.php?species=Medicago)
 #### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
 ### 16. **Drie aperturen - Clavate, baculate, verrucate of gemmate sculpturen**
 #### [Ilex aquifolium](https://pollenx.eu/species.php?species=Ilex_aquifolium) (hulst)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3%
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
 
-#### [Geranium](https://pollenx.eu/species.php?species=Geranium) Ooievaarsbekfamilie) — In honing: 0.6%
-#### [Linum](https://pollenx.eu/species.php?species=Linum) Vlas) — In honing: 0.6%
+#### [Geranium](https://pollenx.eu/species.php?species=Geranium) (ooievaarsbekfamilie) 
+— In honing: 0.6%
+- Pollen: 
+- Bloeiperiode: 
+- Waarde: 
+
+#### [Linum](https://pollenx.eu/species.php?species=Linum) (vlas) 
+— In honing: 0.6%
+- Pollen: 
+- Bloeiperiode: 
+- Waarde: 
+
 #### [Geranium sp.](https://pollenx.eu/species.php?species=Geranium_sp.)
 #### [Viscum album](https://pollenx.eu/species.php?species=Viscum_album)
 #### [Linum usitatissim](https://pollenx.eu/species.php?species=Linum_usitatissim)
@@ -432,65 +506,84 @@ Image scale (2,5*size in µm = px)
 ### 17. **Drie aperturen - Echinate sculpturen**
 
 #### [Helianthus annuus](https://pollenx.eu/species.php?species=Helianthus_annuus) (zonnebloem)
-- In honing: 11.9% | —
+- In honing: 11.9% 
 - Bloeiperiode: juli
-- Einde bloeiperiode: oktober
+ - oktober
 - Waarde: N 5
 - Pollenwaarde: P 5
 
 #### [Aster amellus](https://pollenx.eu/species.php?species=Aster_amellus) (aster)
-- In honing: 9.4% | —
+- In honing: 9.4% 
 - Bloeiperiode: juli
-- Einde bloeiperiode: oktober
+ - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-#### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (Kruiskruid)
-- In honing: 5.6% | —
+#### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (kruiskruid)
+- In honing: 5.6% 
 - Bloeiperiode: juni
-- Einde bloeiperiode: oktober
+ - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
 
-#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (Kamille)
-- In honing: 1.9% | —
-- Pollen: - 
+#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (kamille)
+- In honing: 1.9% 
+- Pollen: 
 - Bloeiperiode: mei - oktober
 - Waarde: N 0, P 3 
 
 #### [Cirsium arvense](https://pollenx.eu/species.php?species=Cirsium_arvense) (distel)
-- In honing: 16.9% | —
-- Pollen: - 
+- In honing: 16.9% 
+- Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
 
 #### [Lonicera](https://pollenx.eu/species.php?species=Lonicera) (kamperfoelie)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: juni - augustus
+- Waarde:
 
 #### [Achillea-Typ](https://pollenx.eu/species.php?species=Achillea-Typ) (duizendblad)
-- In honing: — | —
-- Pollen: - 
-- Bloeiperiode: —
+- In honing: 
+- Pollen: 
+- Bloeiperiode:
+- Waarde:
 
 #### [Bellis perennis](https://pollenx.eu/species.php?species=Bellis_perennis) (madelief)
-#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) Kaardebolfamilie) — In honing: 3.1%
-#### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) Kogeldistel) — In honing: 0.6%
-#### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) Zonnebloem-soorten)
-#### [Senecio](https://pollenx.eu/species.php?species=Senecio) Kruiskruid)
-#### [Serratula-Typ](https://pollenx.eu/species.php?species=Serratula-Typ) Zaagblad)
-#### [Solidago](https://pollenx.eu/species.php?species=Solidago) Guldenroede) — In honing: 5.0%
-#### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) Klein hoefblad)
-#### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) Valeriaan) — In honing: 0.6%
-#### [Succisa pratensis](https://pollenx.eu/species.php?species=Succisa_pratensis) Blauwe knoop)
+
+#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
+— In honing: 3.1%
+- Pollen: 
+- Bloeiperiode: 
+- Waarde:
+
+#### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
+ — In honing: 0.6%
+ - Pollen: 
+- Bloeiperiode: 
+- Waarde:
+
+#### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
+— In honing: 5.0%
+
+#### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) (klein hoefblad)
+
+#### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
+— In honing: 0.6%
+
+
+#### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) (zonnebloem-soorten)
+#### [Senecio](https://pollenx.eu/species.php?species=Senecio) (kruiskruid)
+#### [Serratula-Typ](https://pollenx.eu/species.php?species=Serratula-Typ) (zaagblad)
+#### [Succisa pratensis](https://pollenx.eu/species.php?species=Succisa_pratensis) (blauwe knoop)
 #### [Anthemis nobilis](https://pollenx.eu/species.php?species=Anthemis_nobilis)
 #### [Arcticum majus](https://pollenx.eu/species.php?species=Arcticum_majus)
 #### [Arcticum minus](https://pollenx.eu/species.php?species=Arcticum_minus)
 #### [Bidens sp](https://pollenx.eu/species.php?species=Bidens_sp)
 #### [Calendula officin](https://pollenx.eu/species.php?species=Calendula_officin)
 #### [Carduus nutans](https://pollenx.eu/species.php?species=Carduus_nutans)
-#### [Carthamus lanatuswollige saffloer](https://pollenx.eu/species.php?species=Carthamus_lanatuswollige_saffloer) | carthamus lanatuswollige saffloer
+#### [Carthamus lanatuswollige saffloer](https://pollenx.eu/species.php?species=Carthamus_lanatus) (wollige saffloer)
 #### [Carthamus tinctor](https://pollenx.eu/species.php?species=Carthamus_tinctor)
 #### [Erigeron canaden](https://pollenx.eu/species.php?species=Erigeron_canaden)
 #### [Eupatorium cann](https://pollenx.eu/species.php?species=Eupatorium_cann)
@@ -498,10 +591,10 @@ Image scale (2,5*size in µm = px)
 #### [Onopordon acant](https://pollenx.eu/species.php?species=Onopordon_acant)
 #### [Petasitis officinalis](https://pollenx.eu/species.php?species=Petasitis_officinalis)
 #### [Serrulata tinctoria](https://pollenx.eu/species.php?species=Serrulata_tinctoria)
-#### [Solidago virga au](https://pollenx.eu/species.php?species=Solidago_virga_au) | solidago virga au
+#### [Solidago virga au](https://pollenx.eu/species.php?species=Solidago_virga_au) 
 #### [Sylibum marianum](https://pollenx.eu/species.php?species=Sylibum_marianum)
 #### [Tagetes erecta](https://pollenx.eu/species.php?species=Tagetes_erecta)
-#### [Chrysanthemum leuc margriet](https://pollenx.eu/species.php?species=Chrysanthemum_leuc_margriet) | chrysanthemum leuc margriet
+#### [Chrysanthemum leuc margriet](https://pollenx.eu/species.php?species=Chrysanthemum_leuc) (margriet)
 #### [Dipsacus](https://pollenx.eu/species.php?species=Dipsacus)
 #### [Scabiosa columbar](https://pollenx.eu/species.php?species=Scabiosa_columbar)
 #### [Centranthus ruber](https://pollenx.eu/species.php?species=Centranthus_ruber)
@@ -509,10 +602,11 @@ Image scale (2,5*size in µm = px)
 
 ### 18. **Tricolpaat - Striate, striaat-reticulate en rugulate sculpturen**
 
-#### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifragaceae) (Steenbreekfamilie)
-- In honing: 1.3% | —
-- Pollen: - 
+#### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifragaceae) (steenbreekfamilie)
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: april - juni
+- Waarde: 
 
 #### [Erodium cicutarium](https://pollenx.eu/species.php?species=Erodium_cicutarium)
 #### [Saxifraga granul](https://pollenx.eu/species.php?species=Saxifraga_granul)
@@ -520,46 +614,63 @@ Image scale (2,5*size in µm = px)
 ### 19. **Tricolporaat - Striate, striaat-reticulate en rugulate sculpture**
 
 #### [Aesculus hippocastanum](https://pollenx.eu/species.php?species=Aesculus_hippocastanum) (paardekastanje)
-- In honing: 26.3% | De Boer: 9.9%
-- Pollen: - 
+- In honing: 26.3% (k), 9.9% (db)
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
-#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) — In honing: 0.6%
+#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
+— In honing: 0.6%
+- Pollen: 
+- Bloeiperiode:
+- Waarde:
+
 #### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
 #### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
 #### [Helianthemum](https://pollenx.eu/species.php?species=Helianthemum)
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
+#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) Rozenfamilie — divers) 
+— In honing: 5.0%
+- Pollen: 
+- Bloeiperiode:
+- Waarde:
+
 #### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
-- In honing: 55.0% | De Boer: 25.5%
-- Pollen: - 
+- In honing: 55.0% (k), 25.5% (db)
+- Pollen: 
 - Bloeiperiode: maart - april
 
 #### [Cotoneaster integerrimus](https://pollenx.eu/species.php?species=Cotoneaster_integerrimus) (cotoneaster)
-- In honing: 16.9% | —
-- Pollen: - 
+- In honing: 16.9%
+- Pollen: 
 - Bloeiperiode: mei - juni
 
 #### [Malus domestica](https://pollenx.eu/species.php?species=Malus_domestica) (appel)
-- In honing: 11.3% | —
-- Pollen: - 
+- In honing: 11.3% 
+- Pollen: 
 - Bloeiperiode: april - mei
 - Waarde: N 3, P 3
 
-#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (Esdoorn)
-- In honing: 16.3% | —
-- Pollen: - 
+#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
+- In honing: 16.3% 
+- Pollen: 
 - Bloeiperiode: april - mei
 - Waarde: N 5, P 5
 
-#### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) Meidoorn)
-#### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) Aardbei)
-#### [Potentilla](https://pollenx.eu/species.php?species=Potentilla) Zilverschoon)
-#### [Rosa spinosissima](https://pollenx.eu/species.php?species=Rosa_spinosissima) Duinroosje)
-#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) Rozenfamilie — divers) — In honing: 5.0%
-#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) Spirea) — In honing: 7.5%
+#### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) (meidoorn)
+#### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) (aardbei)
+#### [Potentilla](https://pollenx.eu/species.php?species=Potentilla) (zilverschoon)
+#### [Rosa spinosissima](https://pollenx.eu/species.php?species=Rosa_spinosissima) (duinroosje)
+
+
+#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) Spirea) 
+— In honing: 7.5%
+- Pollen: 
+- Bloeiperiode:
+- Waarde:
+
 #### [Sedum sp.](https://pollenx.eu/species.php?species=Sedum_sp.)
 #### [Sedum acre](https://pollenx.eu/species.php?species=Sedum_acre)
 #### [Datura stramonium](https://pollenx.eu/species.php?species=Datura_stramonium)
@@ -581,46 +692,54 @@ Image scale (2,5*size in µm = px)
 ### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_sp) (wilg)
 - In honing: 96.4% | De Boer: 8.0%
-- Pollen: - 
-- Bloeiperiode: februari
-- Einde bloeiperiode: april
+- Pollen: 
+- Bloeiperiode: februari - april
 
 #### [Brassica napus](https://pollenx.eu/species.php?species=Brassica_napus) (koolzaad)
-- In honing: 60.6% | De Boer: 64.7%
+- In honing: 60.6% (k), | De Boer: 64.7% (db)
 - Bloeiperiode: april - augustus
 - Waarde: N 5, P 5
 
 #### [Ligustrum vulgare](https://pollenx.eu/species.php?species=Ligustrum_vulgare) (liguster)
-- In honing: 45.6% | De Boer: 1.5%
-- Pollen: - 
+- In honing: 45.6% (k) | De Boer: 1.5% (db)
+- Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 4, P 4
 
 #### [Eleagnus](https://pollenx.eu/species.php?species=Eleagnus) (olijfwilg)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: april - mei
 
 #### [Limonium vulgare](https://pollenx.eu/species.php?species=Limonium_vulgare) (lamsoor)
-- In honing: 2.5% | —
-- Pollen: - 
+- In honing: 2.5% 
+- Pollen: 
 - Bloeiperiode: juli - oktober
 - Waarde: N 5, P 5
 
-#### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) Herderstasje)
-#### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) Kleine veldkers)
-#### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) Pinksterbloem)
-#### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) Stinkende gouwe) — In honing: 0.6%
-#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) Overige kruisbloemigen) — In honing: 3.8%
-#### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) Es)
-#### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) Helleborus)
-#### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) Esparcette)
-#### [Herik](https://pollenx.eu/species.php?species=Herik) Sinapis arvensis) — In honing: 3.1%
-#### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) Raphanus sp) — In honing: 2.5%
-#### [Raphanus sativus](https://pollenx.eu/species.php?species=Raphanus_sativus) Bladrammenas)
-#### [Raphanus-Typ](https://pollenx.eu/species.php?species=Raphanus-Typ) Radijs)
-#### [Sinapis alba](https://pollenx.eu/species.php?species=Sinapis_alba) Witte mosterd)
-#### [Sinapis-Typ](https://pollenx.eu/species.php?species=Sinapis-Typ) Mosterd)
+#### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (herderstasje)
+#### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) (kleine veldkers)
+#### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) (pinksterbloem)
+
+#### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) (stinkende gouwe) 
+— In honing: 0.6%
+
+#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
+— In honing: 3.8%
+
+#### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) (es)
+#### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) (helleborus)
+#### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) (esparcette)
+#### [Herik](https://pollenx.eu/species.php?species=Herik) (sinapis arvensis) 
+— In honing: 3.1%
+
+#### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) (raphanus sp) 
+— In honing: 2.5%
+
+#### [Raphanus sativus](https://pollenx.eu/species.php?species=Raphanus_sativus) (bladrammenas)
+#### [Raphanus-Typ](https://pollenx.eu/species.php?species=Raphanus-Typ) (radijs)
+#### [Sinapis alba](https://pollenx.eu/species.php?species=Sinapis_alba) (witte mosterd)
+#### [Sinapis-Typ](https://pollenx.eu/species.php?species=Sinapis-Typ) (mosterd)
 #### [Oxalis](https://pollenx.eu/species.php?species=Oxalis)
 #### [Ajuga reptans](https://pollenx.eu/species.php?species=Ajuga_reptans)
 #### [Galeopsis tetrahit](https://pollenx.eu/species.php?species=Galeopsis_tetrahit)
@@ -628,7 +747,6 @@ Image scale (2,5*size in µm = px)
 #### [Reseda lutea](https://pollenx.eu/species.php?species=Reseda_lutea)
 #### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium)
 #### [Tamarix](https://pollenx.eu/species.php?species=Tamarix)
-#### [Salix](https://pollenx.eu/species.php?species=Salix) )+striaat (ret < Viburnum opulus) | salix)+striaat
 #### [Armeria maritima](https://pollenx.eu/species.php?species=Armeria_maritima)
 #### [Olea](https://pollenx.eu/species.php?species=Olea)
 #### [Olea europaea](https://pollenx.eu/species.php?species=Olea_europaea)
@@ -641,86 +759,84 @@ Image scale (2,5*size in µm = px)
 ### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
 #### [Trifolium repens](https://pollenx.eu/species.php?species=Trifolium_repens) (witte klaver)
-- In honing: 68.2% | De Boer: 95.8%
-- Pollen: - 
-- Bloeiperiode: mei
-- Einde bloeiperiode: oktober
-- Waarde: N 5
-- Pollenwaarde: P 5
+- In honing: 68.2% (k), 95.8% (db)
+- Pollen: 
+- Bloeiperiode: mei - oktober
+- Waarde: N 5 - P 5
 
 #### [Tilia sp](https://pollenx.eu/species.php?species=Tilia_sp) (linde)
 - In honing: 39.4% | De Boer: 4.9%
-- Pollen: - 
-- Bloeiperiode: juni
-- Einde bloeiperiode: juli
+- Pollen: 
+- Bloeiperiode: juni - juli
 
 #### [Vicia species](https://pollenx.eu/species.php?species=Vicia_species) (tuinboon/voederboon)
 - In honing: 21.9% | De Boer: 39.1%
-- Pollen: - 
+- Pollen: 
 - Bloeiperiode: april - juni
 
 #### [Melilotus officinalis](https://pollenx.eu/species.php?species=Melilotus_officinalis) (honingklaver)
 - In honing: 17.5% | De Boer: 9.5% | Zomerhoning 1-63%
 - Pollen
-- Bloeiperiode: juli
-- Einde bloeiperiode: september
+- Bloeiperiode: juli - september
 - Waarde: N 5
 - Pollenwaarde: P 5
 
 #### [Bryonia dioica](https://pollenx.eu/species.php?species=Bryonia_dioica) (heggerank)
-- In honing: 12.5% | —
-- Pollen: - 
-- Bloeiperiode: juni
-- Einde bloeiperiode: augustus
+- In honing: 12.5%, secundaire inbreng
+- Pollen: 
+- Bloeiperiode: juni - augustus
 
 #### [Rumex obtusifolius](https://pollenx.eu/species.php?species=Rumex_obtusifolius) (zuring)
-- In honing: 15.6% | —
-- Pollen: - 
-- Bloeiperiode: mei
-- Einde bloeiperiode: augustus
-- Secundaire inbreng: **Rumex**
+- In honing: 15.6% 
+- Pollen: 
+- Bloeiperiode: mei - augustus
+
 
 #### [Trifolium pratense](https://pollenx.eu/species.php?species=Trifolium_pratense) (rode klaver)
-- In honing: 11.3% | —
-- Pollen: - 
+- In honing: 11.3% 
+- Pollen: 
 - Bloeiperiode: mei - oktober
 - Waarde: N 1, P 1
  
 #### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
-- In honing: 8.1% | —
-- Pollen: - 
+- In honing: 8.1% 
+- Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 4, P 4
 
 #### [Vitis vinifera](https://pollenx.eu/species.php?species=Vitis_vinifera) (wijnstok)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: juni - juni
 - Waarde: N 2, P 2
 
 #### [Parthenocissus quinquefolia](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) (wilde wingerd)
-- In honing: — | —
-- Pollen: - 
+- In honing: — 
+- Pollen: 
 - Bloeiperiode: mei - mei
 - Waarde: N 3, P 0
 
 #### [Trifolium incarnatum](https://pollenx.eu/species.php?species=Trifolium_incarnatum) (incarnaatklaver)
-- In honing: 1.9% | —
-- Pollen: - 
+- In honing: 1.9% 
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
 
 #### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
-#### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) — In honing: 6.3%
-#### [Hedera](https://pollenx.eu/species.php?species=Hedera) Klimop)
-#### [Hydrangeaceae](https://pollenx.eu/species.php?species=Hydrangeaceae) Hortensia)
-#### [Ononis](https://pollenx.eu/species.php?species=Ononis) Stalkruid)
-#### [Papilionaceae](https://pollenx.eu/species.php?species=Papilionaceae) Overige vlinderbloemigen) — In honing: 1.9%
-#### [Pisum sativum](https://pollenx.eu/species.php?species=Pisum_sativum) Tuinboon)
-#### [Vicia cracca](https://pollenx.eu/species.php?species=Vicia_cracca) Wikke)
-#### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) Tuinboon/Voederboon)
-#### [Vicia sepium](https://pollenx.eu/species.php?species=Vicia_sepium) Wikke)
-#### [Vicia-Typ](https://pollenx.eu/species.php?species=Vicia-Typ) Wikke — divers)
+#### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) 
+— In honing: 6.3%
+
+#### [Hedera](https://pollenx.eu/species.php?species=Hedera) (klimop)
+#### [Hydrangeaceae](https://pollenx.eu/species.php?species=Hydrangeaceae) (hortensia)
+#### [Ononis](https://pollenx.eu/species.php?species=Ononis) (stalkruid)
+#### [Papilionaceae](https://pollenx.eu/species.php?species=Papilionaceae) (overige vlinderbloemigen) 
+— In honing: 1.9%
+
+#### [Pisum sativum](https://pollenx.eu/species.php?species=Pisum_sativum) (tuinboon)
+#### [Vicia cracca](https://pollenx.eu/species.php?species=Vicia_cracca) (wikke)
+#### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) (tuinboon/voederboon)
+#### [Vicia sepium](https://pollenx.eu/species.php?species=Vicia_sepium) (wikke)
+#### [Vicia-Typ](https://pollenx.eu/species.php?species=Vicia-Typ) (wikke — divers)
 #### [Hedera helix](https://pollenx.eu/species.php?species=Hedera_helix)
 #### [Cistus salviifolius](https://pollenx.eu/species.php?species=Cistus_salviifolius)
 #### [Parnassia palustris](https://pollenx.eu/species.php?species=Parnassia_palustris)
@@ -739,13 +855,13 @@ Image scale (2,5*size in µm = px)
 
 #### [Robinia pseudoacacia](https://pollenx.eu/species.php?species=Robinia_pseudoacacia) (valse acacia)
 - In honing: 30.0% | De Boer: 2.3%
-- Pollen: - 
+- Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 5, P 5
 
 #### [Hypericum perforatum](https://pollenx.eu/species.php?species=Hypericum_perforatum) (sint-janskruid)
-- In honing: 3.8% | —
-- Pollen: - 
+- In honing: 3.8% 
+- Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
 
@@ -777,24 +893,24 @@ Image scale (2,5*size in µm = px)
 ### 24. **Stephanocolpatae**
 
 #### [Lamiaceae](https://pollenx.eu/species.php?species=Lamiaceae) (lipbloemigen — divers)
-- In honing: 13.8% | —
-- Pollen: - 
+- In honing: 13.8% 
+- Pollen: 
 - Bloeiperiode: april - september
 
 #### [Phacelia tanacetifolia](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia) (phacelia)
-- In honing: 5.0% | —
-- Pollen: - 
+- In honing: 5.0% 
+- Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 5, P 5
 
 #### [Impatiens balsamina](https://pollenx.eu/species.php?species=Impatiens_balsamina) (balsemien)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: juli - september
 
 #### [Impatiens glandulifera](https://pollenx.eu/species.php?species=Impatiens_glandulifera) (reuzenbalsamine)
-- In honing: — | —
-- Pollen: - 
+- In honing: — 
+- Pollen: 
 - Bloeiperiode: juli - oktober
 - Waarde: N 3, P 3
 
@@ -821,8 +937,8 @@ Image scale (2,5*size in µm = px)
 ### 25. **Stephanocolporatae**
 
 #### [Viola tricolor](https://pollenx.eu/species.php?species=Viola_tricolor) (viooltje)
-- In honing: 8.8% | —
-- Pollen: - 
+- In honing: 8.8% 
+- Pollen: 
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
 #### [Pulmonaria off](https://pollenx.eu/species.php?species=Pulmonaria_off)
@@ -839,14 +955,14 @@ Image scale (2,5*size in µm = px)
 ### 28. **Hetrocolpatae**
 
 #### [Cynoglossum officinale](https://pollenx.eu/species.php?species=Cynoglossum_officinale) (hondstong)
-- In honing: 12.5% | —
-- Pollen: - 
+- In honing: 12.5% 
+- Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 3, P 3
 
 #### [Myosotis scorpioides](https://pollenx.eu/species.php?species=Myosotis_scorpioides) (vergeet-mij-niet)
-- In honing: 5.6% | —
-- Pollen: - 
+- In honing: 5.6% 
+- Pollen: 
 - Bloeiperiode: mei - augustus
 - Waarde: N 1, P 0
 
@@ -873,15 +989,15 @@ Image scale (2,5*size in µm = px)
 ### 31. **Triporatae**
 
 #### [Epilobium angustifolium](https://pollenx.eu/species.php?species=Epilobium_angustifolium) (wilgeroosje)
-- In honing: 10.0% | —
-- Pollen: - 
+- In honing: 10.0% 
+- Pollen: 
 - Bloeiperiode: juni - augustus
 
 #### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
-- In honing: — | —
-- Pollen: - 
+- In honing: — 
+- Pollen: 
 - Bloeiperiode: juni
-- Einde bloeiperiode: september
+ - september
 
 #### [Betula](https://pollenx.eu/species.php?species=Betula) Berk)
 #### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) Hazelaar)
@@ -898,8 +1014,8 @@ Image scale (2,5*size in µm = px)
 ### 32. **Stephanoporatae**
 
 #### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
-- In honing: 6.9% | —
-- Pollen: - 
+- In honing: 6.9% 
+- Pollen: 
 - Bloeiperiode: mei - september
 
 #### [Campanula](https://pollenx.eu/species.php?species=Campanula) Klokje)
@@ -914,34 +1030,34 @@ Image scale (2,5*size in µm = px)
 ### 33. **Periporatae**
 
 #### [Plantago lanceolata](https://pollenx.eu/species.php?species=Plantago_lanceolata) (weegbree)
-- In honing: 10.0% | — secundaire inbreng
-- Pollen: - 
+- In honing: 10.0%  secundaire inbreng
+- Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 0, P 3
 
 #### [Lychnis flos-cuculi](https://pollenx.eu/species.php?species=Lychnis_flos-cuculi) (koekoeksbloem)
-- In honing: — | —
-- Pollen: - 
+- In honing: — 
+- Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 3, P 3
 
 #### [Daphne laureola](https://pollenx.eu/species.php?species=Daphne_laureola) (peperboompje)
-- In honing: 0.6% | —
-- Pollen: - 
+- In honing: 0.6% 
+- Pollen: 
 - Bloeiperiode: februari - april
 
 #### [Phlox subulata](https://pollenx.eu/species.php?species=Phlox_subulata) (vlambloem)
-- In honing: 1.3% | —
-- Pollen: - 
+- In honing: 1.3% 
+- Pollen: 
 - Bloeiperiode: mei - juli
 
 #### [Thalictrum flavum](https://pollenx.eu/species.php?species=Thalictrum_flavum) (ruit)
-- In honing: 0.6% | —
-- Pollen: - 
+- In honing: 0.6% 
+- Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 0 - P 3
 
-#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (Anjerfamilie)
+#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie)
 #### [Anemone](https://pollenx.eu/species.php?species=Anemone) (anemoon)
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) Anjerfamilie) — In honing: 5.0%
 #### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) Ganzevoetfamilie) — In honing: 4.4%
@@ -994,7 +1110,7 @@ Afrika | afrika
 #### [Alyssum sp.](https://pollenx.eu/species.php?species=Alyssum_sp.)
 #### [Anacardium occid](https://pollenx.eu/species.php?species=Anacardium_occid)
 #### [Anethum graveole](https://pollenx.eu/species.php?species=Anethum_graveole)
-#### [Borreria sp.](https://pollenx.eu/species.php?species=Borreria_sp.) (Rubia)
+#### [Borreria sp.](https://pollenx.eu/species.php?species=Borreria_sp.) (rubia)
 #### [Cakile maritima](https://pollenx.eu/species.php?species=Cakile_maritima)
 #### [Carlina aucalis](https://pollenx.eu/species.php?species=Carlina_aucalis)
 #### [Cnicus benedict](https://pollenx.eu/species.php?species=Cnicus_benedict)
