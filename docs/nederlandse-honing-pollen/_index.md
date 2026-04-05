@@ -1,6 +1,6 @@
 # Pollen in Nederlandse honing
 
-Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kervliet & v.d. Putten (1980) (k) en De Boer (1930) (db). Bij verschillende beschrijvingen van grootte en aperturen is pollenwiki (pw) als eerste keuze aangehouden en evtenueel paldat (pd). (image scale 2.5 times µm = px)
+Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kervliet & v.d. Putten (1980) (k) en De Boer (1930) (db). Bij verschillende beschrijvingen van grootte en aperturen is pollenwiki (pw) als eerste keuze aangehouden en evetueel paldat (pd). (image scale 2.5 times µm = px)
 
 ### 4. **Tetradeae**
 
@@ -74,10 +74,10 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 </div>
 
 #### [Rhododendron dauricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_dauricum) (rododendron)
-- In honing: 1.9%
+- In honing: 1.9%, [Rhododendronhoning](../monoflorale-honing-pollen/rhododendronhoning.md)
 - Pollen: 49 (45.8-40.6) μm, scabraat tot verrucaat
 - Bloeiperiode: april - mei
-- Waarde: -
+- Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -437,7 +437,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 </div>
 
 #### [Castanea sativa](https://pollenx.eu/species.php?species=Castanea_sativa) (tamme kastanje)
-- In honing: 23.1% (k), 21.3% (db)
+- In honing: 23.1% (k), 21.3% (db) [Tammekastanjehoning](../monoflorale-honing-pollen/tammekastanjehoning.md)
 - Pollen: 16 (14.6-17.1) μm, rugulate, psilate sculpturen
 - Bloeiperiode: juni - juni
 - Waarde: N 5, P 5 
@@ -763,7 +763,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -784,7 +785,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -805,7 +807,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -819,21 +822,23 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 17. **Drie aperturen - Echinate sculpturen**
 
 #### [Helianthus annuus](https://pollenx.eu/species.php?species=Helianthus_annuus) (zonnebloem)
-- In honing: 11.9% 
+- In honing: 11.9%, [Zonnebloemhoning](../monoflorale-honing-pollen/zonnebloemhoning.md)
+- Pollen: 42 (38.9-45.5) μm, echinate sculptuur
 - Bloeiperiode: juli - oktober
 - Waarde: N 5 - P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Helianthus_annuus_Ed.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Helianthus_annuus_Eo.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Helianthus_annuus_Pd.png" style="height: 105px; width: auto;" alt="Helianthus_annuus"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Helianthus_annuus_Po.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
     </figure>
   </div>
 </div>
@@ -851,7 +856,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -872,7 +878,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -893,7 +900,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -914,7 +922,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -935,7 +944,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -956,7 +966,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -973,7 +984,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -994,7 +1006,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1015,7 +1028,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1068,7 +1082,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1118,7 +1133,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1144,7 +1160,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1165,7 +1182,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1192,7 +1210,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1212,9 +1231,35 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Rubus fruticosus](https://pollenx.eu/species.php?species=Rubus_fruticosus)
+- In honing: [Braamhoning](../monoflorale-honing-pollen/braamhoning.md)
+- Pollen: 30 (28.6-36.9) μm, rugulate
+- Bloeiperiode: mei-augustus
+- Waarde: P 5, N 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
     </figure>
   </div>
 </div>
@@ -1232,7 +1277,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1253,7 +1299,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1274,7 +1321,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1301,7 +1349,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1323,52 +1372,74 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Rubus sp.](https://pollenx.eu/species.php?species=Rubus_sp.)
 #### [Crataegus sp](https://pollenx.eu/species.php?species=Crataegus_sp)
 #### [Prunus-laurocera](https://pollenx.eu/species.php?species=Prunus-laurocera)
-#### [Rubus fructicosus](https://pollenx.eu/species.php?species=Rubus_fructicosus)
+
+
+
 #### [Rubus idaeus](https://pollenx.eu/species.php?species=Rubus_idaeus)
 
 ### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
-#### [Salix sp](https://pollenx.eu/species.php?species=Salix_sp) (wilg)
-- In honing: 96.4% | De Boer: 8.0%
-- Pollen: 
-- Bloeiperiode: februari - april
+#### [Salix sp](https://pollenx.eu/species.php?species=Salix_alba) (wilg)
+- In honing: 96.4% (k) 8.0% (db), [Wilghoning](../monoflorale-honing-pollen/wilghoning.md)
+- Pollen: 	22 (19.9-24.8) μm
+- Bloeiperiode: april-mei
+- Waarde: P 5, N 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Ed.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+    </figure>
+  </div>
+</div>
 
 #### [Brassica napus](https://pollenx.eu/species.php?species=Brassica_napus) (koolzaad)
-- In honing: 60.6% (k), | De Boer: 64.7% (db)
+- In honing: 60.6% (k), 64.7% (db) [Koolzaadhoning](../monoflorale-honing-pollen/koolzaadhoning.md)
+- Pollen: 26 (22.3-28.2) μm 
 - Bloeiperiode: april - augustus
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Brassica_napus_Ed_26.png" style="height: 65px; width: auto;" alt="Brassica_napus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Brassica_napus_Eo_26.png" style="height: 65px; width: auto;" alt="Brassica_napus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Brassica_napus_Pd_26.png" style="height: 65px; width: auto;" alt="Brassica_napus"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Brassica_napus_Po_26.png" style="height: 65px; width: auto;" alt="Brassica_napus">
     </figure>
   </div>
 </div>
 
 #### [Ligustrum vulgare](https://pollenx.eu/species.php?species=Ligustrum_vulgare) (liguster)
-- In honing: 45.6% (k) | De Boer: 1.5% (db)
-- Pollen: 
+- In honing: 45.6% (k), 1.5% (db), [Ligusterhoning](../monoflorale-honing-pollen/ligusterhoning.md)
+- Pollen: 29 (24.1-33.7) μm 
 - Bloeiperiode: juni - juli
 - Waarde: N 4, P 4
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Liguster_vulgare_Ed.png" style="height: 73px; width: auto;" alt="Liguster_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Liguster_vulgare_Eo.png" style="height: 73px; width: auto;" alt="Liguster_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Liguster_vulgare_Pd.png" style="height: 73px; width: auto;" alt="Liguster_vulgare"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Liguster_vulgare_Po.png" style="height: 73px; width: auto;" alt="Liguster_vulgare">
     </figure>
   </div>
 </div>
@@ -1386,7 +1457,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1407,7 +1479,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1429,7 +1502,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1468,7 +1542,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1486,7 +1561,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1513,45 +1589,60 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Corylopsis parcifl](https://pollenx.eu/species.php?species=Corylopsis_parcifl)
 #### [Fraxinus ornus](https://pollenx.eu/species.php?species=Fraxinus_ornus)
 
-### 22. **Tricolporaat - Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
+### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
 #### [Trifolium repens](https://pollenx.eu/species.php?species=Trifolium_repens) (witte klaver)
-- In honing: 68.2% (k), 95.8% (db)
-- Pollen: 
+- In honing: 68.2% (k), 95.8% (db), [Witteklaverhoning](../monoflorale-honing-pollen/witte-klaverhoning.md)
+- Pollen: 27 (24.4-28.4) μm, psilate, reticulate, perforate sculptuur
 - Bloeiperiode: mei - oktober
 - Waarde: N 5 - P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Trifolium-repens_Ed.png" style="height: 68px; width: auto;" alt="Trifolium repens">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Trifolium-repens_Eo.png" style="height: 68px; width: auto;" alt="Trifolium repens">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Trifolium-repens_Pd.png" style="height: 68px; width: auto;" alt="Trifolium repens"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Trifolium-repens_Po.png" style="height: 68px; width: auto;" alt="Trifolium repens">
     </figure>
   </div>
 </div>
 
 #### [Tilia sp](https://pollenx.eu/species.php?species=Tilia_sp) (linde)
-- In honing: 39.4% | De Boer: 4.9%
-- Pollen: 
-- Bloeiperiode: juni - juli
+- In honing: 39.4% (k), 4.9% (db), [Lindehoning](../monoflorale-honing-pollen/lindehoning.md)
+- Pollen: 32 (31.0-34.7) μm, reticulate, microreticulate sculptuur
+- Bloeiperiode: mei - juli
+- Waarde: P 5, N 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_o.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op oppervlak).">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_d.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op doorsnede).">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Tilia+platyphyllos_E.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; equatoriaal aanzicht).">
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_kristals.png" width="111" alt="Tilia platyphyllos (calciumoxalaat kristallen).">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_Pd.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; polair aanzicht; focus op doorsnede).">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_o.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; porie; focus op oppervlak).">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_d.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; porie; focus op doorsnede).">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_sculptuur.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; sculptuur).">
     </figure>
   </div>
 </div>
@@ -1569,7 +1660,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1591,7 +1683,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1611,7 +1704,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1631,7 +1725,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1639,25 +1734,24 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 </div>
 
 #### [Trifolium pratense](https://pollenx.eu/species.php?species=Trifolium_pratense) (rode klaver)
-- In honing: 11.3% 
-- Pollen: 
+- In honing: 11.3% (k), [Rodeklaverhoning](../monoflorale-honing-pollen/rode-klaverhoning.md)
+- Pollen: 39 (35.9-41.5) μm, reticulate sculptuur
 - Bloeiperiode: mei - oktober
 - Waarde: N 1, P 1
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Trifolium_pratense_Po.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/paldat/Trifolium_pratense_Po2.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Trifolium_pratense_Eo.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
     </figure>
   </div>
 </div>
+
 #### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
 - In honing: 8.1% 
 - Pollen: 
@@ -1672,7 +1766,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1693,7 +1788,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1714,7 +1810,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1735,7 +1832,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1743,8 +1841,12 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 </div>
 
 #### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
-#### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) 
-- In honing: 6.3%
+
+#### [Fagopyrum_esculentum](https://pollenx.eu/species.php?species=Fagopyrum_esculentum) (boekweit) 
+- In honing: 6.3% (k), [Boekweithoning](../monoflorale-honing-pollen/boekweithoning.md)
+- Pollen: 51 μm, scabrate, reticulate, foveolate sculptuur
+- Bloeiperiode: juni-augustus
+- Waarde: N 5, P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1754,7 +1856,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1802,7 +1905,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1823,7 +1927,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1841,7 +1946,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1859,7 +1965,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1878,7 +1985,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1896,12 +2004,36 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
   </div>
 </div>
+
+#### [Eucalyptus globulus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eucalyptus_globulus) (eucalyptus camal)
+- In honing: [Eucalyptushoning](../monoflorale-honing-pollen/eucalyptushoning.md)
+- Pollen: 23 (19.1-25.9) μm,  scabrate sculptuur, smalle colpi die meestal elkaar raken tpv de polen
+- Bloeiperiode:
+- Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Eucalyptus_globulus_Ed.png" style="height: 58px; width: auto;" alt="Eucalyptus_globulus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Eucalyptus_globulus_Eo.png" style="height: 58px; width: auto;" alt="Eucalyptus_globulus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Eucalyptus_globulus_Pd.png" style="height: 58px; width: auto;" alt="Eucalyptus_globulus"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Eucalyptus_globulus_Po.png" style="height: 58px; width: auto;" alt="Eucalyptus_globulus">
+    </figure>
+  </div>
+</div>
+
 
 #### [Verbascum](https://pollenx.eu/species.php?species=Verbascum) (toorts)
 #### [Anthirrhinum](https://pollenx.eu/species.php?species=Anthirrhinum)
@@ -1938,7 +2070,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -1946,22 +2079,23 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 </div>
 
 #### [Phacelia tanacetifolia](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia) (phacelia)
-- In honing: 5.0% 
-- Pollen: 
+- In honing: 5.0%, [Phaceliahoning](../monoflorale-honing-pollen/phaceliahoning.md)
+- Pollen: 	20 (18.8-23.1) μm, perforate, scabrate, microreticulate sculptuur
 - Bloeiperiode: mei - september
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
     </figure>
   </div>
 </div>
@@ -1979,7 +2113,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2000,32 +2135,67 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
   </div>
 </div>
 
+#### [Lavandula angustifolia](https://pollenx.eu/species.php?species=Lavandula_angustifolia) (lavendel)
+- In honing: [Lavendelhoning](../monoflorale-honing-pollen/lavendelhoning.md)
+- Pollen: 	37 μm 
+- Bloeiperiode: juli - oktober
+- Waarde: N 3, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 93px; width: auto;" alt="Lavandula spp">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 93px; width: auto;" alt="Lavandula spp">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 93px; width: auto;" alt="Lavandula spp">
+    </figure>
+  </div>
+</div>
+
+#### [Rosmarinus officinalis](https://pollenx.eu/species.php?species=Rosmarinus_officinalis) (rozemarijn)
+- In honing: [Rozemarijnhoning](../monoflorale-honing-pollen/rosemarijnhoning.md)
+- Pollen: 43 (40.3-46.4) μm, reticulate, microreticulate sculptuur
+- Bloeiperiode: april - juni
+- Waarde: N 1, P 0
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Rosmarinus_officinalis_Pd.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/persano_oddo/Rosmarinus_officinalis_sculptuur.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
+    </figure>
+  </div>
+</div>
+
+
 #### [Glechoma hederacea](https://pollenx.eu/species.php?species=Glechoma_hederacea) (hondsdraf)
-#### [Lavandula](https://pollenx.eu/species.php?species=Lavandula) (lavendel)
 #### [Majoranus-Typ](https://pollenx.eu/species.php?species=Majoranus-Typ) (marjolein)
 #### [Primula](https://pollenx.eu/species.php?species=Primula) (sleutelbloem)
 #### [Buddlejaceae davidii](https://pollenx.eu/species.php?species=Buddlejaceae_davidii) (vlinderstruik)
 #### [Anchusa](https://pollenx.eu/species.php?species=Anchusa) (oksaal)
 #### [Symphytum officinale](https://pollenx.eu/species.php?species=Symphytum_officinale) (smeerwortel)
 #### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
-#### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
 #### [Galium sylvatica](https://pollenx.eu/species.php?species=Galium_sylvatica)
-#### [Lavandula angust](https://pollenx.eu/species.php?species=Lavandula_angust)
-#### [Lavandula angisti](https://pollenx.eu/species.php?species=Lavandula_angisti)
 #### [Mentha aquatica](https://pollenx.eu/species.php?species=Mentha_aquatica)
-#### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
 #### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
 #### [Satureia hortensis](https://pollenx.eu/species.php?species=Satureia_hortensis)
 #### [Thymus serpyllum?](https://pollenx.eu/species.php?species=Thymus_serpyllum?)
 #### [Nepeta cataria](https://pollenx.eu/species.php?species=Nepeta_cataria)
-#### [Rosmarinus off](https://pollenx.eu/species.php?species=Rosmarinus_off)
+
 
 ### 25. **Stephanocolporatae**
 
@@ -2043,19 +2213,24 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
   </div>
 </div>
 
-#### [Pulmonaria off](https://pollenx.eu/species.php?species=Pulmonaria_off)
 #### [Citrus sinensis](https://pollenx.eu/species.php?species=Citrus_sinensis)
+[Citrushoning](../monoflorale-honing-pollen/citrushoning.md)
+
+
+#### [Pulmonaria officinalis](https://pollenx.eu/species.php?species=Pulmonaria_officinalis)
 #### [Ceratonia silqua](https://pollenx.eu/species.php?species=Ceratonia_silqua)
 #### [Borago](https://pollenx.eu/species.php?species=Borago)
 
 ### 26. **Pericolpatae**
+
 #### [Corydalis cava](https://pollenx.eu/species.php?species=Corydalis_cava)
 #### [Corydalis lutea](https://pollenx.eu/species.php?species=Corydalis_lutea)
 
@@ -2077,7 +2252,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2098,7 +2274,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2110,21 +2287,23 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 29. **Fenestratae**
 
 #### [Taraxacum officinale](https://pollenx.eu/species.php?species=Taraxacum_officinale) (paardebloem)
-- In honing: 21.9% | De Boer: 49.1%
-- Bloeiperiode: maart-mei
+- In honing: 21.9% (k), 49.1% (db), [Paardenbloemhoning](../monoflorale-honing-pollen/paardenbloemhoning.md)
+- Pollen: 28 μm, lophate, echinate
+- Bloeiperiode: maart-mei en september-november
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale"> 
+    </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
     </figure>
   </div>
 </div>
@@ -2155,7 +2334,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2175,7 +2355,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2196,7 +2377,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2226,7 +2408,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2246,7 +2429,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2275,7 +2459,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2296,7 +2481,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2316,7 +2502,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2336,7 +2523,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2357,7 +2545,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2377,7 +2566,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2395,7 +2585,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2412,7 +2603,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2433,7 +2625,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
@@ -2496,7 +2689,9 @@ Ambrosia artemis | ambrosia artemis
 #### [Narcissus sp](https://pollenx.eu/species.php?species=Narcissus_sp)
 #### [Narcissus sp.](https://pollenx.eu/species.php?species=Narcissus_sp.)
 #### [Portulacca oleacera](https://pollenx.eu/species.php?species=Portulacca_oleacera)
-#### [Eucalyptus camal](https://pollenx.eu/species.php?species=Eucalyptus_camal)
+
+
+
 #### [Callicarpa sp.](https://pollenx.eu/species.php?species=Callicarpa_sp.)
 #### [Verbena officinalis](https://pollenx.eu/species.php?species=Verbena_officinalis)
 #### [Ruta graveolens](https://pollenx.eu/species.php?species=Ruta_graveolens)
