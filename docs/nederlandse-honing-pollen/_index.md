@@ -1,6 +1,6 @@
 # Pollen in Nederlandse honing
 
-Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op In honing & v.d. Putten (1980) en De Boer (1930). Bij verschillende beschrijvingen van aperturen is pollenwiki als eerste keuze aangehouden, tenzij anders vermeld.
+Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op In honing & v.d. Putten (1980) (en De Boer (1930). Bij verschillende beschrijvingen van aperturen is pollenwiki als eerste keuze aangehouden, tenzij anders vermeld.
 
 Image scale (2,5*size in µm = px)
 
@@ -351,12 +351,42 @@ Image scale (2,5*size in µm = px)
 - Pollen:
 - Bloeiperiode: 
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) (klaproos) 
 — In honing: 5.0%, secundaire inbreng
 - Pollen:
 - Bloeiperiode: 
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 [to be verified]
 #### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) (gewoon speenkruid)
@@ -390,65 +420,230 @@ Image scale (2,5*size in µm = px)
 - Pollen:
 - Bloeiperiode: mei - augustus
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Castanea sativa](https://pollenx.eu/species.php?species=Castanea_sativa) (tamme kastanje)
 - In honing: 23.1% (k), 21.3% (db)
 - Pollen:
 - Bloeiperiode: juni - juni
 - Waarde: N 5, P 5 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Frangula alnus](https://pollenx.eu/species.php?species=Frangula_alnus) (vuilboom / sporkehout)
 - In honing: 22.5% (k), 35.4% (db)
 - Pollen:
 - Bloeiperiode: mei - juni
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Centaurea cyanus](https://pollenx.eu/species.php?species=Centaurea_cyanus) (korenbloem)
 - In honing: 17.5% (k), 7.6% (db)
 - Pollen: 
 - Bloeiperiode: juni - augustus
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Anthriscus sylvestris](https://pollenx.eu/species.php?species=Anthriscus_sylvestris) (fluitekruid)
 - In honing: 16.3%
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 2, N2
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Heracleum spondylium](https://pollenx.eu/species.php?species=Heracleum_spondylium) (bereklauw)
 - In honing: 8.8%
 - Pollen: 
 - Bloeiperiode: juni-augustus
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Symphoricarpos albus](https://pollenx.eu/species.php?species=Symphoricarpos_albus) (sneeuwbes)
 - In honing: 2.5%
 - Pollen: 
 - Bloeiperiode: juli - augustus
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria) (moerasspiraea)
 - In honing: 8.1% 
 - Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Carum carvi](https://pollenx.eu/species.php?species=Carum_carvi) (karwij)
 - In honing: 0.6% 
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) 
 — In honing: 2.5%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Solanum](https://pollenx.eu/species.php?species=Solanum) (nachtschadefamilie) 
 — In honing: 1.3%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Centaurea-Typ](https://pollenx.eu/species.php?species=Centaurea-Typ) (centaurea)
 #### [Centaurea jacea-Typ](https://pollenx.eu/species.php?species=Centaurea_jacea-Typ) (akkercentaurie)
@@ -474,7 +669,39 @@ Image scale (2,5*size in µm = px)
 ### 15. **Tricolporoidaat - Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
 #### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
 #### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
 #### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (ann/per(bos)bingelkruid
 #### [Medicago](https://pollenx.eu/species.php?species=Medicago)
@@ -486,18 +713,63 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5 - P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Geranium](https://pollenx.eu/species.php?species=Geranium) (ooievaarsbekfamilie) 
 — In honing: 0.6%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Linum](https://pollenx.eu/species.php?species=Linum) (vlas) 
 — In honing: 0.6%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Geranium sp.](https://pollenx.eu/species.php?species=Geranium_sp.)
 #### [Viscum album](https://pollenx.eu/species.php?species=Viscum_album)
@@ -509,15 +781,43 @@ Image scale (2,5*size in µm = px)
 - In honing: 11.9% 
 - Bloeiperiode: juli
  - oktober
-- Waarde: N 5
-- Pollenwaarde: P 5
-
+- Waarde: N 5 - P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 #### [Aster amellus](https://pollenx.eu/species.php?species=Aster_amellus) (aster)
 - In honing: 9.4% 
 - Bloeiperiode: juli
  - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (kruiskruid)
 - In honing: 5.6% 
@@ -525,53 +825,217 @@ Image scale (2,5*size in µm = px)
  - oktober
 - Waarde: N 3
 - Pollenwaarde: P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (kamille)
 - In honing: 1.9% 
 - Pollen: 
 - Bloeiperiode: mei - oktober
 - Waarde: N 0, P 3 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Cirsium arvense](https://pollenx.eu/species.php?species=Cirsium_arvense) (distel)
 - In honing: 16.9% 
 - Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Lonicera](https://pollenx.eu/species.php?species=Lonicera) (kamperfoelie)
 - In honing: 1.3% 
 - Pollen: 
 - Bloeiperiode: juni - augustus
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Achillea-Typ](https://pollenx.eu/species.php?species=Achillea-Typ) (duizendblad)
 - In honing: 
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Bellis perennis](https://pollenx.eu/species.php?species=Bellis_perennis) (madelief)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
 — In honing: 3.1%
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
  — In honing: 0.6%
  - Pollen: 
 - Bloeiperiode: 
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
 — In honing: 5.0%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) (klein hoefblad)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
 — In honing: 0.6%
-
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) (zonnebloem-soorten)
 #### [Senecio](https://pollenx.eu/species.php?species=Senecio) (kruiskruid)
@@ -607,6 +1071,21 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: april - juni
 - Waarde: 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Erodium cicutarium](https://pollenx.eu/species.php?species=Erodium_cicutarium)
 #### [Saxifraga granul](https://pollenx.eu/species.php?species=Saxifraga_granul)
@@ -618,12 +1097,42 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
 — In honing: 0.6%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
 #### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
@@ -631,33 +1140,108 @@ Image scale (2,5*size in µm = px)
 
 ### 20. **Tricolporoidaat - Striate, striaat-reticulate en rugulate sculpture**
 
-#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) Rozenfamilie — divers) 
+#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) (rozenfamilie — divers) 
 — In honing: 5.0%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
 - In honing: 55.0% (k), 25.5% (db)
 - Pollen: 
 - Bloeiperiode: maart - april
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Cotoneaster integerrimus](https://pollenx.eu/species.php?species=Cotoneaster_integerrimus) (cotoneaster)
 - In honing: 16.9%
 - Pollen: 
 - Bloeiperiode: mei - juni
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Malus domestica](https://pollenx.eu/species.php?species=Malus_domestica) (appel)
 - In honing: 11.3% 
 - Pollen: 
 - Bloeiperiode: april - mei
 - Waarde: N 3, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
 - In honing: 16.3% 
 - Pollen: 
 - Bloeiperiode: april - mei
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) (meidoorn)
 #### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) (aardbei)
@@ -665,11 +1249,26 @@ Image scale (2,5*size in µm = px)
 #### [Rosa spinosissima](https://pollenx.eu/species.php?species=Rosa_spinosissima) (duinroosje)
 
 
-#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) Spirea) 
+#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) (spirea) 
 — In honing: 7.5%
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Sedum sp.](https://pollenx.eu/species.php?species=Sedum_sp.)
 #### [Sedum acre](https://pollenx.eu/species.php?species=Sedum_acre)
@@ -677,7 +1276,7 @@ Image scale (2,5*size in µm = px)
 #### [Fragaria vesca](https://pollenx.eu/species.php?species=Fragaria_vesca)
 #### [Potentilla anserina](https://pollenx.eu/species.php?species=Potentilla_anserina)
 #### [Nicotiana glauca](https://pollenx.eu/species.php?species=Nicotiana_glauca)
-#### [Nicotiana tabacum](https://pollenx.eu/species.php?species=Nicotiana_tabacum) siertabak
+#### [Nicotiana tabacum](https://pollenx.eu/species.php?species=Nicotiana_tabacum) (siertabak
 #### [Spiraea](https://pollenx.eu/species.php?species=Spiraea)
 #### [Spiraea japonica](https://pollenx.eu/species.php?species=Spiraea_japonica)
 #### [Spirea](https://pollenx.eu/species.php?species=Spirea) (van Houti?)
@@ -689,7 +1288,7 @@ Image scale (2,5*size in µm = px)
 #### [Rubus fructicosus](https://pollenx.eu/species.php?species=Rubus_fructicosus)
 #### [Rubus idaeus](https://pollenx.eu/species.php?species=Rubus_idaeus)
 
-### 21. **Tricolpaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
+### 21. **Tricolpaat - Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_sp) (wilg)
 - In honing: 96.4% | De Boer: 8.0%
 - Pollen: 
@@ -699,23 +1298,83 @@ Image scale (2,5*size in µm = px)
 - In honing: 60.6% (k), | De Boer: 64.7% (db)
 - Bloeiperiode: april - augustus
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Ligustrum vulgare](https://pollenx.eu/species.php?species=Ligustrum_vulgare) (liguster)
 - In honing: 45.6% (k) | De Boer: 1.5% (db)
 - Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 4, P 4
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Eleagnus](https://pollenx.eu/species.php?species=Eleagnus) (olijfwilg)
 - In honing: 1.3% 
 - Pollen: 
 - Bloeiperiode: april - mei
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Limonium vulgare](https://pollenx.eu/species.php?species=Limonium_vulgare) (lamsoor)
 - In honing: 2.5% 
 - Pollen: 
 - Bloeiperiode: juli - oktober
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (herderstasje)
 #### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) (kleine veldkers)
@@ -723,18 +1382,78 @@ Image scale (2,5*size in µm = px)
 
 #### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) (stinkende gouwe) 
 — In honing: 0.6%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
 — In honing: 3.8%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) (es)
 #### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) (helleborus)
 #### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) (esparcette)
 #### [Herik](https://pollenx.eu/species.php?species=Herik) (sinapis arvensis) 
 — In honing: 3.1%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) (raphanus sp) 
 — In honing: 2.5%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Raphanus sativus](https://pollenx.eu/species.php?species=Raphanus_sativus) (bladrammenas)
 #### [Raphanus-Typ](https://pollenx.eu/species.php?species=Raphanus-Typ) (radijs)
@@ -756,23 +1475,68 @@ Image scale (2,5*size in µm = px)
 #### [Corylopsis parcifl](https://pollenx.eu/species.php?species=Corylopsis_parcifl)
 #### [Fraxinus ornus](https://pollenx.eu/species.php?species=Fraxinus_ornus)
 
-### 22. **Tricolporaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
+### 22. **Tricolporaat - Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
 
 #### [Trifolium repens](https://pollenx.eu/species.php?species=Trifolium_repens) (witte klaver)
 - In honing: 68.2% (k), 95.8% (db)
 - Pollen: 
 - Bloeiperiode: mei - oktober
 - Waarde: N 5 - P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Tilia sp](https://pollenx.eu/species.php?species=Tilia_sp) (linde)
 - In honing: 39.4% | De Boer: 4.9%
 - Pollen: 
 - Bloeiperiode: juni - juli
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Vicia species](https://pollenx.eu/species.php?species=Vicia_species) (tuinboon/voederboon)
 - In honing: 21.9% | De Boer: 39.1%
 - Pollen: 
 - Bloeiperiode: april - juni
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Melilotus officinalis](https://pollenx.eu/species.php?species=Melilotus_officinalis) (honingklaver)
 - In honing: 17.5% | De Boer: 9.5% | Zomerhoning 1-63%
@@ -780,51 +1544,184 @@ Image scale (2,5*size in µm = px)
 - Bloeiperiode: juli - september
 - Waarde: N 5
 - Pollenwaarde: P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Bryonia dioica](https://pollenx.eu/species.php?species=Bryonia_dioica) (heggerank)
 - In honing: 12.5%, secundaire inbreng
 - Pollen: 
 - Bloeiperiode: juni - augustus
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Rumex obtusifolius](https://pollenx.eu/species.php?species=Rumex_obtusifolius) (zuring)
 - In honing: 15.6% 
 - Pollen: 
 - Bloeiperiode: mei - augustus
-
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Trifolium pratense](https://pollenx.eu/species.php?species=Trifolium_pratense) (rode klaver)
 - In honing: 11.3% 
 - Pollen: 
 - Bloeiperiode: mei - oktober
 - Waarde: N 1, P 1
- 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 #### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
 - In honing: 8.1% 
 - Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 4, P 4
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Vitis vinifera](https://pollenx.eu/species.php?species=Vitis_vinifera) (wijnstok)
 - In honing: 1.3% 
 - Pollen: 
 - Bloeiperiode: juni - juni
 - Waarde: N 2, P 2
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Parthenocissus quinquefolia](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) (wilde wingerd)
 - In honing: — 
 - Pollen: 
 - Bloeiperiode: mei - mei
 - Waarde: N 3, P 0
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Trifolium incarnatum](https://pollenx.eu/species.php?species=Trifolium_incarnatum) (incarnaatklaver)
 - In honing: 1.9% 
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
 #### [Boekweit](https://pollenx.eu/species.php?species=Boekweit) (fagopyrum) 
 — In honing: 6.3%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Hedera](https://pollenx.eu/species.php?species=Hedera) (klimop)
 #### [Hydrangeaceae](https://pollenx.eu/species.php?species=Hydrangeaceae) (hortensia)
@@ -849,28 +1746,126 @@ Image scale (2,5*size in µm = px)
 #### [Lathyrus sylvestris](https://pollenx.eu/species.php?species=Lathyrus_sylvestris)
 #### [Onosis spinoza](https://pollenx.eu/species.php?species=Onosis_spinoza)
 #### [Astragalus sinicus](https://pollenx.eu/species.php?species=Astragalus_sinicus)
-#### [Sophora japonica](https://pollenx.eu/species.php?species=Sophora_japonica) onregelmatig
+#### [Sophora japonica](https://pollenx.eu/species.php?species=Sophora_japonica) (onregelmatig
 
-### 23. **Tricolporoidaat - Reticulate (per- of suprareticulate) of microreticulate sculpturen**
+### 23. **Tricolporoidaat - Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
 
 #### [Robinia pseudoacacia](https://pollenx.eu/species.php?species=Robinia_pseudoacacia) (valse acacia)
 - In honing: 30.0% | De Boer: 2.3%
 - Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Hypericum perforatum](https://pollenx.eu/species.php?species=Hypericum_perforatum) (sint-janskruid)
 - In honing: 3.8% 
 - Pollen: 
 - Bloeiperiode: juni - september
 - Waarde: N 0, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Cytisus](https://pollenx.eu/species.php?species=Cytisus) (brem)) — In honing: 0.6%
-#### [Euonymus](https://pollenx.eu/species.php?species=Euonymus) Kardinaalsmuts) — In honing: 0.6%
-#### [Euphorbia](https://pollenx.eu/species.php?species=Euphorbia) Wolfsmelk)
-#### [Genista-Typ](https://pollenx.eu/species.php?species=Genista-Typ) Zonnewinde) — In honing: 0.6%
-#### [Sambucus nigra](https://pollenx.eu/species.php?species=Sambucus_nigra) Vlier) — In honing: 3.8%
-#### [Verbascum](https://pollenx.eu/species.php?species=Verbascum) Toorts)
+#### [Cytisus](https://pollenx.eu/species.php?species=Cytisus) (brem)) 
+— In honing: 0.6%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Euonymus](https://pollenx.eu/species.php?species=Euonymus) (kardinaalsmuts) 
+— In honing: 0.6%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Euphorbia](https://pollenx.eu/species.php?species=Euphorbia) (wolfsmelk)
+#### [Genista-Typ](https://pollenx.eu/species.php?species=Genista-Typ) (zonnewinde) 
+— In honing: 0.6%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Sambucus nigra](https://pollenx.eu/species.php?species=Sambucus_nigra) (vlier) 
+— In honing: 3.8%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Verbascum](https://pollenx.eu/species.php?species=Verbascum) (toorts)
 #### [Anthirrhinum](https://pollenx.eu/species.php?species=Anthirrhinum)
 #### [Scropuhlaria nodo](https://pollenx.eu/species.php?species=Scropuhlaria_nodo)
 #### [Verbascum nigrum](https://pollenx.eu/species.php?species=Verbascum_nigrum)
@@ -884,7 +1879,7 @@ Image scale (2,5*size in µm = px)
 #### [Genista anglica](https://pollenx.eu/species.php?species=Genista_anglica)
 #### [Lupinus](https://pollenx.eu/species.php?species=Lupinus)
 #### [Lupinus angustifo](https://pollenx.eu/species.php?species=Lupinus_angustifo)
-#### [Sarothamnus sco](https://pollenx.eu/species.php?species=Sarothamnus_sco) of
+#### [Sarothamnus sco](https://pollenx.eu/species.php?species=Sarothamnus_sco) (of
 #### [Ulex europaeus](https://pollenx.eu/species.php?species=Ulex_europaeus)
 #### [Ulex sp](https://pollenx.eu/species.php?species=Ulex_sp)
 #### [Euonymus europ](https://pollenx.eu/species.php?species=Euonymus_europ)
@@ -896,31 +1891,91 @@ Image scale (2,5*size in µm = px)
 - In honing: 13.8% 
 - Pollen: 
 - Bloeiperiode: april - september
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Phacelia tanacetifolia](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia) (phacelia)
 - In honing: 5.0% 
 - Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Impatiens balsamina](https://pollenx.eu/species.php?species=Impatiens_balsamina) (balsemien)
 - In honing: 1.3% 
 - Pollen: 
 - Bloeiperiode: juli - september
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Impatiens glandulifera](https://pollenx.eu/species.php?species=Impatiens_glandulifera) (reuzenbalsamine)
-- In honing: — 
+- In honing: 
 - Pollen: 
 - Bloeiperiode: juli - oktober
 - Waarde: N 3, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Glechoma hederacea](https://pollenx.eu/species.php?species=Glechoma_hederacea) Hondsdraf)
-#### [Lavandula](https://pollenx.eu/species.php?species=Lavandula) Lavendel)
-#### [Majoranus-Typ](https://pollenx.eu/species.php?species=Majoranus-Typ) Marjolein)
-#### [Primula](https://pollenx.eu/species.php?species=Primula) Sleutelbloem)
+#### [Glechoma hederacea](https://pollenx.eu/species.php?species=Glechoma_hederacea) (hondsdraf)
+#### [Lavandula](https://pollenx.eu/species.php?species=Lavandula) (lavendel)
+#### [Majoranus-Typ](https://pollenx.eu/species.php?species=Majoranus-Typ) (marjolein)
+#### [Primula](https://pollenx.eu/species.php?species=Primula) (sleutelbloem)
 #### [Buddlejaceae davidii](https://pollenx.eu/species.php?species=Buddlejaceae_davidii) (vlinderstruik)
 #### [Anchusa](https://pollenx.eu/species.php?species=Anchusa) (oksaal)
-#### [Symphytum officinale](https://pollenx.eu/species.php?species=Symphytum_officinale) Smeerwortel)
+#### [Symphytum officinale](https://pollenx.eu/species.php?species=Symphytum_officinale) (smeerwortel)
 #### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
 #### [Asperula odorata](https://pollenx.eu/species.php?species=Asperula_odorata)
 #### [Galium sylvatica](https://pollenx.eu/species.php?species=Galium_sylvatica)
@@ -941,6 +1996,22 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: april - oktober
 - Waarde: N 1, P 1
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
 #### [Pulmonaria off](https://pollenx.eu/species.php?species=Pulmonaria_off)
 #### [Citrus sinensis](https://pollenx.eu/species.php?species=Citrus_sinensis)
 #### [Ceratonia silqua](https://pollenx.eu/species.php?species=Ceratonia_silqua)
@@ -959,21 +2030,66 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: mei - juni
 - Waarde: N 3, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Myosotis scorpioides](https://pollenx.eu/species.php?species=Myosotis_scorpioides) (vergeet-mij-niet)
 - In honing: 5.6% 
 - Pollen: 
 - Bloeiperiode: mei - augustus
 - Waarde: N 1, P 0
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Lythrum salicaria](https://pollenx.eu/species.php?species=Lythrum_salicaria) Watereppe)
+#### [Lythrum salicaria](https://pollenx.eu/species.php?species=Lythrum_salicaria) (watereppe)
 
 ### 29. **Fenestratae**
 
 #### [Taraxacum officinale](https://pollenx.eu/species.php?species=Taraxacum_officinale) (paardebloem)
 - In honing: 21.9% | De Boer: 49.1%
 - Bloeiperiode: maart-mei
-- Waarde: N 5, P 5 
+- Waarde: N 5, P 5
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
 #### [Cichorium intybus](https://pollenx.eu/species.php?species=Cichorium_intybus)
@@ -992,17 +2108,63 @@ Image scale (2,5*size in µm = px)
 - In honing: 10.0% 
 - Pollen: 
 - Bloeiperiode: juni - augustus
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
 - In honing: — 
 - Pollen: 
-- Bloeiperiode: juni
- - september
+- Bloeiperiode: juni - september
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Betula](https://pollenx.eu/species.php?species=Betula) Berk)
-#### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) Hazelaar)
+#### [Betula](https://pollenx.eu/species.php?species=Betula) (berk)
+#### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) (hazelaar)
 - Secundaire inbreng: **Corylus avellana**
-#### [Cucumis sativus](https://pollenx.eu/species.php?species=Cucumis_sativus) Komkommer/augurk) — In honing: 4.4%
+#### [Cucumis sativus](https://pollenx.eu/species.php?species=Cucumis_sativus) (komkommer/augurk) 
+— In honing: 4.4%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
 #### [Knautia spp](https://pollenx.eu/species.php?species=Knautia_spp)
 #### [Phaseolus coccin](https://pollenx.eu/species.php?species=Phaseolus_coccin)
 #### [Phaseolus vulgaris](https://pollenx.eu/species.php?species=Phaseolus_vulgaris)
@@ -1017,10 +2179,42 @@ Image scale (2,5*size in µm = px)
 - In honing: 6.9% 
 - Pollen: 
 - Bloeiperiode: mei - september
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
-#### [Campanula](https://pollenx.eu/species.php?species=Campanula) Klokje)
-#### [Jasione](https://pollenx.eu/species.php?species=Jasione) Jasione)
-#### [Juglans](https://pollenx.eu/species.php?species=Juglans) Walnoot) — In honing: 0.6%
+#### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
+#### [Jasione](https://pollenx.eu/species.php?species=Jasione) (jasione)
+#### [Juglans](https://pollenx.eu/species.php?species=Juglans) (walnoot) 
+— In honing: 0.6%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
 #### [Juglans regia](https://pollenx.eu/species.php?species=Juglans_regia)
 #### [Carpinus betulus](https://pollenx.eu/species.php?species=Carpinus_betulus)
 #### [Jasione montana](https://pollenx.eu/species.php?species=Jasione_montana)
@@ -1034,42 +2228,183 @@ Image scale (2,5*size in µm = px)
 - Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 0, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Lychnis flos-cuculi](https://pollenx.eu/species.php?species=Lychnis_flos-cuculi) (koekoeksbloem)
-- In honing: — 
+- In honing: 
 - Pollen: 
 - Bloeiperiode: mei - september
 - Waarde: N 3, P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Daphne laureola](https://pollenx.eu/species.php?species=Daphne_laureola) (peperboompje)
 - In honing: 0.6% 
 - Pollen: 
 - Bloeiperiode: februari - april
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Phlox subulata](https://pollenx.eu/species.php?species=Phlox_subulata) (vlambloem)
 - In honing: 1.3% 
 - Pollen: 
 - Bloeiperiode: mei - juli
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Thalictrum flavum](https://pollenx.eu/species.php?species=Thalictrum_flavum) (ruit)
 - In honing: 0.6% 
 - Pollen: 
 - Bloeiperiode: juni - juli
 - Waarde: N 0 - P 3
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
 
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie)
 #### [Anemone](https://pollenx.eu/species.php?species=Anemone) (anemoon)
-#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) Anjerfamilie) — In honing: 5.0%
-#### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) Ganzevoetfamilie) — In honing: 4.4%
-- Secundaire inbreng: **Amaranthaceae**
-#### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) Zeggen) — In honing: 1.3%
-#### [Polygonum persicaria](https://pollenx.eu/species.php?species=Polygonum_persicaria) Zonnerus)
-#### [Polygonum-Typ](https://pollenx.eu/species.php?species=Polygonum-Typ) Duizendknoop)
-#### [Trachelospermum](https://pollenx.eu/species.php?species=Trachelospermum) Jasmijn)
-#### [Silene](https://pollenx.eu/species.php?species=Silene) Anjerfamilie) — In honing: —
-#### [Stellaria holostea](https://pollenx.eu/species.php?species=Stellaria_holostea) Grote muur)
-#### [Stellaria media](https://pollenx.eu/species.php?species=Stellaria_media) Vogelmuur)
-#### [Ribes](https://pollenx.eu/species.php?species=Ribes) Aalbes/Rode aalbes)
+#### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie) 
+— In honing: 5.0%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) (ganzevoetfamilie) 
+— In honing: 4.4%, secundaire inbreng
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) (zeggen) — In honing: 1.3%
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Polygonum persicaria](https://pollenx.eu/species.php?species=Polygonum_persicaria) (zonnerus)
+#### [Polygonum-Typ](https://pollenx.eu/species.php?species=Polygonum-Typ) (duizendknoop)
+#### [Trachelospermum](https://pollenx.eu/species.php?species=Trachelospermum) (jasmijn)
+#### [Silene](https://pollenx.eu/species.php?species=Silene) (anjerfamilie)
+— In honing:
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="Quercus_PLACEHOLDER_Eorobor">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+
+#### [Stellaria holostea](https://pollenx.eu/species.php?species=Stellaria_holostea) (grote muur)
+#### [Stellaria media](https://pollenx.eu/species.php?species=Stellaria_media) (vogelmuur)
+#### [Ribes](https://pollenx.eu/species.php?species=Ribes) (aalbes/Rode aalbes)
 #### [Fumaria officinalis](https://pollenx.eu/species.php?species=Fumaria_officinalis)
 #### [Malva sp.](https://pollenx.eu/species.php?species=Malva_sp.)
 #### [Hibiscus esculent](https://pollenx.eu/species.php?species=Hibiscus_esculent)
@@ -1083,30 +2418,10 @@ Image scale (2,5*size in µm = px)
 
 ---
 
-#### [Gilia capitata](https://pollenx.eu/species.php?species=Gilia_capitata) Gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
-#### [Myrica gale](https://pollenx.eu/species.php?species=Myrica_gale) Gagel) — In honing: 0.6%
-#### [Rhamnus](https://pollenx.eu/species.php?species=Rhamnus) Wegedoorn/Vuilboom)
+#### [Gilia capitata](https://pollenx.eu/species.php?species=Gilia_capitata) (gilia) — In honing: 0.6% poraat rugulate, striate, aperture number: >6,  aperture type: porus
+#### [Myrica gale](https://pollenx.eu/species.php?species=Myrica_gale) (gagel) — In honing: 0.6%
+#### [Rhamnus](https://pollenx.eu/species.php?species=Rhamnus) (wegedoorn/Vuilboom)
 Ambrosia artemis | ambrosia artemis 
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Afrika | afrika 
 #### [Alyssum sp.](https://pollenx.eu/species.php?species=Alyssum_sp.)
 #### [Anacardium occid](https://pollenx.eu/species.php?species=Anacardium_occid)
 #### [Anethum graveole](https://pollenx.eu/species.php?species=Anethum_graveole)
@@ -1117,7 +2432,7 @@ Afrika | afrika
 #### [Cosmos sp.](https://pollenx.eu/species.php?species=Cosmos_sp.)
 #### [Crepis sp.](https://pollenx.eu/species.php?species=Crepis_sp.)
 #### [Cyto: gran](https://pollenx.eu/species.php?species=Cyto:_gran)
-#### [Cyto:. zetmeel.](https://pollenx.eu/species.php?species=Cyto:._zetmeel.) Syn:Polygonum jap.
+#### [Cyto:. zetmeel.](https://pollenx.eu/species.php?species=Cyto:._zetmeel.) (syn:Polygonum jap.
 #### [Escallonia sp](https://pollenx.eu/species.php?species=Escallonia_sp)
 #### [Euodia hupehensis](https://pollenx.eu/species.php?species=Euodia_hupehensis)
 #### [Granulair](https://pollenx.eu/species.php?species=Granulair)
@@ -1131,8 +2446,7 @@ Afrika | afrika
 #### [Morus alba](https://pollenx.eu/species.php?species=Morus_alba)
 #### [Nemophila menzi](https://pollenx.eu/species.php?species=Nemophila_menzi)
 #### [Nemophila sp.](https://pollenx.eu/species.php?species=Nemophila_sp.)
-#### [Odontites vernus](https://pollenx.eu/species.php?species=Odontites_vernus) gelig
-#### [Oost](https://pollenx.eu/species.php?species=Oost) Azië
+#### [Odontites vernus](https://pollenx.eu/species.php?species=Odontites_vernus) 
 #### [Ornithopus perpus](https://pollenx.eu/species.php?species=Ornithopus_perpus)
 #### [Pachysandra ter(?)](https://pollenx.eu/species.php?species=Pachysandra_ter(?))
 #### [Pastinaca sativa](https://pollenx.eu/species.php?species=Pastinaca_sativa)
@@ -1154,7 +2468,7 @@ Afrika | afrika
 #### [Carpobrotis edulis](https://pollenx.eu/species.php?species=Carpobrotis_edulis)
 #### [Kolkwitzia amabilis](https://pollenx.eu/species.php?species=Kolkwitzia_amabilis)
 #### [Helenium autumn](https://pollenx.eu/species.php?species=Helenium_autumn)
-#### [Solanum dul-](https://pollenx.eu/species.php?species=Solanum_dul-) camara
+#### [Solanum dul-](https://pollenx.eu/species.php?species=Solanum_dul-) (camara
 #### [Solanum lycopers](https://pollenx.eu/species.php?species=Solanum_lycopers)
 #### [Solanum tuber.](https://pollenx.eu/species.php?species=Solanum_tuber.)
 #### [Davidia involcrata](https://pollenx.eu/species.php?species=Davidia_involcrata)
