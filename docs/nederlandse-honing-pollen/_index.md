@@ -1444,52 +1444,49 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 
-#### [Eleagnus](https://pollenx.eu/species.php?species=Eleagnus) (olijfwilg)
+#### [Elaeagnus](https://pollenx.eu/species.php?species=Elaeagnus_angustifolia) (olijfwilg)
 - In honing: 1.3% 
-- Pollen: 
-- Bloeiperiode: april - mei
+- Pollen: 44 (39.5-50.4), 39 (34.8-40.7) μm, psilate, scabrate sculpturen
+- Bloeiperiode: mei - juni
+- Waarde: P 5, N 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Elaeagnus_angustifolia_Eo.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Elaeagnus_angustifolia_Eo2.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Elaeagnus_angustifolia_Pd.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Elaeagnus_angustifolia_Po.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
     </figure>
   </div>
 </div>
 
 #### [Limonium vulgare](https://pollenx.eu/species.php?species=Limonium_vulgare) (lamsoor)
 - In honing: 2.5% 
-- Pollen: 
+- Pollen: 47 (36.6-53.4) μm, reticulate
 - Bloeiperiode: juli - oktober
 - Waarde: N 5, P 5
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Limonium_vulgare_Eo.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Limonium_vulgare_Pd.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Limonium_vulgare_Pd2.png" style="height: 118px; width: auto;" alt="Limonium_vulgare"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Limonium_vulgare_Po.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
     </figure>
   </div>
 </div>
-
-#### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (herderstasje)
-#### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) (kleine veldkers)
-#### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) (pinksterbloem)
 
 #### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) (stinkende gouwe) 
 - In honing: 0.6%
@@ -1528,9 +1525,6 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 
-#### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) (es)
-#### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) (helleborus)
-#### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) (esparcette)
 #### [Herik](https://pollenx.eu/species.php?species=Herik) (sinapis arvensis) 
 - In honing: 3.1%
 <div class="pid-scale-gallery">
@@ -1569,6 +1563,13 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 
+
+#### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (herderstasje)
+#### [Cardamine hirsuta](https://pollenx.eu/species.php?species=Cardamine_hirsuta) (kleine veldkers)
+#### [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) (pinksterbloem)
+#### [Fraxinus](https://pollenx.eu/species.php?species=Fraxinus) (es)
+#### [Helleborus](https://pollenx.eu/species.php?species=Helleborus) (helleborus)
+#### [Onobrychis viciifolia](https://pollenx.eu/species.php?species=Onobrychis_viciifolia) (esparcette)
 #### [Raphanus sativus](https://pollenx.eu/species.php?species=Raphanus_sativus) (bladrammenas)
 #### [Raphanus-Typ](https://pollenx.eu/species.php?species=Raphanus-Typ) (radijs)
 #### [Sinapis alba](https://pollenx.eu/species.php?species=Sinapis_alba) (witte mosterd)
@@ -1647,23 +1648,23 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 
-#### [Vicia species](https://pollenx.eu/species.php?species=Vicia_species) (tuinboon/voederboon)
-- In honing: 21.9% | De Boer: 39.1%
-- Pollen: 
+#### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) (tuinboon/voederboon)
+- In honing: 21.9% (k), 39.1% (db)
+- Pollen: 36-40 µm, psilate, verrucate sculptuur
 - Bloeiperiode: april - juni
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Vicia_faba_Ed.png" style="width: 95px; height: auto;" alt="Vicia_faba">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Vicia_faba_Eo2.png" style="width: 95px; height: auto;" alt="Vicia_faba">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Vicia_faba_Eo.png" style="width: 95px; height: auto;" alt="Vicia_faba"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Vicia_faba_Pd.png" style="width: 95px; height: auto;" alt="Vicia_faba">
     </figure>
   </div>
 </div>
@@ -1693,42 +1694,46 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Bryonia dioica](https://pollenx.eu/species.php?species=Bryonia_dioica) (heggerank)
 - In honing: 12.5%, secundaire inbreng
-- Pollen: 
+- Pollen: 41 (35.3-44.4) μm, reticulate sculptuur, aperturen met korrelige ornamentatie, operculaat, intine puilt uit pori
 - Bloeiperiode: juni - augustus
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Bryonia_dioica_Eo.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Bryonia_dioica_Pd.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Bryonia_dioica_Po.png" style="height: 103px; width: auto;" alt="Bryonia_dioica"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Bryonia_dioica_operculum.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Bryonia_dioica_uitpuilend_intine.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
     </figure>
   </div>
 </div>
 
 #### [Rumex obtusifolius](https://pollenx.eu/species.php?species=Rumex_obtusifolius) (zuring)
 - In honing: 15.6% 
-- Pollen: 
+- Pollen: 31 (28.4-38.0) μm, perforate, scabrate, reticulate, microreticulate
 - Bloeiperiode: mei - augustus
+- Waarde: 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Rumex_obtusifolius_Eo.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Rumex_obtusifolius_Eo2.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Rumex_obtusifolius_Pd.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Rumex_obtusifolius_Po.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
     </figure>
   </div>
 </div>
@@ -1754,22 +1759,22 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
 - In honing: 8.1% 
-- Pollen: 
+- Pollen: 17 μm, perforate, scabrate, reticulate, microreticulate sculptuur
 - Bloeiperiode: mei - september
 - Waarde: N 4, P 4
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Echium_vulgare_Ed.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Echium_vulgare_Eo.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Echium_vulgare_Pd.png" style="height: 94px; width: auto;" alt="Echium_vulgare"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Echium_vulgare_Po.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
     </figure>
   </div>
 </div>

@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
       <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
       <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" style="height: 140px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale.">
       <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
       <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
     </figure>
   </div>
