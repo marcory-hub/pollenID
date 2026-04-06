@@ -90,7 +90,7 @@
   transition: filter 0.12s ease, border-color 0.12s ease, background 0.12s ease;
 }
 
-/* Keuzes: rustige rand (grijs), tekst helder — omgekeerd t.o.v. te felle witte rand */
+/* Keuzes: rustige rand (grijs), tekst helder */
 .vdh-pollentabel-btn--choice {
   display: block;
   width: 100%;
@@ -283,4 +283,29 @@
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
   width: 3rem;
+}
+
+/* Plakkende koppen voor lange artikelen (o.a. _index-overzichten).
+   H1 niet sticky: anders blijft de titel het plakvlak bezet en verdwijnen H2–H6 er visueel onder (zoals ### 4. Tetradeae). */
+article.md-content__inner.md-typeset h2,
+article.md-content__inner.md-typeset h3 {
+  position: sticky;
+  top: 6rem;
+  z-index: 100;
+  padding: 0.625rem 0;
+  background-color: var(--md-default-bg-color);
+  box-shadow: 0 1px 0 var(--md-default-fg-color--lightest);
+}
+
+/* Interactieve sleutel: stap-/eindpunt-koppen niet sticky. */
+article.md-content__inner.md-typeset .vdh-pollentabel h2,
+article.md-content__inner.md-typeset .vdh-pollentabel h3,
+article.md-content__inner.md-typeset .vdh-pollentabel h4,
+article.md-content__inner.md-typeset .vdh-pollentabel h5,
+article.md-content__inner.md-typeset .vdh-pollentabel h6 {
+  position: static;
+  z-index: auto;
+  padding: revert;
+  background-color: transparent;
+  box-shadow: none;
 }
