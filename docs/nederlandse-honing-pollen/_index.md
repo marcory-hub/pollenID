@@ -2268,20 +2268,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cynoglossum_officinale_Ed.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cynoglossum_officinale_Eo.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Cynoglossum_officinale_Eo2.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cynoglossum_officinale_Pd.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 10 µm, psilate sculptuur
 - Bloeiperiode: mei-juni
 - Waarde: N 3, P 3
 - In honing: 12.5% 
@@ -2290,20 +2290,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Pd.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Po.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 8 (8.0-8.7); 5 (4.6-5.3) μm,
 - Bloeiperiode: mei-augustus
 - Waarde: N 1, P 0
 - In honing: 5.6% 
@@ -2334,8 +2334,29 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 5, P 5
 - In honing: 21.9% (k), 49.1% (db), [Paardenbloemhoning](../monoflorale-honing-pollen/paardenbloemhoning.md)
 
-#### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
 #### [Cichorium intybus](https://pollenx.eu/species.php?species=Cichorium_intybus)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cichorium_intybus_d.png" style="height: 100px; width: auto;" alt="Cichorium_intybus">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cichorium_intybus_o1.png" style="height: 100px; width: auto;" alt="Taraxacum_officinale">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cichorium_intybus_o2.png" style="height: 100px; width: auto;" alt="Cichorium_intybus"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cichorium_intybus_o3.png" style="height: 100px; width: auto;" alt="Cichorium_intybus">
+    </figure>
+  </div>
+</div>
+- Pollen: 40 μm, lophate, echinate, perforate sculptuur
+- Bloeitijd: juli-september
+- Waarde: N 3, P 3
+
+#### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
+
 #### [Hieracium aurantia](https://pollenx.eu/species.php?species=Hieracium_aurantia)
 #### [Hieracium sp.](https://pollenx.eu/species.php?species=Hieracium_sp.)
 #### [Tragopogon sp](https://pollenx.eu/species.php?species=Tragopogon_sp)
@@ -2343,40 +2364,45 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 30. **Diporatae**
 
 #### [Colchicum autumnale](https://pollenx.eu/species.php?species=Colchicinum_autumnale) (herfststijlloos)
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Colchicinum_autumnale_Ed.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
+      <img src="../../assets/images/pollenwiki/Colchicinum_autumnale_Ed.png" style="height: 125px; width: auto;" alt="Colchicinum_autumnale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Colchicinum_autumnale_Eo.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
+      <img src="../../assets/images/pollenwiki/Colchicinum_autumnale_Eo.png" style="height: 125px; width: auto;" alt="Colchicinum_autumnale">
     </figure>
   </div>
 </div>
+- Pollen: 55 (50.2-59.0) μm,  reticulate tot rugulate sculptuur, deels pori met operculum
+- Bloeiperiode: herfst
+
 
 ### 31. **Triporatae**
 
-#### [Epilobium angustifolium](https://pollenx.eu/species.php?species=Epilobium_angustifolium) (wilgeroosje)
+#### [Epilobium angustifolium](https://pollen.tstebler.ch/MediaWiki/index.php?title=Epilobium_angustifolium) ((knikkend)wilgeroosje)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Epilobium_angustifolium_Ed.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Epilobium_angustifolium_Ed2.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Epilobium_angustifolium_Pd.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Epilobium_angustifolium_Po.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Epilobium_angustifolium_viscinedraden.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
     </figure>
   </div>
 </div>
-- Pollen: 
-- Bloeiperiode: juni-augustus
-- Waarde:
+- Pollen: 80 (74.6-89.5) μm, rugulate sculptuur (Beug psilaat, met golvend oppervlak), viscine draden
+- Bloeiperiode: juli-september
+- Waarde: N3, P3
 - In honing: 10.0% 
 
 #### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
@@ -2425,62 +2451,62 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) (hazelaar)
 - Secundaire inbreng: **Corylus avellana**
 
-
+#### [Betula](https://pollenx.eu/species.php?species=Betula)
 
 #### [Knautia spp](https://pollenx.eu/species.php?species=Knautia_spp)
 #### [Phaseolus coccin](https://pollenx.eu/species.php?species=Phaseolus_coccin)
 #### [Phaseolus vulgaris](https://pollenx.eu/species.php?species=Phaseolus_vulgaris)
 #### [Oenothera tetrag](https://pollenx.eu/species.php?species=Oenothera_tetrag)
-#### [Betula](https://pollenx.eu/species.php?species=Betula)
+
 #### [Humulus](https://pollenx.eu/species.php?species=Humulus)
 #### [Cannabis sativa](https://pollenx.eu/species.php?species=Cannabis_sativa)
 
 ### 32. **Stephanoporatae**
 
-#### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
+#### [Campanula rotundifolia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rotundifolia) (klokje)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Campanula_rotundifolia_Eo.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Campanula_rotundifolia_Eo2.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Campanula_rotundifolia_Pd.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Campanula_rotundifolia_Po.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen:  34 (31.5-36.3), 32 (31.4-33.3) μm,verrucate tot echinate sculptuur
 - Bloeiperiode: mei-september
 - Waarde:
 - In honing: 6.9% 
 
-#### [Juglans](https://pollenx.eu/species.php?species=Juglans) (walnoot) 
+#### [Juglans regia](https://pollenx.eu/species.php?species=Juglans_regia) (walnoot) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Juglans_regia_anulus.png" style="height: 100px; width: auto;" alt="Juglans_regia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Juglans_regia_d.png" style="height: 100px; width: auto;" alt="Juglans_regia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Juglans_regia_d2.png" style="height: 100px; width: auto;" alt="Juglans_regia"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Juglans_regia_o.png" style="height: 100px; width: auto;" alt="Juglans_regia">
     </figure>
   </div>
 </div>
+- Pollen: 40 (36.0-41.7) μm (Medium), scabrate, microechinate, verrucate, gemmate sculpturen, pori met anulus
 - In honing: 0.6%
 
-#### [Campanula](https://pollenx.eu/species.php?species=Campanula) (klokje)
+
 #### [Jasione](https://pollenx.eu/species.php?species=Jasione) (jasione)
-#### [Juglans regia](https://pollenx.eu/species.php?species=Juglans_regia)
 #### [Carpinus betulus](https://pollenx.eu/species.php?species=Carpinus_betulus)
 #### [Jasione montana](https://pollenx.eu/species.php?species=Jasione_montana)
 #### [Ulmus sp.](https://pollenx.eu/species.php?species=Ulmus_sp.)
@@ -2492,20 +2518,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Plantago_lanceolata_d.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Plantago_lanceolata_o.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Plantago_lanceolata_o2.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Plantago_lanceolata_o3.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 28 μm, areolate, scabrate, verrucate, gemmate sculptuur, pori met anulus
 - Bloeiperiode: mei-september
 - Waarde: N 0, P 3
 - In honing: 10.0%  secundaire inbreng
@@ -2514,20 +2540,18 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Lychnis_flos-cuculi_d.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Lychnis_flos-cuculi_o.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Lychnis_flos-cuculi_o2.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi"> 
     </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 36 (32.9-36.7) μm, perforate, scabrate, verrucate, gemmate sculptuur
 - Bloeiperiode: mei-september
 - Waarde: N 3, P 3
 - In honing: 
