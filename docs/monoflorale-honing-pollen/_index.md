@@ -274,16 +274,10 @@
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../assets/images/persano_oddo/Lavandula_spp_Pd.png" style="height: 93px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
-    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/persano_oddo/Lavandula_spp_apertuur.png" style="height: 93px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
-    </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/persano_oddo/Lavandula_spp_sculptuur.png" style="height: 93px; width: auto;" alt="Lavandula spp">
-      <figcaption class="pid-scale-caption">Lavandula spp</figcaption>
-    </figure>
   </div>
 </div> 
 
