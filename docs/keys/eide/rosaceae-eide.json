@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "key": "rosaceae_eide_1981",
+    "title": "Sleutel voor Noordwest-Europese Rosaceae-pollen (Eide 1981)",
+    "locale": "nl",
+    "source": "Eide, F. (1981) Grana 20: 101-118",
+    "stepCount": 32,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tricolporaat pollen met operculum",
+          "next": "2"
+        },
+        {
+          "label": "Tricolporaat pollen zonder operculum",
+          "next": "14"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm",
+          "next": "3"
+        },
+        {
+          "label": "Striaat",
+          "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm",
+          "outcome": {
+            "text": "*Sanguisorba minor* (kleine pimpernel)"
+          }
+        },
+        {
+          "label": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm",
+          "outcome": {
+            "text": "*Sanguisorba officinalis* (grote pimpernel)"
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM",
+          "next": "5"
+        },
+        {
+          "label": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum",
+          "next": "10"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm",
+          "outcome": {
+            "text": "*Sibbaldia procumbens* ()"
+          }
+        },
+        {
+          "label": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae breed, diffuus in horizontale projectie",
+          "next": "7"
+        },
+        {
+          "label": "Vallae smal, scherp en duidelijk in horizontale projectie",
+          "next": "9"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi ingesnoerd; uiteinden afgerond; vallae diffuus in LM; pollen altijd prolaat; langste as 29 µm",
+          "outcome": {
+            "text": "*Comarum palustre* (wateraardbei)"
+          }
+        },
+        {
+          "label": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polare gebieden afgeplat",
+          "outcome": {
+            "text": "*Fragaria vesca* (bosaardbei)"
+          }
+        },
+        {
+          "label": "Polare gebieden niet afgeplat",
+          "outcome": {
+            "text": "*Potentilla anserina* (zilverschoon, langste as 22.5 µm) of *Potentilla norvegica* (noorse ganzerik, langste as 30.2 µm)"
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpusuiteinden afgerond",
+          "outcome": {
+            "text": "*Fragaria viridis* (heuvelaardbei)"
+          }
+        },
+        {
+          "label": "Colpusuiteinden acuut",
+          "outcome": {
+            "text": "*Potentilla crantzii* () (exine 1.7 µm) of *Potentilla erecta* (tormentil) (exine 0.8 µm)"
+          }
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm",
+          "next": "11"
+        },
+        {
+          "label": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)",
+          "next": "12"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Oppervlak geeft de indruk glad te zijn",
+          "outcome": {
+            "text": "*Agrimonia eupatoria* (gewone agrimonie)"
+          }
+        },
+        {
+          "label": "Groepen vallae vormen licht verhoogde delen over het intercolpium",
+          "outcome": {
+            "text": "*Agrimonia odorata* ()"
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Langste as 25.4 µm; exine 1.7 µm",
+          "outcome": {
+            "text": "*Rosa rubiginosa* (egelantier)"
+          }
+        },
+        {
+          "label": "Langste as 32.5 µm; exine 1.2 µm",
+          "outcome": {
+            "text": "*Rosa pimpinellifolia* (duinroos)"
+          }
+        },
+        {
+          "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
+          "outcome": {
+            "text": "*Rosa canina* (hondsroos)"
+          }
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Clavaat-bacillaat, echinaat",
+          "next": "15"
+        },
+        {
+          "label": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)",
+          "next": "17"
+        },
+        {
+          "label": "Striaat",
+          "next": "20"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Clavaat-bacillaat; sculptuurelementen basaal ingesnoerd; striatie en tectale perforaties vaak bedekt door clavae/bacula; langste as 28.5 µm",
+          "outcome": {
+            "text": "*Rubus chamaemorus* (kruipbraam)"
+          }
+        },
+        {
+          "label": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Sculptuurelementen acuut",
+          "outcome": {
+            "text": "*Filipendula ulmaria*"
+          }
+        },
+        {
+          "label": "Sculptuurelementen obtuus",
+          "outcome": {
+            "text": "*Filipendula vulgaris*"
+          }
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag; colpus lang; PAI 0.01; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm",
+          "outcome": {
+            "text": "*Mespilus germanica* (mispel)"
+          }
+        },
+        {
+          "label": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk",
+          "next": "18"
+        },
+        {
+          "label": "Psilaat; sculptuurelementen meestal afwezig maar verspreid echinae/scabrae of lage vallae op het intercolpium mogelijk; colpusrand met veel blaasvormige vaginaties equatoriaal; polaire projectie vaak driehoekig; columellae duidelijk; tectale perforaties niet zichtbaar",
+          "next": "19"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Langste as 29.9 µm",
+          "outcome": {
+            "text": "*Cotoneaster niger* ()"
+          }
+        },
+        {
+          "label": "Langste as 31.1 µm",
+          "outcome": {
+            "text": "*Cotoneaster intergerrimus* ()"
+          }
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae in het midden van het intercolpium 1.5x zo hoog als aan de colpusrand",
+          "outcome": {
+            "text": "*Alchemilla alpina* ()"
+          }
+        },
+        {
+          "label": "Columellae in het midden van het intercolpium 2.5x zo hoog als aan de colpusrand",
+          "outcome": {
+            "text": "*Alchemilla acutiloba* (spitslobbige vrouwenmantel) en *Alchemilla glabra* (kale vrouwenmantel)"
+          }
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug",
+          "next": "21"
+        },
+        {
+          "label": "Vallae fijn",
+          "next": "22"
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm",
+          "outcome": {
+            "text": "*Geum rivale* (knikkend nagelkruid)"
+          }
+        },
+        {
+          "label": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm",
+          "outcome": {
+            "text": "*Geum urbanum* (geel nagelkruid)"
+          }
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae dubbel, gebogen en kort; verdeeld als parallelle paren",
+          "next": "23"
+        },
+        {
+          "label": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum",
+          "next": "24"
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Langste as 29 µm",
+          "outcome": {
+            "text": "*Crataegus monogyna* (eenstijlige meidoorn)"
+          }
+        },
+        {
+          "label": "Langste as 35 µm",
+          "outcome": {
+            "text": "*Crataegus oxycantha* (tweestijlige meidoorn)"
+          }
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig",
+          "next": "25"
+        },
+        {
+          "label": "Vallae duidelijk",
+          "next": "26"
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig",
+          "outcome": {
+            "text": "*Rubus arcticus* ()"
+          }
+        },
+        {
+          "label": "Perforaties minder talrijk dan in de vorige soort",
+          "outcome": {
+            "text": "*Rubus saxatilis* (steenbraam)"
+          }
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen",
+          "next": "27"
+        },
+        {
+          "label": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)",
+          "next": "28"
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Langste as 25.4 µm; exine 1.7 µm",
+          "outcome": {
+            "text": "*Rosa rubiginosa* (egelantier)"
+          }
+        },
+        {
+          "label": "Langste as 32.5 µm; exine 1.2 µm",
+          "outcome": {
+            "text": "*Rosa pimpinellifolia* (duinroos)"
+          }
+        },
+        {
+          "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
+          "outcome": {
+            "text": "*Rosa canina* (hondsroos)"
+          }
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae recht, parallel en matig vertakt",
+          "next": "29"
+        },
+        {
+          "label": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk",
+          "next": "32"
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)",
+          "next": "30"
+        },
+        {
+          "label": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur",
+          "next": "31"
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Langste as 22.0 µm",
+          "outcome": {
+            "text": "*Sorbus aucuparia* (wilde lijsterbes)"
+          }
+        },
+        {
+          "label": "Langste as 29.0 µm",
+          "outcome": {
+            "text": "*Sorbus arranensis* (), *Sorbus hybrida* ()"
+          }
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm",
+          "outcome": {
+            "text": "*Prunus avium* (zoete kers)"
+          }
+        },
+        {
+          "label": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm",
+          "outcome": {
+            "text": "*Prunus spinosa* (sleedoorn)"
+          }
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm",
+          "outcome": {
+            "text": "*Prunus padus* (vogelkers)"
+          }
+        },
+        {
+          "label": "Vallae matig gebogen; opaciteit minder uitgesproken",
+          "next": "33"
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm",
+          "outcome": {
+            "text": "*Malus sylvestris* (wilde appel)"
+          }
+        },
+        {
+          "label": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm",
+          "outcome": {
+            "text": "*Dryas octopetala* (zilverkruid)"
+          }
+        }
+      ]
+    }
+  }
+}
