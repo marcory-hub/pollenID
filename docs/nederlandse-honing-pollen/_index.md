@@ -800,66 +800,60 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ilex_aquifolium_Eo.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ilex_aquifolium_Pd.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Ilex_aquifolium_Pd2.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ilex_aquifolium_Po.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 33 (30.5-36.2) μm, clavate sculptuur
 - Bloeiperiode: mei-juni
 - Waarde: N 5-P 5
 - In honing: 1.3%
 
-#### [Geranium](https://pollenx.eu/species.php?species=Geranium) (ooievaarsbekfamilie) 
+#### [Geranium robertianum](https://pollenx.eu/species.php?species=Geranium_robertianum) (ooievaarsbekfamilie) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Geranium_robertianum_Pd.png" style="height: 190px; width: auto;" alt="Geranium_robertianum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Geranium_robertianum_Po.png" style="height: 190px; width: auto;" alt="Geranium_robertianum">
     </figure>
   </div>
 </div>
-- Pollen: 
-- Bloeiperiode: 
-- Waarde:
+- Pollen: 76 (67.2-81.7) μm, clavate, reticulate
+- Bloeiperiode: mei-oktober
+- Waarde: N 3, P 3
 - In honing: 0.6%
 
-#### [Linum](https://pollenx.eu/species.php?species=Linum) (vlas) 
+#### [Linum](https://pollenx.eu/species.php?species=Linum_usitatissimum) (vlas) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Linum_usitatissimum_Eo.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Linum_usitatissimum_Pd.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Linum_usitatissimum_Pd2.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Linum_usitatissimum_Po.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
     </figure>
   </div>
 </div>
-- Pollen: 
-- Bloeiperiode: 
-- Waarde:
+- Pollen: 72 (62.9-78.8), 60 (56.3-61.9) μm, baculate, perforate, clavate, scabrate, microreticulate
+- Bloeiperiode: juni-augustus
+- Waarde: N 1, P 1
 - In honing: 0.6%
 
 #### [Geranium sp.](https://pollenx.eu/species.php?species=Geranium_sp.)
@@ -894,22 +888,22 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aster_amellus_Eo.png" style="height: 73px; width: auto;" alt="Aster_amellus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aster_amellus_Eo2.png" style="height: 73px; width: auto;" alt="Aster_amellus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Aster_amellus_Po.png" style="height: 73px; width: auto;" alt="Aster_amellus"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aster_amellus_Po2.png" style="height: 73px; width: auto;" alt="Aster_amellus">
     </figure>
   </div>
 </div>
+- Pollen: 29 (27.2-31.6) μm, echinate sculptuur
 - Bloeiperiode: juli-oktober
-- Waarde: N 3
-- Pollenwaarde: P 3
+- Waarde: N 3, P 3
 - In honing: 9.4%
 
 #### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (kruiskruid)
@@ -1167,26 +1161,26 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 18. **Tricolpaat-Striate, striaat-reticulate en rugulate sculpturen**
 
-#### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifragaceae) (steenbreekfamilie)
+#### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifraga_rotundifolia) (steenbreekfamilie)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Saxifraga_rotundifolia_Ed.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Saxifraga_rotundifolia_Eo.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Saxifraga_rotundifolia_Pd.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Saxifraga_rotundifolia_Po.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
     </figure>
   </div>
 </div>
-- Pollen: 
-- Bloeiperiode: april-juni
-- Waarde:
+- Pollen: 27 (22.7-29.8) μm , rugulate, striate, verrucate sculptuur
+- Bloeiperiode: mei-september
+- Waarde: N 3, P 3
 - In honing: 1.3% 
 
 #### [Erodium cicutarium](https://pollenx.eu/species.php?species=Erodium_cicutarium)
@@ -1198,45 +1192,45 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aesculus_hippocastanum_Eo.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aesculus_hippocastanum_Eo2.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Aesculus_hippocastanum_Po.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Aesculus_hippocastanum_Po2.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 24 μm, rugulate, psilate, striate scuptuur
 - Bloeiperiode: mei-juni
 - Waarde: N 5, P 5
 - In honing: 26.3% (k), 9.9% (db)
 
 #### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
-- Pollen: 
-- Bloeiperiode:
-- Waarde:
-- In honing: 0.6%
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo2.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Pd.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Po.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
     </figure>
   </div>
 </div>
+- Pollen: 26 (24.3-28.7) μm, striato-reticulate sculptuur
+- Bloeiperiode: juni-juli
+- Waarde: N 5, P 5
+- In honing: 0.6%
 
 #### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
 #### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
@@ -1244,27 +1238,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 20. **Tricolporoidaat-Striate, striaat-reticulate en rugulate sculpture**
 
-#### [Rosaceae](https://pollenx.eu/species.php?species=Rosaceae) (rozenfamilie-divers) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode:
-- Waarde:
-- In honing: 5.0%
+#### [Rosaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rosaceae) (rozenfamilie) 
+- keys van de gevorderde cursus toevoegen
 
 #### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
 - Pollen: 
@@ -1659,7 +1634,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 5-P 5
 - In honing: 68.2% (k), 95.8% (db), [Witteklaverhoning](../monoflorale-honing-pollen/witte-klaverhoning.md)
 
-#### [Tilia sp](https://pollenx.eu/species.php?species=Tilia_sp) (linde)
+#### [Tilia platyphyllos](https://pollenx.eu/species.php?species=Tilia_platyphyllos) (linde)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
