@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "key": "rosaceae_feagri_iversen_273_288",
+    "title": "Rosaceae (Fægri & Iversen) - sleutel (pp. 273-288) [te verifiëren]",
+    "locale": "nl",
+    "source": "Fægri, K. & Iversen, J. Textbook of Pollen Analysis (4e ed.). Sectie 'Which plant? Identification keys...' pp. 273-288 (PDF paginering) [te verifiëren].",
+    "stepCount": 19,
+    "start": "1"
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Met tectaat operculum",
+          "next": "2"
+        },
+        {
+          "label": "Geen tectaat operculum (colpusmembraan soms met losse columellae)",
+          "next": "10"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Psilaat-scabraat-echinaat, oblaat-globulair (*Sanguisorba*)",
+          "next": "3"
+        },
+        {
+          "label": "Striaat",
+          "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Operculum smal, colpus zeer kort",
+          "outcome": {
+            "text": "*Sanguisorba minor* (kleine pimpernel)"
+          }
+        },
+        {
+          "label": "Operculum zo breed als het intercolpium, colpus lang",
+          "outcome": {
+            "text": "*Sanguisorba officinalis* (grote pimpernel)"
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk",
+          "outcome": {
+            "text": "*Sibbaldia procumbens* ()"
+          }
+        },
+        {
+          "label": "Vallae vaak parallel; operculum smal tot breed; porie niet altijd duidelijk",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae breed, diffuus",
+          "next": "6"
+        },
+        {
+          "label": "Vallae smal, duidelijk",
+          "next": "8"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Prolaat; colpi ingesnoerd, uiteinden afgerond",
+          "outcome": {
+            "text": "*Comarum palustre* (wateraardbei)"
+          }
+        },
+        {
+          "label": "Niet prolaat; colpi niet ingesnoerd, uiteinden acuut",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polair gebied afgeplat",
+          "outcome": {
+            "text": "*Fragaria vesca* (bosaardbei)"
+          }
+        },
+        {
+          "label": "Polair gebied niet afgeplat",
+          "outcome": {
+            "text": "*Potentilla* (ganzerik)"
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpusuiteinden afgerond",
+          "outcome": {
+            "text": "*Fragaria viridis* (heuvelaardbei)"
+          }
+        },
+        {
+          "label": "Colpusuiteinden acuut",
+          "outcome": {
+            "text": "*Potentilla* (ganzerik)"
+          }
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Clavaat-bacillaat-echinaat",
+          "outcome": {
+            "text": "*Rubus chamaemorus* (kruipbraam)"
+          }
+        },
+        {
+          "label": "Microechinaat-echinaat (geen perforaties)",
+          "outcome": {
+            "text": "*Filipendula* (spirea)"
+          }
+        },
+        {
+          "label": "Rugulata-microstriaat/psilaat",
+          "next": "11"
+        },
+        {
+          "label": "Striaat",
+          "next": "13"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Rugulata-microstriaat; geen costae colpi of granula op colpusmembraan",
+          "outcome": {
+            "text": "*Mespilus germanica* (mispel)"
+          }
+        },
+        {
+          "label": "Rugulata tot psilaat; costae colpi en granula meestal aanwezig",
+          "outcome": {
+            "text": "*Cotoneaster* ()"
+          }
+        },
+        {
+          "label": "Psilaat; polaire projectie meestal subtriangulair",
+          "outcome": {
+            "text": "*Alchemilla* (vrouwenmantel)"
+          }
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae grof; colpus met duidelijke brug",
+          "outcome": {
+            "text": "*Geum* (nagelkruid)"
+          }
+        },
+        {
+          "label": "Vallae fijn",
+          "next": "14"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae gepaard; striatie zwak",
+          "outcome": {
+            "text": "*Crataegus* (meidoorn)"
+          }
+        },
+        {
+          "label": "Vallae enkelvoudig",
+          "next": "15"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae vaag; perforaties groot",
+          "outcome": {
+            "text": "*Rubus* (braam)"
+          }
+        },
+        {
+          "label": "Vallae duidelijk",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae hoog, vaak kort",
+          "outcome": {
+            "text": "*Rosa* (roos)"
+          }
+        },
+        {
+          "label": "Vallae laag en smal",
+          "next": "17"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vallae recht, matig vertakt",
+          "next": "18"
+        },
+        {
+          "label": "Vallae gebogen, vertakt, anastomoserend",
+          "next": "19"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Perforaties duidelijk; vallae zonder dichte structuur",
+          "outcome": {
+            "text": "*Sorbus* (lijsterbes)"
+          }
+        },
+        {
+          "label": "Perforaties mogelijk niet zichtbaar; vallae met dichte structuur",
+          "outcome": {
+            "text": "*Prunus* (kers/pruim)"
+          }
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Met costae colpi; grootte ca. 27 µm",
+          "outcome": {
+            "text": "*Prunus* (kers/pruim)"
+          }
+        },
+        {
+          "label": "Geen costae colpi; grootte ca. 22 µm",
+          "outcome": {
+            "text": "*Dryas* (zilverkruid)"
+          }
+        }
+      ]
+    }
+  }
+}
