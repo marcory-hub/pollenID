@@ -7,7 +7,7 @@
 - [Monoflorale honing](monoflorale-honing-pollen/_index.md)
 - [Nederlandse honing](nederlandse-honing-pollen/_index.md)
 - [Secundaire inbreng](secundaire-inbreng/_index.md)
-- [Sporadische EU pollen](sporadische-pollen/magnolia.md)
+- [Sporadische EU pollen](sporadische-eu-pollen/_index.md)
 - [Niet-EU pollen](niet-eu-pollen/_index.md)
 
 ## Referenties

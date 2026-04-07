@@ -910,69 +910,87 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Senecio_jacobaea_Eo.png" style="height: 75px; width: auto;" alt="Senecio_jacobaea">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Senecio_jacobaea_Eo2.png" style="height: 75px; width: auto;" alt="Senecio_jacobaea">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Senecio_jacobaea_Eo3.png" style="height: 75px; width: auto;" alt="Senecio_jacobaea"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Senecio_jacobaea_Po.png" style="height: 75px; width: auto;" alt="Senecio_jacobaea">
     </figure>
   </div>
 </div>
+- Pollen:	30 (27.5-32.3) μm ,echinate, microreticulate sculptuur
+- Bloeiperiode: juni-oktober
+- Waarde: N 3, P 3
+- In honing: 5.6% 
 
-#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (kamille)
-- In honing: 1.9% 
-- Pollen: 
-- Bloeiperiode: mei-oktober
-- Waarde: N 0, P 3 
+#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (kamille) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Matricaria_recutita_Eo.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Matricaria_recutita_Eo2.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Matricaria_recutita_Pd.png" style="height: 60px; width: auto;" alt="Matricaria_recutita"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Matricaria_recutita_Po.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
     </figure>
   </div>
 </div>
-- Bloeiperiode: juni-oktober
-- Waarde: N 3
-- Pollenwaarde: P 3
-- In honing: 5.6% 
+- Pollen: 24 (21.5-25.7) μm , echinate sculptuur
+- Bloeiperiode: mei-oktober
+- Waarde: N 0, P 3
+- In honing: 1.9%
 
 #### [Cirsium arvense](https://pollenx.eu/species.php?species=Cirsium_arvense) (distel)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Cirsium_arvense_Ed.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
     </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cirsium_arvense_Eo.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cirsium_arvense_Pd.png" style="height: 95px; width: auto;" alt="Cirsium_arvense"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Cirsium_arvense_Po.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
+    </figure>
+  </div>
+</div>
+- Pollen: 38 μm, echinate, microreticulate
+- Bloeiperiode: juni-september
+- Waarde: N 5, P 5
+- In honing: 16.9% 
+
+#### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
     </figure>
   </div>
 </div>
-- Pollen: 
-- Bloeiperiode: juni-september
-- Waarde: N 5, P 5
-- In honing: 16.9% 
+- In honing: 5.0%
 
-#### [Lonicera](https://pollenx.eu/species.php?species=Lonicera) (kamperfoelie)
+#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -990,9 +1008,69 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 - Pollen: 
-- Bloeiperiode: juni-augustus
+- Bloeiperiode: 
 - Waarde:
+- In honing: 3.1%
+
+#### [Lonicera caprifolium](https://pollenx.eu/species.php?species=Lonicera_caprifolium) (tuinkamperfoelie)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Lonicera_caprifolium_Eo.png" style="height: 193px; width: auto;" alt="Lonicera_caprifolium">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Lonicera_caprifolium_Eo2.png" style="height: 100px; width: auto;" alt="Lonicera_caprifolium">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="https://pollen.tstebler.ch/MediaWiki/images/d/d4/Lonicera_periclymenum.gif" style="height: 210px; width: auto; display: block; margin: 8px 0;" alt="Lonicera periclymenum, animatie">
+    </figure>
+  </div>
+</div>
+- Pollen: 77 (70.1-85.0), 69 (65.2-73.0) μm, echinate sculptuur
+- Bloeiperiode: mei-juni
+- Waarde: N 1, P 1
 - In honing: 1.3% 
+
+#### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+- In honing: 0.6%
+
+#### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+- Pollen: 
+- Bloeiperiode: 
+- Waarde:
+- In honing: 0.6%
 
 #### [Achillea-Typ](https://pollenx.eu/species.php?species=Achillea-Typ) (duizendblad)
 <div class="pid-scale-gallery">
@@ -1034,68 +1112,6 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
   </div>
 </div>
 
-#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode: 
-- Waarde:
-- In honing: 3.1%
-
-#### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode: 
-- Waarde:
-- In honing: 0.6%
-
-#### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- In honing: 5.0%
-
 #### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) (klein hoefblad)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -1112,25 +1128,6 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
     </figure>
   </div>
 </div>
-
-#### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- In honing: 0.6%
 
 #### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) (zonnebloem-soorten)
 #### [Senecio](https://pollenx.eu/species.php?species=Senecio) (kruiskruid)
@@ -1239,13 +1236,8 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 20. **Tricolporoidaat-Striate, striaat-reticulate en rugulate sculpture**
 
 #### [Rosaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rosaceae) (rozenfamilie) 
-- keys van de gevorderde cursus toevoegen
 
 #### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
-- Pollen: 
-- Bloeiperiode: maart-april
-- Waarde: N3-5, P3-5
-- In honing: 55.0% (k), 25.5% (db)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1262,6 +1254,10 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
     </figure>
   </div>
 </div>
+- Pollen: 
+- Bloeiperiode: maart-april
+- Waarde: N3-5, P3-5
+- In honing: 55.0% (k), 25.5% (db)
 
 #### [Rubus fruticosus](https://pollenx.eu/species.php?species=Rubus_fruticosus)
 <div class="pid-scale-gallery">
@@ -1327,12 +1323,12 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
     </figure>
   </div>
 </div>
-
-#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
-- In honing: 16.3% 
 - Pollen: 
 - Bloeiperiode: april-mei
-- Waarde: N 5, P 5
+- Waarde: N 3, P 3
+- In honing: 11.3% 
+
+#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1349,10 +1345,10 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
     </figure>
   </div>
 </div>
+- In honing: 16.3% 
 - Pollen: 
 - Bloeiperiode: april-mei
-- Waarde: N 3, P 3
-- In honing: 11.3% 
+- Waarde: N 5, P 5
 
 #### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) (meidoorn)
 #### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) (aardbei)

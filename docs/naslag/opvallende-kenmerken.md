@@ -67,7 +67,7 @@ De inkoppertjes die het aantal mogelijk pollen snel verminderen tot enkele tient
 - alle coli ongeveer dezelfde dikte
  - [Borago officinalis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Borago_officinalis) (smeerwortel)
 - [Anchusa](../nederlandse-honing-pollen/anchusa.md) (ossentong)
-- [Pulmonaria](../sporadische-pollen/pulmonaria-officinalis.md) (longkruid)
+- [Pulmonaria](../sporadische-eu-pollen/pulmonaria-officinalis.md) (longkruid)
 
 
 ## [Aquifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Aquifoliaceae) - clavaat bubbels aan het oppervlak 
