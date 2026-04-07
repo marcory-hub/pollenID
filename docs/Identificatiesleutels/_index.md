@@ -11,7 +11,11 @@
 ---
 
 ## Keys voor Rosaceae pollen
+- [Pollen morphology of some European Rosaseae - Reitsma 1966](rosaceae-reitsma.md)
+
 - [Key for Northwest European Rosaceae pollen - Eide 1981](rosaceae-eide.md)
+
+---
 
 ## Leitfaden der Pollenstimmung voor Mitteleuropa en angrenzende Gebieden (Beug)
 
