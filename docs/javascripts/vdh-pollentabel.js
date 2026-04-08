@@ -340,21 +340,23 @@
     const ids = Object.keys(steps).sort(function (a, b) {
       return parseInt(a, 10) - parseInt(b, 10);
     });
-    /** @type {Array<{sid:string,label:string,result:string,kind:string}>} */
+    /** @type {Array<{sid:string,label:string,result:string,kind:string,images:Array<{image?:string,imageWidthPx?:number}>}>} */
     const rows = [];
     ids.forEach(function (sid) {
       const step = steps[sid];
       (step.choices || []).forEach(function (ch) {
         let result = "";
         let kind = "";
+        let images = [];
         if (ch.next) {
           result = "→ stap " + String(ch.next);
           kind = "stap";
         } else if (ch.outcome && ch.outcome.text) {
           result = ch.outcome.text;
           kind = ch.outcome.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
+          images = Array.isArray(ch.outcome.images) ? ch.outcome.images : [];
         } else {
-          result = "—";
+          result = "-";
           kind = "leeg";
         }
         rows.push({
@@ -362,13 +364,14 @@
           label: ch.label || "",
           result: result,
           kind: kind,
+          images: images,
         });
       });
     });
     return rows;
   }
 
-  function runTable(root, data) {
+  function runTable(root, data, dataAbsUrl) {
     const rows = flattenSteps(data);
     const wrap = document.createElement("div");
     wrap.className = "vdh-pollentabel-table md-typeset";
@@ -404,7 +407,7 @@
 
     const thead = document.createElement("thead");
     const hr = document.createElement("tr");
-    ["Stap", "Keuze", "Vervolg of eindpunt", "Type"].forEach(function (h) {
+    ["Stap", "Keuze", "Vervolg of eindpunt"].forEach(function (h) {
       const th = document.createElement("th");
       th.textContent = h;
       hr.appendChild(th);
@@ -434,17 +437,45 @@
       const tdR = document.createElement("td");
       if (row.kind.indexOf("eindpunt") === 0) {
         tdR.innerHTML = formatOutcomeRichText(row.result);
+        if (row.images && row.images.length > 0) {
+          const imgRow = document.createElement("div");
+          imgRow.className = "vdh-pollentabel-table-outcome-images";
+          imgRow.style.display = "flex";
+          imgRow.style.flexWrap = "nowrap";
+          imgRow.style.gap = "6px";
+          imgRow.style.alignItems = "flex-start";
+          imgRow.style.marginTop = "8px";
+          imgRow.style.overflowX = "auto";
+
+          row.images.forEach(function (im, imIdx) {
+            if (!im || !im.image) return;
+            const img = document.createElement("img");
+            img.src = resolveAssetUrl(im.image, dataAbsUrl || document.baseURI);
+            img.alt =
+              row.result
+                .replace(/\*([^*]*)\*/g, "$1")
+                .replace(/\n/g, " ")
+                .trim() + " (afbeelding " + (imIdx + 1) + ")";
+            img.style.display = "block";
+            if (im.imageWidthPx) {
+              img.style.width = String(im.imageWidthPx) + "px";
+            } else {
+              img.style.maxWidth = "120px";
+            }
+            img.style.height = "auto";
+            img.style.margin = "0";
+            imgRow.appendChild(img);
+          });
+
+          tdR.appendChild(imgRow);
+        }
       } else {
         tdR.textContent = row.result;
       }
 
-      const tdK = document.createElement("td");
-      tdK.textContent = row.kind;
-
       tr.appendChild(tdS);
       tr.appendChild(tdL);
       tr.appendChild(tdR);
-      tr.appendChild(tdK);
       tbody.appendChild(tr);
     });
 
@@ -503,6 +534,7 @@
     if (!root) return;
     const jsonUrl = root.getAttribute("data-json-url");
     if (!jsonUrl) return;
+    const dataAbsUrl = resolveDataJsonUrl(jsonUrl);
 
     root.replaceChildren();
     root.innerHTML =
@@ -511,7 +543,7 @@
     fetchJsonCached(jsonUrl)
       .then(function (data) {
         root.replaceChildren();
-        runTable(root, data);
+        runTable(root, data, dataAbsUrl);
       })
       .catch(function (e) {
         root.innerHTML =

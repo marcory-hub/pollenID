@@ -48,11 +48,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 100
+                "imageWidthPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 100
+                "imageWidthPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -272,23 +272,23 @@
         {
           "label": "Colpusuiteinden acuut",
           "outcome": {
-            "text": "*Potentilla crantzii* () (exine 1.7 µm) of *Potentilla erecta* (tormentil) (exine 0.8 µm)",
+            "text": "*Potentilla crantzii* () (exine 1.7 µm) of *Potentilla erecta* (tormentil), 26 (24.8-27.2) μm (exine 0.8 µm)",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Ed.png",
+                "imageWidthPx": 65  
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Eo.png",
+                "imageWidthPx": 65
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Pd.png",
+                "imageWidthPx": 65
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Po.png",
+                "imageWidthPx": 65
               }
             ]
           }
@@ -316,23 +316,23 @@
         {
           "label": "Oppervlak geeft de indruk glad te zijn",
           "outcome": {
-            "text": "*Agrimonia eupatoria* (gewone agrimonie)",
+            "text": "*Agrimonia eupatoria* (gewone agrimonie), 34 (30.2-37.0) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
+                "imageWidthPx": 85  
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo.png",
+                "imageWidthPx": 85
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Po2.png",
+                "imageWidthPx": 85
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Po.png",
+                "imageWidthPx": 85
               }
             ]
           }
@@ -340,23 +340,23 @@
         {
           "label": "Groepen vallae vormen licht verhoogde delen over het intercolpium",
           "outcome": {
-            "text": "*Agrimonia odorata* ()",
+            "text": "*Agrimonia odorata* (welriekende agrimonie), 51-100 µm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Ed.png",
+                "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Eo.png",
+                "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Eo2.png",
+                "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Po.png",
+                "imageWidthPx": 188
               }
             ]
           }
@@ -370,23 +370,23 @@
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
           "outcome": {
-            "text": "*Rosa rubiginosa* (egelantier)",
+            "text": "*Rosa rubiginosa* (egelantier), 26-30 µm, Auer W. 2021. Rosa eglanteria. In: PalDat - A palynological database",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
+                  "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Eo.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Pd.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Po.png",
+                "imageWidthPx": 78
               }
             ]
           }
@@ -418,23 +418,23 @@
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
           "outcome": {
-            "text": "*Rosa canina* (hondsroos)",
+            "text": "*Rosa canina* (hondsroos), 33 (30.4-36.4) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Eo.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Pd.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Po.png",
+                "imageWidthPx": 83
               }
             ]
           }
@@ -500,23 +500,39 @@
         {
           "label": "Sculptuurelementen acuut",
           "outcome": {
-            "text": "*Filipendula ulmaria*",
+            "text": "*Filipendula ulmaria* (moerasspirea) 17 (15.1-18.3) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
+                "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
+                "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png",
+                "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png",
+                "imageWidthPx": 43
               }
             ]
           }
@@ -524,23 +540,23 @@
         {
           "label": "Sculptuurelementen obtuus",
           "outcome": {
-            "text": "*Filipendula vulgaris*",
+            "text": "*Filipendula vulgaris* (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Filipendula_vulgaris_Eo2.png",
+                "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Filipendula_vulgaris_Eo.png",
+                "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Filipendula_vulgaris_Pd.png",
+                "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Filipendula_vulgaris_Po.png",
+                "imageWidthPx": 45
               }
             ]
           }
@@ -554,7 +570,7 @@
         {
           "label": "Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag; colpus lang; PAI 0.1; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm",
           "outcome": {
-            "text": "*Mespilus germanica* (mispel)",
+            "text": "*Mespilus germanica* (wilde mispel)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -592,7 +608,7 @@
         {
           "label": "Langste as 29.9 µm",
           "outcome": {
-            "text": "*Cotoneaster niger* ()",
+            "text": "*Cotoneaster niger* (?)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -616,23 +632,23 @@
         {
           "label": "Langste as 31.1 µm",
           "outcome": {
-            "text": "*Cotoneaster intergerrimus* ()",
+            "text": "*Cotoneaster intergerrimus* (wilde dwergmispel), 31-35 µm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Cotoneaster_intergerrimus_Ed.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Cotoneaster_intergerrimus_Eo.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Cotoneaster_intergerrimus_Pd.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Cotoneaster_intergerrimus_Po.png",
+                "imageWidthPx": 83
               }
             ]
           }
@@ -646,7 +662,7 @@
         {
           "label": "Columellae in het midden van het intercolpium 1.5x zo hoog als aan de colpusrand",
           "outcome": {
-            "text": "*Alchemilla alpina* ()",
+            "text": "*Alchemilla alpina* (alpine vrouwenmantel?)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -714,23 +730,23 @@
         {
           "label": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm",
           "outcome": {
-            "text": "*Geum rivale* (knikkend nagelkruid)",
+            "text": "*Geum rivale* (knikkend nagelkruid) 27 (23.2-30.6), 24 (21.1-26.1) μm ",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Ed.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Eo.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Pd.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Po.png",
+                "imageWidthPx": 63
               }
             ]
           }
@@ -738,23 +754,23 @@
         {
           "label": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm",
           "outcome": {
-            "text": "*Geum urbanum* (geel nagelkruid)",
+            "text": "*Geum urbanum* (geel nagelkruid) 23 (20.0-25.6) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Ed.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Eo.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Pd.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Po.png",
+                "imageWidthPx": 58
               }
             ]
           }
@@ -782,7 +798,7 @@
         {
           "label": "Langste as 29 µm",
           "outcome": {
-            "text": "*Crataegus monogyna* (eenstijlige meidoorn)",
+            "text": "*Crataegus monogyna* (eenstijlige meidoorn), rejected as ambiguous by the International Botanical Congress. More recently, Christensen concluded in 1992 that the species matches C. rhipidophylla (Koraalmeidoorn) (https://www.jstor.org/stable/i25027808)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -850,7 +866,7 @@
         {
           "label": "Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig",
           "outcome": {
-            "text": "*Rubus arcticus* ()",
+            "text": "*Rubus arcticus* (arctische braam) komt voor in arctisch gebied en alpen.",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -874,23 +890,23 @@
         {
           "label": "Perforaties minder talrijk dan in de vorige soort",
           "outcome": {
-            "text": "*Rubus saxatilis* (steenbraam)",
+            "text": "*Rubus saxatilis* (steenbraam)26-30 µm Auer W. 2021. Rubus saxatilis",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rubus_saxatilis_Po.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rubus_saxatilis_Eo.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rubus_saxatilis_Pd.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rubus_saxatilis_Eo2.png",
+                "imageWidthPx": 70
               }
             ]
           }
@@ -918,23 +934,24 @@
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
           "outcome": {
-            "text": "*Rosa rubiginosa* (egelantier)",
+            "text": "*Rosa rubiginosa* (egelantier) 26-30 µm Auer W. 2021. Rosa rubiginosa. In: PalDat - A palynological database.",
+
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Eo.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Pd.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Po.png",
+                "imageWidthPx": 70
               }
             ]
           }
@@ -942,23 +959,23 @@
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
           "outcome": {
-            "text": "*Rosa pimpinellifolia* (duinroos)",
+            "text": "*Rosa pimpinellifolia* (duinroos) syn Rosa spinosissima 31-35 µm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Ed.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Eo.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Pd.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Po.png",
+                "imageWidthPx": 83
               }
             ]
           }
@@ -966,23 +983,23 @@
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
           "outcome": {
-            "text": "*Rosa canina* (hondsroos)",
+            "text": "*Rosa canina* (hondsroos) 33 (30.4-36.4) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
+                "imageWidthPx": 83  
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Eo.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Pd.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Po.png",
+                "imageWidthPx": 83
               }
             ]
           }
@@ -1027,20 +1044,20 @@
             "text": "*Sorbus aucuparia* (wilde lijsterbes)",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Eo.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Pd.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Po.png",
+                "imageWidthPx": 70
               }
             ]
           }
@@ -1048,7 +1065,7 @@
         {
           "label": "Langste as 29.0 µm",
           "outcome": {
-            "text": "*Sorbus arranensis* (), *Sorbus hybrida* ()",
+            "text": "*Sorbus arranensis* (Schotse- of arran lijsterbes), *Sorbus hybrida* (Finse meelbes)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -1078,23 +1095,23 @@
         {
           "label": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm",
           "outcome": {
-            "text": "*Prunus avium* (zoete kers)",
+            "text": "*Prunus avium* (zoete kers) 39 (37.3-39.2) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_avium_Ed.png",
+                "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_avium_Eo.png",
+                "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_avium_Pd.png",
+                "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_avium_Po.png",
+                "imageWidthPx": 98
               }
             ]
           }
@@ -1102,23 +1119,23 @@
         {
           "label": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm",
           "outcome": {
-            "text": "*Prunus spinosa* (sleedoorn)",
+            "text": "*Prunus spinosa* (sleedoorn) 41 (39.1-42.6) μm ",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_spinosa_Ed.png",
+                "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_spinosa_Eo.png",
+                "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_spinosa_Pd.png",
+                "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_spinosa_Po.png",
+                "imageWidthPx": 103
               }
             ]
           }
@@ -1132,23 +1149,23 @@
         {
           "label": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm",
           "outcome": {
-            "text": "*Prunus padus* (vogelkers)",
+            "text": "*Prunus padus* (vogelkers) 36 μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_padus_Ed.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_padus_Eo.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_padus_Pd.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Prunus_padus_Po.png",
+                "imageWidthPx": 90
               }
             ]
           }
@@ -1166,23 +1183,23 @@
         {
           "label": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm",
           "outcome": {
-            "text": "*Malus sylvestris* (wilde appel)",
+            "text": "*Malus sylvestris* (wilde appel) 31 μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Malus_sylvestris_Ed.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Malus_sylvestris_Eo.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Malus_sylvestris_Pd.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Malus_sylvestris_Po.png",
+                "imageWidthPx": 78
               }
             ]
           }
