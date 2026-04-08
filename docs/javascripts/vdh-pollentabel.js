@@ -117,7 +117,19 @@
     return jsonCache.get(abs);
   }
 
-  function runKey(root, data) {
+  function resolveAssetUrl(maybeRelative, baseUrl) {
+    if (typeof maybeRelative !== "string" || !maybeRelative) return maybeRelative;
+    if (/^[a-z]+:/i.test(maybeRelative) || maybeRelative.startsWith("/")) {
+      return maybeRelative;
+    }
+    try {
+      return new URL(maybeRelative, baseUrl).href;
+    } catch (e) {
+      return maybeRelative;
+    }
+  }
+
+  function runKey(root, data, dataAbsUrl) {
     const start = data.start || (data.meta && data.meta.start) || "1";
     const steps = data.steps || {};
     const stack = [];
@@ -169,7 +181,7 @@
         btn.appendChild(labelSpan);
         if (ch.image) {
           const img = document.createElement("img");
-          img.src = ch.image;
+          img.src = resolveAssetUrl(ch.image, dataAbsUrl || document.baseURI);
           img.alt =
             (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)";
           img.style.display = "block";
@@ -186,8 +198,47 @@
           if (ch.outcome && ch.outcome.text) {
             stack.push(id);
             outcomeEl.hidden = false;
-            outcomeEl.innerHTML =
-              "<h4>Eindpunt</h4><p>" + formatOutcomeRichText(ch.outcome.text) + "</p>";
+            outcomeEl.replaceChildren();
+            const h = document.createElement("h4");
+            h.textContent = "Eindpunt";
+            const p = document.createElement("p");
+            p.innerHTML = formatOutcomeRichText(ch.outcome.text);
+            outcomeEl.appendChild(h);
+            outcomeEl.appendChild(p);
+
+            const imgs =
+              ch.outcome && Array.isArray(ch.outcome.images) ? ch.outcome.images : [];
+            if (imgs.length > 0) {
+              const row = document.createElement("div");
+              row.className = "vdh-pollentabel-outcome-images";
+              row.style.display = "flex";
+              row.style.flexWrap = "nowrap";
+              row.style.gap = "6px";
+              row.style.alignItems = "flex-start";
+              row.style.marginTop = "10px";
+              row.style.overflowX = "auto";
+              outcomeEl.appendChild(row);
+
+              imgs.forEach(function (im, imIdx) {
+              if (!im || !im.image) return;
+              const img = document.createElement("img");
+              img.src = resolveAssetUrl(im.image, dataAbsUrl || document.baseURI);
+              img.alt =
+                (ch.outcome.text || "Eindpunt")
+                  .replace(/\*([^*]*)\*/g, "$1")
+                  .replace(/\n/g, " ")
+                  .trim() + " (afbeelding " + (imIdx + 1) + ")";
+              img.style.display = "block";
+              if (im.imageWidthPx) {
+                img.style.width = String(im.imageWidthPx) + "px";
+              } else {
+                img.style.maxWidth = "320px";
+              }
+              img.style.height = "auto";
+              img.style.margin = "0";
+              row.appendChild(img);
+              });
+            }
             actionsEl.replaceChildren();
             addOutcomeNavRow();
             return;
@@ -428,6 +479,7 @@
     if (!root) return;
     const jsonUrl = root.getAttribute("data-json-url");
     if (!jsonUrl) return;
+    const dataAbsUrl = resolveDataJsonUrl(jsonUrl);
 
     root.replaceChildren();
     root.innerHTML =
@@ -436,7 +488,7 @@
     fetchJsonCached(jsonUrl)
       .then(function (data) {
         root.replaceChildren();
-        runKey(root, data);
+        runKey(root, data, dataAbsUrl);
       })
       .catch(function (e) {
         root.innerHTML =
