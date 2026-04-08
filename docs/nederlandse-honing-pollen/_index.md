@@ -665,7 +665,19 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
+    </figure>
+    <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
@@ -1207,27 +1219,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 5, P 5
 - In honing: 26.3% (k), 9.9% (db)
 
-#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo2.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Pd.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Po.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (24.3-28.7) μm, striato-reticulate sculptuur
-- Bloeiperiode: juni-juli
-- Waarde: N 5, P 5
-- In honing: 0.6%
+
 
 #### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
 #### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
@@ -1306,6 +1298,28 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N4-5, P4-5 (mv Cotoneaster franchetii N1, P1)
 - In honing: 16.9%
 
+#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+    </figure>
+  </div>
+</div>
+- Pollen: 
+- Bloeiperiode: april-mei
+- Waarde: N 5, P 5
+- In honing: 16.3% 
+
 #### [Malus domestica](https://pollenx.eu/species.php?species=Malus_domestica) (appel)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -1328,56 +1342,67 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 3, P 3
 - In honing: 11.3% 
 
-#### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
+#### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria)(moerasspirea) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
     </figure>
   </div>
 </div>
-- In honing: 16.3% 
-- Pollen: 
-- Bloeiperiode: april-mei
-- Waarde: N 5, P 5
+- Pollen: 17 (15.1-18.3) μm, gemmate, psilate, microechinate, scabrate, verrucate sculptuur, copi met margo
+- Bloeiperiode: juni-september
+- Waarde: N 0, P 3
+- In honing: 7.5%
 
+#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Eo2.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Pd.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa"> 
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Ailanthus_glandulosa_Po.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
+    </figure>
+  </div>
+</div>
+- Pollen: 26 (24.3-28.7) μm, striato-reticulate sculptuur
+- Bloeiperiode: juni-juli
+- Waarde: N 5, P 5
+- In honing: 0.6%
+
+#### [Spiraea japonica](https://pollenx.eu/species.php?species=Spiraea_japonica)
 #### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) (meidoorn)
 #### [Fragaria](https://pollenx.eu/species.php?species=Fragaria) (aardbei)
 #### [Potentilla](https://pollenx.eu/species.php?species=Potentilla) (zilverschoon)
 #### [Rosa spinosissima](https://pollenx.eu/species.php?species=Rosa_spinosissima) (duinroosje)
-
-
-#### [Spiraea](https://pollenx.eu/species.php?species=Spiraea) (spirea) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode:
-- Waarde:
-- In honing: 7.5%
-
 #### [Sedum acre](https://pollenx.eu/species.php?species=Sedum_acre)
 #### [Datura stramonium](https://pollenx.eu/species.php?species=Datura_stramonium)
 #### [Fragaria vesca](https://pollenx.eu/species.php?species=Fragaria_vesca)
@@ -1385,8 +1410,6 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Nicotiana glauca](https://pollenx.eu/species.php?species=Nicotiana_glauca)
 #### [Nicotiana tabacum](https://pollenx.eu/species.php?species=Nicotiana_tabacum) (siertabak)
 #### [Spiraea](https://pollenx.eu/species.php?species=Spiraea)
-#### [Spiraea japonica](https://pollenx.eu/species.php?species=Spiraea_japonica)
-#### [Spirea](https://pollenx.eu/species.php?species=Spirea) (van Houti?)
 #### [Aruncus](https://pollenx.eu/species.php?species=Aruncus)
 #### [Photinia sp.](https://pollenx.eu/species.php?species=Photinia_sp.)
 #### [Rubus sp.](https://pollenx.eu/species.php?species=Rubus_sp.)
@@ -1395,6 +1418,9 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Rubus idaeus](https://pollenx.eu/species.php?species=Rubus_idaeus)
 
 ### 21. **Tricolpaat-Reticulate (per- of suprareticulate) of microreticulate sculpturen**
+
+#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
+- In honing: 3.8%
 
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_alba) (wilg)
 <div class="pid-scale-gallery">
@@ -1462,7 +1488,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 4, P 4
 - In honing: 45.6% (k), 1.5% (db), [Ligusterhoning](../monoflorale-honing-pollen/ligusterhoning.md)
 
-#### [Elaeagnus](https://pollenx.eu/species.php?species=Elaeagnus_angustifolia) (olijfwilg)
+#### [Elaeagnus angustifolia](https://pollenx.eu/species.php?species=Elaeagnus_angustifolia) (olijfwilg)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1506,63 +1532,51 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 5, P 5
 - In honing: 2.5% 
 
-#### [Chelidonium](https://pollenx.eu/species.php?species=Chelidonium) (stinkende gouwe) 
+#### [Chelidonium majus](https://pollenx.eu/species.php?species=Chelidonium_majus) (stinkende gouwe) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Chelidonium_majus_Ed.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Chelidonium_majus_Eo.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Chelidonium_majus_Pd.png" style="height: 68px; width: auto;" alt="Chelidonium_majus"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Chelidonium_majus_Po.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
     </figure>
   </div>
 </div>
+- Pollen: 27 μm, perforate, scabrate, reticulate, microreticulate
+- Bloeiperiode: mei-oktober
+- Waarde: N 0, P 3
 - In honing: 0.6%
 
-#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
+#### [Sinapis arvensis](https://pollenx.eu/species.php?species=Sinapis_arvensis) (herik) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Sinapis_arvensis_Eo.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Sinapis_arvensis_Eo2.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- In honing: 3.8%
-
-#### [Herik](https://pollenx.eu/species.php?species=Herik) (sinapis arvensis) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Sinapis_arvensis_Pd.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Sinapis_arvensis_Po.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
     </figure>
   </div>
 </div>
+- Pollen: 31-35 µm, reticulate
+- Bloeiperiode: mei-september
+- Waarde: N 5, P 5
 - In honing: 3.1%
 
-#### [Knopherik](https://pollenx.eu/species.php?species=Knopherik) (raphanus sp) 
+#### [Raphanus raphanistrum](https://pollenx.eu/species.php?species=Raphanus_raphanistrum) (Knopherik sp) 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1690,20 +1704,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Melilotus_officinalis_Eo.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Melilotus_officinalis_Eo2.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Melilotus_officinalis_Po.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Melilotus_officinalis_Po2.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
     </figure>
   </div>
 </div>
-- Pollen
+- Pollen: 26 (22.8-27.7) μm, reticulate sculptuur, aperturen met granulaire ornamentatie
 - Bloeiperiode: juli-september
 - Waarde: N 5
 - Pollenwaarde: P 5
@@ -1939,20 +1953,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Hypericum_perforatum_Ed.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Hypericum_perforatum_Eo.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Hypericum_perforatum_Pd.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Hypericum_perforatum_Po.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 19 μm, reticulate, microreticulate sculptuur
 - Bloeiperiode: juni-september
 - Waarde: N 0, P 3
 - In honing: 3.8% 
@@ -2203,20 +2217,20 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Viola_tricolor_Eo.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Viola_tricolor_Pd.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo"> 
+      <img src="../../assets/images/pollenwiki/Viola_tricolor_Po.png" style="height: 188px; width: auto;" alt="Viola_tricolor"> 
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/PLACEHOLDER_Eo.png" style="height: 94px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Viola_tricolor_Po2.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
     </figure>
   </div>
 </div>
-- Pollen: 
+- Pollen: 51-100 µm, verrucate, scabrate, gemmate sculptuur
 - Bloeiperiode: april-oktober
 - Waarde: N 1, P 1
 - In honing: 8.8% 
