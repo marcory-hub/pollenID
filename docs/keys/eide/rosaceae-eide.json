@@ -44,23 +44,23 @@
         {
           "label": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm",
           "outcome": {
-            "text": "*Sanguisorba minor* (kleine pimpernel)",
+            "text": "*Sanguisorba minor* (kleine pimpernel), 36 (29.9-39.2) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo2.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo3.png",
+                "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Pd.png",
+                "imageWidthPx": 90
               }
             ]
           }
@@ -68,23 +68,23 @@
         {
           "label": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm",
           "outcome": {
-            "text": "*Sanguisorba officinalis* (grote pimpernel)",
+            "text": "*Sanguisorba officinalis* (grote pimpernel), 31 (28.4-32.2) μm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
+                "imageWidthPx": 78  
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Pd.png",
+                "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Po.png",
+                "imageWidthPx": 78
               }
             ]
           }
@@ -112,23 +112,23 @@
         {
           "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm",
           "outcome": {
-            "text": "*Sibbaldia procumbens* ()",
+            "text": "*Sibbaldia procumbens* (), 21-25 µm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sibbaldia_procumbens_Ed.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sibbaldia_procumbens_Eo.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sibbaldia_procumbens_Pd.png",
+                "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Sibbaldia_procumbens_Po.png",
+                "imageWidthPx": 58
               }
             ]
           }
@@ -194,7 +194,7 @@
         {
           "label": "Polare gebieden afgeplat",
           "outcome": {
-            "text": "*Fragaria vesca* (bosaardbei)",
+            "text": "*Fragaria vesca* synoniem *Potentilla palustris* (bosaardbei)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -218,23 +218,23 @@
         {
           "label": "Polare gebieden niet afgeplat",
           "outcome": {
-            "text": "*Potentilla anserina* (zilverschoon, langste as 22.5 µm) of *Potentilla norvegica* (noorse ganzerik, langste as 30.2 µm)",
+            "text": "*Potentilla anserina* 25 (23.2-27.7) μm (zilverschoon, langste as 22.5 µm) of *Potentilla norvegica* (noorse ganzerik, langste as 30.2 µm)",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Ed.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Eo.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Pd.png",
+                "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Po.png",
+                "imageWidthPx": 63
               }
             ]
           }
@@ -248,22 +248,22 @@
         {
           "label": "Colpusuiteinden afgerond",
           "outcome": {
-            "text": "*Fragaria viridis* (heuvelaardbei)",
+            "text": "*Fragaria viridis* (heuvelaardbei) 16-20 µm",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/Fragaria_viridis_Ed.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/Fragaria_viridis_Eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/Fragaria_viridis_Pd.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/Fragaria_viridis_Po.png",
                 "imageWidthPx": 1
               }
             ]
