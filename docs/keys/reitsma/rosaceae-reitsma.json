@@ -78,7 +78,25 @@
         {
           "label": "Zonder costae colpi",
           "outcome": {
-            "text": "Crataegus type (*Crataegus* - meidoorn)"
+            "text": "Crataegus type (*Crataegus* - meidoorn)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Eo.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Pd.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Po.png",
+                "imageWidthPx": 70
+              }
+            ]
           }
         }
       ]
@@ -134,7 +152,25 @@
         {
           "label": "C.I. > 4, met costae colpi",
           "outcome": {
-            "text": "Rosa canina type (*Rosa canina* - hondsroos)"
+            "text": "Rosa canina type (*Rosa canina* - hondsroos)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
+                "imageWidthPx": 83
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Eo.png",
+                "imageWidthPx": 83
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Pd.png",
+                "imageWidthPx": 83
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Rosa_canina_Po.png",
+                "imageWidthPx": 83
+              }
+            ]
           }
         },
         {
@@ -168,7 +204,25 @@
         {
           "label": "Pollenkorrel zonder costae colpi",
           "outcome": {
-            "text": "Crataegus type (*Crataegus* - meidoorn)"
+            "text": "Crataegus type (*Crataegus* - meidoorn)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -180,7 +234,41 @@
         {
           "label": "Structurele elementen klein (scabrae); endocolpus",
           "outcome": {
-            "text": "Filipendula type (*Filipendula ulmaria* - moerasspirea; *Filipendula vulgaris* - knolspirea)"
+            "text": "Filipendula type (*Filipendula ulmaria* - moerasspirea; *Filipendula vulgaris* - knolspirea)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Pd.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png",
+                "imageWidthPx": 43
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Po.png",
+                "imageWidthPx": 43
+              }
+            ]
           }
         },
         {
@@ -234,7 +322,25 @@
         {
           "label": "Operculum steekt niet uit het fastigium",
           "outcome": {
-            "text": "Potentilla anserina subtype (*Potentilla anserina* - zilverschoon)"
+            "text": "Potentilla anserina subtype (*Potentilla anserina* - zilverschoon)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Ed.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Eo.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Pd.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Potentilla_anserina_Po.png",
+                "imageWidthPx": 63
+              }
+            ]
           }
         }
       ]
@@ -296,7 +402,25 @@
         {
           "label": "Met costae endocolpi",
           "outcome": {
-            "text": "Rosa rubiginosa subtype (*Rosa rubiginosa* - egelantier)"
+            "text": "Rosa rubiginosa subtype (*Rosa rubiginosa* - egelantier)",
+            "images": [
+              {
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Eo.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Pd.png",
+                "imageWidthPx": 70
+              },
+              {
+                "image": "../../assets/images/paldat/Rosa_rubiginosa_Po.png",
+                "imageWidthPx": 70
+              }
+            ]
           }
         },
         {
@@ -318,7 +442,25 @@
         {
           "label": "Costae endocolpi afwezig",
           "outcome": {
-            "text": "Dryas subtype (*Dryas octopetala* - zilverkruid)"
+            "text": "Dryas subtype (*Dryas octopetala* - zilverkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Dryas_octopetala_Ed.png",
+                "imageWidthPx": 75
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Dryas_octopetala_Eo.png",
+                "imageWidthPx": 75
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Dryas_octopetala_Pd.png",
+                "imageWidthPx": 75
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Dryas_octopetala_Po.png",
+                "imageWidthPx": 75
+              }
+            ]
           }
         }
       ]
@@ -344,13 +486,49 @@
         {
           "label": "Langste as 22-28 µm; exinedikte 3-3.5 µm",
           "outcome": {
-            "text": "*Geum urbanum* (geel nagelkruid)"
+            "text": "*Geum urbanum* (geel nagelkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Ed.png",
+                "imageWidthPx": 58
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Eo.png",
+                "imageWidthPx": 58
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Pd.png",
+                "imageWidthPx": 58
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_urbanum_Po.png",
+                "imageWidthPx": 58
+              }
+            ]
           }
         },
         {
           "label": "Langste as 28-33 µm; exinedikte 2.2-2.8 µm",
           "outcome": {
-            "text": "*Geum rivale* (knikkend nagelkruid)"
+            "text": "*Geum rivale* (knikkend nagelkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Ed.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Eo.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Pd.png",
+                "imageWidthPx": 63
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Geum_rivale_Po.png",
+                "imageWidthPx": 63
+              }
+            ]
           }
         }
       ]
@@ -380,13 +558,49 @@
         {
           "label": "Maximale breedte colpus < maximale breedte intercolpium (equatoriaal); pollenkorrel oblaat-sferoïdaal",
           "outcome": {
-            "text": "Sanguisorba minor subtype (*Sanguisorba minor* - kleine pimpernel)"
+            "text": "Sanguisorba minor subtype (*Sanguisorba minor* - kleine pimpernel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
+                "imageWidthPx": 90
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo2.png",
+                "imageWidthPx": 90
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo3.png",
+                "imageWidthPx": 90
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Pd.png",
+                "imageWidthPx": 90
+              }
+            ]
           }
         },
         {
           "label": "Maximale breedte colpus > maximale breedte intercolpium (equatoriaal); pollenkorrel prolaat-sferoïdaal",
           "outcome": {
-            "text": "Sanguisorba officinalis subtype (*Sanguisorba officinalis* - grote pimpernel)"
+            "text": "Sanguisorba officinalis subtype (*Sanguisorba officinalis* - grote pimpernel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
+                "imageWidthPx": 78  
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
+                "imageWidthPx": 78
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Pd.png",
+                "imageWidthPx": 78
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Po.png",
+                "imageWidthPx": 78
+              }
+            ]
           }
         }
       ]
@@ -398,13 +612,49 @@
         {
           "label": "Langste as 35-50 µm; exinedikte 2.8 µm",
           "outcome": {
-            "text": "*Agrimonia eupatoria* (gewone agrimonie)"
+            "text": "*Agrimonia eupatoria* (gewone agrimonie)",
+            "images": [
+              {
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
+                "imageWidthPx": 85  
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo.png",
+                "imageWidthPx": 85
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Po2.png",
+                "imageWidthPx": 85
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_eupatoria_Po.png",
+                "imageWidthPx": 85
+              }
+            ]
           }
         },
         {
           "label": "Langste as 50-60 µm; exinedikte 3.5 µm",
           "outcome": {
-            "text": "*Agrimonia odorata* (welriekende agrimonie)"
+            "text": "*Agrimonia odorata* (welriekende agrimonie)",
+            "images": [
+              {
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Ed.png",
+                "imageWidthPx": 188
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Eo.png",
+                "imageWidthPx": 188
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Eo2.png",
+                "imageWidthPx": 188
+              },
+              {
+                "image": "../../assets/images/paldat/Agrimonia_odorata_Po.png",
+                "imageWidthPx": 188
+              }
+            ]
           }
         }
       ]

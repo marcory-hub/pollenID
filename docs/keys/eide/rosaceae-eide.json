@@ -252,19 +252,19 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Fragaria_viridis_Ed.png",
-                "imageWidthPx": 1
+                "imageWidthPx": 45
               },
               {
                 "image": "../../assets/images/pollenwiki/Fragaria_viridis_Eo.png",
-                "imageWidthPx": 1
+                "imageWidthPx": 45
               },
               {
                 "image": "../../assets/images/pollenwiki/Fragaria_viridis_Pd.png",
-                "imageWidthPx": 1
+                "imageWidthPx": 45
               },
               {
                 "image": "../../assets/images/pollenwiki/Fragaria_viridis_Po.png",
-                "imageWidthPx": 1
+                "imageWidthPx": 45
               }
             ]
           }
@@ -374,7 +374,7 @@
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
-                  "imageWidthPx": 78
+                "imageWidthPx": 78
               },
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Eo.png",
@@ -394,23 +394,23 @@
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
           "outcome": {
-            "text": "*Rosa pimpinellifolia* (duinroos)",
+            "text": "*Rosa pimpinellifolia* (duinroos), 31-35 µm. Halbritter H., Auer W. 2021. Rosa pimpinellifolia. In: PalDat - A palynological database.",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_pimpinellifolia_Ed.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_pimpinellifolia_Eo.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_pimpinellifolia_Pd.png",
+                "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Rosa_pimpinellifolia_Po.png",
+                "imageWidthPx": 83
               }
             ]
           }
@@ -935,7 +935,6 @@
           "label": "Langste as 25.4 µm; exine 1.7 µm",
           "outcome": {
             "text": "*Rosa rubiginosa* (egelantier) 26-30 µm Auer W. 2021. Rosa rubiginosa. In: PalDat - A palynological database.",
-
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
@@ -1041,7 +1040,7 @@
         {
           "label": "Langste as 22.0 µm",
           "outcome": {
-            "text": "*Sorbus aucuparia* (wilde lijsterbes)",
+            "text": "*Sorbus aucuparia* (wilde lijsterbes) ",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
