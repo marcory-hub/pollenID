@@ -73,7 +73,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde:
 - In honing: 1.3%, incidenteel in zomerhoning 
 
-#### [Rhododendron dauricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_dauricum) (rododendron)
+#### [Rhododendron dauricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_dauricum) (rhododendron)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
