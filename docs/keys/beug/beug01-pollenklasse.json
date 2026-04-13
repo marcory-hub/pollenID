@@ -16,11 +16,31 @@
       "choices": [
         {
           "label": "Pollenkorrels (PK) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK enkelvoudig (monade).",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -31,12 +51,32 @@
         {
           "label": "PK met velen tezamen.",
           "outcome": {
-            "text": "[Polyadeae](beug03-polyadeae.md)"
+            "text": "[Polyadeae](beug03-polyadeae.md)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK per vier of per twee verenigd.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -47,13 +87,33 @@
         {
           "label": "PK per vier verenigd.",
           "outcome": {
-            "text": "Tetradeae"
+            "text": "Tetradeae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK per twee verenigd.",
           "outcome": {
-            "text": "Dyadeae"
+            "text": "Dyadeae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -65,12 +125,32 @@
         {
           "label": "PK met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
           "outcome": {
-            "text": "Vesiculatae"
+            "text": "Vesiculatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK zonder luchtzakken.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -81,12 +161,32 @@
         {
           "label": "PK zonder poriën of colpi, deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: alleen *Ephedra*).",
           "outcome": {
-            "text": "Inaperturatae (1), Polyplicatae (2)"
+            "text": "Inaperturatae (1), Polyplicatae (2)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met poriën en/of colpi.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -97,12 +197,32 @@
         {
           "label": "PK met ronde of hoekige zones (lacunae) waarin de extexine ontbreekt en die door ribben zijn omzoomd.",
           "outcome": {
-            "text": "Fenestratae"
+            "text": "Fenestratae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK zonder dergelijke lacunae.",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -112,11 +232,31 @@
       "choices": [
         {
           "label": "PK met 1 porie of 1 colpus.",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK met meer dan 1 porie en/of meer dan 1 colpus.",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -127,13 +267,33 @@
         {
           "label": "PK met 1 porie.",
           "outcome": {
-            "text": "Monoporatae"
+            "text": "Monoporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met 1 colpus.",
           "outcome": {
-            "text": "Monocolpatae"
+            "text": "Monocolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -145,12 +305,32 @@
         {
           "label": "Colpi met een ring- of schroefvormig verloop of met twee of drie colpi die polair met elkaar verbonden zijn, of met colpi die het oppervlak van de PK in hoekige zones verdelen en met elkaar verbonden zijn.",
           "outcome": {
-            "text": "Syncolpatae"
+            "text": "Syncolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpi anders gerangschikt, niet met elkaar verbonden.",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -160,11 +340,31 @@
       "choices": [
         {
           "label": "PK met 2 colpi en/of poriën.",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK met meer dan 2 colpi en/of poriën.",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -174,12 +374,32 @@
       "choices": [
         {
           "label": "PK slechts met 2 poriën of slechts met 2 colpi.",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK met 2 colpi die equatoriaal elk een porie bezitten.",
           "outcome": {
-            "text": "Dicolporatae"
+            "text": "Dicolporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -191,13 +411,33 @@
         {
           "label": "PK met 2 colpi.",
           "outcome": {
-            "text": "Dicolpatae"
+            "text": "Dicolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met 2 poriën.",
           "outcome": {
-            "text": "Diporatae"
+            "text": "Diporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 10
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 10
+              }
+            ]
           }
         }
       ]
@@ -209,12 +449,32 @@
         {
           "label": "PK met 3 poriën.",
           "outcome": {
-            "text": "Triporatae"
+            "text": "Triporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met meer dan 3 poriën of met 3 colpi die bovendien in het midden elk 1 porie hebben, of met meer dan 3 colpi die bovendien in het midden 1 porie kunnen hebben.",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -225,12 +485,32 @@
         {
           "label": "PK met 3 colpi (a–b) of bovendien met 3 in het midden van de colpi georiënteerde poriën (c–d) of porieachtige wijzigingen (niet afgebeeld).",
           "outcome": {
-            "text": "Tricolpatae, Tricolporatae, Tricolporoidatae"
+            "text": "Tricolpatae, Tricolporatae, Tricolporoidatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met meer dan 3 colpi en/of poriën.",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -240,11 +520,31 @@
       "choices": [
         {
           "label": "PK met 4 of meer colpi die poriën kunnen hebben, of met 4 of meer equatoriaal gerangschikte poriën.",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Aperturen min of meer regelmatig over de Exine verdeeld.",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -254,11 +554,31 @@
       "choices": [
         {
           "label": "PK alleen met colpi of alleen met poriën.",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK met colpi en poriën.",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -269,13 +589,33 @@
         {
           "label": "PK alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
           "outcome": {
-            "text": "Stephanocolpatae"
+            "text": "Stephanocolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK alleen met poriën.",
           "outcome": {
-            "text": "Stephanoporatae"
+            "text": "Stephanoporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -288,13 +628,33 @@
         {
           "label": "Elke colpus heeft een porie (geen patroon ‘slechts om de andere’ colpus met porie).",
           "outcome": {
-            "text": "Stephanocolporatae"
+            "text": "Stephanocolporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Slechts elke tweede colpus met een porie.",
           "outcome": {
-            "text": "Heterocolpatae"
+            "text": "Heterocolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -306,12 +666,32 @@
         {
           "label": "PK alleen met poriën.",
           "outcome": {
-            "text": "Periporatae"
+            "text": "Periporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met colpi of met colpi die elk een porie bezitten.",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -322,13 +702,33 @@
         {
           "label": "PK colpaat.",
           "outcome": {
-            "text": "Pericolpatae"
+            "text": "Pericolpatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK colporaat.",
           "outcome": {
-            "text": "Pericolporatae"
+            "text": "Pericolporatae",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

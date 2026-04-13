@@ -16,13 +16,33 @@
         {
           "label": "PK 20-38 µm groot, poren unscharf begrenzt (Tafel 114: 18-20).",
           "outcome": {
-            "text": "33.13.1 *Daphne*"
+            "text": "33.13.1 *Daphne*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 34-47 µm groot, Poriën kontrastreich begrenzt (Tafel 115: 1-5).",
           "outcome": {
-            "text": "33.13.2 *Thymelaea*"
+            "text": "33.13.2 *Thymelaea*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

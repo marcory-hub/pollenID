@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Met tectaat operculum",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Geen tectaat operculum (colpusmembraan soms met losse columellae)",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -29,11 +49,31 @@
       "choices": [
         {
           "label": "Psilaat-scabraat-echinaat, oblaat-globulair (*Sanguisorba*)",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striaat",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -44,13 +84,33 @@
         {
           "label": "Operculum smal, colpus zeer kort",
           "outcome": {
-            "text": "*Sanguisorba minor* (kleine pimpernel)"
+            "text": "*Sanguisorba minor* (kleine pimpernel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Operculum zo breed als het intercolpium, colpus lang",
           "outcome": {
-            "text": "*Sanguisorba officinalis* (grote pimpernel)"
+            "text": "*Sanguisorba officinalis* (grote pimpernel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -62,12 +122,32 @@
         {
           "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk",
           "outcome": {
-            "text": "*Sibbaldia procumbens* ()"
+            "text": "*Sibbaldia procumbens* ()",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Vallae vaak parallel; operculum smal tot breed; porie niet altijd duidelijk",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -77,11 +157,31 @@
       "choices": [
         {
           "label": "Vallae breed, diffuus",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae smal, duidelijk",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -92,12 +192,32 @@
         {
           "label": "Prolaat; colpi ingesnoerd, uiteinden afgerond",
           "outcome": {
-            "text": "*Comarum palustre* (wateraardbei)"
+            "text": "*Comarum palustre* (wateraardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Niet prolaat; colpi niet ingesnoerd, uiteinden acuut",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -108,13 +228,33 @@
         {
           "label": "Polair gebied afgeplat",
           "outcome": {
-            "text": "*Fragaria vesca* (bosaardbei)"
+            "text": "*Fragaria vesca* (bosaardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Polair gebied niet afgeplat",
           "outcome": {
-            "text": "*Potentilla* (ganzerik)"
+            "text": "*Potentilla* (ganzerik)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -126,13 +266,33 @@
         {
           "label": "Colpusuiteinden afgerond",
           "outcome": {
-            "text": "*Fragaria viridis* (heuvelaardbei)"
+            "text": "*Fragaria viridis* (heuvelaardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpusuiteinden acuut",
           "outcome": {
-            "text": "*Potentilla* (ganzerik)"
+            "text": "*Potentilla* (ganzerik)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -144,22 +304,62 @@
         {
           "label": "Clavaat-bacillaat-echinaat",
           "outcome": {
-            "text": "*Rubus chamaemorus* (kruipbraam)"
+            "text": "*Rubus chamaemorus* (kruipbraam)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Microechinaat-echinaat (geen perforaties)",
           "outcome": {
-            "text": "*Filipendula* (spirea)"
+            "text": "*Filipendula* (spirea)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Rugulata-microstriaat/psilaat",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striaat",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -170,19 +370,49 @@
         {
           "label": "Rugulata-microstriaat; geen costae colpi of granula op colpusmembraan",
           "outcome": {
-            "text": "*Mespilus germanica* (mispel)"
+            "text": "*Mespilus germanica* (mispel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Rugulata tot psilaat; costae colpi en granula meestal aanwezig",
           "outcome": {
-            "text": "*Cotoneaster* ()"
+            "text": "*Cotoneaster* ()",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Psilaat; polaire projectie meestal subtriangulair",
           "outcome": {
-            "text": "*Alchemilla* (vrouwenmantel)"
+            "text": "*Alchemilla* (vrouwenmantel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -194,12 +424,32 @@
         {
           "label": "Vallae grof; colpus met duidelijke brug",
           "outcome": {
-            "text": "*Geum* (nagelkruid)"
+            "text": "*Geum* (nagelkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Vallae fijn",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -210,12 +460,32 @@
         {
           "label": "Vallae gepaard; striatie zwak",
           "outcome": {
-            "text": "*Crataegus* (meidoorn)"
+            "text": "*Crataegus* (meidoorn)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Vallae enkelvoudig",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -226,12 +496,32 @@
         {
           "label": "Vallae vaag; perforaties groot",
           "outcome": {
-            "text": "*Rubus* (braam)"
+            "text": "*Rubus* (braam)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Vallae duidelijk",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -242,12 +532,32 @@
         {
           "label": "Vallae hoog, vaak kort",
           "outcome": {
-            "text": "*Rosa* (roos)"
+            "text": "*Rosa* (roos)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Vallae laag en smal",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -257,11 +567,31 @@
       "choices": [
         {
           "label": "Vallae recht, matig vertakt",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae gebogen, vertakt, anastomoserend",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -272,13 +602,33 @@
         {
           "label": "Perforaties duidelijk; vallae zonder dichte structuur",
           "outcome": {
-            "text": "*Sorbus* (lijsterbes)"
+            "text": "*Sorbus* (lijsterbes)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Perforaties mogelijk niet zichtbaar; vallae met dichte structuur",
           "outcome": {
-            "text": "*Prunus* (kers/pruim)"
+            "text": "*Prunus* (kers/pruim)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -290,13 +640,33 @@
         {
           "label": "Met costae colpi; grootte ca. 27 µm",
           "outcome": {
-            "text": "*Prunus* (kers/pruim)"
+            "text": "*Prunus* (kers/pruim)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Geen costae colpi; grootte ca. 22 µm",
           "outcome": {
-            "text": "*Dryas* (zilverkruid)"
+            "text": "*Dryas* (zilverkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

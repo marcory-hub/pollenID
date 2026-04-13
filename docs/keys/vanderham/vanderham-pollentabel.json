@@ -17,13 +17,33 @@
           "label": "Vier pollenkorrels bij elkaar (tetrade)",
           "next": "2",
           "image": "../../assets/images/pollenwiki/Calluna-vulgaris.png",
-          "imageWidthPx": 220
+          "imageWidthPx": 220,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Één losse pollenkorrel (monade)",
           "next": "3",
           "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
-          "imageWidthPx": 130
+          "imageWidthPx": 130,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -36,7 +56,17 @@
           "outcome": {
             "text": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie)\n - *Epilobium* (basterdwederik soorten)",
             "image": "../../assets/images/pollenwiki/Oenothera_biennis.png",
-            "imageWidthPx": 700
+            "imageWidthPx": 700,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
@@ -44,7 +74,17 @@
           "outcome": {
             "text": "Ericaceae (*Calluna, Erica, Rhododendron, Vaccinium*)",
             "image": "../../assets/images/pollenwiki/Calluna-vulgaris.png",
-            "imageWidthPx": 220
+            "imageWidthPx": 220,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
@@ -52,7 +92,17 @@
           "outcome": {
             "text": "[Juncaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juncaceae) (*Juncus (rus), Luzula (veldbies)*)",
             "image": "../../assets/images/pollenwiki/Luzula_sylvatica_Po.png",
-            "imageWidthPx": 245
+            "imageWidthPx": 245,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -64,12 +114,32 @@
         {
           "label": "Pollenkorrel met twee luchtzakken (vesiculaat)",
           "outcome": {
-            "text": "[Pinaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Pinaceae) (*Picea, Pinus*)"
+            "text": "[Pinaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Pinaceae) (*Picea, Pinus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel zonder luchtzakken",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -80,12 +150,32 @@
         {
           "label": "pollenkorrel met ‘vensters’ (fenestraat)",
           "outcome": {
-            "text": "Asteraceae (*Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum*)"
+            "text": "Asteraceae (*Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel zonder ‘vensters’",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -95,11 +185,31 @@
       "choices": [
         {
           "label": "pollenkorrel zonder aperturen (inaperturaat)",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met één of meer aperturen",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -110,12 +220,32 @@
         {
           "label": "pollenkorrel peervormig",
           "outcome": {
-            "text": "Cyperaceae (*Carex, Scirpus*)"
+            "text": "Cyperaceae (*Carex, Scirpus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel ± rond",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -126,18 +256,48 @@
         {
           "label": "ornamentatie perforaat tot fijn reticulaat, pollenkorrel niet gespleten",
           "outcome": {
-            "text": "Thymelaeaceae (*Daphne*)"
+            "text": "Thymelaeaceae (*Daphne*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie dicht scabraat, pollenkorrel niet gespleten",
           "outcome": {
-            "text": "Salicaceae (*Populus*)"
+            "text": "Salicaceae (*Populus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie meer of minder dicht verrucaat, pollenkorrel vaak gespleten",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -148,13 +308,33 @@
         {
           "label": "wratten onregelmatig verspreid (oppervlak met kale plekken)",
           "outcome": {
-            "text": "Cupressaceae (*Juniperus*)"
+            "text": "Cupressaceae (*Juniperus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "wratten regelmatig verspreid (geen kale plekken)",
           "outcome": {
-            "text": "Taxaceae (*Taxus baccata*)"
+            "text": "Taxaceae (*Taxus baccata*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -165,11 +345,31 @@
       "choices": [
         {
           "label": "pollenkorrel met één apertuur",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met drie of meer aperturen",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -180,18 +380,48 @@
         {
           "label": "apertuur spiraal- of lusvormig: ‘tennisbal-patroon’ (syncolpaat)",
           "outcome": {
-            "text": "Berberidaceae (*Berberis*)"
+            "text": "Berberidaceae (*Berberis*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "apertuur langwerpig, groot (monocolpaat)",
           "outcome": {
-            "text": "Veel monocotylen (o.m. Iridaceae, Liliaceae), enkele dicotylen (o.m. *Magnolia*)"
+            "text": "Veel monocotylen (o.m. Iridaceae, Liliaceae), enkele dicotylen (o.m. *Magnolia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "apertuur ± rond, klein (monoporaat)",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -202,14 +432,34 @@
         {
           "label": "porus duidelijk, met verdikte rand (annulus), pollenkorrel ± rond",
           "outcome": {
-            "text": "Poaceae (alle geslachten)"
+            "text": "Poaceae (alle geslachten)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "porus onduidelijk, zonder verdikte rand, aan de stompe zijde van een peervormige korrel",
           "outcome": {
             "text": "[Bronscan eindigt hier; vervolgstap niet op deze pagina — zie drukwerk van der Ham.]",
-            "incomplete": true
+            "incomplete": true,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ],
@@ -221,19 +471,59 @@
       "choices": [
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) zonder pori (colpaat)",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) met pori (colporaat)",
-          "next": "36"
+          "next": "36",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met drie of meer ± ronde aperturen (pori; poraat)",
-          "next": "72"
+          "next": "72",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -243,11 +533,31 @@
       "choices": [
         {
           "label": "pollenkorrel kleiner dan 15 µm",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel groter dan 15 µm",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -258,13 +568,33 @@
         {
           "label": "colpi kruisvormig (met equatoriale ‘takken’)",
           "outcome": {
-            "text": "Boraginaceae (*Cynoglossum officinale*)"
+            "text": "Boraginaceae (*Cynoglossum officinale*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi recht (niet ‘vertakt’)",
           "outcome": {
-            "text": "Boraginaceae (*Myosotis*)"
+            "text": "Boraginaceae (*Myosotis*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -276,13 +606,33 @@
         {
           "label": "ornamentatie striaat",
           "outcome": {
-            "text": "Lythraceae (*Lythrum salicaria*)"
+            "text": "Lythraceae (*Lythrum salicaria*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie fijn reticulaat (mazen kleiner dan 1 µm)",
           "outcome": {
-            "text": "Hydrophyllaceae (*Phacelia tanacetifolia*)"
+            "text": "Hydrophyllaceae (*Phacelia tanacetifolia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -294,18 +644,48 @@
         {
           "label": "pollenkorrel met zes lange colpi (stephanocolpaat)",
           "outcome": {
-            "text": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) \n  (vele geslachten)"
+            "text": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) \n  (vele geslachten)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel stomp rechthoekig, met vier korte colpi op de hoekpunten (stephanocolpaat)",
           "outcome": {
-            "text": "Balsaminaceae (*Impatiens*)"
+            "text": "Balsaminaceae (*Impatiens*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel met drie korte of lange colpi (tricolpaat)",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -315,11 +695,31 @@
       "choices": [
         {
           "label": "tectum afwezig (intectaat) of aanwezig als een netwerk (eureticulaat)",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "tectum aanwezig (tectaat)",
-          "next": "26"
+          "next": "26",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -329,11 +729,31 @@
       "choices": [
         {
           "label": "tectum afwezig",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "tectum netvormig",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -344,13 +764,33 @@
         {
           "label": "ornamentatie-elementen variabel van grootte",
           "outcome": {
-            "text": "Aquifoliaceae (*Ilex*)"
+            "text": "Aquifoliaceae (*Ilex*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie-elementen uniform of in twee duidelijk gescheiden formaten aanwezig",
           "outcome": {
-            "text": "Linaceae (*Linum*)"
+            "text": "Linaceae (*Linum*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -361,11 +801,31 @@
       "choices": [
         {
           "label": "colpi in het midden niet versmald",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "colpi in het midden versmald",
-          "next": "25"
+          "next": "25",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -375,11 +835,31 @@
       "choices": [
         {
           "label": "pollenkorrel groter dan 50 µm",
-          "next": "22"
+          "next": "22",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
-          "next": "23"
+          "next": "23",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -390,13 +870,33 @@
         {
           "label": "netwerk met duidelijke knotsvormige ornamentatie-elementen",
           "outcome": {
-            "text": "Geraniaceae (*Geranium*)"
+            "text": "Geraniaceae (*Geranium*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "netwerk met stekeltjes (kleiner dan 1 µm)",
           "outcome": {
-            "text": "Plumbaginaceae (*Armeria maritima, Limonium vulgare*)"
+            "text": "Plumbaginaceae (*Armeria maritima, Limonium vulgare*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -408,12 +908,32 @@
         {
           "label": "mazen van het netwerk kleiner dan 1 µm",
           "outcome": {
-            "text": "Saxifragaceae (*Saxifraga*)"
+            "text": "Saxifragaceae (*Saxifraga*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "tenminste een deel van de mazen groter dan 1 µm",
-          "next": "24"
+          "next": "24",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -424,13 +944,33 @@
         {
           "label": "mazen duidelijk kleiner naar de colpi toe, colpusranden meestal naar binnen gevouwen",
           "outcome": {
-            "text": "Salicaceae (*Salix*)"
+            "text": "Salicaceae (*Salix*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "mazen niet duidelijk kleiner naar de colpi toe, colpusranden reticulaat",
           "outcome": {
-            "text": "Brassicaceae (*Brassica, Raphanus, Sinapis*)"
+            "text": "Brassicaceae (*Brassica, Raphanus, Sinapis*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -442,13 +982,33 @@
         {
           "label": "pollenkorrel kleiner dan 25 µm",
           "outcome": {
-            "text": "Caprifoliaceae (*Sambucus nigra*)"
+            "text": "Caprifoliaceae (*Sambucus nigra*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel groter dan 25 µm",
           "outcome": {
-            "text": "Oleaceae (*Ligustrum*)"
+            "text": "Oleaceae (*Ligustrum*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -460,24 +1020,74 @@
         {
           "label": "ornamentatie perforaat",
           "outcome": {
-            "text": "Saxifragaceae (*Saxifraga*)"
+            "text": "Saxifragaceae (*Saxifraga*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
-          "next": "27"
+          "next": "27",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie echinaat",
-          "next": "28"
+          "next": "28",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie striaat of rugulaat",
-          "next": "31"
+          "next": "31",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie suprareticulaat (netwerk op het tectum)",
-          "next": "34"
+          "next": "34",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -488,19 +1098,49 @@
         {
           "label": "nexine onduidelijk, zeer dun",
           "outcome": {
-            "text": "Saxifragaceae (*Saxifraga*)"
+            "text": "Saxifragaceae (*Saxifraga*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "nexine duidelijk, scabrae verspreid",
           "outcome": {
-            "text": "Ranunculaceae (*Ranunculus*)"
+            "text": "Ranunculaceae (*Ranunculus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "nexine duidelijk, scabrae dicht op elkaar",
           "outcome": {
-            "text": "Papaveraceae (*Chelidonium majus*)"
+            "text": "Papaveraceae (*Chelidonium majus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -511,11 +1151,31 @@
       "choices": [
         {
           "label": "pollenkorrel kleiner dan 40 µm",
-          "next": "29"
+          "next": "29",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel groter dan 40 µm",
-          "next": "30"
+          "next": "30",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -526,13 +1186,33 @@
         {
           "label": "colpi met duidelijke wratten op de membraan (= nexine in/onder colpi)",
           "outcome": {
-            "text": "Ranunculaceae (*Ranunculus*)"
+            "text": "Ranunculaceae (*Ranunculus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi zonder wratten op de membraan (of membraan gescheurd)",
           "outcome": {
-            "text": "Fagaceae (*Quercus*)"
+            "text": "Fagaceae (*Quercus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -544,13 +1224,33 @@
         {
           "label": "colpi lang, stekels duidelijk, op een verbrede basis",
           "outcome": {
-            "text": "Valerianaceae (*Valeriana officinalis*)"
+            "text": "Valerianaceae (*Valeriana officinalis*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi kort, stekels klein, niet op een verbrede basis",
           "outcome": {
-            "text": "Dipsacaceae (*Dipsacus, Scabiosa, Succisa*)"
+            "text": "Dipsacaceae (*Dipsacus, Scabiosa, Succisa*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -562,12 +1262,32 @@
         {
           "label": "pollenkorrel groter dan 50 µm",
           "outcome": {
-            "text": "Geraniaceae (*Geranium*)"
+            "text": "Geraniaceae (*Geranium*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
-          "next": "32"
+          "next": "32",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -578,12 +1298,32 @@
         {
           "label": "colpusranden niet recht",
           "outcome": {
-            "text": "Rosaceae (o.m. *Cotoneaster, Malus, Prunus, Rubus, Spiraea*)"
+            "text": "Rosaceae (o.m. *Cotoneaster, Malus, Prunus, Rubus, Spiraea*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpusranden recht",
-          "next": "33"
+          "next": "33",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -594,13 +1334,33 @@
         {
           "label": "ornamentatie-elementen (muri) vooral meridionaal (± loodrecht op equatoriale vlak)",
           "outcome": {
-            "text": "Aceraceae (*Acer*)"
+            "text": "Aceraceae (*Acer*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie-elementen (muri) meestal dwars (± parallel aan equatoriale vlak)",
           "outcome": {
-            "text": "Saxifragaceae (*Saxifraga*)"
+            "text": "Saxifragaceae (*Saxifraga*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -612,12 +1372,32 @@
         {
           "label": "colpi in het midden versmald of met onderbroken randen",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Cytisus*\n - *Genista*\n - *Ulex*"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Cytisus*\n - *Genista*\n - *Ulex*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi in het midden niet versmald of met onderbroken randen",
-          "next": "35"
+          "next": "35",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -628,13 +1408,33 @@
         {
           "label": "pollenkorrel prolaat (P duidelijk groter dan E)",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (verschillende geslachten)"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (verschillende geslachten)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
           "outcome": {
-            "text": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) \n - *Ajuga*\n - *Scutellaria*\n - *Stachys*"
+            "text": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) \n - *Ajuga*\n - *Scutellaria*\n - *Stachys*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -645,11 +1445,31 @@
       "choices": [
         {
           "label": "pollenkorrel met meer dan drie colpi",
-          "next": "37"
+          "next": "37",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel met drie colpi (tricolporaat)",
-          "next": "39"
+          "next": "39",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -660,12 +1480,32 @@
         {
           "label": "colpi niet alle meridionaal (pericolporaat)",
           "outcome": {
-            "text": "Polygonaceae (*Rumex*)"
+            "text": "Polygonaceae (*Rumex*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi alle meridionaal (stephanocolporaat)",
-          "next": "38"
+          "next": "38",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -676,13 +1516,33 @@
         {
           "label": "pollenkorrel groter dan 40 µm, met vier colpi",
           "outcome": {
-            "text": "Violaceae (*Viola*)"
+            "text": "Violaceae (*Viola*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel kleiner dan 40 µm, met zes colpi",
           "outcome": {
-            "text": "Boraginaceae (*Cynoglossum officinale*)"
+            "text": "Boraginaceae (*Cynoglossum officinale*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -694,28 +1554,88 @@
         {
           "label": "ornamentatie perforaat",
           "outcome": {
-            "text": "Polygonaceae (*Rumex*)"
+            "text": "Polygonaceae (*Rumex*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
-          "next": "40"
+          "next": "40",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie echinaat",
-          "next": "55"
+          "next": "55",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie striaat of rugulaat",
-          "next": "61"
+          "next": "61",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie foveolaat (tectum met putjes) of suprareticulaat (netwerk op tectum)",
-          "next": "63"
+          "next": "63",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "ornamentatie eureticulaat (netwerk is tectum)",
-          "next": "68"
+          "next": "68",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -726,12 +1646,32 @@
         {
           "label": "Pollenkorrel vanbinnen met twee equatoriale ringvormige verdikkingen",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten)\n - *Centaurea*\n - *Centaurea cyanus*"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten)\n - *Centaurea*\n - *Centaurea cyanus*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel zonder equatoriale verdikkingen",
-          "next": "41"
+          "next": "41",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -742,16 +1682,46 @@
         {
           "label": "pollenkorrel in zijaanzicht oblaat (P kleiner dan E), in bovenaanzicht sterk driehoekig",
           "outcome": {
-            "text": "Elaeagnaceae (*Elaeagnus*)"
+            "text": "Elaeagnaceae (*Elaeagnus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E), met rechte of holle zijden",
-          "next": "42"
+          "next": "42",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel in zijaanzicht ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
-          "next": "44"
+          "next": "44",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -762,12 +1732,32 @@
         {
           "label": "pollenkorrel groter dan 35 µm",
           "outcome": {
-            "text": "Apiaceae (*Heracleum*)"
+            "text": "Apiaceae (*Heracleum*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel kleiner dan 35 µm",
-          "next": "43"
+          "next": "43",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -778,13 +1768,33 @@
         {
           "label": "colpusranden vormen iets uitstekende kapjes over de pori",
           "outcome": {
-            "text": "Apiaceae (*Carum carvi*)"
+            "text": "Apiaceae (*Carum carvi*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpusranden vormen geen uitstekende kapjes over de pori",
           "outcome": {
-            "text": "Apiaceae (*Anthriscus sylvestris*)"
+            "text": "Apiaceae (*Anthriscus sylvestris*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -795,11 +1805,31 @@
       "choices": [
         {
           "label": "pollenkorrel in zijaanzicht ± rond (P = E)",
-          "next": "45"
+          "next": "45",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E)",
-          "next": "51"
+          "next": "51",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -809,11 +1839,31 @@
       "choices": [
         {
           "label": "wandgedeelten tussen de colpi recht tot hol (in bovenaanzicht van de pollenkorrel)",
-          "next": "46"
+          "next": "46",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "wandgedeelten tussen de colpi bol (in bovenaanzicht van de pollenkorrel)",
-          "next": "49"
+          "next": "49",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -823,11 +1873,31 @@
       "choices": [
         {
           "label": "pori duidelijk",
-          "next": "47"
+          "next": "47",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
-          "next": "48"
+          "next": "48",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -838,13 +1908,33 @@
         {
           "label": "pori smal (dwars), met spitse uiteinden",
           "outcome": {
-            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pori rond tot elliptisch (dwars)",
           "outcome": {
-            "text": "Rhamnaceae (*Rhamnus frangula*)"
+            "text": "Rhamnaceae (*Rhamnus frangula*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -856,13 +1946,33 @@
         {
           "label": "colpi naar binnen gevouwen of smal, pori soms ‘H’-vormig",
           "outcome": {
-            "text": "Cornaceae (*Cornus mas*)"
+            "text": "Cornaceae (*Cornus mas*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "colpi niet naar binnen gevouwen, colpusmembranen (= nexine in/onder colpi) met wratjes",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (*Robinia pseudoacacia*)"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (*Robinia pseudoacacia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -874,18 +1984,48 @@
         {
           "label": "pori onduidelijk (soms ‘H’-vormig), colpi lang",
           "outcome": {
-            "text": "Cornaceae (*Cornus mas*)"
+            "text": "Cornaceae (*Cornus mas*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pori groot, elliptisch (dwars), colpi kort",
           "outcome": {
-            "text": "Caprifoliaceae (*Symphoricarpos*)"
+            "text": "Caprifoliaceae (*Symphoricarpos*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pori smal (dwars), colpi lang",
-          "next": "50"
+          "next": "50",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -896,13 +2036,33 @@
         {
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "outcome": {
-            "text": "Rosaceae (*Filipendula*)"
+            "text": "Rosaceae (*Filipendula*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie ± psilaat",
           "outcome": {
-            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -914,12 +2074,32 @@
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp rechthoekig",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (*Lotus corniculatus*)"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n (*Lotus corniculatus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp ruitvormig",
-          "next": "52"
+          "next": "52",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -930,12 +2110,32 @@
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
           "outcome": {
-            "text": "Cornaceae (*Cornus mas*)"
+            "text": "Cornaceae (*Cornus mas*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pori duidelijk, rond tot langwerpig (dwars)",
-          "next": "53"
+          "next": "53",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -946,12 +2146,32 @@
         {
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "outcome": {
-            "text": "Rosaceae (*Filipendula*)"
+            "text": "Rosaceae (*Filipendula*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "ornamentatie ± psilaat of onduidelijk rugulaat",
-          "next": "54"
+          "next": "54",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -962,13 +2182,33 @@
         {
           "label": "pollenkorrel in zijaanzicht stomp ruitvormig, pori in bovenaanzicht op de hoekpunten",
           "outcome": {
-            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht smal elliptisch, pori in bovenaanzicht tussen de hoekpunten",
           "outcome": {
-            "text": "Fagaceae (*Castanea sativa*)"
+            "text": "Fagaceae (*Castanea sativa*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -980,12 +2220,32 @@
         {
           "label": "stekels met cylindrische basis, zuiltjes in infratectum recht, niet vertakt",
           "outcome": {
-            "text": "Caprifoliaceae (*Lonicera*)"
+            "text": "Caprifoliaceae (*Lonicera*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "stekels kegelvormig (soms erg klein), zuiltjes in infratectum vertakt of onduidelijk",
-          "next": "56"
+          "next": "56",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -995,11 +2255,31 @@
       "choices": [
         {
           "label": "stekels kleiner dan 1½ µm of onduidelijk",
-          "next": "57"
+          "next": "57",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "stekels groter dan 1½ µm",
-          "next": "58"
+          "next": "58",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1010,13 +2290,33 @@
         {
           "label": "pollenkorrel klein (20–30 µm)",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Artemisia*)"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Artemisia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel groot (± 100 µm)",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Echinops sphaerocephalus*)"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Echinops sphaerocephalus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1028,12 +2328,32 @@
         {
           "label": "zuiltjes in infratectum onduidelijk",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Aster, Helianthus, Senecio, Solidago*)"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (*Aster, Helianthus, Senecio, Solidago*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "zuiltjes in infratectum duidelijk",
-          "next": "59"
+          "next": "59",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1044,12 +2364,32 @@
         {
           "label": "zuiltjes onder de stekels langer en ten dele scheef (stervorm in bovenaanzicht)",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) \n - *Carduus\n - *Cirsium*"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) \n - *Carduus\n - *Cirsium*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Zuiltjes loodrecht onder de stekels (geen stervorm in bovenaanzicht)",
-          "next": "60"
+          "next": "60",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1060,13 +2400,33 @@
         {
           "label": "Pollenkorrel meestal groter dan 40 µm",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) \n - *Arctium*"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) \n - *Arctium*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel meestal kleiner dan 40 µm",
           "outcome": {
-            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten)\n - *Matricaria*"
+            "text": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten)\n - *Matricaria*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1078,12 +2438,32 @@
         {
           "label": "Colpusmembranen (= nexine in/onder colpi) met duidelijke stekels",
           "outcome": {
-            "text": "[Hippocastanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hippocastanaceae) (paardenkastanjefamilie)\n - *Aesculus hippocastanum*"
+            "text": "[Hippocastanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hippocastanaceae) (paardenkastanjefamilie)\n - *Aesculus hippocastanum*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpusmembranen zonder stekels",
-          "next": "62"
+          "next": "62",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1094,13 +2474,33 @@
         {
           "label": "Colpi in het midden niet versmald, ornamentatie striaat-reticulaat",
           "outcome": {
-            "text": "[Simarubaceae](hemelboomfamilie)\n *Ailanthus altissima*"
+            "text": "[Simarubaceae](hemelboomfamilie)\n *Ailanthus altissima*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpi in het midden versmald, ornamentatie striaat-rugulaat",
           "outcome": {
-            "text": "Rosaceae (rozenfamilie)\n *Cotoneaster*\n - *Malus*\n - *Prunus*\n - *Rubus*\n - *Spiraea*"
+            "text": "Rosaceae (rozenfamilie)\n *Cotoneaster*\n - *Malus*\n - *Prunus*\n - *Rubus*\n - *Spiraea*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1112,12 +2512,32 @@
         {
           "label": "pollenkorrel peervormig",
           "outcome": {
-            "text": "[Boraginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Boraginaceae) (ruwbladigenfamilie) \n - *Echium vulgare*"
+            "text": "[Boraginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Boraginaceae) (ruwbladigenfamilie) \n - *Echium vulgare*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel ± rond tot ellipsvormig",
-          "next": "64"
+          "next": "64",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1128,12 +2548,32 @@
         {
           "label": "Pollenkorrel oblaat (P duidelijk kleiner dan E), colpi zeer kort, pori met sterk verdikte rand",
           "outcome": {
-            "text": "[Tiliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Tiliaceae) (`lindes`)\n - *Tilia*"
+            "text": "[Tiliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Tiliaceae) (`lindes`)\n - *Tilia*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel ± rond tot prolaat (P groter of gelijk aan E), colpi vrij lang, pori zonder sterk verdikte rand",
-          "next": "65"
+          "next": "65",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1144,12 +2584,32 @@
         {
           "label": "Wand dikker dan 2 µm, zuiltjes in infratectum zeer duidelijk, vertakt",
           "outcome": {
-            "text": "[Polygonaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae) (duizendknoopfamilie)\n - *Fagopyrum esculentum*"
+            "text": "[Polygonaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae) (duizendknoopfamilie)\n - *Fagopyrum esculentum*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Wand dunner dan 2 µm, zuiltjes in infratectum klein of onduidelijk",
-          "next": "66"
+          "next": "66",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1160,12 +2620,32 @@
         {
           "label": "Netwerk onduidelijk",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Medicago*\n - *Melilotus*\n - *Vicia cracca*\n - *Vicia sepium*"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Medicago*\n - *Melilotus*\n - *Vicia cracca*\n - *Vicia sepium*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Netwerk duidelijk",
-          "next": "67"
+          "next": "67",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1176,13 +2656,33 @@
         {
           "label": "Pollenkorrel kleiner dan 40 µm",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)  \n - *Trifolium*\n - *Vicia*"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)  \n - *Trifolium*\n - *Vicia*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel groter dan 40 µm",
           "outcome": {
-            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Pisum sativum*\n - *Trifolium incarnatum*\n - *Vicia faba*"
+            "text": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie)\n - *Pisum sativum*\n - *Trifolium incarnatum*\n - *Vicia faba*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1194,12 +2694,32 @@
         {
           "label": "Netwerk onduidelijk, naar de polen toe grover en vaak incompleet",
           "outcome": {
-            "text": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie)\n - (*Vitis vinifera*)"
+            "text": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie)\n - (*Vitis vinifera*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Netwerk duidelijk",
-          "next": "69"
+          "next": "69",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1210,12 +2730,32 @@
         {
           "label": "Mazen kleiner dan 1 µm",
           "outcome": {
-            "text": "[Clusiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hypericaceae) (clusiafamilie)\n - (*Hypericum*)"
+            "text": "[Clusiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hypericaceae) (clusiafamilie)\n - (*Hypericum*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Mazen groter dan 1 µm",
-          "next": "70"
+          "next": "70",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1226,12 +2766,32 @@
         {
           "label": "Pollenkorrel groter dan 40 µm",
           "outcome": {
-            "text": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie)\n - (*Bryonia dioica*)"
+            "text": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie)\n - (*Bryonia dioica*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel kleiner dan 40 µm",
-          "next": "71"
+          "next": "71",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1242,13 +2802,33 @@
         {
           "label": "Wand meestal dikker dan 2 µm, pori hoger dan breed",
           "outcome": {
-            "text": "[Celastraceae](kardinaalsmutsfamilie)\n - *Euonymus* (kardinaalsmuts)"
+            "text": "[Celastraceae](kardinaalsmutsfamilie)\n - *Euonymus* (kardinaalsmuts)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Wand meestal dunner dan 2 µm, pori breder dan hoog of onduidelijk",
           "outcome": {
-            "text": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie)\n - (*Sambucus nigra*)"
+            "text": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie)\n - (*Sambucus nigra*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1259,15 +2839,45 @@
       "choices": [
         {
           "label": "Pollenkorrel met drie equatoriale pori (triporaat)",
-          "next": "73"
+          "next": "73",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel met meer dan drie equatoriale pori (stephanoporaat)",
-          "next": "75"
+          "next": "75",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel met meer dan drie verspreide (niet-equatoriale) pori (periporaat)",
-          "next": "76"
+          "next": "76",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1278,18 +2888,48 @@
         {
           "label": "Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)",
           "outcome": {
-            "text": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie)\n - *Chamerion angustifolium* (wilgenroosje)\n - *Epilobium* (basterdwederik)\n - *Oenothera* (teunisbloem)"
+            "text": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie)\n - *Chamerion angustifolium* (wilgenroosje)\n - *Epilobium* (basterdwederik)\n - *Oenothera* (teunisbloem)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pori iets uitstekend, ornamentatie echinaat (stekels groter dan 1 µm)",
           "outcome": {
-            "text": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie)\n - (*Weigelia*)"
+            "text": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie)\n - (*Weigelia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pori niet uitstekend, indien ornamentatie echinaat dan stekels kleiner dan 1 µm",
-          "next": "74"
+          "next": "74",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1300,19 +2940,49 @@
         {
           "label": "Pollenkorrel kleiner dan 50 µm, ornamentatie echinaat",
           "outcome": {
-            "text": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) (klokjesfamilie)\n - (*Campanula*)"
+            "text": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) (klokjesfamilie)\n - (*Campanula*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel ± 50 µm, ornamentatie reticulaat",
           "outcome": {
-            "text": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) \n - (*Cucumis sativus*)"
+            "text": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) \n - (*Cucumis sativus*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenkorrel groter dan 60 µm, ornamentatie echinaat",
           "outcome": {
-            "text": "[Dipsacaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_pilosus) (kaardenbolfamilie)\n - (*Dipsacus, Knautia*)"
+            "text": "[Dipsacaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_pilosus) (kaardenbolfamilie)\n - (*Dipsacus, Knautia*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1324,14 +2994,34 @@
         {
           "label": "Pollenkorrel met vier pori, ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "outcome": {
-            "text": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae)\n - (*Campanula*)"
+            "text": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae)\n - (*Campanula*)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel met vier tot elf pori, ornamentatie striaat of perforaat",
           "outcome": {
             "text": "[Polemoniaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polemoniaceae) (vlambloemfamilie)\n - (*Gilia*)",
-            "image": "../../assets/images/paldat/Gilia_capitata_Po.png"
+            "image": "../../assets/images/paldat/Gilia_capitata_Po.png",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1345,24 +3035,64 @@
           "outcome": {
             "text": "[Plantaginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Plantaginaceae) (weegbreefamilie)\n (*Plantago*)",
             "image": "../../assets/images/pollenwiki/Plantago_lanceolata_Po.png",
-            "imageWidthPx": 112
+            "imageWidthPx": 112,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm) [to be verified] ",
           "outcome": {
-            "text": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae)\n (anjerfamilie) (diverse geslachten)"
+            "text": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae)\n (anjerfamilie) (diverse geslachten)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Ornamentatie reticulaat",
           "next": "77",
           "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
-          "imageWidthPx": 130
+          "imageWidthPx": 130,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Ornamentatie psilaat, perforaat of scabraat",
-          "next": "78"
+          "next": "78",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1375,14 +3105,34 @@
           "outcome": {
             "text": "Polemoniaceae (vlambloemfamilie)\n - (*Phlox*)",
             "image": "../../assets/images/pollenwiki/Phlox_subulata_Po.png",
-            "imageWidthPx": 190
+            "imageWidthPx": 190,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pori ± even groot als de mazen van het netwerk (mazen kleiner dan 3 µm)",
           "outcome": {
             "text": "[Thymelaeaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Thymelaeaceae) (peperboompjesfamilie)\n - (*Daphne*)",
-            "image": "../../assets/images/pollenwiki/Daphne_laureola_Po.png"
+            "image": "../../assets/images/pollenwiki/Daphne_laureola_Po.png",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
@@ -1390,7 +3140,17 @@
           "outcome": {
             "text": "Caryophyllaceae (*Silene*)",
             "image": "../../assets/images/pollenwiki/Silene_cucubalis_Po.png",
-            "imageWidthPx": 255
+            "imageWidthPx": 255,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -1404,12 +3164,32 @@
           "outcome": {
             "text": "Cyperaceae (*Carex* (zegge), *Scirpus*)",
             "image": "../../assets/images/pollenwiki/Carex_morrowii_Eo.png",
-            "imageWidthPx": 235              
+            "imageWidthPx": 235,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pollenkorrel ± rond tot ellipsvormig",
-          "next": "79"
+          "next": "79",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1422,14 +3202,34 @@
           "outcome": {
             "text": "[Juglandaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juglandaceae)\n - *Juglans regia* (walnootboom)",
             "image": "../../assets/images/paldat/Juglans regia_EM.png",
-            "imageWidthPx": 250            
+            "imageWidthPx": 250,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pori over de hele pollenkorrel verspreid",
           "next": "80",
           "image": "../../assets/images/pollenwiki/Ribes_rubrum_Po.png",
-          "imageWidthPx": 145
+          "imageWidthPx": 145,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1442,15 +3242,34 @@
           "outcome": {
             "text": "[Grossulariaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Grossulariaceae)\n - *Ribes rubrum* (aalbes)",
             "image": "../../assets/images/pollenwiki/Ribes_rubrum_Po.png",
-            "imageWidthPx": 145
-
+            "imageWidthPx": 145,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pori niet omgeven of verbonden door tectum-loze (scabrate) zones",
           "next": "81",
           "image": "../../assets/images/pollenwiki/Thalictrum_flavum_Po.png",
-          "imageWidthPx": 112           
+          "imageWidthPx": 112,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1463,14 +3282,34 @@
           "outcome": {
             "text": "[Ranunculaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Ranunculaceae)\n - *Thalictrum flavum* (poelruit)",
             "image": "../../assets/images/pollenwiki/Thalictrum_flavum_Po.png",
-            "imageWidthPx": 112          
+            "imageWidthPx": 112,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Meestal meer dan tien pori, pori met massieve rand (annulus)",
           "next": "82",
           "image": "../../assets/images/pollenwiki/Silene_cucubalis_Po.png",
-          "imageWidthPx": 255
+          "imageWidthPx": 255,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1483,7 +3322,17 @@
           "outcome": {
             "text": "Amaranthaceae (diverse geslachten), Chenopodiaceae (diverse geslachten)\n - Amaranthus caudatus (kattenstaartamarant)",
             "image": "../../assets/images/pollenwiki/Amaranthus_caudatus_Po.png",
-            "imageWidthPx": 120
+            "imageWidthPx": 120,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
@@ -1491,7 +3340,17 @@
           "outcome": {
             "text": "Caryophyllaceae (diverse geslachten)\n - Silene cucubalis (blaassilene)",
             "image": "../../assets/images/pollenwiki/Silene_cucubalis_Po.png",
-            "imageWidthPx": 255
+            "imageWidthPx": 255,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

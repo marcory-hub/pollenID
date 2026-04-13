@@ -16,13 +16,33 @@
         {
           "label": "Endexine glad of vooral nabij de intercolpium-randen rissig (tabel 20: 12–18).",
           "outcome": {
-            "text": "13.36.1 *Papaver rhoeas*-type"
+            "text": "13.36.1 *Papaver rhoeas*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Endexine in hoekige stukken verdeeld (tabel 20: 19–23).",
           "outcome": {
-            "text": "13.36.2 *Meconopsis cambrica*"
+            "text": "13.36.2 *Meconopsis cambrica*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

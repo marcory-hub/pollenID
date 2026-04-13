@@ -16,12 +16,32 @@
         {
           "label": "PK boven 200 µm groot, met 3 trechtervormige equatoriale uitstulpingen, waaraan zich telkens een ca. 15–17 µm lange colpus bevindt (tabel 12: 9–10).",
           "outcome": {
-            "text": "13.1 *Morina persica* (Blz... 126)"
+            "text": "13.1 *Morina persica* (Blz... 126)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK kleiner, niet met trechtervormige equatoriale uitstulpingen.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -32,12 +52,32 @@
         {
           "label": "PK met 3 meridionale, vesiculate zwellingen, die polair verenigen en equatoriaal de colpi in zich insluiten (tabel 13: 1).",
           "outcome": {
-            "text": "13.2 *Trapa natans* (Blz... 126)"
+            "text": "13.2 *Trapa natans* (Blz... 126)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK zonder zulke vesiculate zwellingen.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -47,11 +87,31 @@
       "choices": [
         {
           "label": "PK psilaat: Exine zonder sculpturen, buitenzijden in optische snede volledig glad. Zeer geringe afwijkingen en onregelmatig begrensde oneffenheden aan de oppervlakte van het tectum (gelegen in opzicht) worden niet als sculpturen aangezien. tectum met of zonder perforaties. Er is echter in fasecontrastbeeld-verhouding tot proeven, eventuele contrastzwakke reticulate, microreticulate of microechinate sculpturen te zien.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK scabraat, microechinaat of microverrucaat: Exine met in opzicht duidelijk herkenbare, tot 1,5 µm, zelden tot 1,5 µm grote ronde of onregelmatig gevormde, gelijkmatig of onregelmatig verdeelde sculptuurelementen. De sculptuurelementen bevinden zich niet noodzakelijkerwijs in de optische snede. Er behoren hier echter PK bij, met dunne en dikke columellae (hoofd- en nevencolumellae) naast elkaar optredend (ranunculaceae). De vaak zwakkere echinate sculptuur (fasecontrast gebruiken) staat daarbij steeds boven de dunne en vaak langere haarpollen.",
-          "next": "27"
+          "next": "27",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -61,11 +121,31 @@
       "choices": [
         {
           "label": "Poolvelden in de typische *Fagus*-Pollen met duidelijk kapvormig verdikte columellae-laag; columellae polair meestal dikker en verder met elkaar verbonden. Om deze verdikkingen in kleinere PK of aan PK met kleinere poolvelden te kunnen herkennen, moeten de PK in een exacte equatoriale-aanzicht gebracht worden.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columellae-laag in het bereik van de poolvelden niet dikker als equatoriaal of subpolair, of columellae polair niet verdikt en niet verder met elkaar verbonden of staan afzonderlijk, of columellae-laag alleen in het fasecontrastbeeld (niet herkenbaar, zoals bij *Valerianella*, neemt de dikte van de Exine van equatoriaal tot polair toe).",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -75,11 +155,31 @@
       "choices": [
         {
           "label": "Endexine tot ca. 1,2 µm dik, hoogstens plaatselijk tot 1,5 µm.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Endexine overal 1,5–2,0 µm dik of minstens polair duidelijk over 1,5 µm.",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -90,12 +190,32 @@
         {
           "label": "Endexine van de intercolpium-randen grof schollig opgelost, Exine polair tot 5,5 µm dik, equatoriaal (2,0)2,5–3,0 µm (tabel 13: 2–3).",
           "outcome": {
-            "text": "13.3 *Adonis aestivalis*-type (Blz... 128)"
+            "text": "13.3 *Adonis aestivalis*-type (Blz... 128)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpus-membraan grof korrelig sculptuur. Endexine van de intercolpium-randen kan grof schollig opgelost zijn. Exine polair 1,8–3,2 µm dik, equatoriaal 0,9–1,8 µm. Wanneer tectum dubbel zo dik is als endexine, vergelijk *Saxifraga hirculus*-type (Blz... 143).",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -105,12 +225,32 @@
       "choices": [
         {
           "label": "PK 17–50 µm groot, columellae in opzicht equatoriaal onduidelijk en onregelmatig verdeeld, wanneer herkenbaar, dan PK > 20 µm (*Consolida*) (tabel 13: 4–6, 10).",
-          "next": "beug-tricolpatae-psilate-134-aconitum"
+          "next": "beug-tricolpatae-psilate-134-aconitum",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK 14–18 µm groot, columellae ook equatoriaal herkenbaar (tabel 13: 7–9).",
           "outcome": {
-            "text": "13.5 *Polygonum tetraphyllum* (Blz... 129)"
+            "text": "13.5 *Polygonum tetraphyllum* (Blz... 129)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -122,12 +262,32 @@
         {
           "label": "PK oblaat tot sferoïdisch, pollenvormindex (0,70–0,83), PK in polair aanzicht driehoekig; heteropolair: distale en proximale zijde verschillend sterk gewelfd (tabel 13: 11–15).",
           "outcome": {
-            "text": "13.6 *Comandra elegans* (Blz... 129)"
+            "text": "13.6 *Comandra elegans* (Blz... 129)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK sferoïdisch, pollenvormindex > 0,85 of PK prolaat.",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -137,11 +297,31 @@
       "choices": [
         {
           "label": "PK met equatoriaal sterk verdikten opercula.",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK zonder opercula of opercula equatoriaal niet sterk verdikt.",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -152,13 +332,33 @@
         {
           "label": "PK kugelig, pollenvormindex 0,94–1,05, Exine 1,4–2,6 µm dik (tabel 13: 16–17; fig. 29).",
           "outcome": {
-            "text": "13.7 *Sanguisorba minor*-type (Blz... 130)"
+            "text": "13.7 *Sanguisorba minor*-type (Blz... 130)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK rhomboïdisch, pollenvormindex 1,11–1,40. Exine 3,3–4,8 µm dik (tabel 13: 18–19).",
           "outcome": {
-            "text": "13.8 *Sanguisorba dodecandra* (Blz... 130)"
+            "text": "13.8 *Sanguisorba dodecandra* (Blz... 130)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -169,11 +369,31 @@
       "choices": [
         {
           "label": "Exine overal of ten minste equatoriaal tot subpolair boven 2,5 µm dik, wanneer dunner, dan colpi met brede en sterk verdikte opercula.",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine tot ca. 1,2 µm dik.",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -184,12 +404,32 @@
         {
           "label": "columellae in het distale derde deel vertakt, PK 40–80 µm groot, met tectum perforatum (tabel 14: 1–4).",
           "outcome": {
-            "text": "13.9 *Convolvulus arvensis*-type (Blz... 130)"
+            "text": "13.9 *Convolvulus arvensis*-type (Blz... 130)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae onvertakt, PK tot 45 µm groot.",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -200,12 +440,32 @@
         {
           "label": "Endexine 1,5–2,0 µm dik, wanneer equatoriaal iets dunner, dan minstens polair duidelijk boven 1,5 µm dik (tabel 14: 5–6).",
           "outcome": {
-            "text": "13.10 *Valerianella* (Blz... 131)"
+            "text": "13.10 *Valerianella* (Blz... 131)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Endexine niet of nauwelijks dikker dan 1,2 µm.",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -215,12 +475,32 @@
       "choices": [
         {
           "label": "Exine overal gelijkmatig dik, colpi zonder opercula. PK kugelig (tabel 14: 2–23).",
-          "next": "beug-tricolpatae-psilate-1311-alchemilla"
+          "next": "beug-tricolpatae-psilate-1311-alchemilla",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine ongelijkmatig dikker als tectum, wanneer in polair gebied duidelijker dikker. PK in polair aanzicht driehoekig en planapertuurt of PK met sterk verdikte opercula (tabel 14: 7–20).",
           "outcome": {
-            "text": "13.12 *Polygonum alpinum* (Blz... 132)"
+            "text": "13.12 *Polygonum alpinum* (Blz... 132)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -232,12 +512,32 @@
         {
           "label": "PK op de intercolpia met telkens een cirkelvormige afplatting, deze vaak met wulstig verdikte rand. PK < 25 µm (*Melampyrum*) (tabel 16: 1–3).",
           "outcome": {
-            "text": "13.13 *Melampyrum* (Blz... 132)"
+            "text": "13.13 *Melampyrum* (Blz... 132)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "intercolpia zonder zulke afplattingen of verdikkingen.",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -247,11 +547,31 @@
       "choices": [
         {
           "label": "PK met duidelijk herkenbare columellae.",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK zonder columellae of columellae in opzicht niet herkenbaar.",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -261,11 +581,31 @@
       "choices": [
         {
           "label": "columellae ca. 0,5–1,0 µm dik, tamelijk contrastarm.",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columellae onder 0,5 µm dik, zeer dicht en kunnen netjes gestapeld of netachtig verscholen zijn (brochi onder 1 µm). De sculptuurelementen staan meestal in afstanden van 1–2 µm en zijn regelmatig verdeeld.",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -276,13 +616,33 @@
         {
           "label": "PK 36–41 µm groot, met brede en dicht beklede colpi (tabel 15: 21–24).",
           "outcome": {
-            "text": "13.14 *Helleborus niger* (Blz... 134)"
+            "text": "13.14 *Helleborus niger* (Blz... 134)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 17–32 µm groot, met korrelig, maar niet dicht korrelig beklede colpi.",
           "outcome": {
-            "text": "13.15 *Spergularia*-type (Blz... 134)"
+            "text": "13.15 *Spergularia*-type (Blz... 134)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -294,13 +654,33 @@
         {
           "label": "columellae onregelmatig verdeeld, endexine dikker als het tectum (tabel 15: 1–10, tabel 16: 4–6).",
           "outcome": {
-            "text": "13.16 *Cuscuta europaea*-type (Blz... 136)"
+            "text": "13.16 *Cuscuta europaea*-type (Blz... 136)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae staan afzonderlijk en zijn tamelijk regelmatig verdeeld. tectum zonder of slechts met afzonderlijke, scherp herkenbare perforaties. Endexine dikker als tectum (tabel 15: 11–20, tabel 16: 7–9).",
           "outcome": {
-            "text": "13.17 *Myricaria germanica* (Blz... 136)"
+            "text": "13.17 *Myricaria germanica* (Blz... 136)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -312,12 +692,32 @@
         {
           "label": "Exine met perforaties (fasecontrastbeeld).",
           "outcome": {
-            "text": "Endexine: moeilijker pollentype (Blz... 17)."
+            "text": "Endexine: moeilijker pollentype (Blz... 17).",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine zonder perforaties.",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -328,13 +728,33 @@
         {
           "label": "PK microreticulaat en in fasecontrastbeeld niet of nauwelijks herkenbaar. colpi ingeschokt, intercolpium-randen in equatoriaal gebied korrelig opgelost. colpi gelegen equatoriaal, vaak voorgebogen of met equatoriale bruggen respectievelijk equatoriaal verengt. PK prolaat of sferoïdisch. Exine 1,0–1,5 µm dik, endexine dikker als tectum (tabel 16: 10–12).",
           "outcome": {
-            "text": "13.18 *Viola odorata*-type (Blz... 138)"
+            "text": "13.18 *Viola odorata*-type (Blz... 138)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae minstens in fasecontrastbeeld duidelijk herkenbaar. colpi niet of slechts zwak ingeschokt. Intercolpium-randen helemaal niet in equatoriaal gebied korrelig opgelost. PK echter vaak met brede colpi, deren membraan korrelig sculptuur heeft. Endexine dunner als tectum, gelijk dik of dikker. Exine meestal boven 1,5 µm dik (tabel 16: 13–19).",
           "outcome": {
-            "text": "13.19 *Rhinanthus*-groep (Blz... 138)"
+            "text": "13.19 *Rhinanthus*-groep (Blz... 138)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -345,11 +765,31 @@
       "choices": [
         {
           "label": "PK heteropolair, d.w.z. poolvelden verschillend groot.",
-          "next": "23"
+          "next": "23",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poolvelden gelijk groot.",
-          "next": "24"
+          "next": "24",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -360,13 +800,33 @@
         {
           "label": "PK ca. 15–20 µm groot, columellae niet herkenbaar (tabel 32: 19–24).",
           "outcome": {
-            "text": "*Gratiola officinalis* (Blz... 204)"
+            "text": "*Gratiola officinalis* (Blz... 204)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK (22)25–50 µm groot, columellae in opzicht meestal zeer contrastarm (tabel 16: 10–12).",
           "outcome": {
-            "text": "13.18 *Viola odorata*-type (Blz... 140)"
+            "text": "13.18 *Viola odorata*-type (Blz... 140)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -378,12 +838,32 @@
         {
           "label": "PK groter als 60–80 µm (tabel 120: 8–9).",
           "outcome": {
-            "text": "13.20 *Vinca minor* (Blz... 140)"
+            "text": "13.20 *Vinca minor* (Blz... 140)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK kleiner als 60 µm.",
-          "next": "25"
+          "next": "25",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -394,12 +874,32 @@
         {
           "label": "Poolfelder groot, pollenvormindex < 1,0, PK 22–27 µm groot (tabel 17: 6–10).",
           "outcome": {
-            "text": "13.21 *Monotropa hypopitys* (Blz... 142)"
+            "text": "13.21 *Monotropa hypopitys* (Blz... 142)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Poolvelden klein tot middelgroot, pollenvormindex duidelijk groter als 1,00.",
-          "next": "26"
+          "next": "26",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -410,12 +910,32 @@
         {
           "label": "Exine 0,8 µm dik, PK prolaat tot perprolaat, 26–34 µm groot, pollenvormindex 1,57–2,17, poolvelden klein. Colpus-membranen niet korrelig bekleed, colpi vaak met aangeduide poriën (tabel 33: 20–23, zie Tricolporoidatae).",
           "outcome": {
-            "text": "*Erihropus alpinus* (Blz... 208)"
+            "text": "*Erihropus alpinus* (Blz... 208)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine dikker, PK met korrelig beklede colpus-membranen, poolvelden klein.",
-          "next": "27"
+          "next": "27",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -425,11 +945,31 @@
       "choices": [
         {
           "label": "PK met opercula.",
-          "next": "28"
+          "next": "28",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK zonder opercula.",
-          "next": "29"
+          "next": "29",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -439,12 +979,32 @@
       "choices": [
         {
           "label": "tectum polair 2–3 maal zo dik als in het equatoriaal gebied, bovendien aan de intercolpium-randen dunner dan in het midden van de intercolpia. columellae-laag dun, columellae in het equatoriaal gebied in opzicht meestal zeer dun tot niet herkenbaar (tabel 16: 20–22).",
-          "next": "beug-tricolpatae-psilate-1323-teucrium"
+          "next": "beug-tricolpatae-psilate-1323-teucrium",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "tectum polair niet zo sterk verdikt en aan de intercolpium-randen niet dunner dan in het midden van de intercolpia. columellae overal gelijk goed zichtbaar (tabel 17: 11–16).",
           "outcome": {
-            "text": "13.24 *Saxifraga hirculus*-type (Blz... 143)"
+            "text": "13.24 *Saxifraga hirculus*-type (Blz... 143)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -455,11 +1015,31 @@
       "choices": [
         {
           "label": "tectum (zonder sculptuurelementen) dubbel zo dik als de endexine of dikker of tectum met een sterk lichtbrekende laag (*Artemisia*).",
-          "next": "30"
+          "next": "30",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "tectum dunner.",
-          "next": "31"
+          "next": "31",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -470,13 +1050,33 @@
         {
           "label": "tectum zonder sterk lichtbrekende laag. Exine tot 2,2 µm, columellae onder 1 µm dik (tabel 17: 11–16).",
           "outcome": {
-            "text": "13.24 *Saxifraga hirculus*-type (Blz... 143)"
+            "text": "13.24 *Saxifraga hirculus*-type (Blz... 143)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "tectum met sterk lichtbrekende middenlaag, columellae duidelijk en dik, PK sferoïdisch, vaak iets gestrekt, regelmatig scabraat-microechinaat sculptuur, zeer variabel, vaak met poroid gebied (tabel 28: 1–12).",
           "outcome": {
-            "text": "*Artemisia* (Blz... 188)"
+            "text": "*Artemisia* (Blz... 188)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -488,12 +1088,32 @@
         {
           "label": "Sculptuurelementen in opzicht 0,5–1,5 µm groot, onregelmatig gevormd en verdeeld, tectum grover vlakte dan in optische snede meestal zeer onregelmatig (wanneer PK dunwandig en weinig vormbestendig, kugelig tot oblaat, met grote poolvelden en heel contrastarm begrensde colpi vergelijk *Datura stramonium*, Blz... 270) (tabel 17: 17–29).",
           "outcome": {
-            "text": "13.25 *Quercus* (Blz... 143)"
+            "text": "13.25 *Quercus* (Blz... 143)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Sculptuurelementen in opzicht ± eenvormiger van vorm en grootte (rondachtig, tot 1 µm diameter, alleen bij *Eranthis* tot 1,5 µm), in veel gevallen regelmatig gerangschikt; hier echter ook PK met een tectum perforatum.",
-          "next": "32"
+          "next": "32",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -503,11 +1123,31 @@
       "choices": [
         {
           "label": "intercolpia afgeplat tot konkaaf, colpi meestal met bijna rechtwinkelig ingebogen intercolpium-randen sterk ingesenkt.",
-          "next": "33"
+          "next": "33",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "intercolpia convex, colpi meestal niet opvallend ingesenkt.",
-          "next": "34"
+          "next": "34",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -518,13 +1158,33 @@
         {
           "label": "Exine tot 1 µm dik, wanneer dikker, dan PK > 40 µm. PK met ± onduidelijke poriën. intercolpia sterk afgeplat tot konkaaf (tabel 31: 13–23).",
           "outcome": {
-            "text": "*Cornus* (Blz... 203)"
+            "text": "*Cornus* (Blz... 203)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine 1,5–2,0 µm dik. PK tot 30 µm groot. colpi equatoriaal hoogstens verengd. intercolpia afgeplat, niet konkaaf (tabel 17: 17–29).",
           "outcome": {
-            "text": "13.25 *Quercus* (Blz... 143)"
+            "text": "13.25 *Quercus* (Blz... 143)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -535,11 +1195,31 @@
       "choices": [
         {
           "label": "PK met tectum perforatum.",
-          "next": "35"
+          "next": "35",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "tectum niet geperforeerd.",
-          "next": "36"
+          "next": "36",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -550,13 +1230,33 @@
         {
           "label": "columellae in fasecontrastbeeld aanwezig, niet-gerangschikt. Scabraat-microechinaat sculptuur.",
           "outcome": {
-            "text": "13.26 *Solidago*-type (Blz... 144)"
+            "text": "13.26 *Solidago*-type (Blz... 144)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae in fasecontrastbeeld zeer zwak herkenbaar of afwezig, niet-gerangschikt. Scabraat-microechinaat sculptuur.",
           "outcome": {
-            "text": "13.27 *Senecio*-type (Blz... 144)"
+            "text": "13.27 *Senecio*-type (Blz... 144)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -568,12 +1268,32 @@
         {
           "label": "PK prolaat, pollenvormindex 1,4–1,6, 30–40 µm groot, met 2,7–3,2 µm dikke Exine (tabel 18: 11–14).",
           "outcome": {
-            "text": "13.28 *Garidella nigellastrum* (Blz... 146)"
+            "text": "13.28 *Garidella nigellastrum* (Blz... 146)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met eenvoudige columellae-laag, met hoofd- en nevencolumellae.",
-          "next": "38"
+          "next": "38",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -584,12 +1304,32 @@
         {
           "label": "Hoofdcolumellae 0,9–1,3 µm dik, nevencolumellae 0,4–0,8 µm. Exine 2,0–2,6 µm dik, columellae-laag slechts ca. 0,6–0,8 µm dik (tabel 18: 9–10).",
           "outcome": {
-            "text": "13.30 *Eranthis hiemalis* (Blz... 144)"
+            "text": "13.30 *Eranthis hiemalis* (Blz... 144)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae dunner en columellae-laag dikker.",
-          "next": "39"
+          "next": "39",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -600,12 +1340,32 @@
         {
           "label": "Endexine met opvallende riss (fasecontrastbeeld) (tabel 18: 19–23).",
           "outcome": {
-            "text": "13.31 *Hepatica nobilis* (Blz... 148)"
+            "text": "13.31 *Hepatica nobilis* (Blz... 148)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Endexine niet met opvallende riss.",
-          "next": "40"
+          "next": "40",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -616,12 +1376,32 @@
         {
           "label": "De sculptuurelementen (microechini) staan uitsluitend op ca. 0,9–1,2 µm dikke columellae en zijn van deze ongelijkmatig geordend. Daarbij kunnen de microechini met mamillose voorwendingen van het tectum staan; het tectum is dan in het optische snede onopvallend, soms glad. Tussen de dikkere hoofdcolumellae kunnen dunnere nevencolumellae herkenbaar zijn, die in het fasecontrastbeeld (phako) in de cirkelvormige \"holte\" om de hoofdcolumellae heen of onregelmatige (mamillose) voorwendingen vormen. PK sferoïdisch, pollenvormindex tot 1,0, in vrijwel gelijke grootte. Exine meestal 2,0–2,2 µm dik. Endexine dikker als het tectum of bijna gelijk dik (tabel 19: 1–30).",
           "outcome": {
-            "text": "13.32 *Ranunculus acris*-type (Blz... 148)"
+            "text": "13.32 *Ranunculus acris*-type (Blz... 148)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "De sculptuurelementen staan niet bij bepaalde columellae. De columellae zijn eenheid 0,5 µm dik, staan zeer dicht en kunnen netjes gestapeld of netachtig verscholen zijn (brochi onder 1 µm). De sculptuurelementen staan meestal in afstanden van 1–2 µm en zijn regelmatig verdeeld.",
-          "next": "41"
+          "next": "41",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -631,11 +1411,31 @@
       "choices": [
         {
           "label": "Endexine 1,5–2 µm dik, wanneer equatoriaal dunner, dan minstens polair duidelijk boven 1,5 µm dik.",
-          "next": "42"
+          "next": "42",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Endexine dunner, meestal niet boven 1,2 µm dik, hoogstens polair gelijkmatig tot 1,5 µm.",
-          "next": "43"
+          "next": "43",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -646,13 +1446,33 @@
         {
           "label": "PK sferoïdisch (kugelig), tot 45 µm groot (tabel 14: 5–6).",
           "outcome": {
-            "text": "13.10 *Valerianella* (Blz... 131)"
+            "text": "13.10 *Valerianella* (Blz... 131)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK sferoïdisch, maar langer als breed, > 50 µm (tabel 43: 7–10).",
           "outcome": {
-            "text": "*Centranthus* (Blz... 242)"
+            "text": "*Centranthus* (Blz... 242)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -663,11 +1483,31 @@
       "choices": [
         {
           "label": "Poolfelder met duidelijk verdikte columellae-laag.",
-          "next": "43"
+          "next": "43",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columellae-laag polair niet verdikt of columellae in het bereik van de polaire exineverdikking niet verder met elkaar verbonden en niet dikker.",
-          "next": "44"
+          "next": "44",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -678,12 +1518,32 @@
         {
           "label": "PK met tectum perforatum. columellae helemaal niet verbonden.",
           "outcome": {
-            "text": "13.9 *Convolvulus arvensis*-type (Blz... 130)"
+            "text": "13.9 *Convolvulus arvensis*-type (Blz... 130)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "tectum zonder perforaties of columellae niet verbonden respectievelijk niet geordend; moeilijk te onderscheiden pollentypen.",
-          "next": "45"
+          "next": "45",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -694,12 +1554,32 @@
         {
           "label": "Endexine duidelijk dikker dan het tectum (indien met onduidelijke colpi en middelgrote poolvelden vergelijk *Scopolia*, Blz... 204).",
           "outcome": {
-            "text": "13.33 *Globularia* (Blz... 151)"
+            "text": "13.33 *Globularia* (Blz... 151)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Endexine zo dik als het tectum of dunner; wanneer endexine dikker is dan het tectum, dan Exine boven 1,5 µm dik.",
-          "next": "46"
+          "next": "46",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -710,13 +1590,33 @@
         {
           "label": "Exine 1,5–2,0 µm dik. PK 19–32 µm groot, scabraat, met endo-microreticulum, columellae zeer dun en scherp herkenbaar (tabel 20: 1–3).",
           "outcome": {
-            "text": "13.34 *Adonis vernalis* (Blz... 152)"
+            "text": "13.34 *Adonis vernalis* (Blz... 152)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine 2,0–2,2 µm dik. PK 27–35 µm groot, scabraat, met microreticulaat sculptuur. columellae duidelijk herkenbaar (tabel 20: 4–7).",
           "outcome": {
-            "text": "13.35 *Caltha*-type (Blz... 152)"
+            "text": "13.35 *Caltha*-type (Blz... 152)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -727,12 +1627,32 @@
       "choices": [
         {
           "label": "Sculptuurelementen in opzicht hoekig, columellae (in opzicht) zeer dun en talrijk, PK vaak met een endo-microreticulaat structuur. Afgrenzing van het *Papaver rhoeas*-groep en van *Globularia* vaak moeilijk (tabel 20: 8–11).",
-          "next": "beug-tricolpatae-psilate-1336-papaver"
+          "next": "beug-tricolpatae-psilate-1336-papaver",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Sculptuurelementen in opzicht rondachtig, columellae in opzicht meestal moeilijk herkenbaar, PK vaak met endo-microreticulaat structuur (daarbij ook endo-microbrochi naast geïsoleerde columellae). Afgrenzing van het *Caltha*-type vaak moeilijk (tabel 20: 12–23).",
           "outcome": {
-            "text": "13.37 *Papaver rhoeas*-groep (Blz... 154)"
+            "text": "13.37 *Papaver rhoeas*-groep (Blz... 154)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

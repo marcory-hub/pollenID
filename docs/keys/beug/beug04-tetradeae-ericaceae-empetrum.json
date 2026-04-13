@@ -16,11 +16,31 @@
       "choices": [
         {
           "label": "EPK duidelijk van elkaar gescheiden: in optische doorsnede van de tetrade zijn waar de EPK elkaar raken duidelijke insnoeringen zichtbaar.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "EPK niet of slechts zeer zwak van elkaar gescheiden: tetraden in optische doorsnede nagenoeg rond of enigszins driehoekig, zonder duidelijke insnoeringen.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -31,12 +51,32 @@
         {
           "label": "Binnenwanden van de tetraden dicht geperforeerd.",
           "outcome": {
-            "text": "4.7.1 *Arctostaphylos alpina* (L.) Spreng. (3). 47,3–54,3 µm, MiW 50,9 µm; 50 T, 0a."
+            "text": "4.7.1 *Arctostaphylos alpina* (L.) Spreng. (3). 47,3–54,3 µm, MiW 50,9 µm; 50 T, 0a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Binnenwanden niet of nauwelijks geperforeerd.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -47,13 +87,33 @@
         {
           "label": "Sculptuur scabraat; binnenwanden van de tetraden slechts met weinig perforaties.",
           "outcome": {
-            "text": "4.7.2 *Arctostaphylos uva-ursi* (L.) Spreng. (3). 38,7–46,3 µm, MiW 42,8 µm; 50 PK, 1a."
+            "text": "4.7.2 *Arctostaphylos uva-ursi* (L.) Spreng. (3). 38,7–46,3 µm, MiW 42,8 µm; 50 PK, 1a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Sculptuur psilaat; binnenwanden niet geperforeerd.",
           "outcome": {
-            "text": "4.7.3 *Arbutus*. *Arbutus unedo* L. (2): 48,7–61,2 µm, MiW 53,5 µm; 50 PK, 1a. *Arbutus andrachne* L. (1): 46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a."
+            "text": "4.7.3 *Arbutus*. *Arbutus unedo* L. (2): 48,7–61,2 µm, MiW 53,5 µm; 50 PK, 1a. *Arbutus andrachne* L. (1): 46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -65,12 +125,32 @@
         {
           "label": "EPK in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; EPK soms in één vlak of een rij (tabel 1: 7 en 10).",
           "outcome": {
-            "text": "4.7.4 *Calluna vulgaris* (L.) Hull (6). 34,0–48,0 µm, MiW 39,4 µm; 50 PK, 0a."
+            "text": "4.7.4 *Calluna vulgaris* (L.) Hull (6). 34,0–48,0 µm, MiW 39,4 µm; 50 PK, 0a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "EPK slechts met 3 colpi.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -81,12 +161,32 @@
         {
           "label": "Binnenwanden van de tetraden duidelijk dikker dan de buitenwanden, meest > 2 tot 3,5 µm (tabel 1: 8–9; fig. 4).",
           "outcome": {
-            "text": "4.7.5 *Empetrum* / *Ledum*. *Empetrum nigrum* L. Blz...str. (5): 32,8–39,5 µm, MiW 36,6 µm; 50 PK, 0a; sculptuur scabraat, colpuslengte 11,3–18,6 µm, polaire velden 11,3–13,8 µm. *Empetrum hermaphroditum* Hagerup (2): 30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a."
+            "text": "4.7.5 *Empetrum* / *Ledum*. *Empetrum nigrum* L. Blz...str. (5): 32,8–39,5 µm, MiW 36,6 µm; 50 PK, 0a; sculptuur scabraat, colpuslengte 11,3–18,6 µm, polaire velden 11,3–13,8 µm. *Empetrum hermaphroditum* Hagerup (2): 30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Binnenwanden van de tetraden even dik als de buitenwanden of dunner.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -97,13 +197,33 @@
         {
           "label": "Colpi zeer kort; colpus-index groter dan 3,3. Tetraden duidelijk scabraat tot zwak verrucaat, niet dikkewandig. Colpus-index 3,3(3,6)–4,5, MiW 4,1, 10 T (tabel 2: 12–13).",
           "outcome": {
-            "text": "4.7.6 *Moneses uniflora* (L.) A.Gray (1). 41,8–53,0 µm, MiW 45,3 µm; 50 T, 0a."
+            "text": "4.7.6 *Moneses uniflora* (L.) A.Gray (1). 41,8–53,0 µm, MiW 45,3 µm; 50 T, 0a.",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpi langer; colpus-index < 3,3; indien groter, dan tetraden vrijwel psilaat en duidelijk dikkewandig. Sculptuur varieert: psilaat, scabraat, ook barstend-fijn holruchtig.",
           "outcome": {
-            "text": "4.7.7 Verzamelgroep *Vaccinium*-type"
+            "text": "4.7.7 Verzamelgroep *Vaccinium*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

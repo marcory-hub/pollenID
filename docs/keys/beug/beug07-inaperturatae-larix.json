@@ -13,12 +13,32 @@
         {
           "label": "PK dunwandig. Exine tot ca. 0,5 µm dik",
           "outcome": {
-            "text": "7.4.1 *Juniperus communis-type*"
+            "text": "7.4.1 *Juniperus communis-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK dikwandig. Exine ca. 0,5-1,5 µm dik",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -27,13 +47,33 @@
         {
           "label": "microgemmae onregelmatig over de PK verdeeld",
           "outcome": {
-            "text": "7.4.2 *Juniperus excelsa-type*"
+            "text": "7.4.2 *Juniperus excelsa-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK meestal alleen in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) microgemmae of met microclavae",
           "outcome": {
-            "text": "7.4.3 *Cunninghamia-type*"
+            "text": "7.4.3 *Cunninghamia-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

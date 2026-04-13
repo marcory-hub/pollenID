@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Tricolporaat pollen met operculum",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Tricolporaat pollen zonder operculum",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -29,11 +49,31 @@
       "choices": [
         {
           "label": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striaat",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -72,7 +112,7 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
-                "imageWidthPx": 78  
+                "imageWidthPx": 78
               },
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
@@ -97,11 +137,31 @@
       "choices": [
         {
           "label": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -135,7 +195,17 @@
         },
         {
           "label": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -145,11 +215,31 @@
       "choices": [
         {
           "label": "Vallae breed, diffuus in horizontale projectie",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae smal, scherp en duidelijk in horizontale projectie",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -183,7 +273,17 @@
         },
         {
           "label": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -276,7 +376,7 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_erecta_Ed.png",
-                "imageWidthPx": 65  
+                "imageWidthPx": 65
               },
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_erecta_Eo.png",
@@ -301,11 +401,31 @@
       "choices": [
         {
           "label": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -320,7 +440,7 @@
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
-                "imageWidthPx": 85  
+                "imageWidthPx": 85
               },
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo.png",
@@ -447,15 +567,45 @@
       "choices": [
         {
           "label": "Clavaat-bacillaat, echinaat",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striaat",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -489,7 +639,17 @@
         },
         {
           "label": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -593,11 +753,31 @@
         },
         {
           "label": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Psilaat; sculptuurelementen meestal afwezig maar verspreid echinae/scabrae of lage vallae op het intercolpium mogelijk; colpusrand met veel blaasvormige vaginaties equatoriaal; polaire projectie vaak driehoekig; columellae duidelijk; tectale perforaties niet zichtbaar",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -715,11 +895,31 @@
       "choices": [
         {
           "label": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae fijn",
-          "next": "22"
+          "next": "22",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -783,11 +983,31 @@
       "choices": [
         {
           "label": "Vallae dubbel, gebogen en kort; verdeeld als parallelle paren",
-          "next": "23"
+          "next": "23",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum",
-          "next": "24"
+          "next": "24",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -851,11 +1071,31 @@
       "choices": [
         {
           "label": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig",
-          "next": "25"
+          "next": "25",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae duidelijk",
-          "next": "26"
+          "next": "26",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -919,11 +1159,31 @@
       "choices": [
         {
           "label": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen",
-          "next": "27"
+          "next": "27",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)",
-          "next": "28"
+          "next": "28",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -986,7 +1246,7 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
-                "imageWidthPx": 83  
+                "imageWidthPx": 83
               },
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Eo.png",
@@ -1011,11 +1271,31 @@
       "choices": [
         {
           "label": "Vallae recht, parallel en matig vertakt",
-          "next": "29"
+          "next": "29",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk",
-          "next": "32"
+          "next": "32",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1025,11 +1305,31 @@
       "choices": [
         {
           "label": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)",
-          "next": "30"
+          "next": "30",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur",
-          "next": "31"
+          "next": "31",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -1171,7 +1471,17 @@
         },
         {
           "label": "Vallae matig gebogen; opaciteit minder uitgesproken",
-          "next": "33"
+          "next": "33",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },

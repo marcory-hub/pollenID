@@ -16,13 +16,33 @@
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 43: 7–10).",
           "outcome": {
-            "text": "17.5.1 *Centhrantus ruber*-type (Blz... 242)"
+            "text": "17.5.1 *Centhrantus ruber*-type (Blz... 242)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 43: 11–14).",
           "outcome": {
-            "text": "17.5.2 *Centhrantus angustifolius*-type (Blz... 242)"
+            "text": "17.5.2 *Centhrantus angustifolius*-type (Blz... 242)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

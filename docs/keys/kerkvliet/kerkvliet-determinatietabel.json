@@ -17,7 +17,7 @@
   "rows": [
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Myosotis](https://www.paldat.org/pub/Myosotis_arvensis) [pollenwiki](https://pollenwiki.org/wiki/Myosotis_arvensis)",
+      "latin": "[Myosotis](https://www.paldat.org/pub/Myosotis_scorpioides) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides)",
       "dutch": "vergeet-me-nietje",
       "vorm": "halter",
       "grootte": "7x5",
@@ -26,16 +26,16 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Hydrangea sp](https://www.paldat.org/pub/Hydrangea_sp.) [pollenwiki](https://pollenwiki.org/wiki/Hydrangea_sp.)   ",
-      "dutch": "-",
+      "latin": "Hydrangea sp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hydrangea_serrata)   ",
+      "dutch": "hortensia",
       "vorm": "O/onregelm",
-      "grootte": "10-12,5",
+      "grootte": "10-12,5 (17 µm (pw)",
       "oppervlak": "glad",
       "opmerkingen": "3-colporaat, zie ook onder reticulaat"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Cynoglossum](https://www.paldat.org/pub/Cynoglossum_hoffmannseggii) [pollenwiki](https://pollenwiki.org/wiki/Cynoglossum_hoffmannseggii) ",
+      "latin": "[Cynoglossum creticum](https://www.paldat.org/pub/Cynoglossum_Cynoglossum_creticum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cynoglossum_creticum) ",
       "dutch": "hondstong",
       "vorm": "ovaal",
       "grootte": "11x8",
@@ -44,7 +44,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Castanea](https://www.paldat.org/pub/Castanea_sativa) [pollenwiki](https://pollenwiki.org/wiki/Castanea_sativa) ",
+      "latin": "[Castanea](https://www.paldat.org/pub/Castanea_sativa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Castanea_sativa) ",
       "dutch": "tamme kastanje",
       "vorm": "ovaal",
       "grootte": "12-14",
@@ -53,7 +53,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum dulcamara](https://www.paldat.org/pub/Solanum_dulcamara) [pollenwiki](https://pollenwiki.org/wiki/Solanum_dulcamara) ",
+      "latin": "[Solanum dulcamara](https://www.paldat.org/pub/Solanum_dulcamara) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_dulcamara) ",
       "dutch": "bitterzoet",
       "vorm": "O",
       "grootte": "12",
@@ -62,7 +62,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Spiraea](https://www.paldat.org/pub/Spirea_sp.) [pollenwiki](https://pollenwiki.org/wiki/Spirea_sp.) ",
+      "latin": "[Spiraea](https://www.paldat.org/pub/Spirea_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Spirea_sp.) ",
       "dutch": "spirea",
       "vorm": "onregelm.",
       "grootte": "12-16",
@@ -71,7 +71,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Spiraea japonica](https://www.paldat.org/pub/Spirea_japonica) [pollenwiki](https://pollenwiki.org/wiki/Spirea_japonica) ",
+      "latin": "[Spiraea japonica](https://www.paldat.org/pub/Spirea_japonica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Spirea_japonica) ",
       "dutch": "spirea",
       "vorm": "О ⁄ ∆",
       "grootte": "12,5",
@@ -80,7 +80,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Lotus ulginosis](https://www.paldat.org/pub/Lotus_ulginosus) [pollenwiki](https://pollenwiki.org/wiki/Lotus_ulginosus) ",
+      "latin": "[Lotus ulginosis](https://www.paldat.org/pub/Lotus_ulginosus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_ulginosus) ",
       "dutch": "moerasrolklaver",
       "vorm": "ovaal",
       "grootte": "14x10",
@@ -89,7 +89,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Philadelphus](https://www.paldat.org/pub/Philadelphus_virginianus) [pollenwiki](https://pollenwiki.org/wiki/Philadelphus_virginianus) ",
+      "latin": "[Philadelphus](https://www.paldat.org/pub/Philadelphus_virginianus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Philadelphus_virginianus) ",
       "dutch": "boerenjasmijn",
       "vorm": "О ⁄ ∆",
       "grootte": "14-16",
@@ -98,7 +98,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Buddleiea](https://www.paldat.org/pub/Buddleia_davidii) [pollenwiki](https://pollenwiki.org/wiki/Buddleia_davidii) ",
+      "latin": "[Buddleiea](https://www.paldat.org/pub/Buddleia_davidii) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Buddleia_davidii) ",
       "dutch": "vlinderstruik",
       "vorm": "O",
       "grootte": "15",
@@ -107,7 +107,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Urtica](https://www.paldat.org/pub/Urtica_dioica) [pollenwiki](https://pollenwiki.org/wiki/Urtica_dioica) ",
+      "latin": "[Urtica](https://www.paldat.org/pub/Urtica_dioica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Urtica_dioica) ",
       "dutch": "brandnetel",
       "vorm": "O",
       "grootte": "16",
@@ -116,7 +116,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Filipendula ulmaria](https://www.paldat.org/pub/Filipendula_ulmaria) [pollenwiki](https://pollenwiki.org/wiki/Filipendula_ulmaria) ",
+      "latin": "[Filipendula ulmaria](https://www.paldat.org/pub/Filipendula_ulmaria) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Filipendula_ulmaria) ",
       "dutch": "moerasspirea",
       "vorm": "O",
       "grootte": "17",
@@ -125,7 +125,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Nemophila menzi](https://www.paldat.org/pub/Nemophila_menziesii) [pollenwiki](https://pollenwiki.org/wiki/Nemophila_menziesii) ",
+      "latin": "[Nemophila menzi](https://www.paldat.org/pub/Nemophila_menziesii) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nemophila_menziesii) ",
       "dutch": "bosliefje",
       "vorm": "О ⁄ ∆",
       "grootte": "17",
@@ -134,7 +134,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Spirea (van Houti?)](https://www.paldat.org/pub/Spirea_sp.) [pollenwiki](https://pollenwiki.org/wiki/Spirea_sp.) ",
+      "latin": "[Spirea (van Houti?)](https://www.paldat.org/pub/Spirea_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Spirea_sp.) ",
       "dutch": "Spirea",
       "vorm": "ca O",
       "grootte": "17",
@@ -143,7 +143,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Robinia pseudoac](https://www.paldat.org/pub/Robinia_pseudoacacia) [pollenwiki](https://pollenwiki.org/wiki/Robinia_pseudoacacia) ",
+      "latin": "[Robinia pseudoac](https://www.paldat.org/pub/Robinia_pseudoacacia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia) ",
       "dutch": "-",
       "vorm": "О ⁄ ∆",
       "grootte": "18",
@@ -152,7 +152,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Lotus corniculatus](https://www.paldat.org/pub/Lotus_corniculatus) [pollenwiki](https://pollenwiki.org/wiki/Lotus_corniculatus) ",
+      "latin": "[Lotus corniculatus](https://www.paldat.org/pub/Lotus_corniculatus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_corniculatus) ",
       "dutch": "rolklaver",
       "vorm": "ovaal",
       "grootte": "18x13",
@@ -161,7 +161,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Echium](https://www.paldat.org/pub/Echium_sp.) [pollenwiki](https://pollenwiki.org/wiki/Echium_sp.) ",
+      "latin": "[Echium](https://www.paldat.org/pub/Echium_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Echium_sp.) ",
       "dutch": "slangekruid",
       "vorm": "eivormig",
       "grootte": "18x16",
@@ -170,7 +170,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Escallonia sp](https://www.paldat.org/pub/Escallonia_sp.) [pollenwiki](https://pollenwiki.org/wiki/Escallonia_sp.) ",
+      "latin": "[Escallonia sp](https://www.paldat.org/pub/Escallonia_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Escallonia_sp.) ",
       "dutch": "Escallonia",
       "vorm": "O tot О ⁄ ∆ tot ∆",
       "grootte": "18-20",
@@ -179,7 +179,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Morus alba](https://www.paldat.org/pub/Morus_alba) [pollenwiki](https://pollenwiki.org/wiki/Morus_alba) ",
+      "latin": "[Morus alba](https://www.paldat.org/pub/Morus_alba) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Morus_alba) ",
       "dutch": "witte moerbei",
       "vorm": "O",
       "grootte": "19",
@@ -188,7 +188,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum lycopers](https://www.paldat.org/pub/Solanum_lycopersicum) [pollenwiki](https://pollenwiki.org/wiki/Solanum_lycopersicum) ",
+      "latin": "[Solanum lycopers](https://www.paldat.org/pub/Solanum_lycopersicum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopersicum) ",
       "dutch": "tomaat",
       "vorm": "О ⁄ ∆",
       "grootte": "20",
@@ -197,7 +197,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Rhamnus frangula](https://www.paldat.org/pub/Rhamnus_frangula) [pollenwiki](https://pollenwiki.org/wiki/Rhamnus_frangula) ",
+      "latin": "[Rhamnus frangula](https://www.paldat.org/pub/Rhamnus_frangula) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhamnus_frangula) ",
       "dutch": "vuilboom",
       "vorm": "∆",
       "grootte": "20",
@@ -206,7 +206,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Sedum sp.](https://www.paldat.org/pub/Sedum_sp.) [pollenwiki](https://pollenwiki.org/wiki/Sedum_sp.)",
+      "latin": "[Sedum sp.](https://www.paldat.org/pub/Sedum_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sedum_sp.)",
       "dutch": "vetblad",
       "vorm": "О ⁄ ∆",
       "grootte": "20",
@@ -215,7 +215,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Onosis spinoza](https://www.paldat.org/pub/Onosis_spinoza) [pollenwiki](https://pollenwiki.org/wiki/Onosis_spinoza) ",
+      "latin": "[Onosis spinoza](https://www.paldat.org/pub/Onosis_spinoza) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Onosis_spinoza) ",
       "dutch": "kattendoorn",
       "vorm": "ovaal",
       "grootte": "20x25",
@@ -224,7 +224,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Melilotus Hypericum perfor](https://www.paldat.org/pub/Melilotus_hypericum_perforatus) [pollenwiki](https://pollenwiki.org/wiki/Melilotus_hypericum_perforatus) ",
+      "latin": "[Melilotus Hypericum perfor](https://www.paldat.org/pub/Melilotus_hypericum_perforatus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Melilotus_hypericum_perforatus) ",
       "dutch": "Sint Janskruid",
       "vorm": "O",
       "grootte": "20(-25)",
@@ -233,7 +233,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-        "latin": "[Hypericum polyph](https://www.paldat.org/pub/Hypericum_polyphyllum) [pollenwiki](https://pollenwiki.org/wiki/Hypericum_polyphyllum) ",
+        "latin": "[Hypericum polyph](https://www.paldat.org/pub/Hypericum_polyphyllum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_polyphyllum) ",
       "dutch": "hertshooi",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
@@ -242,7 +242,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Phacelia](https://www.paldat.org/pub/Phacelia_vulgaris) [pollenwiki](https://pollenwiki.org/wiki/Phacelia_vulgaris) ",
+      "latin": "[Phacelia](https://www.paldat.org/pub/Phacelia_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_vulgaris) ",
       "dutch": "phacelia",
       "vorm": "O/zeskantig",
       "grootte": "22",
@@ -251,7 +251,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Nemophila sp.](https://www.paldat.org/pub/Nemophila_sp.) [pollenwiki](https://pollenwiki.org/wiki/Nemophila_sp.)",
+      "latin": "[Nemophila sp.](https://www.paldat.org/pub/Nemophila_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nemophila_sp.)",
       "dutch": "bosliefje",
       "vorm": "∆(/O)",
       "grootte": "22(18-22)",
@@ -260,7 +260,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Vitis vinifera](https://www.paldat.org/pub/Vitis_vinifera) [pollenwiki](https://pollenwiki.org/wiki/Vitis_vinifera) ",
+      "latin": "[Vitis vinifera](https://www.paldat.org/pub/Vitis_vinifera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vitis_vinifera) ",
       "dutch": "druif",
       "vorm": "О ⁄ ∆",
       "grootte": "22",
@@ -269,7 +269,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Prunus serotina](https://www.paldat.org/pub/Prunus_serotina) [pollenwiki](https://pollenwiki.org/wiki/Prunus_serotina) ",
+      "latin": "[Prunus serotina](https://www.paldat.org/pub/Prunus_serotina) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Prunus_serotina) ",
       "dutch": "Am. vogelkers",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
@@ -278,7 +278,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Aesculus hippocas](https://www.paldat.org/pub/Aesculus_hippocastanum) [pollenwiki](https://pollenwiki.org/wiki/Aesculus_hippocastanum)    ",
+      "latin": "[Aesculus hippocas](https://www.paldat.org/pub/Aesculus_hippocastanum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aesculus_hippocastanum)    ",
       "dutch": "paardekastanje",
       "vorm": "ovaal",
       "grootte": "24",
@@ -287,7 +287,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Prunus padus](https://www.paldat.org/pub/Prunus_padus) [pollenwiki](https://pollenwiki.org/wiki/Prunus_padus) ",
+      "latin": "[Prunus padus](https://www.paldat.org/pub/Prunus_padus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Prunus_padus) ",
       "dutch": "vogelkers",
       "vorm": "О ⁄ ∆",
       "grootte": "25",
@@ -296,7 +296,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum tuber.](https://www.paldat.org/pub/Solanum_tuberosum) [pollenwiki](https://pollenwiki.org/wiki/Solanum_tuberosum) ",
+      "latin": "[Solanum tuber.](https://www.paldat.org/pub/Solanum_tuberosum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_tuberosum) ",
       "dutch": "aardappel",
       "vorm": "O/vierhoekig",
       "grootte": "25",
@@ -305,7 +305,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Rubus sp.](https://www.paldat.org/pub/Rubus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Rubus_sp.)",
+      "latin": "[Rubus sp.](https://www.paldat.org/pub/Rubus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_sp.)",
       "dutch": "braam/framboos",
       "vorm": "∆",
       "grootte": "ca. 25",
@@ -323,7 +323,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Coryllus avelana](https://www.paldat.org/pub/Corylus_avellana) [pollenwiki](https://pollenwiki.org/wiki/Corylus_avellana) ",
+      "latin": "[Coryllus avelana](https://www.paldat.org/pub/Corylus_avellana) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylus_avellana) ",
       "dutch": "hazelaar",
       "vorm": "О ⁄ ∆",
       "grootte": "27",
@@ -332,7 +332,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Symphytum off](https://www.paldat.org/pub/Symphytum_officinale) [pollenwiki](https://pollenwiki.org/wiki/Symphytum_officinale) ",
+      "latin": "[Symphytum off](https://www.paldat.org/pub/Symphytum_officinale) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Symphytum_officinale) ",
       "dutch": "smeerwortel",
       "vorm": "ovaal",
       "grootte": "27-33",
@@ -341,7 +341,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Verbena officinalis](https://www.paldat.org/pub/Verbena_officinalis) [pollenwiki](https://pollenwiki.org/wiki/Verbena_officinalis) ",
+      "latin": "[Verbena officinalis](https://www.paldat.org/pub/Verbena_officinalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Verbena_officinalis) ",
       "dutch": "ijzerhard",
       "vorm": "О ⁄ ∆",
       "grootte": "27",
@@ -350,7 +350,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Lamium sp.](https://www.paldat.org/pub/Lamium_sp.) [pollenwiki](https://pollenwiki.org/wiki/Lamium_sp.)",
+      "latin": "[Lamium sp.](https://www.paldat.org/pub/Lamium_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lamium_sp.)",
       "dutch": "dovenetel",
       "vorm": "О ⁄ ∆",
       "grootte": "27-30",
@@ -359,7 +359,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Robinia pseudo-](https://www.paldat.org/pub/Robinia_pseudo-acacia) [pollenwiki](https://pollenwiki.org/wiki/Robinia_pseudo-acacia) ",
+      "latin": "[Robinia pseudo-](https://www.paldat.org/pub/Robinia_pseudo-acacia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudo-acacia) ",
       "dutch": "acacia",
       "vorm": "∆/O",
       "grootte": "27-31",
@@ -377,7 +377,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Aesculus carnea](https://www.paldat.org/pub/Aesculus_carnea) [pollenwiki](https://pollenwiki.org/wiki/Aesculus_carnea) ",
+      "latin": "[Aesculus carnea](https://www.paldat.org/pub/Aesculus_carnea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aesculus_carnea) ",
       "dutch": "rode paardekast",
       "vorm": "ovaal",
       "grootte": "28",
@@ -386,7 +386,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Photinia sp.](https://www.paldat.org/pub/Photinia_sp.) [pollenwiki](https://pollenwiki.org/wiki/Photinia_sp.)",
+      "latin": "[Photinia sp.](https://www.paldat.org/pub/Photinia_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Photinia_sp.)",
       "dutch": "Photinia",
       "vorm": "О ⁄ ∆",
       "grootte": "28-30",
@@ -395,7 +395,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Malus sp.](https://www.paldat.org/pub/Malus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Malus_sp.)",
+      "latin": "[Malus sp.](https://www.paldat.org/pub/Malus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Malus_sp.)",
       "dutch": "appel",
       "vorm": "∆",
       "grootte": "ca. 30",
@@ -404,7 +404,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Sarothamnus sco](https://www.paldat.org/pub/Sarothamnus_scoparius) [pollenwiki](https://pollenwiki.org/wiki/Sarothamnus_scoparius)     ",
+      "latin": "[Sarothamnus sco](https://www.paldat.org/pub/Sarothamnus_scoparius) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sarothamnus_scoparius)     ",
       "dutch": "gewone brem",
       "vorm": "ca O",
       "grootte": "30",
@@ -413,7 +413,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Allium ursinum](https://www.paldat.org/pub/Allium_ursinum) [pollenwiki](https://pollenwiki.org/wiki/Allium_ursinum) ",
+      "latin": "[Allium ursinum](https://www.paldat.org/pub/Allium_ursinum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Allium_ursinum) ",
       "dutch": "daslook",
       "vorm": "half ovaal",
       "grootte": "31(-35)",
@@ -422,7 +422,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Medicago sativa](https://www.paldat.org/pub/Medicago_sativa) [pollenwiki](https://pollenwiki.org/wiki/Medicago_sativa) ",
+      "latin": "[Medicago sativa](https://www.paldat.org/pub/Medicago_sativa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Medicago_sativa) ",
       "dutch": "luzerne",
       "vorm": "О ⁄ ∆-ovaal",
       "grootte": "32-37",
@@ -431,7 +431,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Ribes sanguineum](https://www.paldat.org/pub/Ribes_sanguineum) [pollenwiki](https://pollenwiki.org/wiki/Ribes_sanguineum) ",
+      "latin": "[Ribes sanguineum](https://www.paldat.org/pub/Ribes_sanguineum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ribes_sanguineum) ",
       "dutch": "rode ribes",
       "vorm": "O",
       "grootte": "33",
@@ -440,7 +440,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Carpinus betulus](https://www.paldat.org/pub/Carpinus_betulus) [pollenwiki](https://pollenwiki.org/wiki/Carpinus_betulus) ",
+      "latin": "[Carpinus betulus](https://www.paldat.org/pub/Carpinus_betulus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carpinus_betulus) ",
       "dutch": "haagbeuk",
       "vorm": "О ⁄ ∆",
       "grootte": "33-37",
@@ -449,7 +449,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Lathyrus sylvestris](https://www.paldat.org/pub/Lathyrus_sylvestris) [pollenwiki](https://pollenwiki.org/wiki/Lathyrus_sylvestris) ",
+      "latin": "[Lathyrus sylvestris](https://www.paldat.org/pub/Lathyrus_sylvestris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lathyrus_sylvestris) ",
       "dutch": "boslathyrus",
       "vorm": "ovaal",
       "grootte": "37",
@@ -458,7 +458,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Anchusa officinalis](https://www.paldat.org/pub/Anchusa_officinalis) [pollenwiki](https://pollenwiki.org/wiki/Anchusa_officinalis) ",
+      "latin": "[Anchusa officinalis](https://www.paldat.org/pub/Anchusa_officinalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_officinalis) ",
       "dutch": "ossetong",
       "vorm": "ovaal",
       "grootte": "37x26",
@@ -467,7 +467,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Berberis sp](https://www.paldat.org/pub/Berberis_sp.) [pollenwiki](https://pollenwiki.org/wiki/Berberis_sp.)",
+      "latin": "[Berberis sp](https://www.paldat.org/pub/Berberis_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_sp.)",
       "dutch": "zuurbes",
       "vorm": "O/onregelmatig",
       "grootte": "37-45",
@@ -476,7 +476,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Allium cepa](https://www.paldat.org/pub/Allium_cepa) [pollenwiki](https://pollenwiki.org/wiki/Allium_cepa) ",
+      "latin": "[Allium cepa](https://www.paldat.org/pub/Allium_cepa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Allium_cepa) ",
       "dutch": "ui",
       "vorm": "half ovaal",
       "grootte": "39",
@@ -485,7 +485,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Fumaria officinalis [pollenwiki](https://pollenwiki.org/wiki/Fumaria_officinalis) ",
+      "latin": "Fumaria officinalis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fumaria_officinalis) ",
       "dutch": "duivekervel",
       "vorm": "□",
       "grootte": "39",
@@ -494,7 +494,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Gramineae](https://www.paldat.org/pub/Gramineae) [pollenwiki](https://pollenwiki.org/wiki/Gramineae) ",
+      "latin": "[Gramineae](https://www.paldat.org/pub/Gramineae) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Gramineae) ",
       "dutch": "grassen",
       "vorm": "O",
       "grootte": "ca 40",
@@ -503,7 +503,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Phaseolus coccin](https://www.paldat.org/pub/Phaseolus_coccineus) [pollenwiki](https://pollenwiki.org/wiki/Phaseolus_coccineus)  ",
+      "latin": "[Phaseolus coccin](https://www.paldat.org/pub/Phaseolus_coccineus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phaseolus_coccineus)  ",
       "dutch": "pronkboon",
       "vorm": "О ⁄ ∆",
       "grootte": "ca 40",
@@ -512,7 +512,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Mahonia aquifolia](https://www.paldat.org/pub/Mahonia_aquifolia) [pollenwiki](https://pollenwiki.org/wiki/Mahonia_aquifolia) ",
+      "latin": "[Mahonia aquifolia](https://www.paldat.org/pub/Mahonia_aquifolia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mahonia_aquifolia) ",
       "dutch": "mahonia",
       "vorm": "O/onregelmatig",
       "grootte": "40-50",
@@ -521,7 +521,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Eschscholtzia calif](https://www.paldat.org/pub/Eschscholtzia_californica) [pollenwiki](https://pollenwiki.org/wiki/Eschscholtzia_californica) ",
+      "latin": "[Eschscholtzia calif](https://www.paldat.org/pub/Eschscholtzia_californica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eschscholtzia_californica) ",
       "dutch": "slaapmutsje",
       "vorm": "O/4-6 kantig",
       "grootte": "40(30-47)",
@@ -530,7 +530,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Eleagnus angustif](https://www.paldat.org/pub/Eleagnus_angustifolius) [pollenwiki](https://pollenwiki.org/wiki/Eleagnus_angustifolius) ",
+      "latin": "[Eleagnus angustif](https://www.paldat.org/pub/Eleagnus_angustifolius) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eleagnus_angustifolius) ",
       "dutch": "olijfwilg",
       "vorm": "О ⁄ ∆",
       "grootte": "45",
@@ -539,7 +539,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Anchusa arvensis](https://www.paldat.org/pub/Anchusa_arvensis) [pollenwiki](https://pollenwiki.org/wiki/Anchusa_arvensis) ",
+      "latin": "[Anchusa arvensis](https://www.paldat.org/pub/Anchusa_arvensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_arvensis) ",
       "dutch": "kromhals",
       "vorm": "ovaal",
       "grootte": "48",
@@ -548,7 +548,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-          "latin": "[Viola](https://www.paldat.org/pub/Viola_sp.) [pollenwiki](https://pollenwiki.org/wiki/Viola_sp.) ",
+          "latin": "[Viola](https://www.paldat.org/pub/Viola_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viola_sp.) ",
       "dutch": "viool",
       "vorm": "vijfkantig",
       "grootte": "ca 60",
@@ -557,7 +557,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Chamerion angust](https://www.paldat.org/pub/Chamerion_angustifolium) [pollenwiki](https://pollenwiki.org/wiki/Chamerion_angustifolium) ",
+      "latin": "[Chamerion angust](https://www.paldat.org/pub/Chamerion_angustifolium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chamerion_angustifolium) ",
       "dutch": "wilgeroosje",
       "vorm": "О ⁄ ∆",
       "grootte": "62-80",
@@ -566,7 +566,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Viola tricolor](https://www.paldat.org/pub/Viola_tricolor) [pollenwiki](https://pollenwiki.org/wiki/Viola_tricolor) ",
+      "latin": "[Viola tricolor](https://www.paldat.org/pub/Viola_tricolor) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viola_tricolor) ",
       "dutch": "driekl. viooltje",
       "vorm": "4-5-hoekig",
       "grootte": "70",
@@ -575,7 +575,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Zea](https://www.paldat.org/pub/Zea_mays) [pollenwiki](https://pollenwiki.org/wiki/Zea_mays) ",
+      "latin": "[Zea](https://www.paldat.org/pub/Zea_mays) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Zea_mays) ",
       "dutch": "maïs",
       "vorm": "O",
       "grootte": "80",
@@ -584,7 +584,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Vinca sp.](https://www.paldat.org/pub/Vinca_rosea) [pollenwiki](https://pollenwiki.org/wiki/Vinca_rosea) ",
+      "latin": "[Vinca sp.](https://www.paldat.org/pub/Vinca_rosea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vinca_rosea) ",
       "dutch": "maagdenpalm",
       "vorm": "O",
       "grootte": "80",
@@ -593,7 +593,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Larix decidua](https://www.paldat.org/pub/Larix_decidua) [pollenwiki](https://pollenwiki.org/wiki/Larix_decidua) ",
+      "latin": "[Larix decidua](https://www.paldat.org/pub/Larix_decidua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Larix_decidua) ",
       "dutch": "larix",
       "vorm": "O",
       "grootte": "92(80-104)",
@@ -602,7 +602,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Hydrangea macr.](https://www.paldat.org/pub/Hydrangea_macrophylla) [pollenwiki](https://pollenwiki.org/wiki/Hydrangea_macrophylla) ",
+      "latin": "[Hydrangea macr.](https://www.paldat.org/pub/Hydrangea_macrophylla) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hydrangea_macrophylla) ",
       "dutch": "hortensia",
       "vorm": "ca. O/onregelm",
       "grootte": "12-14",
@@ -611,7 +611,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Philadelphus](https://www.paldat.org/pub/Philadelphus_virginianus) [pollenwiki](https://pollenwiki.org/wiki/Philadelphus_virginianus) ",
+      "latin": "[Philadelphus](https://www.paldat.org/pub/Philadelphus_virginianus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Philadelphus_virginianus) ",
       "dutch": "boerenjasmijn",
       "vorm": "О ⁄ ∆",
       "grootte": "14-16",
@@ -620,7 +620,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Deutzia sp.](https://www.paldat.org/pub/Deutzia_sp.) [pollenwiki](https://pollenwiki.org/wiki/Deutzia_sp.)",
+      "latin": "[Deutzia sp.](https://www.paldat.org/pub/Deutzia_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_sp.)",
       "dutch": "Deutzia",
       "vorm": "О ⁄ ∆",
       "grootte": "17",
@@ -629,7 +629,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Filipendula [pollenwiki](https://pollenwiki.org/wiki/Filipendula) ",
+      "latin": "Filipendula [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Filipendula) ",
       "dutch": "moerasspirea",
       "vorm": "ca O",
       "grootte": "15-20",
@@ -638,7 +638,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Tamarix](https://www.paldat.org/pub/Tamarix_gallica) [pollenwiki](https://pollenwiki.org/wiki/Tamarix_gallica) ",
+      "latin": "[Tamarix](https://www.paldat.org/pub/Tamarix_gallica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tamarix_gallica) ",
       "dutch": "Tamarix",
       "vorm": "ca O",
       "grootte": "15",
@@ -647,7 +647,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Veronica sp.](https://www.paldat.org/pub/Veronica_sp.) [pollenwiki](https://pollenwiki.org/wiki/Veronica_sp.) ",
+      "latin": "[Veronica sp.](https://www.paldat.org/pub/Veronica_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Veronica_sp.) ",
       "dutch": "ereprijs soort",
       "vorm": "ca O",
       "grootte": "15",
@@ -656,7 +656,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Linaria cymbalaria](https://www.paldat.org/pub/Linaria_cymbalaria) [pollenwiki](https://pollenwiki.org/wiki/Linaria_cymbalaria) ",
+      "latin": "[Linaria cymbalaria](https://www.paldat.org/pub/Linaria_cymbalaria) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Linaria_cymbalaria) ",
       "dutch": "muurleeuwenbek",
       "vorm": "O",
       "grootte": "17",
@@ -665,7 +665,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Anthirrhinum](https://www.paldat.org/pub/Anthirrhinum_majus) [pollenwiki](https://pollenwiki.org/wiki/Anthirrhinum_majus) ",
+      "latin": "[Anthirrhinum](https://www.paldat.org/pub/Anthirrhinum_majus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthirrhinum_majus) ",
       "dutch": "leeuwebek",
       "vorm": "O",
       "grootte": "16-18",
@@ -674,7 +674,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Galium sylvatica](https://www.paldat.org/pub/Galium_sylvaticum) [pollenwiki](https://pollenwiki.org/wiki/Galium_sylvaticum) ",
+      "latin": "[Galium sylvatica](https://www.paldat.org/pub/Galium_sylvaticum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galium_sylvaticum) ",
       "dutch": "lieve vrouwe beds",
       "vorm": "ca O",
       "grootte": "17",
@@ -683,7 +683,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Salix sp.](https://www.paldat.org/pub/Salix_sp.) [pollenwiki](https://pollenwiki.org/wiki/Salix_sp.)   ",
+      "latin": "[Salix sp.](https://www.paldat.org/pub/Salix_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Salix_sp.)   ",
       "dutch": "wilg",
       "vorm": "ca O",
       "grootte": "17-20",
@@ -692,7 +692,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Thalictrum sp.](https://www.paldat.org/pub/Thalictrum_sp.) [pollenwiki](https://pollenwiki.org/wiki/Thalictrum_sp.) ",
+      "latin": "[Thalictrum sp.](https://www.paldat.org/pub/Thalictrum_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Thalictrum_sp.) ",
       "dutch": "ruit",
       "vorm": "O of polygonaal",
       "grootte": "17-20",
@@ -701,7 +701,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Osmanthus sp.](https://www.paldat.org/pub/Osmanthus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Osmanthus_sp.) ",
+      "latin": "[Osmanthus sp.](https://www.paldat.org/pub/Osmanthus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Osmanthus_sp.) ",
       "dutch": "Osmanthus",
       "vorm": "О ⁄ ∆",
       "grootte": "18-20",
@@ -710,7 +710,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Linaria vulg](https://www.paldat.org/pub/Linaria_vulgaris) [pollenwiki](https://pollenwiki.org/wiki/Linaria_vulgaris) ",
+      "latin": "[Linaria vulg](https://www.paldat.org/pub/Linaria_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Linaria_vulgaris) ",
       "dutch": "vlasleeuwenbek",
       "vorm": "ca O",
       "grootte": "18",
@@ -719,7 +719,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Alyssum sp.](https://www.paldat.org/pub/Alyssum_sp.) [pollenwiki](https://pollenwiki.org/wiki/Alyssum_sp.)",
+      "latin": "[Alyssum sp.](https://www.paldat.org/pub/Alyssum_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Alyssum_sp.)",
       "dutch": "schildzaad",
       "vorm": "ca O",
       "grootte": "18",
@@ -728,7 +728,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Sambucus nigra](https://www.paldat.org/pub/Sambucus_nigra) [pollenwiki](https://pollenwiki.org/wiki/Sambucus_nigra) ",
+      "latin": "[Sambucus nigra](https://www.paldat.org/pub/Sambucus_nigra) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sambucus_nigra) ",
       "dutch": "vlier",
       "vorm": "ca O",
       "grootte": "18",
@@ -737,7 +737,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Sambucus ebulus](https://www.paldat.org/pub/Sambucus_ebulus) [pollenwiki](https://pollenwiki.org/wiki/Sambucus_ebulus) ",
+      "latin": "[Sambucus ebulus](https://www.paldat.org/pub/Sambucus_ebulus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sambucus_ebulus) ",
       "dutch": "bergvlier",
       "vorm": "ca O",
       "grootte": "18-24",
@@ -746,7 +746,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Sophora japonica](https://www.paldat.org/pub/Sophora_japonica) [pollenwiki](https://pollenwiki.org/wiki/Sophora_japonica) ",
+      "latin": "[Sophora japonica](https://www.paldat.org/pub/Sophora_japonica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sophora_japonica) ",
       "dutch": "honingboom",
       "vorm": "О ⁄ ∆/iets ovaal",
       "grootte": "ca.18(x15)reticulaat",
@@ -755,7 +755,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Mercurialis annua](https://www.paldat.org/pub/Mercurialis_annua) [pollenwiki](https://pollenwiki.org/wiki/Mercurialis_annua) ",
+      "latin": "[Mercurialis annua](https://www.paldat.org/pub/Mercurialis_annua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mercurialis_annua) ",
       "dutch": "bingelkruid",
       "vorm": "ca O",
       "grootte": "18-23",
@@ -764,7 +764,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Primula vulgaris](https://www.paldat.org/pub/Primula_vulgaris) [pollenwiki](https://pollenwiki.org/wiki/Primula_vulgaris) ",
+      "latin": "[Primula vulgaris](https://www.paldat.org/pub/Primula_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Primula_vulgaris) ",
       "dutch": "sleutelbloem",
       "vorm": "O",
       "grootte": "18-19",
@@ -773,7 +773,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Fallopia baldschur](https://www.paldat.org/pub/Fallopia_baldschuriana) [pollenwiki](https://pollenwiki.org/wiki/Fallopia_baldschuriana) ",
+      "latin": "[Fallopia baldschur](https://www.paldat.org/pub/Fallopia_baldschuriana) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fallopia_baldschuriana) ",
       "dutch": "Chin. Bruidssluier",
       "vorm": "ca O",
       "grootte": "19",
@@ -782,7 +782,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Asperula odorata](https://www.paldat.org/pub/Asperula_odorata) [pollenwiki](https://pollenwiki.org/wiki/Asperula_odorata) ",
+      "latin": "[Asperula odorata](https://www.paldat.org/pub/Asperula_odorata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asperula_odorata) ",
       "dutch": "lievevrouwebedstro",
       "vorm": "O",
       "grootte": "20",
@@ -791,7 +791,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Humulus](https://www.paldat.org/pub/Humulus_viridis) [pollenwiki](https://pollenwiki.org/wiki/Humulus_viridis) ",
+      "latin": "[Humulus](https://www.paldat.org/pub/Humulus_viridis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Humulus_viridis) ",
       "dutch": "hop",
       "vorm": "O",
       "grootte": "20",
@@ -800,7 +800,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Diplotaxis tenuifolia](https://www.paldat.org/pub/Diplotaxis_tenuifolia) [pollenwiki](https://pollenwiki.org/wiki/Diplotaxis_tenuifolia)   ",
+      "latin": "[Diplotaxis tenuifolia](https://www.paldat.org/pub/Diplotaxis_tenuifolia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Diplotaxis_tenuifolia)   ",
       "dutch": "rucola",
       "vorm": "О ⁄ ∆",
       "grootte": "20",
@@ -809,7 +809,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Verbascum nigrum](https://www.paldat.org/pub/Verbascum_nigrum) [pollenwiki](https://pollenwiki.org/wiki/Verbascum_nigrum) ",
+      "latin": "[Verbascum nigrum](https://www.paldat.org/pub/Verbascum_nigrum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Verbascum_nigrum) ",
       "dutch": "koningskaars",
       "vorm": "О ⁄ ∆",
       "grootte": "20-23",
@@ -818,7 +818,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Hypericum perfo-](https://www.paldat.org/pub/Hypericum_perforatum) [pollenwiki](https://pollenwiki.org/wiki/Hypericum_perforatum) ",
+      "latin": "[Hypericum perfo-](https://www.paldat.org/pub/Hypericum_perforatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_perforatum) ",
       "dutch": "St. Janskruid",
       "vorm": "ca O",
       "grootte": "20- 22",
@@ -827,7 +827,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Clematis vitalba](https://www.paldat.org/pub/Clematis_vitalba) [pollenwiki](https://pollenwiki.org/wiki/Clematis_vitalba) ",
+      "latin": "[Clematis vitalba](https://www.paldat.org/pub/Clematis_vitalba) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Clematis_vitalba) ",
       "dutch": "bosrank",
       "vorm": "ca O",
       "grootte": "20-22",
@@ -836,7 +836,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Asperula odorata](https://www.paldat.org/pub/Asperula_odorata) [pollenwiki](https://pollenwiki.org/wiki/Asperula_odorata) ",
+      "latin": "[Asperula odorata](https://www.paldat.org/pub/Asperula_odorata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asperula_odorata) ",
       "dutch": "lieve vr. bedstro",
       "vorm": "O",
       "grootte": "20-24",
@@ -845,7 +845,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Limnanthes dougl](https://www.paldat.org/pub/Limnanthes_douglasii) [pollenwiki](https://pollenwiki.org/wiki/Limnanthes_douglasii) ",
+      "latin": "[Limnanthes dougl](https://www.paldat.org/pub/Limnanthes_douglasii) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Limnanthes_douglasii) ",
       "dutch": "moerasbloem",
       "vorm": "onregelm. ovaal",
       "grootte": "20x16",
@@ -854,7 +854,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Fraxinus ornus](https://www.paldat.org/pub/Fraxinus_ornus) [pollenwiki](https://pollenwiki.org/wiki/Fraxinus_ornus) ",
+      "latin": "[Fraxinus ornus](https://www.paldat.org/pub/Fraxinus_ornus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fraxinus_ornus) ",
       "dutch": "es",
       "vorm": "O/vierkantig",
       "grootte": "21-23",
@@ -863,7 +863,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Olea Daphne mezereum](https://www.paldat.org/pub/Olea_daphne_mezereum) [pollenwiki](https://pollenwiki.org/wiki/Olea_daphne_mezereum) ",
+      "latin": "[Olea Daphne mezereum](https://www.paldat.org/pub/Olea_daphne_mezereum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Olea_daphne_mezereum) ",
       "dutch": "peperboompje",
       "vorm": "O",
       "grootte": "21",
@@ -872,7 +872,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Betula](https://www.paldat.org/pub/Betula_sp.) [pollenwiki](https://pollenwiki.org/wiki/Betula_sp.)",
+      "latin": "[Betula](https://www.paldat.org/pub/Betula_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Betula_sp.)",
       "dutch": "berk",
       "vorm": "О ⁄ ∆",
       "grootte": "21",
@@ -881,7 +881,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Melampyrum](https://www.paldat.org/pub/Melampyrum_pratense) [pollenwiki](https://pollenwiki.org/wiki/Melampyrum_pratense) ",
+      "latin": "[Melampyrum](https://www.paldat.org/pub/Melampyrum_pratense) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Melampyrum_pratense) ",
       "dutch": "hengel",
       "vorm": "О ⁄ ∆",
       "grootte": "21",
@@ -890,7 +890,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Ornithopus perpus](https://www.paldat.org/pub/Ornithopus_perpus) [pollenwiki](https://pollenwiki.org/wiki/Ornithopus_perpus) ",
+      "latin": "[Ornithopus perpus](https://www.paldat.org/pub/Ornithopus_perpus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ornithopus_perpus) ",
       "dutch": "Serradella",
       "vorm": "O/ovaal",
       "grootte": "21",
@@ -899,7 +899,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Platanus hybr](https://www.paldat.org/pub/Platanus_hybrida) [pollenwiki](https://pollenwiki.org/wiki/Platanus_hybrida)    ",
+      "latin": "[Platanus hybr](https://www.paldat.org/pub/Platanus_hybrida) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Platanus_hybrida)    ",
       "dutch": "plataan",
       "vorm": "O/onregelmatig",
       "grootte": "21-24",
@@ -908,7 +908,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Deutzia sp.](https://www.paldat.org/pub/Deutzia_sp.) [pollenwiki](https://pollenwiki.org/wiki/Deutzia_sp.)",
+      "latin": "[Deutzia sp.](https://www.paldat.org/pub/Deutzia_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_sp.)",
       "dutch": "Deutzia",
       "vorm": "ca O",
       "grootte": "22",
@@ -917,7 +917,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Eruca sativa](https://www.paldat.org/pub/Eruca_sativa) [pollenwiki](https://pollenwiki.org/wiki/Eruca_sativa) ",
+      "latin": "[Eruca sativa](https://www.paldat.org/pub/Eruca_sativa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eruca_sativa) ",
       "dutch": "Eruca",
       "vorm": "ca О ⁄ ovaal",
       "grootte": "22-25",
@@ -926,7 +926,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Reseda lutea](https://www.paldat.org/pub/Reseda_lutea) [pollenwiki](https://pollenwiki.org/wiki/Reseda_lutea) ",
+      "latin": "[Reseda lutea](https://www.paldat.org/pub/Reseda_lutea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Reseda_lutea) ",
       "dutch": "wilde reseda",
       "vorm": "О ⁄ ∆",
       "grootte": "22-23",
@@ -935,7 +935,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Lysimachia](https://www.paldat.org/pub/Lysimachia_vulgaris) [pollenwiki](https://pollenwiki.org/wiki/Lysimachia_vulgaris) ",
+      "latin": "[Lysimachia](https://www.paldat.org/pub/Lysimachia_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lysimachia_vulgaris) ",
       "dutch": "bastaardwederik",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
@@ -944,7 +944,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Raphanus raph](https://www.paldat.org/pub/Raphanus_raphanistrum) [pollenwiki](https://pollenwiki.org/wiki/Raphanus_raphanistrum) ",
+      "latin": "[Raphanus raph](https://www.paldat.org/pub/Raphanus_raphanistrum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Raphanus_raphanistrum) ",
       "dutch": "bladrammenas",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
@@ -953,7 +953,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Xanthium italicum](https://www.paldat.org/pub/Xanthium_italicum) [pollenwiki](https://pollenwiki.org/wiki/Xanthium_italicum) ",
+      "latin": "[Xanthium italicum](https://www.paldat.org/pub/Xanthium_italicum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Xanthium_italicum) ",
       "dutch": "stekelnoot sp.",
       "vorm": "O",
       "grootte": "23",
@@ -962,7 +962,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Genista anglica](https://www.paldat.org/pub/Genista_anglica) [pollenwiki](https://pollenwiki.org/wiki/Genista_anglica) ",
+      "latin": "[Genista anglica](https://www.paldat.org/pub/Genista_anglica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Genista_anglica) ",
       "dutch": "stekelbrem",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
@@ -971,7 +971,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Clethra alnifolia](https://www.paldat.org/pub/Clethra_alnifolia) [pollenwiki](https://pollenwiki.org/wiki/Clethra_alnifolia)   ",
+      "latin": "[Clethra alnifolia](https://www.paldat.org/pub/Clethra_alnifolia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Clethra_alnifolia)   ",
       "dutch": "Clethra",
       "vorm": "О ⁄ ∆",
       "grootte": "23-25",
@@ -980,7 +980,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Viburnum opulus](https://www.paldat.org/pub/Viburnum_opulus) [pollenwiki](https://pollenwiki.org/wiki/Viburnum_opulus) ",
+      "latin": "[Viburnum opulus](https://www.paldat.org/pub/Viburnum_opulus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viburnum_opulus) ",
       "dutch": "Gelderse roos",
       "vorm": "О ⁄ ∆",
       "grootte": "23-25",
@@ -989,7 +989,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Pyracantha coccin](https://www.paldat.org/pub/Pyracantha_coccinia) [pollenwiki](https://pollenwiki.org/wiki/Pyracantha_coccinia) ",
+      "latin": "[Pyracantha coccin](https://www.paldat.org/pub/Pyracantha_coccinia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pyracantha_coccinia) ",
       "dutch": "vuurdoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "23-27",
@@ -998,7 +998,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Verbascum nigrum](https://www.paldat.org/pub/Verbascum_nigrum) [pollenwiki](https://pollenwiki.org/wiki/Verbascum_nigrum) ",
+      "latin": "[Verbascum nigrum](https://www.paldat.org/pub/Verbascum_nigrum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Verbascum_nigrum) ",
       "dutch": "zwarte toorts",
       "vorm": "О ⁄ ∆",
       "grootte": "23-28",
@@ -1007,7 +1007,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Populus sp](https://www.paldat.org/pub/Populus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Populus_sp.)",
+      "latin": "[Populus sp](https://www.paldat.org/pub/Populus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Populus_sp.)",
       "dutch": "populier",
       "vorm": "onregelmatig O",
       "grootte": "23-31",
@@ -1016,7 +1016,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Granulair Anthriscus sylv](https://www.paldat.org/pub/Anthriscus_sylvestris) [pollenwiki](https://pollenwiki.org/wiki/Anthriscus_sylvestris)",
+      "latin": "[Granulair Anthriscus sylv](https://www.paldat.org/pub/Anthriscus_sylvestris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthriscus_sylvestris)",
       "dutch": "fluitekruid",
       "vorm": "ovaal",
       "grootte": "24x15",
@@ -1025,7 +1025,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Digitalis purpurea](https://www.paldat.org/pub/Digitalis_purpurea) [pollenwiki](https://pollenwiki.org/wiki/Digitalis_purpurea)",
+      "latin": "[Digitalis purpurea](https://www.paldat.org/pub/Digitalis_purpurea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Digitalis_purpurea)",
       "dutch": "vingerhoedskruid",
       "vorm": "О ⁄ ∆",
       "grootte": "24",
@@ -1034,7 +1034,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Euodia hupehensis](https://www.paldat.org/pub/Euodia_hupehensis) [pollenwiki](https://pollenwiki.org/wiki/Euodia_hupehensis)",
+      "latin": "[Euodia hupehensis](https://www.paldat.org/pub/Euodia_hupehensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Euodia_hupehensis)",
       "dutch": "honingboom",
       "vorm": "ca O",
       "grootte": "24(-27)",
@@ -1043,7 +1043,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Rumex](https://www.paldat.org/pub/Rumex_acetosella) [pollenwiki](https://pollenwiki.org/wiki/Rumex_acetosella) ",
+      "latin": "[Rumex](https://www.paldat.org/pub/Rumex_acetosella) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rumex_acetosella) ",
       "dutch": "zuring",
       "vorm": "O",
       "grootte": "24",
@@ -1052,7 +1052,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Polygonum convol](https://www.paldat.org/pub/Polygonum_convolutum) [pollenwiki](https://pollenwiki.org/wiki/Polygonum_convolutum) ",
+      "latin": "[Polygonum convol](https://www.paldat.org/pub/Polygonum_convolutum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Polygonum_convolutum) ",
       "dutch": "zwaluwtong",
       "vorm": "O",
       "grootte": "24",
@@ -1061,7 +1061,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Rhus chinensis](https://www.paldat.org/pub/Rhus_chinensis) [pollenwiki](https://pollenwiki.org/wiki/Rhus_chinensis) ",
+      "latin": "[Rhus chinensis](https://www.paldat.org/pub/Rhus_chinensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhus_chinensis) ",
       "dutch": "Chinese sumac",
       "vorm": "О ⁄ ∆",
       "grootte": "24-25",
@@ -1070,7 +1070,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Ailanthus](https://www.paldat.org/pub/Ailanthus_altissima) [pollenwiki](https://pollenwiki.org/wiki/Ailanthus_altissima) ",
+      "latin": "[Ailanthus](https://www.paldat.org/pub/Ailanthus_altissima) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ailanthus_altissima) ",
       "dutch": "hemelboom",
       "vorm": "∆/O",
       "grootte": "25",
@@ -1079,7 +1079,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Daucus carota](https://www.paldat.org/pub/Daucus_carota) [pollenwiki](https://pollenwiki.org/wiki/Daucus_carota) ",
+      "latin": "[Daucus carota](https://www.paldat.org/pub/Daucus_carota) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Daucus_carota) ",
       "dutch": "wilde wortel",
       "vorm": "ovaal",
       "grootte": "25x12",
@@ -1088,7 +1088,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Anethum graveole](https://www.paldat.org/pub/Anethum_graveolens) [pollenwiki](https://pollenwiki.org/wiki/Anethum_graveolens) ",
+      "latin": "[Anethum graveole](https://www.paldat.org/pub/Anethum_graveolens) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anethum_graveolens) ",
       "dutch": "dille",
       "vorm": "ovaal",
       "grootte": "25x13",
@@ -1097,7 +1097,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Foeniculum vulga](https://www.paldat.org/pub/Foeniculum_vulgare) [pollenwiki](https://pollenwiki.org/wiki/Foeniculum_vulgare) ",
+      "latin": "[Foeniculum vulga](https://www.paldat.org/pub/Foeniculum_vulgare) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Foeniculum_vulgare) ",
       "dutch": "venkel",
       "vorm": "ovaal/iets onregelm",
       "grootte": "25x14",
@@ -1106,7 +1106,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Asparagus](https://www.paldat.org/pub/Asparagus_officinalis) [pollenwiki](https://pollenwiki.org/wiki/Asparagus_officinalis) ",
+      "latin": "[Asparagus](https://www.paldat.org/pub/Asparagus_officinalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_officinalis) ",
       "dutch": "asperge",
       "vorm": "onregelmatig",
       "grootte": "25",
@@ -1115,7 +1115,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cardamine praten](https://www.paldat.org/pub/Cardamine_pratense) [pollenwiki](https://pollenwiki.org/wiki/Cardamine_pratense) ",
+      "latin": "[Cardamine praten](https://www.paldat.org/pub/Cardamine_pratense) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cardamine_pratense) ",
       "dutch": "pinksterbloem",
       "vorm": "ca O",
       "grootte": "25",
@@ -1124,7 +1124,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Ajuga reptans](https://www.paldat.org/pub/Ajuga_reptans) [pollenwiki](https://pollenwiki.org/wiki/Ajuga_reptans) ",
+      "latin": "[Ajuga reptans](https://www.paldat.org/pub/Ajuga_reptans) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ajuga_reptans) ",
       "dutch": "zenegroen",
       "vorm": "∆/O",
       "grootte": "25",
@@ -1133,7 +1133,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cornus mas](https://www.paldat.org/pub/Cornus_mas) [pollenwiki](https://pollenwiki.org/wiki/Cornus_mas) ",
+      "latin": "[Cornus mas](https://www.paldat.org/pub/Cornus_mas) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_mas) ",
       "dutch": "gele kornoelje",
       "vorm": "О ⁄ ∆",
       "grootte": "25",
@@ -1142,7 +1142,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cercis siliquastrum](https://www.paldat.org/pub/Cercis_siliquastrum) [pollenwiki](https://pollenwiki.org/wiki/Cercis_siliquastrum) ",
+      "latin": "[Cercis siliquastrum](https://www.paldat.org/pub/Cercis_siliquastrum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cercis_siliquastrum) ",
       "dutch": "Judasboom",
       "vorm": "О ⁄ ∆",
       "grootte": "25(-28)",
@@ -1151,7 +1151,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Taxus baccata](https://www.paldat.org/pub/Taxus_baccata) [pollenwiki](https://pollenwiki.org/wiki/Taxus_baccata) ",
+      "latin": "[Taxus baccata](https://www.paldat.org/pub/Taxus_baccata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taxus_baccata) ",
       "dutch": "taxus",
       "vorm": "onregelmatig O",
       "grootte": "25-29",
@@ -1160,7 +1160,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Hippophaë rhamn](https://www.paldat.org/pub/Hippophaë_rhamnoides) [pollenwiki](https://pollenwiki.org/wiki/Hippophaë_rhamnoides)   ",
+      "latin": "[Hippophaë rhamn](https://www.paldat.org/pub/Hippophaë_rhamnoides) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hippophaë_rhamnoides)   ",
       "dutch": "duindoorn",
       "vorm": "ca. O",
       "grootte": "25",
@@ -1169,7 +1169,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Parnassia palustris](https://www.paldat.org/pub/Parnassia_palustris) [pollenwiki](https://pollenwiki.org/wiki/Parnassia_palustris) ",
+      "latin": "[Parnassia palustris](https://www.paldat.org/pub/Parnassia_palustris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Parnassia_palustris) ",
       "dutch": "Parnassia",
       "vorm": "iets ovaal",
       "grootte": "25-27x23",
@@ -1178,7 +1178,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Fallopia japonica](https://www.paldat.org/pub/Fallopia_japonica) [pollenwiki](https://pollenwiki.org/wiki/Fallopia_japonica) ",
+      "latin": "[Fallopia japonica](https://www.paldat.org/pub/Fallopia_japonica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fallopia_japonica) ",
       "dutch": "japanse duizendkn",
       "vorm": "ca O",
       "grootte": "25-27",
@@ -1187,7 +1187,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cakile maritima](https://www.paldat.org/pub/Cakile_maritima) [pollenwiki](https://pollenwiki.org/wiki/Cakile_maritima) ",
+      "latin": "[Cakile maritima](https://www.paldat.org/pub/Cakile_maritima) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cakile_maritima) ",
       "dutch": "zeeraket",
       "vorm": "O",
       "grootte": "25-30",
@@ -1196,7 +1196,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Corylopsis parcifl](https://www.paldat.org/pub/Corylopsis_parciflora) [pollenwiki](https://pollenwiki.org/wiki/Corylopsis_parciflora) ",
+      "latin": "[Corylopsis parcifl](https://www.paldat.org/pub/Corylopsis_parciflora) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylopsis_parciflora) ",
       "dutch": "schijnhazelaar",
       "vorm": "ca O",
       "grootte": "25-32",
@@ -1205,7 +1205,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Juniperus commu](https://www.paldat.org/pub/Juniperus_communis) [pollenwiki](https://pollenwiki.org/wiki/Juniperus_communis) ",
+      "latin": "[Juniperus commu](https://www.paldat.org/pub/Juniperus_communis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Juniperus_communis) ",
       "dutch": "jeneverbes",
       "vorm": "O",
       "grootte": "26",
@@ -1214,7 +1214,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Staphylea pinnata](https://www.paldat.org/pub/Staphylea_pinnata) [pollenwiki](https://pollenwiki.org/wiki/Staphylea_pinnata) ",
+      "latin": "[Staphylea pinnata](https://www.paldat.org/pub/Staphylea_pinnata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Staphylea_pinnata) ",
       "dutch": "pimpernoot",
       "vorm": "Ο/∆/□",
       "grootte": "45",
@@ -1223,7 +1223,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Astrantia major](https://www.paldat.org/pub/Astrantia_major) [pollenwiki](https://pollenwiki.org/wiki/Astrantia_major)   ",
+      "latin": "[Astrantia major](https://www.paldat.org/pub/Astrantia_major) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Astrantia_major)   ",
       "dutch": "Zeeuws knoopje",
       "vorm": "ovaal",
       "grootte": "45x20",
@@ -1232,7 +1232,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Narcissus sp.](https://www.paldat.org/pub/Narcissus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Narcissus_sp.)",
+      "latin": "[Narcissus sp.](https://www.paldat.org/pub/Narcissus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Narcissus_sp.)",
       "dutch": "narcis",
       "vorm": "halfovaal",
       "grootte": "45-50",
@@ -1241,7 +1241,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Vicia faba](https://www.paldat.org/pub/Vicia_faba) [pollenwiki](https://pollenwiki.org/wiki/Vicia_faba) ",
+      "latin": "[Vicia faba](https://www.paldat.org/pub/Vicia_faba) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vicia_faba) ",
       "dutch": "tuinboon",
       "vorm": "ovaal",
       "grootte": "47",
@@ -1250,7 +1250,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Trifolium incarnat](https://www.paldat.org/pub/Trifolium_incarnatum) [pollenwiki](https://pollenwiki.org/wiki/Trifolium_incarnatum) ",
+      "latin": "[Trifolium incarnat](https://www.paldat.org/pub/Trifolium_incarnatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_incarnatum) ",
       "dutch": "incarnaatklaver",
       "vorm": "ovaal",
       "grootte": "47",
@@ -1259,7 +1259,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Centaurea montan](https://www.paldat.org/pub/Centaurea_montana) [pollenwiki](https://pollenwiki.org/wiki/Centaurea_montana) ",
+      "latin": "[Centaurea montan](https://www.paldat.org/pub/Centaurea_montana) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_montana) ",
       "dutch": "bergcentaurie",
       "vorm": "ovaal",
       "grootte": "47",
@@ -1268,7 +1268,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Nigella](https://www.paldat.org/pub/Nigella_sativa) [pollenwiki](https://pollenwiki.org/wiki/Nigella_sativa) ",
+      "latin": "[Nigella](https://www.paldat.org/pub/Nigella_sativa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nigella_sativa) ",
       "dutch": "Nigelle",
       "vorm": "∆",
       "grootte": "47",
@@ -1277,7 +1277,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Pisum](https://www.paldat.org/pub/Pisum_sativum) [pollenwiki](https://pollenwiki.org/wiki/Pisum_sativum) ",
+      "latin": "[Pisum](https://www.paldat.org/pub/Pisum_sativum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pisum_sativum) ",
       "dutch": "erwt",
       "vorm": "ovaal",
       "grootte": "48",
@@ -1286,7 +1286,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cornus sanguinea](https://www.paldat.org/pub/Cornus_sanguinea) [pollenwiki](https://pollenwiki.org/wiki/Cornus_sanguinea) ",
+      "latin": "[Cornus sanguinea](https://www.paldat.org/pub/Cornus_sanguinea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea) ",
       "dutch": "rode kornoelje",
       "vorm": "O/∆/ovaal",
       "grootte": "50",
@@ -1295,7 +1295,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Scilla nonscripta](https://www.paldat.org/pub/Scilla_nonscripta) [pollenwiki](https://pollenwiki.org/wiki/Scilla_nonscripta) ",
+      "latin": "[Scilla nonscripta](https://www.paldat.org/pub/Scilla_nonscripta) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Scilla_nonscripta) ",
       "dutch": "wilde hyacint",
       "vorm": "ca ovaal",
       "grootte": "50",
@@ -1304,7 +1304,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Colchicinum autu](https://www.paldat.org/pub/Colchicinum_autumnale) [pollenwiki](https://pollenwiki.org/wiki/Colchicinum_autumnale) ",
+      "latin": "[Colchicinum autu](https://www.paldat.org/pub/Colchicinum_autumnale) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicinum_autumnale) ",
       "dutch": "herfsttijloos",
       "vorm": "halfovaal-ovaal",
       "grootte": "52",
@@ -1313,7 +1313,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Cucumis satives](https://www.paldat.org/pub/Cucumis_sativus) [pollenwiki](https://pollenwiki.org/wiki/Cucumis_sativus) ",
+      "latin": "[Cucumis satives](https://www.paldat.org/pub/Cucumis_sativus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cucumis_sativus) ",
       "dutch": "komkommer/aug",
       "vorm": "О ⁄ ∆",
       "grootte": "50-60",
@@ -1322,7 +1322,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Limonium vulgare](https://www.paldat.org/pub/Limonium_vulgare) [pollenwiki](https://pollenwiki.org/wiki/Limonium_vulgare) ",
+      "latin": "[Limonium vulgare](https://www.paldat.org/pub/Limonium_vulgare) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Limonium_vulgare) ",
       "dutch": "lamsoor",
       "vorm": "O",
       "grootte": "55",
@@ -1331,7 +1331,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Liriodendron tulip](https://www.paldat.org/pub/Liriodendron_tulipifera) [pollenwiki](https://pollenwiki.org/wiki/Liriodendron_tulipifera)  ",
+      "latin": "[Liriodendron tulip](https://www.paldat.org/pub/Liriodendron_tulipifera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Liriodendron_tulipifera)  ",
       "dutch": "tulpeboom",
       "vorm": "ca. halfovaal",
       "grootte": "57",
@@ -1340,7 +1340,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Colchicinum autum](https://www.paldat.org/pub/Colchicinum_autumnale) [pollenwiki](https://pollenwiki.org/wiki/Colchicinum_autumnale) ",
+      "latin": "[Colchicinum autum](https://www.paldat.org/pub/Colchicinum_autumnale) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicinum_autumnale) ",
       "dutch": "herfsttijloos",
       "vorm": "semi-ovaal",
       "grootte": "58",
@@ -1349,7 +1349,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Linum usitatissim](https://www.paldat.org/pub/Linum_usitatissimum) [pollenwiki](https://pollenwiki.org/wiki/Linum_usitatissimum) ",
+      "latin": "[Linum usitatissim](https://www.paldat.org/pub/Linum_usitatissimum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Linum_usitatissimum) ",
       "dutch": "vlas",
       "vorm": "ca O",
       "grootte": "60",
@@ -1358,7 +1358,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Lonicera sp](https://www.paldat.org/pub/Lonicera_sp) [pollenwiki](https://pollenwiki.org/wiki/Lonicera_sp) ",
+      "latin": "[Lonicera sp](https://www.paldat.org/pub/Lonicera_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lonicera_sp) ",
       "dutch": "kamperfoelie",
       "vorm": "О ⁄ ∆",
       "grootte": "ca 60",
@@ -1367,7 +1367,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Geranium sp.](https://www.paldat.org/pub/Geranium_sp.) [pollenwiki](https://pollenwiki.org/wiki/Geranium_sp.)",
+      "latin": "[Geranium sp.](https://www.paldat.org/pub/Geranium_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Geranium_sp.)",
       "dutch": "ooievaarsbek e.a.",
       "vorm": "О",
       "grootte": "60-90",
@@ -1376,7 +1376,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Convolvulus arve](https://www.paldat.org/pub/Convolvulus_arve) [pollenwiki](https://pollenwiki.org/wiki/Convolvulus_arve) ",
+      "latin": "[Convolvulus arve](https://www.paldat.org/pub/Convolvulus_arve) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Convolvulus_arve) ",
       "dutch": "akkerwinde",
       "vorm": "О ⁄ ∆",
       "grootte": "61",
@@ -1385,7 +1385,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Centranthus ruber](https://www.paldat.org/pub/Centranthus_ruber) [pollenwiki](https://pollenwiki.org/wiki/Centranthus_ruber) ",
+      "latin": "[Centranthus ruber](https://www.paldat.org/pub/Centranthus_ruber) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centranthus_ruber) ",
       "dutch": "spoorbloem",
       "vorm": "О ⁄ ∆",
       "grootte": "ca 65",
@@ -1394,7 +1394,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Armeria maritima](https://www.paldat.org/pub/Armeria_maritima) [pollenwiki](https://pollenwiki.org/wiki/Armeria_maritima)    ",
+      "latin": "[Armeria maritima](https://www.paldat.org/pub/Armeria_maritima) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Armeria_maritima)    ",
       "dutch": "strandkruid",
       "vorm": "∆",
       "grootte": "66",
@@ -1403,7 +1403,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Crocus sp.](https://www.paldat.org/pub/Crocus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Crocus_sp.)",
+      "latin": "[Crocus sp.](https://www.paldat.org/pub/Crocus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_sp.)",
       "dutch": "crocus",
       "vorm": "O",
       "grootte": "70-110",
@@ -1412,7 +1412,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Calystegia sepium](https://www.paldat.org/pub/Calystegia_sepium) [pollenwiki](https://pollenwiki.org/wiki/Calystegia_sepium) ",
+      "latin": "[Calystegia sepium](https://www.paldat.org/pub/Calystegia_sepium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calystegia_sepium) ",
       "dutch": "haagwinde",
       "vorm": "O",
       "grootte": "78",
@@ -1421,7 +1421,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Lilium sp.](https://www.paldat.org/pub/Lilium_sp.) [pollenwiki](https://pollenwiki.org/wiki/Lilium_sp.)",
+      "latin": "[Lilium sp.](https://www.paldat.org/pub/Lilium_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lilium_sp.)",
       "dutch": "lelie",
       "vorm": "ca. ovaal",
       "grootte": "ca. 80",
@@ -1430,7 +1430,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Portulacca oleacera](https://www.paldat.org/pub/Portulacca_oleacera) [pollenwiki](https://pollenwiki.org/wiki/Portulacca_oleacera) ",
+      "latin": "[Portulacca oleacera](https://www.paldat.org/pub/Portulacca_oleacera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Portulacca_oleacera) ",
       "dutch": "postelein",
       "vorm": "O",
       "grootte": "ca. 80",
@@ -1439,7 +1439,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Oenothera tetrag](https://www.paldat.org/pub/Oenothera_tetragona) [pollenwiki](https://pollenwiki.org/wiki/Oenothera_tetragona) ",
+      "latin": "[Oenothera tetrag](https://www.paldat.org/pub/Oenothera_tetragona) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Oenothera_tetragona) ",
       "dutch": "teunisbloem",
       "vorm": "∆(lobaat)",
       "grootte": "125",
@@ -1448,7 +1448,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Aruncus](https://www.paldat.org/pub/Aruncus) [pollenwiki](https://pollenwiki.org/wiki/Aruncus) ",
+      "latin": "[Aruncus](https://www.paldat.org/pub/Aruncus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aruncus) ",
       "dutch": "geitenbaard",
       "vorm": "∆",
       "grootte": "16",
@@ -1457,7 +1457,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Sedum acre](https://www.paldat.org/pub/Sedum_acre) [pollenwiki](https://pollenwiki.org/wiki/Sedum_acre) ",
+      "latin": "[Sedum acre](https://www.paldat.org/pub/Sedum_acre) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sedum_acre) ",
       "dutch": "muurpeper",
       "vorm": "О ⁄ ∆",
       "grootte": "18-20",
@@ -1466,7 +1466,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Fragaria vesca](https://www.paldat.org/pub/Fragaria_vesca) [pollenwiki](https://pollenwiki.org/wiki/Fragaria_vesca)  ",
+      "latin": "[Fragaria vesca](https://www.paldat.org/pub/Fragaria_vesca) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fragaria_vesca)  ",
       "dutch": "aardbei",
       "vorm": "∆",
       "grootte": "21",
@@ -1475,7 +1475,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Lythrum salicaria](https://www.paldat.org/pub/Lythrum_salicaria) [pollenwiki](https://pollenwiki.org/wiki/Lythrum_salicaria)   ",
+      "latin": "[Lythrum salicaria](https://www.paldat.org/pub/Lythrum_salicaria) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lythrum_salicaria)   ",
       "dutch": "kattenstaart",
       "vorm": "ca O",
       "grootte": "22(19-24)",
@@ -1484,7 +1484,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Pyracantha coccin](https://www.paldat.org/pub/Pyracantha_coccinia) [pollenwiki](https://pollenwiki.org/wiki/Pyracantha_coccinia) ",
+      "latin": "[Pyracantha coccin](https://www.paldat.org/pub/Pyracantha_coccinia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pyracantha_coccinia) ",
       "dutch": "vuurdoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "23-27",
@@ -1493,7 +1493,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Potentilla anserina](https://www.paldat.org/pub/Potentilla_anserina) [pollenwiki](https://pollenwiki.org/wiki/Potentilla_anserina) ",
+      "latin": "[Potentilla anserina](https://www.paldat.org/pub/Potentilla_anserina) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Potentilla_anserina) ",
       "dutch": "zilverschoon",
       "vorm": "О ⁄ ∆",
       "grootte": "25",
@@ -1502,7 +1502,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Rubus fructicosus](https://www.paldat.org/pub/Rubus_fructicosus) [pollenwiki](https://pollenwiki.org/wiki/Rubus_fructicosus) ",
+      "latin": "[Rubus fructicosus](https://www.paldat.org/pub/Rubus_fructicosus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_fructicosus) ",
       "dutch": "braam",
       "vorm": "О ⁄ ∆ Prunus bouw",
       "grootte": "21-25",
@@ -1511,7 +1511,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Rubus idaeus](https://www.paldat.org/pub/Rubus_idaeus) [pollenwiki](https://pollenwiki.org/wiki/Rubus_idaeus) ",
+      "latin": "[Rubus idaeus](https://www.paldat.org/pub/Rubus_idaeus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_idaeus) ",
       "dutch": "framboos",
       "vorm": "О ⁄ ∆ Prunus bouw",
       "grootte": "25",
@@ -1520,7 +1520,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Aesculus hippoca](https://www.paldat.org/pub/Aesculus_hippocastanum) [pollenwiki](https://pollenwiki.org/wiki/Aesculus_hippocastanum) ",
+      "latin": "[Aesculus hippoca](https://www.paldat.org/pub/Aesculus_hippocastanum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aesculus_hippocastanum) ",
       "dutch": "paardekastanje",
       "vorm": "ovaal",
       "grootte": "26",
@@ -1529,7 +1529,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Ruta graveolens](https://www.paldat.org/pub/Ruta_graveolens) [pollenwiki](https://pollenwiki.org/wiki/Ruta_graveolens) ",
+      "latin": "[Ruta graveolens](https://www.paldat.org/pub/Ruta_graveolens) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ruta_graveolens) ",
       "dutch": "wijnruit",
       "vorm": "ovaal, spits naar de top",
       "grootte": "27-30-35",
@@ -1538,7 +1538,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer palmatum](https://www.paldat.org/pub/Acer_palmatum) [pollenwiki](https://pollenwiki.org/wiki/Acer_palmatum) ",
+      "latin": "[Acer palmatum](https://www.paldat.org/pub/Acer_palmatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_palmatum) ",
       "dutch": "-",
       "vorm": "O",
       "grootte": "27-32",
@@ -1547,7 +1547,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Nicotiana glauca](https://www.paldat.org/pub/Nicotiana_glauca) [pollenwiki](https://pollenwiki.org/wiki/Nicotiana_glauca) ",
+      "latin": "[Nicotiana glauca](https://www.paldat.org/pub/Nicotiana_glauca) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nicotiana_glauca) ",
       "dutch": "siertabak",
       "vorm": "O-О ⁄ ∆",
       "grootte": "29 (27)",
@@ -1556,7 +1556,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer japonicum](https://www.paldat.org/pub/Acer_japonicum) [pollenwiki](https://pollenwiki.org/wiki/Acer_japonicum) ",
+      "latin": "[Acer japonicum](https://www.paldat.org/pub/Acer_japonicum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_japonicum) ",
       "dutch": "Japanse esdoorn",
       "vorm": "ca O",
       "grootte": "(25-)29",
@@ -1565,7 +1565,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer palmatum](https://www.paldat.org/pub/Acer_palmatum) [pollenwiki](https://pollenwiki.org/wiki/Acer_palmatum) ",
+      "latin": "[Acer palmatum](https://www.paldat.org/pub/Acer_palmatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_palmatum) ",
       "dutch": "Italy red",
       "vorm": "ca. O",
       "grootte": "27-32",
@@ -1574,7 +1574,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer negundo](https://www.paldat.org/pub/Acer_negundo) [pollenwiki](https://pollenwiki.org/wiki/Acer_negundo) ",
+      "latin": "[Acer negundo](https://www.paldat.org/pub/Acer_negundo) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_negundo) ",
       "dutch": "verderesdoorn",
       "vorm": "ca O",
       "grootte": "30",
@@ -1583,7 +1583,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer platanoïdes](https://www.paldat.org/pub/Acer_platanoïdes) [pollenwiki](https://pollenwiki.org/wiki/Acer_platanoïdes) ",
+      "latin": "[Acer platanoïdes](https://www.paldat.org/pub/Acer_platanoïdes) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_platanoïdes) ",
       "dutch": "Noorse esdoorn",
       "vorm": "ca O",
       "grootte": "30-34",
@@ -1592,7 +1592,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer campestre](https://www.paldat.org/pub/Acer_campestre) [pollenwiki](https://pollenwiki.org/wiki/Acer_campestre) ",
+      "latin": "[Acer campestre](https://www.paldat.org/pub/Acer_campestre) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_campestre) ",
       "dutch": "Spaanse aak",
       "vorm": "О ⁄ ∆",
       "grootte": "32-35",
@@ -1601,7 +1601,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Sanguisorba minor](https://www.paldat.org/pub/Sanguisorba_minor) [pollenwiki](https://pollenwiki.org/wiki/Sanguisorba_minor) ",
+      "latin": "[Sanguisorba minor](https://www.paldat.org/pub/Sanguisorba_minor) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sanguisorba_minor) ",
       "dutch": "kleine pimpernel",
       "vorm": "O",
       "grootte": "30(-32)",
@@ -1610,7 +1610,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Malus sp.](https://www.paldat.org/pub/Malus_sp.) [pollenwiki](https://pollenwiki.org/wiki/Malus_sp.)",
+      "latin": "[Malus sp.](https://www.paldat.org/pub/Malus_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Malus_sp.)",
       "dutch": "appel",
       "vorm": "∆",
       "grootte": "ca. 30",
@@ -1619,7 +1619,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Nicotiana tabacum](https://www.paldat.org/pub/Nicotiana_tabacum) [pollenwiki](https://pollenwiki.org/wiki/Nicotiana_tabacum)   ",
+      "latin": "[Nicotiana tabacum](https://www.paldat.org/pub/Nicotiana_tabacum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nicotiana_tabacum)   ",
       "dutch": "tabak",
       "vorm": "O",
       "grootte": "31",
@@ -1628,7 +1628,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Skimmia](https://www.paldat.org/pub/Skimmia) [pollenwiki](https://pollenwiki.org/wiki/Skimmia) ",
+      "latin": "[Skimmia](https://www.paldat.org/pub/Skimmia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Skimmia) ",
       "dutch": "Skimmia",
       "vorm": "O/ovaal",
       "grootte": "32-35",
@@ -1637,7 +1637,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Davidia involcrata](https://www.paldat.org/pub/Davidia_involcrata) [pollenwiki](https://pollenwiki.org/wiki/Davidia_involcrata) ",
+      "latin": "[Davidia involcrata](https://www.paldat.org/pub/Davidia_involcrata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Davidia_involcrata) ",
       "dutch": "vaantjesboom",
       "vorm": "О ⁄ ∆",
       "grootte": "33",
@@ -1646,7 +1646,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Veronica sp.](https://www.paldat.org/pub/Veronica_sp.) [pollenwiki](https://pollenwiki.org/wiki/Veronica_sp.)",
+      "latin": "[Veronica sp.](https://www.paldat.org/pub/Veronica_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Veronica_sp.)",
       "dutch": "div. ereprijs",
       "vorm": "О ⁄ ∆",
       "grootte": "36(20-40)reticulaat/striaat",
@@ -1655,7 +1655,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Acer pseudoplat.](https://www.paldat.org/pub/Acer_pseudoplat.) [pollenwiki](https://pollenwiki.org/wiki/Acer_pseudoplat.)",
+      "latin": "[Acer pseudoplat.](https://www.paldat.org/pub/Acer_pseudoplat.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_pseudoplat.)",
       "dutch": "Esdoorn",
       "vorm": "ca O",
       "grootte": "37(35-47)",
@@ -1664,7 +1664,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Prunus avium](https://www.paldat.org/pub/Prunus_avium) [pollenwiki](https://pollenwiki.org/wiki/Prunus_avium) ",
+      "latin": "[Prunus avium](https://www.paldat.org/pub/Prunus_avium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Prunus_avium) ",
       "dutch": "zoete kers",
       "vorm": "∆",
       "grootte": "37",
@@ -1673,7 +1673,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Crataegus sp](https://www.paldat.org/pub/Crataegus_sp) [pollenwiki](https://pollenwiki.org/wiki/Crataegus_sp) ",
+      "latin": "[Crataegus sp](https://www.paldat.org/pub/Crataegus_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_sp) ",
       "dutch": "meidoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "40",
@@ -1682,7 +1682,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Prunus-laurocera](https://www.paldat.org/pub/Prunus_laurocera) [pollenwiki](https://pollenwiki.org/wiki/Prunus_laurocera) ",
+      "latin": "[Prunus-laurocera](https://www.paldat.org/pub/Prunus_laurocera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Prunus_laurocera) ",
       "dutch": "laurierkers",
       "vorm": "О ⁄ ∆",
       "grootte": "40-45",
@@ -1691,7 +1691,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Prunus spinoza](https://www.paldat.org/pub/Prunus_spinoza) [pollenwiki](https://pollenwiki.org/wiki/Prunus_spinoza) ",
+      "latin": "[Prunus spinoza](https://www.paldat.org/pub/Prunus_spinoza) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Prunus_spinoza) ",
       "dutch": "sleedoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "41",
@@ -1700,7 +1700,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Mespilus germani](https://www.paldat.org/pub/Mespilus_germani) [pollenwiki](https://pollenwiki.org/wiki/Mespilus_germani) ",
+      "latin": "[Mespilus germani](https://www.paldat.org/pub/Mespilus_germani) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mespilus_germani) ",
       "dutch": "mispel",
       "vorm": "О ⁄ ∆",
       "grootte": "45",
@@ -1709,7 +1709,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Polemonium coeru](https://www.paldat.org/pub/Polemonium_coeru) [pollenwiki](https://pollenwiki.org/wiki/Polemonium_coeru) ",
+      "latin": "[Polemonium coeru](https://www.paldat.org/pub/Polemonium_coeru) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Polemonium_coeru) ",
       "dutch": "Jacobs ladder",
       "vorm": "ca O",
       "grootte": "45",
@@ -1718,7 +1718,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Astrantia major](https://www.paldat.org/pub/Astrantia_major) [pollenwiki](https://pollenwiki.org/wiki/Astrantia_major) ",
+      "latin": "[Astrantia major](https://www.paldat.org/pub/Astrantia_major) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Astrantia_major) ",
       "dutch": "Zeeuws knoopje",
       "vorm": "ovaal",
       "grootte": "45x20",
@@ -1727,7 +1727,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Gilia tricolor](https://www.paldat.org/pub/Gilia_tricolor) [pollenwiki](https://pollenwiki.org/wiki/Gilia_tricolor)  ",
+      "latin": "[Gilia tricolor](https://www.paldat.org/pub/Gilia_tricolor) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Gilia_tricolor)  ",
       "dutch": "Gilia",
       "vorm": "O",
       "grootte": "ca 45",
@@ -1736,7 +1736,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Datura stramonium](https://www.paldat.org/pub/Datura_stramonium) [pollenwiki](https://pollenwiki.org/wiki/Datura_stramonium) ",
+      "latin": "[Datura stramonium](https://www.paldat.org/pub/Datura_stramonium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Datura_stramonium) ",
       "dutch": "doornappel",
       "vorm": "О ⁄ ∆",
       "grootte": "50",
@@ -1745,7 +1745,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Tulipa sp.](https://www.paldat.org/pub/Tulipa_sp.) [pollenwiki](https://pollenwiki.org/wiki/Tulipa_sp.)",
+      "latin": "[Tulipa sp.](https://www.paldat.org/pub/Tulipa_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tulipa_sp.)",
       "dutch": "tulp",
       "vorm": "ca. O",
       "grootte": "52",
@@ -1754,7 +1754,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Erodium cicutarium](https://www.paldat.org/pub/Erodium_cicutarium) [pollenwiki](https://pollenwiki.org/wiki/Erodium_cicutarium) ",
+      "latin": "[Erodium cicutarium](https://www.paldat.org/pub/Erodium_cicutarium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erodium_cicutarium) ",
       "dutch": "gew. Reigersbek",
       "vorm": "О ⁄ ∆",
       "grootte": "54",
@@ -1763,7 +1763,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Succisa pratensis](https://www.paldat.org/pub/Succisa_pratensis) [pollenwiki](https://pollenwiki.org/wiki/Succisa_pratensis) ",
+      "latin": "[Succisa pratensis](https://www.paldat.org/pub/Succisa_pratensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Succisa_pratensis) ",
       "dutch": "blauwe knoop",
       "vorm": "O",
       "grootte": "80",
@@ -1772,7 +1772,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Erigeron canaden](https://www.paldat.org/pub/Erigeron_canaden) [pollenwiki](https://pollenwiki.org/wiki/Erigeron_canaden) ",
+      "latin": "[Erigeron canaden](https://www.paldat.org/pub/Erigeron_canaden) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erigeron_canaden) ",
       "dutch": "Canad. fijnstraal",
       "vorm": "О ⁄ ∆",
       "grootte": "20",
@@ -1781,7 +1781,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Helenium autumn](https://www.paldat.org/pub/Helenium_autumn) [pollenwiki](https://pollenwiki.org/wiki/Helenium_autumn) ",
+      "latin": "[Helenium autumn](https://www.paldat.org/pub/Helenium_autumn) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Helenium_autumn) ",
       "dutch": "Helenium",
       "vorm": "O",
       "grootte": "20-25",
@@ -1790,7 +1790,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Santolina Jasione montana [pollenwiki](https://pollenwiki.org/wiki/Santolina_Jasione_montana) ",
+      "latin": "Santolina Jasione montana [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Santolina_Jasione_montana) ",
       "dutch": "zandblauwtje",
       "vorm": "O",
       "grootte": "22",
@@ -1799,7 +1799,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Crepis sp.](https://www.paldat.org/pub/Crepis_sp.) [pollenwiki](https://pollenwiki.org/wiki/Crepis_sp.)",
+      "latin": "[Crepis sp.](https://www.paldat.org/pub/Crepis_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crepis_sp.)",
       "dutch": "streepzaad",
       "vorm": "drie-/zeskantig",
       "grootte": "22-36",
@@ -1808,7 +1808,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Ambrosia artemis](https://www.paldat.org/pub/Ambrosia_artemis) [pollenwiki](https://pollenwiki.org/wiki/Ambrosia_artemis) ",
+      "latin": "[Ambrosia artemis](https://www.paldat.org/pub/Ambrosia_artemis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ambrosia_artemis) ",
       "dutch": "Ambrosia",
       "vorm": "O",
       "grootte": "23",
@@ -1817,7 +1817,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Bidens sp [pollenwiki](https://pollenwiki.org/wiki/Bidens_sp) ",
+      "latin": "Bidens sp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Bidens_sp) ",
       "dutch": "tandzaad",
       "vorm": "O",
       "grootte": "23",
@@ -1826,7 +1826,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Solidago virga au](https://www.paldat.org/pub/Solidago_virga_au) [pollenwiki](https://pollenwiki.org/wiki/Solidago_virga_au) ",
+      "latin": "[Solidago virga au](https://www.paldat.org/pub/Solidago_virga_au) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solidago_virga_au) ",
       "dutch": "gulden roede",
       "vorm": "O",
       "grootte": "24",
@@ -1835,7 +1835,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Eupatorium cann](https://www.paldat.org/pub/Eupatorium_cann) [pollenwiki](https://pollenwiki.org/wiki/Eupatorium_cann)   ",
+      "latin": "[Eupatorium cann](https://www.paldat.org/pub/Eupatorium_cann) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eupatorium_cann)   ",
       "dutch": "leverkruid",
       "vorm": "O",
       "grootte": "25",
@@ -1844,7 +1844,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Artemisia sp.](https://www.paldat.org/pub/Artemisia_sp.) [pollenwiki](https://pollenwiki.org/wiki/Artemisia_sp.)",
+      "latin": "[Artemisia sp.](https://www.paldat.org/pub/Artemisia_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Artemisia_sp.)",
       "dutch": "bijvoet/alsem",
       "vorm": "O",
       "grootte": "22",
@@ -1853,7 +1853,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Petasitis officinalis](https://www.paldat.org/pub/Petasitis_officinalis) [pollenwiki](https://pollenwiki.org/wiki/Petasitis_officinalis) ",
+      "latin": "[Petasitis officinalis](https://www.paldat.org/pub/Petasitis_officinalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Petasitis_officinalis) ",
       "dutch": "groot hoefblad",
       "vorm": "O",
       "grootte": "25",
@@ -1862,7 +1862,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Chrysanthemum leuc](https://www.paldat.org/pub/Chrysanthemum_leuc) [pollenwiki](https://pollenwiki.org/wiki/Chrysanthemum_leuc) ",
+      "latin": "[Chrysanthemum leuc](https://www.paldat.org/pub/Chrysanthemum_leuc) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chrysanthemum_leuc) ",
       "dutch": "margriet",
       "vorm": "O",
       "grootte": "ca. 25",
@@ -1871,7 +1871,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Hieracium sp.](https://www.paldat.org/pub/Hieracium_sp.) [pollenwiki](https://pollenwiki.org/wiki/Hieracium_sp.)",
+      "latin": "[Hieracium sp.](https://www.paldat.org/pub/Hieracium_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hieracium_sp.)",
       "dutch": "havikskruid",
       "vorm": "drie-/zeskantig",
       "grootte": "25-27",
@@ -1880,7 +1880,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Senecio inaequalis](https://www.paldat.org/pub/Senecio_inaequalis) [pollenwiki](https://pollenwiki.org/wiki/Senecio_inaequalis) ",
+      "latin": "[Senecio inaequalis](https://www.paldat.org/pub/Senecio_inaequalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Senecio_inaequalis) ",
       "dutch": "bezemkruiskruid",
       "vorm": "ca. O",
       "grootte": "25-27",
@@ -1889,7 +1889,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Lampsana commu](https://www.paldat.org/pub/Lampsana_commu) [pollenwiki](https://pollenwiki.org/wiki/Lampsana_commu) ",
+      "latin": "[Lampsana commu](https://www.paldat.org/pub/Lampsana_commu) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lampsana_commu) ",
       "dutch": "akkerkool",
       "vorm": "drie-/zeskantig",
       "grootte": "25-28",
@@ -1898,7 +1898,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Taraxacum](https://www.paldat.org/pub/Taraxacum) [pollenwiki](https://pollenwiki.org/wiki/Taraxacum) ",
+      "latin": "[Taraxacum](https://www.paldat.org/pub/Taraxacum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum) ",
       "dutch": "paardebloem",
       "vorm": "drie-/zeskantig",
       "grootte": "25-41(32)",
@@ -1907,7 +1907,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Matricaria chamo](https://www.paldat.org/pub/Matricaria_chamo) [pollenwiki](https://pollenwiki.org/wiki/Matricaria_chamo) ",
+      "latin": "[Matricaria chamo](https://www.paldat.org/pub/Matricaria_chamo) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Matricaria_chamo) ",
       "dutch": "echte kamille",
       "vorm": "О ⁄ ∆",
       "grootte": "26",
@@ -1916,7 +1916,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Aster sp](https://www.paldat.org/pub/Aster_sp) [pollenwiki](https://pollenwiki.org/wiki/Aster_sp) ",
+      "latin": "[Aster sp](https://www.paldat.org/pub/Aster_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aster_sp) ",
       "dutch": "aster",
       "vorm": "O",
       "grootte": "26",
@@ -1925,7 +1925,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Galinsoga sp](https://www.paldat.org/pub/Galinsoga_sp) [pollenwiki](https://pollenwiki.org/wiki/Galinsoga_sp) ",
+      "latin": "[Galinsoga sp](https://www.paldat.org/pub/Galinsoga_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galinsoga_sp) ",
       "dutch": "knopkruid",
       "vorm": "O",
       "grootte": "27",
@@ -1934,7 +1934,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Senecio sp](https://www.paldat.org/pub/Senecio_sp) [pollenwiki](https://pollenwiki.org/wiki/Senecio_sp)   ",
+      "latin": "[Senecio sp](https://www.paldat.org/pub/Senecio_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Senecio_sp)   ",
       "dutch": "kruiskruid",
       "vorm": "∆",
       "grootte": "27",
@@ -1943,7 +1943,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Senecio jacobea](https://www.paldat.org/pub/Senecio_jacobea) [pollenwiki](https://pollenwiki.org/wiki/Senecio_jacobea) ",
+      "latin": "[Senecio jacobea](https://www.paldat.org/pub/Senecio_jacobea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Senecio_jacobea) ",
       "dutch": "Jacobs kruiskruid",
       "vorm": "О ⁄ ∆",
       "grootte": "27-30",
@@ -1952,7 +1952,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Anthemis nobilis](https://www.paldat.org/pub/Anthemis_nobilis) [pollenwiki](https://pollenwiki.org/wiki/Anthemis_nobilis) ",
+      "latin": "[Anthemis nobilis](https://www.paldat.org/pub/Anthemis_nobilis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthemis_nobilis) ",
       "dutch": "roomse kamille",
       "vorm": "O",
       "grootte": "28",
@@ -1961,7 +1961,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Campanula](https://www.paldat.org/pub/Campanula) [pollenwiki](https://pollenwiki.org/wiki/Campanula) ",
+      "latin": "[Campanula](https://www.paldat.org/pub/Campanula) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula) ",
       "dutch": "klokje",
       "vorm": "O",
       "grootte": "29",
@@ -1970,7 +1970,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Leontodon autum](https://www.paldat.org/pub/Leontodon_autum) [pollenwiki](https://pollenwiki.org/wiki/Leontodon_autum) ",
+      "latin": "[Leontodon autum](https://www.paldat.org/pub/Leontodon_autum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Leontodon_autum) ",
       "dutch": "vert. leeuwentand",
       "vorm": "drie-/zeskantig",
       "grootte": "29",
@@ -1979,7 +1979,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Achillea millefolium](https://www.paldat.org/pub/Achillea_millefolium) [pollenwiki](https://pollenwiki.org/wiki/Achillea_millefolium) ",
+      "latin": "[Achillea millefolium](https://www.paldat.org/pub/Achillea_millefolium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Achillea_millefolium) ",
       "dutch": "duizendblad",
       "vorm": "О ⁄ ∆",
       "grootte": "29",
@@ -1988,7 +1988,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Hieracium aurantia](https://www.paldat.org/pub/Hieracium_aurantia) [pollenwiki](https://pollenwiki.org/wiki/Hieracium_aurantia) ",
+      "latin": "[Hieracium aurantia](https://www.paldat.org/pub/Hieracium_aurantia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hieracium_aurantia) ",
       "dutch": "oranje havikskruid",
       "vorm": "drie-/zeskantig",
       "grootte": "(28-)30",
@@ -1997,7 +1997,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Picris hiëracioïdes](https://www.paldat.org/pub/Picris_hiëracioïdes) [pollenwiki](https://pollenwiki.org/wiki/Picris_hiëracioïdes) ",
+      "latin": "[Picris hiëracioïdes](https://www.paldat.org/pub/Picris_hiëracioïdes) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Picris_hiëracioïdes) ",
       "dutch": "bitterkruid",
       "vorm": "drie-/zeskantig",
       "grootte": "31",
@@ -2006,7 +2006,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Tussilago farfara](https://www.paldat.org/pub/Tussilago_farfara) [pollenwiki](https://pollenwiki.org/wiki/Tussilago_farfara) ",
+      "latin": "[Tussilago farfara](https://www.paldat.org/pub/Tussilago_farfara) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tussilago_farfara) ",
       "dutch": "klein hoefblad",
       "vorm": "О ⁄ ∆",
       "grootte": "32",
@@ -2015,7 +2015,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Picris echinoïdes](https://www.paldat.org/pub/Picris_echinoïdes) [pollenwiki](https://pollenwiki.org/wiki/Picris_echinoïdes) ",
+      "latin": "[Picris echinoïdes](https://www.paldat.org/pub/Picris_echinoïdes) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Picris_echinoïdes) ",
       "dutch": "dubbelkelk",
       "vorm": "drie-/zeskantig",
       "grootte": "32-37",
@@ -2024,7 +2024,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Aster tripolium](https://www.paldat.org/pub/Aster_tripolium) [pollenwiki](https://pollenwiki.org/wiki/Aster_tripolium) ",
+      "latin": "[Aster tripolium](https://www.paldat.org/pub/Aster_tripolium) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aster_tripolium) ",
       "dutch": "zeeaster",
       "vorm": "O",
       "grootte": "30-33",
@@ -2033,7 +2033,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Centaurea jacea](https://www.paldat.org/pub/Centaurea_jacea) [pollenwiki](https://pollenwiki.org/wiki/Centaurea_jacea) ",
+      "latin": "[Centaurea jacea](https://www.paldat.org/pub/Centaurea_jacea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_jacea) ",
       "dutch": "knoopkruid",
       "vorm": "О ⁄ ∆",
       "grootte": "31-35",
@@ -2042,7 +2042,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Calendula officin](https://www.paldat.org/pub/Calendula_officin) [pollenwiki](https://pollenwiki.org/wiki/Calendula_officin) ",
+      "latin": "[Calendula officin](https://www.paldat.org/pub/Calendula_officin) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calendula_officin) ",
       "dutch": "goudsbloem",
       "vorm": "O",
       "grootte": "34",
@@ -2051,7 +2051,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Tagetes erecta](https://www.paldat.org/pub/Tagetes_erecta) [pollenwiki](https://pollenwiki.org/wiki/Tagetes_erecta) ",
+      "latin": "[Tagetes erecta](https://www.paldat.org/pub/Tagetes_erecta) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tagetes_erecta) ",
       "dutch": "Groot Afrikaantje",
       "vorm": "O",
       "grootte": "34",
@@ -2060,7 +2060,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Helianthus annuus](https://www.paldat.org/pub/Helianthus_annuus) [pollenwiki](https://pollenwiki.org/wiki/Helianthus_annuus) ",
+      "latin": "[Helianthus annuus](https://www.paldat.org/pub/Helianthus_annuus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Helianthus_annuus) ",
       "dutch": "zonnebloem",
       "vorm": "O",
       "grootte": "ca. 35",
@@ -2069,7 +2069,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cosmos sp.](https://www.paldat.org/pub/Cosmos_sp.) [pollenwiki](https://pollenwiki.org/wiki/Cosmos_sp.)",
+      "latin": "[Cosmos sp.](https://www.paldat.org/pub/Cosmos_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cosmos_sp.)",
       "dutch": "Cosmea",
       "vorm": "O",
       "grootte": "36",
@@ -2078,7 +2078,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Nymphaea alba](https://www.paldat.org/pub/Nymphaea_alba) [pollenwiki](https://pollenwiki.org/wiki/Nymphaea_alba) ",
+      "latin": "[Nymphaea alba](https://www.paldat.org/pub/Nymphaea_alba) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nymphaea_alba) ",
       "dutch": "waterlelie",
       "vorm": "ovaal/onregelmatig",
       "grootte": "37",
@@ -2087,7 +2087,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cichorium intybus](https://www.paldat.org/pub/Cichorium_intybus) [pollenwiki](https://pollenwiki.org/wiki/Cichorium_intybus) ",
+      "latin": "[Cichorium intybus](https://www.paldat.org/pub/Cichorium_intybus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus) ",
       "dutch": "cichorei",
       "vorm": "drie-/zeskantig",
       "grootte": "38",
@@ -2096,7 +2096,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Sonchus arvensis](https://www.paldat.org/pub/Sonchus_arvensis) [pollenwiki](https://pollenwiki.org/wiki/Sonchus_arvensis) ",
+      "latin": "[Sonchus arvensis](https://www.paldat.org/pub/Sonchus_arvensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sonchus_arvensis) ",
       "dutch": "akkermelkdistel",
       "vorm": "drie-/zeskantig",
       "grootte": "40(-45)",
@@ -2105,7 +2105,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Tragopogon sp](https://www.paldat.org/pub/Tragopogon_sp) [pollenwiki](https://pollenwiki.org/wiki/Tragopogon_sp) ",
+      "latin": "[Tragopogon sp](https://www.paldat.org/pub/Tragopogon_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tragopogon_sp) ",
       "dutch": "morgenster",
       "vorm": "drie-/zeskantig",
       "grootte": "44",
@@ -2114,7 +2114,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Arcticum minus](https://www.paldat.org/pub/Arcticum_minus) [pollenwiki](https://pollenwiki.org/wiki/Arcticum_minus) ",
+      "latin": "[Arcticum minus](https://www.paldat.org/pub/Arcticum_minus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_minus) ",
       "dutch": "klit",
       "vorm": "О ⁄ ∆",
       "grootte": "40-45",
@@ -2123,7 +2123,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Weigelia/Diervilla](https://www.paldat.org/pub/Weigelia_Diervilla) [pollenwiki](https://pollenwiki.org/wiki/Weigelia_Diervilla) ",
+      "latin": "[Weigelia/Diervilla](https://www.paldat.org/pub/Weigelia_Diervilla) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Weigelia_Diervilla) ",
       "dutch": "Weigelia",
       "vorm": "O",
       "grootte": "45",
@@ -2132,7 +2132,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Nuphar lutea](https://www.paldat.org/pub/Nuphar_lutea) [pollenwiki](https://pollenwiki.org/wiki/Nuphar_lutea) ",
+      "latin": "[Nuphar lutea](https://www.paldat.org/pub/Nuphar_lutea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nuphar_lutea) ",
       "dutch": "gele plomp",
       "vorm": "O",
       "grootte": "47",
@@ -2141,7 +2141,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carduus nutans](https://www.paldat.org/pub/Carduus_nutans) [pollenwiki](https://pollenwiki.org/wiki/Carduus_nutans) ",
+      "latin": "[Carduus nutans](https://www.paldat.org/pub/Carduus_nutans) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carduus_nutans) ",
       "dutch": "knikkende distel",
       "vorm": "-",
       "grootte": "47",
@@ -2150,7 +2150,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Onopordon acant](https://www.paldat.org/pub/Onopordon_acant) [pollenwiki](https://pollenwiki.org/wiki/Onopordon_acant) ",
+      "latin": "[Onopordon acant](https://www.paldat.org/pub/Onopordon_acant) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Onopordon_acant) ",
       "dutch": "wegdistel",
       "vorm": "О ⁄ ∆",
       "grootte": "47",
@@ -2159,7 +2159,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cirsium arvense](https://www.paldat.org/pub/Cirsium_arvense) [pollenwiki](https://pollenwiki.org/wiki/Cirsium_arvense) ",
+      "latin": "[Cirsium arvense](https://www.paldat.org/pub/Cirsium_arvense) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cirsium_arvense) ",
       "dutch": "akkerdistel",
       "vorm": "O",
       "grootte": "49",
@@ -2168,7 +2168,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cnicus benedict](https://www.paldat.org/pub/Cnicus_benedict) [pollenwiki](https://pollenwiki.org/wiki/Cnicus_benedict) ",
+      "latin": "[Cnicus benedict](https://www.paldat.org/pub/Cnicus_benedict) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cnicus_benedict) ",
       "dutch": "gezeg. distel",
       "vorm": "ovaal",
       "grootte": "49",
@@ -2177,7 +2177,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Serrulata tinctoria](https://www.paldat.org/pub/Serrulata_tinctoria) [pollenwiki](https://pollenwiki.org/wiki/Serrulata_tinctoria) ",
+      "latin": "[Serrulata tinctoria](https://www.paldat.org/pub/Serrulata_tinctoria) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Serrulata_tinctoria) ",
       "dutch": "zaagblad",
       "vorm": "О ⁄ ∆",
       "grootte": "49",
@@ -2186,7 +2186,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Sylibum marianum](https://www.paldat.org/pub/Sylibum_marianum) [pollenwiki](https://pollenwiki.org/wiki/Sylibum_marianum) ",
+      "latin": "[Sylibum marianum](https://www.paldat.org/pub/Sylibum_marianum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sylibum_marianum) ",
       "dutch": "Mariadistel",
       "vorm": "О ⁄ ∆",
       "grootte": "50",
@@ -2195,7 +2195,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Arcticum majus](https://www.paldat.org/pub/Arcticum_majus) [pollenwiki](https://pollenwiki.org/wiki/Arcticum_majus) ",
+      "latin": "[Arcticum majus](https://www.paldat.org/pub/Arcticum_majus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_majus) ",
       "dutch": "grote klit",
       "vorm": "O/ovaal",
       "grootte": "50",
@@ -2204,7 +2204,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cirsium vulgare](https://www.paldat.org/pub/Cirsium_vulgare) [pollenwiki](https://pollenwiki.org/wiki/Cirsium_vulgare) ",
+      "latin": "[Cirsium vulgare](https://www.paldat.org/pub/Cirsium_vulgare) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cirsium_vulgare) ",
       "dutch": "speerdistel",
       "vorm": "O",
       "grootte": "50-52",
@@ -2213,7 +2213,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Lonicera](https://www.paldat.org/pub/Lonicera) [pollenwiki](https://pollenwiki.org/wiki/Lonicera) ",
+      "latin": "[Lonicera](https://www.paldat.org/pub/Lonicera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lonicera) ",
       "dutch": "kamperfoelie",
       "vorm": "О ⁄ ∆",
       "grootte": "50-65",
@@ -2222,7 +2222,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carlina aucalis](https://www.paldat.org/pub/Carlina_aucalis) [pollenwiki](https://pollenwiki.org/wiki/Carlina_aucalis) ",
+      "latin": "[Carlina aucalis](https://www.paldat.org/pub/Carlina_aucalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carlina_aucalis) ",
       "dutch": "zilverdistel",
       "vorm": "О ⁄ ∆",
       "grootte": "60",
@@ -2231,7 +2231,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carthamus tinctor](https://www.paldat.org/pub/Carthamus_tinctor) [pollenwiki](https://pollenwiki.org/wiki/Carthamus_tinctor) ",
+      "latin": "[Carthamus tinctor](https://www.paldat.org/pub/Carthamus_tinctor) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_tinctor) ",
       "dutch": "saffloer",
       "vorm": "?",
       "grootte": "60",
@@ -2240,7 +2240,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carthamus lanatuswollige](https://www.paldat.org/pub/Carthamus_lanatuswollige) [pollenwiki](https://pollenwiki.org/wiki/Carthamus_lanatuswollige) ",
+      "latin": "[Carthamus lanatuswollige](https://www.paldat.org/pub/Carthamus_lanatuswollige) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_lanatuswollige) ",
       "dutch": "saffloer",
       "vorm": "O",
       "grootte": "61",
@@ -2249,7 +2249,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Centranthus ruber](https://www.paldat.org/pub/Centranthus_ruber) [pollenwiki](https://pollenwiki.org/wiki/Centranthus_ruber) ",
+      "latin": "[Centranthus ruber](https://www.paldat.org/pub/Centranthus_ruber) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centranthus_ruber) ",
       "dutch": "rode spoorbloem",
       "vorm": "O",
       "grootte": "65-72",
@@ -2258,7 +2258,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Scabiosa columbar](https://www.paldat.org/pub/Scabiosa_columbar) [pollenwiki](https://pollenwiki.org/wiki/Scabiosa_columbar) ",
+      "latin": "[Scabiosa columbar](https://www.paldat.org/pub/Scabiosa_columbar) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Scabiosa_columbar) ",
       "dutch": "duifkruid",
       "vorm": "О ⁄ ∆",
       "grootte": "70",
@@ -2267,7 +2267,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Echinops sphaer](https://www.paldat.org/pub/Echinops_sphaer) [pollenwiki](https://pollenwiki.org/wiki/Echinops_sphaer) ",
+      "latin": "[Echinops sphaer](https://www.paldat.org/pub/Echinops_sphaer) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Echinops_sphaer) ",
       "dutch": "kogeldistel",
       "vorm": "ovaal",
       "grootte": "70",
@@ -2276,7 +2276,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Dipsacus](https://www.paldat.org/pub/Dipsacus) [pollenwiki](https://pollenwiki.org/wiki/Dipsacus) ",
+      "latin": "[Dipsacus](https://www.paldat.org/pub/Dipsacus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus) ",
       "dutch": "kaardebol",
       "vorm": "O",
       "grootte": "71-90",
@@ -2285,7 +2285,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Succisa praten](https://www.paldat.org/pub/Succisa_praten) [pollenwiki](https://pollenwiki.org/wiki/Succisa_praten) ",
+      "latin": "[Succisa praten](https://www.paldat.org/pub/Succisa_praten) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Succisa_praten) ",
       "dutch": "blauwe knoop",
       "vorm": "O",
       "grootte": "80",
@@ -2294,7 +2294,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Knautia spp](https://www.paldat.org/pub/Knautia_spp) [pollenwiki](https://pollenwiki.org/wiki/Knautia_spp) ",
+      "latin": "[Knautia spp](https://www.paldat.org/pub/Knautia_spp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Knautia_spp) ",
       "dutch": "-",
       "vorm": "O",
       "grootte": "80-110",
@@ -2303,7 +2303,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Malva sp.](https://www.paldat.org/pub/Malva_sp.) [pollenwiki](https://pollenwiki.org/wiki/Malva_sp.)",
+      "latin": "[Malva sp.](https://www.paldat.org/pub/Malva_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Malva_sp.)",
       "dutch": "kaasjeskruid",
       "vorm": "O",
       "grootte": "113",
@@ -2312,7 +2312,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Crocus ancyrensis](https://www.paldat.org/pub/Crocus_ancyrensis) [pollenwiki](https://pollenwiki.org/wiki/Crocus_ancyrensis) ",
+      "latin": "[Crocus ancyrensis](https://www.paldat.org/pub/Crocus_ancyrensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_ancyrensis) ",
       "dutch": "crocus",
       "vorm": "O",
       "grootte": "70-110",
@@ -2321,7 +2321,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Portulacca oleacera](https://www.paldat.org/pub/Portulacca_oleacera) [pollenwiki](https://pollenwiki.org/wiki/Portulacca_oleacera) ",
+      "latin": "[Portulacca oleacera](https://www.paldat.org/pub/Portulacca_oleacera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Portulacca_oleacera) ",
       "dutch": "postelein",
       "vorm": "O",
       "grootte": "ca. 80",
@@ -2330,7 +2330,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Crocus albiflorus](https://www.paldat.org/pub/Crocus_albiflorus) [pollenwiki](https://pollenwiki.org/wiki/Crocus_albiflorus) ",
+      "latin": "[Crocus albiflorus](https://www.paldat.org/pub/Crocus_albiflorus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus) ",
       "dutch": "crocus",
       "vorm": "O",
       "grootte": "125",
@@ -2339,7 +2339,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Pinus](https://www.paldat.org/pub/Pinus) sp. [pollenwiki](https://pollenwiki.org/wiki/Pinus_sp.)",
+      "latin": "[Pinus](https://www.paldat.org/pub/Pinus) sp. [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pinus_sp.)",
       "dutch": "den",
       "vorm": "ovaal/luchtzakken",
       "grootte": "44-75",
@@ -2348,7 +2348,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Calluna vulgaris](https://www.paldat.org/pub/Calluna_vulgaris) [pollenwiki](https://pollenwiki.org/wiki/Calluna_vulgaris) ",
+      "latin": "[Calluna vulgaris](https://www.paldat.org/pub/Calluna_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris) ",
       "dutch": "struikheide",
       "vorm": "tetrade",
       "grootte": "32-39",
@@ -2357,7 +2357,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Vaccinium vitis](https://www.paldat.org/pub/Vaccinium_vitis) -idaea [pollenwiki](https://pollenwiki.org/wiki/Vaccinium_vitis) ",
+      "latin": "[Vaccinium vitis](https://www.paldat.org/pub/Vaccinium_vitis) -idaea [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_vitis) ",
       "dutch": "vossebes",
       "vorm": "tetrade",
       "grootte": "35(33-35)",
@@ -2366,7 +2366,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Rhododendron](https://www.paldat.org/pub/Rhododendron) [pollenwiki](https://pollenwiki.org/wiki/Rhododendron) ",
+      "latin": "[Rhododendron](https://www.paldat.org/pub/Rhododendron) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron) ",
       "dutch": "rhododendron",
       "vorm": "tetrade",
       "grootte": "36(-50?)",
@@ -2375,7 +2375,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Vaccinium corymb](https://www.paldat.org/pub/Vaccinium_corymb) [pollenwiki](https://pollenwiki.org/wiki/Vaccinium_corymb) ",
+      "latin": "[Vaccinium corymb](https://www.paldat.org/pub/Vaccinium_corymb) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymb) ",
       "dutch": "blauwe bes",
       "vorm": "tetrade",
       "grootte": "37-42",
@@ -2384,7 +2384,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Erica tetralix](https://www.paldat.org/pub/Erica_tetralix) [pollenwiki](https://pollenwiki.org/wiki/Erica_tetralix) ",
+      "latin": "[Erica tetralix](https://www.paldat.org/pub/Erica_tetralix) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_tetralix) ",
       "dutch": "dopheide",
       "vorm": "tetrade",
       "grootte": "39(37-40)",
@@ -2393,7 +2393,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus) [pollenwiki](https://pollenwiki.org/wiki/Vaccinium_myrtillus) ",
+      "latin": "[Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_myrtillus) ",
       "dutch": "bosbes",
       "vorm": "tetrade",
       "grootte": "(40-)47",
@@ -2402,7 +2402,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Astragalus sinicus](https://www.paldat.org/pub/Astragalus_sinicus) [pollenwiki](https://pollenwiki.org/wiki/Astragalus_sinicus) ",
+      "latin": "[Astragalus sinicus](https://www.paldat.org/pub/Astragalus_sinicus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Astragalus_sinicus) ",
       "dutch": "milkvetch",
       "vorm": "ovaal",
       "grootte": "17",
@@ -2411,7 +2411,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Oost Azië [Theobroma cacao](https://www.paldat.org/pub/Theobroma_cacao) [pollenwiki](https://pollenwiki.org/wiki/Theobroma_cacao) ",
+      "latin": "Oost Azië [Theobroma cacao](https://www.paldat.org/pub/Theobroma_cacao) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Theobroma_cacao) ",
       "dutch": "cacao",
       "vorm": "ca O",
       "grootte": "17",
@@ -2420,7 +2420,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Cannabis sativa](https://www.paldat.org/pub/Amorpha_fruticosa/ [pollenwiki](https://pollenwiki.org/wiki/Amorpha_fruticosa) ",
+      "latin": "[Cannabis sativa](https://www.paldat.org/pub/Amorpha_fruticosa/ [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Amorpha_fruticosa) ",
       "dutch": "cannabis",
       "vorm": "O",
       "grootte": "20",
@@ -2429,7 +2429,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Amorpha fruticosa](https://www.paldat.org/pub/Amorpha_fruticosa) [pollenwiki](https://pollenwiki.org/wiki/Amorpha_fruticosa) ",
+      "latin": "[Amorpha fruticosa](https://www.paldat.org/pub/Amorpha_fruticosa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Amorpha_fruticosa) ",
       "dutch": "valse indigo",
       "vorm": "О ⁄ ∆",
       "grootte": "21",
@@ -2438,7 +2438,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Punica granatum](https://www.paldat.org/pub/Punica_granatum) [pollenwiki](https://pollenwiki.org/wiki/Punica_granatum) ",
+      "latin": "[Punica granatum](https://www.paldat.org/pub/Punica_granatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Punica_granatum) ",
       "dutch": "granaatappel",
       "vorm": "O tot ovaal",
       "grootte": "21",
@@ -2447,7 +2447,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Eucalyptus camal [pollenwiki](https://pollenwiki.org/wiki/Eucalyptus_camal) ",
+      "latin": "Eucalyptus camal [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eucalyptus_camal) ",
       "dutch": "eucalyptus",
       "vorm": "∆",
       "grootte": "22",
@@ -2456,7 +2456,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Olea europaea [pollenwiki](https://pollenwiki.org/wiki/Olea_europaea) ",
+      "latin": "Olea europaea [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Olea_europaea) ",
       "dutch": "olijf",
       "vorm": "onregelmatig O",
       "grootte": "22",
@@ -2465,7 +2465,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Caragana arborescens](https://www.paldat.org/pub/Caragana_arborescens) [pollenwiki](https://pollenwiki.org/wiki/Caragana_arborescens) ",
+      "latin": "[Caragana arborescens](https://www.paldat.org/pub/Caragana_arborescens) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Caragana_arborescens) ",
       "dutch": "erwtenstruik",
       "vorm": "ovaal/O",
       "grootte": "23(20-25)",
@@ -2474,7 +2474,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Sapindaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Sapindaceae) (fam.) [pollenwiki](https://pollenwiki.org/wiki/Sapindaceae) ",
+      "latin": "[Sapindaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Sapindaceae) (fam.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sapindaceae) ",
       "dutch": "-",
       "vorm": "∆",
       "grootte": "23",
@@ -2483,7 +2483,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Mercurialis perennis](https://www.paldat.org/pub/Mercurialis_perennis) [pollenwiki](https://pollenwiki.org/wiki/Mercurialis_perennis) ",
+      "latin": "[Mercurialis perennis](https://www.paldat.org/pub/Mercurialis_perennis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mercurialis_perennis) ",
       "dutch": "bingelkruid",
       "vorm": "О ⁄ ∆/ovaal",
       "grootte": "23-26",
@@ -2492,7 +2492,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Sulla coronaria [pollenwiki](https://pollenwiki.org/wiki/Sulla_coronaria) ",
+      "latin": "Sulla coronaria [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sulla_coronaria) ",
       "dutch": "French honeysuc",
       "vorm": "ovaal",
       "grootte": "24",
@@ -2501,7 +2501,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Citrus sinensis [pollenwiki](https://pollenwiki.org/wiki/Citrus_sinensis) ",
+      "latin": "Citrus sinensis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_sinensis) ",
       "dutch": "sinaasappel",
       "vorm": "□/O",
       "grootte": "25",
@@ -2510,7 +2510,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Mangifera indica](https://www.paldat.org/pub/Mangifera_indica) [pollenwiki](https://pollenwiki.org/wiki/Mangifera_indica) ",
+      "latin": "[Mangifera indica](https://www.paldat.org/pub/Mangifera_indica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mangifera_indica) ",
       "dutch": "mango",
       "vorm": "ovaal/O",
       "grootte": "25(-27)",
@@ -2519,7 +2519,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Coffea](https://www.paldat.org/search/genus/Coffea) sp. [pollenwiki](https://pollenwiki.org/wiki/Coffea_sp.)",
+      "latin": "[Coffea](https://www.paldat.org/search/genus/Coffea) sp. [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Coffea_sp.)",
       "dutch": "koffie",
       "vorm": "ca O",
       "grootte": "25-32",
@@ -2528,7 +2528,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Ceratonia silqua](https://www.paldat.org/pub/Ceratonia_siliqua) [pollenwiki](https://pollenwiki.org/wiki/Ceratonia_siliqua) ",
+      "latin": "[Ceratonia silqua](https://www.paldat.org/pub/Ceratonia_siliqua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ceratonia_siliqua) ",
       "dutch": "Johannesbroodboom",
       "vorm": "O",
       "grootte": "25-27",
@@ -2537,7 +2537,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Loranthus europaeus](https://www.paldat.org/pub/Loranthus_europaeus) [pollenwiki](https://pollenwiki.org/wiki/Loranthus_europaeus) ",
+      "latin": "[Loranthus europaeus](https://www.paldat.org/pub/Loranthus_europaeus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Loranthus_europaeus) ",
       "dutch": "mistletoe fam",
       "vorm": "∆",
       "grootte": "26",
@@ -2546,7 +2546,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Ulex](https://www.paldat.org/search/genus/Ulex) sp [pollenwiki](https://pollenwiki.org/wiki/Ulex_sp) ",
+      "latin": "[Ulex](https://www.paldat.org/search/genus/Ulex) sp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ulex_sp) ",
       "dutch": "gaspeldoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "27",
@@ -2555,7 +2555,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Anacardium occidentale [pollenwiki](https://pollenwiki.org/wiki/Anacardium_occidentale) ",
+      "latin": "Anacardium occidentale [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anacardium_occidentale) ",
       "dutch": "cashew",
       "vorm": "onregelmatig ovaal",
       "grootte": "28",
@@ -2564,7 +2564,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Carpobrotus edulis](https://www.paldat.org/pub/Carpobrotus_edulis) [pollenwiki](https://pollenwiki.org/wiki/Carpobrotus_edulis)  ",
+      "latin": "[Carpobrotus edulis](https://www.paldat.org/pub/Carpobrotus_edulis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carpobrotus_edulis)  ",
       "dutch": "hottentotvijg",
       "vorm": "O",
       "grootte": "28",
@@ -2573,7 +2573,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Borreria](https://www.paldat.org/search/genus/Borreria) sp. (Rubia) [pollenwiki](https://pollenwiki.org/wiki/Borreria_sp.)",
+      "latin": "[Borreria](https://www.paldat.org/search/genus/Borreria) sp. (Rubia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Borreria_sp.)",
       "dutch": "Borreria",
       "vorm": "O",
       "grootte": "30",
@@ -2582,7 +2582,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Erica arborea](https://www.paldat.org/pub/Erica_arborea) [pollenwiki](https://pollenwiki.org/wiki/Erica_arborea) ",
+      "latin": "[Erica arborea](https://www.paldat.org/pub/Erica_arborea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_arborea) ",
       "dutch": "boomheide",
       "vorm": "tetrade",
       "grootte": "30",
@@ -2591,7 +2591,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Davidia involucrata](https://www.paldat.org/pub/Davidia_involucrata) [pollenwiki](https://pollenwiki.org/wiki/Davidia_involucrata) ",
+      "latin": "[Davidia involucrata](https://www.paldat.org/pub/Davidia_involucrata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Davidia_involucrata) ",
       "dutch": "vaantjesboom",
       "vorm": "О ⁄ ∆",
       "grootte": "33",
@@ -2600,7 +2600,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Ferula communis [pollenwiki](https://pollenwiki.org/wiki/Ferula_communis) ",
+      "latin": "Ferula communis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ferula_communis) ",
       "dutch": "Reuzen-schijnvenkel",
       "vorm": "ovaal",
       "grootte": "33x20",
@@ -2609,7 +2609,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Teucrium chamaedrys](https://www.paldat.org/pub/Teucrium_chamaedrys) [pollenwiki](https://pollenwiki.org/wiki/Teucrium_chamaedrys) ",
+      "latin": "[Teucrium chamaedrys](https://www.paldat.org/pub/Teucrium_chamaedrys) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Teucrium_chamaedrys) ",
       "dutch": "echte gamander",
       "vorm": "ovaal",
       "grootte": "29-33",
@@ -2618,7 +2618,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Euphorbia](https://www.paldat.org/search/genus/Euphorbia) spp [pollenwiki](https://pollenwiki.org/wiki/Euphorbia_spp) ",
+      "latin": "[Euphorbia](https://www.paldat.org/search/genus/Euphorbia) spp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Euphorbia_spp) ",
       "dutch": "euphorbia",
       "vorm": "О ⁄ ∆",
       "grootte": "35-46",
@@ -2627,7 +2627,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Tordylium apulum](https://www.paldat.org/pub/Tordylium_apulum) [pollenwiki](https://pollenwiki.org/wiki/Tordylium_apulum) ",
+      "latin": "[Tordylium apulum](https://www.paldat.org/pub/Tordylium_apulum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tordylium_apulum) ",
       "dutch": "hertenplant",
       "vorm": "ovaal",
       "grootte": "36x17",
@@ -2636,7 +2636,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Lavandula angisti](https://www.paldat.org/pub/Lavandula_angustifolia) [pollenwiki](https://pollenwiki.org/wiki/Lavandula_angustifolia) ",
+      "latin": "[Lavandula angisti](https://www.paldat.org/pub/Lavandula_angustifolia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia) ",
       "dutch": "lavendel",
       "vorm": "zeskantig",
       "grootte": "38",
@@ -2645,7 +2645,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Viscum album](https://www.paldat.org/pub/Viscum_album) [pollenwiki](https://pollenwiki.org/wiki/Viscum_album) ",
+      "latin": "[Viscum album](https://www.paldat.org/pub/Viscum_album) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viscum_album) ",
       "dutch": "mistletoe",
       "vorm": "О ⁄ ∆",
       "grootte": "43",
@@ -2654,7 +2654,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Cistus salviifolius](https://www.paldat.org/pub/Cistus_salviifolius) [pollenwiki](https://pollenwiki.org/wiki/Cistus_salviifolius) ",
+      "latin": "[Cistus salviifolius](https://www.paldat.org/pub/Cistus_salviifolius) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cistus_salviifolius) ",
       "dutch": "Saliebladige zistroos",
       "vorm": "⁄ ∆",
       "grootte": "49",
@@ -2663,7 +2663,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Citrullus lanatus](https://www.paldat.org/pub/Citrullus_lanatus) [pollenwiki](https://pollenwiki.org/wiki/Citrullus_lanatus) ",
+      "latin": "[Citrullus lanatus](https://www.paldat.org/pub/Citrullus_lanatus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrullus_lanatus) ",
       "dutch": "watermeloen",
       "vorm": "ca O",
       "grootte": "56",
@@ -2672,7 +2672,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Afrika Kolkwitzia amabilis [pollenwiki](https://pollenwiki.org/wiki/Kolkwitzia_amabilis) ",
+      "latin": "Afrika Kolkwitzia amabilis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kolkwitzia_amabilis) ",
       "dutch": "kolkwitzia",
       "vorm": "О ⁄ ∆",
       "grootte": "56",
@@ -2681,7 +2681,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Liriodendron tulipifera](https://www.paldat.org/pub/Liriodendron_tulipifera) [pollenwiki](https://pollenwiki.org/wiki/Liriodendron_tulipifera) ",
+      "latin": "[Liriodendron tulipifera](https://www.paldat.org/pub/Liriodendron_tulipifera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Liriodendron_tulipifera) ",
       "dutch": "tulpenboom",
       "vorm": "half ovaal",
       "grootte": "57",
@@ -2690,7 +2690,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Asphodelus aestiv](https://www.paldat.org/pub/Asphodelus_aestiv) alleen EM [pollenwiki](https://pollenwiki.org/wiki/Asphodelus_aestiv) ",
+      "latin": "[Asphodelus aestiv](https://www.paldat.org/pub/Asphodelus_aestiv) alleen EM [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asphodelus_aestiv) ",
       "dutch": "gewone daffodil",
       "vorm": "half ovaal",
       "grootte": "61",
@@ -2699,7 +2699,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata) [pollenwiki](https://pollenwiki.org/wiki/Catalpa_ovata) ",
+      "latin": "[Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Catalpa_ovata) ",
       "dutch": "trompetboom",
       "vorm": "tetrade",
       "grootte": "73",
@@ -2708,7 +2708,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Larix decidua](https://www.paldat.org/pub/Larix_decidua) [pollenwiki](https://pollenwiki.org/wiki/Larix_decidua) ",
+      "latin": "[Larix decidua](https://www.paldat.org/pub/Larix_decidua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Larix_decidua) ",
       "dutch": "larix",
       "vorm": "O",
       "grootte": "92 ",
@@ -2717,7 +2717,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Abelmoschus esculentus [pollenwiki](https://pollenwiki.org/wiki/Abelmoschus_esculentus)  [pollenwiki](https://pollenwiki.org/wiki/Abelmoschus_esculentus) ",
+      "latin": "Abelmoschus esculentus [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Abelmoschus_esculentus)  [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Abelmoschus_esculentus) ",
       "dutch": "okra",
       "vorm": "O",
       "grootte": "175",

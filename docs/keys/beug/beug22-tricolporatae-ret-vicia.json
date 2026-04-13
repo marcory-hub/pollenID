@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Poriediameter 9-10 µm, PK 53-59 µm groot, pollenvormindex 1,8-2,1 (Tafel 78: 15-19).",
-          "next": "beug_tricolporatae_reticulate_223151_pisum_sativum_sub"
+          "next": "beug_tricolporatae_reticulate_223151_pisum_sativum_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poriediameter tot 8 µm, PK tussen 32 en 54 µm groot, pollenvormindex tussen 1,3 en 2,5 (Tafel 79: 8-10).",
-          "next": "beug_tricolporatae_reticulate_223152_vicia_type_s_str_sub"
+          "next": "beug_tricolporatae_reticulate_223152_vicia_type_s_str_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

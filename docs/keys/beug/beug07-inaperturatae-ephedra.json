@@ -13,12 +13,32 @@
         {
           "label": "Pseudocolpi zigzagvormig en vertakt, PK met 3-8 ribben (Afb. 9d)",
           "outcome": {
-            "text": "7.2.1 *Ephedra distachya-type*"
+            "text": "7.2.1 *Ephedra distachya-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Pseudocolpi onvertakt, recht of zwak golvend respectievelijk zigzagvormig, PK met meer dan 8 ribben (Afb. 9e)",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -27,13 +47,33 @@
         {
           "label": "pollenvormindex 1,5-2,3, PK met (9)11-17 ribben",
           "outcome": {
-            "text": "7.2.2 *Ephedra fragilis-type*"
+            "text": "7.2.2 *Ephedra fragilis-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenvormindex 1,1-1,4, PK met 16-20 ribben",
           "outcome": {
-            "text": "7.2.3 *Ephedra foliata-type*"
+            "text": "7.2.3 *Ephedra foliata-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

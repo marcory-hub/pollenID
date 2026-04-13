@@ -16,13 +16,33 @@
         {
           "label": "PK striat, met vereinzelten Anastomosen zwischen de Valla (Tafel 114: 11-13).",
           "outcome": {
-            "text": "33.11.1 *Polemonium caeruleum*"
+            "text": "33.11.1 *Polemonium caeruleum*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK striat-reticulaat (Tafel 114: 14-17).",
           "outcome": {
-            "text": "33.11.2 *Polemonium boreale*"
+            "text": "33.11.2 *Polemonium boreale*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

@@ -12,11 +12,31 @@
       "choices": [
         {
           "label": "Akontuur aan de IC-zijde recht (Tafel 23: 18) of concaaf (Tafel 25: 18), C-zijde recht (Tafel 25: 23), concaaf (Tafel 25: 25, Tafel 27: 25) of jukvormig gebogen (Tafel 26: 12), niet met blaasvormig voorgewelfde porie. PK meestal staaf- of haltervormig",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Akontuur aan de C-zijde convex (Tafel 27: 8, 13), indien recht of jukvormig, dan met blaasvormig voorgewelfde porie, IC-zijde verschillend, PK elliptisch (Tafel 25: 36) of C-zijde ruitvormig (Tafel 26: 24), porie voorgewelfd of niet voorgewelfd",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -25,12 +45,32 @@
         {
           "label": "PK 60-85 µm groot, Exine equatoriaal aan de IC-zijde 14-19 µm dik en met 8-10 µm lange columellae. tectum dik (Tafel 22: 9-10)",
           "outcome": {
-            "text": "14.11.1 *Turgenia latifolia* (Blz.. 170)"
+            "text": "14.11.1 *Turgenia latifolia* (Blz.. 170)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK kleiner of met andere kenmerken",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -38,11 +78,31 @@
       "choices": [
         {
           "label": "Verschillen in de dikte van de columella-laag en de Exine duidelijk",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Verschillen in de dikte van de columella-laag (equatoriaal max. 1,5 µm) en deels ook de Exine tussen het equatoriale en polaire gebied gering of ontbrekend, soms ook subequatoriaal iets dikker dan equatoriaal en polair.",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -50,12 +110,32 @@
       "choices": [
         {
           "label": "columellae equatoriaal en/of subequatoriaal duidelijk langer dan polair",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columellae polair langer dan equatoriaal (Tafel 23: 1-3).",
           "outcome": {
-            "text": "14.11.2 *Heracleum sphondylium* (Blz.. 170)"
+            "text": "14.11.2 *Heracleum sphondylium* (Blz.. 170)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -64,11 +144,31 @@
       "choices": [
         {
           "label": "Colpi kort, CL-index 0,30-0,48, PK groter dan 39 µm, ikontuur naar het equatoriale midden toe sterk ingebogen (Tafel 23: 6), columellae hier max. 3,0-4,5 µm lang.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Colpi langer, CL-index groter dan 0,50 of PK kleiner dan 43 µm",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -77,13 +177,33 @@
         {
           "label": "columellae in het equatoriale midden 4,0-4,7 µm lang. ikontuur naar het equatoriale midden sterk ingezonken (Tafel 23: 4-6)",
           "outcome": {
-            "text": "14.11.3 *Tordylium apulum* (Blz.. 170)"
+            "text": "14.11.3 *Tordylium apulum* (Blz.. 170)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae in het equatoriale midden (1,7)2,0-3,0 µm lang, C-zijde ingezonken of ingebogen (Tafel 23: 7-9)",
           "outcome": {
-            "text": "14.11.4 *Caucalis platycarpos-type* (Blz.. 170)"
+            "text": "14.11.4 *Caucalis platycarpos-type* (Blz.. 170)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -93,13 +213,33 @@
         {
           "label": "columellae subequatoriaal duidelijk langer dan polair en equatoriaal, Intercolpia hierdoor vleugelachtig verdikt (Tafel 25: 1-2)",
           "outcome": {
-            "text": "14.11.5 *Pimpinella saxifraga* (Blz.. 172)"
+            "text": "14.11.5 *Pimpinella saxifraga* (Blz.. 172)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae in het equatoriale gebied, ten minste in het equatoriale midden, duidelijk langer (equatoriaal ten minste 1,5 µm lang en tweemaal zo lang als polair) dan polair (hier slechts 0,7-1,0 µm lang) (Tafel 23: 13-22)",
           "outcome": {
-            "text": "14.11.6 *Conium-type* (Blz.. 172)"
+            "text": "14.11.6 *Conium-type* (Blz.. 172)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -109,12 +249,32 @@
         {
           "label": "PK 54-67 µm groot, met opvallend dik tectum (Tafel 24: 1-2)",
           "outcome": {
-            "text": "14.11.7 *Orlaya grandiflora* (Blz.. 173)"
+            "text": "14.11.7 *Orlaya grandiflora* (Blz.. 173)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK niet met opvallend dik tectum",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -122,11 +282,31 @@
       "choices": [
         {
           "label": "Equatoriale diameter 20-32 µm, PK 36-72 µm groot.",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Equatoriale diameter 13-19 µm, PK 22-45 µm groot.",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -135,13 +315,33 @@
         {
           "label": "columella-laag equatoriaal 1,8-2,0 µm dik. columellae tot 1 µm dik, zeer duidelijk en contrastrijk (Tafel 23: 10-12)",
           "outcome": {
-            "text": "14.11.8 *Oenanthe fistulosa* (Blz.. 173)"
+            "text": "14.11.8 *Oenanthe fistulosa* (Blz.. 173)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columella-laag equatoriaal 0,7-1,0 µm dik. columellae slechts ongeveer 0,5 µm dik, contrastarm (Tafel 24: 3-6)",
           "outcome": {
-            "text": "14.11.9 *Astrantia-type* (Blz.. 173)"
+            "text": "14.11.9 *Astrantia-type* (Blz.. 173)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -151,13 +351,33 @@
         {
           "label": "columellae in het polaire gebied iets dikker en met grotere afstanden dan equatoriaal, PK 36-45 µm groot, equatoriale diameter 17-19 µm, CL-index 0,88-0,92, pollenvormindex-S 2,17-2,37 (Tafel 25: 3-5)",
           "outcome": {
-            "text": "14.11.10 *Cicuta virosa* (Blz.. 173)"
+            "text": "14.11.10 *Cicuta virosa* (Blz.. 173)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae equatoriaal en polair gelijk dik en met gelijke afstanden of columellae zeer dun of PK met andere kenmerken (Tafel 25: 7-25, 30-36)",
           "outcome": {
-            "text": "14.11.11 Verzamelgroep (Blz.. 173)"
+            "text": "14.11.11 Verzamelgroep (Blz.. 173)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -167,12 +387,32 @@
         {
           "label": "C-zijde meestal convex, PK 40-65 µm groot, Exine polair en equatoriaal zonder duidelijke verschillen, 1,5-2,5 µm dik, columellae vaak onduidelijk. Equatoriaal gebied of equatoriaal midden concaaf of recht, C-zijde vaak met blaasvormig voorgewelfde porie. Akontuur in het polaire gebied aan de IC-zijde afgeschuind, aan de C-zijde afgerond (Tafel 24: 7-14)",
           "outcome": {
-            "text": "14.11.12 *Eryngium* (Blz.. 176)"
+            "text": "14.11.12 *Eryngium* (Blz.. 176)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met andere kenmerken",
-          "next": "13"
+          "next": "13",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -180,11 +420,31 @@
       "choices": [
         {
           "label": "PK elliptisch of C-zijde recht of jukvormig en met blaasvormig voorgewelfde porie.",
-          "next": "14"
+          "next": "14",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "C-zijde ruitvormig, met of zonder voorgewelfde porie. IC-zijde elliptisch, recht of concaaf",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -192,11 +452,31 @@
       "choices": [
         {
           "label": "PK elliptisch",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "C-zijde recht tot jukvormig en met blaasvormig voorgewelfde porie.",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -205,13 +485,33 @@
         {
           "label": "columella-laag polair dikker dan equatoriaal (Tafel 27: 1-2)",
           "outcome": {
-            "text": "14.11.13 *Trochiscanthus nodiflorus* (Blz.. 177)"
+            "text": "14.11.13 *Trochiscanthus nodiflorus* (Blz.. 177)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columella-laag equatoriaal dikker dan polair (Tafel 25: 35-36; Tafel 27: 5-6)",
           "outcome": {
-            "text": "14.11.14 *Berula erecta-groep* (Blz.. 177)"
+            "text": "14.11.14 *Berula erecta-groep* (Blz.. 177)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -221,12 +521,32 @@
         {
           "label": "Exine polair duidelijk het dikst (Tafel 25: 26-29)",
           "outcome": {
-            "text": "14.11.15 *Anthriscus cerefolium* (Blz.. 177)"
+            "text": "14.11.15 *Anthriscus cerefolium* (Blz.. 177)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine polair niet het dikst",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -235,12 +555,32 @@
         {
           "label": "Exine subequatoriaal sterk verdikt (3,5-6,0 µm), polair en equatoriaal dunner (Tafel 26: 1-4).",
           "outcome": {
-            "text": "14.11.16 *Pimpinella major-type* (Blz.. 178)"
+            "text": "14.11.16 *Pimpinella major-type* (Blz.. 178)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK subequatoriaal niet of slechts zwak verdikt",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -249,12 +589,32 @@
         {
           "label": "PK 44-55 µm groot, CL-index 0,42-0,55 (Tafel 26: 5-6)",
           "outcome": {
-            "text": "14.11.17 *Scandix pecten-veneris* (Blz.. 178)"
+            "text": "14.11.17 *Scandix pecten-veneris* (Blz.. 178)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK kleiner dan 44 µm of CL-index groter dan 0,55",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -263,13 +623,33 @@
         {
           "label": "C-zijde recht (Tafel 26: 7-10)",
           "outcome": {
-            "text": "14.11.18 *Daucus-type* (Blz.. 180)"
+            "text": "14.11.18 *Daucus-type* (Blz.. 180)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "C-zijde jukvormig (Tafel 26: 11-12)",
           "outcome": {
-            "text": "14.11.19 *Bifora-type* (Blz.. 180)"
+            "text": "14.11.19 *Bifora-type* (Blz.. 180)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -278,12 +658,32 @@
       "choices": [
         {
           "label": "Exine polair dikker dan equatoriaal.",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine polair niet dikker dan equatoriaal, C-zijde duidelijk convex, ruitvormig met of zonder voorgewelfde porieregio, IC-zijde recht of zeer zwak convex, niet jukvormig. PK hoekig (Tafel 26: 13-26)",
           "outcome": {
-            "text": "14.11.20 *Bupleurum*, *Grafia*, *Molopospermum* (Blz.. 180)"
+            "text": "14.11.20 *Bupleurum*, *Grafia*, *Molopospermum* (Blz.. 180)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -292,12 +692,32 @@
       "choices": [
         {
           "label": "Polaire verdikking van de Exine duidelijk",
-          "next": "22"
+          "next": "22",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Polaire en subpolaire verdikking van de Exine gering, poriën equatoriaal verlengd (Tafel 27: 3-4).",
           "outcome": {
-            "text": "14.11.21 *Ligusticum mutellina-type* (Blz.. 182)"
+            "text": "14.11.21 *Ligusticum mutellina-type* (Blz.. 182)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -307,12 +727,32 @@
         {
           "label": "pollenvormindex-S 1,26-1,38, poriën equatoriaal verlengd, polaire verdikking van de Exine duidelijk (polair 2,5-3,0 µm, equatoriaal 1,5-1,8 µm), PK 23-30 µm groot (Tafel 27: 7-11)",
           "outcome": {
-            "text": "14.11.22 *Hydrocotyle vulgaris* (Blz.. 184)"
+            "text": "14.11.22 *Hydrocotyle vulgaris* (Blz.. 184)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "pollenvormindex-S 1,38-1,90, polaire verdikking van de Exine geringer.",
-          "next": "23"
+          "next": "23",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -321,13 +761,33 @@
         {
           "label": "poriën meridioonaal verlengd of vierkant, PK ten minste equatoriaal hoekig (Tafel 27: 12-25)",
           "outcome": {
-            "text": "14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (Blz.. 184)"
+            "text": "14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (Blz.. 184)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "poriën equatoriaal verlengd, PK interhoekig (Tafel 27: 26-29)",
           "outcome": {
-            "text": "14.11.24 *Levisticum-type* (Blz.. 186)"
+            "text": "14.11.24 *Levisticum-type* (Blz.. 186)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

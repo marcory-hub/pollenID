@@ -13,13 +13,33 @@
         {
           "label": "Exine äquatorial bis subpolar 3-4 µm dick (Tafel 14: 9-12)",
           "outcome": {
-            "text": "13.11.1 *Aphanes arvensis-type*"
+            "text": "13.11.1 *Aphanes arvensis-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Exine äquatorial bis subpolar dunner als 3 µm (Tafel 14: 13-20)",
           "outcome": {
-            "text": "13.11.2 *Alchemilla pentaphyllea-type*"
+            "text": "13.11.2 *Alchemilla pentaphyllea-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

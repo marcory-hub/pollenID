@@ -16,13 +16,33 @@
         {
           "label": "PK 49-60 µm groot, papillöse Vorwölbungen des Tectums duidelijk, Echini tot 1,5 µm lang (Tafel 107: 19-22).",
           "outcome": {
-            "text": "33.3.1 *Ranunculus arvensis*"
+            "text": "33.3.1 *Ranunculus arvensis*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 35-31 µm groot, papillöse Vorwölbungen des Tectums flach, Microechini ca. 0,5 µm lang (Tafel 107: 23-25).",
           "outcome": {
-            "text": "33.3.2 *Ranunculus parviflorus*"
+            "text": "33.3.2 *Ranunculus parviflorus*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

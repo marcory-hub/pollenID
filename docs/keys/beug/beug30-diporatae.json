@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "PK reticulaat, microreticulaat, retipilat of echinaat bzw. microechinaat.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK psilaat of scabraat.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -30,12 +50,32 @@
         {
           "label": "PK echinaat of microechinaat (Tafel 105: 1-18).",
           "outcome": {
-            "text": "*Campanulaceae* p.p. (Blz. 449)"
+            "text": "*Campanulaceae* p.p. (Blz. 449)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK reticulaat, microreticulaat of retipilat.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -45,12 +85,32 @@
       "choices": [
         {
           "label": "PK reticulaat of microreticulaat, 50-75 µm groot (Tafel 96: 5-6).",
-          "next": "beug_diporatae_301_colchicum_gruppe_sub"
+          "next": "beug_diporatae_301_colchicum_gruppe_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK retipilat, 19-35 µm groot (Tafel 96: 1-4).",
           "outcome": {
-            "text": "30.2 *Callitriche palustris*-type (Blz. 424)"
+            "text": "30.2 *Callitriche palustris*-type (Blz. 424)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -62,12 +122,32 @@
         {
           "label": "PK tot ca. 17 µm groot (Tafel 120: 21-23).",
           "outcome": {
-            "text": "30.3 *Ficus carica* (Blz. 424)"
+            "text": "30.3 *Ficus carica* (Blz. 424)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK ten minste 17-20 µm groot.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -78,12 +158,32 @@
         {
           "label": "Poriën met kräftigem annulus, Anuli 4,0-4,8 µm breit en 3,8-4,6 µm hoch.",
           "outcome": {
-            "text": "*Myriophyllum alterniflorum* (Blz. 448)"
+            "text": "*Myriophyllum alterniflorum* (Blz. 448)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Poriën zonder annulus.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -94,13 +194,33 @@
         {
           "label": "Porendurchmesser 5-7 µm, PK 20-28 µm groot (Tafel 95: 13-15).",
           "outcome": {
-            "text": "30.4 *Cytinus hypocistis* (Blz. 426)"
+            "text": "30.4 *Cytinus hypocistis* (Blz. 426)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Porendurchmesser 2,5-3 µm, PK (17)26-35 µm groot (Tafel 95: 16-17).",
           "outcome": {
-            "text": "30.5 *Itea* (Blz. 426)"
+            "text": "30.5 *Itea* (Blz. 426)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

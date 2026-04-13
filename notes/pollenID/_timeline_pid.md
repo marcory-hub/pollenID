@@ -13,6 +13,9 @@ to do
 - monoflorale honing: make categories (dutch oververtegenwoordigde pollen, dutch ondervertegenwoordigde pollen)
 - composietentype documentation
 
+
+2026-04-09
+- add images to eide and reitsma
 2026-03-03
 - add [[pollen terminology]]
 - add beug keys in json format

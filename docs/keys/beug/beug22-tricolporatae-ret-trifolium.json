@@ -16,7 +16,17 @@
         {
           "label": "brochi polair en subpolair niet of nur onwezenlijk kleiner als op den Intercolpiën (Tafel 78: 1-7).",
           "outcome": {
-            "text": "22.31.4.2 *Trifolium pratense*-type (Blz... 351)"
+            "text": "22.31.4.2 *Trifolium pratense*-type (Blz... 351)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {

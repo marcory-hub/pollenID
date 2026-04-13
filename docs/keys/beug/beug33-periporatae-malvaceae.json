@@ -15,12 +15,32 @@
       "choices": [
         {
           "label": "PK 105-140 µm groot.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK 70-100 µm groot (Tafel 109: 1-2).",
           "outcome": {
-            "text": "33.6.1 *Malva neglecta*-type"
+            "text": "33.6.1 *Malva neglecta*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -32,13 +52,33 @@
         {
           "label": "afstanden der Poriën 8-15 µm (Tafel 109: 3-4).",
           "outcome": {
-            "text": "33.6.2 *Malva sylvestris*-type"
+            "text": "33.6.2 *Malva sylvestris*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "afstanden der Poriën 18-30 µm.",
           "outcome": {
-            "text": "33.6.3 *Lavatera*-type"
+            "text": "33.6.3 *Lavatera*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

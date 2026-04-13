@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "annulus (1,)1,2-4 µm breit, fein scabraat, microechinaat en microreticulat of met Tectum perforatum, PK meestal 8eckig en met 12 Poriën.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "annulus 0,6-1,0 µm breit, Indien tot 1,1 µm breit, PK niet 8eckig en met mehr als 12 Poriën, Anuli glad of Poriën zonder annulus.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -30,12 +50,32 @@
         {
           "label": "Anuli 1,2-2,0 µm breit, fein scabraat (Indien in intrareticulum of intramicroreticulum, vgl. Alisma-Gruppe, Blz. 464) (Tafel 110: 1-6).",
           "outcome": {
-            "text": "33.8.1 *Gypsophila repens*-type (Blz. 469)"
+            "text": "33.8.1 *Gypsophila repens*-type (Blz. 469)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Anuli 2-4 µm breit, microreticulat of met deutlichem Tectum perforatum, met 0,6-1,0 µm breed glatten Innenring.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -46,13 +86,33 @@
         {
           "label": "columella's an der schmalsten Stelle der Interporen nur 1-2 reihig, columella's tot 2,0(2,5) µm dik (Tafel 110: 7-10).",
           "outcome": {
-            "text": "33.8.2 *Scleranthus* (Blz. 470)"
+            "text": "33.8.2 *Scleranthus* (Blz. 470)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columella's an der schmalsten Stelle der Interporen mehr als zweireihig, PK microreticulat en microechinaat, columella's 1,0-1,2 µm dik (Tafel 110: 11-16).",
           "outcome": {
-            "text": "33.8.3 *Stellaria holostea* (Blz. 470)"
+            "text": "33.8.3 *Stellaria holostea* (Blz. 470)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -63,11 +123,31 @@
       "choices": [
         {
           "label": "Poriën zonder annulus.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poriën met annulus.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -78,12 +158,32 @@
         {
           "label": "Zahl der Perforationen of microbrochi duidelijk größer als die Zahl der columella's (Tafel 110: 17-20).",
           "outcome": {
-            "text": "33.8.5 *Cerastium*-type (Blz. 472)"
+            "text": "33.8.5 *Cerastium*-type (Blz. 472)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Zahl der Perforationen, Mircobrochi, bzw. Brochi of netmazingen in der columella-laag etwa so wie die Zahl der columella's of duidelijk kleiner.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -94,12 +194,32 @@
         {
           "label": "PK reticulaat, Brochi 1,5-4,0 µm groot (Tafel 110: 21-22).",
           "outcome": {
-            "text": "33.8.6 *Melandrium* (Blz. 474)"
+            "text": "33.8.6 *Melandrium* (Blz. 474)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met Tectum perforatum of microreticulat.",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -110,12 +230,32 @@
         {
           "label": "PK microreticulat: Lumina regelmäßig angeordnet, afstanden der Lumina so groot wie ihr Diameter of nur wenig größer; Indien Brochi duidelijk over 1,0 µm (*Honkeya* max. 1,8 µm), dan Poriën kleiner als bei *Melandrium* (Tafel 111: 1-4).",
           "outcome": {
-            "text": "33.8.7 *Minuartia verna*-type (Blz. 474)"
+            "text": "33.8.7 *Minuartia verna*-type (Blz. 474)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met Tectum perforatum.",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -126,12 +266,32 @@
         {
           "label": "PK größer als 54 µm, met 30-40 Poriën (Tafel 111: 5-10).",
           "outcome": {
-            "text": "33.8.8 *Agrostemma githago* (Blz. 476)"
+            "text": "33.8.8 *Agrostemma githago* (Blz. 476)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met weniger als 30 Poriën.",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -141,12 +301,32 @@
       "choices": [
         {
           "label": "columella's duidelijk netzig gestellt, met je einer Perforation in der Mitte der Endobrochi, netmazingen im Allgemeinen 2-3(5) µm groot.",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columella's niet of nur onduidelijk netzig gestellt, Perforationen nur over de größeren Lücken zwischen de columella's (Tafel 111: 11-13).",
           "outcome": {
-            "text": "33.8.9 *Silene*-type (Blz. 476)"
+            "text": "33.8.9 *Silene*-type (Blz. 476)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -158,12 +338,32 @@
         {
           "label": "PK 38-48 µm groot, In omtrek 8eckig, met 20-26 Poriën (Tafel 112: 1-5).",
           "outcome": {
-            "text": "33.8.10 *Petrorhagia prolifera* (Blz. 480)"
+            "text": "33.8.10 *Petrorhagia prolifera* (Blz. 480)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met weniger als 20 Poriën, In omtrek rundlich.",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -174,13 +374,33 @@
         {
           "label": "Opercula kroonvormig of met verdikte, gesloten of onderbroken rand, PK 35-67 µm groot, met 8-19 Poriën (Tafel 112: 6-12).",
           "outcome": {
-            "text": "33.8.11 *Dianthus* (Blz. 480)"
+            "text": "33.8.11 *Dianthus* (Blz. 480)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Opercula körnig bezet, PK 42-49 µm groot, met 12-14 Poriën (Tafel 113: 1-2).",
           "outcome": {
-            "text": "33.8.12 *Vaccaria hispanica* (Blz. 482)"
+            "text": "33.8.12 *Vaccaria hispanica* (Blz. 482)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

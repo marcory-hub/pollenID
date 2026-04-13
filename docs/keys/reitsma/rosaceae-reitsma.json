@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Pollenkorrel met striae",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel zonder striae (psilaat, echinaat, scabraat, of alleen met fasecontrast 'striaat')",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -29,11 +49,31 @@
       "choices": [
         {
           "label": "Pollenkorrel operculaat",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel niet operculaat",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -43,12 +83,32 @@
       "choices": [
         {
           "label": "Zonder costae colpi",
-          "next": "15"
+          "next": "15",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Met costae colpi",
           "outcome": {
-            "text": "Rosa gallica type (*Rosa gallica* - Franse roos)"
+            "text": "Rosa gallica type (*Rosa gallica* - Franse roos)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -59,11 +119,31 @@
       "choices": [
         {
           "label": "Striae vaag (intrastriaat)",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striae duidelijk (extrastriaat)",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -73,7 +153,17 @@
       "choices": [
         {
           "label": "Met costae colpi",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Zonder costae colpi",
@@ -107,12 +197,32 @@
       "choices": [
         {
           "label": "Pollenkorrel met tectum",
-          "next": "22"
+          "next": "22",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel met tectum perforatum",
           "outcome": {
-            "text": "Mespilus type (*Mespilus germanica* - mispel)"
+            "text": "Mespilus type (*Mespilus germanica* - mispel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -123,11 +233,31 @@
       "choices": [
         {
           "label": "Zonder structurele elementen op het tectum",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Met structurele elementen op het tectum",
-          "next": "12"
+          "next": "12",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -137,11 +267,31 @@
       "choices": [
         {
           "label": "Pollenkorrel operculaat",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel niet operculaat",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -175,7 +325,17 @@
         },
         {
           "label": "C.I. < 3, zonder costae colpi",
-          "next": "26"
+          "next": "26",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -185,11 +345,31 @@
       "choices": [
         {
           "label": "C.I. < 3, columellae in intercolpium hoger dan die aan de polen",
-          "next": "25"
+          "next": "25",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "C.I. > 4, columellae in intercolpium even hoog als die aan de polen",
-          "next": "11"
+          "next": "11",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -199,7 +379,17 @@
       "choices": [
         {
           "label": "Pollenkorrel met costae colpi",
-          "next": "21"
+          "next": "21",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Pollenkorrel zonder costae colpi",
@@ -274,7 +464,17 @@
         {
           "label": "Structurele elementen groot (echinae, gemmae of verrucae); endoporus",
           "outcome": {
-            "text": "Rubus chamaemorus type (*Rubus chamaemorus* - kruipbraam)"
+            "text": "Rubus chamaemorus type (*Rubus chamaemorus* - kruipbraam)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -285,12 +485,32 @@
       "choices": [
         {
           "label": "Tectum aan de pool en in het intercolpium even breed",
-          "next": "16"
+          "next": "16",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Tectum aan de pool tweemaal zo breed als in het intercolpium",
           "outcome": {
-            "text": "Potentilla sterilis subtype (*Potentilla sterilis* - aardbeiganzerik)"
+            "text": "Potentilla sterilis subtype (*Potentilla sterilis* - aardbeiganzerik)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -301,11 +521,31 @@
       "choices": [
         {
           "label": "Striae anastomoserend",
-          "next": "18"
+          "next": "18",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Striae niet anastomoserend",
-          "next": "17"
+          "next": "17",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -316,7 +556,17 @@
         {
           "label": "Operculum steekt uit het fastigium",
           "outcome": {
-            "text": "Comarum palustre subtype (*Comarum palustre* - wateraardbei)"
+            "text": "Comarum palustre subtype (*Comarum palustre* - wateraardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
@@ -351,11 +601,31 @@
       "choices": [
         {
           "label": "Langste as 18-25 µm; endocolpus; m:e = 0.2-0.4",
-          "next": "19"
+          "next": "19",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Langste as 25-31 µm; endoporus; m:e = 0.5-0.75",
-          "next": "20"
+          "next": "20",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -366,13 +636,33 @@
         {
           "label": "Polair: interhexagonaal",
           "outcome": {
-            "text": "*Fragaria vesca* (bosaardbei)"
+            "text": "*Fragaria vesca* (bosaardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Polair: circulair",
           "outcome": {
-            "text": "*Potentilla reptans* (vijfvingerkruid)"
+            "text": "*Potentilla reptans* (vijfvingerkruid)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -384,13 +674,33 @@
         {
           "label": "Polair: subangulair",
           "outcome": {
-            "text": "*Fragaria moschata* (grote bosaardbei)"
+            "text": "*Fragaria moschata* (grote bosaardbei)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Polair: circulair",
           "outcome": {
-            "text": "*Potentilla tabernaemontani* (voorjaarsganzerik)"
+            "text": "*Potentilla tabernaemontani* (voorjaarsganzerik)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -426,7 +736,17 @@
         {
           "label": "Zonder costae endocolpi",
           "outcome": {
-            "text": "Rubus idaeus subtype (*Rubus idaeus* - framboos)"
+            "text": "Rubus idaeus subtype (*Rubus idaeus* - framboos)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -437,7 +757,17 @@
       "choices": [
         {
           "label": "Costae endocolpi aanwezig",
-          "next": "23"
+          "next": "23",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Costae endocolpi afwezig",
@@ -471,11 +801,31 @@
       "choices": [
         {
           "label": "Langste as 22-33 µm",
-          "next": "24"
+          "next": "24",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Langste as 35-60 µm",
-          "next": "27"
+          "next": "27",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -540,13 +890,33 @@
         {
           "label": "Met costae colpi; colpusmembraan nudaat",
           "outcome": {
-            "text": "Alchemilla subtype (*Alchemilla glabra* - kale vrouwenmantel)"
+            "text": "Alchemilla subtype (*Alchemilla glabra* - kale vrouwenmantel)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Zonder costae colpi; colpusmembraan granulaat",
           "outcome": {
-            "text": "Aphanes subtype (*Aphanes arvensis* - grote leeuwenklauw)"
+            "text": "Aphanes subtype (*Aphanes arvensis* - grote leeuwenklauw)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -586,7 +956,7 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
-                "imageWidthPx": 78  
+                "imageWidthPx": 78
               },
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
@@ -616,7 +986,7 @@
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
-                "imageWidthPx": 85  
+                "imageWidthPx": 85
               },
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo.png",

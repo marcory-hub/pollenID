@@ -16,12 +16,32 @@
         {
           "label": "niet-porate Colpi opvallend breed (6-9 µm breit), bijna poraatre; PK 15-22 µm groot (Tafel 93: 9-14).",
           "outcome": {
-            "text": "28.1 *Peplis portula* (Blz. 410)"
+            "text": "28.1 *Peplis portula* (Blz. 410)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Porate en niet-porate Colpi smaller of PK groter als 30 µm.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -31,11 +51,31 @@
       "choices": [
         {
           "label": "PK > 18 µm, Indien nur 17-18 µm, dan met 8 Colpi (siehe dan *Myosotis discolor*).",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK < 18 µm (vgl. aber ook kleine PK von *Lythrum*).",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -46,12 +86,32 @@
         {
           "label": "PK met 8 Colpi, davon 4 porat (Tafel 93: 15-21).",
           "outcome": {
-            "text": "28.2 *Myosotis discolor* (Blz. 410)"
+            "text": "28.2 *Myosotis discolor* (Blz. 410)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK met 6(9) Colpi, davon 3 porat of poroid.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -62,12 +122,32 @@
         {
           "label": "PK striat, Indien Skulptur unkenntlich, dan Poriën met deutlichen costae (Tafel 93: 22-30).",
           "outcome": {
-            "text": "28.3 *Lythrum* (Blz. 410)"
+            "text": "28.3 *Lythrum* (Blz. 410)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK scabraat, Poriën zonder costae, vaak onduidelijk (*Heliotropium*).",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -78,13 +158,33 @@
         {
           "label": "PK 29-38 µm groot, langgestreckt, pollenvormindex 1,3-2,0 (Tafel 93: 31-34).",
           "outcome": {
-            "text": "28.4 *Heliotropium europaeum* (Blz. 412)"
+            "text": "28.4 *Heliotropium europaeum* (Blz. 412)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 21-28 µm groot, pollenvormindex 0,78-0,87 (Tafel 21: 16-20).",
           "outcome": {
-            "text": "*Verbena officinalis* (Blz. 163)"
+            "text": "*Verbena officinalis* (Blz. 163)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -96,12 +196,32 @@
         {
           "label": "PK met schmaler Ringfurche, die porate en niet-porate Colpi miteinander verbindet (Tafel 94: 1-2).",
           "outcome": {
-            "text": "28.5 *Cynoglossum* (Blz. 412)"
+            "text": "28.5 *Cynoglossum* (Blz. 412)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK zonder eine solche Ringfurche.",
-          "next": "7"
+          "next": "7",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -111,11 +231,31 @@
       "choices": [
         {
           "label": "Minstens een Porië liegt außerhalb des Äquators in subäquatorial Position, PK hantelförmig.",
-          "next": "8"
+          "next": "8",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Alle Poriën in äquatorialer Position, PK (meestal zwak) hantelförmig.",
-          "next": "9"
+          "next": "9",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -126,13 +266,33 @@
         {
           "label": "Porate Colpi kürzer als niet-porate (Tafel 94: 3-6).",
           "outcome": {
-            "text": "28.6 *Eritrichum nanum* (Blz. 414)"
+            "text": "28.6 *Eritrichum nanum* (Blz. 414)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Porate en niet-porate Colpi von gleicher lengte.",
           "outcome": {
-            "text": "28.7 *Lappula* (Blz. 414)"
+            "text": "28.7 *Lappula* (Blz. 414)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -144,12 +304,32 @@
         {
           "label": "PK polar afgerond (Abrundung vaak nur zwak).",
           "outcome": {
-            "text": "28.8 *Myosotis sylvatica*-type (Blz. 414)"
+            "text": "28.8 *Myosotis sylvatica*-type (Blz. 414)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK polar duidelijk abgeflacht (Tafel 94: 7-12).",
-          "next": "10"
+          "next": "10",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -160,13 +340,33 @@
         {
           "label": "PK 13-18 µm groot, porate en niet-porate Colpi von gleicher lengte.",
           "outcome": {
-            "text": "28.9 *Mertensia maritima* (Blz. 414)"
+            "text": "28.9 *Mertensia maritima* (Blz. 414)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 7-12(13) µm groot, porate Colpi kürzer als niet-porate.",
           "outcome": {
-            "text": "28.10 *Omphalodes*-type (Blz. 415)"
+            "text": "28.10 *Omphalodes*-type (Blz. 415)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

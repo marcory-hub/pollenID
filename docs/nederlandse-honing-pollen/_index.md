@@ -1,6 +1,6 @@
 # Pollen in Nederlandse honing
 
-Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kervliet & v.d. Putten (1980) (k) en De Boer (1930) (db). Bij verschillende beschrijvingen van grootte en aperturen is pollenwiki (pw) als eerste keuze aangehouden en evetueel paldat (pd). (image scale 2.5 times µm = px)
+Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidheid en hierna op rapportage in Nederlandse honing gebaseerd op Kervliet & v.d. Putten (1980) (k) en De Boer (1930) (db). Bij verschillende beschrijvingen van grootte en aperturen is pollenwiki (pw) als eerste aangehouden en evetueel paldat (pd). (image scale 2.5 times µm = px)
 
 ### 4. **Tetradeae**
 

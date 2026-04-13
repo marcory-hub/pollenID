@@ -16,13 +16,33 @@
         {
           "label": "Colpi recht, zonder of met niet noemenswaardige equatoriale versmalling, PK sferoïdisch (Tafel 87: 7-15).",
           "outcome": {
-            "text": "24.13.1 *Primula veris*-type"
+            "text": "24.13.1 *Primula veris*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Colpi equatoriaal versmald of s-vormig gebogen, PK prolaat, met 4 Colpi, PK sferoïdisch tot prolaat, pollenvormindex 1,11-1,53 (Tafel 87: 16-22).",
           "outcome": {
-            "text": "24.13.2 *Primula halleri*"
+            "text": "24.13.2 *Primula halleri*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

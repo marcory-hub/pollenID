@@ -12,12 +12,32 @@
       "choices": [
         {
           "label": "pollenvormindex > 1,30 (bis ca. 1,80), Indien kleiner, dan PK meestal über 28 µm groot",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "pollenvormindex bis 1,20 (1,30), PK 17-28 µm groot (Tafel 13: 4-6)",
           "outcome": {
-            "text": "13.4.1 *Aquilegia-type*"
+            "text": "13.4.1 *Aquilegia-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -27,13 +47,33 @@
         {
           "label": "columellae äquatorial en subäquatorial sterk verkürzt en reduziert, meestal in Aufsicht niet herkenbaar (Tafel 13: 10)",
           "outcome": {
-            "text": "13.4.2 *Aconitum-type*"
+            "text": "13.4.2 *Aconitum-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "columellae äquatorial en subäquatorial in Aufsicht gut herkenbaar",
           "outcome": {
-            "text": "13.4.3 *Consolida-type*"
+            "text": "13.4.3 *Consolida-type*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

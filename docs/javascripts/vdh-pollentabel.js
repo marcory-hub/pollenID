@@ -129,6 +129,52 @@
     }
   }
 
+  function isPlaceholderImagePath(p) {
+    return typeof p === "string" && /\/PLACEHOLDER_[A-Za-z]+\.png$/i.test(p);
+  }
+
+  function applyImageSizing(img, widthPx, isPlaceholder) {
+    img.style.display = "block";
+    img.style.height = "auto";
+    img.style.margin = "0";
+
+    if (typeof widthPx === "number" && Number.isFinite(widthPx) && widthPx > 0) {
+      if (isPlaceholder && widthPx <= 1) {
+        img.style.width = "24px";
+        img.classList.add("pid-placeholder-image");
+      } else {
+        img.style.width = String(widthPx) + "px";
+      }
+      return;
+    }
+
+    img.style.maxWidth = isPlaceholder ? "24px" : "320px";
+    if (isPlaceholder) img.classList.add("pid-placeholder-image");
+  }
+
+  function renderImagesRow(container, images, baseUrl, altPrefix) {
+    if (!Array.isArray(images) || images.length === 0) return;
+    const row = document.createElement("div");
+    row.className = "vdh-pollentabel-images-row";
+    row.style.display = "flex";
+    row.style.flexWrap = "nowrap";
+    row.style.gap = "6px";
+    row.style.alignItems = "flex-start";
+    row.style.marginTop = "8px";
+    row.style.overflowX = "auto";
+    container.appendChild(row);
+
+    images.forEach(function (im, imIdx) {
+      if (!im || !im.image) return;
+      const img = document.createElement("img");
+      img.src = resolveAssetUrl(im.image, baseUrl || document.baseURI);
+      img.alt = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
+      const ph = isPlaceholderImagePath(im.image);
+      applyImageSizing(img, im.imageWidthPx, ph);
+      row.appendChild(img);
+    });
+  }
+
   function runKey(root, data, dataAbsUrl) {
     const start = data.start || (data.meta && data.meta.start) || "1";
     const steps = data.steps || {};
@@ -174,25 +220,45 @@
         const btn = document.createElement("button");
         btn.type = "button";
         btn.className = "vdh-pollentabel-btn vdh-pollentabel-btn--choice";
-        // Render label + optional image as a small "proof-of-concept".
         const labelSpan = document.createElement("span");
         const labelText = ch.label || "Optie " + (idx + 1);
         labelSpan.innerHTML = formatEmphasisAst(labelText);
         btn.appendChild(labelSpan);
-        if (ch.image) {
-          const img = document.createElement("img");
-          img.src = resolveAssetUrl(ch.image, dataAbsUrl || document.baseURI);
-          img.alt =
-            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)";
-          img.style.display = "block";
-          if (ch.imageWidthPx) {
-            img.style.width = String(ch.imageWidthPx) + "px";
-          } else {
-            img.style.maxWidth = "160px";
-          }
-          img.style.height = "auto";
-          img.style.margin = "6px auto 0";
-          btn.appendChild(img);
+        // Interactive choices: show placeholders only (not real images),
+        // so authors see "slots" without cluttering the UI.
+        const phFromChoice = Array.isArray(ch.images)
+          ? ch.images.filter(function (im) {
+              return im && isPlaceholderImagePath(im.image);
+            })
+          : [];
+        const phFromOutcome =
+          ch.outcome && Array.isArray(ch.outcome.images)
+            ? ch.outcome.images.filter(function (im) {
+                return im && isPlaceholderImagePath(im.image);
+              })
+            : [];
+        const phImgs = phFromChoice.concat(phFromOutcome);
+        if (phImgs.length > 0) {
+          renderImagesRow(
+            btn,
+            phImgs,
+            dataAbsUrl || document.baseURI,
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
+          );
+        } else if (isPlaceholderImagePath(ch.image)) {
+          renderImagesRow(
+            btn,
+            [{ image: ch.image, imageWidthPx: ch.imageWidthPx }],
+            dataAbsUrl || document.baseURI,
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
+          );
+        } else if (ch.outcome && isPlaceholderImagePath(ch.outcome.image)) {
+          renderImagesRow(
+            btn,
+            [{ image: ch.outcome.image, imageWidthPx: ch.outcome.imageWidthPx }],
+            dataAbsUrl || document.baseURI,
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
+          );
         }
         btn.addEventListener("click", function () {
           if (ch.outcome && ch.outcome.text) {
@@ -209,35 +275,15 @@
             const imgs =
               ch.outcome && Array.isArray(ch.outcome.images) ? ch.outcome.images : [];
             if (imgs.length > 0) {
-              const row = document.createElement("div");
-              row.className = "vdh-pollentabel-outcome-images";
-              row.style.display = "flex";
-              row.style.flexWrap = "nowrap";
-              row.style.gap = "6px";
-              row.style.alignItems = "flex-start";
-              row.style.marginTop = "10px";
-              row.style.overflowX = "auto";
-              outcomeEl.appendChild(row);
-
-              imgs.forEach(function (im, imIdx) {
-              if (!im || !im.image) return;
-              const img = document.createElement("img");
-              img.src = resolveAssetUrl(im.image, dataAbsUrl || document.baseURI);
-              img.alt =
+              renderImagesRow(
+                outcomeEl,
+                imgs,
+                dataAbsUrl || document.baseURI,
                 (ch.outcome.text || "Eindpunt")
                   .replace(/\*([^*]*)\*/g, "$1")
                   .replace(/\n/g, " ")
-                  .trim() + " (afbeelding " + (imIdx + 1) + ")";
-              img.style.display = "block";
-              if (im.imageWidthPx) {
-                img.style.width = String(im.imageWidthPx) + "px";
-              } else {
-                img.style.maxWidth = "320px";
-              }
-              img.style.height = "auto";
-              img.style.margin = "0";
-              row.appendChild(img);
-              });
+                  .trim() + " (afbeelding)"
+              );
             }
             actionsEl.replaceChildren();
             addOutcomeNavRow();
@@ -351,13 +397,27 @@
         if (ch.next) {
           result = "→ stap " + String(ch.next);
           kind = "stap";
+          if (Array.isArray(ch.images)) {
+            images = ch.images;
+          } else if (ch.image) {
+            images = [{ image: ch.image, imageWidthPx: ch.imageWidthPx }];
+          }
         } else if (ch.outcome && ch.outcome.text) {
           result = ch.outcome.text;
           kind = ch.outcome.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
-          images = Array.isArray(ch.outcome.images) ? ch.outcome.images : [];
+          if (Array.isArray(ch.outcome.images)) {
+            images = ch.outcome.images;
+          } else if (ch.outcome.image) {
+            images = [{ image: ch.outcome.image, imageWidthPx: ch.outcome.imageWidthPx }];
+          }
         } else {
           result = "-";
           kind = "leeg";
+          if (Array.isArray(ch.images)) {
+            images = ch.images;
+          } else if (ch.image) {
+            images = [{ image: ch.image, imageWidthPx: ch.imageWidthPx }];
+          }
         }
         rows.push({
           sid: sid,
@@ -437,40 +497,19 @@
       const tdR = document.createElement("td");
       if (row.kind.indexOf("eindpunt") === 0) {
         tdR.innerHTML = formatOutcomeRichText(row.result);
-        if (row.images && row.images.length > 0) {
-          const imgRow = document.createElement("div");
-          imgRow.className = "vdh-pollentabel-table-outcome-images";
-          imgRow.style.display = "flex";
-          imgRow.style.flexWrap = "nowrap";
-          imgRow.style.gap = "6px";
-          imgRow.style.alignItems = "flex-start";
-          imgRow.style.marginTop = "8px";
-          imgRow.style.overflowX = "auto";
-
-          row.images.forEach(function (im, imIdx) {
-            if (!im || !im.image) return;
-            const img = document.createElement("img");
-            img.src = resolveAssetUrl(im.image, dataAbsUrl || document.baseURI);
-            img.alt =
-              row.result
-                .replace(/\*([^*]*)\*/g, "$1")
-                .replace(/\n/g, " ")
-                .trim() + " (afbeelding " + (imIdx + 1) + ")";
-            img.style.display = "block";
-            if (im.imageWidthPx) {
-              img.style.width = String(im.imageWidthPx) + "px";
-            } else {
-              img.style.maxWidth = "120px";
-            }
-            img.style.height = "auto";
-            img.style.margin = "0";
-            imgRow.appendChild(img);
-          });
-
-          tdR.appendChild(imgRow);
-        }
       } else {
         tdR.textContent = row.result;
+      }
+      if (row.images && row.images.length > 0) {
+        renderImagesRow(
+          tdR,
+          row.images,
+          dataAbsUrl || document.baseURI,
+          (row.kind.indexOf("eindpunt") === 0 ? row.result : row.label || row.result)
+            .replace(/\*([^*]*)\*/g, "$1")
+            .replace(/\n/g, " ")
+            .trim() + " (afbeelding)"
+        );
       }
 
       tr.appendChild(tdS);

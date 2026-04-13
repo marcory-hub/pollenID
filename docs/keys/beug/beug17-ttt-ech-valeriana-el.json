@@ -16,12 +16,32 @@
         {
           "label": "Microechini tot 1 µm lang. Als PK kleiner is dan 35 µm, vgl. ook *V. elongata*.",
           "outcome": {
-            "text": "17.6.1 *Valeriana saxatilis*-type"
+            "text": "17.6.1 *Valeriana saxatilis*-type",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Echini langer dan 1 µm.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -32,13 +52,33 @@
         {
           "label": "Echini maximaal 2 µm lang, PK ongeveer 30-40 µm groot, pollenvormindex ongeveer 1,0.",
           "outcome": {
-            "text": "17.6.2 *Valeriana elongata*"
+            "text": "17.6.2 *Valeriana elongata*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Echini maximaal 2,0-2,8 µm lang, PK bovendien met kleinere echini, PK groter dan 40 µm, pollenvormindex groter dan 1,10.",
           "outcome": {
-            "text": "17.6.3 *Valeriana celtica*"
+            "text": "17.6.3 *Valeriana celtica*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

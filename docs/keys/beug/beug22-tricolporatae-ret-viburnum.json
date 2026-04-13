@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "brochi max. 2-2,5 µm groot, columellae dun (ca. 0,5 µm), kleinreticulate Margines meestal aanwezig, Poriën meestal goed herkenbaar.",
-          "next": "beug_tricolporatae_reticulate_22171_viburnum_opulus_type_sub"
+          "next": "beug_tricolporatae_reticulate_22171_viburnum_opulus_type_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "brochi maximaal 4-5 µm groot, columellae dik (ca. 1 µm), Margines zijn nauwelijks ontwikkeld of ontbreken, Poriën vaak onduidelijk, vaak is alleen een equatoriale vernauwing van de colpi herkenbaar.",
-          "next": "beug_tricolporatae_reticulate_22172_viburnum_lantana_sub"
+          "next": "beug_tricolporatae_reticulate_22172_viburnum_lantana_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Poriën duidelijk meridionaal verlengd.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poriën rond of transversaal verlengd.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -29,11 +49,31 @@
       "choices": [
         {
           "label": "PK 15-20 µm groot (Tafel 77: 1-4).",
-          "next": "beug_tricolporatae_reticulate_22311_galega_officinalis_sub"
+          "next": "beug_tricolporatae_reticulate_22311_galega_officinalis_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK groter als 20-28 µm (Tafel 77: 5-10).",
-          "next": "beug_tricolporatae_reticulate_22312_cicer_arietinum_sub"
+          "next": "beug_tricolporatae_reticulate_22312_cicer_arietinum_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -43,11 +83,31 @@
       "choices": [
         {
           "label": "brochi 1,0-1,5 (max. 1,8) µm groot (Tafel 77: 11-19).",
-          "next": "beug_tricolporatae_reticulate_22313_astragalus_type_sub"
+          "next": "beug_tricolporatae_reticulate_22313_astragalus_type_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "brochi duidelijk groter als 1,5 µm.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -57,11 +117,31 @@
       "choices": [
         {
           "label": "Porenrandingen minstens gedeeltelijk met costae, poriën daarom contrastrijk.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Porenrandingen zonder costae, poriën daarom vaak contrastarm (Tafel 77: 20-22, Tafel 78: 1-14, Tafel 79: 1-2).",
-          "next": "beug_tricolporatae_reticulate_22314_trifolium_sub"
+          "next": "beug_tricolporatae_reticulate_22314_trifolium_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -71,11 +151,31 @@
       "choices": [
         {
           "label": "Grootste brochi over 3,0 µm en tot 4,5 µm groot (Tafel 78: 15-19, Tafel 79: 8-10).",
-          "next": "beug_tricolporatae_reticulate_22315_vicia_type_sub"
+          "next": "beug_tricolporatae_reticulate_22315_vicia_type_sub",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "brochi maximaal 2,5-3,0 µm groot.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },

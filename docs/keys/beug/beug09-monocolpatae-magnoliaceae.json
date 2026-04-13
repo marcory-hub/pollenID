@@ -16,13 +16,33 @@
         {
           "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
           "outcome": {
-            "text": "9.4.1 *Liriodendron tulipifera*"
+            "text": "9.4.1 *Liriodendron tulipifera*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens verspreide brochi tussen deze sculptuurelementen. Exine dunner als 2 µm (tabel 9: 12–14).",
           "outcome": {
-            "text": "9.4.2 *Magnolia*"
+            "text": "9.4.2 *Magnolia*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

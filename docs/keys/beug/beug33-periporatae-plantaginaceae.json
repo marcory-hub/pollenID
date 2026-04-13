@@ -15,11 +15,31 @@
       "choices": [
         {
           "label": "Poriën contrastscherp begrenzt (lichtveld), met of zonder annulus.",
-          "next": "3"
+          "next": "3",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poriën kontrastarm (lichtveld) begrenzt.",
-          "next": "2"
+          "next": "2",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -30,13 +50,33 @@
         {
           "label": "PK (32)33-44 µm (Tafel 106: 4-6).",
           "outcome": {
-            "text": "33.2.1 *Litorelly-type* (Blz. 458)"
+            "text": "33.2.1 *Litorelly-type* (Blz. 458)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 21-32(34) µm (Tafel 106: 7-13).",
           "outcome": {
-            "text": "33.2.2 *Plantago major-media*-type (Blz. 458)"
+            "text": "33.2.2 *Plantago major-media*-type (Blz. 458)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -47,11 +87,31 @@
       "choices": [
         {
           "label": "Poriën met annulus, annulus als geschlossener Ring met glattem of gelobde buitenrand of als eine duidelijk verdicktete Zone von Verrucae gevormd.",
-          "next": "5"
+          "next": "5",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Poriën zonder annulus; im Phasenkontrastbild kann um die Poriën herum eine Zone met etwas dickeren of verdichteten Verrucae sichtbar sein.",
-          "next": "4"
+          "next": "4",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -62,13 +122,33 @@
         {
           "label": "PK 32-45 µm groot, Opercula meestal scheibenförmig (Tafel 106: 14-16).",
           "outcome": {
-            "text": "33.2.3 *Plantago albicans* (Blz. 460)"
+            "text": "33.2.3 *Plantago albicans* (Blz. 460)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "PK 20-26 µm groot, Opercula körnig gevormd (Tafel 107: 1-4).",
           "outcome": {
-            "text": "33.2.4 *Plantago tenuiflora*-type (Blz. 460)"
+            "text": "33.2.4 *Plantago tenuiflora*-type (Blz. 460)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
@@ -80,12 +160,32 @@
         {
           "label": "Opercula scheibenförmig, glad (Tafel 107: 4-9).",
           "outcome": {
-            "text": "33.2.5 *Plantago lanceolata*-type (Blz. 460)"
+            "text": "33.2.5 *Plantago lanceolata*-type (Blz. 460)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Opercula bzw. Porenmembranen körnig gevormd.",
-          "next": "6"
+          "next": "6",
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
@@ -96,13 +196,33 @@
         {
           "label": "annulus als geschlossener, glatter of außen etwas gelappter, im optischen Schnitt meestal als deutliche verdikking der Exine herkenbaar (Tafel 107: 10-14).",
           "outcome": {
-            "text": "33.2.6 *Plantago coronopus*-type (Blz. 462)"
+            "text": "33.2.6 *Plantago coronopus*-type (Blz. 462)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "annulus flach, z.T. erst im Phasenkontrastbild duidelijk herkenbaar, buitenrand duidelijk gelappt en/of aus größeren en dickeren Verrucae zusammengesetzt en daardoor plaatselijk unterbrochen (Tafel 107: 15-18).",
           "outcome": {
-            "text": "33.2.7 *Plantago maritima*-type (Blz. 462)"
+            "text": "33.2.7 *Plantago maritima*-type (Blz. 462)",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]

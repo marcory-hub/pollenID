@@ -13,13 +13,33 @@
         {
           "label": "Equatoriale diameter 10-13 µm",
           "outcome": {
-            "text": "14.11.14.1 *Sison amomum*, *Trinia kitaibelii*"
+            "text": "14.11.14.1 *Sison amomum*, *Trinia kitaibelii*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         },
         {
           "label": "Equatoriale diameter 15-22 µm",
           "outcome": {
-            "text": "14.11.14.2 *Berula erecta*, *Sium sisarum*"
+            "text": "14.11.14.2 *Berula erecta*, *Sium sisarum*",
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
           }
         }
       ]
