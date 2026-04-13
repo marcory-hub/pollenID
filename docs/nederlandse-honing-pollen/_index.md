@@ -4,7 +4,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 4. **Tetradeae**
 
-#### [Calluna vulgaris](https://pollenx.eu/species.php?species=Calluna_vulgaris) (struikheide)
+#### [Calluna vulgaris](calluna_vulgaris.md) (struikheide)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -1648,28 +1648,28 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_o.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_o.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_d.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_P_d.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Tilia+platyphyllos_E.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos (pollen; equatoriaal aanzicht).">
+      <img src="../../assets/images/pollenwiki/Tilia+platyphyllos_E.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Tilia_platyphyllos_kristals.png" width="111" alt="Tilia platyphyllos (calciumoxalaat kristallen).">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Tilia_spp_Pd.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; polair aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_Pd.png" style="height: 80px; width: auto;" alt="Tilia spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_o.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; porie; focus op oppervlak).">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_o.png" style="height: 80px; width: auto;" alt="Tilia spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_d.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; porie; focus op doorsnede).">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_pore_d.png" style="height: 80px; width: auto;" alt="Tilia spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Tilia_spp_sculptuur.png" style="height: 80px; width: auto;" alt="Tilia spp (pollen; sculptuur).">
+      <img src="../../assets/images/persano_oddo/Tilia_spp_sculptuur.png" style="height: 80px; width: auto;" alt="Tilia spp">
     </figure>
   </div>
 </div>
@@ -2278,7 +2278,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
       <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="PLACEHOLDER_Eo">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Pd.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides"> 

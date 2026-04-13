@@ -56,7 +56,24 @@
     </figure>
   </div>
 </div>
-####  Vergeet-mij-nietje (III/IV)
+
+#### [Vergeet-mij-nietje](../nederlandse-honing-pollen/myosotis.md) (III/IV)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Pd.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/pollenwiki/Myosotis_scorpioides_Po.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+  </div>
+</div>
 
 ### Normaal vertegenwoordigde pollen (groep III)
 #### [Boekweit](boekweithoning.md)
