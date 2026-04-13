@@ -49,8 +49,10 @@
       "choices": [
         {
           "label": "Exine bis 1,5 µm dik, PK bis ca. 30 µm groot. Sculptuurelementen (clavae) klein, netzig (retipilaat) gerangschikt, aperturen onduidelijk (tabel 96: 1–4).",
-          "outcome": {
-            "text": "*Callitriche palustris*-type (Blz... 424)",
+          "id": {
+            "name": "Callitriche palustris-type (Blz... 424)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -85,8 +87,10 @@
       "choices": [
         {
           "label": "De clavae staan op een reticulum (tabel 34: 18–21; Afb. 20).",
-          "outcome": {
-            "text": "16.1 *Geranium* (Blz... 211)",
+          "id": {
+            "name": "16.1 Geranium (Blz... 211)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -101,8 +105,10 @@
         },
         {
           "label": "De clavae zijn distaal met elkaar verbonden en micro-echinaat gesculpteerd, ze staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
-          "outcome": {
-            "text": "*Armeria* p.p. (Blz... 302)",
+          "id": {
+            "name": "Armeria p.p. (Blz... 302)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -123,8 +129,10 @@
       "choices": [
         {
           "label": "PK met margo, poolvelden klein. PK met bis 3 µm langen, dicht stehenden clavae (tabel 34: 22–25).",
-          "outcome": {
-            "text": "16.2 *Ilex aquifolium* (Blz... 214)",
+          "id": {
+            "name": "16.2 Ilex aquifolium (Blz... 214)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -193,8 +201,10 @@
       "choices": [
         {
           "label": "Exine veel dikker als het tectum, poolvelden groot, sculptuurelementen (hoofdzakelijk bacula) bis 4 µm lang (tabel 35: 1–4).",
-          "outcome": {
-            "text": "16.3 *Viscum album* (Blz... 214)",
+          "id": {
+            "name": "16.3 Viscum album (Blz... 214)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -209,8 +219,10 @@
         },
         {
           "label": "tectum so dik wie die endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
-          "outcome": {
-            "text": "16.4 *Rubus chamaemorus* (Blz... 214)",
+          "id": {
+            "name": "16.4 Rubus chamaemorus (Blz... 214)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -231,8 +243,10 @@
       "choices": [
         {
           "label": "PK < 30 µm (ca. 20–25 µm) (tabel 35: 9–11).",
-          "outcome": {
-            "text": "16.5 *Radiola linoides* (Blz... 214)",
+          "id": {
+            "name": "16.5 Radiola linoides (Blz... 214)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

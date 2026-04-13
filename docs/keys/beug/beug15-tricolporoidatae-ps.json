@@ -12,8 +12,10 @@
       "choices": [
         {
           "label": "PK prolaat bis perprolaat, pollenvormindex 1,43-2,20, PK 37-68 µm groot (Tafel 53: 9-13)",
-          "outcome": {
-            "text": "*Agrimonia*, *Aremonia* (S. 270)",
+          "id": {
+            "name": "Agrimonia, Aremonia (S. 270)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -92,8 +94,10 @@
         },
         {
           "label": "opercula equatoriaal niet opvallend verdikt, vergl. evt. *Diospyros* (S. 207) en *Rosa* (S. 273)",
-          "outcome": {
-            "text": "*Sanguisorba minor-type* (S. 130)",
+          "id": {
+            "name": "Sanguisorba minor-type (S. 130)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -112,8 +116,10 @@
       "choices": [
         {
           "label": "PK kogelvormig, pollenvormindex 0,94-1,05, exine 1,4-2,6 µm dik (Tafel 13: 16-17)",
-          "outcome": {
-            "text": "*Sanguisorba minor-type* (S. 130)",
+          "id": {
+            "name": "Sanguisorba minor-type (S. 130)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -128,8 +134,10 @@
         },
         {
           "label": "PK ruitvormig, pollenvormindex 1,11-1,40, exine 3,3-4,8(5,0) µm dik (Tafel 13: 18-19)",
-          "outcome": {
-            "text": "*Sanguisorba dodecandra* (S. 130)",
+          "id": {
+            "name": "Sanguisorba dodecandra (S. 130)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -180,8 +188,10 @@
       "choices": [
         {
           "label": "intercolpia concaaf bis flach, exine ten minste im gebied der intercolpia microverrucat bis verrucaat. colpen meestal duidelijk ingezonken (Tafel 31: 9-23)",
-          "outcome": {
-            "text": "15.1 *Cornus* (S. 203)",
+          "id": {
+            "name": "15.1 Cornus (S. 203)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -214,8 +224,10 @@
       "choices": [
         {
           "label": "PK ca. 30-60 µm groot, sferoïdisch bis oblaat, dunwandig, ten minste stellenweise verrucaat of microverrucat",
-          "outcome": {
-            "text": "*Datura* (S. 270)",
+          "id": {
+            "name": "Datura (S. 270)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -248,8 +260,10 @@
       "choices": [
         {
           "label": "Skulpturelemente bis 3 µm groot, in Aufsicht teils rundlich, teils langgestreckt (Tafel 53: 1-5)",
-          "outcome": {
-            "text": "*Datura* (S. 270)",
+          "id": {
+            "name": "Datura (S. 270)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -264,8 +278,10 @@
         },
         {
           "label": "Skulpturelemente in Aufsicht nur bis etwa 1 µm groot en rundlich (Tafel 32: 1-4)",
-          "outcome": {
-            "text": "15.2 *Scopolia carniolica* (S. 204)",
+          "id": {
+            "name": "15.2 Scopolia carniolica (S. 204)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -284,8 +300,10 @@
       "choices": [
         {
           "label": "PK dikwandig (exine 2,0-5,2 µm dik), meestal kogelvormig, regelmatig scabraat of microechinat. tectum dik en met einer inneren stärker en einer äußeren weniger sterk lichtbrekende laag (Tafel 28: 1-12)",
-          "outcome": {
-            "text": "*Artemisia* (S. 188)",
+          "id": {
+            "name": "Artemisia (S. 188)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -318,8 +336,10 @@
       "choices": [
         {
           "label": "colpen equatoriaal met Querspalt of nur verengt (Tafel 30: 6-11)",
-          "outcome": {
-            "text": "*Filipendula* (S. 194)",
+          "id": {
+            "name": "Filipendula (S. 194)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -334,8 +354,10 @@
         },
         {
           "label": "colpen equatoriaal nie met einem Querspalt, sondern hier meestal nur verengt of met körnig aufgelösten Rändern. Die Abtrennung von *Filipendula* kann unsicher sein (Tafel 20: 1-3)",
-          "outcome": {
-            "text": "*Globularia* (S. 151)",
+          "id": {
+            "name": "Globularia (S. 151)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -354,8 +376,10 @@
       "choices": [
         {
           "label": "PK 15-20 µm groot, heteropolar met verschillend großen Polarfeldern (Tafel 32: 19-24)",
-          "outcome": {
-            "text": "15.3 *Gratiola officinalis* (S. 204)",
+          "id": {
+            "name": "15.3 Gratiola officinalis (S. 204)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -420,8 +444,10 @@
       "choices": [
         {
           "label": "PK met 2-4 µm breiten equatoriale Verengung der colpen (Tafel 32: 9-18)",
-          "outcome": {
-            "text": "15.4 *Mercurialis* (S. 204)",
+          "id": {
+            "name": "15.4 Mercurialis (S. 204)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -454,8 +480,10 @@
       "choices": [
         {
           "label": "exine 1,8-2,5 µm dik, PK größer als 35 µm. columella's duidelijk. Indien exine microverrucat bis verrucaat s. *Cornus* (Tafel 32: 5-8)",
-          "outcome": {
-            "text": "15.5 *Styrax officinalis* (S. 206)",
+          "id": {
+            "name": "15.5 Styrax officinalis (S. 206)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -470,8 +498,10 @@
         },
         {
           "label": "exine 0,8-1,4 µm dik. PK kleiner als 30 µm. columella's onduidelijk (Tafel 33: 1-12).",
-          "outcome": {
-            "text": "15.6 *Elatine* (S. 206)",
+          "id": {
+            "name": "15.6 Elatine (S. 206)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -490,8 +520,10 @@
       "choices": [
         {
           "label": "Skulpturelemente duidelijk, in Aufsicht 0,5-1,5 µm groot, onregelmatig geformt en verdeeld. tectum-oppervlak im optischen Schnitt daardoor meestal zeer onregelmatig (Tafel 17: 17-29)",
-          "outcome": {
-            "text": "*Quercus* (S. 143)",
+          "id": {
+            "name": "Quercus (S. 143)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -524,8 +556,10 @@
       "choices": [
         {
           "label": "PK scabraat, exine über 1 µm dik, colpen equatoriaal einfach of s-förmig verengt of (selten) intercolpiumranden körnig aufgelöst (Tafel 17: 17-29)",
-          "outcome": {
-            "text": "*Quercus* (S. 143)",
+          "id": {
+            "name": "Quercus (S. 143)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -558,8 +592,10 @@
       "choices": [
         {
           "label": "PK zwak foveolaat (Tafel 33: 13-16)",
-          "outcome": {
-            "text": "15.7 *Medicago sativa-type* (S. 207)",
+          "id": {
+            "name": "15.7 Medicago sativa-type (S. 207)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -592,8 +628,10 @@
       "choices": [
         {
           "label": "PK 33-63 µm groot. exine ca. 1,5-2,0 µm dik (Indien PK größer en tonvormig en Polarfelder groot, vergl. *Viola tricolor-type*, S. 394) (Tafel 33: 17-19)",
-          "outcome": {
-            "text": "15.8 *Diospyros* (S. 207)",
+          "id": {
+            "name": "15.8 Diospyros (S. 207)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -608,8 +646,10 @@
         },
         {
           "label": "PK kleiner en/of exine unter 1,5 µm dik, afgezien van evt. polaren Verdickungen",
-          "outcome": {
-            "text": "15.9 verzamelgroep (S. 207)",
+          "id": {
+            "name": "15.9 verzamelgroep (S. 207)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

@@ -1,0 +1,4824 @@
+{
+  "items": [
+    {
+      "image": "assets/images/paldat/Agrimonia_eupatoria_Eo.png",
+      "imageWidthPx": 85,
+      "strict": {
+        "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 0,
+          "choiceLabel": "Oppervlak geeft de indruk glad te zijn"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
+      "imageWidthPx": 85,
+      "strict": {
+        "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 0,
+          "choiceLabel": "Oppervlak geeft de indruk glad te zijn"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_eupatoria_Po.png",
+      "imageWidthPx": 85,
+      "strict": {
+        "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 0,
+          "choiceLabel": "Oppervlak geeft de indruk glad te zijn"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_eupatoria_Po2.png",
+      "imageWidthPx": 85,
+      "strict": {
+        "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia eupatoria (gewone agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 0,
+          "choiceLabel": "Oppervlak geeft de indruk glad te zijn"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_odorata_Ed.png",
+      "imageWidthPx": 188,
+      "strict": {
+        "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 1,
+          "choiceLabel": "Groepen vallae vormen licht verhoogde delen over het intercolpium"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_odorata_Eo.png",
+      "imageWidthPx": 188,
+      "strict": {
+        "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 1,
+          "choiceLabel": "Groepen vallae vormen licht verhoogde delen over het intercolpium"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_odorata_Eo2.png",
+      "imageWidthPx": 188,
+      "strict": {
+        "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 1,
+          "choiceLabel": "Groepen vallae vormen licht verhoogde delen over het intercolpium"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Agrimonia_odorata_Po.png",
+      "imageWidthPx": 188,
+      "strict": {
+        "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Agrimonia odorata (welriekende agrimonie)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae transversaal, extreem fijn; operculum extreem smal en bedekt de colpusopening niet; tectale perforaties klein maar zichtbaar in LM (ph-objectieven); pollen altijd prolaat (P/E=1.3); langste as 44 µm"
+        },
+        {
+          "stepId": "11",
+          "choiceIdx": 1,
+          "choiceLabel": "Groepen vallae vormen licht verhoogde delen over het intercolpium"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Filipendula_vulgaris_Eo.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 1,
+          "choiceLabel": "Sculptuurelementen obtuus"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Filipendula_vulgaris_Eo2.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 1,
+          "choiceLabel": "Sculptuurelementen obtuus"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Filipendula_vulgaris_Pd.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 1,
+          "choiceLabel": "Sculptuurelementen obtuus"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Filipendula_vulgaris_Po.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 1,
+          "choiceLabel": "Sculptuurelementen obtuus"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_pimpinellifolia_Ed.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_pimpinellifolia_Eo.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_pimpinellifolia_Pd.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_pimpinellifolia_Po.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_rubiginosa_Ed.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Rosa rubiginosa (egelantier)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 25.4 µm; exine 1.7 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_rubiginosa_Eo.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Rosa rubiginosa (egelantier)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 25.4 µm; exine 1.7 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_rubiginosa_Pd.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Rosa rubiginosa (egelantier)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 25.4 µm; exine 1.7 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rosa_rubiginosa_Po.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Rosa rubiginosa (egelantier)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa (egelantier)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 25.4 µm; exine 1.7 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rubus_saxatilis_Eo.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Rubus saxatilis (steenbraam)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rubus saxatilis (steenbraam)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig"
+        },
+        {
+          "stepId": "25",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties minder talrijk dan in de vorige soort"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rubus_saxatilis_Eo2.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Rubus saxatilis (steenbraam)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rubus saxatilis (steenbraam)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig"
+        },
+        {
+          "stepId": "25",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties minder talrijk dan in de vorige soort"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rubus_saxatilis_Pd.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Rubus saxatilis (steenbraam)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rubus saxatilis (steenbraam)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig"
+        },
+        {
+          "stepId": "25",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties minder talrijk dan in de vorige soort"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/paldat/Rubus_saxatilis_Po.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Rubus saxatilis (steenbraam)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rubus saxatilis (steenbraam)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae vaag; perforaties groot, ongeveer vierkant (netachtig); colpus kort; polair gebied groot; PAI 0.23-0.29; membrana granulata en ingesnoerde colpus vaak aanwezig"
+        },
+        {
+          "stepId": "25",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties minder talrijk dan in de vorige soort"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Ed.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)"
+        },
+        {
+          "stepId": "17",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk"
+        },
+        {
+          "stepId": "18",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Eo.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)"
+        },
+        {
+          "stepId": "17",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk"
+        },
+        {
+          "stepId": "18",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Pd.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)"
+        },
+        {
+          "stepId": "17",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk"
+        },
+        {
+          "stepId": "18",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Po.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Cotoneaster intergerrimus (wilde dwergmispel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata-microstriaat, psilaat (groep *Mespilus*, *Cotoneaster*, *Alchemilla*)"
+        },
+        {
+          "stepId": "17",
+          "choiceIdx": 1,
+          "choiceLabel": "Rugulata tot psilaat; tectale perforaties zeer klein; costae colpi en membrana granulata meestal aanwezig; columellae duidelijk"
+        },
+        {
+          "stepId": "18",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Dryas_octopetala_Ed.png",
+      "imageWidthPx": 75,
+      "strict": {
+        "endpointText": "Dryas octopetala (zilverkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Dryas octopetala (zilverkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Dryas subtype (Dryas octopetala - zilverkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 1,
+          "choiceLabel": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Dryas_octopetala_Eo.png",
+      "imageWidthPx": 75,
+      "strict": {
+        "endpointText": "Dryas octopetala (zilverkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Dryas octopetala (zilverkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Dryas subtype (Dryas octopetala - zilverkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 1,
+          "choiceLabel": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Dryas_octopetala_Pd.png",
+      "imageWidthPx": 75,
+      "strict": {
+        "endpointText": "Dryas octopetala (zilverkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Dryas octopetala (zilverkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Dryas subtype (Dryas octopetala - zilverkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 1,
+          "choiceLabel": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Dryas_octopetala_Po.png",
+      "imageWidthPx": 75,
+      "strict": {
+        "endpointText": "Dryas octopetala (zilverkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Dryas octopetala (zilverkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Dryas subtype (Dryas octopetala - zilverkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 1,
+          "choiceLabel": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Pd.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Filipendula_ulmaria_Po.png",
+      "imageWidthPx": 43,
+      "strict": {
+        "endpointText": "Filipendula ulmaria (moerasspirea)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Filipendula ulmaria (moerasspirea)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 0,
+          "choiceLabel": "Clavaat-bacillaat, echinaat"
+        },
+        {
+          "stepId": "15",
+          "choiceIdx": 1,
+          "choiceLabel": "Microechinaat-echinaat; tectale perforaties niet zichtbaar in LM; colpus transversaal; langste as 16 µm"
+        },
+        {
+          "stepId": "16",
+          "choiceIdx": 0,
+          "choiceLabel": "Sculptuurelementen acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Fragaria_viridis_Ed.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Fragaria viridis (heuvelaardbei)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Fragaria viridis (heuvelaardbei)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpusuiteinden afgerond"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Fragaria_viridis_Eo.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Fragaria viridis (heuvelaardbei)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Fragaria viridis (heuvelaardbei)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpusuiteinden afgerond"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Fragaria_viridis_Pd.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Fragaria viridis (heuvelaardbei)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Fragaria viridis (heuvelaardbei)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpusuiteinden afgerond"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Fragaria_viridis_Po.png",
+      "imageWidthPx": 45,
+      "strict": {
+        "endpointText": "Fragaria viridis (heuvelaardbei)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Fragaria viridis (heuvelaardbei)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpusuiteinden afgerond"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_rivale_Ed.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_rivale_Eo.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_rivale_Pd.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_rivale_Po.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum rivale (knikkend nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_urbanum_Ed.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Geum urbanum (geel nagelkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_urbanum_Eo.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Geum urbanum (geel nagelkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_urbanum_Pd.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Geum urbanum (geel nagelkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Geum_urbanum_Po.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Geum urbanum (geel nagelkruid)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Geum urbanum (geel nagelkruid)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof, parallel en op afstand; in optische doorsnede breed en acuut; tectale perforaties niet zichtbaar; colpus met duidelijke brug"
+        },
+        {
+          "stepId": "21",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Malus_sylvestris_Ed.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Malus sylvestris (wilde appel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Malus sylvestris (wilde appel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Malus_sylvestris_Eo.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Malus sylvestris (wilde appel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Malus sylvestris (wilde appel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Malus_sylvestris_Pd.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Malus sylvestris (wilde appel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Malus sylvestris (wilde appel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Malus_sylvestris_Po.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Malus sylvestris (wilde appel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Malus sylvestris (wilde appel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae matig gebogen; opaciteit minder uitgesproken"
+        },
+        {
+          "stepId": "33",
+          "choiceIdx": 0,
+          "choiceLabel": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_anserina_Ed.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae breed, diffuus in horizontale projectie"
+        },
+        {
+          "stepId": "7",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat"
+        },
+        {
+          "stepId": "8",
+          "choiceIdx": 1,
+          "choiceLabel": "Polare gebieden niet afgeplat"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_anserina_Eo.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae breed, diffuus in horizontale projectie"
+        },
+        {
+          "stepId": "7",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat"
+        },
+        {
+          "stepId": "8",
+          "choiceIdx": 1,
+          "choiceLabel": "Polare gebieden niet afgeplat"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_anserina_Pd.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae breed, diffuus in horizontale projectie"
+        },
+        {
+          "stepId": "7",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat"
+        },
+        {
+          "stepId": "8",
+          "choiceIdx": 1,
+          "choiceLabel": "Polare gebieden niet afgeplat"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_anserina_Po.png",
+      "imageWidthPx": 63,
+      "strict": {
+        "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae breed, diffuus in horizontale projectie"
+        },
+        {
+          "stepId": "7",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpi niet ingesnoerd; uiteinden acuut; vallae duidelijk in LM; pollen nooit prolaat"
+        },
+        {
+          "stepId": "8",
+          "choiceIdx": 1,
+          "choiceLabel": "Polare gebieden niet afgeplat"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_erecta_Ed.png",
+      "imageWidthPx": 65,
+      "strict": {
+        "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpusuiteinden acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_erecta_Eo.png",
+      "imageWidthPx": 65,
+      "strict": {
+        "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpusuiteinden acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_erecta_Pd.png",
+      "imageWidthPx": 65,
+      "strict": {
+        "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpusuiteinden acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Potentilla_erecta_Po.png",
+      "imageWidthPx": 65,
+      "strict": {
+        "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae vaak parallel (persistent en meridionaal); operculum smal tot breed; porie niet altijd duidelijk"
+        },
+        {
+          "stepId": "6",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae smal, scherp en duidelijk in horizontale projectie"
+        },
+        {
+          "stepId": "9",
+          "choiceIdx": 1,
+          "choiceLabel": "Colpusuiteinden acuut"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_avium_Ed.png",
+      "imageWidthPx": 98,
+      "strict": {
+        "endpointText": "Prunus avium (zoete kers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus avium (zoete kers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_avium_Eo.png",
+      "imageWidthPx": 98,
+      "strict": {
+        "endpointText": "Prunus avium (zoete kers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus avium (zoete kers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_avium_Pd.png",
+      "imageWidthPx": 98,
+      "strict": {
+        "endpointText": "Prunus avium (zoete kers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus avium (zoete kers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_avium_Po.png",
+      "imageWidthPx": 98,
+      "strict": {
+        "endpointText": "Prunus avium (zoete kers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus avium (zoete kers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_padus_Ed.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Prunus padus (vogelkers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus padus (vogelkers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_padus_Eo.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Prunus padus (vogelkers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus padus (vogelkers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_padus_Pd.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Prunus padus (vogelkers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus padus (vogelkers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_padus_Po.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Prunus padus (vogelkers)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus padus (vogelkers)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae gebogen, vertakt en anastomoserend; tectale perforaties talrijk"
+        },
+        {
+          "stepId": "32",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_spinosa_Ed.png",
+      "imageWidthPx": 103,
+      "strict": {
+        "endpointText": "Prunus spinosa (sleedoorn)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus spinosa (sleedoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_spinosa_Eo.png",
+      "imageWidthPx": 103,
+      "strict": {
+        "endpointText": "Prunus spinosa (sleedoorn)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus spinosa (sleedoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_spinosa_Pd.png",
+      "imageWidthPx": 103,
+      "strict": {
+        "endpointText": "Prunus spinosa (sleedoorn)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus spinosa (sleedoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Prunus_spinosa_Po.png",
+      "imageWidthPx": 103,
+      "strict": {
+        "endpointText": "Prunus spinosa (sleedoorn)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Prunus spinosa (sleedoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 1,
+          "choiceLabel": "Perforaties mogelijk niet zichtbaar in LM; vallae submeridionaal tot subtransversaal met dichte structuur"
+        },
+        {
+          "stepId": "31",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_canina_Ed.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa canina (hondsroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina type (Rosa canina - hondsroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 2,
+          "choiceLabel": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_canina_Eo.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa canina (hondsroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina type (Rosa canina - hondsroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 2,
+          "choiceLabel": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_canina_Pd.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa canina (hondsroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina type (Rosa canina - hondsroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 2,
+          "choiceLabel": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_canina_Po.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa canina (hondsroos)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina (hondsroos)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Rosa canina type (Rosa canina - hondsroos)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn; in optische doorsnede afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "10",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae submeridionaal tot subtransversaal; in optische doorsnede hoog, vaak kort, anastomoserend en dicht bij elkaar; tectum perforatum meestal zichtbaar in LM; oppervlak kan oneffen lijken; operculum kort en bedekt de colpusopening niet; pollen prolaat (equatoriaal soms ruitvormig)"
+        },
+        {
+          "stepId": "12",
+          "choiceIdx": 2,
+          "choiceLabel": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_spinosissima_Ed.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen"
+        },
+        {
+          "stepId": "27",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_spinosissima_Eo.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen"
+        },
+        {
+          "stepId": "27",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_spinosissima_Pd.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen"
+        },
+        {
+          "stepId": "27",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Rosa_spinosissima_Po.png",
+      "imageWidthPx": 83,
+      "strict": {
+        "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae hoog, vaak kort; verdeling submeridionaal tot subtransversaal; perforaties klein; pollen prolaat; intercolpium ruitvormig equatoriaal; oppervlak meestal oneffen"
+        },
+        {
+          "stepId": "27",
+          "choiceIdx": 1,
+          "choiceLabel": "Langste as 32.5 µm; exine 1.2 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Sanguisorba minor (kleine pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba minor (kleine pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 0,
+          "choiceLabel": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_minor_Eo2.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Sanguisorba minor (kleine pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba minor (kleine pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 0,
+          "choiceLabel": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_minor_Eo3.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Sanguisorba minor (kleine pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba minor (kleine pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 0,
+          "choiceLabel": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_minor_Pd.png",
+      "imageWidthPx": 90,
+      "strict": {
+        "endpointText": "Sanguisorba minor (kleine pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba minor (kleine pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 0,
+          "choiceLabel": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 1,
+          "choiceLabel": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 1,
+          "choiceLabel": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_officinalis_Pd.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 1,
+          "choiceLabel": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sanguisorba_officinalis_Po.png",
+      "imageWidthPx": 78,
+      "strict": {
+        "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sanguisorba officinalis (grote pimpernel)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 0,
+          "choiceLabel": "Psilaat-scabraat, scabraat-echinaat tot microstriaat; oblaat met korte colpi; PAI 0.32-0.50; exine 2.0-2.7 µm"
+        },
+        {
+          "stepId": "3",
+          "choiceIdx": 1,
+          "choiceLabel": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sibbaldia_procumbens_Ed.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Sibbaldia procumbens ()",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sibbaldia procumbens ()",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sibbaldia_procumbens_Eo.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Sibbaldia procumbens ()",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sibbaldia procumbens ()",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sibbaldia_procumbens_Pd.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Sibbaldia procumbens ()",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sibbaldia procumbens ()",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sibbaldia_procumbens_Po.png",
+      "imageWidthPx": 58,
+      "strict": {
+        "endpointText": "Sibbaldia procumbens ()",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sibbaldia procumbens ()",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 0,
+          "choiceLabel": "Tricolporaat pollen met operculum"
+        },
+        {
+          "stepId": "2",
+          "choiceIdx": 1,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "4",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae grof; in optische doorsnede acuut; tectale perforaties niet zichtbaar in LM of SEM"
+        },
+        {
+          "stepId": "5",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Crataegus type (Crataegus - meidoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 0,
+          "choiceLabel": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)"
+        },
+        {
+          "stepId": "30",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sorbus_aucuparia_Eo.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Crataegus type (Crataegus - meidoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 0,
+          "choiceLabel": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)"
+        },
+        {
+          "stepId": "30",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sorbus_aucuparia_Pd.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Crataegus type (Crataegus - meidoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 0,
+          "choiceLabel": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)"
+        },
+        {
+          "stepId": "30",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    },
+    {
+      "image": "assets/images/pollenwiki/Sorbus_aucuparia_Po.png",
+      "imageWidthPx": 70,
+      "strict": {
+        "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+        "keyJsonUrl": "keys/eide/rosaceae-eide.json"
+      },
+      "accepted": [
+        {
+          "endpointText": "Sorbus aucuparia (wilde lijsterbes)",
+          "grade": "acceptable"
+        },
+        {
+          "endpointText": "Crataegus type (Crataegus - meidoorn)",
+          "grade": "acceptable"
+        }
+      ],
+      "expectedPath": [
+        {
+          "stepId": "1",
+          "choiceIdx": 1,
+          "choiceLabel": "Tricolporaat pollen zonder operculum"
+        },
+        {
+          "stepId": "14",
+          "choiceIdx": 2,
+          "choiceLabel": "Striaat"
+        },
+        {
+          "stepId": "20",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae fijn"
+        },
+        {
+          "stepId": "22",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae enkel in optische doorsnede, afgerond; tectum perforatum"
+        },
+        {
+          "stepId": "24",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae duidelijk"
+        },
+        {
+          "stepId": "26",
+          "choiceIdx": 1,
+          "choiceLabel": "Vallae laag en smal (groep *Dryas*, *Malus*, *Prunus*, *Sorbus*)"
+        },
+        {
+          "stepId": "28",
+          "choiceIdx": 0,
+          "choiceLabel": "Vallae recht, parallel en matig vertakt"
+        },
+        {
+          "stepId": "29",
+          "choiceIdx": 0,
+          "choiceLabel": "Perforaties duidelijk, grootte en afstand uniform; porie meestal duidelijk; colpusrand vaak gescheurd in poriegebied; ingesnoerde colpus vaak; vallae submeridionaal zonder dichte structuur (*Sorbus*)"
+        },
+        {
+          "stepId": "30",
+          "choiceIdx": 0,
+          "choiceLabel": "Langste as 22.0 µm"
+        }
+      ],
+      "distractors": []
+    }
+  ]
+}

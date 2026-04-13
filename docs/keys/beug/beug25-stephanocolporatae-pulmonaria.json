@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK groter dan 30 µm (Tafel 87: 31-34).",
-          "outcome": {
-            "text": "25.4.1 *Pulmonaria*-type",
+          "id": {
+            "name": "25.4.1 Pulmonaria-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK 19-26 µm.",
-          "outcome": {
-            "text": "25.4.2 *Nonea pulla*",
+          "id": {
+            "name": "25.4.2 Nonea pulla",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

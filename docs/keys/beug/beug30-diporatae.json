@@ -49,8 +49,10 @@
       "choices": [
         {
           "label": "PK echinaat of microechinaat (Tafel 105: 1-18).",
-          "outcome": {
-            "text": "*Campanulaceae* p.p. (Blz. 449)",
+          "id": {
+            "name": "Campanulaceae p.p. (Blz. 449)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -99,8 +101,10 @@
         },
         {
           "label": "PK retipilat, 19-35 µm groot (Tafel 96: 1-4).",
-          "outcome": {
-            "text": "30.2 *Callitriche palustris*-type (Blz. 424)",
+          "id": {
+            "name": "30.2 Callitriche palustris-type (Blz. 424)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -121,8 +125,10 @@
       "choices": [
         {
           "label": "PK tot ca. 17 µm groot (Tafel 120: 21-23).",
-          "outcome": {
-            "text": "30.3 *Ficus carica* (Blz. 424)",
+          "id": {
+            "name": "30.3 Ficus carica (Blz. 424)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -157,8 +163,10 @@
       "choices": [
         {
           "label": "Poriën met kräftigem annulus, Anuli 4,0-4,8 µm breit en 3,8-4,6 µm hoch.",
-          "outcome": {
-            "text": "*Myriophyllum alterniflorum* (Blz. 448)",
+          "id": {
+            "name": "Myriophyllum alterniflorum (Blz. 448)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -193,8 +201,10 @@
       "choices": [
         {
           "label": "Porendurchmesser 5-7 µm, PK 20-28 µm groot (Tafel 95: 13-15).",
-          "outcome": {
-            "text": "30.4 *Cytinus hypocistis* (Blz. 426)",
+          "id": {
+            "name": "30.4 Cytinus hypocistis (Blz. 426)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -209,8 +219,10 @@
         },
         {
           "label": "Porendurchmesser 2,5-3 µm, PK (17)26-35 µm groot (Tafel 95: 16-17).",
-          "outcome": {
-            "text": "30.5 *Itea* (Blz. 426)",
+          "id": {
+            "name": "30.5 Itea (Blz. 426)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

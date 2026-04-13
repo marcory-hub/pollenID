@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
-          "outcome": {
-            "text": "17.2.1 *Valeriana officinalis*-type (Blz... 236)",
+          "id": {
+            "name": "17.2.1 Valeriana officinalis-type (Blz... 236)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
-          "outcome": {
-            "text": "17.2.2 *Valeriana montana*-type (Blz... 236)",
+          "id": {
+            "name": "17.2.2 Valeriana montana-type (Blz... 236)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

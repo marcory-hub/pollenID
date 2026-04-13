@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "brochi duidelijk groter dan 1 µm en tot 2,5 µm groot, tectum op de lumina door microbrochi onderverdeeld (Tafel 60: 3-9).",
-          "outcome": {
-            "text": "21.10.1 *Galeopsis*-type",
+          "id": {
+            "name": "21.10.1 Galeopsis-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "brochi slechts tot 1(1,2) µm groot, overwegend ononderverdeeld (Tafel 60: 10-13).",
-          "outcome": {
-            "text": "21.10.2 *Ballota*-type",
+          "id": {
+            "name": "21.10.2 Ballota-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

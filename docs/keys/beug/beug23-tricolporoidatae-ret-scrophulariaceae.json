@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK heteropolaar, met een abgerundeten en een toegespitste Pol, 15-20 µm groot (Tafel 80: 26-27).",
-          "outcome": {
-            "text": "23.8.1 *Chaenorrhinum minus* (Blz. 367)",
+          "id": {
+            "name": "23.8.1 Chaenorrhinum minus (Blz. 367)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -51,8 +53,10 @@
       "choices": [
         {
           "label": "PK 15-18 µm groot, sferoïdisch, zeer dunwandig (Tafel 80: 28-30).",
-          "outcome": {
-            "text": "23.8.2 *Lindernia procumbens* (Blz.367)",
+          "id": {
+            "name": "23.8.2 Lindernia procumbens (Blz.367)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -87,8 +91,10 @@
       "choices": [
         {
           "label": "PK met aangedeuteten marges uit bijzonder kleine Brochi (Tafel 81: 1-6).",
-          "outcome": {
-            "text": "23.8.3 *Verbascum* (Blz. 368)",
+          "id": {
+            "name": "23.8.3 Verbascum (Blz. 368)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -157,8 +163,10 @@
       "choices": [
         {
           "label": "Brochi in lichtveldbeeld (olie-immersie) duidelijk zichtbaar, tot 1 µm groot; PK overwegend elliptisch met afgeronde polen.",
-          "outcome": {
-            "text": "23.8.4 *Linaria*-type (Blz. 368)",
+          "id": {
+            "name": "23.8.4 Linaria-type (Blz. 368)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -173,8 +181,10 @@
         },
         {
           "label": "Brochi kleiner, in lichtveldbeeld (olie-immersie) meestal niet herkenbaar, PK vaak met toegespitste polen, elliptisch tot ruitvormig (Tafel 80: 31-35).",
-          "outcome": {
-            "text": "23.8.5 *Kickxia* (Blz. 370)",
+          "id": {
+            "name": "23.8.5 Kickxia (Blz. 370)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -209,8 +219,10 @@
         },
         {
           "label": "PK met middelgrote poolvelden.",
-          "outcome": {
-            "text": "23.8.6 *Antirrhinum*-type (Blz. 370)",
+          "id": {
+            "name": "23.8.6 Antirrhinum-type (Blz. 370)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -231,8 +243,10 @@
       "choices": [
         {
           "label": "breedte der Muri niet uniform, PK daarom met een onrustig microreticulaat patroon (Tafel 81: 7-11).",
-          "outcome": {
-            "text": "23.8.7 *Digitalis* (Blz. 370)",
+          "id": {
+            "name": "23.8.7 Digitalis (Blz. 370)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -247,8 +261,10 @@
         },
         {
           "label": "breedte der Muri uniform, PK daarom met een regelmatig microreticulaat patroon (Tafel 81: 12-16).",
-          "outcome": {
-            "text": "23.8.8 *Scrophularia*-type (Blz. 370)",
+          "id": {
+            "name": "23.8.8 Scrophularia-type (Blz. 370)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

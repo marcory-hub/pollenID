@@ -12,8 +12,10 @@
       "choices": [
         {
           "label": "PK dunwandig. Exine tot ca. 0,5 µm dik",
-          "outcome": {
-            "text": "7.4.1 *Juniperus communis-type*",
+          "id": {
+            "name": "7.4.1 Juniperus communis-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -46,8 +48,10 @@
       "choices": [
         {
           "label": "microgemmae onregelmatig over de PK verdeeld",
-          "outcome": {
-            "text": "7.4.2 *Juniperus excelsa-type*",
+          "id": {
+            "name": "7.4.2 Juniperus excelsa-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -62,8 +66,10 @@
         },
         {
           "label": "PK meestal alleen in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) microgemmae of met microclavae",
-          "outcome": {
-            "text": "7.4.3 *Cunninghamia-type*",
+          "id": {
+            "name": "7.4.3 Cunninghamia-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

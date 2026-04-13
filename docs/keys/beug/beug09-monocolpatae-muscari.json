@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK tot 43 µm groot.",
-          "outcome": {
-            "text": "9.14.1 *Muscari neglectum*-type. (*Muscari botryoides* (L.) Mill. (2): 30,5–42,5 µm, MiW 36,9 µm; 50 PK, 0a. *Muscari neglectum* Guss. ex Ten. (3): 22,0–38,5 µm, MiW 29,7 µm; 100 PK, 0a.)",
+          "id": {
+            "name": "9.14.1 Muscari neglectum-type. (Muscari botryoides (L.) Mill. (2): 30,5–42",
+            "size": "5 µm",
+            "source": "MiW 36,9 µm; 50 PK, 0a. Muscari neglectum Guss. ex Ten. (3): 22,0–38,5 µm, MiW 29,7 µm; 100 PK, 0a.)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK groter dan 43 µm (tabel 10: 3).",
-          "outcome": {
-            "text": "9.14.2 *Muscari comosum*-type. (*Muscari comosum* (L.) Mill. (2): 44,5–57,0 µm, MiW 48,9 µm; 50 PK, 0a. *Muscari tenuiflorum* Tausch (2): 45,0–57,8 µm, MiW 52,3 µm; 50 PK, 0a.)",
+          "id": {
+            "name": "9.14.2 Muscari comosum-type. (Muscari comosum (L.) Mill. (2): 44,5–57",
+            "size": "0 µm",
+            "source": "MiW 48,9 µm; 50 PK, 0a. Muscari tenuiflorum Tausch (2): 45,0–57,8 µm, MiW 52,3 µm; 50 PK, 0a.)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

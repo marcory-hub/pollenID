@@ -83,8 +83,10 @@
       "choices": [
         {
           "label": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm",
-          "outcome": {
-            "text": "*Sanguisorba minor* (kleine pimpernel), 36 (29.9-39.2) μm",
+          "id": {
+            "name": "Sanguisorba minor (kleine pimpernel)",
+            "size": "36 (29.9-39.2) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
@@ -107,8 +109,10 @@
         },
         {
           "label": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm",
-          "outcome": {
-            "text": "*Sanguisorba officinalis* (grote pimpernel), 31 (28.4-32.2) μm",
+          "id": {
+            "name": "Sanguisorba officinalis (grote pimpernel)",
+            "size": "31 (28.4-32.2) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
@@ -171,8 +175,10 @@
       "choices": [
         {
           "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm",
-          "outcome": {
-            "text": "*Sibbaldia procumbens* (), 21-25 µm",
+          "id": {
+            "name": "Sibbaldia procumbens ()",
+            "size": "21-25 µm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sibbaldia_procumbens_Ed.png",
@@ -249,8 +255,10 @@
       "choices": [
         {
           "label": "Colpi ingesnoerd; uiteinden afgerond; vallae diffuus in LM; pollen altijd prolaat; langste as 29 µm",
-          "outcome": {
-            "text": "*Comarum palustre* (wateraardbei)",
+          "id": {
+            "name": "Comarum palustre (wateraardbei)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -293,8 +301,10 @@
       "choices": [
         {
           "label": "Polare gebieden afgeplat",
-          "outcome": {
-            "text": "*Fragaria vesca* synoniem *Potentilla palustris* (bosaardbei)",
+          "id": {
+            "name": "Fragaria vesca synoniem Potentilla palustris (bosaardbei)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -317,8 +327,10 @@
         },
         {
           "label": "Polare gebieden niet afgeplat",
-          "outcome": {
-            "text": "*Potentilla anserina* 25 (23.2-27.7) μm (zilverschoon, langste as 22.5 µm) of *Potentilla norvegica* (noorse ganzerik, langste as 30.2 µm)",
+          "id": {
+            "name": "Potentilla anserina 25 (23.2-27.7) μm (zilverschoon",
+            "size": "langste as 22.5 µm) of Potentilla norvegica (noorse ganzerik",
+            "source": "langste as 30.2 µm)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_anserina_Ed.png",
@@ -347,8 +359,10 @@
       "choices": [
         {
           "label": "Colpusuiteinden afgerond",
-          "outcome": {
-            "text": "*Fragaria viridis* (heuvelaardbei) 16-20 µm",
+          "id": {
+            "name": "Fragaria viridis (heuvelaardbei)",
+            "size": "16-20 µm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Fragaria_viridis_Ed.png",
@@ -371,8 +385,10 @@
         },
         {
           "label": "Colpusuiteinden acuut",
-          "outcome": {
-            "text": "*Potentilla crantzii* () (exine 1.7 µm) of *Potentilla erecta* (tormentil), 26 (24.8-27.2) μm (exine 0.8 µm)",
+          "id": {
+            "name": "Potentilla crantzii () (exine 1.7 µm) of Potentilla erecta (tormentil)",
+            "size": "26 (24.8-27.2) μm (exine 0.8 µm)",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_erecta_Ed.png",
@@ -435,8 +451,10 @@
       "choices": [
         {
           "label": "Oppervlak geeft de indruk glad te zijn",
-          "outcome": {
-            "text": "*Agrimonia eupatoria* (gewone agrimonie), 34 (30.2-37.0) μm",
+          "id": {
+            "name": "Agrimonia eupatoria (gewone agrimonie)",
+            "size": "34 (30.2-37.0) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
@@ -459,8 +477,10 @@
         },
         {
           "label": "Groepen vallae vormen licht verhoogde delen over het intercolpium",
-          "outcome": {
-            "text": "*Agrimonia odorata* (welriekende agrimonie), 51-100 µm",
+          "id": {
+            "name": "Agrimonia odorata (welriekende agrimonie)",
+            "size": "51-100 µm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_odorata_Ed.png",
@@ -489,8 +509,10 @@
       "choices": [
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
-          "outcome": {
-            "text": "*Rosa rubiginosa* (egelantier), 26-30 µm, Auer W. 2021. Rosa eglanteria. In: PalDat - A palynological database",
+          "id": {
+            "name": "Rosa rubiginosa (egelantier)",
+            "size": "26-30 µm",
+            "source": "Auer W. 2021. Rosa eglanteria. In: PalDat - A palynological database",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
@@ -513,8 +535,10 @@
         },
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
-          "outcome": {
-            "text": "*Rosa pimpinellifolia* (duinroos), 31-35 µm. Halbritter H., Auer W. 2021. Rosa pimpinellifolia. In: PalDat - A palynological database.",
+          "id": {
+            "name": "Rosa pimpinellifolia (duinroos)",
+            "size": "31-35 µm. Halbritter H.",
+            "source": "Auer W. 2021. Rosa pimpinellifolia. In: PalDat - A palynological database.",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_pimpinellifolia_Ed.png",
@@ -537,8 +561,10 @@
         },
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
-          "outcome": {
-            "text": "*Rosa canina* (hondsroos), 33 (30.4-36.4) μm",
+          "id": {
+            "name": "Rosa canina (hondsroos)",
+            "size": "33 (30.4-36.4) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
@@ -615,8 +641,10 @@
       "choices": [
         {
           "label": "Clavaat-bacillaat; sculptuurelementen basaal ingesnoerd; striatie en tectale perforaties vaak bedekt door clavae/bacula; langste as 28.5 µm",
-          "outcome": {
-            "text": "*Rubus chamaemorus* (kruipbraam)",
+          "id": {
+            "name": "Rubus chamaemorus (kruipbraam)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -659,8 +687,10 @@
       "choices": [
         {
           "label": "Sculptuurelementen acuut",
-          "outcome": {
-            "text": "*Filipendula ulmaria* (moerasspirea) 17 (15.1-18.3) μm",
+          "id": {
+            "name": "Filipendula ulmaria (moerasspirea)",
+            "size": "17 (15.1-18.3) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
@@ -699,8 +729,10 @@
         },
         {
           "label": "Sculptuurelementen obtuus",
-          "outcome": {
-            "text": "*Filipendula vulgaris* (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+          "id": {
+            "name": "Filipendula vulgaris (knolspirea), 16-20 µ, Halbritter H., Heigl H. 2020. Filipendula vulgaris. In: PalDat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Filipendula_vulgaris_Eo2.png",
@@ -729,8 +761,10 @@
       "choices": [
         {
           "label": "Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag; colpus lang; PAI 0.1; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm",
-          "outcome": {
-            "text": "*Mespilus germanica* (wilde mispel)",
+          "id": {
+            "name": "Mespilus germanica (wilde mispel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -787,8 +821,10 @@
       "choices": [
         {
           "label": "Langste as 29.9 µm",
-          "outcome": {
-            "text": "*Cotoneaster niger* (?)",
+          "id": {
+            "name": "Cotoneaster niger (?)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -811,8 +847,10 @@
         },
         {
           "label": "Langste as 31.1 µm",
-          "outcome": {
-            "text": "*Cotoneaster intergerrimus* (wilde dwergmispel), 31-35 µm",
+          "id": {
+            "name": "Cotoneaster intergerrimus (wilde dwergmispel)",
+            "size": "31-35 µm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Cotoneaster_intergerrimus_Ed.png",
@@ -841,8 +879,10 @@
       "choices": [
         {
           "label": "Columellae in het midden van het intercolpium 1.5x zo hoog als aan de colpusrand",
-          "outcome": {
-            "text": "*Alchemilla alpina* (alpine vrouwenmantel?)",
+          "id": {
+            "name": "Alchemilla alpina (alpine vrouwenmantel?)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -865,8 +905,10 @@
         },
         {
           "label": "Columellae in het midden van het intercolpium 2.5x zo hoog als aan de colpusrand",
-          "outcome": {
-            "text": "*Alchemilla acutiloba* (spitslobbige vrouwenmantel) en *Alchemilla glabra* (kale vrouwenmantel)",
+          "id": {
+            "name": "Alchemilla acutiloba (spitslobbige vrouwenmantel) en Alchemilla glabra (kale vrouwenmantel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -929,8 +971,10 @@
       "choices": [
         {
           "label": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm",
-          "outcome": {
-            "text": "*Geum rivale* (knikkend nagelkruid) 27 (23.2-30.6), 24 (21.1-26.1) μm ",
+          "id": {
+            "name": "Geum rivale (knikkend nagelkruid) 27 (23.2-30.6)",
+            "size": "24 (21.1-26.1) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_rivale_Ed.png",
@@ -953,8 +997,10 @@
         },
         {
           "label": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm",
-          "outcome": {
-            "text": "*Geum urbanum* (geel nagelkruid) 23 (20.0-25.6) μm",
+          "id": {
+            "name": "Geum urbanum (geel nagelkruid)",
+            "size": "23 (20.0-25.6) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_urbanum_Ed.png",
@@ -1017,8 +1063,10 @@
       "choices": [
         {
           "label": "Langste as 29 µm",
-          "outcome": {
-            "text": "*Crataegus monogyna* (eenstijlige meidoorn), rejected as ambiguous by the International Botanical Congress. More recently, Christensen concluded in 1992 that the species matches C. rhipidophylla (Koraalmeidoorn) (https://www.jstor.org/stable/i25027808)",
+          "id": {
+            "name": "Crataegus monogyna (eenstijlige meidoorn), rejected as ambiguous by the International Botanical Congress. More recently, Christensen concluded in 1992 that the species matches C. rhipidophylla (Koraalmeidoorn) (https://www.jstor.org/stable/i25027808)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -1041,8 +1089,10 @@
         },
         {
           "label": "Langste as 35 µm",
-          "outcome": {
-            "text": "*Crataegus oxycantha* (tweestijlige meidoorn)",
+          "id": {
+            "name": "Crataegus oxycantha (tweestijlige meidoorn)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -1105,8 +1155,10 @@
       "choices": [
         {
           "label": "Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig",
-          "outcome": {
-            "text": "*Rubus arcticus* (arctische braam) komt voor in arctisch gebied en alpen.",
+          "id": {
+            "name": "Rubus arcticus (arctische braam) komt voor in arctisch gebied en alpen.",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -1129,8 +1181,10 @@
         },
         {
           "label": "Perforaties minder talrijk dan in de vorige soort",
-          "outcome": {
-            "text": "*Rubus saxatilis* (steenbraam)26-30 µm Auer W. 2021. Rubus saxatilis",
+          "id": {
+            "name": "Rubus saxatilis (steenbraam)",
+            "size": "26-30 µm Auer W. 2021. Rubus saxatilis",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rubus_saxatilis_Po.png",
@@ -1193,8 +1247,10 @@
       "choices": [
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
-          "outcome": {
-            "text": "*Rosa rubiginosa* (egelantier) 26-30 µm Auer W. 2021. Rosa rubiginosa. In: PalDat - A palynological database.",
+          "id": {
+            "name": "Rosa rubiginosa (egelantier)",
+            "size": "26-30 µm Auer W. 2021. Rosa rubiginosa. In: PalDat - A palynological database.",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
@@ -1217,8 +1273,10 @@
         },
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
-          "outcome": {
-            "text": "*Rosa pimpinellifolia* (duinroos) syn Rosa spinosissima 31-35 µm",
+          "id": {
+            "name": "Rosa pimpinellifolia (duinroos) syn Rosa spinosissima",
+            "size": "31-35 µm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Ed.png",
@@ -1241,8 +1299,10 @@
         },
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
-          "outcome": {
-            "text": "*Rosa canina* (hondsroos) 33 (30.4-36.4) μm",
+          "id": {
+            "name": "Rosa canina (hondsroos)",
+            "size": "33 (30.4-36.4) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
@@ -1339,8 +1399,10 @@
       "choices": [
         {
           "label": "Langste as 22.0 µm",
-          "outcome": {
-            "text": "*Sorbus aucuparia* (wilde lijsterbes) ",
+          "id": {
+            "name": "Sorbus aucuparia (wilde lijsterbes)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
@@ -1363,8 +1425,10 @@
         },
         {
           "label": "Langste as 29.0 µm",
-          "outcome": {
-            "text": "*Sorbus arranensis* (Schotse- of arran lijsterbes), *Sorbus hybrida* (Finse meelbes)",
+          "id": {
+            "name": "Sorbus arranensis (Schotse- of arran lijsterbes), Sorbus hybrida (Finse meelbes)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -1393,8 +1457,10 @@
       "choices": [
         {
           "label": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm",
-          "outcome": {
-            "text": "*Prunus avium* (zoete kers) 39 (37.3-39.2) μm",
+          "id": {
+            "name": "Prunus avium (zoete kers)",
+            "size": "39 (37.3-39.2) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Prunus_avium_Ed.png",
@@ -1417,8 +1483,10 @@
         },
         {
           "label": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm",
-          "outcome": {
-            "text": "*Prunus spinosa* (sleedoorn) 41 (39.1-42.6) μm ",
+          "id": {
+            "name": "Prunus spinosa (sleedoorn)",
+            "size": "41 (39.1-42.6) μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Prunus_spinosa_Ed.png",
@@ -1447,8 +1515,10 @@
       "choices": [
         {
           "label": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm",
-          "outcome": {
-            "text": "*Prunus padus* (vogelkers) 36 μm",
+          "id": {
+            "name": "Prunus padus (vogelkers)",
+            "size": "36 μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Prunus_padus_Ed.png",
@@ -1491,8 +1561,10 @@
       "choices": [
         {
           "label": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm",
-          "outcome": {
-            "text": "*Malus sylvestris* (wilde appel) 31 μm",
+          "id": {
+            "name": "Malus sylvestris (wilde appel)",
+            "size": "31 μm",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Malus_sylvestris_Ed.png",
@@ -1515,8 +1587,10 @@
         },
         {
           "label": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm",
-          "outcome": {
-            "text": "*Dryas octopetala* (zilverkruid)",
+          "id": {
+            "name": "Dryas octopetala (zilverkruid)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Dryas_octopetala_Ed.png",

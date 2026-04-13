@@ -63,8 +63,10 @@
         },
         {
           "label": "Poriën asymmetrisch, buiten de equatoriale positie (Tafel 87: 23-25).",
-          "outcome": {
-            "text": "25.1 *Lithospermum officinale*-type (Blz. 393)",
+          "id": {
+            "name": "25.1 Lithospermum officinale-type (Blz. 393)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -85,8 +87,10 @@
       "choices": [
         {
           "label": "PK met 8 Colpi en Poriën en met kleiner microreticulaat of kornig bezette zone in equatoriale gebied (fasecontrast!) (Tafel 87: 26-28).",
-          "outcome": {
-            "text": "25.2 *Cerinthe* (Blz. 393)",
+          "id": {
+            "name": "25.2 Cerinthe (Blz. 393)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -101,8 +105,10 @@
         },
         {
           "label": "PK zonder Microreticulum in equatoriale gebied (Tafel 87: 29-30).",
-          "outcome": {
-            "text": "25.3 *Lithospermum arvense* (Blz. 393)",
+          "id": {
+            "name": "25.3 Lithospermum arvense (Blz. 393)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -225,8 +231,10 @@
       "choices": [
         {
           "label": "PK 50-80 µm groot, tonvormig, tetra- of pentacolporoïdaat (Tafel 88: 1-4).",
-          "outcome": {
-            "text": "25.5 *Viola tricolor*-type (Blz. 394)",
+          "id": {
+            "name": "25.5 Viola tricolor-type (Blz. 394)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -241,8 +249,10 @@
         },
         {
           "label": "PK kleiner dan 35 µm, tetracolporaat met schuin gestelde Colpi (Tafel 88: 5-7).",
-          "outcome": {
-            "text": "25.6 *Polygonum raii* (Blz. 395)",
+          "id": {
+            "name": "25.6 Polygonum raii (Blz. 395)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -263,8 +273,10 @@
       "choices": [
         {
           "label": "PK rugulaat-reticulaat (Tafel 88: 8-11).",
-          "outcome": {
-            "text": "25.7 *Anthyllis montana*-type (Blz. 395)",
+          "id": {
+            "name": "25.7 Anthyllis montana-type (Blz. 395)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -299,8 +311,10 @@
       "choices": [
         {
           "label": "PK 39-47 µm groot, dunwandig, Exine 1,4-1,8 µm dik, equatoriaal aanzicht met geraden zijden en afgeplatte polen, Poolvelden groot (Tafel 89: 1-8).",
-          "outcome": {
-            "text": "25.8 *Nonea lutea* (Blz. 395)",
+          "id": {
+            "name": "25.8 Nonea lutea (Blz. 395)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -335,8 +349,10 @@
       "choices": [
         {
           "label": "PK tetra- of pentacolporaat, Brochi tot 3 µm groot (Tafel 88: 12-17).",
-          "outcome": {
-            "text": "25.9 *Cistus* (Blz. 396)",
+          "id": {
+            "name": "25.9 Cistus (Blz. 396)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -351,8 +367,10 @@
         },
         {
           "label": "PK tetracolporaat, Brochi nur tot max. 1,8 µm groot (Tafel 89: 9-14).",
-          "outcome": {
-            "text": "25.10 *Ceratonia siliqua* (Blz. 396)",
+          "id": {
+            "name": "25.10 Ceratonia siliqua (Blz. 396)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -373,8 +391,10 @@
       "choices": [
         {
           "label": "Exine equatoriaal in het gebied der Colpi transversales wulstig voorgevouwen, Exine zonder columella-laag, met 10-18 Colpen (Tafel 89: 15-22).",
-          "outcome": {
-            "text": "25.11 *Urticularia* (Blz. 396)",
+          "id": {
+            "name": "25.11 Urticularia (Blz. 396)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -423,8 +443,10 @@
         },
         {
           "label": "PK met 14-22 Colpi, PK groter dan 45 µm (Tafel 90: 1-3).",
-          "outcome": {
-            "text": "25.12 *Polygala chamaebuxus* (Blz. 398)",
+          "id": {
+            "name": "25.12 Polygala chamaebuxus (Blz. 398)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -445,8 +467,10 @@
       "choices": [
         {
           "label": "Poolvelden met mehreren over 1 µm groot grubigen verdiepingen, PK dikwandig, met 9-10 Colpen (Tafel 90: 4-8).",
-          "outcome": {
-            "text": "25.13 *Polygala comosa*-type (Blz. 398)",
+          "id": {
+            "name": "25.13 Polygala comosa-type (Blz. 398)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -481,8 +505,10 @@
       "choices": [
         {
           "label": "PK microreticulaat tot reticulaat, Brochi 1-2 µm groot, PK met (5)6 of 7 Colpen, Colpen met einfache of s-vormige equatoriale versmalling of met contrastarme Porie (Tafel 90: 9-14).",
-          "outcome": {
-            "text": "25.14 *Pinguicula* (Blz. 400)",
+          "id": {
+            "name": "25.14 Pinguicula (Blz. 400)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -517,8 +543,10 @@
       "choices": [
         {
           "label": "PK met 6 Colpi en Poriën, Exine met dikte Tectum (Tafel 90: 15-19).",
-          "outcome": {
-            "text": "25.15 *Sanguisorba officinalis* (Blz. 400)",
+          "id": {
+            "name": "25.15 Sanguisorba officinalis (Blz. 400)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -553,8 +581,10 @@
       "choices": [
         {
           "label": "columella's niet herkenbaar, PK met 8 tot 10 Colpen, Intercolpiën zonder margo (Tafel 91: 1-5).",
-          "outcome": {
-            "text": "25.16 *Symphytum* (Blz. 402)",
+          "id": {
+            "name": "25.16 Symphytum (Blz. 402)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -569,8 +599,10 @@
         },
         {
           "label": "Exine met duidelijk columella's, PK met 10 Colpen, Colpen met margo (Tafel 91: 6-10).",
-          "outcome": {
-            "text": "25.17 *Borago* (Blz. 402)",
+          "id": {
+            "name": "25.17 Borago (Blz. 402)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

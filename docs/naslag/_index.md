@@ -16,7 +16,7 @@
 
 ## WIP
 
-- [PalynoQuest](palynoquest.md)
+<!-- PalynoQuest moved to top navigation as "Willekeurig". -->
 
 ## Referenties
 

@@ -16,8 +16,10 @@
       "choices": [
         {
           "label": "PK in polair aanzicht ± cirkelvormig of loodrecht op de colpus in het equatoriale vlak iets uitgerekt, peroblaat. colpi spits toelopend. Sculptuur psilaat-scabraat of reticulaat (tabel 8: 7–10).",
-          "outcome": {
-            "text": "9.1 *Asphodelus*-groep (Blz... 98)",
+          "id": {
+            "name": "9.1 Asphodelus-groep (Blz... 98)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -52,8 +54,10 @@
       "choices": [
         {
           "label": "PK met lengteribben.",
-          "outcome": {
-            "text": "9.2 *Welwitschia mirabilis* (Blz... 98)",
+          "id": {
+            "name": "9.2 Welwitschia mirabilis (Blz... 98)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -122,8 +126,10 @@
       "choices": [
         {
           "label": "PK verrucaat tot gemmaat, d.w.z. zeer dicht met kleine vesiculae gesculpteerd, sferoïdisch, colpus meestal kort en breed.",
-          "outcome": {
-            "text": "9.3 *Sciadopitys verticillata* (Blz... 99)",
+          "id": {
+            "name": "9.3 Sciadopitys verticillata (Blz... 99)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -206,8 +212,10 @@
         },
         {
           "label": "PK clavaat-baculaat.",
-          "outcome": {
-            "text": "9.5 *Iris pumila*-type (Blz... 99)",
+          "id": {
+            "name": "9.5 Iris pumila-type (Blz... 99)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -228,8 +236,10 @@
       "choices": [
         {
           "label": "PK prolaat of perprolaat, echini krachtig, 5–6 µm lang. Exine met een columella-laag.",
-          "outcome": {
-            "text": "9.6 *Nuphar* (Blz... 100)",
+          "id": {
+            "name": "9.6 Nuphar (Blz... 100)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -244,8 +254,10 @@
         },
         {
           "label": "PK sferoïdisch, echini 3–4 µm lang, columellae aanwezig.",
-          "outcome": {
-            "text": "9.7 *Stratiotes aloides* (Blz... 100)",
+          "id": {
+            "name": "9.7 Stratiotes aloides (Blz... 100)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -368,8 +380,10 @@
       "choices": [
         {
           "label": "Margo smal (3–4 µm), PK relatief smal, ÄFormI 1,40–2,07.",
-          "outcome": {
-            "text": "9.8 *Pancratium* (Blz... 100)",
+          "id": {
+            "name": "9.8 Pancratium (Blz... 100)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -384,8 +398,10 @@
         },
         {
           "label": "Margo breed (8–12 µm), PK relatief breed, ÄFormI meestal 1,00–1,55 (tabel 8: 15).",
-          "outcome": {
-            "text": "9.9 *Anthericum* (Blz... 100)",
+          "id": {
+            "name": "9.9 Anthericum (Blz... 100)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -406,8 +422,10 @@
       "choices": [
         {
           "label": "muri van smalle segmenten opgebouwd (tabel 8: 17). lumina van de brochi zonder sculptuurelementen. Margo aanwezig.",
-          "outcome": {
-            "text": "9.10 *Lilium* (Blz... 101)",
+          "id": {
+            "name": "9.10 Lilium (Blz... 101)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -442,8 +460,10 @@
       "choices": [
         {
           "label": "muri microechinaat (tabel 8: 13–14).",
-          "outcome": {
-            "text": "9.11 *Paradisia liliastrum* (Blz... 101)",
+          "id": {
+            "name": "9.11 Paradisia liliastrum (Blz... 101)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -478,8 +498,10 @@
       "choices": [
         {
           "label": "Aan de einden van de PK bevindt zich elk een duidelijk afgezette zone met een fijnmazig reticulum (tabel 8: 16).",
-          "outcome": {
-            "text": "9.12 *Hemerocallis* (Blz... 101)",
+          "id": {
+            "name": "9.12 Hemerocallis (Blz... 101)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -494,8 +516,10 @@
         },
         {
           "label": "PK zonder zone met een fijnmazig reticulum aan de einden. (tabel 10: 1–2).",
-          "outcome": {
-            "text": "9.13 *Iris germanica*-type (Blz... 102)",
+          "id": {
+            "name": "9.13 Iris germanica-type (Blz... 102)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -550,8 +574,10 @@
       "choices": [
         {
           "label": "muri duplicolumellaat, indien uit segmenten samengesteld, vergelijk *Lloydia* (Blz... 104).",
-          "outcome": {
-            "text": "9.15 *Polygonatum verticillatum* (Blz... 102)",
+          "id": {
+            "name": "9.15 Polygonatum verticillatum (Blz... 102)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -634,8 +660,10 @@
         },
         {
           "label": "brochi tot 1,5(2,0) µm groot.",
-          "outcome": {
-            "text": "9.16 *Asparagus acutifolius* (Blz... 103)",
+          "id": {
+            "name": "9.16 Asparagus acutifolius (Blz... 103)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -656,8 +684,10 @@
       "choices": [
         {
           "label": "PK langgerekt, meest smal. De grote brochi (1,5–4,0 µm) bevinden zich in relatief geringer aantal overwegend op de proximale zijde van de PK, omgeven door vele kleine brochi (tabel 10:4).",
-          "outcome": {
-            "text": "9.17 *Ornithogalum umbellatum*-type (Blz... 103)",
+          "id": {
+            "name": "9.17 Ornithogalum umbellatum-type (Blz... 103)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -692,8 +722,10 @@
       "choices": [
         {
           "label": "PK breed ovaal, boven 65 en tot 97 µm groot; de kleine brochi liggen enkel tussen de grote brochi.",
-          "outcome": {
-            "text": "9.18 *Erythronium dens-canis* (Blz... 104)",
+          "id": {
+            "name": "9.18 Erythronium dens-canis (Blz... 104)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -708,8 +740,10 @@
         },
         {
           "label": "PK smaller, kleiner dan 65 µm.",
-          "outcome": {
-            "text": "9.19 *Fritillaria* (Blz... 104)",
+          "id": {
+            "name": "9.19 Fritillaria (Blz... 104)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -764,8 +798,10 @@
       "choices": [
         {
           "label": "De muri bestaan uit meestal schijfvormige segmenten.",
-          "outcome": {
-            "text": "9.20 *Lloydia serotina* (Blz... 104)",
+          "id": {
+            "name": "9.20 Lloydia serotina (Blz... 104)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -800,8 +836,10 @@
       "choices": [
         {
           "label": "PK 50–100 µm groot, breed ovaal, zonder margo.",
-          "outcome": {
-            "text": "9.21 *Iris pseudacorus*-type (Blz... 104)",
+          "id": {
+            "name": "9.21 Iris pseudacorus-type (Blz... 104)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -836,8 +874,10 @@
       "choices": [
         {
           "label": "Margo ca. 10 µm breed, met tot 1 µm grote brochi.",
-          "outcome": {
-            "text": "9.22 *Butomus umbellatus* (Blz... 106)",
+          "id": {
+            "name": "9.22 Butomus umbellatus (Blz... 106)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -852,8 +892,10 @@
         },
         {
           "label": "Margo nauwelijks aangeduid, brochi langs de colpus-randen iets kleiner dan in het proximale deel.",
-          "outcome": {
-            "text": "9.23 *Veratrum* (Blz... 106)",
+          "id": {
+            "name": "9.23 Veratrum (Blz... 106)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -874,8 +916,10 @@
       "choices": [
         {
           "label": "muri zo breed als de diameter van de lumina (kan op een tectum perforatum lijken).",
-          "outcome": {
-            "text": "9.24 *Gagea*-type (Blz... 106)",
+          "id": {
+            "name": "9.24 Gagea-type (Blz... 106)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -890,8 +934,10 @@
         },
         {
           "label": "muri smaller dan de diameter van de lumina.",
-          "outcome": {
-            "text": "9.25 *Narcissus poeticus*-type (Blz... 106)",
+          "id": {
+            "name": "9.25 Narcissus poeticus-type (Blz... 106)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -912,8 +958,10 @@
       "choices": [
         {
           "label": "PK psilaat, om 17–23 µm groot (tabel 9: 15–18).",
-          "outcome": {
-            "text": "9.26 *Acorus calamus* (Blz... 107)",
+          "id": {
+            "name": "9.26 Acorus calamus (Blz... 107)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -948,8 +996,10 @@
       "choices": [
         {
           "label": "PK met tectum perforatum.",
-          "outcome": {
-            "text": "9.27 *Gladiolus*-type (Blz... 107)",
+          "id": {
+            "name": "9.27 Gladiolus-type (Blz... 107)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -984,8 +1034,10 @@
       "choices": [
         {
           "label": "PK gebogen (tabel 10: 6–9), met verdikte einden.",
-          "outcome": {
-            "text": "9.28 *Sisyrinchium bermudiana* (Blz... 107)",
+          "id": {
+            "name": "9.28 Sisyrinchium bermudiana (Blz... 107)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1020,8 +1072,10 @@
       "choices": [
         {
           "label": "Einden van de PK stomp afgerond, intercolpium-randen meestal sterk ingekrompen (fig. 18a–c). De PK klappen vaak tweedelig open. PK psilaat of zwak microreticulaat, tot 38 µm groot, Exine ca. 1 µm dik.",
-          "outcome": {
-            "text": "9.29 *Leucojum*-type (Blz... 108)",
+          "id": {
+            "name": "9.29 Leucojum-type (Blz... 108)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1056,8 +1110,10 @@
       "choices": [
         {
           "label": "Colpus langer dan de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (fig. 18d, tabel 10: 10).",
-          "outcome": {
-            "text": "9.30 *Allium vineale*-type (Blz... 108)",
+          "id": {
+            "name": "9.30 Allium vineale-type (Blz... 108)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1126,8 +1182,10 @@
       "choices": [
         {
           "label": "PK 70–85 µm groot.",
-          "outcome": {
-            "text": "9.31 *Iris humilis* (Blz... 108)",
+          "id": {
+            "name": "9.31 Iris humilis (Blz... 108)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1162,8 +1220,10 @@
       "choices": [
         {
           "label": "PK microreticulaat-rugulaat.",
-          "outcome": {
-            "text": "9.32 *Majanthemum*-type (Blz... 108)",
+          "id": {
+            "name": "9.32 Majanthemum-type (Blz... 108)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1198,8 +1258,10 @@
       "choices": [
         {
           "label": "muri niet breder dan de diameter van de lumina (kan op een tectum perforatum lijken).",
-          "outcome": {
-            "text": "9.33 *Asparagus officinalis*-type (Blz... 109)",
+          "id": {
+            "name": "9.33 Asparagus officinalis-type (Blz... 109)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1234,8 +1296,10 @@
       "choices": [
         {
           "label": "brochi op de proximale zijde van de PK groter dan in een brede strook op de colpus-randen (margo). Wanneer op de proximale zijde alleen met verspreide lumina of perforaties, vergelijk *Polygonatum odoratum*-type (Blz... 110).",
-          "outcome": {
-            "text": "9.34 *Narthecium ossifragum* (Blz... 109)",
+          "id": {
+            "name": "9.34 Narthecium ossifragum (Blz... 109)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1250,8 +1314,10 @@
         },
         {
           "label": "brochi langs de colpi niet kleiner dan op de proximale zijde.",
-          "outcome": {
-            "text": "9.35 *Convallaria*-type (Blz... 109)",
+          "id": {
+            "name": "9.35 Convallaria-type (Blz... 109)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1272,8 +1338,10 @@
       "choices": [
         {
           "label": "Colpus vaak vanuit een distale positie iets zijdelings verschoven, colpus-einden vaak verbreed, overigens smal (fig. 18e–g).",
-          "outcome": {
-            "text": "9.36 *Allium ursinum*-type (Blz... 110)",
+          "id": {
+            "name": "9.36 Allium ursinum-type (Blz... 110)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1308,8 +1376,10 @@
       "choices": [
         {
           "label": "PK psilaat, 27–53 µm groot, columellae niet of slechts plaatselijk herkenbaar. Exine 1,2–1,8 µm dik, plaatselijk tot 2,0 µm (tabel 5: 5–11).",
-          "outcome": {
-            "text": "9.37 *Ginkgo biloba* (Blz... 110)",
+          "id": {
+            "name": "9.37 Ginkgo biloba (Blz... 110)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1324,8 +1394,10 @@
         },
         {
           "label": "PK psilaat of scabraat, tectum deels met enkele perforaties, Exine gelijkmatig met een columella-laag uitgerust.",
-          "outcome": {
-            "text": "9.38 *Polygonatum odoratum*-type (Blz... 110)",
+          "id": {
+            "name": "9.38 Polygonatum odoratum-type (Blz... 110)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

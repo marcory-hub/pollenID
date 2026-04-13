@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "Microechini tot 1 µm lang. Als PK kleiner is dan 35 µm, vgl. ook *V. elongata*.",
-          "outcome": {
-            "text": "17.6.1 *Valeriana saxatilis*-type",
+          "id": {
+            "name": "17.6.1 Valeriana saxatilis-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -51,8 +53,10 @@
       "choices": [
         {
           "label": "Echini maximaal 2 µm lang, PK ongeveer 30-40 µm groot, pollenvormindex ongeveer 1,0.",
-          "outcome": {
-            "text": "17.6.2 *Valeriana elongata*",
+          "id": {
+            "name": "17.6.2 Valeriana elongata",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -67,8 +71,10 @@
         },
         {
           "label": "Echini maximaal 2,0-2,8 µm lang, PK bovendien met kleinere echini, PK groter dan 40 µm, pollenvormindex groter dan 1,10.",
-          "outcome": {
-            "text": "17.6.3 *Valeriana celtica*",
+          "id": {
+            "name": "17.6.3 Valeriana celtica",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

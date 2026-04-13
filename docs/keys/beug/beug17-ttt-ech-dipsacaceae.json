@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "De endexine keilt tegen de randen van de aperturen uit en ontbreekt in de nabijheid van de aperturen (Afb. 23). In aanzicht is de rand van de endexine, die zich cirkelvormig tot elliptisch om de aperturen heen trekt, over het algemeen goed te herkennen. Het uitkeilen van de endexine is bijzonder goed te zien wanneer een apertuur in optische doorsnede ligt. Tricolpate en triporate PK komen bij beide geslachten voor (tabel 44: 3-6).",
-          "outcome": {
-            "text": "17.4.1 *Dipsacus*, *Cephalaria* (zie ook Triporatae, Blz... 426)",
+          "id": {
+            "name": "17.4.1 Dipsacus, Cephalaria (zie ook Triporatae, Blz... 426)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -85,8 +87,10 @@
       "choices": [
         {
           "label": "columellae duidelijk boompje-vormig vertakt (tabel 44: 1-2).",
-          "outcome": {
-            "text": "17.4.2 *Succisa*-type",
+          "id": {
+            "name": "17.4.2 Succisa-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -101,8 +105,10 @@
         },
         {
           "label": "columellae onvertakt of zelden en dan niet boompje-vormig vertakt, zeer dicht staand (tabel 45: 1-3).",
-          "outcome": {
-            "text": "17.4.3 *Scabiosa columbaria*-type",
+          "id": {
+            "name": "17.4.3 Scabiosa columbaria-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -123,8 +129,10 @@
       "choices": [
         {
           "label": "tectum ongeveer even dik als de columellae-laag (1-2 µm).",
-          "outcome": {
-            "text": "*Knautia* (zie Triporatae, Blz... 428)",
+          "id": {
+            "name": "Knautia (zie Triporatae, Blz... 428)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -159,8 +167,10 @@
       "choices": [
         {
           "label": "PK echinaat en microechinaat.",
-          "outcome": {
-            "text": "*Scabiosa graminifolia* (zie Triporatae, Blz... 430)",
+          "id": {
+            "name": "Scabiosa graminifolia (zie Triporatae, Blz... 430)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -175,8 +185,10 @@
         },
         {
           "label": "PK gemmaat en microechinaat.",
-          "outcome": {
-            "text": "*Scabiosa argentea* (zie Triporatae, Blz... 430)",
+          "id": {
+            "name": "Scabiosa argentea (zie Triporatae, Blz... 430)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

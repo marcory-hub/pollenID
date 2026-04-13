@@ -12,8 +12,10 @@
       "choices": [
         {
           "label": "columella's im polair gebied in groepen staand. exine polair 4,4-5,5 µm dik, equatoriaal 1,8-2,9 µm (Tafel 22: 5-6)",
-          "outcome": {
-            "text": "14.9.1 *Bistorta officinalis*\n*Bistorta officinalis* (L.) Delabre (2)\n45,5-63,0 µm, MiW 55,1 µm; 50 PK, 0a",
+          "id": {
+            "name": "14.9.1 Bistorta officinalis Bistorta officinalis (L.) Delabre (2) 45,5-63",
+            "size": "0 µm",
+            "source": "MiW 55,1 µm; 50 PK, 0a",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -28,8 +30,10 @@
         },
         {
           "label": "columella's im polair gebied ± gelijkmatig verdeeld, exine polair 3,8-4,3 µm dik, equatoriaal 2,5-3,0 µm (Tafel 22: 7-8)",
-          "outcome": {
-            "text": "14.9.2 *Bistorta vivipara*\n*Bistorta vivipara* (L.) Delabre (3)\n48,1-75,4 µm, MiW 58,7 µm; 50 PK, 1a",
+          "id": {
+            "name": "14.9.2 Bistorta vivipara Bistorta vivipara (L.) Delabre (3) 48,1-75",
+            "size": "4 µm",
+            "source": "MiW 58,7 µm; 50 PK, 1a",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

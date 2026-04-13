@@ -12,8 +12,10 @@
       "choices": [
         {
           "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
-          "outcome": {
-            "text": "15.1.1 *Cornus sanguinea*",
+          "id": {
+            "name": "15.1.1 Cornus sanguinea",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -28,8 +30,10 @@
         },
         {
           "label": "PK < 40 µm",
-          "outcome": {
-            "text": "15.1.2 *Cornus mas-type*",
+          "id": {
+            "name": "15.1.2 Cornus mas-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

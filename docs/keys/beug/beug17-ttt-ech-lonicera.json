@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 45: 4–8).",
-          "outcome": {
-            "text": "17.7.1 *Lonicera periclymenum*-type (Blz... 244)",
+          "id": {
+            "name": "17.7.1 Lonicera periclymenum-type (Blz... 244)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 46: 1–4).",
-          "outcome": {
-            "text": "17.7.2 *Lonicera xylosteum*-type (Blz... 244)",
+          "id": {
+            "name": "17.7.2 Lonicera xylosteum-type (Blz... 244)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

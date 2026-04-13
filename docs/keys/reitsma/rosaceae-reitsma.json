@@ -97,8 +97,10 @@
         },
         {
           "label": "Met costae colpi",
-          "outcome": {
-            "text": "Rosa gallica type (*Rosa gallica* - Franse roos)",
+          "id": {
+            "name": "Rosa gallica type (Rosa gallica - Franse roos)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -167,8 +169,10 @@
         },
         {
           "label": "Zonder costae colpi",
-          "outcome": {
-            "text": "Crataegus type (*Crataegus* - meidoorn)",
+          "id": {
+            "name": "Crataegus type (Crataegus - meidoorn)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
@@ -211,8 +215,10 @@
         },
         {
           "label": "Pollenkorrel met tectum perforatum",
-          "outcome": {
-            "text": "Mespilus type (*Mespilus germanica* - mispel)",
+          "id": {
+            "name": "Mespilus type (Mespilus germanica - mispel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -301,8 +307,10 @@
       "choices": [
         {
           "label": "C.I. > 4, met costae colpi",
-          "outcome": {
-            "text": "Rosa canina type (*Rosa canina* - hondsroos)",
+          "id": {
+            "name": "Rosa canina type (Rosa canina - hondsroos)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
@@ -393,8 +401,10 @@
         },
         {
           "label": "Pollenkorrel zonder costae colpi",
-          "outcome": {
-            "text": "Crataegus type (*Crataegus* - meidoorn)",
+          "id": {
+            "name": "Crataegus type (Crataegus - meidoorn)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
@@ -423,8 +433,10 @@
       "choices": [
         {
           "label": "Structurele elementen klein (scabrae); endocolpus",
-          "outcome": {
-            "text": "Filipendula type (*Filipendula ulmaria* - moerasspirea; *Filipendula vulgaris* - knolspirea)",
+          "id": {
+            "name": "Filipendula type (Filipendula ulmaria - moerasspirea; Filipendula vulgaris - knolspirea)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
@@ -463,8 +475,10 @@
         },
         {
           "label": "Structurele elementen groot (echinae, gemmae of verrucae); endoporus",
-          "outcome": {
-            "text": "Rubus chamaemorus type (*Rubus chamaemorus* - kruipbraam)",
+          "id": {
+            "name": "Rubus chamaemorus type (Rubus chamaemorus - kruipbraam)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -499,8 +513,10 @@
         },
         {
           "label": "Tectum aan de pool tweemaal zo breed als in het intercolpium",
-          "outcome": {
-            "text": "Potentilla sterilis subtype (*Potentilla sterilis* - aardbeiganzerik)",
+          "id": {
+            "name": "Potentilla sterilis subtype (Potentilla sterilis - aardbeiganzerik)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -555,8 +571,10 @@
       "choices": [
         {
           "label": "Operculum steekt uit het fastigium",
-          "outcome": {
-            "text": "Comarum palustre subtype (*Comarum palustre* - wateraardbei)",
+          "id": {
+            "name": "Comarum palustre subtype (Comarum palustre - wateraardbei)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -571,8 +589,10 @@
         },
         {
           "label": "Operculum steekt niet uit het fastigium",
-          "outcome": {
-            "text": "Potentilla anserina subtype (*Potentilla anserina* - zilverschoon)",
+          "id": {
+            "name": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_anserina_Ed.png",
@@ -635,8 +655,10 @@
       "choices": [
         {
           "label": "Polair: interhexagonaal",
-          "outcome": {
-            "text": "*Fragaria vesca* (bosaardbei)",
+          "id": {
+            "name": "Fragaria vesca (bosaardbei)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -651,8 +673,10 @@
         },
         {
           "label": "Polair: circulair",
-          "outcome": {
-            "text": "*Potentilla reptans* (vijfvingerkruid)",
+          "id": {
+            "name": "Potentilla reptans (vijfvingerkruid)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -673,8 +697,10 @@
       "choices": [
         {
           "label": "Polair: subangulair",
-          "outcome": {
-            "text": "*Fragaria moschata* (grote bosaardbei)",
+          "id": {
+            "name": "Fragaria moschata (grote bosaardbei)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -689,8 +715,10 @@
         },
         {
           "label": "Polair: circulair",
-          "outcome": {
-            "text": "*Potentilla tabernaemontani* (voorjaarsganzerik)",
+          "id": {
+            "name": "Potentilla tabernaemontani (voorjaarsganzerik)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -711,8 +739,10 @@
       "choices": [
         {
           "label": "Met costae endocolpi",
-          "outcome": {
-            "text": "Rosa rubiginosa subtype (*Rosa rubiginosa* - egelantier)",
+          "id": {
+            "name": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
@@ -735,8 +765,10 @@
         },
         {
           "label": "Zonder costae endocolpi",
-          "outcome": {
-            "text": "Rubus idaeus subtype (*Rubus idaeus* - framboos)",
+          "id": {
+            "name": "Rubus idaeus subtype (Rubus idaeus - framboos)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -771,8 +803,10 @@
         },
         {
           "label": "Costae endocolpi afwezig",
-          "outcome": {
-            "text": "Dryas subtype (*Dryas octopetala* - zilverkruid)",
+          "id": {
+            "name": "Dryas subtype (Dryas octopetala - zilverkruid)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Dryas_octopetala_Ed.png",
@@ -835,8 +869,10 @@
       "choices": [
         {
           "label": "Langste as 22-28 µm; exinedikte 3-3.5 µm",
-          "outcome": {
-            "text": "*Geum urbanum* (geel nagelkruid)",
+          "id": {
+            "name": "Geum urbanum (geel nagelkruid)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_urbanum_Ed.png",
@@ -859,8 +895,10 @@
         },
         {
           "label": "Langste as 28-33 µm; exinedikte 2.2-2.8 µm",
-          "outcome": {
-            "text": "*Geum rivale* (knikkend nagelkruid)",
+          "id": {
+            "name": "Geum rivale (knikkend nagelkruid)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_rivale_Ed.png",
@@ -889,8 +927,10 @@
       "choices": [
         {
           "label": "Met costae colpi; colpusmembraan nudaat",
-          "outcome": {
-            "text": "Alchemilla subtype (*Alchemilla glabra* - kale vrouwenmantel)",
+          "id": {
+            "name": "Alchemilla subtype (Alchemilla glabra - kale vrouwenmantel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -905,8 +945,10 @@
         },
         {
           "label": "Zonder costae colpi; colpusmembraan granulaat",
-          "outcome": {
-            "text": "Aphanes subtype (*Aphanes arvensis* - grote leeuwenklauw)",
+          "id": {
+            "name": "Aphanes subtype (Aphanes arvensis - grote leeuwenklauw)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -927,8 +969,10 @@
       "choices": [
         {
           "label": "Maximale breedte colpus < maximale breedte intercolpium (equatoriaal); pollenkorrel oblaat-sferoïdaal",
-          "outcome": {
-            "text": "Sanguisorba minor subtype (*Sanguisorba minor* - kleine pimpernel)",
+          "id": {
+            "name": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
@@ -951,8 +995,10 @@
         },
         {
           "label": "Maximale breedte colpus > maximale breedte intercolpium (equatoriaal); pollenkorrel prolaat-sferoïdaal",
-          "outcome": {
-            "text": "Sanguisorba officinalis subtype (*Sanguisorba officinalis* - grote pimpernel)",
+          "id": {
+            "name": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
@@ -981,8 +1027,10 @@
       "choices": [
         {
           "label": "Langste as 35-50 µm; exinedikte 2.8 µm",
-          "outcome": {
-            "text": "*Agrimonia eupatoria* (gewone agrimonie)",
+          "id": {
+            "name": "Agrimonia eupatoria (gewone agrimonie)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
@@ -1005,8 +1053,10 @@
         },
         {
           "label": "Langste as 50-60 µm; exinedikte 3.5 µm",
-          "outcome": {
-            "text": "*Agrimonia odorata* (welriekende agrimonie)",
+          "id": {
+            "name": "Agrimonia odorata (welriekende agrimonie)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_odorata_Ed.png",

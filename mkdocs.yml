@@ -45,6 +45,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - Keys: Identificatiesleutels/_index.md
+  - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md
       - Zonnebloem (Helianthus annuus): monoflorale-honing-pollen/zonnebloemhoning.md

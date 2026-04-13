@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK met reticulaten (per- of suprareticulaten) of microreticulaten sculpturen.",
-          "outcome": {
-            "text": "PK met reticulaten (per- of suprareticulaten) of microreticulaten sculpturen (zie Beug, p. 286)",
+          "id": {
+            "name": "PK met reticulaten (per- of suprareticulaten) of microreticulaten sculpturen (zie Beug, p. 286)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

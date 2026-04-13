@@ -12,8 +12,10 @@
       "choices": [
         {
           "label": "PK gevormd als driezijdige piramide, (15)18-27(32) µm groot, zijden en hoeken van de piramide psilaat, vlakken reticulaat met tot 5(6) µm grote brochi (Tafel 5: 12-17)",
-          "outcome": {
-            "text": "7.1 *Thesium* (Blz... 62)",
+          "id": {
+            "name": "7.1 Thesium (Blz... 62)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -46,8 +48,10 @@
       "choices": [
         {
           "label": "PK oblaat tot sferoïdisch, heteropolair: distale zijde clavaat, gemmaat en/of baculaat, zeldener geheel verrucaat en eventueel met enkele clavae, proximale zijde verrucaat of aan de rand verrucaat en in het midden psilaat, van het proximale deel gescheiden door een soort ringvormige groeve (Tafel 2: 5-7)",
-          "outcome": {
-            "text": "*Nymphaea* (Blz... 73)",
+          "id": {
+            "name": "Nymphaea (Blz... 73)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -80,8 +84,10 @@
       "choices": [
         {
           "label": "PK prolaat. In omtrek elliptisch tot spoelvormig, met lengteribben (polyplicate PK). Tussen elke twee lengteribben loopt een onvertakte, rechte (Afb. 9e) of een vertakte, zigzagvormige (Afb. 9d) lengtegroef (>pseudocolpus<)",
-          "outcome": {
-            "text": "7.2 *Ephedra* (Blz... 64)",
+          "id": {
+            "name": "7.2 Ephedra (Blz... 64)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -114,8 +120,10 @@
       "choices": [
         {
           "label": "PK dikwandig met papil (Tafel 4: 8-9)",
-          "outcome": {
-            "text": "7.3 *Cryptomeria-type* (Blz... 65)",
+          "id": {
+            "name": "7.3 Cryptomeria-type (Blz... 65)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -148,8 +156,10 @@
       "choices": [
         {
           "label": "PK microgemmaat (verkorte bacula en clavae bij *Asarum* kunnen lijken op gemmae). De gemmae vallen gemakkelijk af, ze zijn daarom in sterk wisselende aantallen aanwezig en meestal onregelmatig verdeeld. Bij *Cephalotaxus* en *Cunninghamia* zijn ze alleen aanwezig in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) microgemmae of met microclavae. PK sferoïdisch, dunwandig. Ze barsten bij bevochtiging meestal in twee nog met elkaar verbonden, spoelvormige helften uiteen (Tafel 4: 1-7; vergelijk ook *Taxus*, Tafel 4: 10-13). In zeldzame gevallen kan men een porie waarnemen",
-          "outcome": {
-            "text": "7.4 *Juniperus-type* (Blz... 66)",
+          "id": {
+            "name": "7.4 Juniperus-type (Blz... 66)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -246,8 +256,10 @@
       "choices": [
         {
           "label": "PK ca. 60-100 µm groot, Exine met een plooivormige, vaak tweedelig opensplijtende incisie (Afb. 9a-c)",
-          "outcome": {
-            "text": "7.5 *Larix*, *Pseudotsuga* (Blz... 69)",
+          "id": {
+            "name": "7.5 Larix, Pseudotsuga (Blz... 69)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -280,8 +292,10 @@
       "choices": [
         {
           "label": "PK zonder structuurelementen (Afb. 9f)",
-          "outcome": {
-            "text": "7.6 *Arum* (Blz... 68)",
+          "id": {
+            "name": "7.6 Arum (Blz... 68)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -296,8 +310,10 @@
         },
         {
           "label": "PK met duidelijke columella-laag, deels in optische doorsnede met golvend oppervlak (Afb. 9g).",
-          "outcome": {
-            "text": "7.7 *Aristolochia* (Blz... 68)",
+          "id": {
+            "name": "7.7 Aristolochia (Blz... 68)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -316,8 +332,10 @@
       "choices": [
         {
           "label": "Sculptuur scabraat-microechinaat. PK sferoïdisch, vaak verbogen en barstig-veldig, Exine zeer dunwandig (ca. 0,5 µm). De sculptuurelementen staan vaak op de muri van een vlak microreticulum (fasecontrastbeeld).",
-          "outcome": {
-            "text": "7.8 *Populus* (Blz... 69)",
+          "id": {
+            "name": "7.8 Populus (Blz... 69)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -332,8 +350,10 @@
         },
         {
           "label": "Sculptuurelementen niet toegespitst, microclavaat (microgemmaat?). PK dikwandiger dan bij Populus (ca. 1 µm), steeds hoekig-eivormig, meestal met lengtespleet (Tafel 4: 10-13).",
-          "outcome": {
-            "text": "7.9 *Taxus* (Blz... 69)",
+          "id": {
+            "name": "7.9 Taxus (Blz... 69)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -352,8 +372,10 @@
       "choices": [
         {
           "label": "PK baculaat en clavaat (Afb. 9h)",
-          "outcome": {
-            "text": "7.10 *Asarum europaeum* (Blz... 69)",
+          "id": {
+            "name": "7.10 Asarum europaeum (Blz... 69)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -418,8 +440,10 @@
       "choices": [
         {
           "label": "Columella-laag aanwezig, PK 40-150 µm groot",
-          "outcome": {
-            "text": "7.11 *Crocus vernus-type* (Blz... 69)",
+          "id": {
+            "name": "7.11 Crocus vernus-type (Blz... 69)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -452,8 +476,10 @@
       "choices": [
         {
           "label": "PK 50-70 µm groot",
-          "outcome": {
-            "text": "7.12 *Elodea* (Blz... 70)",
+          "id": {
+            "name": "7.12 Elodea (Blz... 70)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -486,8 +512,10 @@
       "choices": [
         {
           "label": "De echini zitten op minuscule wandverdikkingen (Afb. 9l), die – zwak aangeduid – onderling verbonden zijn tot een onvolledig reticulum",
-          "outcome": {
-            "text": "7.13 *Hydrocharis* (Blz... 70)",
+          "id": {
+            "name": "7.13 Hydrocharis (Blz... 70)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -520,8 +548,10 @@
       "choices": [
         {
           "label": "Exine ca. 1 µm dik, echini ca. 1 µm lang en zeer dun (Afb. 9m)",
-          "outcome": {
-            "text": "7.14 *Smilax* (Blz... 70)",
+          "id": {
+            "name": "7.14 Smilax (Blz... 70)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -536,8 +566,10 @@
         },
         {
           "label": "Exine onder 0,5 µm dik, hyaliene, dicht bezet met stomp-kegelvormige, korte echini, meestal slechts fragmentarisch bewaard (Afb. 9n)",
-          "outcome": {
-            "text": "7.15 *Laurus*, *Cinnamomum* (Blz... 70)",
+          "id": {
+            "name": "7.15 Laurus, Cinnamomum (Blz... 70)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -588,8 +620,10 @@
       "choices": [
         {
           "label": "PK meestal iets gebogen (Afb. 10). Reticulum heterobrochaat, op drie plaatsen met onduidelijk gevormd reticulum (Tafel 4: 14; Afb. 10)",
-          "outcome": {
-            "text": "7.16 *Ruppia maritima* (Blz... 70)",
+          "id": {
+            "name": "7.16 Ruppia maritima (Blz... 70)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -604,8 +638,10 @@
         },
         {
           "label": "PK niet gebogen, reticulum gelijkmatig gevormd (Tafel 4: 15)",
-          "outcome": {
-            "text": "7.17 *Callitriche obtusangula* (Blz... 71)",
+          "id": {
+            "name": "7.17 Callitriche obtusangula (Blz... 71)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -624,8 +660,10 @@
       "choices": [
         {
           "label": "Reticulum zonder columellae of columellae slechts verspreid herkenbaar (Phako) (Tafel 4: 16)",
-          "outcome": {
-            "text": "7.18 *Triglochin* (Blz... 71)",
+          "id": {
+            "name": "7.18 Triglochin (Blz... 71)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -658,8 +696,10 @@
       "choices": [
         {
           "label": "Reticulum hoofdzakelijk bestaande uit krachtige, eventueel iets verdikte columellae. muri slechts zwak aangeduid of pas bij een dieper optisch niveau zichtbaar. Vaak staan columellae ook zonder verbinding in een netvormige opstelling (Tafel 5: 1-5)",
-          "outcome": {
-            "text": "7.19 *Callitriche stagnalis* (Blz... 71)",
+          "id": {
+            "name": "7.19 Callitriche stagnalis (Blz... 71)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -692,8 +732,10 @@
       "choices": [
         {
           "label": "columellae ongeveer even breed als de muri, daardoor weinig opvallend (Tafel 4: 17)",
-          "outcome": {
-            "text": "7.20 *Potamogeton natans-type* (Blz... 72)",
+          "id": {
+            "name": "7.20 Potamogeton natans-type (Blz... 72)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -708,8 +750,10 @@
         },
         {
           "label": "columellae dikker dan de muri, daardoor duidelijk zichtbaar (Tafel 4: 18)",
-          "outcome": {
-            "text": "7.21 *Potamogeton pectinatus-type* (Blz... 72)",
+          "id": {
+            "name": "7.21 Potamogeton pectinatus-type (Blz... 72)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

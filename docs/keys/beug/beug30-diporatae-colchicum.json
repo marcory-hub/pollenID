@@ -29,8 +29,10 @@
         },
         {
           "label": "PK microreticulaat, Brochi tot 1 µm, met Übergängen zu einem Tectum perforatum.",
-          "outcome": {
-            "text": "30.1.1 *Colchicum alpinum*",
+          "id": {
+            "name": "30.1.1 Colchicum alpinum",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -51,8 +53,10 @@
       "choices": [
         {
           "label": "Höhe der PK 37-47 µm. lengte > 60 µm (Tafel 96: 5-6).",
-          "outcome": {
-            "text": "30.1.2 *Colchicum autumnale*",
+          "id": {
+            "name": "30.1.2 Colchicum autumnale",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -67,8 +71,10 @@
         },
         {
           "label": "Höhe der PK 29-36 µm. lengte < 60 µm.",
-          "outcome": {
-            "text": "30.1.3 *Bulbocodium vernum*",
+          "id": {
+            "name": "30.1.3 Bulbocodium vernum",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

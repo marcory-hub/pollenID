@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "Sculptuur striaat(-reticulaat).",
-          "outcome": {
-            "text": "4.10.1 *Listera cordata*",
+          "id": {
+            "name": "4.10.1 Listera cordata",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -65,8 +67,10 @@
         },
         {
           "label": "EPK inaperturaat.",
-          "outcome": {
-            "text": "*Listera* p.p., *Neottia* p.p., *Spiranthes* p.p.",
+          "id": {
+            "name": "Listera p.p., Neottia p.p., Spiranthes p.p.",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -87,8 +91,10 @@
       "choices": [
         {
           "label": "EPK met 1 porie, tetraden reticulaat gesculpteerd.",
-          "outcome": {
-            "text": "4.10.2 *Epipactis*",
+          "id": {
+            "name": "4.10.2 Epipactis",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -103,8 +109,10 @@
         },
         {
           "label": "EPK met 2 poriën, tetraden reticulaat of reticulaat-striaat gesculpteerd.",
-          "outcome": {
-            "text": "4.10.3 *Neottia*-type",
+          "id": {
+            "name": "4.10.3 Neottia-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

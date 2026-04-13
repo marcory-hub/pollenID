@@ -16,8 +16,10 @@
       "choices": [
         {
           "label": "Grote echinate elementen 1,5–2,5 (tot 4,0) µm lang, onderling 3–5 µm; kleine ca. 0,8 µm (afstand ca. 1 µm), zeer dun. Alle scherp en lang toegespitst; zelden enkele stompe gemengd. Exine 2,0–2,5 µm dik (tabel 2: 1–2).",
-          "outcome": {
-            "text": "4.2.1 *Drosera rotundifolia*-type. *Drosera rotundifolia* L. (4): 51,8–70,5 µm, MiW 62,0 µm; 50 T, 0a. *Drosera longifolia* HUDS. (4): 61,0–81,3 µm, MiW 70,8 µm; 50 T, 0a.",
+          "id": {
+            "name": "4.2.1 Drosera rotundifolia-type. Drosera rotundifolia L. (4): 51,8–70",
+            "size": "5 µm",
+            "source": "MiW 62,0 µm; 50 T, 0a. Drosera longifolia HUDS. (4): 61,0–81,3 µm, MiW 70,8 µm; 50 T, 0a.",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -32,8 +34,10 @@
         },
         {
           "label": "Echini hoogstens 1,5 µm lang, stomp toegespitst, niet zelden baculum-achtig. Klavae staan vaak aan de rand van de EPK. Sculptuurdimorfisme verder niet of slechts zeer zwak ontwikkeld. Exine ca. 1,5 µm dik.",
-          "outcome": {
-            "text": "4.2.2 *Drosera intermedia*. *Drosera intermedia* HAYNE (3): 47,3–69,5 µm, MiW 56,6 µm; 50 T, 0a.",
+          "id": {
+            "name": "4.2.2 Drosera intermedia. Drosera intermedia HAYNE (3): 47,3–69",
+            "size": "5 µm",
+            "source": "MiW 56,6 µm; 50 T, 0a.",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

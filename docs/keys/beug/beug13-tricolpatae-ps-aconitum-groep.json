@@ -26,8 +26,10 @@
         },
         {
           "label": "pollenvormindex bis 1,20 (1,30), PK 17-28 µm groot (Tafel 13: 4-6)",
-          "outcome": {
-            "text": "13.4.1 *Aquilegia-type*",
+          "id": {
+            "name": "13.4.1 Aquilegia-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -46,8 +48,10 @@
       "choices": [
         {
           "label": "columellae äquatorial en subäquatorial sterk verkürzt en reduziert, meestal in Aufsicht niet herkenbaar (Tafel 13: 10)",
-          "outcome": {
-            "text": "13.4.2 *Aconitum-type*",
+          "id": {
+            "name": "13.4.2 Aconitum-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -62,8 +66,10 @@
         },
         {
           "label": "columellae äquatorial en subäquatorial in Aufsicht gut herkenbaar",
-          "outcome": {
-            "text": "13.4.3 *Consolida-type*",
+          "id": {
+            "name": "13.4.3 Consolida-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

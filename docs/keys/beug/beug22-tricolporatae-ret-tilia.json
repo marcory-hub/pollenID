@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK oblaat tot peroblaat, colpi kort, poriën groot, met zakvormige inwendige welvingen van de endexine (Tafel 67: 1-14).",
-          "outcome": {
-            "text": "22.1 *Tilia* (Blz... 321)",
+          "id": {
+            "name": "22.1 Tilia (Blz... 321)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK sferoïdisch, prolaat of perprolaat.",
-          "outcome": {
-            "text": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]",
+          "id": {
+            "name": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

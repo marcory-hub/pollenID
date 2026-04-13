@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK echinaat (Tafel 91: 14-20).",
-          "outcome": {
-            "text": "26.1 *Koenigia islandica* (Blz. 405)",
+          "id": {
+            "name": "26.1 Koenigia islandica (Blz. 405)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -85,8 +87,10 @@
       "choices": [
         {
           "label": "PK kugelig, 50-70 µm groot, met 30 schmalen Colpi (Tafel 91: 11-13).",
-          "outcome": {
-            "text": "26.2 *Persicaria amphibia* (Blz. 405)",
+          "id": {
+            "name": "26.2 Persicaria amphibia (Blz. 405)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -135,8 +139,10 @@
         },
         {
           "label": "PK langgestreckt, spitz gleichschenklig-dreieckig of stumpf dreieckig-sackförmig met 4-6 Colpi in paralleler Anordnung en einem Colpus of Porus auf der korte Seite des gleichschenkligen Dreiecks (Tafel 116: 14-17, Tafel 117, Tafel 118: 1-7).",
-          "outcome": {
-            "text": "*Cyperaceae* (Blz. 404)",
+          "id": {
+            "name": "Cyperaceae (Blz. 404)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -157,8 +163,10 @@
       "choices": [
         {
           "label": "Exine 3,5-4 µm dik, PK met 6 Colpi, in einigen Fällen met onregelmatig verteilten Colpi (Tafel 91: 21-24).",
-          "outcome": {
-            "text": "26.3 *Cuscuta lupuliformis* (Blz. 405)",
+          "id": {
+            "name": "26.3 Cuscuta lupuliformis (Blz. 405)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -173,8 +181,10 @@
         },
         {
           "label": "Exine 1,0-1,2 µm dik, PK met 6-8 breiten, engesenkten en körnig bekleideten Colpi (Tafel 92: 1-4).",
-          "outcome": {
-            "text": "26.4 *Cercidiphyllum* (Blz. 405)",
+          "id": {
+            "name": "26.4 Cercidiphyllum (Blz. 405)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -195,8 +205,10 @@
       "choices": [
         {
           "label": "PK marginat, microechinaat. marges 5 µm breit, Exine en columella's hier dunner (Tafel 92: 5-9).",
-          "outcome": {
-            "text": "26.5 *Montia fontana* (Blz. 405)",
+          "id": {
+            "name": "26.5 Montia fontana (Blz. 405)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -265,8 +277,10 @@
       "choices": [
         {
           "label": "PK scabraat (microechinaat); die Skulpturelemente staan ausschließlich over 0,6-1,0 µm dicken columella's (Tafel 92: 20-23).",
-          "outcome": {
-            "text": "26.7 *Pulsatilla alpina* (Blz. 408)",
+          "id": {
+            "name": "26.7 Pulsatilla alpina (Blz. 408)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -301,8 +315,10 @@
       "choices": [
         {
           "label": "Exine meestal 2,0-3,0 µm dik, columella's meestal 0,5-0,8 µm dik, Anordnung der Colpi tetraedrisch of onregelmatig, Tectum met einzelnen Perforationen.",
-          "outcome": {
-            "text": "26.8 *Cuscuta* p.p. (Blz. 408)",
+          "id": {
+            "name": "26.8 Cuscuta p.p. (Blz. 408)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -317,8 +333,10 @@
         },
         {
           "label": "PK met Tectum perforatum, met 12 Colpi in regelmäßiger Anordnung, Exine 1,5-2,0 µm dik, columella's ca. 0,7 µm dik (Tafel 93: 1-5).",
-          "outcome": {
-            "text": "26.9 *Spergula arvensis* (Blz. 408)",
+          "id": {
+            "name": "26.9 Spergula arvensis (Blz. 408)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

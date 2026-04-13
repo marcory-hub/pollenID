@@ -103,6 +103,10 @@
     return out.replace(/\n/g, "<br />");
   }
 
+  function isMissingValue(v) {
+    return v == null || String(v).trim() === "" || String(v).trim() === "-";
+  }
+
   function fetchJsonCached(url) {
     var abs = resolveDataJsonUrl(url);
     if (!jsonCache.has(abs)) {
@@ -179,6 +183,7 @@
     const start = data.start || (data.meta && data.meta.start) || "1";
     const steps = data.steps || {};
     const stack = [];
+    let currentStepId = String(start);
 
     const wrap = document.createElement("div");
     wrap.className = "vdh-pollentabel md-typeset";
@@ -196,7 +201,21 @@
     wrap.appendChild(outcomeEl);
     root.appendChild(wrap);
 
+    function emit(type, detail) {
+      try {
+        root.dispatchEvent(
+          new CustomEvent(type, {
+            detail: detail || {},
+            bubbles: true,
+          })
+        );
+      } catch (e) {
+        // ignore
+      }
+    }
+
     function showStep(id) {
+      currentStepId = String(id);
       outcomeEl.hidden = true;
       outcomeEl.replaceChildren();
       actionsEl.replaceChildren();
@@ -209,6 +228,7 @@
       }
 
       stepEl.innerHTML = "<h4>Stap " + esc(String(id)) + "</h4>";
+      emit("pid:vdh-step", { stepId: String(id) });
 
       const choices = step.choices || [];
       if (choices.length === 0) {
@@ -231,9 +251,10 @@
               return im && isPlaceholderImagePath(im.image);
             })
           : [];
+        const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
         const phFromOutcome =
-          ch.outcome && Array.isArray(ch.outcome.images)
-            ? ch.outcome.images.filter(function (im) {
+          endpoint && Array.isArray(endpoint.images)
+            ? endpoint.images.filter(function (im) {
                 return im && isPlaceholderImagePath(im.image);
               })
             : [];
@@ -252,34 +273,53 @@
             dataAbsUrl || document.baseURI,
             (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
           );
-        } else if (ch.outcome && isPlaceholderImagePath(ch.outcome.image)) {
+        } else if (endpoint && isPlaceholderImagePath(endpoint.image)) {
           renderImagesRow(
             btn,
-            [{ image: ch.outcome.image, imageWidthPx: ch.outcome.imageWidthPx }],
+            [{ image: endpoint.image, imageWidthPx: endpoint.imageWidthPx }],
             dataAbsUrl || document.baseURI,
             (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
           );
         }
         btn.addEventListener("click", function () {
-          if (ch.outcome && ch.outcome.text) {
+          emit("pid:vdh-choice", {
+            stepId: String(id),
+            choiceIdx: idx,
+            choiceLabel: ch && ch.label ? String(ch.label) : "",
+            hasOutcome: !!(
+              (ch && ch.outcome && ch.outcome.text) ||
+              (ch && ch.id && (ch.id.name || ch.id.text))
+            ),
+            next: ch && ch.next ? String(ch.next) : null,
+          });
+          var endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
+          if (endpoint && (endpoint.text || endpoint.name)) {
             stack.push(id);
             outcomeEl.hidden = false;
             outcomeEl.replaceChildren();
             const h = document.createElement("h4");
             h.textContent = "Eindpunt";
             const p = document.createElement("p");
-            p.innerHTML = formatOutcomeRichText(ch.outcome.text);
+            if (endpoint.text) {
+              p.innerHTML = formatOutcomeRichText(String(endpoint.text));
+            } else {
+              var lines = [];
+              if (!isMissingValue(endpoint.name)) lines.push(formatEmphasisAst(String(endpoint.name)));
+              if (!isMissingValue(endpoint.size)) lines.push(esc(String(endpoint.size)));
+              if (!isMissingValue(endpoint.source)) lines.push(esc(String(endpoint.source)));
+              p.innerHTML = lines.join("<br />");
+            }
             outcomeEl.appendChild(h);
             outcomeEl.appendChild(p);
 
             const imgs =
-              ch.outcome && Array.isArray(ch.outcome.images) ? ch.outcome.images : [];
+              endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
             if (imgs.length > 0) {
               renderImagesRow(
                 outcomeEl,
                 imgs,
                 dataAbsUrl || document.baseURI,
-                (ch.outcome.text || "Eindpunt")
+                ((endpoint.text || endpoint.name || "Eindpunt") + "")
                   .replace(/\*([^*]*)\*/g, "$1")
                   .replace(/\n/g, " ")
                   .trim() + " (afbeelding)"
@@ -287,6 +327,12 @@
             }
             actionsEl.replaceChildren();
             addOutcomeNavRow();
+            emit("pid:vdh-outcome", {
+              stepId: String(id),
+              choiceIdx: idx,
+              choiceLabel: ch && ch.label ? String(ch.label) : "",
+              outcomeText: String(endpoint && endpoint.text ? endpoint.text : endpoint && endpoint.name ? endpoint.name : ""),
+            });
             return;
           }
           if (ch.next) {
@@ -379,6 +425,31 @@
     }
 
     showStep(String(start));
+
+    return {
+      start: String(start),
+      getCurrentStepId: function () {
+        return currentStepId;
+      },
+      reset: function () {
+        stack.length = 0;
+        showStep(String(start));
+      },
+      showStep: function (sid) {
+        showStep(String(sid));
+      },
+      chooseByIndex: function (choiceIdx) {
+        const idx = Number(choiceIdx);
+        if (!Number.isFinite(idx)) return false;
+        const buttons = actionsEl.querySelectorAll(".vdh-pollentabel-btn--choice");
+        const btn = buttons && buttons[idx];
+        if (btn && typeof btn.click === "function") {
+          btn.click();
+          return true;
+        }
+        return false;
+      },
+    };
   }
 
   function flattenSteps(data) {
@@ -409,6 +480,14 @@
             images = ch.outcome.images;
           } else if (ch.outcome.image) {
             images = [{ image: ch.outcome.image, imageWidthPx: ch.outcome.imageWidthPx }];
+          }
+        } else if (ch.id && (ch.id.text || ch.id.name)) {
+          result = ch.id.text || ch.id.name || "";
+          kind = ch.id.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
+          if (Array.isArray(ch.id.images)) {
+            images = ch.id.images;
+          } else if (ch.id.image) {
+            images = [{ image: ch.id.image, imageWidthPx: ch.id.imageWidthPx }];
           }
         } else {
           result = "-";
@@ -558,7 +637,7 @@
     fetchJsonCached(jsonUrl)
       .then(function (data) {
         root.replaceChildren();
-        runKey(root, data, dataAbsUrl);
+        root.__vdhPollentabelController = runKey(root, data, dataAbsUrl);
       })
       .catch(function (e) {
         root.innerHTML =
@@ -601,5 +680,10 @@
     document$.subscribe(boot);
   } else {
     document.addEventListener("DOMContentLoaded", boot);
+  }
+
+  if (typeof window !== "undefined") {
+    window.PID_VDH_POLLENTABEL = window.PID_VDH_POLLENTABEL || {};
+    window.PID_VDH_POLLENTABEL.boot = boot;
   }
 })();

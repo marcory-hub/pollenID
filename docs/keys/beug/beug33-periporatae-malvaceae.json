@@ -29,8 +29,10 @@
         },
         {
           "label": "PK 70-100 µm groot (Tafel 109: 1-2).",
-          "outcome": {
-            "text": "33.6.1 *Malva neglecta*-type",
+          "id": {
+            "name": "33.6.1 Malva neglecta-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -51,8 +53,10 @@
       "choices": [
         {
           "label": "afstanden der Poriën 8-15 µm (Tafel 109: 3-4).",
-          "outcome": {
-            "text": "33.6.2 *Malva sylvestris*-type",
+          "id": {
+            "name": "33.6.2 Malva sylvestris-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -67,8 +71,10 @@
         },
         {
           "label": "afstanden der Poriën 18-30 µm.",
-          "outcome": {
-            "text": "33.6.3 *Lavatera*-type",
+          "id": {
+            "name": "33.6.3 Lavatera-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

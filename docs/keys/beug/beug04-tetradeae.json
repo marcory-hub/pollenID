@@ -16,8 +16,10 @@
       "choices": [
         {
           "label": "EPK reticulaat-areolaat (tabel 1: 1–2), ca. 60–80 µm groot.",
-          "outcome": {
-            "text": "4.1 *Catalpa* (Blz... 43)",
+          "id": {
+            "name": "4.1 Catalpa (Blz... 43)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -52,8 +54,10 @@
       "choices": [
         {
           "label": "EPK echinaat (tabel 2: 1–2).",
-          "outcome": {
-            "text": "4.2 *Drosera* (Blz... 43)",
+          "id": {
+            "name": "4.2 Drosera (Blz... 43)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -88,8 +92,10 @@
       "choices": [
         {
           "label": "EPK inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, Blz... 44 en 50).",
-          "outcome": {
-            "text": "4.3 Juncaceae (Blz... 43)",
+          "id": {
+            "name": "4.3 Juncaceae (Blz... 43)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -192,8 +198,10 @@
       "choices": [
         {
           "label": "Tetraden met 16–24 poriën. Telkens 2 poriën van aangrenzende EPK zijn coaperturaat met elkaar verbonden (tabel 1: 6; fig. 2a).",
-          "outcome": {
-            "text": "4.4 *Periploca* (Blz... 43)",
+          "id": {
+            "name": "4.4 Periploca (Blz... 43)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -208,8 +216,10 @@
         },
         {
           "label": "Tetraden met 8 poriën. Per 4 poriën zijn coaperturaat met elkaar verbonden (fig. 3b).",
-          "outcome": {
-            "text": "4.5 *Spiranthes* (Blz... 44)",
+          "id": {
+            "name": "4.5 Spiranthes (Blz... 44)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -230,8 +240,10 @@
       "choices": [
         {
           "label": "EPK echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).",
-          "outcome": {
-            "text": "4.6 *Aldrovanda vesiculosa* (Blz... 44)",
+          "id": {
+            "name": "4.6 Aldrovanda vesiculosa (Blz... 44)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -246,8 +258,10 @@
         },
         {
           "label": "EPK verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).",
-          "outcome": {
-            "text": "4.7 Ericaceae — Empetrum-groep (Blz... 44)",
+          "id": {
+            "name": "4.7 Ericaceae — Empetrum-groep (Blz... 44)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -268,8 +282,10 @@
       "choices": [
         {
           "label": "EPK tricolpaat, meestal met dwarsplooien. EPK slechts weinig onderling vergroeid; vaak zit in het midden van de tetrade een kleine holte (tabel 3: 1–3).",
-          "outcome": {
-            "text": "4.8 *Chimaphila umbellata* (Blz... 49)",
+          "id": {
+            "name": "4.8 Chimaphila umbellata (Blz... 49)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -304,8 +320,10 @@
       "choices": [
         {
           "label": "EPK oblaat tot peroblaat, triporaat, poriën uitgetrokken. De EPK zitten slechts aan de porieranden losjes aan elkaar vast (tabel 98: 11–12).",
-          "outcome": {
-            "text": "*Epilobium* (Blz... 43)",
+          "id": {
+            "name": "Epilobium (Blz... 43)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -340,8 +358,10 @@
       "choices": [
         {
           "label": "Poriën tot 4 µm groot, EPK steeds monoporaat (tabel 2: 10–11; fig. 2c).",
-          "outcome": {
-            "text": "4.9 *Typha latifolia*-type (Blz... 49)",
+          "id": {
+            "name": "4.9 Typha latifolia-type (Blz... 49)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "PK 25–40 µm, met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
-          "outcome": {
-            "text": "16.7 *Centaurea cyanus*-type (Blz... 216)",
+          "id": {
+            "name": "16.7 Centaurea cyanus-type (Blz... 216)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "PK 25–40 µm, met echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
-          "outcome": {
-            "text": "16.8 *Centaurea jacea*-type (Blz... 216)",
+          "id": {
+            "name": "16.8 Centaurea jacea-type (Blz... 216)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

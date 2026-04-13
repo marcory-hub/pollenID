@@ -49,8 +49,10 @@
       "choices": [
         {
           "label": "PK met 3(4-5(6) equatoriaal verlaufenden Colpi (Tafel 84: 1-6).",
-          "outcome": {
-            "text": "24.1 *Euryale ferox* (Blz. 381)",
+          "id": {
+            "name": "24.1 Euryale ferox (Blz. 381)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -65,8 +67,10 @@
         },
         {
           "label": "PK met 3 korte en langen, meridionale gerangschikte Colpi (Tafel 84: 7-11).",
-          "outcome": {
-            "text": "24.2 *Arceuthobium oxycedri* (Blz. 381)",
+          "id": {
+            "name": "24.2 Arceuthobium oxycedri (Blz. 381)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -87,8 +91,10 @@
       "choices": [
         {
           "label": "PK met 6 Colpi, waarvan elke tweede een contrastrijk korrelig opgeloste intercolpiumranden grenst (Tafel 84: 12-18).",
-          "outcome": {
-            "text": "24.3 *Phacelia tanacetifolia* (Blz. 382)",
+          "id": {
+            "name": "24.3 Phacelia tanacetifolia (Blz. 382)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -123,8 +129,10 @@
       "choices": [
         {
           "label": "PK (endo-)reticulaat of (endo-)microreticulaat; retipilaat en met 2-4 µm breiten, onduidelijk begrenzten en ausgebildeten intercolpiumrandenn (Tafel 5: 1-5).",
-          "outcome": {
-            "text": "*Callitriche palustris*-type (Blz. 424)",
+          "id": {
+            "name": "Callitriche palustris-type (Blz. 424)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -207,8 +215,10 @@
         },
         {
           "label": "PK reticulaat of endo-microreticulaat.",
-          "outcome": {
-            "text": "Geen match. Zie Stephanoporatae (Blz. 441) [te verifiëren]",
+          "id": {
+            "name": "Geen match. Zie Stephanoporatae (Blz. 441) [te verifiëren]",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -229,8 +239,10 @@
       "choices": [
         {
           "label": "PK met 4 contrastarme Colpi en met middelgrote tot grote Poolvelden, 33-60 µm groot, scabraat en zwak verrucaat of zwak rugulaat; vgl. Scopolia, Blz. 204 of Datura, Blz. 270.",
-          "outcome": {
-            "text": "24.4 *Rubiaceae* (Blz. 382)",
+          "id": {
+            "name": "24.4 Rubiaceae (Blz. 382)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -299,8 +311,10 @@
       "choices": [
         {
           "label": "PK met 6 Colpi, in equatoriaal aanzicht rond tot elliptisch, columella's duidelijk (Tafel 84: 26-28, Tafel 85: 1-3).",
-          "outcome": {
-            "text": "24.5 *Lavandula angustifolia* (Blz. 384)",
+          "id": {
+            "name": "24.5 Lavandula angustifolia (Blz. 384)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -315,8 +329,10 @@
         },
         {
           "label": "PK met 4(5) Colpi, in equatoriaal aanzicht vierhoekig, columella's niet herkenbaar (Tafel 85: 4-8).",
-          "outcome": {
-            "text": "24.6 *Sideritis hyssopifolia* (Blz. 384)",
+          "id": {
+            "name": "24.6 Sideritis hyssopifolia (Blz. 384)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -337,8 +353,10 @@
       "choices": [
         {
           "label": "Colpi nur 2,5-3 maal zo lang als breed, PK oblaat, heteropolar: distale en proximale zijde verschillend gewelfd (Tafel 104: 19-22).",
-          "outcome": {
-            "text": "*Pistacia* (Blz. 453)",
+          "id": {
+            "name": "Pistacia (Blz. 453)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -387,8 +405,10 @@
         },
         {
           "label": "Brochi zonder columella's, hoogstens gelegen bij een dieper optisch vlak (F3) als afzonderlijke donkere punten in de Muri of per endo-microreticulaat.",
-          "outcome": {
-            "text": "Geen match.",
+          "id": {
+            "name": "Geen match.",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -443,8 +463,10 @@
       "choices": [
         {
           "label": "Brochi 0,3-1,5 µm, Indien groter, dan columella's nur onder de Muri (wanneer Muri en columella's in het fasecontrastbeeld contrastzwak zijn, vgl. Rubiaceae, Blz. 382), Tectum der Lumina zonder microbrochi of met 2-3 microbrochi (Tafel 85: 9-17).",
-          "outcome": {
-            "text": "24.7 *Mentha*-type (Blz. 386)",
+          "id": {
+            "name": "24.7 Mentha-type (Blz. 386)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -459,8 +481,10 @@
         },
         {
           "label": "Grotere Brochi (Makrobrochi) over 2 en tot 5(7) µm (ggf. fasecontrast), Tectum der Lumina microreticulaat en meestal met mehr als 4 microbrochi per Lumen, columella's gelijkmatig verdeeld, d.w.z. ook binnen der Makrobrochi (Tafel 85: 18-25).",
-          "outcome": {
-            "text": "24.8 *Prunella*-type (Blz. 386)",
+          "id": {
+            "name": "24.8 Prunella-type (Blz. 386)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -481,8 +505,10 @@
       "choices": [
         {
           "label": "Brochi tot 1,5 µm groot, Lumina met weinige microbrochi (2-4), PK ca. 20-30 µm groot (Tafel 86: 1-4).",
-          "outcome": {
-            "text": "24.9 *Salvia verticillata* (Blz. 387)",
+          "id": {
+            "name": "24.9 Salvia verticillata (Blz. 387)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -531,8 +557,10 @@
         },
         {
           "label": "Brochi 1-5 µm groot, PK in poolaanzicht langgerekt (Tafel 87: 1-6).",
-          "outcome": {
-            "text": "24.11 *Impatiens* (Blz. 388)",
+          "id": {
+            "name": "24.11 Impatiens (Blz. 388)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -553,8 +581,10 @@
       "choices": [
         {
           "label": "Colpi 3-7 µm breit (Tafel 86: 14-17).",
-          "outcome": {
-            "text": "24.12 *Hippuris vulgaris* (Blz. 388)",
+          "id": {
+            "name": "24.12 Hippuris vulgaris (Blz. 388)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -589,8 +619,10 @@
       "choices": [
         {
           "label": "PK tectaat, Brochi vaak onduidelijk, Exine 1,2-1,8 µm dik. Colpi meestal duidelijk ingezonken, Intercolpiën in poolaanzicht meestal sterker gekromd als der Umriß der PK (Tafel 84: 19-25).",
-          "outcome": {
-            "text": "24.4 *Rubiaceae* (Blz. 382)",
+          "id": {
+            "name": "24.4 Rubiaceae (Blz. 382)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

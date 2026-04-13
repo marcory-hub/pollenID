@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "columella's staan nur onder de Macromuri (Tafel 86: 5-13).",
-          "outcome": {
-            "text": "24.10.1 *Salvia pratensis*-type",
+          "id": {
+            "name": "24.10.1 Salvia pratensis-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -31,8 +33,10 @@
         },
         {
           "label": "columella's staan onder de Muri en onder de Lumina der Macrobrochi.",
-          "outcome": {
-            "text": "24.10.2 *Salvia officinalis*-type",
+          "id": {
+            "name": "24.10.2 Salvia officinalis-type",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

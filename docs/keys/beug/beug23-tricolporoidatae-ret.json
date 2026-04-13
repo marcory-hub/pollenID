@@ -151,8 +151,10 @@
       "choices": [
         {
           "label": "PK fossulaat met overgangen zu einer microreticulaten Sculpturierung tussen de rugulaten Sculpturelementen (bei ausschließlich onduidelijk grubbig Sculpturierung vgl. ook de Medicago sativa-type, Blz. 207).",
-          "outcome": {
-            "text": "Geen match. Zie Medicago sativa-type (Blz. 207) [te verifiëren]",
+          "id": {
+            "name": "Geen match. Zie Medicago sativa-type (Blz. 207) [te verifiëren]",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -527,8 +529,10 @@
       "choices": [
         {
           "label": "PK polair meest afgerond, Endexine relatief dun (Tafel 80: 16-25).",
-          "outcome": {
-            "text": "23.7 *Primula clusiana*-type (grote PK) (Blz. 364)",
+          "id": {
+            "name": "23.7 Primula clusiana-type (grote PK) (Blz. 364)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -597,8 +601,10 @@
       "choices": [
         {
           "label": "PK dikwandig (dikte der Exine 2-4 µm). Die suprareticulate of (zelden) supramicroreticulate Sculpturierung verlangt hoge optische resolutie en is meestal nur im Phasenkontrastbild met voldoende duidelijkheid herkenbaar (Tafel 81: 23-30, Tafel 82: 1-7).",
-          "outcome": {
-            "text": "23.11 *Euphorbia* (Blz. 371)",
+          "id": {
+            "name": "23.11 Euphorbia (Blz. 371)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -633,8 +639,10 @@
       "choices": [
         {
           "label": "Brochi met opvallend breedte Muri. columella's im Phasenkontrastbild duidelijk, unter de Muri meerrijig (Tafel 76: 11-17).",
-          "outcome": {
-            "text": "*Hypericum elodes* (Blz. 344)",
+          "id": {
+            "name": "Hypericum elodes (Blz. 344)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -703,8 +711,10 @@
       "choices": [
         {
           "label": "PK prolaat, marginaat (Tafel 61: 26-32, Tafel 62: 1-3).",
-          "outcome": {
-            "text": "*Salix* (Blz. 300)",
+          "id": {
+            "name": "Salix (Blz. 300)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -739,8 +749,10 @@
       "choices": [
         {
           "label": "columella's im Phasenkontrastbild niet herkenbaar (Tafel 63: 9-15).",
-          "outcome": {
-            "text": "*Hottonia palustris* (Blz. 304)",
+          "id": {
+            "name": "Hottonia palustris (Blz. 304)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -823,8 +835,10 @@
         },
         {
           "label": "Brochi maximal 4-5 µm groot, columella's altijd enkelrijig (Tafel 73: 18-25).",
-          "outcome": {
-            "text": "*Viburnum lantana* (Blz. 336)",
+          "id": {
+            "name": "Viburnum lantana (Blz. 336)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

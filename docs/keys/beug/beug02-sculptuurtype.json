@@ -15,8 +15,10 @@
       "choices": [
         {
           "label": "Exine niet gesculpteerd. tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
-          "outcome": {
-            "text": "psilaat",
+          "id": {
+            "name": "psilaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -85,8 +87,10 @@
       "choices": [
         {
           "label": "Oppervlak van de Exine met ronde verdiepingen.",
-          "outcome": {
-            "text": "foveolaat",
+          "id": {
+            "name": "foveolaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -121,8 +125,10 @@
       "choices": [
         {
           "label": "De langgerekte verdiepingen staan geïsoleerd.",
-          "outcome": {
-            "text": "fossulaat",
+          "id": {
+            "name": "fossulaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -137,8 +143,10 @@
         },
         {
           "label": "De verdiepingen sluiten aaneen tot een netwerk.",
-          "outcome": {
-            "text": "frustillaat of areolaat",
+          "id": {
+            "name": "frustillaat of areolaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -193,8 +201,10 @@
       "choices": [
         {
           "label": "Diameter of lengte van de sculptuurelementen tot 1 µm (verzamelbegrip: omvat micro-echinaat, micro-gemmaat, micro-clavaat, micro-verrucaat, micro-baculaat en micro-reticulaat; in tectate of in intectate positie).",
-          "outcome": {
-            "text": "scabraat",
+          "id": {
+            "name": "scabraat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -229,8 +239,10 @@
       "choices": [
         {
           "label": "Sculptuurelementen toegespitst (in tectate of in intectate positie).",
-          "outcome": {
-            "text": "echinaat",
+          "id": {
+            "name": "echinaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -299,8 +311,10 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "outcome": {
-            "text": "gemmaat",
+          "id": {
+            "name": "gemmaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -315,8 +329,10 @@
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "outcome": {
-            "text": "verrucaat",
+          "id": {
+            "name": "verrucaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -337,8 +353,10 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "outcome": {
-            "text": "clavaat",
+          "id": {
+            "name": "clavaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -353,8 +371,10 @@
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "outcome": {
-            "text": "baculaat",
+          "id": {
+            "name": "baculaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -409,8 +429,10 @@
       "choices": [
         {
           "label": "Netvormige sculpturering met gesloten brochi, perreticulaat (semitectaat) of suprareticulaat (tectaat).",
-          "outcome": {
-            "text": "reticulaat",
+          "id": {
+            "name": "reticulaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -425,8 +447,10 @@
         },
         {
           "label": "Sculpturering bestaat uit netvormig geplaatste bacula of clavae.",
-          "outcome": {
-            "text": "retipilaat",
+          "id": {
+            "name": "retipilaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -447,8 +471,10 @@
       "choices": [
         {
           "label": "Sculptuurelementen in ± parallelle rangschikking, ten minste in bundels parallel.",
-          "outcome": {
-            "text": "striaat",
+          "id": {
+            "name": "striaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -463,8 +489,10 @@
         },
         {
           "label": "Sculptuurelementen onregelmatig (niet netvormig en niet parallel) gerangschikt.",
-          "outcome": {
-            "text": "rugulaat",
+          "id": {
+            "name": "rugulaat",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

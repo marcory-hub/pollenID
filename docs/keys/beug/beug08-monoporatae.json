@@ -16,8 +16,10 @@
       "choices": [
         {
           "label": "PK oblaat tot sferoïdisch, distale deel clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en met enkele clavae. De grote porie op de proximale zijde is operculaat. Het operculum is verrucaat gesculpteerd (tabel 2: 5–7).",
-          "outcome": {
-            "text": "8.1 *Nymphaea* (Blz... 73)",
+          "id": {
+            "name": "8.1 Nymphaea (Blz... 73)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -52,8 +54,10 @@
       "choices": [
         {
           "label": "Sculptuur verrucaat tot gemmaat, PK sferoïdisch, dikwandig, zeer dicht gesculpteerd. Apertuur groot, vaak iets verlengd, meestal onregelmatig en hoekig begrensd (tabel 8: 11–12).",
-          "outcome": {
-            "text": "*Sciadopitys verticillata* (Blz... 99)",
+          "id": {
+            "name": "Sciadopitys verticillata (Blz... 99)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -122,8 +126,10 @@
       "choices": [
         {
           "label": "PK psilaat, rond en afgeplat, porie 20–25 µm groot (tabel 5: 6–11).",
-          "outcome": {
-            "text": "*Ginkgo biloba* (Blz... 110)",
+          "id": {
+            "name": "Ginkgo biloba (Blz... 110)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -158,8 +164,10 @@
       "choices": [
         {
           "label": "PK echinaat (tabel 8: 5–6).",
-          "outcome": {
-            "text": "8.3 *Lemnaceae* (Blz... 91)",
+          "id": {
+            "name": "8.3 Lemnaceae (Blz... 91)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -194,8 +202,10 @@
       "choices": [
         {
           "label": "Porie tot 6(8) µm groot (tabel 5: 18–22, tabel 9: 1).",
-          "outcome": {
-            "text": "8.4 *Sparganium*-type (Blz... 91)",
+          "id": {
+            "name": "8.4 Sparganium-type (Blz... 91)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -210,8 +220,10 @@
         },
         {
           "label": "Porie over 10 µm (tot 33 µm) groot. Poriënmembraan, indien aanwezig, fijnreticulaat of scabraat (tabel 9: 2–4).",
-          "outcome": {
-            "text": "8.5 *Cephalanthera*-type (Blz... 92)",
+          "id": {
+            "name": "8.5 Cephalanthera-type (Blz... 92)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

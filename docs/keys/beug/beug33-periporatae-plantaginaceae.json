@@ -49,8 +49,10 @@
       "choices": [
         {
           "label": "PK (32)33-44 µm (Tafel 106: 4-6).",
-          "outcome": {
-            "text": "33.2.1 *Litorelly-type* (Blz. 458)",
+          "id": {
+            "name": "33.2.1 Litorelly-type (Blz. 458)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -65,8 +67,10 @@
         },
         {
           "label": "PK 21-32(34) µm (Tafel 106: 7-13).",
-          "outcome": {
-            "text": "33.2.2 *Plantago major-media*-type (Blz. 458)",
+          "id": {
+            "name": "33.2.2 Plantago major-media-type (Blz. 458)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -121,8 +125,10 @@
       "choices": [
         {
           "label": "PK 32-45 µm groot, Opercula meestal scheibenförmig (Tafel 106: 14-16).",
-          "outcome": {
-            "text": "33.2.3 *Plantago albicans* (Blz. 460)",
+          "id": {
+            "name": "33.2.3 Plantago albicans (Blz. 460)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -137,8 +143,10 @@
         },
         {
           "label": "PK 20-26 µm groot, Opercula körnig gevormd (Tafel 107: 1-4).",
-          "outcome": {
-            "text": "33.2.4 *Plantago tenuiflora*-type (Blz. 460)",
+          "id": {
+            "name": "33.2.4 Plantago tenuiflora-type (Blz. 460)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -159,8 +167,10 @@
       "choices": [
         {
           "label": "Opercula scheibenförmig, glad (Tafel 107: 4-9).",
-          "outcome": {
-            "text": "33.2.5 *Plantago lanceolata*-type (Blz. 460)",
+          "id": {
+            "name": "33.2.5 Plantago lanceolata-type (Blz. 460)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -195,8 +205,10 @@
       "choices": [
         {
           "label": "annulus als geschlossener, glatter of außen etwas gelappter, im optischen Schnitt meestal als deutliche verdikking der Exine herkenbaar (Tafel 107: 10-14).",
-          "outcome": {
-            "text": "33.2.6 *Plantago coronopus*-type (Blz. 462)",
+          "id": {
+            "name": "33.2.6 Plantago coronopus-type (Blz. 462)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -211,8 +223,10 @@
         },
         {
           "label": "annulus flach, z.T. erst im Phasenkontrastbild duidelijk herkenbaar, buitenrand duidelijk gelappt en/of aus größeren en dickeren Verrucae zusammengesetzt en daardoor plaatselijk unterbrochen (Tafel 107: 15-18).",
-          "outcome": {
-            "text": "33.2.7 *Plantago maritima*-type (Blz. 462)",
+          "id": {
+            "name": "33.2.7 Plantago maritima-type (Blz. 462)",
+            "size": "-",
+            "source": "-",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
