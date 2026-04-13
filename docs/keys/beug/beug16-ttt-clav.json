@@ -261,7 +261,6 @@
         },
         {
           "label": "PK > 30 µm (ca. 35–100 µm) (tabel 35: 12–15, tabel 36: 1–7, tabel 37: 1–5, Afb. 21–22).",
-          "next": "beug-tricolpatae-tricolporoidatae-tricolporatae-clavate-166-linum",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -271,7 +270,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tricolpatae-tricolporoidatae-tricolporatae-clavate-166-linum",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     }

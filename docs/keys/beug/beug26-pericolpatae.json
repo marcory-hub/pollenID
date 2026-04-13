@@ -243,7 +243,6 @@
       "choices": [
         {
           "label": "PK rugulat, rugulat-reticulaat, verrucaat of fossulat (Tafel 92: 10-19).",
-          "next": "beug_pericolpatae_266_corydalis_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -253,7 +252,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Corydalis gruppe",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK psilaat of scabraat.",

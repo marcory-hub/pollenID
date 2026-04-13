@@ -433,7 +433,6 @@
       "choices": [
         {
           "label": "PK echinaat, microechinaat of scabraat, Poriën met auffälligen costae (Tafel 105: 1-18).",
-          "next": "beug_stephanoporatae_3211_campanulaceae_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -443,7 +442,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Campanulaceae",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK rugulaat of reticulaat.",

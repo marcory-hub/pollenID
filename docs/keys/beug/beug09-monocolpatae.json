@@ -144,7 +144,6 @@
         },
         {
           "label": "PK verrucaat (geen vesiculae), rugulaat tot rugulaat-reticulaat, tussen de sculptuurelementen met of zonder brochi, PK langgerekt, colpus lang (tabel 9: 7–14).",
-          "next": "beug-monocolpatae-94-magnoliaceae",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -154,7 +153,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-monocolpatae-94-magnoliaceae",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -540,7 +544,6 @@
       "choices": [
         {
           "label": "Colpus langer als de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (tabel 10: 3). Reticulum aan de einden van de PK en langs de colpus fijnmazig, overigens heterobrochaat met grote brochi tot 3 µm.",
-          "next": "beug-monocolpatae-914-muscari",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -550,7 +553,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-monocolpatae-914-muscari",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Colpus hoogstens zo lang als de PK.",

@@ -163,7 +163,6 @@
       "choices": [
         {
           "label": "PK met een 2,0-3,5 µm breiten, equatoriaal verlaufenden reticulaten zone, Exine buiten deze zone psilaat (Tafel 87: 31-34).",
-          "next": "beug_stephanocolporatae_254_pulmonaria_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -173,7 +172,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Pulmonaria gruppe",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK gelijkmatig sculptuur, zonder een dergelijke equatoriale zone.",

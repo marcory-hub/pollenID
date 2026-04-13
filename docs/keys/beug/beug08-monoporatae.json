@@ -92,7 +92,6 @@
       "choices": [
         {
           "label": "Porie met annulus en costa, sculptuur psilaat-scabraat (tabel 6 en 7, tabel 8: 1–4, tabel 9: 5–6, fig. 11–17).",
-          "next": "beug-monoporatae-82-poaceae",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -102,7 +101,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-monoporatae-82-poaceae",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Porie zonder annulus en costa.",

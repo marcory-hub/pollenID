@@ -87,7 +87,6 @@
       "choices": [
         {
           "label": "PK reticulaat of microreticulaat, 50-75 µm groot (Tafel 96: 5-6).",
-          "next": "beug_diporatae_301_colchicum_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -97,7 +96,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Colchicum gruppe",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK retipilat, 19-35 µm groot (Tafel 96: 1-4).",

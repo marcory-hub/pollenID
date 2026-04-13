@@ -443,7 +443,6 @@
         },
         {
           "label": "PK suprareticulaat, tectum van de lumina microreticulaat (fasecontrast!), muri duidelijk smaller dan de diameter van de lumina (Tafel 60: 3-13).",
-          "next": "beug_tricolpatae_reticulate_2110_galeopsis_ballota_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -453,7 +452,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Galeopsis ballota",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -691,7 +695,6 @@
       "choices": [
         {
           "label": "PK marginaat (indien PK in het daarvoor geschikte gebied liggen), microreticulaat of micro-reticulaat en scabraat. Bij PK met sterk ingezonken colpi is de margo meestal niet herkenbaar.",
-          "next": "beug_tricolpatae_reticulate_2110_galeopsis_ballota_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -701,7 +704,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Galeopsis ballota",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK niet marginaat.",
@@ -1009,7 +1017,6 @@
         },
         {
           "label": "columellae staan ook onder den lumina in de brochi min of meer gelijkmatig verdeeld (PK suprareticulaat; verdeling van de columellae eventueel controleren). brochi groter dan 2,5 en tot 3,0 µm groot (Tafel 60: 3-13).",
-          "next": "beug_tricolpatae_reticulate_2110_galeopsis_ballota_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1019,7 +1026,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Galeopsis ballota",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -1191,7 +1203,6 @@
         },
         {
           "label": "columellae in optische doorsnede zichtbaar. De columellae zijn in opzicht niet of nauwelijks in het poolgebied herkenbaar. PK polair meestal afgerond. Onderscheid te bepalen door Fabaceae kritisch, vgl. Blz... 373. (Tafel 60: 3-13).",
-          "next": "beug_tricolpatae_reticulate_2110_galeopsis_ballota_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1201,7 +1212,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Galeopsis ballota",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },

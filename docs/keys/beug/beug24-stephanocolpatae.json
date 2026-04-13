@@ -523,7 +523,6 @@
         },
         {
           "label": "Brochi altijd over 2 µm groot, grootste Brochi tot 4 µm, Lumina met talrijke microbrochi, PK ca. 27-72 µm groot (Tafel 86: 5-13).",
-          "next": "beug_stephanocolpatae_2410_salvia_pratensis_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -533,7 +532,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Salvia pratensis gruppe",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -637,7 +641,6 @@
         },
         {
           "label": "PK intectaat, Brochi steeds duidelijk, Exine meestal tot 1 µm dik, zelden dikker. Colpi nur zwak ingezonken, intercolpiumranden in poolaanzicht meestal niet sterker gekromd als der Umriß der PK (Tafel 87: 7-22).",
-          "next": "beug_stephanocolpatae_2413_primula_veris_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -647,7 +650,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Primula veris gruppe",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     }

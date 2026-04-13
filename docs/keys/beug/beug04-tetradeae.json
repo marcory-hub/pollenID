@@ -376,7 +376,6 @@
         },
         {
           "label": "Poriën tot 8–15 µm groot, EPK monoporaat of diporaat. Poriën evt. niet herkenbaar (fig. 3; tabel 1: 3–4).",
-          "next": "beug-tetradeae-410-epipactis",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -386,7 +385,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tetradeae-410-epipactis",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     }

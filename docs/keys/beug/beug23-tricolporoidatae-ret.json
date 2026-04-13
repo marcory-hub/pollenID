@@ -49,7 +49,6 @@
       "choices": [
         {
           "label": "PK homobrochaat, Brochi tot ca. 1,2 µm groot (Tafel 79: 11-16).",
-          "next": "beug_tricolporoidatae_reticulate_231_sambucus_nigra_type_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -59,7 +58,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Sambucus nigra-type",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK heterobrochaat, grote Brochi 1 tot 2 µm groot.",
@@ -83,7 +87,6 @@
       "choices": [
         {
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
-          "next": "beug_tricolporoidatae_reticulate_232_sambucus_ebulus_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -93,11 +96,15 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Sambucus ebulus",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
-          "next": "beug_tricolporoidatae_reticulate_233_adoxa_moschatellina_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -107,7 +114,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Adoxa moschatellina",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -189,7 +201,6 @@
       "choices": [
         {
           "label": "PK 24-33 µm groot, Elemente der rugulaten Sculpturierung locker gestellt, fossulate Sculpturierung daardoor duidelijk (Tafel 80: 1-5).",
-          "next": "beug_tricolporoidatae_reticulate_234_laburnum_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -199,11 +210,15 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Laburnum",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK 30-40 µm groot, Elemente der rugulaten Sculpturierung dicht gestellt, vaak vernetzt (Tafel 80: 6-9).",
-          "next": "beug_tricolporoidatae_reticulate_235_robinia_pseudoacacia_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -213,7 +228,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Robinia pseudoacacia",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -223,7 +243,6 @@
       "choices": [
         {
           "label": "PK heteropolaar, met einem abgerundeten en einem toegespitste Pol, 15-22 µm groot (Tafel 80: 26-27).",
-          "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -233,7 +252,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Scrophulariaceae",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK niet heteropolar.",
@@ -291,7 +315,6 @@
       "choices": [
         {
           "label": "breedte der Muri meestal geringer als der Diameter der Lumina, PK 25-32 µm groot, meestal ruitvormig, zelden elliptisch (Tafel 80: 10-15).",
-          "next": "beug_tricolporoidatae_reticulate_236_lobelia_dortmanna_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -301,7 +324,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Lobelia dortmanna",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Muri meestal so breit wie der Diameter der Lumina.",
@@ -325,7 +353,6 @@
       "choices": [
         {
           "label": "Brochi im Phasenkontrastbild gut herkenbaar, PK 18-28 µm groot (recentes Vergleichsmaterial benutzen) (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -335,11 +362,15 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Scrophulariaceae",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Brochi im Phasenkontrastbild schwer herkenbaar, PK nur 11-21 µm groot (rezentes Vergleichsmaterial benutzen) (Tafel 80: 16-25).",
-          "next": "beug_tricolporoidatae_reticulate_237_primula_clusiana_type_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -349,7 +380,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Primula clusiana-type",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -427,7 +463,6 @@
       "choices": [
         {
           "label": "columella's unter de Muri z.T. dubbelrijig, Brochi Poriën duidelijk kleiner als op de Intercolpiën, PK sferoïdisch, zelden zwak prolaat (Cercis).",
-          "next": "beug_tricolporoidatae_reticulate_2316_cercis_siliquastrum_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -437,11 +472,15 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Cercis siliquastrum",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "columella's unter de Muri altijd enkelrijig. Brochi Poriën niet kleiner als op de intercolpiumrandenn. PK prolaat tot sferoïdisch (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -451,7 +490,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Scrophulariaceae",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -461,7 +505,6 @@
       "choices": [
         {
           "label": "PK micro-suprareticulaat, Brochi daardoor relatief contrastarm, columella-laag im optischen Schnitt met kontrastschwachen en relatief weit gestellten columella's herkenbaar; Indien eng gestellt, vgl. Linaria (Blz. 368) (Tafel 81: 17-22).",
-          "next": "beug_tricolporoidatae_reticulate_239_hypericum_perforatum_type_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -471,7 +514,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Hypericum perforatum-type",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK micro-perreticulaat.",
@@ -495,7 +543,6 @@
       "choices": [
         {
           "label": "PK 15-18 µm groot, dunwandig (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": "beug_tricolporoidatae_reticulate_238_scrophulariaceae_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -505,7 +552,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Scrophulariaceae",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK größer (vgl. ook Elatine, Blz. 206).",
@@ -547,7 +599,6 @@
         },
         {
           "label": "PK met polair meest taps toelopende Enden, Endexine relatief dik. Schwer von de großen PK vom Primula clusiana-type zu trennen.",
-          "next": "beug_tricolporoidatae_reticulate_2310_saxifraga_hieracifolia_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -557,7 +608,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Saxifraga hieracifolia",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -657,7 +713,6 @@
         },
         {
           "label": "Muri niet opvallend breit. columella's im Phasenkontrastbild niet of nur im polaren en subpolaren gebied herkenbaar (Tafel 82: 8-19, Tafel 83: 1-9).",
-          "next": "beug_tricolporoidatae_reticulate_2312_genista_gruppe_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -667,7 +722,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Genista gruppe",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -801,7 +861,6 @@
         },
         {
           "label": "Exine 1,5-1,8 µm dik, an de intercolpiumrandenn niet dunner. Brochi 1,0-1,8(2,1) µm groot. Indien Brochi nur tot 1,2 µm groot, vgl. 6. Scrophulariaceae p.p. (Tafel 83: 15-19).",
-          "next": "beug_tricolporoidatae_reticulate_2313_diapensia_lapponica_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -811,7 +870,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Diapensia lapponica",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     },
@@ -821,7 +885,6 @@
       "choices": [
         {
           "label": "Brochi 2,0-2,5(3,0) µm groot, columella's dubbelrijig (Tafel 83: 10-14).",
-          "next": "beug_tricolporoidatae_reticulate_2314_euonymus_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -831,7 +894,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Euonymus",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Brochi maximal 4-5 µm groot, columella's altijd enkelrijig (Tafel 73: 18-25).",
@@ -859,7 +927,6 @@
       "choices": [
         {
           "label": "PK 32-42 µm groot, prolaat, Lumina kleiner als die breedte der Muri, columella's meerrijig (Tafel 83: 20-23).",
-          "next": "beug_tricolporoidatae_reticulate_2315_paeonia_officinalis_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -869,11 +936,15 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Paeonia officinalis",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK 20-28 µm groot, meestal sferoïdisch, Muri etwa so breit wie der Diameter der Lumina of nur wenig schmäler, columella's nur vereinzelnt dubbelrijig (Tafel 83: 24-28).",
-          "next": "beug_tricolporoidatae_reticulate_2316_cercis_siliquastrum_sub",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -883,7 +954,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Cercis siliquastrum",
+            "size": "-",
+            "source": "-"
+          }
         }
       ]
     }

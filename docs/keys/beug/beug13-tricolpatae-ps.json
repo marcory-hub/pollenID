@@ -231,7 +231,6 @@
       "choices": [
         {
           "label": "PK 17–50 µm groot, columellae in opzicht equatoriaal onduidelijk en onregelmatig verdeeld, wanneer herkenbaar, dan PK > 20 µm (*Consolida*) (tabel 13: 4–6, 10).",
-          "next": "beug-tricolpatae-psilate-134-aconitum",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -241,7 +240,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tricolpatae-psilate-134-aconitum",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "PK 14–18 µm groot, columellae ook equatoriaal herkenbaar (tabel 13: 7–9).",
@@ -493,7 +497,6 @@
       "choices": [
         {
           "label": "Exine overal gelijkmatig dik, colpi zonder opercula. PK kugelig (tabel 14: 2–23).",
-          "next": "beug-tricolpatae-psilate-1311-alchemilla",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -503,7 +506,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tricolpatae-psilate-1311-alchemilla",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Exine ongelijkmatig dikker als tectum, wanneer in polair gebied duidelijker dikker. PK in polair aanzicht driehoekig en planapertuurt of PK met sterk verdikte opercula (tabel 14: 7–20).",
@@ -1025,7 +1033,6 @@
       "choices": [
         {
           "label": "tectum polair 2–3 maal zo dik als in het equatoriaal gebied, bovendien aan de intercolpium-randen dunner dan in het midden van de intercolpia. columellae-laag dun, columellae in het equatoriaal gebied in opzicht meestal zeer dun tot niet herkenbaar (tabel 16: 20–22).",
-          "next": "beug-tricolpatae-psilate-1323-teucrium",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1035,7 +1042,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tricolpatae-psilate-1323-teucrium",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "tectum polair niet zo sterk verdikt en aan de intercolpium-randen niet dunner dan in het midden van de intercolpia. columellae overal gelijk goed zichtbaar (tabel 17: 11–16).",
@@ -1709,7 +1721,6 @@
       "choices": [
         {
           "label": "Sculptuurelementen in opzicht hoekig, columellae (in opzicht) zeer dun en talrijk, PK vaak met een endo-microreticulaat structuur. Afgrenzing van het *Papaver rhoeas*-groep en van *Globularia* vaak moeilijk (tabel 20: 8–11).",
-          "next": "beug-tricolpatae-psilate-1336-papaver",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1719,7 +1730,12 @@
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
             }
-          ]
+          ],
+          "id": {
+            "name": "Beug-tricolpatae-psilate-1336-papaver",
+            "size": "-",
+            "source": "-"
+          }
         },
         {
           "label": "Sculptuurelementen in opzicht rondachtig, columellae in opzicht meestal moeilijk herkenbaar, PK vaak met endo-microreticulaat structuur (daarbij ook endo-microbrochi naast geïsoleerde columellae). Afgrenzing van het *Caltha*-type vaak moeilijk (tabel 20: 12–23).",
