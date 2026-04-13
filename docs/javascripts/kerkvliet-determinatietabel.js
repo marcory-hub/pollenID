@@ -213,9 +213,96 @@
     const table = document.createElement("table");
     table.className = "kerkvliet-table";
 
+    function escAttr(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/"/g, "&quot;")
+        .replace(/</g, "&lt;");
+    }
+
+    function resolveAssetUrl(maybeRelative) {
+      if (typeof maybeRelative !== "string" || !maybeRelative) return maybeRelative;
+      if (/^[a-z]+:/i.test(maybeRelative) || maybeRelative.startsWith("/")) return maybeRelative;
+      // Rows use docs-relative paths like "assets/images/...".
+      // This page lives under "Identificatiesleutels/", so prefix with "../../" to reach docs root.
+      if (maybeRelative.startsWith("assets/")) {
+        maybeRelative = "../../" + maybeRelative;
+      }
+      try {
+        return new URL(maybeRelative, document.baseURI).href;
+      } catch (e) {
+        return maybeRelative;
+      }
+    }
+
+    /** Markdown-achtige links [label](url): alleen http(s), extern tabblad. */
+    const MD_LINK_RE = /\[([^\]]*)\]\(([^)]+)\)/g;
+    function formatMarkdownLinks(s) {
+      if (typeof s !== "string" || !s) return "";
+      let out = "";
+      let last = 0;
+      let m;
+      MD_LINK_RE.lastIndex = 0;
+      while ((m = MD_LINK_RE.exec(s)) !== null) {
+        out += esc(s.slice(last, m.index));
+        const href = (m[2] || "").trim();
+        if (/^https?:\/\//i.test(href)) {
+          out +=
+            '<a href="' +
+            escAttr(href) +
+            '" rel="noopener noreferrer" target="_blank">' +
+            esc(m[1] || "") +
+            "</a>";
+        } else {
+          out += esc(m[0]);
+        }
+        last = MD_LINK_RE.lastIndex;
+      }
+      out += esc(s.slice(last));
+      return out;
+    }
+
+    function renderImagesTd(td, images) {
+      if (!Array.isArray(images) || images.length === 0) return;
+      const row = document.createElement("div");
+      row.style.display = "flex";
+      row.style.flexWrap = "wrap";
+      row.style.gap = "6px";
+      row.style.alignItems = "flex-start";
+      row.style.width = "100%";
+
+      // Preserve relative size ratios while keeping the row compact.
+      let maxW = null;
+      images.slice(0, 4).forEach(function (im) {
+        const w = im && im.imageWidthPx;
+        if (typeof w === "number" && Number.isFinite(w) && w > 0) {
+          if (maxW === null || w > maxW) maxW = w;
+        }
+      });
+      const targetMaxPx = 96;
+      const scale = maxW ? Math.min(1, targetMaxPx / maxW) : 1;
+      images.slice(0, 4).forEach(function (im) {
+        if (!im || !im.image) return;
+        const img = document.createElement("img");
+        img.src = resolveAssetUrl(im.image);
+        img.alt = "Afbeelding";
+        img.style.display = "block";
+        img.style.height = "auto";
+        img.style.borderRadius = "4px";
+        const w = im.imageWidthPx;
+        if (typeof w === "number" && Number.isFinite(w) && w > 0) {
+          img.style.width = String(Math.max(28, Math.round(w * scale))) + "px";
+        } else {
+          img.style.width = "72px";
+        }
+        row.appendChild(img);
+      });
+      td.appendChild(row);
+    }
+
     const thead = document.createElement("thead");
     const hr = document.createElement("tr");
-    ["Plant (Latijn)", "Plant (Nederlands)", "Vorm", "Grootte (µm)", "Oppervlak", "Opmerkingen"].forEach(
+    ["Plant (Latijn) (pd)", "Plant (Nederlands) (pw)", "Vorm", "Grootte (µm)", "Oppervlak", "Opmerkingen"].forEach(
       function (h) {
         const th = document.createElement("th");
         th.textContent = h;
@@ -270,17 +357,33 @@
           .trim();
         if (query && hay.indexOf(query) === -1) return;
 
+        // Optional full-width image row above the data row.
+        if (Array.isArray(r.images) && r.images.length > 0) {
+          const trImg = document.createElement("tr");
+          const tdImg = document.createElement("td");
+          tdImg.colSpan = 6;
+          renderImagesTd(tdImg, r.images);
+          trImg.appendChild(tdImg);
+          tbody.appendChild(trImg);
+        }
+
         const tr = document.createElement("tr");
-        [
+        const cells = [
           r.latin || "",
           r.dutch || "",
           r.vorm || "",
           r.grootte || "",
           r.oppervlak || "",
           r.opmerkingen || "",
-        ].forEach(function (cell) {
+        ];
+        cells.forEach(function (cell, idx) {
           const td = document.createElement("td");
-          td.textContent = cell;
+          // Render Markdown-style links in Latin (pd) and Dutch (pw) columns.
+          if (idx === 0 || idx === 1) {
+            td.innerHTML = formatMarkdownLinks(String(cell || "")).replace(/\s{2,}/g, " ").trim();
+          } else {
+            td.textContent = cell;
+          }
           tr.appendChild(td);
         });
         tbody.appendChild(tr);
