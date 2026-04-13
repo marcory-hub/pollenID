@@ -54,7 +54,13 @@ Before architectural or roadmap answers:
   - **`meta`**: `key` (string; project convention: basename of the JSON file), `title`, `locale`, `source`, `start` (step id string), `stepCount` (number). Some files may include optional fields such as `note`; follow neighbouring keys unless the user specifies otherwise.
   - **Top-level `start`**: step id string; wizard entry (same id as `meta.start`).
   - **`steps`**: object keyed by step id strings. Each step: `id`, `type` (`"step"`), `choices` (array). Optional: step `note`.
-  - **Each choice**: `label` (string); exactly one of **`next`** (string: next step id **in the same JSON file**) or **`outcome`** with **`text`**; optional **`outcome.incomplete`**. Optional: **`image`**, **`imageWidthPx`**.
+  - **Each choice**: `label` (string); exactly one of **`next`** (string: next step id **in the same JSON file**) or **`outcome`** with **`text`**; optional **`outcome.incomplete`**.
+    - Optional images (for overview and authoring placeholders):
+      - **`images`**: array of `{ image, imageWidthPx }` shown in the overzicht; in the interactive UI only placeholder images are shown under choice buttons.
+      - Backward compatible: `image` + `imageWidthPx` (single image) is still supported as input, but prefer `images`.
+    - Optional endpoint images:
+      - **`outcome.images`**: array of `{ image, imageWidthPx }` shown at the endpoint and in the overzicht.
+      - Backward compatible: `outcome.image` + `outcome.imageWidthPx` (single image) is supported, but prefer `outcome.images`.
   - **Markup in strings**: paired `*…*` for emphasis in labels and outcomes; in outcomes, `[label](url)` is turned into a link **only** for `http:` / `https:` URLs (see **`docs/javascripts/vdh-pollentabel.js`**).
 Note:  beug03-polyadeae.md and beug05-dyade.md do NOT contain links to json file! Do not change these files or invent JSON files
 

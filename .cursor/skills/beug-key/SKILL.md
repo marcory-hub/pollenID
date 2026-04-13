@@ -13,7 +13,10 @@ description: >-
 
 ## Shape
 
-- Valid object for `vdh-pollentabel.js`: see **interactive-pollen-key** (this repo) — top-level `start`, `steps` with `choices`, each choice: `label` + **`next`** *or* **`outcome.text`** only. Italics: `*Genus species*`, not HTML.
+- Valid object for `vdh-pollentabel.js`: see **interactive-pollen-key** (this repo) - top-level `start`, `steps` with `choices`, each choice: `label` + **`next`** *or* **`outcome.text`** only. Italics: `*Genus species*`, not HTML.
+- Images:
+  - Prefer `choice.images` and `outcome.images` arrays of `{ image, imageWidthPx }`.
+  - If the user asks for placeholder slots: add two `../../assets/images/pollenwiki/PLACEHOLDER_Pd.png` entries with `imageWidthPx: 1` to the relevant `images` array.
 
 ## Standard `meta` (Beug keys)
 
@@ -22,7 +25,7 @@ description: >-
 | `key` | Paired Markdown slug: **filename of the `.md` page without extension** (e.g. `beug04-tetradeae-drosera`). |
 | `title` | **Heading taken from the scan** (Dutch where you translate; use `*taxon*` for genus/species). |
 | `locale` | `nl` |
-| `source` | Exactly `"Beug"` — no extra prose. |
+| `source` | Exactly `"Beug"` - no extra prose. |
 | `note` | `"-"` |
 | `start`, `stepCount` | As required by the key structure. |
 

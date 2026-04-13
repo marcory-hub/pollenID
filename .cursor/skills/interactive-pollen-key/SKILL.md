@@ -21,7 +21,18 @@ Read **one** existing JSON under `docs/keys/vanderham/` or `docs/keys/beug/` and
 
 ## JSON contract
 
-`meta` (`key`, `title`, `locale`, `source`, `start`, `stepCount`), top-level `start`, `steps`. Each step has `choices`; each choice has `label` and **either** `next` **or** `outcome.text` (optional `outcome.incomplete`). Optional: `image`, `imageWidthPx`, step `note`. No other shape: the renderer requires this.
+`meta` (`key`, `title`, `locale`, `source`, `start`, `stepCount`), top-level `start`, `steps`. Each step has `choices`; each choice has `label` and **either** `next` **or** `outcome.text` (optional `outcome.incomplete`). Optional: step `note`.
+
+Images (overview + endpoint + placeholders):
+- Prefer multi-image arrays:
+  - `choice.images`: `[{ image, imageWidthPx }]` shown in the overzicht. In the interactive choice list, only placeholder images are shown.
+  - `outcome.images`: `[{ image, imageWidthPx }]` shown at the endpoint and in the overzicht.
+- Backward compatible single-image fields:
+  - `choice.image` + `choice.imageWidthPx`
+  - `outcome.image` + `outcome.imageWidthPx`
+
+Placeholder policy (site authoring):
+- Use `../../assets/images/pollenwiki/PLACEHOLDER_Pd.png` twice with `imageWidthPx: 1` when the user asks to add placeholder slots broadly.
 
 Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 
