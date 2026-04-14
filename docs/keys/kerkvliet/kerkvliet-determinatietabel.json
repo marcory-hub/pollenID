@@ -12,6 +12,7 @@
     "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
     "Pollen met groeven",
     "Pollen met stekels echinaat fenestraat",
+    "Diversen",
     "Enkele (sub)tropische pollen (op grootte)"
   ],
   "rows": [
@@ -6926,7 +6927,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Pinus](https://www.paldat.org/pub/Pinus) sp. [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pinus_sp.)",
       "dutch": "den",
       "vorm": "ovaal/luchtzakken",
@@ -6941,7 +6942,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Calluna vulgaris](https://www.paldat.org/pub/Calluna_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris) ",
       "dutch": "struikheide",
       "vorm": "tetrade",
@@ -6968,7 +6969,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Vaccinium vitis](https://www.paldat.org/pub/Vaccinium_vitis) -idaea [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_vitis) ",
       "dutch": "vossebes",
       "vorm": "tetrade",
@@ -6995,7 +6996,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Rhododendron](https://www.paldat.org/pub/Rhododendron) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron) ",
       "dutch": "rhododendron",
       "vorm": "tetrade",
@@ -7022,8 +7023,8 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Vaccinium corymb](https://www.paldat.org/pub/Vaccinium_corymb) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymb) ",
+      "section": "Diversen",
+      "latin": "[Vaccinium corymbosum](https://www.paldat.org/pub/Vaccinium_corymbosum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymbosum) ",
       "dutch": "blauwe bes",
       "vorm": "tetrade",
       "grootte": "37-42",
@@ -7049,7 +7050,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Erica tetralix](https://www.paldat.org/pub/Erica_tetralix) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_tetralix) ",
       "dutch": "dopheide",
       "vorm": "tetrade",
@@ -7068,7 +7069,7 @@
       ]
     },
     {
-      "section": "Pollen met stekels echinaat fenestraat",
+      "section": "Diversen",
       "latin": "[Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_myrtillus) ",
       "dutch": "bosbes",
       "vorm": "tetrade",
