@@ -2271,7 +2271,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde: N 3, P 3
 - In honing: 12.5% 
 
-#### [Myosotis scorpioides](https://pollenx.eu/species.php?species=Myosotis_scorpioides) (vergeet-mij-niet)
+#### [Myosotis scorpioides](myosotis_scorpioides.md) (vergeet-mij-niet)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

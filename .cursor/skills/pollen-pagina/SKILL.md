@@ -1,84 +1,87 @@
 ---
 name: pollen-pagina
 description: >-
-  Builds a Dutch taxon page under docs/nederlandse-honing-pollen/ like calluna_vulgaris.md:
-  image gallery, internal and external links, sleutelpaden from Beug / van der Ham / Kerkvliet JSON,
-  nav entry, and _index link. Use when the user asks for a pollen species page, taxon landing page,
-  or the same layout as Calluna / sleutels en paden.
+  Create/update a Dutch taxon page under docs/nederlandse-honing-pollen/ following calluna_vulgaris.md.
 ---
 
 # Pollen taxon page (Nederlandse honing)
 
 ## When to use
 
-- New or expanded species (or type) page in **`docs/nederlandse-honing-pollen/`**, same structure as **`calluna_vulgaris.md`**.
-- User wants gallery + PollenX / pollenwiki / Paldat + **Sleutels en paden** with **Verwacht pad** callouts.
+- Create or revise a taxon page in `docs/nederlandse-honing-pollen/` in the exact structure of `calluna_vulgaris.md`.
 
-## Policy (repo)
+## Hard constraints
 
-- **Language:** Dutch for all reader-facing prose in **`docs/`**; Latin taxon in italics in headings where appropriate. Agent chat stays English.
-- **No writes to `notes/`.** Do not edit **`docs/keys/`** JSON unless the user explicitly requests a keys change; for these pages, **read** JSON to extract paths and table rows only.
-- **`mkdocs.yml`:** Add a **`nav`** entry under **Nederlands** when the page is new (alphabetical slug key, path to the `.md` file). User must approve if they prefer to batch nav edits.
-- **URLs:** Take PollenX / pollenwiki / Paldat targets from existing repo sources (e.g. **`kerkvliet-determinatietabel.json`** `latin` / neighbour rows, or **`nederlandse-honing-pollen/_index.md`** before it was replaced by an internal link). Do not invent URLs.
-- **Typography:** Do not use the em dash `—`; use `-`. In HTML callouts, escape `<` as `&lt;`.
+- **Language**: Dutch in `docs/` (headings, prose, link labels). Chat stays English.
+- **notes/**: read-only.
+- **docs/keys/**: read-only unless the user explicitly asks for keys changes.
+- **URLs**: do not invent; reuse verified URLs already in repo or provided by the user.
+- **Typography**: never use `—`; use `-`. In HTML, escape `<` as `&lt;`.
 
-## Admonitions
+## Callouts (required)
 
-This project’s **`mkdocs.yml`** does not enable Markdown `!!!` admonitions. Use **HTML** Material callouts so lists render correctly:
+Do not use Markdown `!!!` admonitions. Use HTML callouts (Material style) so `<ol>` / `<ul>` render correctly:
 
 ```html
 <div class="admonition info">
 <p class="admonition-title">Verwacht pad</p>
 <ol>
-<li><strong>Stap 1:</strong> …</li>
+<li><strong>Stap 1:</strong> ...</li>
 </ol>
 </div>
 ```
 
-Kerkvliet summary: same wrapper with **`<ul>`** and title e.g. `Tabelrij <em>…</em>`.
+Patterns used in `calluna_vulgaris.md`:
+- **Path**: title `Verwacht pad` + `<ol>` with steps and an `Eindpunt`.
+- **Kerkvliet row summary**: title `Diversen <em>…</em>` + `<ul>` with fixed fields.
+- **Beug path**: title `Beug` (or `Beug: <groep>`) + `<ol>`.
 
-## Workflow (ordered)
+## Output template (match calluna_vulgaris.md)
 
-1. **Source of truth for images and bullets**  
-   Open **`docs/nederlandse-honing-pollen/_index.md`** for the taxon block: copy **`pid-scale-gallery`** paths and image **heights** (Nederlandse honing scale **2.5 px/µm** per project context). Add any extra images listed for that taxon in **`kerkvliet-determinatietabel.json`** (e.g. `persano_oddo/`), with heights consistent with those assets’ use elsewhere.
+Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and order:
 
-2. **Create the Markdown file**  
-   Path: **`docs/nederlandse-honing-pollen/<slug>.md`**. Slug: match repo habit (**`calluna_vulgaris.md`** uses underscore; **`mkdocs.yml`** nav key may use hyphens).
+1. **H1**
+   - `# *Genus species* (Nederlandse naam)`
 
-3. **Page top**  
-   - `# *Genus species* (Nederlandse naam)`  
-   - One **`pid-scale-gallery`** / **`pid-scale-row pid-scale-row--snug`** / **`figure.pid-scale-item`** row (all figures for that taxon in one row unless the user asks to split).  
-   - **`alt`:** short sensible text (no placeholder artefact alts).
+2. **Image gallery (required)**
+   - Use the same HTML scaffold as `calluna_vulgaris.md`:
+     - `<div class="pid-scale-gallery">` + one `<div class="pid-scale-row pid-scale-row--snug">`
+     - repeated `<figure class="pid-scale-item"><img ...></figure>`
+   - Keep image `style="height: ...px; width: auto;"` values consistent with existing assets for that taxon (copy, do not recalculate).
+   - `alt`: short, correct (no placeholders).
 
-4. **Links block**  
-   - `Zie het overzicht [_index.md](_index.md)` and, if relevant, a monoflorale page under **`../monoflorale-honing-pollen/`**.  
-   - Bullet list: **PollenX** (`https://pollenx.eu/species.php?species=Genus_species`), **pollenwiki**, **Paldat** from verified URLs only.
+3. **`## Determinatiesleutels`**
+   - Add subsections as applicable, each using HTML callouts:
+     - `### Kerkvliet-determinatietabel voor pollen in Nederlandse honing`
+       - One callout summarising the table row (fields exactly as in `calluna_vulgaris.md`):
+         `Nederlands`, `Vorm`, `Grootte (µm)`, `Oppervlak`, `Opmerkingen`
+     - `### Pollentabel van der Ham`
+       - One callout `Verwacht pad` with `<ol>` and an `Eindpunt` (family-level is fine; state it).
+     - `### Beug: <hoofdstuk/groep>`
+       - One callout tracing the main path.
+       - If a sub-key/group is needed for species: add a second callout titled `Beug: <subgroep>` with its path and endpoint.
+   - Source rule: trace paths by reading JSON; do not edit JSON.
 
-5. **`## Sleutels en paden`**  
-   For each relevant key (user- or taxon-specific):
-   - **`###`** short title + one line **`[Interactieve sleutel](../Identificatiesleutels/….md)`** (or Kerkvliet tabel page).  
-   - Short intro (JSON filename, eindpunt name, familieniveau vs species).  
-   - **Beug:** Trace **`docs/keys/beug/*.json`** from **`start`** following **`next`** and choice **`label`** until the taxon **`id.name`** endpoint or subgroup named in the key. If species lives in a **sub-key** (e.g. Ericaceae-Empetrum), document **two** blocks: main **`beug04-tetradeae.json`** path to subgroup + **`beug04-tetradeae-ericaceae-empetrum.json`** path to species. Step numbers in titles must match **`steps`** **ids** in JSON (non-sequential is normal).  
-   - **Van der Ham:** Trace **`vanderham-pollentabel.json`**; if the endpoint is only **family**, state that explicitly.  
-   - **Kerkvliet:** No dichotomous path; copy **dutch**, **vorm**, **grootte**, **oppervlak**, **opmerkingen** from the matching row into the **`<ul>`** callout.  
-   - Closing line optional: Latin/links are authored in JSON and rendered by the site table.
+4. **`## Online databases`**
+   - Optional internal pointer(s) first (as in calluna):
+     - `- Zie ook [<Monofloraal>](../monoflorale-honing-pollen/<page>.md).`
+   - Then external bullets (only verified):
+     - `- [PollenX - *Genus species*](...)`
+     - `- [pollenwiki - *Genus species*](...)`
+     - `- [Paldat - *Genus species*](...)`
 
-6. **Overzicht entry**  
-   If the taxon is listed on **`_index.md`** with an external-only heading, switch to **`[Genus species](<slug>.md) (naam)`** when the user wants the landing page (sibling-relative path).
+5. **`## Naslag`** (optional)
+   - Bullet list of references if you have verified URLs (e.g. existing PDF links already used elsewhere in repo).
 
-7. **Navigation**  
-   Insert under **`mkdocs.yml` → Nederlands** in **alphabetical** order:  
-   `- <nav-key>: nederlandse-honing-pollen/<slug>.md`
+## Navigation (`mkdocs.yml`)
 
-8. **Verify**  
-   Run **`mkdocs build`**. Confirm **`mkdocs.yml`** is consistent with the new page.
+- If the page is new and the user asked for nav updates: add under `Nederlands` in alphabetical order.
+- Do not change nav unless the user explicitly asks (broken-links/SEO risk when renaming/moving pages).
 
-## Paired references
+## Verification
 
-- **`scale-images`** skill: true-scale galleries on other page types.  
-- **`interactive-pollen-key`**: JSON sleutel contract (not for editing keys unless requested).  
-- **`project-context.mdc`** Keys + image scale defaults.
+- If you changed `mkdocs.yml` or did broad link edits: run `mkdocs build`.
 
 ## Canonical example
 
-**`docs/nederlandse-honing-pollen/calluna_vulgaris.md`** (gallery, externe links, vier sleutel-secties, HTML callouts).
+`docs/nederlandse-honing-pollen/calluna_vulgaris.md`
