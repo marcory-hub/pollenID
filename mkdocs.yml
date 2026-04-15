@@ -34,6 +34,7 @@ plugins:
   - search:
       lang: nl
   - tags
+  - macros
 
 extra_css:
   - stylesheets/extra.css

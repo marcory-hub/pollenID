@@ -137,10 +137,22 @@
     return typeof p === "string" && /\/PLACEHOLDER_[A-Za-z]+\.png$/i.test(p);
   }
 
-  function applyImageSizing(img, widthPx, isPlaceholder) {
+  function applyImageSizing(img, heightPx, widthPx, isPlaceholder) {
     img.style.display = "block";
     img.style.height = "auto";
     img.style.margin = "0";
+
+    if (typeof heightPx === "number" && Number.isFinite(heightPx) && heightPx > 0) {
+      if (isPlaceholder && heightPx <= 1) {
+        img.style.height = "24px";
+        img.style.width = "auto";
+        img.classList.add("pid-placeholder-image");
+      } else {
+        img.style.height = String(heightPx) + "px";
+        img.style.width = "auto";
+      }
+      return;
+    }
 
     if (typeof widthPx === "number" && Number.isFinite(widthPx) && widthPx > 0) {
       if (isPlaceholder && widthPx <= 1) {
@@ -174,7 +186,7 @@
       img.src = resolveAssetUrl(im.image, baseUrl || document.baseURI);
       img.alt = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
       const ph = isPlaceholderImagePath(im.image);
-      applyImageSizing(img, im.imageWidthPx, ph);
+      applyImageSizing(img, im.imageHeightPx, im.imageWidthPx, ph);
       row.appendChild(img);
     });
   }
@@ -244,39 +256,29 @@
         const labelText = ch.label || "Optie " + (idx + 1);
         labelSpan.innerHTML = formatEmphasisAst(labelText);
         btn.appendChild(labelSpan);
-        // Interactive choices: show placeholders only (not real images),
-        // so authors see "slots" without cluttering the UI.
-        const phFromChoice = Array.isArray(ch.images)
-          ? ch.images.filter(function (im) {
-              return im && isPlaceholderImagePath(im.image);
-            })
-          : [];
+        // Interactive choices: show images (scaled), placeholders stay dimmed.
+        const imgsFromChoice = Array.isArray(ch.images) ? ch.images : [];
         const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
-        const phFromOutcome =
-          endpoint && Array.isArray(endpoint.images)
-            ? endpoint.images.filter(function (im) {
-                return im && isPlaceholderImagePath(im.image);
-              })
-            : [];
-        const phImgs = phFromChoice.concat(phFromOutcome);
-        if (phImgs.length > 0) {
+        const imgsFromEndpoint = endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
+        const imgs = imgsFromChoice.concat(imgsFromEndpoint);
+        if (imgs.length > 0) {
           renderImagesRow(
             btn,
-            phImgs,
+            imgs,
             dataAbsUrl || document.baseURI,
-            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)"
           );
         } else if (isPlaceholderImagePath(ch.image)) {
           renderImagesRow(
             btn,
-            [{ image: ch.image, imageWidthPx: ch.imageWidthPx }],
+            [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }],
             dataAbsUrl || document.baseURI,
             (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
           );
         } else if (endpoint && isPlaceholderImagePath(endpoint.image)) {
           renderImagesRow(
             btn,
-            [{ image: endpoint.image, imageWidthPx: endpoint.imageWidthPx }],
+            [{ image: endpoint.image, imageHeightPx: endpoint.imageHeightPx, imageWidthPx: endpoint.imageWidthPx }],
             dataAbsUrl || document.baseURI,
             (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
           );
@@ -457,7 +459,7 @@
     const ids = Object.keys(steps).sort(function (a, b) {
       return parseInt(a, 10) - parseInt(b, 10);
     });
-    /** @type {Array<{sid:string,label:string,result:string,kind:string,images:Array<{image?:string,imageWidthPx?:number}>}>} */
+    /** @type {Array<{sid:string,label:string,result:string,kind:string,images:Array<{image?:string,imageHeightPx?:number,imageWidthPx?:number}>}>} */
     const rows = [];
     ids.forEach(function (sid) {
       const step = steps[sid];
@@ -471,7 +473,7 @@
           if (Array.isArray(ch.images)) {
             images = ch.images;
           } else if (ch.image) {
-            images = [{ image: ch.image, imageWidthPx: ch.imageWidthPx }];
+            images = [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
           }
         } else if (ch.outcome && ch.outcome.text) {
           result = ch.outcome.text;
@@ -479,7 +481,13 @@
           if (Array.isArray(ch.outcome.images)) {
             images = ch.outcome.images;
           } else if (ch.outcome.image) {
-            images = [{ image: ch.outcome.image, imageWidthPx: ch.outcome.imageWidthPx }];
+            images = [
+              {
+                image: ch.outcome.image,
+                imageHeightPx: ch.outcome.imageHeightPx,
+                imageWidthPx: ch.outcome.imageWidthPx,
+              },
+            ];
           }
         } else if (ch.id && (ch.id.text || ch.id.name)) {
           result = ch.id.text || ch.id.name || "";
@@ -487,7 +495,13 @@
           if (Array.isArray(ch.id.images)) {
             images = ch.id.images;
           } else if (ch.id.image) {
-            images = [{ image: ch.id.image, imageWidthPx: ch.id.imageWidthPx }];
+            images = [
+              {
+                image: ch.id.image,
+                imageHeightPx: ch.id.imageHeightPx,
+                imageWidthPx: ch.id.imageWidthPx,
+              },
+            ];
           }
         } else {
           result = "-";
@@ -495,7 +509,7 @@
           if (Array.isArray(ch.images)) {
             images = ch.images;
           } else if (ch.image) {
-            images = [{ image: ch.image, imageWidthPx: ch.imageWidthPx }];
+            images = [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
           }
         }
         rows.push({

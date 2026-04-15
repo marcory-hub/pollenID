@@ -1,0 +1,8376 @@
+abelmoschus_esculentus:
+  latin: Abelmoschus esculentus
+  dutch: okra
+  family: null
+  size:
+    smallest_size: 175 µm
+    largest_size: 175 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 20-poraat
+  ornamentation: echinaat
+  image:
+    height_px: 438
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_campestre:
+  latin: Acer campestre
+  dutch: Spaanse aak
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 35 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: striaat
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_japonicum:
+  latin: Acer japonicum
+  dutch: Japanse esdoorn
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 29 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_negundo:
+  latin: Acer negundo
+  dutch: verderesdoorn
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat/striaat/
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_palmatum:
+  latin: Acer palmatum
+  dutch: '-'
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 32 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat/rugulaat
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_platano_des:
+  latin: Acer platanoïdes
+  dutch: Noorse esdoorn
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 34 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: striaat
+  image:
+    height_px: 85
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+acer_pseudoplat:
+  latin: Acer pseudoplat.
+  dutch: Esdoorn
+  family: null
+  size:
+    smallest_size: 35 µm
+    largest_size: 47 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: striaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+achillea_millefolium:
+  latin: Achillea millefolium
+  dutch: duizendblad
+  family: null
+  size:
+    smallest_size: 29 µm
+    largest_size: 29 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat A
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+aesculus_carnea:
+  latin: Aesculus carnea
+  dutch: rode paardekast
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 28 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+aesculus_hippocastanum:
+  latin: Aesculus hippocastanum
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+afrika_kolkwitzia_amabilis:
+  latin: Afrika Kolkwitzia amabilis
+  dutch: kolkwitzia
+  family: null
+  size:
+    smallest_size: 56 µm
+    largest_size: 56 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: echinaat
+  image:
+    height_px: 140
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+agrimonia_eupatoria:
+  latin: Agrimonia eupatoria
+  dutch: gewone agrimonie
+  family: null
+  size:
+    smallest_size: 30.2 µm
+    largest_size: 37 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+agrimonia_odorata:
+  latin: Agrimonia odorata
+  dutch: welriekende agrimonie
+  family: null
+  size:
+    smallest_size: 51 µm
+    largest_size: 100 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 250
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+ailanthus_altissima:
+  latin: Ailanthus
+  dutch: hemelboom
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: ∆/O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ajuga_reptans:
+  latin: Ajuga reptans
+  dutch: zenegroen
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: ∆/O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat(<Bn)
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+alchemilla_acutiloba:
+  latin: Alchemilla acutiloba
+  dutch: kale vrouwenmantel
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+alchemilla_alpina:
+  latin: Alchemilla alpina
+  dutch: alpine vrouwenmantel?
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+allium_cepa:
+  latin: Allium cepa
+  dutch: ui
+  family: null
+  size:
+    smallest_size: 39 µm
+    largest_size: 39 µm
+  shape: half ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: glad/zw rugulaat
+  image:
+    height_px: 98
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+allium_schoenopr:
+  latin: Allium schoenopr.
+  dutch: bieslook
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: half ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: glad/zw. rugulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+allium_ursinum:
+  latin: Allium ursinum
+  dutch: daslook
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 35 µm
+  shape: half ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: glad/ zw. rugulaat
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+alnus_glutinosa:
+  latin: Alnus glutinosa
+  dutch: els
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 26 µm
+  shape: vijfkantig
+  polarity: null
+  pe_ratio: null
+  aperture: 5-poraat
+  ornamentation: glad
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+alyssum_sp:
+  latin: Alyssum sp.
+  dutch: schildzaad
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 18 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+amaranthus_caudatus:
+  latin: Amaranthus caudatus
+  dutch: kattenstaartamarant
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Meestal meer dan 50 pori, tectum zonder perforaties
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+ambrosia_artemis:
+  latin: Ambrosia artemis
+  dutch: Ambrosia
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat J
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+amorpha_fruticosa:
+  latin: Amorpha fruticosa
+  dutch: valse indigo
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anacardium_occidentale:
+  latin: Anacardium occidentale
+  dutch: cashew
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 28 µm
+  shape: onregelmatig ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anchusa_arvensis:
+  latin: Anchusa arvensis
+  dutch: kromhals
+  family: null
+  size:
+    smallest_size: 48 µm
+    largest_size: 48 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 120
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anchusa_officinalis:
+  latin: Anchusa officinalis
+  dutch: ossetong
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 37 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: glad/foveolaat
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anethum_graveole:
+  latin: Anethum graveole
+  dutch: dille
+  family: null
+  size:
+    smallest_size: 13 µm
+    largest_size: 25 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anthemis_nobilis:
+  latin: Anthemis nobilis
+  dutch: roomse kamille
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 28 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat A
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anthirrhinum:
+  latin: Anthirrhinum
+  dutch: leeuwebek
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 18 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat?
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+anthriscus_sylvestris:
+  latin: Anthriscus sylvestris
+  dutch: Anthriscus sylvestris
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: colpusranden vormen geen uitstekende kapjes over de pori
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+arcticum_majus:
+  latin: Arcticum majus
+  dutch: grote klit
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+  shape: O/ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: echinaat S/verruc
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+arcticum_minus:
+  latin: Arcticum minus
+  dutch: klit
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 45 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+armeria_maritima:
+  latin: Armeria maritima
+  dutch: strandkruid
+  family: null
+  size:
+    smallest_size: 66 µm
+    largest_size: 66 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 165
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+artemisia_sp:
+  latin: Artemisia sp.
+  dutch: bijvoet/alsem
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H en
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+aruncus:
+  latin: Aruncus
+  dutch: geitenbaard
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 16 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 40
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+asparagus:
+  latin: Asparagus
+  dutch: asperge
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: onregelmatig
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+asperula_odorata:
+  latin: Asperula odorata
+  dutch: lievevrouwebedstro
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+asphodelus_aestiv_alleen_em:
+  latin: Asphodelus aestiv alleen EM
+  dutch: gewone daffodil
+  family: null
+  size:
+    smallest_size: 61 µm
+    largest_size: 61 µm
+  shape: half ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: scabraat
+  image:
+    height_px: 152
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+aster_sp:
+  latin: Aster sp
+  dutch: aster
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 26 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+aster_tripolium:
+  latin: Aster tripolium
+  dutch: zeeaster
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 33 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+astragalus_sinicus:
+  latin: Astragalus sinicus
+  dutch: milkvetch
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad?
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+astrantia_major:
+  latin: Astrantia major
+  dutch: Zeeuws knoopje
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 45 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+berberis_sp:
+  latin: Berberis sp
+  dutch: zuurbes
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 45 µm
+  shape: O/onregelmatig
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+betula:
+  latin: Betula
+  dutch: berk
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: scabraat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+bidens_sp:
+  latin: Bidens sp
+  dutch: tandzaad
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+borreria_sp_rubia:
+  latin: Borreria sp. (Rubia)
+  dutch: Borreria
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 9-poraat
+  ornamentation: f reticulaat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+brassica_napus_koolzaad:
+  latin: Brassica napus (koolzaad
+  dutch: null
+  family: null
+  size:
+    smallest_size: 22.3 µm
+    largest_size: 28.2 µm
+  shape: rond, sferoid to optisch gering prolaat
+  polarity: isopolair
+  pe_ratio: PoFormI ca. 1.01; 0.96-1.12
+  aperture: tricolpaat
+  ornamentation: apertuurmembranen bevatten deels gering korrelig ornamentering
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/koolzaadhoning.md
+bronscan_eindigt:
+  latin: Bronscan eindigt
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: porus onduidelijk, zonder verdikte rand, aan de stompe zijde van een peervormige korrel
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+bryonia_dioica:
+  latin: Bryonia dioica
+  dutch: Bryonia dioica
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+buddleja_davidii:
+  latin: Buddleja davidii
+  dutch: vlinderstruik
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 15 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: glad
+  image:
+    height_px: 38
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cakile_maritima:
+  latin: Cakile maritima
+  dutch: zeeraket
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 30 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+calendula_officin:
+  latin: Calendula officin
+  dutch: goudsbloem
+  family: null
+  size:
+    smallest_size: 34 µm
+    largest_size: 34 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat H
+  image:
+    height_px: 85
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+calluna_vulgaris:
+  latin: Calluna vulgaris
+  dutch: struikheide
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 39 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat
+  image:
+    height_px: 98
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+calluna_vulgaris_struikheide:
+  latin: Calluna vulgaris (struikheide
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: tetradeae, rond tonvormig, onregelmatig bij ongehydrateerde pollen
+  polarity: heteropolair
+  pe_ratio: '-'
+  aperture: korte brede colpi, tricolpaat of tricolporaat
+  ornamentation: psylaat (pollenwiki), verrucate, scabrate, gemmate (paldat en Beug)
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/heidehoning.md
+calystegia_sepium:
+  latin: Calystegia sepium
+  dutch: haagwinde
+  family: null
+  size:
+    smallest_size: 78 µm
+    largest_size: 78 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 20-poraat
+  ornamentation: scabraat
+  image:
+    height_px: 195
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+campanula:
+  latin: Campanula
+  dutch: klokje
+  family: null
+  size:
+    smallest_size: 29 µm
+    largest_size: 29 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 4-poraat
+  ornamentation: echinaat
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cannabis_sativa:
+  latin: Cannabis sativa
+  dutch: cannabis
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: scabraat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+caragana_arborescens:
+  latin: Caragana arborescens
+  dutch: erwtenstruik
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 25 µm
+  shape: ovaal/O
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colpaat
+  ornamentation: scabraat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cardamine_praten:
+  latin: Cardamine praten
+  dutch: pinksterbloem
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carduus_nutans:
+  latin: Carduus nutans
+  dutch: knikkende distel
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: '-'
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carlina_aucalis:
+  latin: Carlina aucalis
+  dutch: zilverdistel
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 60 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: echinaat S
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carpinus_betulus:
+  latin: Carpinus betulus
+  dutch: haagbeuk
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 37 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 5-poraat
+  ornamentation: ca glad
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carpobrotus_edulis:
+  latin: Carpobrotus edulis
+  dutch: hottentotvijg
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 28 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: echinaat
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carthamus_lanatuswollige:
+  latin: Carthamus lanatuswollige
+  dutch: saffloer
+  family: null
+  size:
+    smallest_size: 61 µm
+    largest_size: 61 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat J
+  image:
+    height_px: 152
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carthamus_tinctor:
+  latin: Carthamus tinctor
+  dutch: saffloer
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 60 µm
+  shape: '?'
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat J
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+carum_carvi:
+  latin: Carum carvi
+  dutch: Carum carvi
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: colpusranden vormen iets uitstekende kapjes over de pori
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+castanea_sativa:
+  latin: Castanea sativa
+  dutch: tamme kastanje
+  family: null
+  size:
+    smallest_size: 12 µm
+    largest_size: 14 µm
+  shape: ovaal
+  polarity: isopolair
+  pe_ratio: ca. 1.24
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 35
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/tammekastanjehoning.md
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+catalpa_ovata:
+  latin: Catalpa ovata
+  dutch: trompetboom
+  family: null
+  size:
+    smallest_size: 73 µm
+    largest_size: 73 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat
+  image:
+    height_px: 182
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+centaurea_cyanus:
+  latin: Centaurea cyanus
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+centaurea_jacea:
+  latin: Centaurea jacea
+  dutch: knoopkruid
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 35 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat J
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+centaurea_montan:
+  latin: Centaurea montan
+  dutch: bergcentaurie
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: verrucaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+centranthus_ruber:
+  latin: Centranthus ruber
+  dutch: spoorbloem
+  family: null
+  size:
+    smallest_size: 65 µm
+    largest_size: 65 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: clavaat?
+  image:
+    height_px: 162
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+centranthus_ruber:
+  latin: Centranthus ruber
+  dutch: rode spoorbloem
+  family: null
+  size:
+    smallest_size: 65 µm
+    largest_size: 72 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: zwak echinaat
+  image:
+    height_px: 180
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ceratonia_silqua:
+  latin: Ceratonia silqua
+  dutch: Johannesbroodboom
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 27 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: f reti
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cercis_siliquastrum:
+  latin: Cercis siliquastrum
+  dutch: Judasboom
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 28 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+chamerion_angust:
+  latin: Chamerion angust
+  dutch: wilgeroosje
+  family: null
+  size:
+    smallest_size: 62 µm
+    largest_size: 80 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: glad
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+chamerion_angustifolium:
+  latin: Chamerion angustifolium
+  dutch: teunisbloem
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+chelidonium_majus:
+  latin: Chelidonium majus
+  dutch: Chelidonium majus
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+chrysanthemum_leuc:
+  latin: Chrysanthemum leuc
+  dutch: margriet
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat A
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cichorium_intybus:
+  latin: Cichorium intybus
+  dutch: cichorei
+  family: null
+  size:
+    smallest_size: 38 µm
+    largest_size: 38 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 95
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cirsium_arvense:
+  latin: Cirsium arvense
+  dutch: akkerdistel
+  family: null
+  size:
+    smallest_size: 49 µm
+    largest_size: 49 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 122
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cirsium_vulgare:
+  latin: Cirsium vulgare
+  dutch: speerdistel
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 52 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 130
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cistus_salviifolius:
+  latin: Cistus salviifolius
+  dutch: Saliebladige zistroos
+  family: null
+  size:
+    smallest_size: 49 µm
+    largest_size: 49 µm
+  shape: ⁄ ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 122
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+citrullus_lanatus:
+  latin: Citrullus lanatus
+  dutch: watermeloen
+  family: null
+  size:
+    smallest_size: 56 µm
+    largest_size: 56 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 140
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+citrus_sinensis:
+  latin: Citrus sinensis
+  dutch: sinaasappel
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: □/O
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: foveolaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+citrus_spp_rutaceae:
+  latin: Citrus spp, Rutaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 28.8 µm
+    largest_size: 37.6 µm
+  shape: sferoid
+  polarity: isopolair
+  pe_ratio: '0.95'
+  aperture: tetracolporaat of pentacolporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 94
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/citrushoning.md
+clematis_vitalba:
+  latin: Clematis vitalba
+  dutch: bosrank
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 22 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reliëf, scabraat
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+clethra_alnifolia:
+  latin: Clethra alnifolia
+  dutch: Clethra
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: verrucaat (?)
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cnicus_benedict:
+  latin: Cnicus benedict
+  dutch: gezeg. distel
+  family: null
+  size:
+    smallest_size: 49 µm
+    largest_size: 49 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat J
+  image:
+    height_px: 122
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+coffea_sp:
+  latin: Coffea sp.
+  dutch: koffie
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 32 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: scabraat wsl
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+colchicinum_autu:
+  latin: Colchicinum autu
+  dutch: herfsttijloos
+  family: null
+  size:
+    smallest_size: 52 µm
+    largest_size: 52 µm
+  shape: halfovaal-ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 130
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+colchicinum_autum:
+  latin: Colchicinum autum
+  dutch: herfsttijloos
+  family: null
+  size:
+    smallest_size: 58 µm
+    largest_size: 58 µm
+  shape: semi-ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 2-poraat
+  ornamentation: reticulaat
+  image:
+    height_px: 145
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+comarum_palustre:
+  latin: Comarum palustre
+  dutch: wateraardbei
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: Colpi ingesnoerd; uiteinden afgerond; vallae diffuus in LM; pollen altijd prolaat; langste as 29 µm
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+convolvulus_arve:
+  latin: Convolvulus arve
+  dutch: akkerwinde
+  family: null
+  size:
+    smallest_size: 61 µm
+    largest_size: 61 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: scabraat
+  image:
+    height_px: 152
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cornus_mas:
+  latin: Cornus mas
+  dutch: gele kornoelje
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+cornus_sanguinea:
+  latin: Cornus sanguinea
+  dutch: rode kornoelje
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+  shape: O/∆/ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat/reticulaat
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+coryllus_avelana:
+  latin: Coryllus avelana
+  dutch: hazelaar
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+corylopsis_parcifl:
+  latin: Corylopsis parcifl
+  dutch: schijnhazelaar
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 32 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat (als salix)
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cosmos_sp:
+  latin: Cosmos sp.
+  dutch: Cosmea
+  family: null
+  size:
+    smallest_size: 36 µm
+    largest_size: 36 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 90
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cotoneaster_intergerrimus:
+  latin: Cotoneaster intergerrimus
+  dutch: wilde dwergmispel
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 35 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+cotoneaster_niger:
+  latin: Cotoneaster niger
+  dutch: '?'
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+crataegus_monogyna:
+  latin: Crataegus monogyna
+  dutch: https://www.jstor.org/stable/i25027808
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+crataegus_oxycantha:
+  latin: Crataegus oxycantha
+  dutch: tweestijlige meidoorn
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+crataegus_sp:
+  latin: Crataegus sp
+  dutch: meidoorn
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 40 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: onduidelijk striaat
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+crepis_sp:
+  latin: Crepis sp.
+  dutch: streepzaad
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 36 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 90
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+crocus_albiflorus:
+  latin: Crocus albiflorus
+  dutch: crocus
+  family: null
+  size:
+    smallest_size: 125 µm
+    largest_size: 125 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat+scabraat
+  image:
+    height_px: 312
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+crocus_ancyrensis:
+  latin: Crocus ancyrensis
+  dutch: crocus
+  family: null
+  size:
+    smallest_size: 70 µm
+    largest_size: 110 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat/echinaat
+  image:
+    height_px: 275
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+crocus_sp:
+  latin: Crocus sp.
+  dutch: crocus
+  family: null
+  size:
+    smallest_size: 70 µm
+    largest_size: 110 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat(?)
+  image:
+    height_px: 275
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cucumis_satives:
+  latin: Cucumis satives
+  dutch: komkommer/aug
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 60 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cucumis_sativus:
+  latin: Cucumis sativus
+  dutch: Cucumis sativus
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: Pollenkorrel ± 50 µm, ornamentatie reticulaat
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+cynoglossum_creticum:
+  latin: Cynoglossum creticum
+  dutch: hondstong
+  family: null
+  size:
+    smallest_size: 8 µm
+    largest_size: 11 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 28
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+cynoglossum_officinale:
+  latin: Cynoglossum officinale
+  dutch: Cynoglossum officinale
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+cytisus_scoparius:
+  latin: Cytisus scoparius
+  dutch: gewone brem
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: wsl glad of scabr
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+datura_stramonium:
+  latin: Datura stramonium
+  dutch: doornappel
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+daucus_carota:
+  latin: Daucus carota
+  dutch: wilde wortel
+  family: null
+  size:
+    smallest_size: 12 µm
+    largest_size: 25 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+davidia_involcrata:
+  latin: Davidia involcrata
+  dutch: vaantjesboom
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 33 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+davidia_involucrata:
+  latin: Davidia involucrata
+  dutch: vaantjesboom
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 33 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+deutzia_sp:
+  latin: Deutzia sp.
+  dutch: Deutzia
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+digitalis_purpurea:
+  latin: Digitalis purpurea
+  dutch: vingerhoedskruid
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 24 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+diplotaxis_tenuifolia:
+  latin: Diplotaxis tenuifolia
+  dutch: rucola
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+dipsacus:
+  latin: Dipsacus
+  dutch: kaardebol
+  family: null
+  size:
+    smallest_size: 71 µm
+    largest_size: 90 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat
+  image:
+    height_px: 225
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+dryas_octopetala:
+  latin: Dryas octopetala
+  dutch: zilverkruid
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+echinops_sphaer:
+  latin: Echinops sphaer
+  dutch: kogeldistel
+  family: null
+  size:
+    smallest_size: 70 µm
+    largest_size: 70 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat C
+  image:
+    height_px: 175
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+echinops_sphaerocephalus:
+  latin: Echinops sphaerocephalus
+  dutch: Echinops sphaerocephalus
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+echium:
+  latin: Echium
+  dutch: slangekruid
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 18 µm
+  shape: eivormig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/zw reticul
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+echium_vulgare:
+  latin: Echium vulgare
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+eleagnus_angustif:
+  latin: Eleagnus angustif
+  dutch: olijfwilg
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: psilaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+erica_arborea:
+  latin: Erica arborea
+  dutch: boomheide
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+erica_tetralix:
+  latin: Erica tetralix
+  dutch: dopheide
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 40 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+erigeron_canaden:
+  latin: Erigeron canaden
+  dutch: Canad. fijnstraal
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+erodium_cicutarium:
+  latin: Erodium cicutarium
+  dutch: gew. Reigersbek
+  family: null
+  size:
+    smallest_size: 54 µm
+    largest_size: 54 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: striaat
+  image:
+    height_px: 135
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+eruca_sativa:
+  latin: Eruca sativa
+  dutch: Eruca
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 25 µm
+  shape: ca О ⁄ ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colpaat
+  ornamentation: reticulaat (<Bn)
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+escallonia_sp:
+  latin: Escallonia sp
+  dutch: Escallonia
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 20 µm
+  shape: O tot О ⁄ ∆ tot ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad (evt scabr?)
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+eschscholtzia_calif:
+  latin: Eschscholtzia calif
+  dutch: slaapmutsje
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 47 µm
+  shape: O/4-6 kantig
+  polarity: null
+  pe_ratio: null
+  aperture: 6-colpaat
+  ornamentation: scabraat/reticulaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+eucalyptus_camal:
+  latin: Eucalyptus camal
+  dutch: eucalyptus
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad/verrucaat
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+eucalyptus_globulus_myrtaceae:
+  latin: Eucalyptus globulus - Myrtaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 19.1 µm
+    largest_size: 25.9 µm
+  shape: driehoekig
+  polarity: isopolair
+  pe_ratio: 0.81 sferoid tot optisch gering oblaat
+  aperture: syncolpaat
+  ornamentation: scabraat
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/eucalyptushoning.md
+euodia_hupehensis:
+  latin: Euodia hupehensis
+  dutch: honingboom
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 27 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: grof reticulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+eupatorium_cann:
+  latin: Eupatorium cann
+  dutch: leverkruid
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+euphorbia_spp:
+  latin: Euphorbia spp
+  dutch: euphorbia
+  family: null
+  size:
+    smallest_size: 35 µm
+    largest_size: 46 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: verrucaat/reticul?
+  image:
+    height_px: 115
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+fagopyrum_esculentum:
+  latin: Fagopyrum esculentum
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: rond, sferoid
+  polarity: isopolair
+  pe_ratio: '1.1'
+  aperture: tricolporaat (poren vaak niet te zien)
+  ornamentation: reticulaat, aperturen met korrelige ornamentering
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/boekweithoning.md
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+fallopia_baldschur:
+  latin: Fallopia baldschur
+  dutch: Chin. Bruidssluier
+  family: null
+  size:
+    smallest_size: 19 µm
+    largest_size: 19 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 48
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+fallopia_japonica:
+  latin: Fallopia japonica
+  dutch: japanse duizendkn
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 27 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ferula_communis:
+  latin: Ferula communis
+  dutch: Reuzen-schijnvenkel
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 33 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat/rugulaat
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+filipendula:
+  latin: Filipendula
+  dutch: moerasspirea
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 20 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat/scabraat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+filipendula_ulmaria:
+  latin: Filipendula ulmaria
+  dutch: moerasspirea
+  family: null
+  size:
+    smallest_size: 12 µm
+    largest_size: 16 µm
+  shape: onregelm.
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 40
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+filipendula_vulgaris:
+  latin: Filipendula vulgaris
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+foeniculum_vulga:
+  latin: Foeniculum vulga
+  dutch: venkel
+  family: null
+  size:
+    smallest_size: 14 µm
+    largest_size: 25 µm
+  shape: ovaal/iets onregelm
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+fragaria_vesca:
+  latin: Fragaria vesca
+  dutch: aardbei
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+fragaria_viridis:
+  latin: Fragaria viridis
+  dutch: heuvelaardbei
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 20 µm
+  shape: Colpusuiteinden afgerond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+fraxinus_ornus:
+  latin: Fraxinus ornus
+  dutch: es
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 23 µm
+  shape: O/vierkantig
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+fumaria_officinalis:
+  latin: Fumaria officinalis
+  dutch: duivekervel
+  family: null
+  size:
+    smallest_size: 39 µm
+    largest_size: 39 µm
+  shape: □
+  polarity: null
+  pe_ratio: null
+  aperture: 8-poraat
+  ornamentation: glad
+  image:
+    height_px: 98
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+galinsoga_sp:
+  latin: Galinsoga sp
+  dutch: knopkruid
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+galium_sylvatica:
+  latin: Galium sylvatica
+  dutch: lieve vrouwe beds
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 9-colpaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+genista_anglica:
+  latin: Genista anglica
+  dutch: stekelbrem
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: zeer fijn reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+geranium_sp:
+  latin: Geranium sp.
+  dutch: ooievaarsbek e.a.
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 90 µm
+  shape: О
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: grof reticulaat
+  image:
+    height_px: 225
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+geum_rivale:
+  latin: Geum rivale
+  dutch: 23.2-30.6
+  family: null
+  size:
+    smallest_size: 21.1 µm
+    largest_size: 26.1 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+geum_urbanum:
+  latin: Geum urbanum
+  dutch: geel nagelkruid
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 25.6 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 64
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+gilia_tricolor:
+  latin: Gilia tricolor
+  dutch: Gilia
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: striaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+gramineae:
+  latin: Gramineae
+  dutch: grassen
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 40 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 1-poraat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+granulair_anthriscus_sylv:
+  latin: Granulair Anthriscus sylv
+  dutch: fluitekruid
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 24 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+helenium_autumn:
+  latin: Helenium autumn
+  dutch: Helenium
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 25 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+helianthus_annuus:
+  latin: Helianthus annuus
+  dutch: zonnebloem
+  family: null
+  size:
+    smallest_size: 35 µm
+    largest_size: 35 µm
+  shape: rond
+  polarity: isopolair
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/zonnebloemhoning.md
+hieracium_aurantia:
+  latin: Hieracium aurantia
+  dutch: oranje havikskruid
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 30 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hieracium_sp:
+  latin: Hieracium sp.
+  dutch: havikskruid
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 27 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hippopha_rhamn:
+  latin: Hippophaë rhamn
+  dutch: duindoorn
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: ca. O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+humulus:
+  latin: Humulus
+  dutch: hop
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: scabraat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hydrangea_macr:
+  latin: Hydrangea macr.
+  dutch: hortensia
+  family: null
+  size:
+    smallest_size: 12 µm
+    largest_size: 14 µm
+  shape: ca. O/onregelm
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 35
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hydrangea_sp:
+  latin: Hydrangea sp
+  dutch: hortensia
+  family: null
+  size:
+    smallest_size: 10 µm
+    largest_size: 17 µm
+  shape: O/onregelm
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hypericum_perfo:
+  latin: Hypericum perfo-
+  dutch: St. Janskruid
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 22 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+hypericum_polyph:
+  latin: Hypericum polyph
+  dutch: hertshooi
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+juglans_regia:
+  latin: Juglans regia
+  dutch: walnootboom
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Pori vooral op één helft van de pollenkorrel
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+juniperus_commu:
+  latin: Juniperus commu
+  dutch: jeneverbes
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 26 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+knautia_spp:
+  latin: Knautia spp
+  dutch: '-'
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 110 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat
+  image:
+    height_px: 275
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lamium_sp:
+  latin: Lamium sp.
+  dutch: dovenetel
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 30 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lampsana_commu:
+  latin: Lampsana commu
+  dutch: akkerkool
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 28 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+larix_decidua:
+  latin: Larix decidua
+  dutch: larix
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 104 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 260
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+larix_decidua:
+  latin: Larix decidua
+  dutch: larix
+  family: null
+  size:
+    smallest_size: 92 µm
+    largest_size: 92 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 230
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lathyrus_sylvestris:
+  latin: Lathyrus sylvestris
+  dutch: boslathyrus
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 37 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lavandula_angisti:
+  latin: Lavandula angisti
+  dutch: lavendel
+  family: null
+  size:
+    smallest_size: 38 µm
+    largest_size: 38 µm
+  shape: zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 6-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 95
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lavandula_spp_laminaceae:
+  latin: Lavandula spp - Laminaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 37 µm
+  shape: Eliptisch tot hexagonaal
+  polarity: isopolair
+  pe_ratio: '-'
+  aperture: Stephanocolpaat, meestal 6 colpi
+  ornamentation: Reticulaat
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/lavendelhoning.md
+leontodon_autum:
+  latin: Leontodon autum
+  dutch: vert. leeuwentand
+  family: null
+  size:
+    smallest_size: 29 µm
+    largest_size: 29 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ligustrum_vulgare_wilde_liguster:
+  latin: Ligustrum vulgare (wilde liguster
+  dutch: null
+  family: null
+  size:
+    smallest_size: 24.1 µm
+    largest_size: 33.7 µm
+  shape: rond tot sferoid, gering optisch oblaat
+  polarity: isopolair
+  pe_ratio: 0.88; 0.83-0.95
+  aperture: tricolpaat
+  ornamentation: reticulaat, aperturen zonder ornamentatie
+  image:
+    height_px: 84
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/ligusterhoning.md
+lilium_sp:
+  latin: Lilium sp.
+  dutch: lelie
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: ca. ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: grof reticulaat
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+limnanthes_dougl:
+  latin: Limnanthes dougl
+  dutch: moerasbloem
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 20 µm
+  shape: onregelm. ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: scabraat?/striaat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+limonium_vulgare:
+  latin: Limonium vulgare
+  dutch: lamsoor
+  family: null
+  size:
+    smallest_size: 55 µm
+    largest_size: 55 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 138
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+linaria_cymbalaria:
+  latin: Linaria cymbalaria
+  dutch: muurleeuwenbek
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+linaria_vulg:
+  latin: Linaria vulg
+  dutch: vlasleeuwenbek
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 18 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+linum_usitatissim:
+  latin: Linum usitatissim
+  dutch: vlas
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 60 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: verrucaat
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+liriodendron_tulip:
+  latin: Liriodendron tulip
+  dutch: tulpeboom
+  family: null
+  size:
+    smallest_size: 57 µm
+    largest_size: 57 µm
+  shape: ca. halfovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: verrucaat
+  image:
+    height_px: 142
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+liriodendron_tulipifera:
+  latin: Liriodendron tulipifera
+  dutch: tulpenboom
+  family: null
+  size:
+    smallest_size: 57 µm
+    largest_size: 57 µm
+  shape: half ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: verrucaat
+  image:
+    height_px: 142
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lonicera:
+  latin: Lonicera
+  dutch: kamperfoelie
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 65 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat/reticulaat
+  image:
+    height_px: 162
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lonicera_sp:
+  latin: Lonicera sp
+  dutch: kamperfoelie
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 60 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat/stekels
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+loranthus_europaeus:
+  latin: Loranthus europaeus
+  dutch: mistletoe fam
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 26 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lotus_corniculatus:
+  latin: Lotus corniculatus
+  dutch: rolklaver
+  family: null
+  size:
+    smallest_size: 13 µm
+    largest_size: 18 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+lotus_ulginosis:
+  latin: Lotus ulginosis
+  dutch: moerasrolklaver
+  family: null
+  size:
+    smallest_size: 10 µm
+    largest_size: 14 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 35
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lysimachia:
+  latin: Lysimachia
+  dutch: bastaardwederik
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+lythrum_salicaria:
+  latin: Lythrum salicaria
+  dutch: kattenstaart
+  family: null
+  size:
+    smallest_size: 19 µm
+    largest_size: 24 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: striaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+mahonia_aquifolia:
+  latin: Mahonia aquifolia
+  dutch: mahonia
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 50 µm
+  shape: O/onregelmatig
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+malus_sp:
+  latin: Malus sp.
+  dutch: appel
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad/rugulaat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+malus_sylvestris:
+  latin: Malus sylvestris
+  dutch: wilde appel
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 31 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 78
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+malva_sp:
+  latin: Malva sp.
+  dutch: kaasjeskruid
+  family: null
+  size:
+    smallest_size: 113 µm
+    largest_size: 113 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 50-poraat
+  ornamentation: echinaat
+  image:
+    height_px: 282
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+mangifera_indica:
+  latin: Mangifera indica
+  dutch: mango
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 27 µm
+  shape: ovaal/O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+matricaria_chamo:
+  latin: Matricaria chamo
+  dutch: echte kamille
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 26 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat A
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+medicago_sativa:
+  latin: Medicago sativa
+  dutch: luzerne
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 37 µm
+  shape: rond tot driekantig-ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/fijn reticulaat
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+melampyrum:
+  latin: Melampyrum
+  dutch: hengel
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: scabraat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+melilotus_hypericum_perfor:
+  latin: Melilotus Hypericum perfor
+  dutch: Sint Janskruid
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 25 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+mercurialis_annua:
+  latin: Mercurialis annua
+  dutch: bingelkruid
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 23 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+mercurialis_perennis:
+  latin: Mercurialis perennis
+  dutch: bingelkruid
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 26 µm
+  shape: О ⁄ ∆/ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 65
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+mespilus_germani:
+  latin: Mespilus germani
+  dutch: mispel
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: striaat?/scabraat?
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+mespilus_germanica:
+  latin: Mespilus germanica
+  dutch: wilde mispel
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag;
+    colpus lang; PAI 0.1; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+morus_alba:
+  latin: Morus alba
+  dutch: witte moerbei
+  family: null
+  size:
+    smallest_size: 19 µm
+    largest_size: 19 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: vrijwel glad
+  image:
+    height_px: 48
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+myosotis_scorpioides:
+  latin: Myosotis scorpioides
+  dutch: vergeet-me-nietje
+  family: null
+  size:
+    smallest_size: 5 µm
+    largest_size: 7 µm
+  shape: halter
+  polarity: null
+  pe_ratio: null
+  aperture: 6-colpaat
+  ornamentation: glad
+  image:
+    height_px: 18
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+narcissus_sp:
+  latin: Narcissus sp.
+  dutch: narcis
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 50 µm
+  shape: halfovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: reticulaat/scabraat
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nemophila_menzi:
+  latin: Nemophila menzi
+  dutch: bosliefje
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nemophila_sp:
+  latin: Nemophila sp.
+  dutch: bosliefje
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 22 µm
+  shape: ∆(/O)
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nicotiana_glauca:
+  latin: Nicotiana glauca
+  dutch: siertabak
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 29 µm
+  shape: O-О ⁄ ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: rugulaat
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nicotiana_tabacum:
+  latin: Nicotiana tabacum
+  dutch: tabak
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 31 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 78
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nigella:
+  latin: Nigella
+  dutch: Nigelle
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat/scabr
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nuphar_lutea:
+  latin: Nuphar lutea
+  dutch: gele plomp
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: echinaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+nymphaea_alba:
+  latin: Nymphaea alba
+  dutch: waterlelie
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 37 µm
+  shape: ovaal/onregelmatig
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: ca echinaat
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+oenothera_tetrag:
+  latin: Oenothera tetrag
+  dutch: teunisbloem
+  family: null
+  size:
+    smallest_size: 125 µm
+    largest_size: 125 µm
+  shape: ∆(lobaat)
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: scabraat
+  image:
+    height_px: 312
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+olea_daphne_mezereum:
+  latin: Olea Daphne mezereum
+  dutch: peperboompje
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+olea_europaea:
+  latin: Olea europaea
+  dutch: olijf
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: onregelmatig O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat (als Bn)
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+onopordon_acant:
+  latin: Onopordon acant
+  dutch: wegdistel
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+onosis_spinoza:
+  latin: Onosis spinoza
+  dutch: kattendoorn
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 25 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/f.reticuaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+oost_azi_theobroma_cacao:
+  latin: Oost Azië Theobroma cacao
+  dutch: cacao
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: f reticulaat
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ornithopus_perpus:
+  latin: Ornithopus perpus
+  dutch: Serradella
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: O/ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+osmanthus_sp:
+  latin: Osmanthus sp.
+  dutch: Osmanthus
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: reticulaat (als Bn/Si)
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+parnassia_palustris:
+  latin: Parnassia palustris
+  dutch: Parnassia
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 27 µm
+  shape: iets ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+petasitis_officinalis:
+  latin: Petasitis officinalis
+  dutch: groot hoefblad
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+phacelia:
+  latin: Phacelia
+  dutch: phacelia
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: O/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 6-colpaat
+  ornamentation: glad
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+phacelia_tanacetifolia:
+  latin: Phacelia tanacetifolia
+  dutch: Phacelia tanacetifolia
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond tot rozetvormig, tot gering oblaat
+  polarity: isopolair
+  pe_ratio: ca. 0.81
+  aperture: stephanocolpaat, afwisselend breed en smal
+  ornamentation: scabraat tot psylaat, aperturen met geringe korrelige ornamentatie
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/phaceliahoning.md
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+phaseolus_coccin:
+  latin: Phaseolus coccin
+  dutch: pronkboon
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 40 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+philadelphus:
+  latin: Philadelphus
+  dutch: boerenjasmijn
+  family: null
+  size:
+    smallest_size: 14 µm
+    largest_size: 16 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: zeer fijn reticulaat
+  image:
+    height_px: 40
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+philadelphus_coronarius:
+  latin: Philadelphus coronarius
+  dutch: boerenjasmijn
+  family: null
+  size:
+    smallest_size: 14 µm
+    largest_size: 16 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: zeer fijn reticulaat
+  image:
+    height_px: 40
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+photinia_sp:
+  latin: Photinia sp.
+  dutch: Photinia
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 30 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+picris_echino_des:
+  latin: Picris echinoïdes
+  dutch: dubbelkelk
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 37 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+picris_hi_racio_des:
+  latin: Picris hiëracioïdes
+  dutch: bitterkruid
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 31 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 78
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+pinus_sp:
+  latin: Pinus sp.
+  dutch: den
+  family: null
+  size:
+    smallest_size: 44 µm
+    largest_size: 75 µm
+  shape: ovaal/luchtzakken
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: rugulaat
+  image:
+    height_px: 188
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+pisum:
+  latin: Pisum
+  dutch: erwt
+  family: null
+  size:
+    smallest_size: 48 µm
+    largest_size: 48 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 120
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+pisum_sativum:
+  latin: Pisum sativum
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+platanus_hybr:
+  latin: Platanus hybr
+  dutch: plataan
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 24 µm
+  shape: O/onregelmatig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+polemonium_coeru:
+  latin: Polemonium coeru
+  dutch: Jacobs ladder
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 60-poraat
+  ornamentation: striaat,
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+polygonum_convol:
+  latin: Polygonum convol
+  dutch: zwaluwtong
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 24 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: foveolaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+populus_sp:
+  latin: Populus sp
+  dutch: populier
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 31 µm
+  shape: onregelmatig O
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat/tectaat
+  image:
+    height_px: 78
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+portulacca_oleacera:
+  latin: Portulacca oleacera
+  dutch: postelein
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat/scabraat/
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+portulacca_oleacera:
+  latin: Portulacca oleacera
+  dutch: postelein
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat/scabraat/
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+potentilla_anserina:
+  latin: Potentilla anserina
+  dutch: zilverschoon
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+potentilla_crantzii:
+  latin: Potentilla crantzii
+  dutch: tormentil
+  family: null
+  size:
+    smallest_size: 24.8 µm
+    largest_size: 27.2 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+primula_vulgaris:
+  latin: Primula vulgaris
+  dutch: sleutelbloem
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 19 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 8-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 48
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+prunus_avium:
+  latin: Prunus avium
+  dutch: zoete kers
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 37 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: striaat
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+prunus_laurocera:
+  latin: Prunus-laurocera
+  dutch: laurierkers
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 45 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+prunus_padus:
+  latin: Prunus padus
+  dutch: vogelkers
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/zw.striaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+prunus_serotina:
+  latin: Prunus serotina
+  dutch: Am. vogelkers
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+prunus_spinosa:
+  latin: Prunus spinosa
+  dutch: sleedoorn
+  family: null
+  size:
+    smallest_size: 39.1 µm
+    largest_size: 42.6 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 106
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+prunus_spinoza:
+  latin: Prunus spinoza
+  dutch: sleedoorn
+  family: null
+  size:
+    smallest_size: 41 µm
+    largest_size: 41 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: striaat,
+  image:
+    height_px: 102
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+punica_granatum:
+  latin: Punica granatum
+  dutch: granaatappel
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 21 µm
+  shape: O tot ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/scabraat/
+  image:
+    height_px: 52
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+pyracantha_coccin:
+  latin: Pyracantha coccin
+  dutch: vuurdoorn
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 27 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat (?)
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+raphanus_raph:
+  latin: Raphanus raph
+  dutch: bladrammenas
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+reseda_lutea:
+  latin: Reseda lutea
+  dutch: wilde reseda
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: fijn reticulaat (<Bn)
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+rhamnus_frangula:
+  latin: Rhamnus frangula
+  dutch: vuilboom
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+rhododendron:
+  latin: Rhododendron
+  dutch: rhododendron
+  family: null
+  size:
+    smallest_size: 36 µm
+    largest_size: 50 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+rhododendron_spp_ericaceae:
+  latin: Rhododendron spp, Ericaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 33 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/rhododendronhoning.md
+rhus_chinensis:
+  latin: Rhus chinensis
+  dutch: Chinese sumac
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat (<Bn)
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ribes_rubrum:
+  latin: Ribes rubrum
+  dutch: aalbes
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+ribes_sanguineum:
+  latin: Ribes sanguineum
+  dutch: rode ribes
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 33 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 8-poraat
+  ornamentation: glad
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+robinia_pseudo:
+  latin: Robinia pseudo-
+  dutch: acacia
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 31 µm
+  shape: ∆/O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 78
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+robinia_pseudoac:
+  latin: Robinia pseudoac
+  dutch: '-'
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 18 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+robinia_pseudoacacia:
+  latin: Robinia pseudoacacia
+  dutch: Robinia pseudoacacia
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 30 µm
+  shape: driehoekig tot rond, sferoid tot optisch gering oblaat
+  polarity: isopolair
+  pe_ratio: '0.89'
+  aperture: tricolpaat, enkele pollen tetracolporoidaat
+  ornamentation: scabraat, aperturen zonder ornamentatie
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/valse-acacia.md
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+rosa_canina:
+  latin: Rosa canina
+  dutch: hondsroos
+  family: null
+  size:
+    smallest_size: 30.4 µm
+    largest_size: 36.4 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 91
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+rosa_pimpinellifolia:
+  latin: Rosa pimpinellifolia
+  dutch: duinroos
+  family: null
+  size:
+    smallest_size: 31 µm
+    largest_size: 35 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+rosa_rubiginosa:
+  latin: Rosa rubiginosa
+  dutch: egelantier
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 30 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+rosasea:
+  latin: Rosasea
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: nederlandse_md
+    path: pollenID/docs/nederlandse-honing-pollen/prunus-pirus-typ.md
+rosmarinus_officinalis_laminaceae:
+  latin: Rosmarinus officinalis - Laminaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 36 µm
+    largest_size: 40 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/rosemarijnhoning.md
+rubus_arcticus:
+  latin: Rubus arcticus
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+rubus_chamaemorus:
+  latin: Rubus chamaemorus
+  dutch: kruipbraam
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: Clavaat-bacillaat-echinaat
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+rubus_fructicosus:
+  latin: Rubus fructicosus
+  dutch: braam
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 25 µm
+  shape: О ⁄ ∆ Prunus bouw
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat/f reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+rubus_fruticosus_rosaceae:
+  latin: Rubus fruticosus - Rosaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 28.6 µm
+    largest_size: 36.9 µm
+  shape: driehoekig tot vierhoekig, sferoid tot optisch gering oblaat
+  polarity: isopolair
+  pe_ratio: '0.88'
+  aperture: tricolpaat, enkele pollen tetracolporoidaat
+  ornamentation: rugulaat, aperturen met gedeeltelijke korrelige ornamentatie
+  image:
+    height_px: 92
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/braamhoning.md
+rubus_idaeus:
+  latin: Rubus idaeus
+  dutch: framboos
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: О ⁄ ∆ Prunus bouw
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+rubus_saxatilis:
+  latin: Rubus saxatilis
+  dutch: steenbraam
+  family: null
+  size:
+    smallest_size: 26 µm
+    largest_size: 30 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+rubus_sp:
+  latin: Rubus sp.
+  dutch: braam/framboos
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/striaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+rumex:
+  latin: Rumex
+  dutch: zuring
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 24 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reliëf
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ruta_graveolens:
+  latin: Ruta graveolens
+  dutch: wijnruit
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 35 µm
+  shape: ovaal, spits naar de top
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+salix_sp:
+  latin: Salix sp.
+  dutch: wilg
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 20 µm
+  shape: ongeveer rond
+  polarity: isopolair
+  pe_ratio: 0.89; 0.84-0.95
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/wilghoning.md
+sambucus_ebulus:
+  latin: Sambucus ebulus
+  dutch: bergvlier
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 24 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sambucus_nigra:
+  latin: Sambucus nigra
+  dutch: vlier
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 18 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+sanguisorba_minor:
+  latin: Sanguisorba minor
+  dutch: kleine pimpernel
+  family: null
+  size:
+    smallest_size: 30 µm
+    largest_size: 32 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+sanguisorba_officinalis:
+  latin: Sanguisorba officinalis
+  dutch: grote pimpernel
+  family: null
+  size:
+    smallest_size: 28.4 µm
+    largest_size: 32.2 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste
+    as 29.8 µm
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+santolina_jasione_montana:
+  latin: Santolina Jasione montana
+  dutch: zandblauwtje
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: echinaat
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sapindaceae_fam:
+  latin: Sapindaceae (fam.)
+  dutch: '-'
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: psilaat/f reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+scabiosa_columbar:
+  latin: Scabiosa columbar
+  dutch: duifkruid
+  family: null
+  size:
+    smallest_size: 70 µm
+    largest_size: 70 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat
+  image:
+    height_px: 175
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+scilla_nonscripta:
+  latin: Scilla nonscripta
+  dutch: wilde hyacint
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+  shape: ca ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sedum_acre:
+  latin: Sedum acre
+  dutch: muurpeper
+  family: null
+  size:
+    smallest_size: 18 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: rugulaat/zw striaat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sedum_sp:
+  latin: Sedum sp.
+  dutch: vetblad
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: glad/ z striaat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+senecio_inaequalis:
+  latin: Senecio inaequalis
+  dutch: bezemkruiskruid
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 27 µm
+  shape: ca. O
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+senecio_jacobea:
+  latin: Senecio jacobea
+  dutch: Jacobs kruiskruid
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 30 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 75
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+senecio_sp:
+  latin: Senecio sp
+  dutch: kruiskruid
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: ∆
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+serrulata_tinctoria:
+  latin: Serrulata tinctoria
+  dutch: zaagblad
+  family: null
+  size:
+    smallest_size: 49 µm
+    largest_size: 49 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 122
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sibbaldia_procumbens:
+  latin: Sibbaldia procumbens
+  dutch: null
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 25 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm
+  ornamentation: null
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+  - source: feagri_iversen
+    path: /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+silene_cucubalis:
+  latin: Silene cucubalis
+  dutch: blaassilene
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Minder dan 50 pori, tectum met perforaties
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+skimmia:
+  latin: Skimmia
+  dutch: Skimmia
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 35 µm
+  shape: O/ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 5-colporaat
+  ornamentation: striaat/reticulaat
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+solanum_dulcamara:
+  latin: Solanum dulcamara
+  dutch: bitterzoet
+  family: null
+  size:
+    smallest_size: 12 µm
+    largest_size: 12 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 30
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+solanum_incl:
+  latin: Solanum incl
+  dutch: Capsicum, Solanum incl. tomaat
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: pori smal (dwars), met spitse uiteinden
+  ornamentation: ornamentatie ± psilaat
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+solanum_lycopers:
+  latin: Solanum lycopers
+  dutch: tomaat
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+solanum_tuber:
+  latin: Solanum tuber.
+  dutch: aardappel
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 25 µm
+  shape: O/vierhoekig
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: glad
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+solidago_virga_au:
+  latin: Solidago virga au
+  dutch: gulden roede
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 24 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sonchus_arvensis:
+  latin: Sonchus arvensis
+  dutch: akkermelkdistel
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 45 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sophora_japonica:
+  latin: Sophora japonica
+  dutch: honingboom
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 18 µm
+  shape: О ⁄ ∆/iets ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: 3-4-colporaat, omtrek soms
+  image:
+    height_px: 45
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sorbus_arranensis:
+  latin: Sorbus arranensis
+  dutch: Finse meelbes
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+sorbus_aucuparia:
+  latin: Sorbus aucuparia
+  dutch: wilde lijsterbes
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: eide
+    path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
+spiraea_japonica:
+  latin: Spiraea japonica
+  dutch: spirea
+  family: null
+  size:
+    smallest_size: 12.5 µm
+    largest_size: 12.5 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 31
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+spirea_x_vanhouttei:
+  latin: Spirea x vanhouttei
+  dutch: vanhouttei spirea
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 17 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 42
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+staphylea_pinnata:
+  latin: Staphylea pinnata
+  dutch: pimpernoot
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: Ο/∆/□
+  polarity: null
+  pe_ratio: null
+  aperture: 4-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+struikheide:
+  latin: struikheide
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: nederlandse_md
+    path: pollenID/docs/nederlandse-honing-pollen/calluna_vulgaris.md
+succisa_praten:
+  latin: Succisa praten
+  dutch: blauwe knoop
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+succisa_pratensis:
+  latin: Succisa pratensis
+  dutch: blauwe knoop
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: striaat/echinaat
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sulla_coronaria:
+  latin: Sulla coronaria
+  dutch: French honeysuc
+  family: null
+  size:
+    smallest_size: 24 µm
+    largest_size: 24 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 60
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+sylibum_marianum:
+  latin: Sylibum marianum
+  dutch: Mariadistel
+  family: null
+  size:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat S
+  image:
+    height_px: 125
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+symphytum_off:
+  latin: Symphytum off
+  dutch: smeerwortel
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 33 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 10-colporaat
+  ornamentation: glad/ruw opp.
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+tagetes_erecta:
+  latin: Tagetes erecta
+  dutch: Groot Afrikaantje
+  family: null
+  size:
+    smallest_size: 34 µm
+    largest_size: 34 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H
+  image:
+    height_px: 85
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+tamarix:
+  latin: Tamarix
+  dutch: Tamarix
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 15 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: reticulaat
+  image:
+    height_px: 38
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+taraxacum:
+  latin: Taraxacum
+  dutch: paardebloem
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 41 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat T
+  image:
+    height_px: 102
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+taraxacum_officinale:
+  latin: Taraxacum officinale
+  dutch: null
+  family: null
+  size:
+    smallest_size: 28 µm
+    largest_size: 28 µm
+  shape: rond tot driehoekig, sferoid
+  polarity: isopolair
+  pe_ratio: '0.89'
+  aperture: tricolpaat, 3-4 slecht zichtbare aperturen
+  ornamentation: fenestraat, echinaat
+  image:
+    height_px: 70
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/paardenbloemhoning.md
+taxus_baccata:
+  latin: Taxus baccata
+  dutch: taxus
+  family: null
+  size:
+    smallest_size: 25 µm
+    largest_size: 29 µm
+  shape: onregelmatig O
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: scabraat
+  image:
+    height_px: 72
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+teucrium_chamaedrys:
+  latin: Teucrium chamaedrys
+  dutch: echte gamander
+  family: null
+  size:
+    smallest_size: 29 µm
+    largest_size: 33 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: scabraat/ f reticul?
+  image:
+    height_px: 82
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+thalictrum_flavum:
+  latin: Thalictrum flavum
+  dutch: poelruit
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: Vier tot twaalf pori, pori zonder massieve rand
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+thalictrum_sp:
+  latin: Thalictrum sp.
+  dutch: ruit
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 20 µm
+  shape: O of polygonaal
+  polarity: null
+  pe_ratio: null
+  aperture: 6-poraat
+  ornamentation: verrucaat/scabraat
+  image:
+    height_px: 50
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+thymus_spp_laminaceae:
+  latin: Thymus spp - Laminaceae
+  dutch: null
+  family: null
+  size:
+    smallest_size: 36 µm
+    largest_size: 40 µm
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: 100
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/tijmhoning.md
+tilia_type_linde_species:
+  latin: Tilia-type (Linde species
+  dutch: null
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 38 µm
+  shape: rond tot driehoekig; oblaat
+  polarity: isopolair
+  pe_ratio: 'ca. 0,73 (range: 0,63–0,76)'
+  aperture: Tricolporaat
+  ornamentation: Reticulaat tot rugulaat, foveolaat/fossulaat
+  image:
+    height_px: 95
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/lindehoning.md
+tordylium_apulum:
+  latin: Tordylium apulum
+  dutch: hertenplant
+  family: null
+  size:
+    smallest_size: 17 µm
+    largest_size: 36 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: scabraat/rugulaat
+  image:
+    height_px: 90
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+tragopogon_sp:
+  latin: Tragopogon sp
+  dutch: morgenster
+  family: null
+  size:
+    smallest_size: 44 µm
+    largest_size: 44 µm
+  shape: drie-/zeskantig
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat T
+  image:
+    height_px: 110
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+trifolium_incarnat:
+  latin: Trifolium incarnat
+  dutch: incarnaatklaver
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+trifolium_pratense:
+  latin: Trifolium pratense
+  dutch: null
+  family: null
+  size:
+    smallest_size: 35.9 µm
+    largest_size: 41.5 µm
+  shape: gering driehoekig convex
+  polarity: isopolair
+  pe_ratio: ca. 1.07
+  aperture: tricolporaat
+  ornamentation: grof reticulair
+  image:
+    height_px: 104
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/rode-klaverhoning.md
+trifolium_repens_hybride:
+  latin: Trifolium repens + hybride
+  dutch: null
+  family: null
+  size:
+    smallest_size: 21 µm
+    largest_size: 25 µm
+  shape: gering driehoekig convex sferoid
+  polarity: isopolair
+  pe_ratio: 0.96; 0.93-1.05
+  aperture: tricolportaal
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/witte-klaverhoning.md
+tulipa_sp:
+  latin: Tulipa sp.
+  dutch: tulp
+  family: null
+  size:
+    smallest_size: 52 µm
+    largest_size: 52 µm
+  shape: ca. O
+  polarity: null
+  pe_ratio: null
+  aperture: 1-colpaat
+  ornamentation: striaat/rugulaat
+  image:
+    height_px: 130
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+tussilago_farfara:
+  latin: Tussilago farfara
+  dutch: klein hoefblad
+  family: null
+  size:
+    smallest_size: 32 µm
+    largest_size: 32 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: echinaat H?
+  image:
+    height_px: 80
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+ulex_sp:
+  latin: Ulex sp
+  dutch: gaspeldoorn
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+urtica:
+  latin: Urtica
+  dutch: brandnetel
+  family: null
+  size:
+    smallest_size: 16 µm
+    largest_size: 16 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-poraat
+  ornamentation: glad
+  image:
+    height_px: 40
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vaccinium_corymbosum:
+  latin: Vaccinium corymbosum
+  dutch: blauwe bes
+  family: null
+  size:
+    smallest_size: 37 µm
+    largest_size: 42 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 105
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vaccinium_myrtillus:
+  latin: Vaccinium myrtillus
+  dutch: bosbes
+  family: null
+  size:
+    smallest_size: 40 µm
+    largest_size: 47 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: verrucaat wsl
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vaccinium_vitis_idaea:
+  latin: Vaccinium vitis -idaea
+  dutch: vossebes
+  family: null
+  size:
+    smallest_size: 33 µm
+    largest_size: 35 µm
+  shape: tetrade
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: glad
+  image:
+    height_px: 88
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+valeriana_officinalis:
+  latin: Valeriana officinalis
+  dutch: Valeriana officinalis
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+veel_monocotylen:
+  latin: Veel monocotylen
+  dutch: o.m. Magnolia
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+verbascum_nigrum:
+  latin: Verbascum nigrum
+  dutch: koningskaars
+  family: null
+  size:
+    smallest_size: 20 µm
+    largest_size: 23 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+verbena_officinalis:
+  latin: Verbena officinalis
+  dutch: ijzerhard
+  family: null
+  size:
+    smallest_size: 27 µm
+    largest_size: 27 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: glad
+  image:
+    height_px: 68
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vergeet_mij_niet:
+  latin: vergeet-mij-niet
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: nederlandse_md
+    path: pollenID/docs/nederlandse-honing-pollen/myosotis_scorpioides.md
+veronica_sp:
+  latin: Veronica sp.
+  dutch: ereprijs soort
+  family: null
+  size:
+    smallest_size: 15 µm
+    largest_size: 15 µm
+  shape: ongeveer rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: fijn reticulaat
+  image:
+    height_px: 38
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+viburnum_opulus:
+  latin: Viburnum opulus
+  dutch: Gelderse roos
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 25 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat(als Sinap)
+  image:
+    height_px: 62
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vicia_cracca:
+  latin: Vicia cracca
+  dutch: null
+  family: null
+  size:
+    smallest_size: null
+    largest_size: null
+  shape: null
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: null
+  image:
+    height_px: null
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+vicia_faba:
+  latin: Vicia faba
+  dutch: tuinboon
+  family: null
+  size:
+    smallest_size: 47 µm
+    largest_size: 47 µm
+  shape: ovaal
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: reticulaat
+  image:
+    height_px: 118
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vinca_sp:
+  latin: Vinca sp.
+  dutch: maagdenpalm
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+viola:
+  latin: Viola
+  dutch: viool
+  family: null
+  size:
+    smallest_size: 60 µm
+    largest_size: 60 µm
+  shape: vijfkantig
+  polarity: null
+  pe_ratio: null
+  aperture: 6-colporaat
+  ornamentation: glad/zwak scabr.
+  image:
+    height_px: 150
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+viola_tricolor:
+  latin: Viola tricolor
+  dutch: driekl. viooltje
+  family: null
+  size:
+    smallest_size: 70 µm
+    largest_size: 70 µm
+  shape: 4-5-hoekig
+  polarity: null
+  pe_ratio: null
+  aperture: 5-colporaat
+  ornamentation: glad
+  image:
+    height_px: 175
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+viscum_album:
+  latin: Viscum album
+  dutch: mistletoe
+  family: null
+  size:
+    smallest_size: 43 µm
+    largest_size: 43 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: echinaat
+  image:
+    height_px: 108
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+vitis_vinifera:
+  latin: Vitis vinifera
+  dutch: druif
+  family: null
+  size:
+    smallest_size: 22 µm
+    largest_size: 22 µm
+  shape: rond tot driekantig, afhankelijk van de ligging
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colporaat
+  ornamentation: glad/scabraat
+  image:
+    height_px: 55
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: vanderham
+    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+weigelia_diervilla:
+  latin: Weigelia/Diervilla
+  dutch: Weigelia
+  family: null
+  size:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: null
+  ornamentation: echinaat
+  image:
+    height_px: 112
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+xanthium_italicum:
+  latin: Xanthium italicum
+  dutch: stekelnoot sp.
+  family: null
+  size:
+    smallest_size: 23 µm
+    largest_size: 23 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 3-colpaat
+  ornamentation: scabraat
+  image:
+    height_px: 58
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+zea:
+  latin: Zea
+  dutch: maïs
+  family: null
+  size:
+    smallest_size: 80 µm
+    largest_size: 80 µm
+  shape: rond
+  polarity: null
+  pe_ratio: null
+  aperture: 1-poraat
+  ornamentation: glad
+  image:
+    height_px: 200
+  bloeitijd:
+    start: null
+    end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json

@@ -1,2 +1,4 @@
 # MkDocs + Material theme
 mkdocs-material==9.7.6
+mkdocs-macros-plugin==1.5.0
+pyyaml==6.0.3

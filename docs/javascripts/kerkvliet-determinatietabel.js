@@ -272,15 +272,25 @@
       row.style.width = "100%";
 
       // Preserve relative size ratios while keeping the row compact.
+      // Preferred: imageHeightPx (JSON uses heights). Backward-compatible: imageWidthPx.
+      let maxH = null;
       let maxW = null;
       images.slice(0, 4).forEach(function (im) {
+        const h = im && im.imageHeightPx;
+        if (typeof h === "number" && Number.isFinite(h) && h > 0) {
+          if (maxH === null || h > maxH) maxH = h;
+        }
         const w = im && im.imageWidthPx;
         if (typeof w === "number" && Number.isFinite(w) && w > 0) {
           if (maxW === null || w > maxW) maxW = w;
         }
       });
       const targetMaxPx = 96;
-      const scale = maxW ? Math.min(1, targetMaxPx / maxW) : 1;
+      const scale = maxH
+        ? Math.min(1, targetMaxPx / maxH)
+        : maxW
+          ? Math.min(1, targetMaxPx / maxW)
+          : 1;
       images.slice(0, 4).forEach(function (im) {
         if (!im || !im.image) return;
         const img = document.createElement("img");
@@ -289,11 +299,17 @@
         img.style.display = "block";
         img.style.height = "auto";
         img.style.borderRadius = "4px";
-        const w = im.imageWidthPx;
-        if (typeof w === "number" && Number.isFinite(w) && w > 0) {
-          img.style.width = String(Math.max(28, Math.round(w * scale))) + "px";
+        const h = im.imageHeightPx;
+        if (typeof h === "number" && Number.isFinite(h) && h > 0) {
+          img.style.height = String(Math.max(18, Math.round(h * scale))) + "px";
+          img.style.width = "auto";
         } else {
-          img.style.width = "72px";
+          const w = im.imageWidthPx;
+          if (typeof w === "number" && Number.isFinite(w) && w > 0) {
+            img.style.width = String(Math.max(28, Math.round(w * scale))) + "px";
+          } else {
+            img.style.width = "72px";
+          }
         }
         row.appendChild(img);
       });

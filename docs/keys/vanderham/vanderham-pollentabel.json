@@ -20,12 +20,12 @@
           "imageWidthPx": 220,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Calluna-vulgaris-2.png",
+              "imageWidthPx": 50
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Calluna-vulgaris-3.png",
+              "imageWidthPx": 50
             }
           ]
         },
@@ -36,12 +36,12 @@
           "imageWidthPx": 130,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
+              "imageWidthPx": 20
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Brassica_napus_Eo_26.png",
+              "imageWidthPx": 20
             }
           ]
         }
@@ -59,11 +59,11 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Oenothera_biennis_Po.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "image": "../../assets/images/pollenwiki/Onagraceae_Eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -77,11 +77,11 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "image": "../../assets/images/pollenwiki/Calluna-vulgaris-2.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "image": "../../assets/images/pollenwiki/Erica_carnea_Eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -157,12 +157,12 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Cichorium)_intybus_o1.png",
+                "imageWidthPx": 20
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png",
+                "imageWidthPx": 20
               }
             ]
           }

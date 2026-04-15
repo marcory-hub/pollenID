@@ -3,103 +3,58 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Po.png", alt="Taraxacum officinale") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png", alt="Taraxacum officinale") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale.">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png", alt="Taraxacum officinale") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" style="height: 140px; width: auto;" alt="Taraxacum_officinale">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
+      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png", alt="Taraxacum officinale") }}
     </figure>
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Kenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 28 μm (Medium) |
-| **Vorm** | rond tot driehoekig, sferoid  |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.89 |
+| **Latijn** | {{ pollen("taraxacum_officinale", "latin") }} |
+| **Nederlands** | {{ pollen("taraxacum_officinale", "dutch") }} |
+| **Familie** | {{ pollen("taraxacum_officinale", "family") }} |
+
+### Pollenafmeting en vorm
+| Kenmerk | Waarde |
+| --- | --- |
+| **Grootte (klein-groot)** | {{ pollen("taraxacum_officinale", "size.smallest_size") }} - {{ pollen("taraxacum_officinale", "size.largest_size") }} |
+| **Vorm** | {{ pollen("taraxacum_officinale", "shape") }} |
+| **Polariteit** | {{ pollen("taraxacum_officinale", "polarity") }} |
+| **P/E-ratio** | {{ pollen("taraxacum_officinale", "pe_ratio") }} |
+| **Apertuur** | {{ pollen("taraxacum_officinale", "aperture") }} |
+| **Ornamentatie** | {{ pollen("taraxacum_officinale", "ornamentation") }} |
 
 ### Pollenklasse
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Aperturen** | tricolpaat, 3-4 slecht zichtbare aperturen|
-| **Ornamentatie** | fenestraat, echinaat |
+| **Aperturen** | {{ pollen("taraxacum_officinale", "aperture") }} |
+| **Ornamentatie** | {{ pollen("taraxacum_officinale", "ornamentation") }} |
 
-### Afbeeldingen
+| Kenmerk | Waarde |
+| --- | --- |
+| **Bloeitijd (maand)** | {{ pollen("taraxacum_officinale", "bloeitijd.start") }} - {{ pollen("taraxacum_officinale", "bloeitijd.end") }} |
+| **Nectarwaarde** | {{ pollen("taraxacum_officinale", "nectar_value") }} |
+| **Pollenwaarde** | {{ pollen("taraxacum_officinale", "pollen_value") }} |
+| **Frequentie in honing** | {{ pollen("taraxacum_officinale", "frequency_in_honey") }} |
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png" style="height: 140px; width: auto;" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-  </div>
-</div>
-
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Taraxacum_officinale_Po.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Taraxacum_officinale_Pd.png" style="height: 140px; width: auto;" alt="PLACEHOLDER">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Taraxacum_officinale_echinea.png" style="height: 140px; width: auto;" alt="PLACEHOLDER.">
-      <figcaption class="pid-scale-caption">Taraxacum officinale</figcaption>
-    </figure>
-  </div>
-</div>
-
-<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
-      <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
-      <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
-      <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
-      <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
-    </figure>
-  </div>
-</div>
+## Melissopalynologische interpretatie
+- komt voor in 22% van de onderzochte Nederlandse honing
+- hoog vetgehalte (13%) itt mais (2,2%)
+- vroege nectar bron voor bijen
+- niet altijd bezocht door bijen als ze onvoldoende ontwikkels zijn om het te vergaren voor honingproductie
+- kristaliseerd vrij snel door hoge glucose aandeel
 
 ### Externe determinatiebronnen
 - [PollenX](https://pollenx.eu/species.php?species=Taraxacum_officinale)
@@ -112,12 +67,7 @@
 
 ## Relevante neven- en bijpollen
 
-## Melissopalynologische interpretatie
-- komt voor in 22% van de onderzochte Nederlandse honing
-- hoog vetgehalte (13%) itt mais (2,2%)
-- vroege nectar bron voor bijen
-- niet altijd bezocht door bijen als ze onvoldoende ontwikkels zijn om het te vergaren voor honingproductie
-- kristaliseerd vrij snel door hoge glucose aandeel
+
 
 ### Aandeel in de monoflorale honing
 
@@ -127,35 +77,48 @@
 
 ## Palynologische betekenis
 
-## Sleutels
-### **Beug:** 
+## Determinatiesleutels
 
-### **van der Ham**
-1 monade
-3 zonder luchtzakken
-4 met vensters -> Asteraceae
-### **Sawyer**
-klein-middel
-rond, meerzijdig
-3 aperturen
-poraat
-netvormig, pitted, spines
-Exine small spines
-Other projections
+### Kerkvliet-determinatietabel voor pollen in Nederlandse honing
 
+<div class="admonition info">
+<p class="admonition-title">Diversen <em>Taraxacum officinale</em></p>
+<ul>
+<li><strong>Nederlands:</strong> {{ pollen("taraxacum_officinale", "dutch") }}</li>
+<li><strong>Vorm:</strong> {{ pollen("taraxacum_officinale", "shape") }}</li>
+<li><strong>Grootte (µm):</strong> {{ pollen("taraxacum_officinale", "size.smallest_size") }} - {{ pollen("taraxacum_officinale", "size.largest_size") }}</li>
+<li><strong>Oppervlak:</strong> {{ pollen("taraxacum_officinale", "ornamentation") }}</li>
+<li><strong>Opmerkingen:</strong> 3-4 vensters, fenestraat, geel-oranje olie; kleinere tandjes dan <em>Cichorium</em></li>
+</ul>
+</div>
+
+### Pollentabel van der Ham
+
+<div class="admonition info">
+<p class="admonition-title">Verwacht pad</p>
+<ol>
+<li><strong>Stap 1:</strong> Één losse pollenkorrel (monade)</li>
+<li><strong>Stap 2:</strong> pollenkorrel zonder luchtzakken</li>
+<li><strong>Stap 3:</strong> pollenkorrel met ‘vensters’ (fenestraat)</li>
+<li><strong>Eindpunt:</strong> Asteraceae (Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum)</li>
+</ol>
+</div>
+
+### Beug: 29 Fenestratae
+
+<div class="admonition info">
+<p class="admonition-title">[to be verified] Beug: 29 Fenestratae, 29.4 Crepis-Typ</p>
+<ol>
+<li><strong>Stap:</strong> 29 Fenestratae</li>
+<li><strong>Subgroep:</strong> 29.4 Crepis-Typ</li>
+<li><strong>Eindpunt:</strong> <em>Taraxacum</em> / <em>Taraxacum officinale</em></li>
+</ol>
+</div>
 
 ## Botanische achtergrond
 
-
 ### Taxonomie:
-
 - [Verspreidingskaart (waarneming.nl)](https://waarneming.nl/taxa/10719/taraxacum/maps/?start_date=2020-01-01&interval=31536000&end_date=2030-01-01&map_type=grid10k)
-
-**Nectar- en pollenwaarde + (start/einde) bloeitijd**: [bron: imkerpedia]
-
-| Soort | Nectar | Pollen | Start | Einde |
-| --- | --- | --- | --- | --- |
-| Taraxacum officinale | 	N 5	| P 5 | 3 | 5	|
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)

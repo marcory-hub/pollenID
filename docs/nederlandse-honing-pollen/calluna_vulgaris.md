@@ -3,31 +3,49 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Calluna-vulgaris-2.png" style="height: 88px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris-2.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Calluna-vulgaris.png" style="height: 88px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Calluna-vulgaris-3.png" style="height: 88px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris-3.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/paldat/Calluna-vulgaris-4.png" style="height: 88px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/paldat/Calluna-vulgaris-4.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Calluna_vulgaris_Pd.png" style="height: 80px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_Pd.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Calluna_vulgaris_Po.png" style="height: 80px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_Po.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur.png" style="height: 80px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur.png", alt="Calluna vulgaris") }}
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur2.png" style="height: 80px; width: auto;" alt="Calluna vulgaris">
+      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur2.png", alt="Calluna vulgaris") }}
     </figure>
   </div>
 </div>
+
+## Kenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | {{ pollen("calluna_vulgaris", "latin") }} |
+| **Nederlands** | {{ pollen("calluna_vulgaris", "dutch") }} |
+| **Familie** | {{ pollen("calluna_vulgaris", "family") }} |
+| **Grootte (klein-groot)** | {{ pollen("calluna_vulgaris", "size.smallest_size") }} - {{ pollen("calluna_vulgaris", "size.largest_size") }} |
+| **Vorm** | {{ pollen("calluna_vulgaris", "shape") }} |
+| **Polariteit** | {{ pollen("calluna_vulgaris", "polarity") }} |
+| **P/E-ratio** | {{ pollen("calluna_vulgaris", "pe_ratio") }} |
+| **Apertuur** | {{ pollen("calluna_vulgaris", "aperture") }} |
+| **Ornamentatie** | {{ pollen("calluna_vulgaris", "ornamentation") }} |
+| **Bloeitijd (maand)** | {{ pollen("calluna_vulgaris", "bloeitijd.start") }} - {{ pollen("calluna_vulgaris", "bloeitijd.end") }} |
+| **Nectarwaarde** | {{ pollen("calluna_vulgaris", "nectar_value") }} |
+| **Pollenwaarde** | {{ pollen("calluna_vulgaris", "pollen_value") }} |
+| **Frequentie in honing** | {{ pollen("calluna_vulgaris", "frequency_in_honey") }} |
 
 ## Determinatiesleutels
 
@@ -36,10 +54,10 @@
 <div class="admonition info">
 <p class="admonition-title">Diversen <em>Calluna vulgaris</em></p>
 <ul>
-<li><strong>Nederlands:</strong> struikheide</li>
-<li><strong>Vorm:</strong> tetrade</li>
-<li><strong>Grootte (µm):</strong> 32-39</li>
-<li><strong>Oppervlak:</strong> verrucaat</li>
+<li><strong>Nederlands:</strong> {{ pollen("calluna_vulgaris", "dutch") }}</li>
+<li><strong>Vorm:</strong> {{ pollen("calluna_vulgaris", "shape") }}</li>
+<li><strong>Grootte (µm):</strong> {{ pollen("calluna_vulgaris", "size.smallest_size") }} - {{ pollen("calluna_vulgaris", "size.largest_size") }}</li>
+<li><strong>Oppervlak:</strong> {{ pollen("calluna_vulgaris", "ornamentation") }}</li>
 <li><strong>Opmerkingen:</strong> (3-)colporaat, wratten, gran</li>
 </ul>
 </div>
