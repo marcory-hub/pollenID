@@ -21,7 +21,7 @@
       "latin": "[Myosotis scorpioides](https://www.paldat.org/pub/Myosotis_scorpioides)",
       "dutch": "[vergeet-me-nietje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides)",
       "vorm": "halter",
-      "grootte": "7x5",
+      "grootte": "7x5 µm",
       "oppervlak": "glad",
       "opmerkingen": "6-colpaat, maar niet goed zichtbaar",
       "images": [
@@ -75,31 +75,31 @@
       "latin": "[Cynoglossum creticum](https://www.paldat.org/pub/Cynoglossum_Cynoglossum_creticum)",
       "dutch": "[hondstong](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cynoglossum_creticum)",
       "vorm": "ovaal",
-      "grootte": "11x8",
+      "grootte": "11x8 µm",
       "oppervlak": "glad",
       "opmerkingen": "n-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Cynoglossum_creticum_Ed.png",
+          "imageWidthPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Cynoglossum_creticum_Eo.png",
+          "imageWidthPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Cynoglossum_creticum_Pd.png",
+          "imageWidthPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Cynoglossum_creticum_Po.png",
+          "imageWidthPx": 20
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Castanea](https://www.paldat.org/pub/Castanea_sativa)",
+      "latin": "[Castanea sativa](https://www.paldat.org/pub/Castanea_sativa)",
       "dutch": "[tamme kastanje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Castanea_sativa)",
       "vorm": "ovaal",
       "grootte": "12-14",
@@ -108,19 +108,19 @@
       "images": [
         {
           "image": "assets/images/persano_oddo/Castanea_sativa_Ed.png",
-          "imageWidthPx": 21
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/persano_oddo/Castanea_sativa_Ed2.png",
-          "imageWidthPx": 17
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/persano_oddo/Castanea_sativa_Eo.png",
-          "imageWidthPx": 21
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/persano_oddo/Castanea_sativa_Eo2.png",
-          "imageWidthPx": 17
+          "imageWidthPx": 33
         }
       ]
     },
@@ -134,47 +134,47 @@
       "opmerkingen": "3-col(po)raat, hof?",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Solanum_dulcamara_Ed.png",
+          "imageWidthPx": 30
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Solanum_dulcamara_Eo.png",
+          "imageWidthPx": 30
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Solanum_dulcamara_Pd.png",
+          "imageWidthPx": 30
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Solanum_dulcamara_Po.png",
+          "imageWidthPx": 30
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Spiraea](https://www.paldat.org/pub/Spirea_sp.)",
-      "dutch": "[spirea](https://pollen.tstebler.ch/MediaWiki/index.php?title=Spirea_sp.)",
+      "latin": "[Filipendula ulmaria](https://www.paldat.org/pub/Filipendula_ulmaria)",
+      "dutch": "[moerasspirea](https://pollen.tstebler.ch/MediaWiki/index.php?title=Filipendula_ulmaria)",
       "vorm": "onregelm.",
       "grootte": "12-16",
       "oppervlak": "glad",
       "opmerkingen": "3-col(po)raat, soms vouwen",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
+          "imageWidthPx": 35  
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
+          "imageWidthPx": 35
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Filipendula_ulmaria_Pd.png",
+          "imageWidthPx": 35
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Filipendula_ulmaria_Po.png",
+          "imageWidthPx": 35
         }
       ]
     },
@@ -188,20 +188,20 @@
       "opmerkingen": "3-colporaat; relatief grote porieën, geen vouwen",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Spirea_japonica_Ed.png",
+          "imageWidthPx": 33
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Spirea_japonica_Eo.png",
+          "imageWidthPx": 33
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Spirea_japonica_Pd.png",
+          "imageWidthPx": 33
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Spirea_japonica_Po.png",
+          "imageWidthPx": 33
         }
       ]
     },
@@ -216,46 +216,46 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 1
         },
         {
           "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 1
         },
         {
           "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 1
         },
         {
           "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 1
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Philadelphus](https://www.paldat.org/pub/Philadelphus_virginianus)",
-      "dutch": "[boerenjasmijn](https://pollen.tstebler.ch/MediaWiki/index.php?title=Philadelphus_virginianus)",
+      "latin": "[Philadelphus coronarius](https://www.paldat.org/pub/Philadelphus_coronarius)",
+      "dutch": "[boerenjasmijn](https://pollen.tstebler.ch/MediaWiki/index.php?title=Philadelphus_coronarius)",
       "vorm": "О ⁄ ∆",
       "grootte": "14-16",
       "oppervlak": "zeer fijn reticulaat",
       "opmerkingen": "3-colporaat, lange colpi met spits coronarium einde, bijna syncolpoaat, porie □, dubbele rand",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Philadelphus_coronarius_Ed.png",
+          "imageWidthPx": 38  
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Philadelphus_coronarius_Eo.png",
+          "imageWidthPx": 38
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Philadelphus_coronarius_Pd.png",
+          "imageWidthPx": 38
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageWidthPx": 72
+          "image": "assets/images/pollenwiki/Philadelphus_coronarius_Po.png",
+          "imageWidthPx": 38
         }
       ]
     },
@@ -324,19 +324,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 43
         }
       ]
     },
@@ -432,19 +432,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Eo.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Eo2.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Pd.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 33
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Po.png",
-          "imageWidthPx": 72
+          "imageWidthPx": 33
         }
       ]
     },
@@ -702,19 +702,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png",
-          "imageWidthPx": 25
+          "imageWidthPx": 55
         },
         {
           "image": "assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png",
-          "imageWidthPx": 19
+          "imageWidthPx": 55
         },
         {
           "image": "assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png",
-          "imageWidthPx": 19
+          "imageWidthPx": 55
         },
         {
           "image": "assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png",
-          "imageWidthPx": 19
+          "imageWidthPx": 55
         }
       ]
     },

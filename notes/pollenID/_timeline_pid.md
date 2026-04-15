@@ -6,14 +6,24 @@
 
 ---
 
-to do
-- make prio list of nl honing pollen
-- review beug keys
-- continue images to pollentabel vanm der ham and add pollen description of pollen that are not included
-- monoflorale honing: make categories (dutch oververtegenwoordigde pollen, dutch ondervertegenwoordigde pollen)
-- composietentype documentation
-
-
+# Working on
+- add images to kerkvliet-determinatietabel
+- add pollen in nederlandse honing
+- make names and sizes uniform
+- translate beug completely (and make it readable with single lines)
+# Done
+2026-04-14
+- add diverse to kerkvliet determinatietabel
+- fixed image size of pollen in calluna vulgaris pollenpage
+- update pollen-page skill
+- add myosotis pollen-page as test
+2026-04-13
+- add placeholder images to keys
+- add [[pid palynoquest]]
+- add images
+- [[pid synonym audit]]
+- add `willekeurig`
+- make layout pollen-page (see calluna) and skill `pollen-page`
 2026-04-09
 - add images to eide and reitsma
 2026-03-03
