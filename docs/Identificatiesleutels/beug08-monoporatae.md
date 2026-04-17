@@ -1,6 +1,4 @@
-# Monoporatae (Beug §8) — determinatietabel
-
-Sleutel voor **monoporate pollenkorrels** (met één porie), §8 in Beug. PK = pollenkorrel.
+# Monoporatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug08-monoporatae.json"></div>
 

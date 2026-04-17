@@ -1,6 +1,4 @@
-# 30.1 *Colchicum*-Gruppe (Beug) — determinatietabel
-
-Sleutel voor **30.1 *Colchicum*-Gruppe**, §30.1 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 30.1 Colchicum-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug30-diporatae-colchicum.json"></div>
 

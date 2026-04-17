@@ -185,19 +185,8 @@
         {
           "label": "colpen transversales 10 µm lang en zeer smal; aan weerszijden en im Abstand von etwa 5 µm befinden sich parallel zu den colpen smalle Pseudocolpi (Tafel 21: 16-20)",
           "id": {
-            "name": "14.4 Verbena officinalis (S. 162)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "verbena_officinalis",
+            "note": "14.4 Verbena officinalis (S. 162)"
           }
         },
         {
@@ -721,19 +710,8 @@
         {
           "label": "PK met deutlichen, bis 3 µm hohen costae (Tafel 28: 18-22)",
           "id": {
-            "name": "14.14 Centaurea cyanus (S. 190)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "centaurea_cyanus",
+            "note": "14.14 Centaurea cyanus (S. 190)"
           }
         },
         {
@@ -1325,19 +1303,8 @@
         {
           "label": "PK bis 15 µm groot (Tafel 30: 16-20)",
           "id": {
-            "name": "14.22 Solanum dulcamara (S. 194)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "solanum_dulcamara",
+            "note": "14.22 Solanum dulcamara (S. 194)"
           }
         },
         {
@@ -1729,19 +1696,8 @@
         {
           "label": "PK microverrucat, über 50 µm groot (Tafel 31: 9-13)",
           "id": {
-            "name": "Cornus sanguinea (S. 203)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cornus_sanguinea",
+            "note": "Cornus sanguinea (S. 203)"
           }
         },
         {

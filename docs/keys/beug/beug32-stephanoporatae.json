@@ -254,9 +254,8 @@
         {
           "label": "PK 37-48 µm groot, met 3-5(6) Poriën, Exine psilaat, Poolvelden zonder lacunae-artige indrukken (Tafel 104: 5-7).",
           "id": {
-            "name": "32.6 Carpinus betulus (Blz. 448)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "carpinus_betulus",
+            "note": "32.6 Carpinus betulus (Blz. 448)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

@@ -16,9 +16,8 @@
         {
           "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
           "id": {
-            "name": "9.4.1 Liriodendron tulipifera",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "liriodendron_tulipifera",
+            "note": "9.4.1 Liriodendron tulipifera",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

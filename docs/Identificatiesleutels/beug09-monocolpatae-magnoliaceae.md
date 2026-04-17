@@ -1,6 +1,4 @@
-# 9.4 Magnoliaceae (Beug) — determinatietabel
-
-Onderdeel van de monocolpate sleutel (§9 in Beug). PK = pollenkorrel.
+# 9.4 Magnoliaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug09-monocolpatae-magnoliaceae.json"></div>
 

@@ -1,4 +1,4 @@
-# 8.2 Poaceae (Beug) — determinatietabel
+# 8.2 Poaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug08-monoporatae-poaceae.json"></div>
 

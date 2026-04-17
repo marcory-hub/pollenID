@@ -1,4 +1,4 @@
-# Tetradeae — Drosera (Beug)
+# Tetradeae - Drosera (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug04-tetradeae-drosera.json"></div>
 

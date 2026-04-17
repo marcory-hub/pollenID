@@ -1,4 +1,4 @@
-# 13.11 *Alchemilla*-groep (Beug) — determinatietabel
+# 13.11 *Alchemilla*-groep (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug13-tricolpatae-ps-alechemellia-groep.json"></div>
 

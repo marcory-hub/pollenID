@@ -308,9 +308,8 @@
         {
           "label": "C.I. > 4, met costae colpi",
           "id": {
-            "name": "Rosa canina type (Rosa canina - hondsroos)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "rosa_canina",
+            "note": "Rosa canina type (Rosa canina - hondsroos)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Rosa_canina_Ed.png",
@@ -476,9 +475,8 @@
         {
           "label": "Structurele elementen groot (echinae, gemmae of verrucae); endoporus",
           "id": {
-            "name": "Rubus chamaemorus type (Rubus chamaemorus - kruipbraam)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "rubus_chamaemorus",
+            "note": "Rubus chamaemorus type (Rubus chamaemorus - kruipbraam)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -572,9 +570,8 @@
         {
           "label": "Operculum steekt uit het fastigium",
           "id": {
-            "name": "Comarum palustre subtype (Comarum palustre - wateraardbei)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "comarum_palustre",
+            "note": "Comarum palustre subtype (Comarum palustre - wateraardbei)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -590,9 +587,8 @@
         {
           "label": "Operculum steekt niet uit het fastigium",
           "id": {
-            "name": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "potentilla_anserina",
+            "note": "Potentilla anserina subtype (Potentilla anserina - zilverschoon)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Potentilla_anserina_Ed.png",
@@ -656,9 +652,8 @@
         {
           "label": "Polair: interhexagonaal",
           "id": {
-            "name": "Fragaria vesca (bosaardbei)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "fragaria_vesca",
+            "note": "Fragaria vesca (bosaardbei)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -740,9 +735,8 @@
         {
           "label": "Met costae endocolpi",
           "id": {
-            "name": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "rosa_rubiginosa",
+            "note": "Rosa rubiginosa subtype (Rosa rubiginosa - egelantier)",
             "images": [
               {
                 "image": "../../assets/images/paldat/Rosa_rubiginosa_Ed.png",
@@ -766,19 +760,8 @@
         {
           "label": "Zonder costae endocolpi",
           "id": {
-            "name": "Rubus idaeus subtype (Rubus idaeus - framboos)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "rubus_idaeus",
+            "note": "Rubus idaeus subtype (Rubus idaeus - framboos)"
           }
         }
       ]
@@ -870,9 +853,7 @@
         {
           "label": "Langste as 22-28 µm; exinedikte 3-3.5 µm",
           "id": {
-            "name": "Geum urbanum (geel nagelkruid)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "geum_urbanum",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_urbanum_Ed.png",
@@ -896,9 +877,8 @@
         {
           "label": "Langste as 28-33 µm; exinedikte 2.2-2.8 µm",
           "id": {
-            "name": "Geum rivale (knikkend nagelkruid)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "geum_rivale",
+            "note": "Geum rivale (knikkend nagelkruid)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Geum_rivale_Ed.png",
@@ -970,9 +950,8 @@
         {
           "label": "Maximale breedte colpus < maximale breedte intercolpium (equatoriaal); pollenkorrel oblaat-sferoïdaal",
           "id": {
-            "name": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "sanguisorba_minor",
+            "note": "Sanguisorba minor subtype (Sanguisorba minor - kleine pimpernel)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
@@ -996,9 +975,8 @@
         {
           "label": "Maximale breedte colpus > maximale breedte intercolpium (equatoriaal); pollenkorrel prolaat-sferoïdaal",
           "id": {
-            "name": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "sanguisorba_officinalis",
+            "note": "Sanguisorba officinalis subtype (Sanguisorba officinalis - grote pimpernel)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
@@ -1028,9 +1006,7 @@
         {
           "label": "Langste as 35-50 µm; exinedikte 2.8 µm",
           "id": {
-            "name": "Agrimonia eupatoria (gewone agrimonie)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "agrimonia_eupatoria",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
@@ -1054,9 +1030,7 @@
         {
           "label": "Langste as 50-60 µm; exinedikte 3.5 µm",
           "id": {
-            "name": "Agrimonia odorata (welriekende agrimonie)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "agrimonia_odorata",
             "images": [
               {
                 "image": "../../assets/images/paldat/Agrimonia_odorata_Ed.png",

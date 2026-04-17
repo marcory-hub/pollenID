@@ -1,6 +1,4 @@
-# 28 Heterocolpatae (Beug) — determinatietabel
-
-Sleutel voor **28 Heterocolpatae**, §28 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 28 Heterocolpatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug28-heterocolpatae.json"></div>
 

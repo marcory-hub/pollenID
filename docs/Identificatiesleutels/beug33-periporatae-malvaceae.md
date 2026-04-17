@@ -1,6 +1,4 @@
-# 33.6 *Malvaceae* (Beug) — determinatietabel
-
-Sleutel voor **33.6 *Malvaceae***, §33.6 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 33.6 Malvaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-malvaceae.json"></div>
 

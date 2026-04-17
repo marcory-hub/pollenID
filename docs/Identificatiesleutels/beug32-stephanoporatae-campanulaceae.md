@@ -1,6 +1,4 @@
-# 32.11 *Campanulaceae* (Beug) — determinatietabel
-
-Sleutel voor **32.11 *Campanulaceae***, §32.11 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 32.11 Campanulacea (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug32-stephanoporatae-campanulaceae.json"></div>
 

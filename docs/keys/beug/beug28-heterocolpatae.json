@@ -182,19 +182,8 @@
         {
           "label": "PK 21-28 µm groot, pollenvormindex 0,78-0,87 (Tafel 21: 16-20).",
           "id": {
-            "name": "Verbena officinalis (Blz. 163)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "verbena_officinalis",
+            "note": "Verbena officinalis (Blz. 163)"
           }
         }
       ]

@@ -1,6 +1,4 @@
-# 17.4 Dipsacaceae p.p. (Beug) — determinatietabel
-
-Sleutel voor **Dipsacaceae** pollenkorrels, §17.4 in Beug. PK = pollenkorrel.
+# 17.4 Dipsacaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug17-ttt-ech-dipsacaceae.json"></div>
 

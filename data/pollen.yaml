@@ -219,6 +219,19 @@ aesculus_hippocastanum:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Aesculus_hippocastanum_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Aesculus_hippocastanum_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Aesculus_hippocastanum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Aesculus_hippocastanum_Po2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -265,6 +278,19 @@ agrimonia_eupatoria:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Agrimonia_eupatoria_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_eupatoria_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_eupatoria_Po.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_eupatoria_Po2.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 92
   bloeitijd:
@@ -288,6 +314,19 @@ agrimonia_odorata:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Agrimonia_odorata_Ed.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_odorata_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_odorata_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Agrimonia_odorata_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 250
   bloeitijd:
@@ -449,6 +488,19 @@ allium_ursinum:
   pe_ratio: null
   aperture: 1-colpaat
   ornamentation: glad/ zw. rugulaat
+  images:
+  - path: assets/images/pollenwiki/Allium_ursinum_o1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Allium_ursinum_o2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Allium_ursinum_o3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Allium_ursinum_o4.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 88
   bloeitijd:
@@ -518,6 +570,10 @@ amaranthus_caudatus:
   pe_ratio: null
   aperture: Meestal meer dan 50 pori, tectum zonder perforaties
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Amaranthus_caudatus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -725,6 +781,19 @@ anthriscus_sylvestris:
   pe_ratio: null
   aperture: colpusranden vormen geen uitstekende kapjes over de pori
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Anthriscus_sylvestris_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Anthriscus_sylvestris_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Anthriscus_sylvestris_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Anthriscus_sylvestris_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -1122,6 +1191,13 @@ brassica_napus_koolzaad:
   pe_ratio: PoFormI ca. 1.01; 0.96-1.12
   aperture: tricolpaat
   ornamentation: apertuurmembranen bevatten deels gering korrelig ornamentering
+  images:
+  - path: assets/images/pollenwiki/Brassica_napus_Ed_26.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Brassica_napus_Eo_26.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 70
   bloeitijd:
@@ -1133,29 +1209,6 @@ brassica_napus_koolzaad:
   sources:
   - source: monoflorale_md
     path: pollenID/docs/monoflorale-honing-pollen/koolzaadhoning.md
-bronscan_eindigt:
-  latin: Bronscan eindigt
-  dutch: null
-  family: null
-  size:
-    smallest_size: null
-    largest_size: null
-  shape: null
-  polarity: null
-  pe_ratio: null
-  aperture: porus onduidelijk, zonder verdikte rand, aan de stompe zijde van een peervormige korrel
-  ornamentation: null
-  image:
-    height_px: null
-  bloeitijd:
-    start: null
-    end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  sources:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
 bryonia_dioica:
   latin: Bryonia dioica
   dutch: Bryonia dioica
@@ -1168,6 +1221,16 @@ bryonia_dioica:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Bryonia_dioica_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Bryonia_dioica_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Bryonia_dioica_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -1191,6 +1254,19 @@ buddleja_davidii:
   pe_ratio: null
   aperture: 4-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Buddleja_davidii_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Buddleja_davidii_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Buddleja_davidii_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Buddleja_davidii_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 38
   bloeitijd:
@@ -1260,6 +1336,13 @@ calluna_vulgaris:
   pe_ratio: null
   aperture: null
   ornamentation: verrucaat
+  images:
+  - path: assets/images/pollenwiki/Calluna-vulgaris-2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Calluna-vulgaris-3.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 98
   bloeitijd:
@@ -1559,6 +1642,16 @@ carum_carvi:
   pe_ratio: null
   aperture: colpusranden vormen iets uitstekende kapjes over de pori
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Carum_carvi_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Carum_carvi_Ed2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Carum_carvi_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -1582,6 +1675,52 @@ castanea_sativa:
   pe_ratio: ca. 1.24
   aperture: 3-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/persano_oddo/Castanea_sativa_Ed.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Castanea_sativa_Ed2.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Castanea_sativa_Eo.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Castanea_sativa_Eo2.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Castanea_sativa_Eo3.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Castanea_sativa_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Ed2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Eo3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Pd2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Po.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Po2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Castanea_sativa_Po3.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 35
   bloeitijd:
@@ -1632,6 +1771,19 @@ centaurea_cyanus:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Centaurea_cyanus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Centaurea_cyanus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Centaurea_cyanus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Centaurea_cyanus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -1678,6 +1830,13 @@ centaurea_montan:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: verrucaat
+  images:
+  - path: assets/images/paldat/Erica_tetralix_1.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Erica_tetralix_2.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 118
   bloeitijd:
@@ -1839,6 +1998,19 @@ chelidonium_majus:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Chelidonium_majus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Chelidonium_majus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Chelidonium_majus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Chelidonium_majus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -1885,6 +2057,19 @@ cichorium_intybus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: echinaat T
+  images:
+  - path: assets/images/pollenwiki/Cichorium_intybus_d.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cichorium_intybus_o1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cichorium_intybus_o2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cichorium_intybus_o3.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 95
   bloeitijd:
@@ -1908,6 +2093,19 @@ cirsium_arvense:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: echinaat S
+  images:
+  - path: assets/images/pollenwiki/Cirsium_arvense_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cirsium_arvense_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cirsium_arvense_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cirsium_arvense_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 122
   bloeitijd:
@@ -2232,6 +2430,22 @@ cornus_mas:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: scabraat
+  images:
+  - path: assets/images/pollenwiki/Cornus_mas_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_mas_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_mas_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_mas_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_mas_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -2261,6 +2475,16 @@ cornus_sanguinea:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: scabraat/reticulaat
+  images:
+  - path: assets/images/pollenwiki/Cornus_sanguinea_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_sanguinea_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cornus_sanguinea_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 125
   bloeitijd:
@@ -2353,6 +2577,19 @@ cotoneaster_intergerrimus:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Cotoneaster_intergerrimus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cotoneaster_intergerrimus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cotoneaster_intergerrimus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cotoneaster_intergerrimus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 88
   bloeitijd:
@@ -2491,6 +2728,13 @@ crocus_albiflorus:
   pe_ratio: null
   aperture: null
   ornamentation: echinaat+scabraat
+  images:
+  - path: assets/images/pollenwiki/Crocus_albiflorus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Crocus_albiflorus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 312
   bloeitijd:
@@ -2514,6 +2758,13 @@ crocus_ancyrensis:
   pe_ratio: null
   aperture: null
   ornamentation: verrucaat/echinaat
+  images:
+  - path: assets/images/pollenwiki/Crocus_ancyrensis_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Crocus_ancyrensis_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 275
   bloeitijd:
@@ -2606,6 +2857,19 @@ cynoglossum_creticum:
   pe_ratio: null
   aperture: null
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Cynoglossum_creticum_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_creticum_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_creticum_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_creticum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 28
   bloeitijd:
@@ -2629,6 +2893,19 @@ cynoglossum_officinale:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Cynoglossum_officinale_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_officinale_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_officinale_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cynoglossum_officinale_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -2654,6 +2931,19 @@ cytisus_scoparius:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: wsl glad of scabr
+  images:
+  - path: assets/images/pollenwiki/Cytisus_scoparius_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cytisus_scoparius_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cytisus_scoparius_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Cytisus_scoparius_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 75
   bloeitijd:
@@ -2863,6 +3153,19 @@ dryas_octopetala:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Dryas_octopetala_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Dryas_octopetala_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Dryas_octopetala_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Dryas_octopetala_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -2955,6 +3258,22 @@ echium_vulgare:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/echium_vulgare_E_size17um.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Echium_vulgare_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Echium_vulgare_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Echium_vulgare_Pd2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Echium_vulgare_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -3001,6 +3320,13 @@ erica_arborea:
   pe_ratio: null
   aperture: null
   ornamentation: verrucaat
+  images:
+  - path: assets/images/paldat/Erica_tetralix_1.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Erica_tetralix_2.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 75
   bloeitijd:
@@ -3024,6 +3350,13 @@ erica_tetralix:
   pe_ratio: null
   aperture: null
   ornamentation: verrucaat
+  images:
+  - path: assets/images/paldat/Erica_tetralix_1.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Erica_tetralix_2.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 100
   bloeitijd:
@@ -3047,6 +3380,22 @@ erigeron_canaden:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: echinaat H
+  images:
+  - path: assets/images/persano_oddo/Helianthus_annuus_Pd.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Helianthus_annuus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 50
   bloeitijd:
@@ -3277,6 +3626,37 @@ fagopyrum_esculentum:
   pe_ratio: '1.1'
   aperture: tricolporaat (poren vaak niet te zien)
   ornamentation: reticulaat, aperturen met korrelige ornamentering
+  images:
+  - path: assets/images/beug/Fagopyrum_esculentum_Ed.png
+    kind: beug
+    source: beug
+  - path: assets/images/beug/Fagopyrum_esculentum_Ed2.png
+    kind: beug
+    source: beug
+  - path: assets/images/beug/Fagopyrum_esculentum_Eo.png
+    kind: beug
+    source: beug
+  - path: assets/images/beug/Fagopyrum_esculentum_Eo2.png
+    kind: beug
+    source: beug
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fagopyrum_esculentum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -3394,6 +3774,31 @@ filipendula_ulmaria:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Filipendula_ulmaria_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 40
   bloeitijd:
@@ -3421,6 +3826,19 @@ filipendula_vulgaris:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Filipendula_vulgaris_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Filipendula_vulgaris_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Filipendula_vulgaris_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Filipendula_vulgaris_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: null
   bloeitijd:
@@ -3494,6 +3912,19 @@ fragaria_viridis:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Fragaria_viridis_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fragaria_viridis_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fragaria_viridis_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Fragaria_viridis_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 50
   bloeitijd:
@@ -3657,6 +4088,19 @@ geum_rivale:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Geum_rivale_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_rivale_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_rivale_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_rivale_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 65
   bloeitijd:
@@ -3680,6 +4124,19 @@ geum_urbanum:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Geum_urbanum_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_urbanum_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_urbanum_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Geum_urbanum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 64
   bloeitijd:
@@ -3772,6 +4229,22 @@ helenium_autumn:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: echinaat H
+  images:
+  - path: assets/images/persano_oddo/Helianthus_annuus_Pd.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Helianthus_annuus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -3795,6 +4268,22 @@ helianthus_annuus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: echinaat H
+  images:
+  - path: assets/images/persano_oddo/Helianthus_annuus_Pd.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Helianthus_annuus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Helianthus_annuus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 88
   bloeitijd:
@@ -4004,6 +4493,19 @@ juglans_regia:
   pe_ratio: null
   aperture: Pori vooral op één helft van de pollenkorrel
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Juglans_regia_EM.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/pollenwiki/Juglans_regia_d.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Juglans_regia_d2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Juglans_regia_o.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -4188,6 +4690,19 @@ lavandula_angisti:
   pe_ratio: null
   aperture: 6-colpaat
   ornamentation: reticulaat
+  images:
+  - path: assets/images/pollenwiki/Limonium_vulgare_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Pd2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 95
   bloeitijd:
@@ -4326,6 +4841,19 @@ limonium_vulgare:
   pe_ratio: null
   aperture: 3-colpaat
   ornamentation: reticulaat
+  images:
+  - path: assets/images/pollenwiki/Limonium_vulgare_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Pd2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Limonium_vulgare_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 138
   bloeitijd:
@@ -4533,6 +5061,19 @@ lotus_corniculatus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Lotus_corniculatus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Lotus_corniculatus_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Lotus_corniculatus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Lotus_corniculatus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 45
   bloeitijd:
@@ -4677,6 +5218,19 @@ malus_sylvestris:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Malus_sylvestris_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Malus_sylvestris_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Malus_sylvestris_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Malus_sylvestris_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 78
   bloeitijd:
@@ -4815,6 +5369,19 @@ melilotus_hypericum_perfor:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -4956,6 +5523,19 @@ myosotis_scorpioides:
   pe_ratio: null
   aperture: 6-colpaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Myosotis_scorpioides_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 18
   bloeitijd:
@@ -5416,6 +5996,19 @@ phacelia_tanacetifolia:
   pe_ratio: ca. 0.81
   aperture: stephanocolpaat, afwisselend breed en smal
   ornamentation: scabraat tot psylaat, aperturen met geringe korrelige ornamentatie
+  images:
+  - path: assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 50
   bloeitijd:
@@ -5464,6 +6057,19 @@ philadelphus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: zeer fijn reticulaat
+  images:
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 40
   bloeitijd:
@@ -5487,6 +6093,19 @@ philadelphus_coronarius:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: zeer fijn reticulaat
+  images:
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Philadelphus_coronarius_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 40
   bloeitijd:
@@ -5786,6 +6405,19 @@ potentilla_anserina:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: striaat
+  images:
+  - path: assets/images/pollenwiki/Potentilla_anserina_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Potentilla_anserina_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Potentilla_anserina_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Potentilla_anserina_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -5857,6 +6489,19 @@ prunus_avium:
   pe_ratio: null
   aperture: null
   ornamentation: striaat
+  images:
+  - path: assets/images/pollenwiki/Prunus_avium_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_avium_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_avium_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_avium_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 92
   bloeitijd:
@@ -5905,6 +6550,19 @@ prunus_padus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: glad/zw.striaat
+  images:
+  - path: assets/images/pollenwiki/Prunus_padus_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_padus_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_padus_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_padus_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -5953,6 +6611,19 @@ prunus_spinosa:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Prunus_spinosa_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_spinosa_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_spinosa_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Prunus_spinosa_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 106
   bloeitijd:
@@ -6141,6 +6812,10 @@ rhododendron_spp_ericaceae:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Ribes_rubrum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 82
   bloeitijd:
@@ -6187,6 +6862,10 @@ ribes_rubrum:
   pe_ratio: null
   aperture: Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Ribes_rubrum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -6279,6 +6958,25 @@ robinia_pseudoacacia:
   pe_ratio: '0.89'
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation: scabraat, aperturen zonder ornamentatie
+  images:
+  - path: assets/images/persano_oddo/Robinia_pseudoacacia_Pd.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Robinia_pseudoacacia_Po.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Robinia_pseudoacacia_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Robinia_pseudoacacia_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Robinia_pseudoacacia_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Robinia_pseudoacacia_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 75
   bloeitijd:
@@ -6304,6 +7002,19 @@ rosa_canina:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Rosa_canina_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Rosa_canina_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Rosa_canina_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Rosa_canina_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 91
   bloeitijd:
@@ -6329,6 +7040,19 @@ rosa_pimpinellifolia:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Rosa_pimpinellifolia_Ed.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_pimpinellifolia_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_pimpinellifolia_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_pimpinellifolia_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 88
   bloeitijd:
@@ -6354,6 +7078,19 @@ rosa_rubiginosa:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Rosa_rubiginosa_Ed.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_rubiginosa_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_rubiginosa_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rosa_rubiginosa_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 75
   bloeitijd:
@@ -6379,6 +7116,19 @@ rosasea:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Rubus_saxatilis_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: null
   bloeitijd:
@@ -6402,6 +7152,19 @@ rosmarinus_officinalis_laminaceae:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Rubus_saxatilis_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 100
   bloeitijd:
@@ -6519,6 +7282,19 @@ rubus_idaeus:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: striaat
+  images:
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -6542,6 +7318,19 @@ rubus_saxatilis:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/paldat/Rubus_saxatilis_Eo.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Eo2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Pd.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/paldat/Rubus_saxatilis_Po.png
+    kind: paldat
+    source: paldat
   image:
     height_px: 75
   bloeitijd:
@@ -6709,6 +7498,19 @@ sanguisorba_minor:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: striaat
+  images:
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Eo3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_minor_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 80
   bloeitijd:
@@ -6737,6 +7539,19 @@ sanguisorba_officinalis:
   aperture: null
   ornamentation: Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste
     as 29.8 µm
+  images:
+  - path: assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_officinalis_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sanguisorba_officinalis_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 80
   bloeitijd:
@@ -6992,6 +7807,19 @@ sibbaldia_procumbens:
   pe_ratio: null
   aperture: Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Sibbaldia_procumbens_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sibbaldia_procumbens_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sibbaldia_procumbens_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sibbaldia_procumbens_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 62
   bloeitijd:
@@ -7017,6 +7845,10 @@ silene_cucubalis:
   pe_ratio: null
   aperture: Minder dan 50 pori, tectum met perforaties
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Silene_cucubalis_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -7063,6 +7895,19 @@ solanum_dulcamara:
   pe_ratio: null
   aperture: null
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Solanum_dulcamara_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Solanum_dulcamara_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Solanum_dulcamara_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Solanum_dulcamara_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 30
   bloeitijd:
@@ -7228,6 +8073,19 @@ sorbus_arranensis:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -7251,6 +8109,19 @@ sorbus_aucuparia:
   pe_ratio: null
   aperture: null
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Sorbus_aucuparia_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -7297,6 +8168,13 @@ spirea_x_vanhouttei:
   pe_ratio: null
   aperture: null
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 42
   bloeitijd:
@@ -7412,6 +8290,19 @@ sulla_coronaria:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: reticulaat
+  images:
+  - path: assets/images/pollenwiki/Vicia_faba_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 60
   bloeitijd:
@@ -7550,6 +8441,25 @@ taraxacum_officinale:
   pe_ratio: '0.89'
   aperture: tricolpaat, 3-4 slecht zichtbare aperturen
   ornamentation: fenestraat, echinaat
+  images:
+  - path: assets/images/persano_oddo/Taraxacum_officinale_Pd.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/persano_oddo/Taraxacum_officinale_Po.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/pollenwiki/Taraxacum_officinale_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Taraxacum_officinale_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Taraxacum_officinale_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Taraxacum_officinale_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 70
   bloeitijd:
@@ -7573,6 +8483,16 @@ taxus_baccata:
   pe_ratio: null
   aperture: null
   ornamentation: scabraat
+  images:
+  - path: assets/images/pollenwiki/Taxus_baccata_o.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Taxus_baccata_o2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Taxus_baccata_o3.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 72
   bloeitijd:
@@ -7621,6 +8541,10 @@ thalictrum_flavum:
   pe_ratio: null
   aperture: Vier tot twaalf pori, pori zonder massieve rand
   ornamentation: null
+  images:
+  - path: assets/images/pollenwiki/Thalictrum_flavum_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: null
   bloeitijd:
@@ -7782,6 +8706,16 @@ trifolium_pratense:
   pe_ratio: ca. 1.07
   aperture: tricolporaat
   ornamentation: grof reticulair
+  images:
+  - path: assets/images/paldat/Trifolium_pratense_Po2.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/pollenwiki/Trifolium_pratense_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Trifolium_pratense_Po.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 104
   bloeitijd:
@@ -7897,6 +8831,13 @@ urtica:
   pe_ratio: null
   aperture: 3-poraat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 40
   bloeitijd:
@@ -7966,6 +8907,13 @@ vaccinium_vitis_idaea:
   pe_ratio: null
   aperture: null
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 88
   bloeitijd:
@@ -8035,6 +8983,19 @@ verbascum_nigrum:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: reticulaat
+  images:
+  - path: assets/images/pollenwiki/Vicia_faba_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 58
   bloeitijd:
@@ -8060,6 +9021,19 @@ verbena_officinalis:
   pe_ratio: null
   aperture: 3-colpaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Viola_tricolor_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Po.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Po2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 68
   bloeitijd:
@@ -8177,6 +9151,19 @@ vicia_faba:
   pe_ratio: null
   aperture: 3-colporaat
   ornamentation: reticulaat
+  images:
+  - path: assets/images/pollenwiki/Vicia_faba_Ed.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Eo2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Vicia_faba_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 118
   bloeitijd:
@@ -8246,6 +9233,19 @@ viola_tricolor:
   pe_ratio: null
   aperture: 5-colporaat
   ornamentation: glad
+  images:
+  - path: assets/images/pollenwiki/Viola_tricolor_Eo.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Pd.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Po.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/pollenwiki/Viola_tricolor_Po2.png
+    kind: pollenwiki
+    source: pollenwiki
   image:
     height_px: 175
   bloeitijd:

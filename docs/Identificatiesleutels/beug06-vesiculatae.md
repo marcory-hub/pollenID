@@ -1,6 +1,6 @@
-# Vesiculatae (Beug §6) — determinatietabel
+# 6. Vesiculatae (Beug)
 
-Sleutel voor **vesiculate pollenkorrels** (met luchtzakken), §6 in Beug.
+Sleutel voor pollenkorrel met luchtzakken
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug06-vesiculatae.json"></div>
 

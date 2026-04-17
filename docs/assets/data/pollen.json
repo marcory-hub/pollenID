@@ -1,0 +1,4396 @@
+{
+  "abelmoschus_esculentus": {
+    "latin": "Abelmoschus esculentus",
+    "dutch": "okra",
+    "size": {
+      "smallest_size": "175 µm",
+      "largest_size": "175 µm"
+    }
+  },
+  "acer_campestre": {
+    "latin": "Acer campestre",
+    "dutch": "Spaanse aak",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "35 µm"
+    }
+  },
+  "acer_japonicum": {
+    "latin": "Acer japonicum",
+    "dutch": "Japanse esdoorn",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "29 µm"
+    }
+  },
+  "acer_negundo": {
+    "latin": "Acer negundo",
+    "dutch": "verderesdoorn",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "acer_palmatum": {
+    "latin": "Acer palmatum",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "32 µm"
+    }
+  },
+  "acer_platano_des": {
+    "latin": "Acer platanoïdes",
+    "dutch": "Noorse esdoorn",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "34 µm"
+    }
+  },
+  "acer_pseudoplat": {
+    "latin": "Acer pseudoplat.",
+    "dutch": "Esdoorn",
+    "size": {
+      "smallest_size": "35 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "achillea_millefolium": {
+    "latin": "Achillea millefolium",
+    "dutch": "duizendblad",
+    "size": {
+      "smallest_size": "29 µm",
+      "largest_size": "29 µm"
+    }
+  },
+  "aesculus_carnea": {
+    "latin": "Aesculus carnea",
+    "dutch": "rode paardekast",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "aesculus_hippocastanum": {
+    "latin": "Aesculus hippocastanum",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Aesculus_hippocastanum_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Aesculus_hippocastanum_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Aesculus_hippocastanum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Aesculus_hippocastanum_Po2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "afrika_kolkwitzia_amabilis": {
+    "latin": "Afrika Kolkwitzia amabilis",
+    "dutch": "kolkwitzia",
+    "size": {
+      "smallest_size": "56 µm",
+      "largest_size": "56 µm"
+    }
+  },
+  "agrimonia_eupatoria": {
+    "latin": "Agrimonia eupatoria",
+    "dutch": "gewone agrimonie",
+    "size": {
+      "smallest_size": "30.2 µm",
+      "largest_size": "37 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Agrimonia_eupatoria_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_eupatoria_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_eupatoria_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_eupatoria_Po2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "agrimonia_odorata": {
+    "latin": "Agrimonia odorata",
+    "dutch": "welriekende agrimonie",
+    "size": {
+      "smallest_size": "51 µm",
+      "largest_size": "100 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Agrimonia_odorata_Ed.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_odorata_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_odorata_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Agrimonia_odorata_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "ailanthus_altissima": {
+    "latin": "Ailanthus",
+    "dutch": "hemelboom",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "ajuga_reptans": {
+    "latin": "Ajuga reptans",
+    "dutch": "zenegroen",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "alchemilla_acutiloba": {
+    "latin": "Alchemilla acutiloba",
+    "dutch": "kale vrouwenmantel"
+  },
+  "alchemilla_alpina": {
+    "latin": "Alchemilla alpina",
+    "dutch": "alpine vrouwenmantel?"
+  },
+  "allium_cepa": {
+    "latin": "Allium cepa",
+    "dutch": "ui",
+    "size": {
+      "smallest_size": "39 µm",
+      "largest_size": "39 µm"
+    }
+  },
+  "allium_schoenopr": {
+    "latin": "Allium schoenopr.",
+    "dutch": "bieslook",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "allium_ursinum": {
+    "latin": "Allium ursinum",
+    "dutch": "daslook",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "35 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Allium_ursinum_o1.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Allium_ursinum_o2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Allium_ursinum_o3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Allium_ursinum_o4.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "alnus_glutinosa": {
+    "latin": "Alnus glutinosa",
+    "dutch": "els",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "alyssum_sp": {
+    "latin": "Alyssum sp.",
+    "dutch": "schildzaad",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "amaranthus_caudatus": {
+    "latin": "Amaranthus caudatus",
+    "dutch": "kattenstaartamarant",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Amaranthus_caudatus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "ambrosia_artemis": {
+    "latin": "Ambrosia artemis",
+    "dutch": "Ambrosia",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "amorpha_fruticosa": {
+    "latin": "Amorpha fruticosa",
+    "dutch": "valse indigo",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "anacardium_occidentale": {
+    "latin": "Anacardium occidentale",
+    "dutch": "cashew",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "anchusa_arvensis": {
+    "latin": "Anchusa arvensis",
+    "dutch": "kromhals",
+    "size": {
+      "smallest_size": "48 µm",
+      "largest_size": "48 µm"
+    }
+  },
+  "anchusa_officinalis": {
+    "latin": "Anchusa officinalis",
+    "dutch": "ossetong",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "anethum_graveole": {
+    "latin": "Anethum graveole",
+    "dutch": "dille",
+    "size": {
+      "smallest_size": "13 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "anthemis_nobilis": {
+    "latin": "Anthemis nobilis",
+    "dutch": "roomse kamille",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "anthirrhinum": {
+    "latin": "Anthirrhinum",
+    "dutch": "leeuwebek",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "anthriscus_sylvestris": {
+    "latin": "Anthriscus sylvestris",
+    "dutch": "Anthriscus sylvestris",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Anthriscus_sylvestris_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Anthriscus_sylvestris_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Anthriscus_sylvestris_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Anthriscus_sylvestris_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "arcticum_majus": {
+    "latin": "Arcticum majus",
+    "dutch": "grote klit",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "arcticum_minus": {
+    "latin": "Arcticum minus",
+    "dutch": "klit",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "armeria_maritima": {
+    "latin": "Armeria maritima",
+    "dutch": "strandkruid",
+    "size": {
+      "smallest_size": "66 µm",
+      "largest_size": "66 µm"
+    }
+  },
+  "artemisia_sp": {
+    "latin": "Artemisia sp.",
+    "dutch": "bijvoet/alsem",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "aruncus": {
+    "latin": "Aruncus",
+    "dutch": "geitenbaard",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "16 µm"
+    }
+  },
+  "asparagus": {
+    "latin": "Asparagus",
+    "dutch": "asperge",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "asperula_odorata": {
+    "latin": "Asperula odorata",
+    "dutch": "lievevrouwebedstro",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "asphodelus_aestiv_alleen_em": {
+    "latin": "Asphodelus aestiv alleen EM",
+    "dutch": "gewone daffodil",
+    "size": {
+      "smallest_size": "61 µm",
+      "largest_size": "61 µm"
+    }
+  },
+  "aster_sp": {
+    "latin": "Aster sp",
+    "dutch": "aster",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "aster_tripolium": {
+    "latin": "Aster tripolium",
+    "dutch": "zeeaster",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "astragalus_sinicus": {
+    "latin": "Astragalus sinicus",
+    "dutch": "milkvetch",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "astrantia_major": {
+    "latin": "Astrantia major",
+    "dutch": "Zeeuws knoopje",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "berberis_sp": {
+    "latin": "Berberis sp",
+    "dutch": "zuurbes",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "betula": {
+    "latin": "Betula",
+    "dutch": "berk",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "bidens_sp": {
+    "latin": "Bidens sp",
+    "dutch": "tandzaad",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "borreria_sp_rubia": {
+    "latin": "Borreria sp. (Rubia)",
+    "dutch": "Borreria",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "brassica_napus_koolzaad": {
+    "latin": "Brassica napus (koolzaad",
+    "size": {
+      "smallest_size": "22.3 µm",
+      "largest_size": "28.2 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Brassica_napus_Ed_26.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Brassica_napus_Eo_26.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "bryonia_dioica": {
+    "latin": "Bryonia dioica",
+    "dutch": "Bryonia dioica",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Bryonia_dioica_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Bryonia_dioica_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Bryonia_dioica_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "buddleja_davidii": {
+    "latin": "Buddleja davidii",
+    "dutch": "vlinderstruik",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "15 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Buddleja_davidii_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Buddleja_davidii_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Buddleja_davidii_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Buddleja_davidii_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cakile_maritima": {
+    "latin": "Cakile maritima",
+    "dutch": "zeeraket",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "calendula_officin": {
+    "latin": "Calendula officin",
+    "dutch": "goudsbloem",
+    "size": {
+      "smallest_size": "34 µm",
+      "largest_size": "34 µm"
+    }
+  },
+  "calluna_vulgaris": {
+    "latin": "Calluna vulgaris",
+    "dutch": "struikheide",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "39 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Calluna-vulgaris-2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Calluna-vulgaris-3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "calluna_vulgaris_struikheide": {
+    "latin": "Calluna vulgaris (struikheide"
+  },
+  "calystegia_sepium": {
+    "latin": "Calystegia sepium",
+    "dutch": "haagwinde",
+    "size": {
+      "smallest_size": "78 µm",
+      "largest_size": "78 µm"
+    }
+  },
+  "campanula": {
+    "latin": "Campanula",
+    "dutch": "klokje",
+    "size": {
+      "smallest_size": "29 µm",
+      "largest_size": "29 µm"
+    }
+  },
+  "cannabis_sativa": {
+    "latin": "Cannabis sativa",
+    "dutch": "cannabis",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "caragana_arborescens": {
+    "latin": "Caragana arborescens",
+    "dutch": "erwtenstruik",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "cardamine_praten": {
+    "latin": "Cardamine praten",
+    "dutch": "pinksterbloem",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "carduus_nutans": {
+    "latin": "Carduus nutans",
+    "dutch": "knikkende distel",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "carlina_aucalis": {
+    "latin": "Carlina aucalis",
+    "dutch": "zilverdistel",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "carpinus_betulus": {
+    "latin": "Carpinus betulus",
+    "dutch": "haagbeuk",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "carpobrotus_edulis": {
+    "latin": "Carpobrotus edulis",
+    "dutch": "hottentotvijg",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "carthamus_lanatuswollige": {
+    "latin": "Carthamus lanatuswollige",
+    "dutch": "saffloer",
+    "size": {
+      "smallest_size": "61 µm",
+      "largest_size": "61 µm"
+    }
+  },
+  "carthamus_tinctor": {
+    "latin": "Carthamus tinctor",
+    "dutch": "saffloer",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "carum_carvi": {
+    "latin": "Carum carvi",
+    "dutch": "Carum carvi",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Carum_carvi_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Carum_carvi_Ed2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Carum_carvi_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "castanea_sativa": {
+    "latin": "Castanea sativa",
+    "dutch": "tamme kastanje",
+    "size": {
+      "smallest_size": "12 µm",
+      "largest_size": "14 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Castanea_sativa_Ed.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Castanea_sativa_Ed2.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Castanea_sativa_Eo.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Castanea_sativa_Eo2.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Castanea_sativa_Eo3.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Ed2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Eo3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Pd2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Po2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Castanea_sativa_Po3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "catalpa_ovata": {
+    "latin": "Catalpa ovata",
+    "dutch": "trompetboom",
+    "size": {
+      "smallest_size": "73 µm",
+      "largest_size": "73 µm"
+    }
+  },
+  "centaurea_cyanus": {
+    "latin": "Centaurea cyanus",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Centaurea_cyanus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Centaurea_cyanus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Centaurea_cyanus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Centaurea_cyanus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "centaurea_jacea": {
+    "latin": "Centaurea jacea",
+    "dutch": "knoopkruid",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "35 µm"
+    }
+  },
+  "centaurea_montan": {
+    "latin": "Centaurea montan",
+    "dutch": "bergcentaurie",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Erica_tetralix_1.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Erica_tetralix_2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "centranthus_ruber": {
+    "latin": "Centranthus ruber",
+    "dutch": "rode spoorbloem",
+    "size": {
+      "smallest_size": "65 µm",
+      "largest_size": "72 µm"
+    }
+  },
+  "ceratonia_silqua": {
+    "latin": "Ceratonia silqua",
+    "dutch": "Johannesbroodboom",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "cercis_siliquastrum": {
+    "latin": "Cercis siliquastrum",
+    "dutch": "Judasboom",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "chamerion_angust": {
+    "latin": "Chamerion angust",
+    "dutch": "wilgeroosje",
+    "size": {
+      "smallest_size": "62 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "chamerion_angustifolium": {
+    "latin": "Chamerion angustifolium",
+    "dutch": "teunisbloem"
+  },
+  "chelidonium_majus": {
+    "latin": "Chelidonium majus",
+    "dutch": "Chelidonium majus",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Chelidonium_majus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Chelidonium_majus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Chelidonium_majus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Chelidonium_majus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "chrysanthemum_leuc": {
+    "latin": "Chrysanthemum leuc",
+    "dutch": "margriet",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "cichorium_intybus": {
+    "latin": "Cichorium intybus",
+    "dutch": "cichorei",
+    "size": {
+      "smallest_size": "38 µm",
+      "largest_size": "38 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cichorium_intybus_d.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cichorium_intybus_o1.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cichorium_intybus_o2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cichorium_intybus_o3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cirsium_arvense": {
+    "latin": "Cirsium arvense",
+    "dutch": "akkerdistel",
+    "size": {
+      "smallest_size": "49 µm",
+      "largest_size": "49 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cirsium_arvense_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cirsium_arvense_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cirsium_arvense_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cirsium_arvense_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cirsium_vulgare": {
+    "latin": "Cirsium vulgare",
+    "dutch": "speerdistel",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "52 µm"
+    }
+  },
+  "cistus_salviifolius": {
+    "latin": "Cistus salviifolius",
+    "dutch": "Saliebladige zistroos",
+    "size": {
+      "smallest_size": "49 µm",
+      "largest_size": "49 µm"
+    }
+  },
+  "citrullus_lanatus": {
+    "latin": "Citrullus lanatus",
+    "dutch": "watermeloen",
+    "size": {
+      "smallest_size": "56 µm",
+      "largest_size": "56 µm"
+    }
+  },
+  "citrus_sinensis": {
+    "latin": "Citrus sinensis",
+    "dutch": "sinaasappel",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "citrus_spp_rutaceae": {
+    "latin": "Citrus spp, Rutaceae",
+    "size": {
+      "smallest_size": "28.8 µm",
+      "largest_size": "37.6 µm"
+    }
+  },
+  "clematis_vitalba": {
+    "latin": "Clematis vitalba",
+    "dutch": "bosrank",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "clethra_alnifolia": {
+    "latin": "Clethra alnifolia",
+    "dutch": "Clethra",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "cnicus_benedict": {
+    "latin": "Cnicus benedict",
+    "dutch": "gezeg. distel",
+    "size": {
+      "smallest_size": "49 µm",
+      "largest_size": "49 µm"
+    }
+  },
+  "coffea_sp": {
+    "latin": "Coffea sp.",
+    "dutch": "koffie",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "32 µm"
+    }
+  },
+  "colchicinum_autu": {
+    "latin": "Colchicinum autu",
+    "dutch": "herfsttijloos",
+    "size": {
+      "smallest_size": "52 µm",
+      "largest_size": "52 µm"
+    }
+  },
+  "colchicinum_autum": {
+    "latin": "Colchicinum autum",
+    "dutch": "herfsttijloos",
+    "size": {
+      "smallest_size": "58 µm",
+      "largest_size": "58 µm"
+    }
+  },
+  "comarum_palustre": {
+    "latin": "Comarum palustre",
+    "dutch": "wateraardbei"
+  },
+  "convolvulus_arve": {
+    "latin": "Convolvulus arve",
+    "dutch": "akkerwinde",
+    "size": {
+      "smallest_size": "61 µm",
+      "largest_size": "61 µm"
+    }
+  },
+  "cornus_mas": {
+    "latin": "Cornus mas",
+    "dutch": "gele kornoelje",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cornus_mas_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_mas_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_mas_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_mas_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_mas_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cornus_sanguinea": {
+    "latin": "Cornus sanguinea",
+    "dutch": "rode kornoelje",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "50 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cornus_sanguinea_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_sanguinea_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cornus_sanguinea_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "coryllus_avelana": {
+    "latin": "Coryllus avelana",
+    "dutch": "hazelaar",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "corylopsis_parcifl": {
+    "latin": "Corylopsis parcifl",
+    "dutch": "schijnhazelaar",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "32 µm"
+    }
+  },
+  "cosmos_sp": {
+    "latin": "Cosmos sp.",
+    "dutch": "Cosmea",
+    "size": {
+      "smallest_size": "36 µm",
+      "largest_size": "36 µm"
+    }
+  },
+  "cotoneaster_intergerrimus": {
+    "latin": "Cotoneaster intergerrimus",
+    "dutch": "wilde dwergmispel",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "35 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cotoneaster_intergerrimus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cotoneaster_niger": {
+    "latin": "Cotoneaster niger",
+    "dutch": "?"
+  },
+  "crataegus_monogyna": {
+    "latin": "Crataegus monogyna",
+    "dutch": "https://www.jstor.org/stable/i25027808"
+  },
+  "crataegus_oxycantha": {
+    "latin": "Crataegus oxycantha",
+    "dutch": "tweestijlige meidoorn"
+  },
+  "crataegus_sp": {
+    "latin": "Crataegus sp",
+    "dutch": "meidoorn",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "40 µm"
+    }
+  },
+  "crepis_sp": {
+    "latin": "Crepis sp.",
+    "dutch": "streepzaad",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "36 µm"
+    }
+  },
+  "crocus_albiflorus": {
+    "latin": "Crocus albiflorus",
+    "dutch": "crocus",
+    "size": {
+      "smallest_size": "125 µm",
+      "largest_size": "125 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Crocus_albiflorus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Crocus_albiflorus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "crocus_ancyrensis": {
+    "latin": "Crocus ancyrensis",
+    "dutch": "crocus",
+    "size": {
+      "smallest_size": "70 µm",
+      "largest_size": "110 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Crocus_ancyrensis_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Crocus_ancyrensis_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "crocus_sp": {
+    "latin": "Crocus sp.",
+    "dutch": "crocus",
+    "size": {
+      "smallest_size": "70 µm",
+      "largest_size": "110 µm"
+    }
+  },
+  "cucumis_satives": {
+    "latin": "Cucumis satives",
+    "dutch": "komkommer/aug",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "cucumis_sativus": {
+    "latin": "Cucumis sativus",
+    "dutch": "Cucumis sativus"
+  },
+  "cynoglossum_creticum": {
+    "latin": "Cynoglossum creticum",
+    "dutch": "hondstong",
+    "size": {
+      "smallest_size": "8 µm",
+      "largest_size": "11 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_creticum_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_creticum_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_creticum_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_creticum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cynoglossum_officinale": {
+    "latin": "Cynoglossum officinale",
+    "dutch": "Cynoglossum officinale",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_officinale_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_officinale_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_officinale_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cynoglossum_officinale_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "cytisus_scoparius": {
+    "latin": "Cytisus scoparius",
+    "dutch": "gewone brem",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Cytisus_scoparius_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cytisus_scoparius_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cytisus_scoparius_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Cytisus_scoparius_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "datura_stramonium": {
+    "latin": "Datura stramonium",
+    "dutch": "doornappel",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "daucus_carota": {
+    "latin": "Daucus carota",
+    "dutch": "wilde wortel",
+    "size": {
+      "smallest_size": "12 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "davidia_involcrata": {
+    "latin": "Davidia involcrata",
+    "dutch": "vaantjesboom",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "davidia_involucrata": {
+    "latin": "Davidia involucrata",
+    "dutch": "vaantjesboom",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "deutzia_sp": {
+    "latin": "Deutzia sp.",
+    "dutch": "Deutzia",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "digitalis_purpurea": {
+    "latin": "Digitalis purpurea",
+    "dutch": "vingerhoedskruid",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "diplotaxis_tenuifolia": {
+    "latin": "Diplotaxis tenuifolia",
+    "dutch": "rucola",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "dipsacus": {
+    "latin": "Dipsacus",
+    "dutch": "kaardebol",
+    "size": {
+      "smallest_size": "71 µm",
+      "largest_size": "90 µm"
+    }
+  },
+  "dryas_octopetala": {
+    "latin": "Dryas octopetala",
+    "dutch": "zilverkruid",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Dryas_octopetala_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Dryas_octopetala_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Dryas_octopetala_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Dryas_octopetala_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "echinops_sphaer": {
+    "latin": "Echinops sphaer",
+    "dutch": "kogeldistel",
+    "size": {
+      "smallest_size": "70 µm",
+      "largest_size": "70 µm"
+    }
+  },
+  "echinops_sphaerocephalus": {
+    "latin": "Echinops sphaerocephalus",
+    "dutch": "Echinops sphaerocephalus"
+  },
+  "echium": {
+    "latin": "Echium",
+    "dutch": "slangekruid",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "echium_vulgare": {
+    "latin": "Echium vulgare",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/echium_vulgare_E_size17um.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Echium_vulgare_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Echium_vulgare_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Echium_vulgare_Pd2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Echium_vulgare_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "eleagnus_angustif": {
+    "latin": "Eleagnus angustif",
+    "dutch": "olijfwilg",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "erica_arborea": {
+    "latin": "Erica arborea",
+    "dutch": "boomheide",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Erica_tetralix_1.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Erica_tetralix_2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "erica_tetralix": {
+    "latin": "Erica tetralix",
+    "dutch": "dopheide",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "40 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Erica_tetralix_1.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Erica_tetralix_2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "erigeron_canaden": {
+    "latin": "Erigeron canaden",
+    "dutch": "Canad. fijnstraal",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Helianthus_annuus_Pd.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "erodium_cicutarium": {
+    "latin": "Erodium cicutarium",
+    "dutch": "gew. Reigersbek",
+    "size": {
+      "smallest_size": "54 µm",
+      "largest_size": "54 µm"
+    }
+  },
+  "eruca_sativa": {
+    "latin": "Eruca sativa",
+    "dutch": "Eruca",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "escallonia_sp": {
+    "latin": "Escallonia sp",
+    "dutch": "Escallonia",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "eschscholtzia_calif": {
+    "latin": "Eschscholtzia calif",
+    "dutch": "slaapmutsje",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "eucalyptus_camal": {
+    "latin": "Eucalyptus camal",
+    "dutch": "eucalyptus",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "eucalyptus_globulus_myrtaceae": {
+    "latin": "Eucalyptus globulus - Myrtaceae",
+    "size": {
+      "smallest_size": "19.1 µm",
+      "largest_size": "25.9 µm"
+    }
+  },
+  "euodia_hupehensis": {
+    "latin": "Euodia hupehensis",
+    "dutch": "honingboom",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "eupatorium_cann": {
+    "latin": "Eupatorium cann",
+    "dutch": "leverkruid",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "euphorbia_spp": {
+    "latin": "Euphorbia spp",
+    "dutch": "euphorbia",
+    "size": {
+      "smallest_size": "35 µm",
+      "largest_size": "46 µm"
+    }
+  },
+  "fagopyrum_esculentum": {
+    "latin": "Fagopyrum esculentum",
+    "images": [
+      {
+        "path": "assets/images/beug/Fagopyrum_esculentum_Ed.png",
+        "kind": "beug",
+        "source": "beug"
+      },
+      {
+        "path": "assets/images/beug/Fagopyrum_esculentum_Ed2.png",
+        "kind": "beug",
+        "source": "beug"
+      },
+      {
+        "path": "assets/images/beug/Fagopyrum_esculentum_Eo.png",
+        "kind": "beug",
+        "source": "beug"
+      },
+      {
+        "path": "assets/images/beug/Fagopyrum_esculentum_Eo2.png",
+        "kind": "beug",
+        "source": "beug"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Ed2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fagopyrum_esculentum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "fallopia_baldschur": {
+    "latin": "Fallopia baldschur",
+    "dutch": "Chin. Bruidssluier",
+    "size": {
+      "smallest_size": "19 µm",
+      "largest_size": "19 µm"
+    }
+  },
+  "fallopia_japonica": {
+    "latin": "Fallopia japonica",
+    "dutch": "japanse duizendkn",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "ferula_communis": {
+    "latin": "Ferula communis",
+    "dutch": "Reuzen-schijnvenkel",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "filipendula": {
+    "latin": "Filipendula",
+    "dutch": "moerasspirea",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "filipendula_ulmaria": {
+    "latin": "Filipendula ulmaria",
+    "dutch": "moerasspirea",
+    "size": {
+      "smallest_size": "12 µm",
+      "largest_size": "16 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Eo3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Eo4.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Pd2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Filipendula_ulmaria_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "filipendula_vulgaris": {
+    "latin": "Filipendula vulgaris",
+    "images": [
+      {
+        "path": "assets/images/paldat/Filipendula_vulgaris_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Filipendula_vulgaris_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Filipendula_vulgaris_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Filipendula_vulgaris_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "foeniculum_vulga": {
+    "latin": "Foeniculum vulga",
+    "dutch": "venkel",
+    "size": {
+      "smallest_size": "14 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "fragaria_vesca": {
+    "latin": "Fragaria vesca",
+    "dutch": "aardbei",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "fragaria_viridis": {
+    "latin": "Fragaria viridis",
+    "dutch": "heuvelaardbei",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "20 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Fragaria_viridis_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fragaria_viridis_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fragaria_viridis_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Fragaria_viridis_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "fraxinus_ornus": {
+    "latin": "Fraxinus ornus",
+    "dutch": "es",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "fumaria_officinalis": {
+    "latin": "Fumaria officinalis",
+    "dutch": "duivekervel",
+    "size": {
+      "smallest_size": "39 µm",
+      "largest_size": "39 µm"
+    }
+  },
+  "galinsoga_sp": {
+    "latin": "Galinsoga sp",
+    "dutch": "knopkruid",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "galium_sylvatica": {
+    "latin": "Galium sylvatica",
+    "dutch": "lieve vrouwe beds",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "genista_anglica": {
+    "latin": "Genista anglica",
+    "dutch": "stekelbrem",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "geranium_sp": {
+    "latin": "Geranium sp.",
+    "dutch": "ooievaarsbek e.a.",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "90 µm"
+    }
+  },
+  "geum_rivale": {
+    "latin": "Geum rivale",
+    "dutch": "23.2-30.6",
+    "size": {
+      "smallest_size": "21.1 µm",
+      "largest_size": "26.1 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Geum_rivale_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_rivale_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_rivale_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_rivale_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "geum_urbanum": {
+    "latin": "Geum urbanum",
+    "dutch": "geel nagelkruid",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "25.6 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Geum_urbanum_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_urbanum_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_urbanum_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Geum_urbanum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "gilia_tricolor": {
+    "latin": "Gilia tricolor",
+    "dutch": "Gilia",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "gramineae": {
+    "latin": "Gramineae",
+    "dutch": "grassen",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "40 µm"
+    }
+  },
+  "granulair_anthriscus_sylv": {
+    "latin": "Granulair Anthriscus sylv",
+    "dutch": "fluitekruid",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "helenium_autumn": {
+    "latin": "Helenium autumn",
+    "dutch": "Helenium",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Helianthus_annuus_Pd.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "helianthus_annuus": {
+    "latin": "Helianthus annuus",
+    "dutch": "zonnebloem",
+    "size": {
+      "smallest_size": "35 µm",
+      "largest_size": "35 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Helianthus_annuus_Pd.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Helianthus_annuus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "hieracium_aurantia": {
+    "latin": "Hieracium aurantia",
+    "dutch": "oranje havikskruid",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "hieracium_sp": {
+    "latin": "Hieracium sp.",
+    "dutch": "havikskruid",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "hippopha_rhamn": {
+    "latin": "Hippophaë rhamn",
+    "dutch": "duindoorn",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "humulus": {
+    "latin": "Humulus",
+    "dutch": "hop",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "hydrangea_macr": {
+    "latin": "Hydrangea macr.",
+    "dutch": "hortensia",
+    "size": {
+      "smallest_size": "12 µm",
+      "largest_size": "14 µm"
+    }
+  },
+  "hydrangea_sp": {
+    "latin": "Hydrangea sp",
+    "dutch": "hortensia",
+    "size": {
+      "smallest_size": "10 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "hypericum_perfo": {
+    "latin": "Hypericum perfo-",
+    "dutch": "St. Janskruid",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "hypericum_polyph": {
+    "latin": "Hypericum polyph",
+    "dutch": "hertshooi",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "juglans_regia": {
+    "latin": "Juglans regia",
+    "dutch": "walnootboom",
+    "images": [
+      {
+        "path": "assets/images/paldat/Juglans_regia_EM.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/pollenwiki/Juglans_regia_d.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Juglans_regia_d2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Juglans_regia_o.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "juniperus_commu": {
+    "latin": "Juniperus commu",
+    "dutch": "jeneverbes",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "knautia_spp": {
+    "latin": "Knautia spp",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "110 µm"
+    }
+  },
+  "lamium_sp": {
+    "latin": "Lamium sp.",
+    "dutch": "dovenetel",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "lampsana_commu": {
+    "latin": "Lampsana commu",
+    "dutch": "akkerkool",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "28 µm"
+    }
+  },
+  "larix_decidua": {
+    "latin": "Larix decidua",
+    "dutch": "larix",
+    "size": {
+      "smallest_size": "92 µm",
+      "largest_size": "92 µm"
+    }
+  },
+  "lathyrus_sylvestris": {
+    "latin": "Lathyrus sylvestris",
+    "dutch": "boslathyrus",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "lavandula_angisti": {
+    "latin": "Lavandula angisti",
+    "dutch": "lavendel",
+    "size": {
+      "smallest_size": "38 µm",
+      "largest_size": "38 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Pd2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "lavandula_spp_laminaceae": {
+    "latin": "Lavandula spp - Laminaceae",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "leontodon_autum": {
+    "latin": "Leontodon autum",
+    "dutch": "vert. leeuwentand",
+    "size": {
+      "smallest_size": "29 µm",
+      "largest_size": "29 µm"
+    }
+  },
+  "ligustrum_vulgare_wilde_liguster": {
+    "latin": "Ligustrum vulgare (wilde liguster",
+    "size": {
+      "smallest_size": "24.1 µm",
+      "largest_size": "33.7 µm"
+    }
+  },
+  "lilium_sp": {
+    "latin": "Lilium sp.",
+    "dutch": "lelie",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "limnanthes_dougl": {
+    "latin": "Limnanthes dougl",
+    "dutch": "moerasbloem",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "limonium_vulgare": {
+    "latin": "Limonium vulgare",
+    "dutch": "lamsoor",
+    "size": {
+      "smallest_size": "55 µm",
+      "largest_size": "55 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Pd2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Limonium_vulgare_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "linaria_cymbalaria": {
+    "latin": "Linaria cymbalaria",
+    "dutch": "muurleeuwenbek",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "linaria_vulg": {
+    "latin": "Linaria vulg",
+    "dutch": "vlasleeuwenbek",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "linum_usitatissim": {
+    "latin": "Linum usitatissim",
+    "dutch": "vlas",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "liriodendron_tulip": {
+    "latin": "Liriodendron tulip",
+    "dutch": "tulpeboom",
+    "size": {
+      "smallest_size": "57 µm",
+      "largest_size": "57 µm"
+    }
+  },
+  "liriodendron_tulipifera": {
+    "latin": "Liriodendron tulipifera",
+    "dutch": "tulpenboom",
+    "size": {
+      "smallest_size": "57 µm",
+      "largest_size": "57 µm"
+    }
+  },
+  "lonicera": {
+    "latin": "Lonicera",
+    "dutch": "kamperfoelie",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "65 µm"
+    }
+  },
+  "lonicera_sp": {
+    "latin": "Lonicera sp",
+    "dutch": "kamperfoelie",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "loranthus_europaeus": {
+    "latin": "Loranthus europaeus",
+    "dutch": "mistletoe fam",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "lotus_corniculatus": {
+    "latin": "Lotus corniculatus",
+    "dutch": "rolklaver",
+    "size": {
+      "smallest_size": "13 µm",
+      "largest_size": "18 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Lotus_corniculatus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Lotus_corniculatus_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Lotus_corniculatus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Lotus_corniculatus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "lotus_ulginosis": {
+    "latin": "Lotus ulginosis",
+    "dutch": "moerasrolklaver",
+    "size": {
+      "smallest_size": "10 µm",
+      "largest_size": "14 µm"
+    }
+  },
+  "lysimachia": {
+    "latin": "Lysimachia",
+    "dutch": "bastaardwederik",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "lythrum_salicaria": {
+    "latin": "Lythrum salicaria",
+    "dutch": "kattenstaart",
+    "size": {
+      "smallest_size": "19 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "mahonia_aquifolia": {
+    "latin": "Mahonia aquifolia",
+    "dutch": "mahonia",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "malus_sp": {
+    "latin": "Malus sp.",
+    "dutch": "appel",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "malus_sylvestris": {
+    "latin": "Malus sylvestris",
+    "dutch": "wilde appel",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "31 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Malus_sylvestris_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Malus_sylvestris_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Malus_sylvestris_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Malus_sylvestris_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "malva_sp": {
+    "latin": "Malva sp.",
+    "dutch": "kaasjeskruid",
+    "size": {
+      "smallest_size": "113 µm",
+      "largest_size": "113 µm"
+    }
+  },
+  "mangifera_indica": {
+    "latin": "Mangifera indica",
+    "dutch": "mango",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "matricaria_chamo": {
+    "latin": "Matricaria chamo",
+    "dutch": "echte kamille",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "medicago_sativa": {
+    "latin": "Medicago sativa",
+    "dutch": "luzerne",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "melampyrum": {
+    "latin": "Melampyrum",
+    "dutch": "hengel",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "melilotus_hypericum_perfor": {
+    "latin": "Melilotus Hypericum perfor",
+    "dutch": "Sint Janskruid",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "mercurialis_annua": {
+    "latin": "Mercurialis annua",
+    "dutch": "bingelkruid",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "mercurialis_perennis": {
+    "latin": "Mercurialis perennis",
+    "dutch": "bingelkruid",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "26 µm"
+    }
+  },
+  "mespilus_germani": {
+    "latin": "Mespilus germani",
+    "dutch": "mispel",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "mespilus_germanica": {
+    "latin": "Mespilus germanica",
+    "dutch": "wilde mispel"
+  },
+  "morus_alba": {
+    "latin": "Morus alba",
+    "dutch": "witte moerbei",
+    "size": {
+      "smallest_size": "19 µm",
+      "largest_size": "19 µm"
+    }
+  },
+  "myosotis_scorpioides": {
+    "latin": "Myosotis scorpioides",
+    "dutch": "vergeet-me-nietje",
+    "size": {
+      "smallest_size": "5 µm",
+      "largest_size": "7 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Myosotis_scorpioides_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "narcissus_sp": {
+    "latin": "Narcissus sp.",
+    "dutch": "narcis",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "nemophila_menzi": {
+    "latin": "Nemophila menzi",
+    "dutch": "bosliefje",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "nemophila_sp": {
+    "latin": "Nemophila sp.",
+    "dutch": "bosliefje",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "nicotiana_glauca": {
+    "latin": "Nicotiana glauca",
+    "dutch": "siertabak",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "29 µm"
+    }
+  },
+  "nicotiana_tabacum": {
+    "latin": "Nicotiana tabacum",
+    "dutch": "tabak",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "31 µm"
+    }
+  },
+  "nigella": {
+    "latin": "Nigella",
+    "dutch": "Nigelle",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "nuphar_lutea": {
+    "latin": "Nuphar lutea",
+    "dutch": "gele plomp",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "nymphaea_alba": {
+    "latin": "Nymphaea alba",
+    "dutch": "waterlelie",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "oenothera_tetrag": {
+    "latin": "Oenothera tetrag",
+    "dutch": "teunisbloem",
+    "size": {
+      "smallest_size": "125 µm",
+      "largest_size": "125 µm"
+    }
+  },
+  "olea_daphne_mezereum": {
+    "latin": "Olea Daphne mezereum",
+    "dutch": "peperboompje",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "olea_europaea": {
+    "latin": "Olea europaea",
+    "dutch": "olijf",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "onopordon_acant": {
+    "latin": "Onopordon acant",
+    "dutch": "wegdistel",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "onosis_spinoza": {
+    "latin": "Onosis spinoza",
+    "dutch": "kattendoorn",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "oost_azi_theobroma_cacao": {
+    "latin": "Oost Azië Theobroma cacao",
+    "dutch": "cacao",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    }
+  },
+  "ornithopus_perpus": {
+    "latin": "Ornithopus perpus",
+    "dutch": "Serradella",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "osmanthus_sp": {
+    "latin": "Osmanthus sp.",
+    "dutch": "Osmanthus",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "parnassia_palustris": {
+    "latin": "Parnassia palustris",
+    "dutch": "Parnassia",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "petasitis_officinalis": {
+    "latin": "Petasitis officinalis",
+    "dutch": "groot hoefblad",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "phacelia": {
+    "latin": "Phacelia",
+    "dutch": "phacelia",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "phacelia_tanacetifolia": {
+    "latin": "Phacelia tanacetifolia",
+    "dutch": "Phacelia tanacetifolia",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Phacelia_tanacetifolia_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Phacelia_tanacetifolia_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Phacelia_tanacetifolia_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Phacelia_tanacetifolia_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "phaseolus_coccin": {
+    "latin": "Phaseolus coccin",
+    "dutch": "pronkboon",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "40 µm"
+    }
+  },
+  "philadelphus": {
+    "latin": "Philadelphus",
+    "dutch": "boerenjasmijn",
+    "size": {
+      "smallest_size": "14 µm",
+      "largest_size": "16 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "philadelphus_coronarius": {
+    "latin": "Philadelphus coronarius",
+    "dutch": "boerenjasmijn",
+    "size": {
+      "smallest_size": "14 µm",
+      "largest_size": "16 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Philadelphus_coronarius_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "photinia_sp": {
+    "latin": "Photinia sp.",
+    "dutch": "Photinia",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "picris_echino_des": {
+    "latin": "Picris echinoïdes",
+    "dutch": "dubbelkelk",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "37 µm"
+    }
+  },
+  "picris_hi_racio_des": {
+    "latin": "Picris hiëracioïdes",
+    "dutch": "bitterkruid",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "31 µm"
+    }
+  },
+  "pinus_sp": {
+    "latin": "Pinus sp.",
+    "dutch": "den",
+    "size": {
+      "smallest_size": "44 µm",
+      "largest_size": "75 µm"
+    }
+  },
+  "pisum": {
+    "latin": "Pisum",
+    "dutch": "erwt",
+    "size": {
+      "smallest_size": "48 µm",
+      "largest_size": "48 µm"
+    }
+  },
+  "pisum_sativum": {
+    "latin": "Pisum sativum"
+  },
+  "platanus_hybr": {
+    "latin": "Platanus hybr",
+    "dutch": "plataan",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "polemonium_coeru": {
+    "latin": "Polemonium coeru",
+    "dutch": "Jacobs ladder",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "polygonum_convol": {
+    "latin": "Polygonum convol",
+    "dutch": "zwaluwtong",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "populus_sp": {
+    "latin": "Populus sp",
+    "dutch": "populier",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "31 µm"
+    }
+  },
+  "portulacca_oleacera": {
+    "latin": "Portulacca oleacera",
+    "dutch": "postelein",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "potentilla_anserina": {
+    "latin": "Potentilla anserina",
+    "dutch": "zilverschoon",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Potentilla_anserina_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Potentilla_anserina_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Potentilla_anserina_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Potentilla_anserina_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "potentilla_crantzii": {
+    "latin": "Potentilla crantzii",
+    "dutch": "tormentil",
+    "size": {
+      "smallest_size": "24.8 µm",
+      "largest_size": "27.2 µm"
+    }
+  },
+  "primula_vulgaris": {
+    "latin": "Primula vulgaris",
+    "dutch": "sleutelbloem",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "19 µm"
+    }
+  },
+  "prunus_avium": {
+    "latin": "Prunus avium",
+    "dutch": "zoete kers",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "37 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Prunus_avium_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_avium_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_avium_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_avium_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "prunus_laurocera": {
+    "latin": "Prunus-laurocera",
+    "dutch": "laurierkers",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "prunus_padus": {
+    "latin": "Prunus padus",
+    "dutch": "vogelkers",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Prunus_padus_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_padus_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_padus_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_padus_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "prunus_serotina": {
+    "latin": "Prunus serotina",
+    "dutch": "Am. vogelkers",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "prunus_spinosa": {
+    "latin": "Prunus spinosa",
+    "dutch": "sleedoorn",
+    "size": {
+      "smallest_size": "39.1 µm",
+      "largest_size": "42.6 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Prunus_spinosa_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_spinosa_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_spinosa_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Prunus_spinosa_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "prunus_spinoza": {
+    "latin": "Prunus spinoza",
+    "dutch": "sleedoorn",
+    "size": {
+      "smallest_size": "41 µm",
+      "largest_size": "41 µm"
+    }
+  },
+  "punica_granatum": {
+    "latin": "Punica granatum",
+    "dutch": "granaatappel",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "21 µm"
+    }
+  },
+  "pyracantha_coccin": {
+    "latin": "Pyracantha coccin",
+    "dutch": "vuurdoorn",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "raphanus_raph": {
+    "latin": "Raphanus raph",
+    "dutch": "bladrammenas",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "reseda_lutea": {
+    "latin": "Reseda lutea",
+    "dutch": "wilde reseda",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "rhamnus_frangula": {
+    "latin": "Rhamnus frangula",
+    "dutch": "vuilboom",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "rhododendron": {
+    "latin": "Rhododendron",
+    "dutch": "rhododendron",
+    "size": {
+      "smallest_size": "36 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "rhododendron_spp_ericaceae": {
+    "latin": "Rhododendron spp, Ericaceae",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "33 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Ribes_rubrum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "rhus_chinensis": {
+    "latin": "Rhus chinensis",
+    "dutch": "Chinese sumac",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "ribes_rubrum": {
+    "latin": "Ribes rubrum",
+    "dutch": "aalbes",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Ribes_rubrum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "ribes_sanguineum": {
+    "latin": "Ribes sanguineum",
+    "dutch": "rode ribes",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "robinia_pseudo": {
+    "latin": "Robinia pseudo-",
+    "dutch": "acacia",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "31 µm"
+    }
+  },
+  "robinia_pseudoac": {
+    "latin": "Robinia pseudoac",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "robinia_pseudoacacia": {
+    "latin": "Robinia pseudoacacia",
+    "dutch": "Robinia pseudoacacia",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "30 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Robinia_pseudoacacia_Pd.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Robinia_pseudoacacia_Po.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Robinia_pseudoacacia_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Robinia_pseudoacacia_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Robinia_pseudoacacia_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Robinia_pseudoacacia_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "rosa_canina": {
+    "latin": "Rosa canina",
+    "dutch": "hondsroos",
+    "size": {
+      "smallest_size": "30.4 µm",
+      "largest_size": "36.4 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Rosa_canina_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Rosa_canina_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Rosa_canina_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Rosa_canina_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "rosa_pimpinellifolia": {
+    "latin": "Rosa pimpinellifolia",
+    "dutch": "duinroos",
+    "size": {
+      "smallest_size": "31 µm",
+      "largest_size": "35 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Rosa_pimpinellifolia_Ed.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_pimpinellifolia_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_pimpinellifolia_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_pimpinellifolia_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "rosa_rubiginosa": {
+    "latin": "Rosa rubiginosa",
+    "dutch": "egelantier",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "30 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Rosa_rubiginosa_Ed.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_rubiginosa_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_rubiginosa_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rosa_rubiginosa_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "rosasea": {
+    "latin": "Rosasea",
+    "images": [
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "rosmarinus_officinalis_laminaceae": {
+    "latin": "Rosmarinus officinalis - Laminaceae",
+    "size": {
+      "smallest_size": "36 µm",
+      "largest_size": "40 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "rubus_arcticus": {
+    "latin": "Rubus arcticus"
+  },
+  "rubus_chamaemorus": {
+    "latin": "Rubus chamaemorus",
+    "dutch": "kruipbraam"
+  },
+  "rubus_fructicosus": {
+    "latin": "Rubus fructicosus",
+    "dutch": "braam",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "rubus_fruticosus_rosaceae": {
+    "latin": "Rubus fruticosus - Rosaceae",
+    "size": {
+      "smallest_size": "28.6 µm",
+      "largest_size": "36.9 µm"
+    }
+  },
+  "rubus_idaeus": {
+    "latin": "Rubus idaeus",
+    "dutch": "framboos",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "rubus_saxatilis": {
+    "latin": "Rubus saxatilis",
+    "dutch": "steenbraam",
+    "size": {
+      "smallest_size": "26 µm",
+      "largest_size": "30 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Eo2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Pd.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/paldat/Rubus_saxatilis_Po.png",
+        "kind": "paldat",
+        "source": "paldat"
+      }
+    ]
+  },
+  "rubus_sp": {
+    "latin": "Rubus sp.",
+    "dutch": "braam/framboos",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "rumex": {
+    "latin": "Rumex",
+    "dutch": "zuring",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "ruta_graveolens": {
+    "latin": "Ruta graveolens",
+    "dutch": "wijnruit",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "35 µm"
+    }
+  },
+  "salix_sp": {
+    "latin": "Salix sp.",
+    "dutch": "wilg",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "sambucus_ebulus": {
+    "latin": "Sambucus ebulus",
+    "dutch": "bergvlier",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "sambucus_nigra": {
+    "latin": "Sambucus nigra",
+    "dutch": "vlier",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "sanguisorba_minor": {
+    "latin": "Sanguisorba minor",
+    "dutch": "kleine pimpernel",
+    "size": {
+      "smallest_size": "30 µm",
+      "largest_size": "32 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Eo3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_minor_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "sanguisorba_officinalis": {
+    "latin": "Sanguisorba officinalis",
+    "dutch": "grote pimpernel",
+    "size": {
+      "smallest_size": "28.4 µm",
+      "largest_size": "32.2 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_officinalis_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_officinalis_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_officinalis_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sanguisorba_officinalis_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "santolina_jasione_montana": {
+    "latin": "Santolina Jasione montana",
+    "dutch": "zandblauwtje",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "sapindaceae_fam": {
+    "latin": "Sapindaceae (fam.)",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "scabiosa_columbar": {
+    "latin": "Scabiosa columbar",
+    "dutch": "duifkruid",
+    "size": {
+      "smallest_size": "70 µm",
+      "largest_size": "70 µm"
+    }
+  },
+  "scilla_nonscripta": {
+    "latin": "Scilla nonscripta",
+    "dutch": "wilde hyacint",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "sedum_acre": {
+    "latin": "Sedum acre",
+    "dutch": "muurpeper",
+    "size": {
+      "smallest_size": "18 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "sedum_sp": {
+    "latin": "Sedum sp.",
+    "dutch": "vetblad",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "senecio_inaequalis": {
+    "latin": "Senecio inaequalis",
+    "dutch": "bezemkruiskruid",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "senecio_jacobea": {
+    "latin": "Senecio jacobea",
+    "dutch": "Jacobs kruiskruid",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "30 µm"
+    }
+  },
+  "senecio_sp": {
+    "latin": "Senecio sp",
+    "dutch": "kruiskruid",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "serrulata_tinctoria": {
+    "latin": "Serrulata tinctoria",
+    "dutch": "zaagblad",
+    "size": {
+      "smallest_size": "49 µm",
+      "largest_size": "49 µm"
+    }
+  },
+  "sibbaldia_procumbens": {
+    "latin": "Sibbaldia procumbens",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "25 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sibbaldia_procumbens_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sibbaldia_procumbens_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sibbaldia_procumbens_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sibbaldia_procumbens_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "silene_cucubalis": {
+    "latin": "Silene cucubalis",
+    "dutch": "blaassilene",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Silene_cucubalis_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "skimmia": {
+    "latin": "Skimmia",
+    "dutch": "Skimmia",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "35 µm"
+    }
+  },
+  "solanum_dulcamara": {
+    "latin": "Solanum dulcamara",
+    "dutch": "bitterzoet",
+    "size": {
+      "smallest_size": "12 µm",
+      "largest_size": "12 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Solanum_dulcamara_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Solanum_dulcamara_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Solanum_dulcamara_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Solanum_dulcamara_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "solanum_incl": {
+    "latin": "Solanum incl",
+    "dutch": "Capsicum, Solanum incl. tomaat"
+  },
+  "solanum_lycopers": {
+    "latin": "Solanum lycopers",
+    "dutch": "tomaat",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "solanum_tuber": {
+    "latin": "Solanum tuber.",
+    "dutch": "aardappel",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "solidago_virga_au": {
+    "latin": "Solidago virga au",
+    "dutch": "gulden roede",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    }
+  },
+  "sonchus_arvensis": {
+    "latin": "Sonchus arvensis",
+    "dutch": "akkermelkdistel",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "sophora_japonica": {
+    "latin": "Sophora japonica",
+    "dutch": "honingboom",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "18 µm"
+    }
+  },
+  "sorbus_arranensis": {
+    "latin": "Sorbus arranensis",
+    "dutch": "Finse meelbes",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "sorbus_aucuparia": {
+    "latin": "Sorbus aucuparia",
+    "dutch": "wilde lijsterbes",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Sorbus_aucuparia_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "spiraea_japonica": {
+    "latin": "Spiraea japonica",
+    "dutch": "spirea",
+    "size": {
+      "smallest_size": "12.5 µm",
+      "largest_size": "12.5 µm"
+    }
+  },
+  "spirea_x_vanhouttei": {
+    "latin": "Spirea x vanhouttei",
+    "dutch": "vanhouttei spirea",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "staphylea_pinnata": {
+    "latin": "Staphylea pinnata",
+    "dutch": "pimpernoot",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "struikheide": {
+    "latin": "struikheide"
+  },
+  "succisa_praten": {
+    "latin": "Succisa praten",
+    "dutch": "blauwe knoop",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "succisa_pratensis": {
+    "latin": "Succisa pratensis",
+    "dutch": "blauwe knoop",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "sulla_coronaria": {
+    "latin": "Sulla coronaria",
+    "dutch": "French honeysuc",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "sylibum_marianum": {
+    "latin": "Sylibum marianum",
+    "dutch": "Mariadistel",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "50 µm"
+    }
+  },
+  "symphytum_off": {
+    "latin": "Symphytum off",
+    "dutch": "smeerwortel",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "tagetes_erecta": {
+    "latin": "Tagetes erecta",
+    "dutch": "Groot Afrikaantje",
+    "size": {
+      "smallest_size": "34 µm",
+      "largest_size": "34 µm"
+    }
+  },
+  "tamarix": {
+    "latin": "Tamarix",
+    "dutch": "Tamarix",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "15 µm"
+    }
+  },
+  "taraxacum": {
+    "latin": "Taraxacum",
+    "dutch": "paardebloem",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "41 µm"
+    }
+  },
+  "taraxacum_officinale": {
+    "latin": "Taraxacum officinale",
+    "size": {
+      "smallest_size": "28 µm",
+      "largest_size": "28 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/persano_oddo/Taraxacum_officinale_Pd.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/persano_oddo/Taraxacum_officinale_Po.png",
+        "kind": "persano_oddo",
+        "source": "persano_oddo"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taraxacum_officinale_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taraxacum_officinale_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taraxacum_officinale_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taraxacum_officinale_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "taxus_baccata": {
+    "latin": "Taxus baccata",
+    "dutch": "taxus",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "29 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Taxus_baccata_o.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taxus_baccata_o2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Taxus_baccata_o3.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "teucrium_chamaedrys": {
+    "latin": "Teucrium chamaedrys",
+    "dutch": "echte gamander",
+    "size": {
+      "smallest_size": "29 µm",
+      "largest_size": "33 µm"
+    }
+  },
+  "thalictrum_flavum": {
+    "latin": "Thalictrum flavum",
+    "dutch": "poelruit",
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Thalictrum_flavum_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "thalictrum_sp": {
+    "latin": "Thalictrum sp.",
+    "dutch": "ruit",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "20 µm"
+    }
+  },
+  "thymus_spp_laminaceae": {
+    "latin": "Thymus spp - Laminaceae",
+    "size": {
+      "smallest_size": "36 µm",
+      "largest_size": "40 µm"
+    }
+  },
+  "tilia_type_linde_species": {
+    "latin": "Tilia-type (Linde species",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "38 µm"
+    }
+  },
+  "tordylium_apulum": {
+    "latin": "Tordylium apulum",
+    "dutch": "hertenplant",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "36 µm"
+    }
+  },
+  "tragopogon_sp": {
+    "latin": "Tragopogon sp",
+    "dutch": "morgenster",
+    "size": {
+      "smallest_size": "44 µm",
+      "largest_size": "44 µm"
+    }
+  },
+  "trifolium_incarnat": {
+    "latin": "Trifolium incarnat",
+    "dutch": "incarnaatklaver",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "trifolium_pratense": {
+    "latin": "Trifolium pratense",
+    "size": {
+      "smallest_size": "35.9 µm",
+      "largest_size": "41.5 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/paldat/Trifolium_pratense_Po2.png",
+        "kind": "paldat",
+        "source": "paldat"
+      },
+      {
+        "path": "assets/images/pollenwiki/Trifolium_pratense_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Trifolium_pratense_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "trifolium_repens_hybride": {
+    "latin": "Trifolium repens + hybride",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "tulipa_sp": {
+    "latin": "Tulipa sp.",
+    "dutch": "tulp",
+    "size": {
+      "smallest_size": "52 µm",
+      "largest_size": "52 µm"
+    }
+  },
+  "tussilago_farfara": {
+    "latin": "Tussilago farfara",
+    "dutch": "klein hoefblad",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "32 µm"
+    }
+  },
+  "ulex_sp": {
+    "latin": "Ulex sp",
+    "dutch": "gaspeldoorn",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    }
+  },
+  "urtica": {
+    "latin": "Urtica",
+    "dutch": "brandnetel",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "16 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "vaccinium_corymbosum": {
+    "latin": "Vaccinium corymbosum",
+    "dutch": "blauwe bes",
+    "size": {
+      "smallest_size": "37 µm",
+      "largest_size": "42 µm"
+    }
+  },
+  "vaccinium_myrtillus": {
+    "latin": "Vaccinium myrtillus",
+    "dutch": "bosbes",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "47 µm"
+    }
+  },
+  "vaccinium_vitis_idaea": {
+    "latin": "Vaccinium vitis -idaea",
+    "dutch": "vossebes",
+    "size": {
+      "smallest_size": "33 µm",
+      "largest_size": "35 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_1.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vaccinium_vitis-idaea_2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "valeriana_officinalis": {
+    "latin": "Valeriana officinalis",
+    "dutch": "Valeriana officinalis"
+  },
+  "veel_monocotylen": {
+    "latin": "Veel monocotylen",
+    "dutch": "o.m. Magnolia"
+  },
+  "verbascum_nigrum": {
+    "latin": "Verbascum nigrum",
+    "dutch": "koningskaars",
+    "size": {
+      "smallest_size": "20 µm",
+      "largest_size": "23 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "verbena_officinalis": {
+    "latin": "Verbena officinalis",
+    "dutch": "ijzerhard",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Po2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "vergeet_mij_niet": {
+    "latin": "vergeet-mij-niet"
+  },
+  "veronica_sp": {
+    "latin": "Veronica sp.",
+    "dutch": "ereprijs soort",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "15 µm"
+    }
+  },
+  "viburnum_opulus": {
+    "latin": "Viburnum opulus",
+    "dutch": "Gelderse roos",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "25 µm"
+    }
+  },
+  "vicia_cracca": {
+    "latin": "Vicia cracca"
+  },
+  "vicia_faba": {
+    "latin": "Vicia faba",
+    "dutch": "tuinboon",
+    "size": {
+      "smallest_size": "47 µm",
+      "largest_size": "47 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Ed.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Eo2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Vicia_faba_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "vinca_sp": {
+    "latin": "Vinca sp.",
+    "dutch": "maagdenpalm",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  },
+  "viola": {
+    "latin": "Viola",
+    "dutch": "viool",
+    "size": {
+      "smallest_size": "60 µm",
+      "largest_size": "60 µm"
+    }
+  },
+  "viola_tricolor": {
+    "latin": "Viola tricolor",
+    "dutch": "driekl. viooltje",
+    "size": {
+      "smallest_size": "70 µm",
+      "largest_size": "70 µm"
+    },
+    "images": [
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Eo.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Pd.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Po.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      },
+      {
+        "path": "assets/images/pollenwiki/Viola_tricolor_Po2.png",
+        "kind": "pollenwiki",
+        "source": "pollenwiki"
+      }
+    ]
+  },
+  "viscum_album": {
+    "latin": "Viscum album",
+    "dutch": "mistletoe",
+    "size": {
+      "smallest_size": "43 µm",
+      "largest_size": "43 µm"
+    }
+  },
+  "vitis_vinifera": {
+    "latin": "Vitis vinifera",
+    "dutch": "druif",
+    "size": {
+      "smallest_size": "22 µm",
+      "largest_size": "22 µm"
+    }
+  },
+  "weigelia_diervilla": {
+    "latin": "Weigelia/Diervilla",
+    "dutch": "Weigelia",
+    "size": {
+      "smallest_size": "45 µm",
+      "largest_size": "45 µm"
+    }
+  },
+  "xanthium_italicum": {
+    "latin": "Xanthium italicum",
+    "dutch": "stekelnoot sp.",
+    "size": {
+      "smallest_size": "23 µm",
+      "largest_size": "23 µm"
+    }
+  },
+  "zea": {
+    "latin": "Zea",
+    "dutch": "maïs",
+    "size": {
+      "smallest_size": "80 µm",
+      "largest_size": "80 µm"
+    }
+  }
+}

@@ -1,6 +1,4 @@
-# 16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug) — determinatietabel
-
-Sleutel voor **tricolpate, tricolporoïdate en tricolporate pollenkorrels** met clavate, baculate, verrucate of gemmate sculpturen, §16 in Beug. PK = pollenkorrel.
+# 16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug16-ttt-clav.json"></div>
 

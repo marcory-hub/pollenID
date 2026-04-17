@@ -1,6 +1,4 @@
-# 13. Tricolpatae (psilaat, scabraat, verrucaat, microverrucaat) (Beug) — determinatietabel
-
-Sleutel voor **tricolpate pollenkorrels** met psilate, scabrate, verrucate of microverrucate sculpturen, §13 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 13. Tricolpatae (psilaat, scabraat, verrucaat, microverrucaat) (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug13-tricolpatae-ps.json"></div>
 

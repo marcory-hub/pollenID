@@ -84,37 +84,13 @@
         {
           "label": "Operculum smal, colpus zeer kort",
           "id": {
-            "name": "Sanguisorba minor (kleine pimpernel)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "sanguisorba_minor"
           }
         },
         {
           "label": "Operculum zo breed als het intercolpium, colpus lang",
           "id": {
-            "name": "Sanguisorba officinalis (grote pimpernel)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "sanguisorba_officinalis"
           }
         }
       ]
@@ -126,19 +102,7 @@
         {
           "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk",
           "id": {
-            "name": "Sibbaldia procumbens ()",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "sibbaldia_procumbens"
           }
         },
         {
@@ -198,9 +162,7 @@
         {
           "label": "Prolaat; colpi ingesnoerd, uiteinden afgerond",
           "id": {
-            "name": "Comarum palustre (wateraardbei)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "comarum_palustre",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -236,9 +198,8 @@
         {
           "label": "Polair gebied afgeplat",
           "id": {
-            "name": "Fragaria vesca (bosaardbei)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "fragaria_vesca",
+            "note": "Fragaria vesca (bosaardbei)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -278,19 +239,7 @@
         {
           "label": "Colpusuiteinden afgerond",
           "id": {
-            "name": "Fragaria viridis (heuvelaardbei)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "fragaria_viridis"
           }
         },
         {
@@ -320,9 +269,7 @@
         {
           "label": "Clavaat-bacillaat-echinaat",
           "id": {
-            "name": "Rubus chamaemorus (kruipbraam)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "rubus_chamaemorus",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -390,9 +337,8 @@
         {
           "label": "Rugulata-microstriaat; geen costae colpi of granula op colpusmembraan",
           "id": {
-            "name": "Mespilus germanica (mispel)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "mespilus_germanica",
+            "note": "Mespilus germanica (mispel)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

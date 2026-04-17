@@ -1,4 +1,4 @@
-# 14.9 (*Bistorta-*) *Polygonum bistorta*-type (Beug) — determinatietabel
+# 14.9 Polygonum bistorta-type (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-bistorta.json"></div>
 

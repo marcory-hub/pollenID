@@ -1,6 +1,4 @@
-# 33.2 *Plantaginaceae* (Beug) — determinatietabel
-
-Sleutel voor **33.2 *Plantaginaceae***, §33.2 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 33.2 Plantaginaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-plantaginaceae.json"></div>
 

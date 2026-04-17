@@ -1,4 +1,4 @@
-# 24. Stephanocolpatae (Beug) — determinatietabel
+# 24. Stephanocolpatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug24-stephanocolpatae.json"></div>
 

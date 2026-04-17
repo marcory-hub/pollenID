@@ -1,6 +1,4 @@
-# 23.8 *Scrophulariaceae* p.p. (Beug) — determinatietabel
-
-Sleutel voor **23.8 *Scrophulariaceae* p.p.**, §23.8 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 23.8 Scrophulariaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug23-tricolporoidatae-ret-scrophulariaceae.json"></div>
 

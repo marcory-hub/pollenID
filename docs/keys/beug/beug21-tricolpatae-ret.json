@@ -582,19 +582,8 @@
         {
           "label": "PK sferoïdisch, pollenvormindex 1,0-1,1, Exine 1,8-2,5 µm dik (Tafel 61: 6-11).",
           "id": {
-            "name": "21.14 Chelidonium majus (Blz... 298)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "chelidonium_majus",
+            "note": "21.14 Chelidonium majus (Blz... 298)"
           }
         },
         {
@@ -980,9 +969,8 @@
         {
           "label": "PK tot 24-31 µm groot, Exine tot 3 µm, zelden tot 3,2 µm dik (wanneer poolvelden klein vgl. Brassicaceae) (Tafel 66: 20-25).",
           "id": {
-            "name": "21.23 Olea europaea (Blz... 304)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "olea_europaea",
+            "note": "21.23 Olea europaea (Blz... 304)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1304,9 +1292,8 @@
         {
           "label": "PK langgestrekt, overwegend prolaat (Tafel 66: 7-13).",
           "id": {
-            "name": "21.28 Fraxinus ornus (Blz... 315)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "fraxinus_ornus",
+            "note": "21.28 Fraxinus ornus (Blz... 315)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

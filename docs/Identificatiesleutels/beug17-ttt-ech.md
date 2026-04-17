@@ -1,6 +1,4 @@
-# 16. Tricolpatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) (Beug) — determinatietabel
-
-Sleutel voor **tricolpate, tricolporoïdate en tricolporate pollenkorrels** met echinate sculpturen, §16 in Beug. PK = pollenkorrel.
+# 16. Tricolpatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug17-ttt-ech.json"></div>
 

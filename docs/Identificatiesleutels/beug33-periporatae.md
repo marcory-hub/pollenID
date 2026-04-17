@@ -1,6 +1,4 @@
-# 17. Periporatae (Beug) — determinatietabel
-
-Sleutel voor **periporate pollenkorrels**, §17 in Beug. PK = pollenkorrel, CL-Index = colpuslengte-index.
+# 17. Periporatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae.json"></div>
 

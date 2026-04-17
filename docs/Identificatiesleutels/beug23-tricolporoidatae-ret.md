@@ -1,6 +1,4 @@
-# 23. Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) (Beug) — determinatietabel
-
-Sleutel voor **Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen)**, §23 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 23. Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug23-tricolporoidatae-ret.json"></div>
 

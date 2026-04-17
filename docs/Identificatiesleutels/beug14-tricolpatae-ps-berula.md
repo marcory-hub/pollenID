@@ -1,4 +1,4 @@
-# 14.11.14 *Berula erecta*-groep (Beug) — determinatietabel
+# 14.11.14 Berula erecta-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-berula.json"></div>
 

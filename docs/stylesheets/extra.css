@@ -151,6 +151,27 @@
   font-style: italic;
 }
 
+.vdh-pollentabel-outcome-table {
+  width: auto;
+  margin: 0.25rem 0 0.5rem;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.vdh-pollentabel-outcome-table th,
+.vdh-pollentabel-outcome-table td {
+  padding: 0.25rem 0.6rem;
+  vertical-align: top;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  text-align: left;
+}
+
+.vdh-pollentabel-outcome-table th {
+  font-weight: 600;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+}
+
 .pid-placeholder-image {
   opacity: 0.35;
   filter: grayscale(1);

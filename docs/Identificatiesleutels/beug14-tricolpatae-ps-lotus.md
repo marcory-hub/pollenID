@@ -1,4 +1,4 @@
-# 14.29 *Lotus*, *Tetragonolobus* (Beug) — determinatietabel
+# 14.29 Lotus tetragonolobus (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-lotus.json"></div>
 

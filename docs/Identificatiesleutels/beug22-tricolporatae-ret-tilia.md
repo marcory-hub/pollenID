@@ -1,4 +1,4 @@
-# 22.1 Tilia (Beug) — determinatietabel
+# 22.1 Tilia (Beug) - determinatietabel
 
 Sleutel voor **Tilia**, §22.1 in Beug. PK = pollenkorrel.
 

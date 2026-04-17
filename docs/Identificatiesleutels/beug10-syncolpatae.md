@@ -1,6 +1,4 @@
-# 10. Syncolpatae (Beug) — determinatietabel
-
-Sleutel voor **syncolpate pollenkorrels**, §10 in Beug. PK = pollenkorrel.
+# 10. Syncolpatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug10-syncolpatae.json"></div>
 

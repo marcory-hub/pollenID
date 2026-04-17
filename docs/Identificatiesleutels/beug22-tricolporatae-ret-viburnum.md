@@ -1,4 +1,4 @@
-# 22.17 Viburnum (Beug) — determinatietabel
+# 22.17 Viburnum (Beug) - determinatietabel
 
 Sleutel voor **Viburnum**, §22.17 in Beug. PK = pollenkorrel.
 

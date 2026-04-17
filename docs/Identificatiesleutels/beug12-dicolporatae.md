@@ -1,4 +1,4 @@
-# 12. Dicolporatae (Beug) — determinatietabel
+# 12. Dicolporatae (Beug)
 
 Tordylium maximum is de enige vertegenwoordiger in de Midden-Europese flora.
 

@@ -472,9 +472,8 @@
         {
           "label": "PK 25–34 µm groot, oblaat, zonder apicale velden (tabel 11: 13–14).",
           "id": {
-            "name": "10.12 Loranthus europaeus (Blz... 116)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "loranthus_europaeus",
+            "note": "10.12 Loranthus europaeus (Blz... 116)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

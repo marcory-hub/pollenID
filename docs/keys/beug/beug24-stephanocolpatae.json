@@ -92,19 +92,8 @@
         {
           "label": "PK met 6 Colpi, waarvan elke tweede een contrastrijk korrelig opgeloste intercolpiumranden grenst (Tafel 84: 12-18).",
           "id": {
-            "name": "24.3 Phacelia tanacetifolia (Blz. 382)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "phacelia_tanacetifolia",
+            "note": "24.3 Phacelia tanacetifolia (Blz. 382)"
           }
         },
         {

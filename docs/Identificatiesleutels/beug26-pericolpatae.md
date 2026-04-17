@@ -1,4 +1,4 @@
-# 26 Pericolpatae (Beug) — determinatietabel
+# 26 Pericolpatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug26-pericolpatae.json"></div>
 

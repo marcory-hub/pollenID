@@ -131,19 +131,8 @@
         {
           "label": "individuele pollenkorrel in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; individuele pollenkorrel soms in één vlak of een rij (tabel 1: 7 en 10).",
           "id": {
-            "name": "4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48",
-            "size": "0 µm",
-            "source": "MiW 39,4 µm; 50 PK, 0a.",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "calluna_vulgaris",
+            "note": "4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48"
           }
         },
         {

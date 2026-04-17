@@ -1,6 +1,6 @@
-# Monocolpatae (Beug §9) — determinatietabel
+# Monocolpatae (Beug)
 
-Sleutel voor **monocolpate pollenkorrels** (met één colpus), §9 in Beug. PK = pollenkorrel, ÄFormI = äquatoriale vormindex.
+Sleutel voor **monocolpate pollenkorrels** (met één colpus)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug09-monocolpatae.json"></div>
 

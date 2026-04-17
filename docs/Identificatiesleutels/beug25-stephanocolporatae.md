@@ -1,6 +1,4 @@
-# 25. Stephanocolporatae (Beug) — determinatietabel
-
-Sleutel voor **25. Stephanocolporatae**, §25 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 25. Stephanocolporatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug25-stephanocolporatae.json"></div>
 

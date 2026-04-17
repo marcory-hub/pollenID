@@ -53,6 +53,7 @@ FIELD_ORDER = [
     "pe_ratio",
     "aperture",
     "ornamentation",
+    "images",
     "image",
     "bloeitijd",
     "nectar_value",
@@ -205,6 +206,9 @@ def _init_entry() -> Dict[str, Any]:
         "pe_ratio": None,
         "aperture": None,
         "ornamentation": None,
+        # Optional: explicit image list (single source of truth for paths and provenance).
+        # Kept separate from 'image.height_px' for backward compatibility with existing templates.
+        "images": [],
         "image": {"height_px": None},
         "bloeitijd": {"start": None, "end": None},
         "nectar_value": None,

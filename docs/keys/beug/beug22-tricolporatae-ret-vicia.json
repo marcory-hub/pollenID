@@ -26,9 +26,7 @@
             }
           ],
           "id": {
-            "name": "Pisum sativum",
-            "size": "-",
-            "source": "-"
+            "pollen_key": "pisum_sativum"
           }
         },
         {

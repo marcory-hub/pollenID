@@ -1,6 +1,4 @@
-# 24.10 *Salvia pratensis*-Gruppe (Beug) — determinatietabel
-
-Sleutel voor **24.10 *Salvia pratensis*-Gruppe**, §24.10 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 24.10 Salvia pratensis-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug24-stephanocolpatae-salvia.json"></div>
 

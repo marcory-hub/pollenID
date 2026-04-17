@@ -1,4 +1,4 @@
-# 13.4 *Aconitum*-groep (Beug) — determinatietabel
+# 13.4 *Aconitum*-groep (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug13-tricolpatae-ps-aconitum-groep.json"></div>
 

@@ -13,19 +13,8 @@
         {
           "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
           "id": {
-            "name": "15.1.1 Cornus sanguinea",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cornus_sanguinea",
+            "note": "15.1.1 Cornus sanguinea"
           }
         },
         {

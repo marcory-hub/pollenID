@@ -1,4 +1,4 @@
-# 15.1 *Cornus* (Beug) — determinatietabel
+# 15.1 Cornus (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug15-tricolporoidatae-ps-cornus.json"></div>
 

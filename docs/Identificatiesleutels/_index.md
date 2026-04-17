@@ -160,7 +160,7 @@
 - [28. Heterocolpatae](beug28-heterocolpatae.md)
 
 ### 29 Fenestratae
-- [29. Heterocolpatae](beug29-heterocolpatae.md)
+- [29. Fenestratae](beug29-fenestratae.md)
 
 ### 30. Diporatae
 - [30. Diporatae](beug30-diporatae.md)

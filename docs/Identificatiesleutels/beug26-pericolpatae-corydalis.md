@@ -1,6 +1,4 @@
-# 26.6 Corydalis-groep (Beug) - determinatietabel
-
-Deze subpagina heeft nog geen eigen JSON-sleutel; tot die tijd verwijst ze naar de hoofd-sleutel **26. Pericolpatae**. [to be verified]
+# 26.6 Corydalis-groep (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug26-pericolpatae.json"></div>
 

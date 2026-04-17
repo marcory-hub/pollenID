@@ -21,11 +21,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/Calluna-vulgaris-2.png",
-              "imageWidthPx": 50
+              "imageHeightPx": 89
             },
             {
               "image": "../../assets/images/pollenwiki/Calluna-vulgaris-3.png",
-              "imageWidthPx": 50
+              "imageHeightPx": 89
             }
           ]
         },
@@ -37,11 +37,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
-              "imageWidthPx": 20
+              "imageHeightPx": 63
             },
             {
               "image": "../../assets/images/pollenwiki/Brassica_napus_Eo_26.png",
-              "imageWidthPx": 20
+              "imageHeightPx": 63
             }
           ]
         }
@@ -63,7 +63,7 @@
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/Onagraceae_Eo.png",
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -157,7 +157,7 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/Cichorium)_intybus_o1.png",
+                "image": "../../assets/images/pollenwiki/Cichorium_intybus_o1.png",
                 "imageWidthPx": 20
               },
               {
@@ -336,19 +336,8 @@
         {
           "label": "wratten regelmatig verspreid (geen kale plekken)",
           "id": {
-            "name": "Taxaceae (Taxus baccata)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "taxus_baccata",
+            "note": "Taxaceae (Taxus baccata)"
           }
         }
       ]
@@ -590,19 +579,8 @@
         {
           "label": "colpi kruisvormig (met equatoriale ‘takken’)",
           "id": {
-            "name": "Boraginaceae (Cynoglossum officinale)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cynoglossum_officinale",
+            "note": "Boraginaceae (Cynoglossum officinale)"
           }
         },
         {
@@ -632,9 +610,8 @@
         {
           "label": "ornamentatie striaat",
           "id": {
-            "name": "Lythraceae (Lythrum salicaria)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "lythrum_salicaria",
+            "note": "Lythraceae (Lythrum salicaria)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -650,19 +627,8 @@
         {
           "label": "ornamentatie fijn reticulaat (mazen kleiner dan 1 µm)",
           "id": {
-            "name": "Hydrophyllaceae (Phacelia tanacetifolia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "phacelia_tanacetifolia",
+            "note": "Hydrophyllaceae (Phacelia tanacetifolia)"
           }
         }
       ]
@@ -926,9 +892,8 @@
         {
           "label": "netwerk met stekeltjes (kleiner dan 1 µm)",
           "id": {
-            "name": "Plumbaginaceae (Armeria maritima, Limonium vulgare)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "armeria_maritima",
+            "note": "Plumbaginaceae (Armeria maritima, Limonium vulgare)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1030,9 +995,8 @@
         {
           "label": "pollenkorrel kleiner dan 25 µm",
           "id": {
-            "name": "Caprifoliaceae (Sambucus nigra)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "sambucus_nigra",
+            "note": "Caprifoliaceae (Sambucus nigra)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1188,19 +1152,8 @@
         {
           "label": "nexine duidelijk, scabrae dicht op elkaar",
           "id": {
-            "name": "Papaveraceae (Chelidonium majus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "chelidonium_majus",
+            "note": "Papaveraceae (Chelidonium majus)"
           }
         }
       ]
@@ -1288,9 +1241,8 @@
         {
           "label": "colpi lang, stekels duidelijk, op een verbrede basis",
           "id": {
-            "name": "Valerianaceae (Valeriana officinalis)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "valeriana_officinalis",
+            "note": "Valerianaceae (Valeriana officinalis)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -1618,19 +1570,8 @@
         {
           "label": "pollenkorrel kleiner dan 40 µm, met zes colpi",
           "id": {
-            "name": "Boraginaceae (Cynoglossum officinale)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cynoglossum_officinale",
+            "note": "Boraginaceae (Cynoglossum officinale)"
           }
         }
       ]
@@ -1736,19 +1677,8 @@
         {
           "label": "Pollenkorrel vanbinnen met twee equatoriale ringvormige verdikkingen",
           "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Centaurea - Centaurea cyanus",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "centaurea_cyanus",
+            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Centaurea - Centaurea cyanus"
           }
         },
         {
@@ -1864,37 +1794,15 @@
         {
           "label": "colpusranden vormen iets uitstekende kapjes over de pori",
           "id": {
-            "name": "Apiaceae (Carum carvi)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "carum_carvi",
+            "note": "Apiaceae (Carum carvi)"
           }
         },
         {
           "label": "colpusranden vormen geen uitstekende kapjes over de pori",
           "id": {
-            "name": "Apiaceae (Anthriscus sylvestris)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "anthriscus_sylvestris",
+            "note": "Apiaceae (Anthriscus sylvestris)"
           }
         }
       ]
@@ -2026,9 +1934,8 @@
         {
           "label": "pori rond tot elliptisch (dwars)",
           "id": {
-            "name": "Rhamnaceae (Rhamnus frangula)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "rhamnus_frangula",
+            "note": "Rhamnaceae (Rhamnus frangula)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -2050,37 +1957,15 @@
         {
           "label": "colpi naar binnen gevouwen of smal, pori soms ‘H’-vormig",
           "id": {
-            "name": "Cornaceae (Cornus mas)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cornus_mas",
+            "note": "Cornaceae (Cornus mas)"
           }
         },
         {
           "label": "colpi niet naar binnen gevouwen, colpusmembranen (= nexine in/onder colpi) met wratjes",
           "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Robinia pseudoacacia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "robinia_pseudoacacia",
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Robinia pseudoacacia)"
           }
         }
       ]
@@ -2092,19 +1977,8 @@
         {
           "label": "pori onduidelijk (soms ‘H’-vormig), colpi lang",
           "id": {
-            "name": "Cornaceae (Cornus mas)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cornus_mas",
+            "note": "Cornaceae (Cornus mas)"
           }
         },
         {
@@ -2190,19 +2064,8 @@
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp rechthoekig",
           "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Lotus corniculatus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "lotus_corniculatus",
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Lotus corniculatus)"
           }
         },
         {
@@ -2228,19 +2091,8 @@
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
           "id": {
-            "name": "Cornaceae (Cornus mas)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "cornus_mas",
+            "note": "Cornaceae (Cornus mas)"
           }
         },
         {
@@ -2322,19 +2174,8 @@
         {
           "label": "pollenkorrel in zijaanzicht smal elliptisch, pori in bovenaanzicht tussen de hoekpunten",
           "id": {
-            "name": "Fagaceae (Castanea sativa)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "castanea_sativa",
+            "note": "Fagaceae (Castanea sativa)"
           }
         }
       ]
@@ -2436,9 +2277,8 @@
         {
           "label": "pollenkorrel groot (± 100 µm)",
           "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Echinops sphaerocephalus)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "echinops_sphaerocephalus",
+            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Echinops sphaerocephalus)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -2578,19 +2418,8 @@
         {
           "label": "Colpusmembranen (= nexine in/onder colpi) met duidelijke stekels",
           "id": {
-            "name": "[Hippocastanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hippocastanaceae) (paardenkastanjefamilie) - Aesculus hippocastanum",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "aesculus_hippocastanum",
+            "note": "[Hippocastanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hippocastanaceae) (paardenkastanjefamilie) - Aesculus hippocastanum"
           }
         },
         {
@@ -2658,19 +2487,8 @@
         {
           "label": "pollenkorrel peervormig",
           "id": {
-            "name": "[Boraginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Boraginaceae) (ruwbladigenfamilie) - Echium vulgare",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "echium_vulgare",
+            "note": "[Boraginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Boraginaceae) (ruwbladigenfamilie) - Echium vulgare"
           }
         },
         {
@@ -2734,19 +2552,8 @@
         {
           "label": "Wand dikker dan 2 µm, zuiltjes in infratectum zeer duidelijk, vertakt",
           "id": {
-            "name": "[Polygonaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae) (duizendknoopfamilie) - Fagopyrum esculentum",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "fagopyrum_esculentum",
+            "note": "[Polygonaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae) (duizendknoopfamilie) - Fagopyrum esculentum"
           }
         },
         {
@@ -2772,9 +2579,8 @@
         {
           "label": "Netwerk onduidelijk",
           "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Medicago - Melilotus - Vicia cracca - Vicia sepium",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "vicia_cracca",
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Medicago - Melilotus - Vicia cracca - Vicia sepium",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -2828,9 +2634,8 @@
         {
           "label": "Pollenkorrel groter dan 40 µm",
           "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Pisum sativum - Trifolium incarnatum - Vicia faba",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "pisum_sativum",
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Pisum sativum - Trifolium incarnatum - Vicia faba",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -2852,9 +2657,8 @@
         {
           "label": "Netwerk onduidelijk, naar de polen toe grover en vaak incompleet",
           "id": {
-            "name": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie) - (Vitis vinifera)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "vitis_vinifera",
+            "note": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie) - (Vitis vinifera)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -2928,19 +2732,8 @@
         {
           "label": "Pollenkorrel groter dan 40 µm",
           "id": {
-            "name": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Bryonia dioica)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "bryonia_dioica",
+            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Bryonia dioica)"
           }
         },
         {
@@ -2984,9 +2777,8 @@
         {
           "label": "Wand meestal dunner dan 2 µm, pori breder dan hoog of onduidelijk",
           "id": {
-            "name": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Sambucus nigra)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "sambucus_nigra",
+            "note": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Sambucus nigra)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -3056,9 +2848,8 @@
         {
           "label": "Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)",
           "id": {
-            "name": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Chamerion angustifolium (wilgenroosje) - Epilobium (basterdwederik) - Oenothera (teunisbloem)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "chamerion_angustifolium",
+            "note": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Chamerion angustifolium (wilgenroosje) - Epilobium (basterdwederik) - Oenothera (teunisbloem)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -3130,9 +2921,8 @@
         {
           "label": "Pollenkorrel ± 50 µm, ornamentatie reticulaat",
           "id": {
-            "name": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Cucumis sativus)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "cucumis_sativus",
+            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Cucumis sativus)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -3384,19 +3174,8 @@
         {
           "label": "Pori vooral op één helft van de pollenkorrel",
           "id": {
-            "name": "[Juglandaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juglandaceae) - Juglans regia (walnootboom)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "juglans_regia",
+            "note": "[Juglandaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juglandaceae) - Juglans regia (walnootboom)"
           }
         },
         {
@@ -3424,19 +3203,8 @@
         {
           "label": "Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones",
           "id": {
-            "name": "[Grossulariaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Grossulariaceae) - Ribes rubrum (aalbes)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "ribes_rubrum",
+            "note": "[Grossulariaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Grossulariaceae) - Ribes rubrum (aalbes)"
           }
         },
         {
@@ -3464,19 +3232,8 @@
         {
           "label": "Vier tot twaalf pori, pori zonder massieve rand",
           "id": {
-            "name": "[Ranunculaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Ranunculaceae) - Thalictrum flavum (poelruit)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "thalictrum_flavum",
+            "note": "[Ranunculaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Ranunculaceae) - Thalictrum flavum (poelruit)"
           }
         },
         {
@@ -3504,37 +3261,15 @@
         {
           "label": "Meestal meer dan 50 pori, tectum zonder perforaties",
           "id": {
-            "name": "Amaranthaceae (diverse geslachten), Chenopodiaceae (diverse geslachten) - Amaranthus caudatus (kattenstaartamarant)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "amaranthus_caudatus",
+            "note": "Amaranthaceae (diverse geslachten), Chenopodiaceae (diverse geslachten) - Amaranthus caudatus (kattenstaartamarant)"
           }
         },
         {
           "label": "Minder dan 50 pori, tectum met perforaties",
           "id": {
-            "name": "Caryophyllaceae (diverse geslachten) - Silene cucubalis (blaassilene)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "silene_cucubalis",
+            "note": "Caryophyllaceae (diverse geslachten) - Silene cucubalis (blaassilene)"
           }
         }
       ]

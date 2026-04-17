@@ -1,6 +1,4 @@
-# 33.8 *Caryophyllaceae* p.p. (Beug) — determinatietabel
-
-Sleutel voor **33.8 *Caryophyllaceae* p.p.**, §33.8 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 33.8 Caryophyllaceae p.p. (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-caryophyllaceae.json"></div>
 

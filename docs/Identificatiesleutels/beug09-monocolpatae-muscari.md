@@ -1,4 +1,4 @@
-# 9.14 Muscari (Beug) — determinatietabel
+# 9.14 Muscari (Beug)
 
 Onderdeel van de monocolpate sleutel (§9 in Beug). PK = pollenkorrel.
 

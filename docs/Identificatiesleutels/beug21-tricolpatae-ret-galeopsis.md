@@ -1,6 +1,4 @@
-# 21.10 Galeopsis-Ballota-Gruppe (Beug) — determinatietabel
-
-Sleutel voor **Galeopsis-Ballota-Gruppe**, §21.10 in Beug. PK = pollenkorrel.
+# 21.10 Galeopsis-Ballota-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug21-tricolpatae-ret-galeopsis.json"></div>
 

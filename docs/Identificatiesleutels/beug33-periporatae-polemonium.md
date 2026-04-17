@@ -1,6 +1,4 @@
-# 33.11 *Polemonium* (Beug) — determinatietabel
-
-Sleutel voor **33.11 *Polemonium***, §33.11 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 33.11 Polemonium (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-polemonium.json"></div>
 

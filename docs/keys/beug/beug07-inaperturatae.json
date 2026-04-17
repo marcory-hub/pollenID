@@ -13,17 +13,17 @@
         {
           "label": "PK gevormd als driezijdige piramide, (15)18-27(32) µm groot, zijden en hoeken van de piramide psilaat, vlakken reticulaat met tot 5(6) µm grote brochi (Tafel 5: 12-17)",
           "id": {
-            "name": "7.1 Thesium (Blz... 62)",
+            "name": "7.1 Thesium(geslacht uit sandelhoutfamilie)(Blz. 62) in paldat duidelijk tricolpaat",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Thesium_alpinum_Eo.png",
+                "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/paldat/Thesium_alpinum_Eo2.png",
+                "imageWidthPx": 70
               }
             ]
           }
@@ -47,19 +47,19 @@
     "2": {
       "choices": [
         {
-          "label": "PK oblaat tot sferoïdisch, heteropolair: distale zijde clavaat, gemmaat en/of baculaat, zeldener geheel verrucaat en eventueel met enkele clavae, proximale zijde verrucaat of aan de rand verrucaat en in het midden psilaat, van het proximale deel gescheiden door een soort ringvormige groeve (Tafel 2: 5-7)",
+          "label": "PK oblaat tot sferoïd, heteropolair: distale zijde clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en eventueel met enkele clavae, proximale zijde verrucaat of aan de rand verrucaat en in het midden psilaat, van het proximale deel gescheiden door een soort ringvormige groeve (Tafel 2: 5-7)",
           "id": {
-            "name": "Nymphaea (Blz... 73)",
+            "name": "Nymphaea (Blz. 73)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Nymphea_alba_d.png",
+                "imageWidthPx": 95
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Nymphea_alba_o.png",
+                "imageWidthPx": 95
               }
             ]
           }
@@ -87,7 +87,7 @@
           "id": {
             "name": "7.2 Ephedra (Blz... 64)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -123,7 +123,7 @@
           "id": {
             "name": "7.3 Cryptomeria-type (Blz... 65)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -159,7 +159,7 @@
           "id": {
             "name": "7.4 Juniperus-type (Blz... 66)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -259,7 +259,7 @@
           "id": {
             "name": "7.5 Larix, Pseudotsuga (Blz... 69)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -295,7 +295,7 @@
           "id": {
             "name": "7.6 Arum (Blz... 68)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -313,7 +313,7 @@
           "id": {
             "name": "7.7 Aristolochia (Blz... 68)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -333,9 +333,8 @@
         {
           "label": "Sculptuur scabraat-microechinaat. PK sferoïdisch, vaak verbogen en barstig-veldig, Exine zeer dunwandig (ca. 0,5 µm). De sculptuurelementen staan vaak op de muri van een vlak microreticulum (fasecontrastbeeld).",
           "id": {
-            "name": "7.8 Populus (Blz... 69)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "populus_sp",
+            "note": "*Populus sp.* (populier)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -353,7 +352,7 @@
           "id": {
             "name": "7.9 Taxus (Blz... 69)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -375,7 +374,7 @@
           "id": {
             "name": "7.10 Asarum europaeum (Blz... 69)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -443,7 +442,7 @@
           "id": {
             "name": "7.11 Crocus vernus-type (Blz... 69)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -479,7 +478,7 @@
           "id": {
             "name": "7.12 Elodea (Blz... 70)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -515,7 +514,7 @@
           "id": {
             "name": "7.13 Hydrocharis (Blz... 70)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -551,7 +550,7 @@
           "id": {
             "name": "7.14 Smilax (Blz... 70)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -569,7 +568,7 @@
           "id": {
             "name": "7.15 Laurus, Cinnamomum (Blz... 70)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -623,7 +622,7 @@
           "id": {
             "name": "7.16 Ruppia maritima (Blz... 70)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -641,7 +640,7 @@
           "id": {
             "name": "7.17 Callitriche obtusangula (Blz... 71)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -663,7 +662,7 @@
           "id": {
             "name": "7.18 Triglochin (Blz... 71)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -699,7 +698,7 @@
           "id": {
             "name": "7.19 Callitriche stagnalis (Blz... 71)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -735,7 +734,7 @@
           "id": {
             "name": "7.20 Potamogeton natans-type (Blz... 72)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -753,7 +752,7 @@
           "id": {
             "name": "7.21 Potamogeton pectinatus-type (Blz... 72)",
             "size": "-",
-            "source": "-",
+            "source": "[to be verified]",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

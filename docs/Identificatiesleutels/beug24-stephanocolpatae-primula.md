@@ -1,6 +1,4 @@
-# 24.13 *Primula veris*-Gruppe (Beug) — determinatietabel
-
-Sleutel voor **24.13 *Primula veris*-Gruppe**, §24.13 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 24.13 Primula veris-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug24-stephanocolpatae-primula.json"></div>
 

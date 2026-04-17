@@ -1,4 +1,4 @@
-# 25.4 *Pulmonaria*-Gruppe (Beug) — determinatietabel
+# 25.4 Pulmonaria-familie (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug25-stephanocolporatae-pulmonaria.json"></div>
 

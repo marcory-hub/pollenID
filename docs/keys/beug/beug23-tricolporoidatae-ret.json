@@ -98,9 +98,7 @@
             }
           ],
           "id": {
-            "name": "Sambucus ebulus",
-            "size": "-",
-            "source": "-"
+            "pollen_key": "sambucus_ebulus"
           }
         },
         {
@@ -230,9 +228,7 @@
             }
           ],
           "id": {
-            "name": "Robinia pseudoacacia",
-            "size": "-",
-            "source": "-"
+            "pollen_key": "robinia_pseudoacacia"
           }
         }
       ]
@@ -474,9 +470,7 @@
             }
           ],
           "id": {
-            "name": "Cercis siliquastrum",
-            "size": "-",
-            "source": "-"
+            "pollen_key": "cercis_siliquastrum"
           }
         },
         {
@@ -956,9 +950,7 @@
             }
           ],
           "id": {
-            "name": "Cercis siliquastrum",
-            "size": "-",
-            "source": "-"
+            "pollen_key": "cercis_siliquastrum"
           }
         }
       ]

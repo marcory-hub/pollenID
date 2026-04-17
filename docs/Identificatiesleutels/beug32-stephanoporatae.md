@@ -1,6 +1,4 @@
-# 32 Stephanoporatae (Beug) — determinatietabel
-
-Sleutel voor **32 Stephanoporatae**, §32 in Beug. PK = pollenkorrel, PFormI = pollenvormindex.
+# 32 Stephanoporatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug32-stephanoporatae.json"></div>
 

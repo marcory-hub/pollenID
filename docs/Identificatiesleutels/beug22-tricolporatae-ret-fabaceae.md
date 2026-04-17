@@ -1,6 +1,4 @@
-# 22.31 Fabaceae p.p. (Beug) — determinatietabel
-
-Sleutel voor **Fabaceae p.p.**, §22.31 in Beug. PK = pollenkorrel.
+# 22.31 Fabaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-fabaceae.json"></div>
 

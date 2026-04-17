@@ -1,4 +1,4 @@
-# 22.4 Fumana (Beug) — determinatietabel
+# 22.4 Fumana (Beug) - determinatietabel
 
 Sleutel voor **Fumana**, §22.4 in Beug. PK = pollenkorrel.
 

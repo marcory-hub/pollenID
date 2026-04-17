@@ -548,19 +548,8 @@
         {
           "label": "PK met 6 Colpi en Poriën, Exine met dikte Tectum (Tafel 90: 15-19).",
           "id": {
-            "name": "25.15 Sanguisorba officinalis (Blz. 400)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "sanguisorba_officinalis",
+            "note": "25.15 Sanguisorba officinalis (Blz. 400)"
           }
         },
         {

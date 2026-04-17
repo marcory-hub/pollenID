@@ -1,4 +1,4 @@
-# 14.11 Apiaceae (Beug) — determinatietabel
+# 14.11 Apiaceae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-apiaceae.json"></div>
 

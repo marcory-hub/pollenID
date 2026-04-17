@@ -121,6 +121,169 @@
     return jsonCache.get(abs);
   }
 
+  /**
+   * Pollen SoT index, produced by scripts/export_pollen_json.py from data/pollen.yaml.
+   * Loaded at runtime so endpoints that carry a `pollen_key` can render latin/dutch/
+   * size/images without duplicating those strings in key JSON files.
+   */
+  let pollenIndexPromise = null;
+  let docsRootUrl = null;
+
+  function computePollenIndexUrl(keyAbsUrl) {
+    try {
+      const u = new URL(keyAbsUrl, document.baseURI);
+      if (/\/keys\//.test(u.pathname)) {
+        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/assets/data/pollen.json");
+      } else {
+        u.pathname = u.pathname.replace(/\/[^/]*$/, "/assets/data/pollen.json");
+      }
+      u.search = "";
+      u.hash = "";
+      return u.href;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function fetchPollenIndex(fromAbsUrl) {
+    if (pollenIndexPromise) return pollenIndexPromise;
+    const url = computePollenIndexUrl(fromAbsUrl);
+    if (!url) {
+      pollenIndexPromise = Promise.resolve({});
+      return pollenIndexPromise;
+    }
+    try {
+      docsRootUrl = new URL("../../", url).href;
+    } catch (e) {
+      docsRootUrl = null;
+    }
+    pollenIndexPromise = fetch(url, { credentials: "same-origin" })
+      .then(function (r) {
+        if (!r.ok) throw new Error(r.status + " " + r.statusText);
+        return r.json();
+      })
+      .catch(function () {
+        return {};
+      });
+    return pollenIndexPromise;
+  }
+
+  function formatSizeFromIndex(size) {
+    if (!size || typeof size !== "object") return null;
+    const s = size.smallest_size != null ? String(size.smallest_size).trim() : "";
+    const l = size.largest_size != null ? String(size.largest_size).trim() : "";
+    if (!s && !l) return null;
+    const strip = function (v) { return v.replace(/\s*µm$/i, "").trim(); };
+    if (s && l) {
+      const su = strip(s);
+      const lu = strip(l);
+      if (su === lu) return su + " µm";
+      return su + "-" + lu + " µm";
+    }
+    return s || l;
+  }
+
+  function parseSizeNumber(s) {
+    if (s == null) return null;
+    const m = String(s).match(/(\d+(?:[.,]\d+)?)/);
+    if (!m) return null;
+    const n = parseFloat(m[1].replace(",", "."));
+    return Number.isFinite(n) ? n : null;
+  }
+
+  /**
+   * True-scale conversion factor for keys: 2,5 px per µm applied to the
+   * average of smallest_size and largest_size. Matches the widthPx/heightPx
+   * values stored elsewhere in the repo and the project rule in
+   * project-reference.mdc.
+   */
+  function heightPxFromSize(size) {
+    if (!size || typeof size !== "object") return null;
+    const a = parseSizeNumber(size.smallest_size);
+    const b = parseSizeNumber(size.largest_size);
+    let avg = null;
+    if (a != null && b != null) avg = (a + b) / 2;
+    else if (a != null) avg = a;
+    else if (b != null) avg = b;
+    if (avg == null || avg <= 0) return null;
+    return Math.round(2.5 * avg);
+  }
+
+  // Conservative height when pollen.yaml has no size for a taxon. Prevents
+  // fallback images from rendering at the default 320 px max-width. Populate
+  // the size fields in data/pollen.yaml to switch to true-scale (2,5 px/µm).
+  const FALLBACK_IMAGE_HEIGHT_PX = 100;
+
+  function imagesFromIndexEntry(entry) {
+    if (!entry || !Array.isArray(entry.images)) return [];
+    const h = heightPxFromSize(entry.size) || FALLBACK_IMAGE_HEIGHT_PX;
+    const out = [];
+    entry.images.forEach(function (im) {
+      if (im && typeof im.path === "string" && im.path) {
+        // Pollen-index paths are anchored at the docs root (e.g. "assets/images/...").
+        // Resolve them against docsRootUrl so they render correctly from any page.
+        let src = im.path;
+        if (docsRootUrl) {
+          try { src = new URL(im.path, docsRootUrl).href; } catch (e) { /* keep raw */ }
+        }
+        out.push({ image: src, imageHeightPx: h });
+      }
+    });
+    return out;
+  }
+
+  function resolveEndpointFromIndex(endpoint, pollenIndex) {
+    if (!endpoint || !pollenIndex) return null;
+    const key = endpoint.pollen_key;
+    if (typeof key !== "string" || !key) return null;
+    const entry = pollenIndex[key];
+    if (!entry) return null;
+    const images =
+      Array.isArray(endpoint.images) && endpoint.images.length > 0
+        ? endpoint.images
+        : imagesFromIndexEntry(entry);
+    return {
+      latin: entry.latin || null,
+      dutch: entry.dutch || null,
+      size: formatSizeFromIndex(entry.size),
+      images: images,
+      note: typeof endpoint.note === "string" && endpoint.note.trim() ? endpoint.note : null,
+    };
+  }
+
+  function renderEndpointTable(resolved) {
+    const table = document.createElement("table");
+    table.className = "vdh-pollentabel-outcome-table";
+    const tbody = document.createElement("tbody");
+    const rows = [];
+    if (!isMissingValue(resolved.latin)) {
+      rows.push(["Latijn", "<em>" + esc(String(resolved.latin)) + "</em>"]);
+    }
+    if (!isMissingValue(resolved.dutch)) {
+      rows.push(["Nederlands", esc(String(resolved.dutch))]);
+    }
+    if (!isMissingValue(resolved.size)) {
+      rows.push(["Grootte", esc(String(resolved.size))]);
+    }
+    rows.push(["Bron", "<code>pollen.yaml</code>"]);
+    if (!isMissingValue(resolved.note)) {
+      rows.push(["Opmerking", formatOutcomeRichText(String(resolved.note))]);
+    }
+    rows.forEach(function (r) {
+      const tr = document.createElement("tr");
+      const th = document.createElement("th");
+      th.scope = "row";
+      th.textContent = r[0];
+      const td = document.createElement("td");
+      td.innerHTML = r[1];
+      tr.appendChild(th);
+      tr.appendChild(td);
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    return table;
+  }
+
   function resolveAssetUrl(maybeRelative, baseUrl) {
     if (typeof maybeRelative !== "string" || !maybeRelative) return maybeRelative;
     if (/^[a-z]+:/i.test(maybeRelative) || maybeRelative.startsWith("/")) {
@@ -191,9 +354,10 @@
     });
   }
 
-  function runKey(root, data, dataAbsUrl) {
+  function runKey(root, data, dataAbsUrl, pollenIndex) {
     const start = data.start || (data.meta && data.meta.start) || "1";
     const steps = data.steps || {};
+    pollenIndex = pollenIndex || {};
     const stack = [];
     let currentStepId = String(start);
 
@@ -259,7 +423,13 @@
         // Interactive choices: show images (scaled), placeholders stay dimmed.
         const imgsFromChoice = Array.isArray(ch.images) ? ch.images : [];
         const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
-        const imgsFromEndpoint = endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
+        let imgsFromEndpoint = endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
+        if (
+          (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
+          endpoint && endpoint.pollen_key && pollenIndex[endpoint.pollen_key]
+        ) {
+          imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[endpoint.pollen_key]);
+        }
         const imgs = imgsFromChoice.concat(imgsFromEndpoint);
         if (imgs.length > 0) {
           renderImagesRow(
@@ -290,38 +460,50 @@
             choiceLabel: ch && ch.label ? String(ch.label) : "",
             hasOutcome: !!(
               (ch && ch.outcome && ch.outcome.text) ||
-              (ch && ch.id && (ch.id.name || ch.id.text))
+              (ch && ch.id && (ch.id.name || ch.id.text || ch.id.pollen_key))
             ),
             next: ch && ch.next ? String(ch.next) : null,
           });
           var endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
-          if (endpoint && (endpoint.text || endpoint.name)) {
+          if (endpoint && (endpoint.text || endpoint.name || endpoint.pollen_key)) {
             stack.push(id);
             outcomeEl.hidden = false;
             outcomeEl.replaceChildren();
             const h = document.createElement("h4");
             h.textContent = "Eindpunt";
-            const p = document.createElement("p");
+            outcomeEl.appendChild(h);
+
+            const resolved = resolveEndpointFromIndex(endpoint, pollenIndex);
+            let altLabel = "Eindpunt";
+            let imgs = [];
             if (endpoint.text) {
+              const p = document.createElement("p");
               p.innerHTML = formatOutcomeRichText(String(endpoint.text));
+              outcomeEl.appendChild(p);
+              altLabel = String(endpoint.text);
+              imgs = Array.isArray(endpoint.images) ? endpoint.images : [];
+            } else if (resolved) {
+              outcomeEl.appendChild(renderEndpointTable(resolved));
+              altLabel = resolved.latin || resolved.dutch || "Eindpunt";
+              imgs = resolved.images || [];
             } else {
+              const p = document.createElement("p");
               var lines = [];
               if (!isMissingValue(endpoint.name)) lines.push(formatEmphasisAst(String(endpoint.name)));
               if (!isMissingValue(endpoint.size)) lines.push(esc(String(endpoint.size)));
               if (!isMissingValue(endpoint.source)) lines.push(esc(String(endpoint.source)));
               p.innerHTML = lines.join("<br />");
+              outcomeEl.appendChild(p);
+              altLabel = String(endpoint.name || "Eindpunt");
+              imgs = Array.isArray(endpoint.images) ? endpoint.images : [];
             }
-            outcomeEl.appendChild(h);
-            outcomeEl.appendChild(p);
 
-            const imgs =
-              endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
             if (imgs.length > 0) {
               renderImagesRow(
                 outcomeEl,
                 imgs,
                 dataAbsUrl || document.baseURI,
-                ((endpoint.text || endpoint.name || "Eindpunt") + "")
+                altLabel
                   .replace(/\*([^*]*)\*/g, "$1")
                   .replace(/\n/g, " ")
                   .trim() + " (afbeelding)"
@@ -333,7 +515,15 @@
               stepId: String(id),
               choiceIdx: idx,
               choiceLabel: ch && ch.label ? String(ch.label) : "",
-              outcomeText: String(endpoint && endpoint.text ? endpoint.text : endpoint && endpoint.name ? endpoint.name : ""),
+              outcomeText: String(
+                endpoint && endpoint.text
+                  ? endpoint.text
+                  : resolved && resolved.latin
+                  ? resolved.latin
+                  : endpoint && endpoint.name
+                  ? endpoint.name
+                  : ""
+              ),
             });
             return;
           }
@@ -454,8 +644,9 @@
     };
   }
 
-  function flattenSteps(data) {
+  function flattenSteps(data, pollenIndex) {
     const steps = data.steps || {};
+    pollenIndex = pollenIndex || {};
     const ids = Object.keys(steps).sort(function (a, b) {
       return parseInt(a, 10) - parseInt(b, 10);
     });
@@ -489,11 +680,25 @@
               },
             ];
           }
-        } else if (ch.id && (ch.id.text || ch.id.name)) {
-          result = ch.id.text || ch.id.name || "";
+        } else if (ch.id && (ch.id.text || ch.id.name || ch.id.pollen_key)) {
+          const resolvedRow = resolveEndpointFromIndex(ch.id, pollenIndex);
+          if (ch.id.text) {
+            result = ch.id.text;
+          } else if (resolvedRow) {
+            let txt = "";
+            if (resolvedRow.latin) txt += "*" + resolvedRow.latin + "*";
+            if (resolvedRow.dutch) txt += (txt ? " " : "") + "(" + resolvedRow.dutch + ")";
+            if (resolvedRow.size) txt += (txt ? "\n" : "") + resolvedRow.size;
+            if (resolvedRow.note) txt += (txt ? "\n" : "") + resolvedRow.note;
+            result = txt || ch.id.pollen_key || "";
+          } else {
+            result = ch.id.name || "";
+          }
           kind = ch.id.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
-          if (Array.isArray(ch.id.images)) {
+          if (Array.isArray(ch.id.images) && ch.id.images.length > 0) {
             images = ch.id.images;
+          } else if (resolvedRow && Array.isArray(resolvedRow.images) && resolvedRow.images.length > 0) {
+            images = resolvedRow.images;
           } else if (ch.id.image) {
             images = [
               {
@@ -524,8 +729,8 @@
     return rows;
   }
 
-  function runTable(root, data, dataAbsUrl) {
-    const rows = flattenSteps(data);
+  function runTable(root, data, dataAbsUrl, pollenIndex) {
+    const rows = flattenSteps(data, pollenIndex || {});
     const wrap = document.createElement("div");
     wrap.className = "vdh-pollentabel-table md-typeset";
 
@@ -648,10 +853,12 @@
     root.innerHTML =
       '<p class="vdh-pollentabel-status">' + esc("Laden…") + "</p>";
 
-    fetchJsonCached(jsonUrl)
-      .then(function (data) {
+    Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndex(dataAbsUrl)])
+      .then(function (res) {
+        const data = res[0];
+        const pollenIndex = res[1] || {};
         root.replaceChildren();
-        root.__vdhPollentabelController = runKey(root, data, dataAbsUrl);
+        root.__vdhPollentabelController = runKey(root, data, dataAbsUrl, pollenIndex);
       })
       .catch(function (e) {
         root.innerHTML =
@@ -672,10 +879,12 @@
     root.innerHTML =
       '<p class="vdh-pollentabel-status">' + esc("Tabel laden…") + "</p>";
 
-    fetchJsonCached(jsonUrl)
-      .then(function (data) {
+    Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndex(dataAbsUrl)])
+      .then(function (res) {
+        const data = res[0];
+        const pollenIndex = res[1] || {};
         root.replaceChildren();
-        runTable(root, data, dataAbsUrl);
+        runTable(root, data, dataAbsUrl, pollenIndex);
       })
       .catch(function (e) {
         root.innerHTML =

@@ -1,6 +1,4 @@
-# 11. Dicolpatae (Beug) — determinatietabel
-
-Sleutel voor **dicolpate pollenkorrels** (met twee colpen), §11 in Beug. PK = pollenkorrel.
+# 11. Dicolpatae (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug11-dicolpatae.json"></div>
 

@@ -181,9 +181,8 @@
         {
           "label": "columellae in het equatoriale midden 4,0-4,7 µm lang. ikontuur naar het equatoriale midden sterk ingezonken (Tafel 23: 4-6)",
           "id": {
-            "name": "14.11.3 Tordylium apulum (Blz.. 170)",
-            "size": "-",
-            "source": "-",
+            "pollen_key": "tordylium_apulum",
+            "note": "14.11.3 Tordylium apulum (Blz.. 170)",
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
