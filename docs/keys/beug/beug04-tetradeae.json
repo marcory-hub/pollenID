@@ -15,7 +15,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK reticulaat-areolaat (tabel 1: 1–2), ca. 60–80 µm groot.",
+          "label": "individuele pollenkorrel reticulaat-areolaat (tabel 1: 1–2), ca. 60–80 µm groot.",
           "id": {
             "name": "4.1 Catalpa (Blz... 43)",
             "size": "-",
@@ -33,7 +33,7 @@
           }
         },
         {
-          "label": "EPK niet areolaat.",
+          "label": "individuele pollenkorrel niet areolaat.",
           "next": "2",
           "images": [
             {
@@ -53,7 +53,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK echinaat (tabel 2: 1–2).",
+          "label": "individuele pollenkorrel echinaat (tabel 2: 1–2).",
           "id": {
             "name": "4.2 Drosera (Blz... 43)",
             "size": "-",
@@ -71,7 +71,7 @@
           }
         },
         {
-          "label": "EPK niet echinaat.",
+          "label": "individuele pollenkorrel niet echinaat.",
           "next": "3",
           "images": [
             {
@@ -91,7 +91,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, Blz... 44 en 50).",
+          "label": "individuele pollenkorrel inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, Blz... 44 en 50).",
           "id": {
             "name": "4.3 Juncaceae (Blz... 43)",
             "size": "-",
@@ -109,7 +109,7 @@
           }
         },
         {
-          "label": "EPK met poriën en/of colpi (meestal tricolpaat, monoporaat of triporaat).",
+          "label": "individuele pollenkorrel met poriën en/of colpi (meestal tricolpaat, monoporaat of triporaat).",
           "next": "4",
           "images": [
             {
@@ -129,7 +129,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "Tetraden coaperturaat, d.w.z. de aangrenzende aperturen van twee EPK gaan in elkaar over (fig. 2a,b).",
+          "label": "Tetraden coaperturaat, d.w.z. de aangrenzende aperturen van twee individuele pollenkorrel gaan in elkaar over (fig. 2a,b).",
           "next": "5",
           "images": [
             {
@@ -163,7 +163,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK poraat.",
+          "label": "individuele pollenkorrel poraat.",
           "next": "6",
           "images": [
             {
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "label": "EPK colpaat.",
+          "label": "individuele pollenkorrel colpaat.",
           "next": "7",
           "images": [
             {
@@ -197,7 +197,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "Tetraden met 16–24 poriën. Telkens 2 poriën van aangrenzende EPK zijn coaperturaat met elkaar verbonden (tabel 1: 6; fig. 2a).",
+          "label": "Tetraden met 16–24 poriën. Telkens 2 poriën van aangrenzende individuele pollenkorrel zijn coaperturaat met elkaar verbonden (tabel 1: 6; fig. 2a).",
           "id": {
             "name": "4.4 Periploca (Blz... 43)",
             "size": "-",
@@ -239,7 +239,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).",
+          "label": "individuele pollenkorrel echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).",
           "id": {
             "name": "4.6 Aldrovanda vesiculosa (Blz... 44)",
             "size": "-",
@@ -257,7 +257,7 @@
           }
         },
         {
-          "label": "EPK verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).",
+          "label": "individuele pollenkorrel verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).",
           "id": {
             "name": "4.7 Ericaceae — Empetrum-groep (Blz... 44)",
             "size": "-",
@@ -281,7 +281,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK tricolpaat, meestal met dwarsplooien. EPK slechts weinig onderling vergroeid; vaak zit in het midden van de tetrade een kleine holte (tabel 3: 1–3).",
+          "label": "individuele pollenkorrel tricolpaat, meestal met dwarsplooien. individuele pollenkorrel slechts weinig onderling vergroeid; vaak zit in het midden van de tetrade een kleine holte (tabel 3: 1–3).",
           "id": {
             "name": "4.8 Chimaphila umbellata (Blz... 49)",
             "size": "-",
@@ -299,7 +299,7 @@
           }
         },
         {
-          "label": "EPK met 1 of 2 poriën.",
+          "label": "individuele pollenkorrel met 1 of 2 poriën.",
           "next": "9",
           "images": [
             {
@@ -319,7 +319,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK oblaat tot peroblaat, triporaat, poriën uitgetrokken. De EPK zitten slechts aan de porieranden losjes aan elkaar vast (tabel 98: 11–12).",
+          "label": "individuele pollenkorrel oblaat tot peroblaat, triporaat, poriën uitgetrokken. De individuele pollenkorrel zitten slechts aan de porieranden losjes aan elkaar vast (tabel 98: 11–12).",
           "id": {
             "name": "Epilobium (Blz... 43)",
             "size": "-",
@@ -337,7 +337,7 @@
           }
         },
         {
-          "label": "EPK ± sferoïdisch, monoporaat of diporaat, reticulaat of striaat(-reticulaat).",
+          "label": "individuele pollenkorrel ± sferoïdisch, monoporaat of diporaat, reticulaat of striaat(-reticulaat).",
           "next": "10",
           "images": [
             {
@@ -357,7 +357,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën tot 4 µm groot, EPK steeds monoporaat (tabel 2: 10–11; fig. 2c).",
+          "label": "Poriën tot 4 µm groot, individuele pollenkorrel steeds monoporaat (tabel 2: 10–11; fig. 2c).",
           "id": {
             "name": "4.9 Typha latifolia-type (Blz... 49)",
             "size": "-",
@@ -375,7 +375,7 @@
           }
         },
         {
-          "label": "Poriën tot 8–15 µm groot, EPK monoporaat of diporaat. Poriën evt. niet herkenbaar (fig. 3; tabel 1: 3–4).",
+          "label": "Poriën tot 8–15 µm groot, individuele pollenkorrel monoporaat of diporaat. Poriën evt. niet herkenbaar (fig. 3; tabel 1: 3–4).",
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",

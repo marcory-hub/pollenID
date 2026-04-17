@@ -52,7 +52,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK met 1 of 2 grote poriën.",
+          "label": "individuele pollenkorrel met 1 of 2 grote poriën.",
           "next": "3",
           "images": [
             {
@@ -66,7 +66,7 @@
           ]
         },
         {
-          "label": "EPK inaperturaat.",
+          "label": "individuele pollenkorrel inaperturaat.",
           "id": {
             "name": "Listera p.p., Neottia p.p., Spiranthes p.p.",
             "size": "-",
@@ -90,7 +90,7 @@
       "type": "step",
       "choices": [
         {
-          "label": "EPK met 1 porie, tetraden reticulaat gesculpteerd.",
+          "label": "individuele pollenkorrel met 1 porie, tetraden reticulaat gesculpteerd.",
           "id": {
             "name": "4.10.2 Epipactis",
             "size": "-",
@@ -108,7 +108,7 @@
           }
         },
         {
-          "label": "EPK met 2 poriën, tetraden reticulaat of reticulaat-striaat gesculpteerd.",
+          "label": "individuele pollenkorrel met 2 poriën, tetraden reticulaat of reticulaat-striaat gesculpteerd.",
           "id": {
             "name": "4.10.3 Neottia-type",
             "size": "-",
