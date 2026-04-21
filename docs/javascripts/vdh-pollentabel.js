@@ -133,9 +133,9 @@
     try {
       const u = new URL(keyAbsUrl, document.baseURI);
       if (/\/keys\//.test(u.pathname)) {
-        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/assets/data/pollen.json");
+        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/data/pollen.json");
       } else {
-        u.pathname = u.pathname.replace(/\/[^/]*$/, "/assets/data/pollen.json");
+        u.pathname = u.pathname.replace(/\/[^/]*$/, "/data/pollen.json");
       }
       u.search = "";
       u.hash = "";
@@ -300,6 +300,19 @@
     return typeof p === "string" && /\/PLACEHOLDER_[A-Za-z]+\.png$/i.test(p);
   }
 
+  function resolveNoImageFoundUrl(baseUrl) {
+    // Always prefer the real docs root if we managed to compute it from pollen.json.
+    if (docsRootUrl) {
+      try {
+        return new URL("assets/images/placeholder/NO_IMAGE_FOUND.jpg", docsRootUrl).href;
+      } catch (e) {
+        // fall through
+      }
+    }
+    // Otherwise resolve from the current key/page location.
+    return resolveAssetUrl("../../assets/images/placeholder/NO_IMAGE_FOUND.jpg", baseUrl || document.baseURI);
+  }
+
   function applyImageSizing(img, heightPx, widthPx, isPlaceholder) {
     img.style.display = "block";
     img.style.height = "auto";
@@ -307,7 +320,7 @@
 
     if (typeof heightPx === "number" && Number.isFinite(heightPx) && heightPx > 0) {
       if (isPlaceholder && heightPx <= 1) {
-        img.style.height = "24px";
+        img.style.height = "20px";
         img.style.width = "auto";
         img.classList.add("pid-placeholder-image");
       } else {
@@ -319,7 +332,7 @@
 
     if (typeof widthPx === "number" && Number.isFinite(widthPx) && widthPx > 0) {
       if (isPlaceholder && widthPx <= 1) {
-        img.style.width = "24px";
+        img.style.width = "20px";
         img.classList.add("pid-placeholder-image");
       } else {
         img.style.width = String(widthPx) + "px";
@@ -327,7 +340,7 @@
       return;
     }
 
-    img.style.maxWidth = isPlaceholder ? "24px" : "320px";
+    img.style.maxWidth = isPlaceholder ? "20px" : "320px";
     if (isPlaceholder) img.classList.add("pid-placeholder-image");
   }
 
@@ -346,9 +359,11 @@
     images.forEach(function (im, imIdx) {
       if (!im || !im.image) return;
       const img = document.createElement("img");
-      img.src = resolveAssetUrl(im.image, baseUrl || document.baseURI);
       img.alt = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
       const ph = isPlaceholderImagePath(im.image);
+      img.src = ph
+        ? resolveNoImageFoundUrl(baseUrl || document.baseURI)
+        : resolveAssetUrl(im.image, baseUrl || document.baseURI);
       applyImageSizing(img, im.imageHeightPx, im.imageWidthPx, ph);
       row.appendChild(img);
     });

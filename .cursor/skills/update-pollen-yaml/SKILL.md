@@ -37,7 +37,7 @@ Use:
 
 ## Regenerate the runtime index
 
-`docs/javascripts/vdh-pollentabel.js` reads `docs/assets/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate that file:
+`docs/javascripts/vdh-pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate that file:
 
 ```bash
 ./.venv/bin/python scripts/export_pollen_json.py
@@ -45,6 +45,6 @@ Use:
 
 Rules:
 - Always run the exporter in the same turn as the YAML edit; commit both files together.
-- Do not edit `docs/assets/data/pollen.json` by hand; it is generated.
+- Do not edit `docs/data/pollen.json` by hand; it is generated.
 - The exporter only emits `latin`, `dutch`, `family`, `size.smallest_size/largest_size`, and `images`; extending those fields requires editing `scripts/export_pollen_json.py`.
 

@@ -72,6 +72,11 @@
   },
   "aesculus_hippocastanum": {
     "latin": "Aesculus hippocastanum",
+    "dutch": "paardenkastanje",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "24 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Aesculus_hippocastanum_Eo.png",
@@ -252,6 +257,10 @@
   "amaranthus_caudatus": {
     "latin": "Amaranthus caudatus",
     "dutch": "kattenstaartamarant",
+    "size": {
+      "smallest_size": "20.8 µm",
+      "largest_size": "26.6 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Amaranthus_caudatus_Po.png",
@@ -327,6 +336,10 @@
   "anthriscus_sylvestris": {
     "latin": "Anthriscus sylvestris",
     "dutch": "Anthriscus sylvestris",
+    "size": {
+      "smallest_size": "15 µm",
+      "largest_size": "26 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Anthriscus_sylvestris_Ed.png",
@@ -500,6 +513,10 @@
   "bryonia_dioica": {
     "latin": "Bryonia dioica",
     "dutch": "Bryonia dioica",
+    "size": {
+      "smallest_size": "35 µm",
+      "largest_size": "44 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Bryonia_dioica_Eo.png",
@@ -678,6 +695,10 @@
   "carum_carvi": {
     "latin": "Carum carvi",
     "dutch": "Carum carvi",
+    "size": {
+      "smallest_size": "24 µm",
+      "largest_size": "28 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Carum_carvi_Ed.png",
@@ -791,6 +812,10 @@
   },
   "centaurea_cyanus": {
     "latin": "Centaurea cyanus",
+    "size": {
+      "smallest_size": "34 µm",
+      "largest_size": "41 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Centaurea_cyanus_Ed.png",
@@ -866,21 +891,21 @@
       "largest_size": "28 µm"
     }
   },
-  "chamerion_angust": {
-    "latin": "Chamerion angust",
-    "dutch": "wilgeroosje",
+  "chamerion_angustifolium": {
+    "latin": "Chamerion angustifolium",
+    "dutch": "(knikkend) wilgeroosje",
     "size": {
       "smallest_size": "62 µm",
       "largest_size": "80 µm"
     }
   },
-  "chamerion_angustifolium": {
-    "latin": "Chamerion angustifolium",
-    "dutch": "teunisbloem"
-  },
   "chelidonium_majus": {
     "latin": "Chelidonium majus",
     "dutch": "Chelidonium majus",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Chelidonium_majus_Ed.png",
@@ -1131,20 +1156,20 @@
       }
     ]
   },
-  "coryllus_avelana": {
-    "latin": "Coryllus avelana",
-    "dutch": "hazelaar",
-    "size": {
-      "smallest_size": "27 µm",
-      "largest_size": "27 µm"
-    }
-  },
   "corylopsis_parcifl": {
     "latin": "Corylopsis parcifl",
     "dutch": "schijnhazelaar",
     "size": {
       "smallest_size": "25 µm",
       "largest_size": "32 µm"
+    }
+  },
+  "corylus_avellana": {
+    "latin": "Corylus avellana",
+    "dutch": "hazelaar",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "27 µm"
     }
   },
   "cosmos_sp": {
@@ -1191,7 +1216,11 @@
   },
   "crataegus_monogyna": {
     "latin": "Crataegus monogyna",
-    "dutch": "https://www.jstor.org/stable/i25027808"
+    "dutch": "https://www.jstor.org/stable/i25027808",
+    "size": {
+      "smallest_size": "39 µm",
+      "largest_size": "46 µm"
+    }
   },
   "crataegus_oxycantha": {
     "latin": "Crataegus oxycantha",
@@ -1271,7 +1300,11 @@
   },
   "cucumis_sativus": {
     "latin": "Cucumis sativus",
-    "dutch": "Cucumis sativus"
+    "dutch": "Cucumis sativus",
+    "size": {
+      "smallest_size": "50 µm",
+      "largest_size": "62 µm"
+    }
   },
   "cynoglossum_creticum": {
     "latin": "Cynoglossum creticum",
@@ -1306,6 +1339,10 @@
   "cynoglossum_officinale": {
     "latin": "Cynoglossum officinale",
     "dutch": "Cynoglossum officinale",
+    "size": {
+      "smallest_size": "11 µm",
+      "largest_size": "15 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Cynoglossum_officinale_Ed.png",
@@ -1426,6 +1463,10 @@
   "dryas_octopetala": {
     "latin": "Dryas octopetala",
     "dutch": "zilverkruid",
+    "size": {
+      "smallest_size": "27 µm",
+      "largest_size": "32 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Dryas_octopetala_Ed.png",
@@ -1459,7 +1500,11 @@
   },
   "echinops_sphaerocephalus": {
     "latin": "Echinops sphaerocephalus",
-    "dutch": "Echinops sphaerocephalus"
+    "dutch": "Echinops sphaerocephalus",
+    "size": {
+      "smallest_size": "74 µm",
+      "largest_size": "80 µm"
+    }
   },
   "echium": {
     "latin": "Echium",
@@ -1471,6 +1516,10 @@
   },
   "echium_vulgare": {
     "latin": "Echium vulgare",
+    "size": {
+      "smallest_size": "17 µm",
+      "largest_size": "17 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/echium_vulgare_E_size17um.png",
@@ -1655,6 +1704,10 @@
   },
   "fagopyrum_esculentum": {
     "latin": "Fagopyrum esculentum",
+    "size": {
+      "smallest_size": "51 µm",
+      "largest_size": "51 µm"
+    },
     "images": [
       {
         "path": "assets/images/beug/Fagopyrum_esculentum_Ed.png",
@@ -1792,6 +1845,10 @@
   },
   "filipendula_vulgaris": {
     "latin": "Filipendula vulgaris",
+    "size": {
+      "smallest_size": "16 µm",
+      "largest_size": "16 µm"
+    },
     "images": [
       {
         "path": "assets/images/paldat/Filipendula_vulgaris_Eo.png",
@@ -2130,6 +2187,10 @@
   "juglans_regia": {
     "latin": "Juglans regia",
     "dutch": "walnootboom",
+    "size": {
+      "smallest_size": "36 µm",
+      "largest_size": "42 µm"
+    },
     "images": [
       {
         "path": "assets/images/paldat/Juglans_regia_EM.png",
@@ -2558,7 +2619,11 @@
   },
   "mespilus_germanica": {
     "latin": "Mespilus germanica",
-    "dutch": "wilde mispel"
+    "dutch": "wilde mispel",
+    "size": {
+      "smallest_size": "40 µm",
+      "largest_size": "40 µm"
+    }
   },
   "morus_alba": {
     "latin": "Morus alba",
@@ -2889,7 +2954,11 @@
     }
   },
   "pisum_sativum": {
-    "latin": "Pisum sativum"
+    "latin": "Pisum sativum",
+    "size": {
+      "smallest_size": "32 µm",
+      "largest_size": "48 µm"
+    }
   },
   "platanus_hybr": {
     "latin": "Platanus hybr",
@@ -3164,6 +3233,10 @@
   "ribes_rubrum": {
     "latin": "Ribes rubrum",
     "dutch": "aalbes",
+    "size": {
+      "smallest_size": "25 µm",
+      "largest_size": "33 µm"
+    },
     "images": [
       {
         "path": "assets/images/pollenwiki/Ribes_rubrum_Po.png",
@@ -3326,7 +3399,12 @@
     ]
   },
   "rosasea": {
-    "latin": "Rosasea",
+    "latin": "Rubus saxatilis",
+    "dutch": "nog verwijderen en corrigeren in pollen yaml",
+    "size": {
+      "smallest_size": "21 µm",
+      "largest_size": "30 µm"
+    },
     "images": [
       {
         "path": "assets/images/paldat/Rubus_saxatilis_Eo.png",
@@ -3380,7 +3458,11 @@
     ]
   },
   "rubus_arcticus": {
-    "latin": "Rubus arcticus"
+    "latin": "Rubus arcticus",
+    "size": {
+      "smallest_size": "10 µm",
+      "largest_size": "25 µm"
+    }
   },
   "rubus_chamaemorus": {
     "latin": "Rubus chamaemorus",

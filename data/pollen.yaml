@@ -209,11 +209,11 @@ aesculus_carnea:
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 aesculus_hippocastanum:
   latin: Aesculus hippocastanum
-  dutch: null
+  dutch: paardenkastanje
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 24 µm
+    largest_size: 24 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -563,8 +563,8 @@ amaranthus_caudatus:
   dutch: kattenstaartamarant
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 20.8 µm
+    largest_size: 26.6 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -774,8 +774,8 @@ anthriscus_sylvestris:
   dutch: Anthriscus sylvestris
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 15 µm
+    largest_size: 26 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -1214,8 +1214,8 @@ bryonia_dioica:
   dutch: Bryonia dioica
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 35 µm
+    largest_size: 44 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -1635,8 +1635,8 @@ carum_carvi:
   dutch: Carum carvi
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 24 µm
+    largest_size: 28 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -1764,8 +1764,8 @@ centaurea_cyanus:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 34 µm
+    largest_size: 41 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -1940,9 +1940,9 @@ cercis_siliquastrum:
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-chamerion_angust:
-  latin: Chamerion angust
-  dutch: wilgeroosje
+chamerion_angustifolium:
+  latin: Chamerion angustifolium
+  dutch: (knikkend) wilgeroosje
   family: null
   size:
     smallest_size: 62 µm
@@ -1963,36 +1963,13 @@ chamerion_angust:
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-chamerion_angustifolium:
-  latin: Chamerion angustifolium
-  dutch: teunisbloem
-  family: null
-  size:
-    smallest_size: null
-    largest_size: null
-  shape: null
-  polarity: null
-  pe_ratio: null
-  aperture: Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)
-  ornamentation: null
-  image:
-    height_px: null
-  bloeitijd:
-    start: null
-    end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  sources:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
 chelidonium_majus:
   latin: Chelidonium majus
   dutch: Chelidonium majus
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 27 µm
+    largest_size: 27 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -2496,8 +2473,8 @@ cornus_sanguinea:
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-coryllus_avelana:
-  latin: Coryllus avelana
+corylus_avellana:
+  latin: Corylus avellana
   dutch: hazelaar
   family: null
   size:
@@ -2629,8 +2606,8 @@ crataegus_monogyna:
   dutch: https://www.jstor.org/stable/i25027808
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 39 µm
+    largest_size: 46 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -2827,8 +2804,8 @@ cucumis_sativus:
   dutch: Cucumis sativus
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 50 µm
+    largest_size: 62 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -2886,8 +2863,8 @@ cynoglossum_officinale:
   dutch: Cynoglossum officinale
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 11 µm
+    largest_size: 15 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -3146,8 +3123,8 @@ dryas_octopetala:
   dutch: zilverkruid
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 27 µm
+    largest_size: 32 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -3205,8 +3182,8 @@ echinops_sphaerocephalus:
   dutch: Echinops sphaerocephalus
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 74 µm
+    largest_size: 80 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -3251,8 +3228,8 @@ echium_vulgare:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 17 µm
+    largest_size: 17 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -3619,8 +3596,8 @@ fagopyrum_esculentum:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 51 µm
+    largest_size: 51 µm
   shape: rond, sferoid
   polarity: isopolair
   pe_ratio: '1.1'
@@ -3819,8 +3796,8 @@ filipendula_vulgaris:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 16 µm
+    largest_size: 16 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -4486,8 +4463,8 @@ juglans_regia:
   dutch: walnootboom
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 36 µm
+    largest_size: 42 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -5467,8 +5444,8 @@ mespilus_germanica:
   dutch: wilde mispel
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 40 µm
+    largest_size: 40 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -6237,8 +6214,8 @@ pisum_sativum:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 32 µm
+    largest_size: 48 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -6855,8 +6832,8 @@ ribes_rubrum:
   dutch: aalbes
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 25 µm
+    largest_size: 33 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -7105,12 +7082,12 @@ rosa_rubiginosa:
   - source: eide
     path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
 rosasea:
-  latin: Rosasea
-  dutch: null
+  latin: Rubus saxatilis
+  dutch: nog verwijderen en corrigeren in pollen yaml
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 21 µm
+    largest_size: 30 µm
   shape: null
   polarity: null
   pe_ratio: null
@@ -7181,8 +7158,8 @@ rubus_arcticus:
   dutch: null
   family: null
   size:
-    smallest_size: null
-    largest_size: null
+    smallest_size: 10 µm
+    largest_size: 25 µm
   shape: null
   polarity: null
   pe_ratio: null

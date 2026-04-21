@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export data/pollen.yaml to docs/assets/data/pollen.json for runtime use.
+"""Export data/pollen.yaml to docs/data/pollen.json for runtime use.
 
 Writes a minimal, deterministic JSON index so `docs/javascripts/vdh-pollentabel.js`
 can resolve endpoint info (latin, dutch, family, size, images) from the SoT without
@@ -18,7 +18,7 @@ import yaml
 
 REPO = Path(__file__).resolve().parents[1]
 YAML_PATH = REPO / "data" / "pollen.yaml"
-JSON_PATH = REPO / "docs" / "assets" / "data" / "pollen.json"
+JSON_PATH = REPO / "docs" / "data" / "pollen.json"
 
 FIELDS_SIZE = ("smallest_size", "largest_size")
 
