@@ -4,19 +4,37 @@
     "title": "13.11 Alchemilla-groep (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-"
+    "note": "-",
+    "stepCount": 1,
+    "start": "1"
   },
   "start": "1",
   "steps": {
     "1": {
+      "id": "1",
+      "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine äquatorial bis subpolar 3-4 µm dick (Tafel 14: 9-12)",
+          "next": null,
           "id": {
             "name": "13.11.1 Aphanes arvensis-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -26,15 +44,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine äquatorial bis subpolar dunner als 3 µm (Tafel 14: 13-20)",
+          "next": null,
           "id": {
             "name": "13.11.2 Alchemilla pentaphyllea-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -44,7 +94,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

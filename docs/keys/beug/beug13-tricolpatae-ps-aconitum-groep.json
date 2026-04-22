@@ -4,16 +4,31 @@
     "title": "13.4 Aconitum-groep (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-"
+    "note": "-",
+    "stepCount": 2,
+    "start": "1"
   },
   "start": "1",
   "steps": {
     "1": {
+      "id": "1",
+      "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "pollenvormindex > 1,30 (bis ca. 1,80), Indien kleiner, dan PK meestal über 28 µm groot",
           "next": "2",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -26,11 +41,24 @@
         },
         {
           "label": "pollenvormindex bis 1,20 (1,30), PK 17-28 µm groot (Tafel 13: 4-6)",
+          "next": null,
           "id": {
             "name": "13.4.1 Aquilegia-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -40,19 +68,54 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "2": {
+      "id": "2",
+      "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "columellae äquatorial en subäquatorial sterk verkürzt en reduziert, meestal in Aufsicht niet herkenbaar (Tafel 13: 10)",
+          "next": null,
           "id": {
             "name": "13.4.2 Aconitum-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -62,15 +125,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "columellae äquatorial en subäquatorial in Aufsicht gut herkenbaar",
+          "next": null,
           "id": {
             "name": "13.4.3 Consolida-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -80,7 +175,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

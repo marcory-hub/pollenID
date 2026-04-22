@@ -1,7 +1,7 @@
 {
   "meta": {
     "key": "beug04-tetradeae-ericaceae-empetrum.json",
-    "title": "4.7 Ericaceae–Empetrum-groep (Beug)",
+    "title": "4.7 Ericaceae–Empetrum-groep (groenblijvende dwergstruiken uit de heidefamilie)(Beug)",
     "locale": "nl",
     "source": "Beug",
     "note": "-",
@@ -13,11 +13,22 @@
     "1": {
       "id": "1",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "individuele pollenkorrel duidelijk van elkaar gescheiden: in optische doorsnede van de tetrade zijn waar de individuele pollenkorrel elkaar raken duidelijke insnoeringen zichtbaar.",
           "next": "4",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -31,7 +42,17 @@
         {
           "label": "individuele pollenkorrel niet of slechts zeer zwak van elkaar gescheiden: tetraden in optische doorsnede nagenoeg rond of enigszins driehoekig, zonder duidelijke insnoeringen.",
           "next": "2",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -47,16 +68,30 @@
     "2": {
       "id": "2",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Binnenwanden van de tetraden dicht geperforeerd.",
+          "next": null,
           "id": {
             "name": "4.7.1 Arctostaphylos alpina (L.) Spreng. (3). 47,3–54",
-            "size": "3 µm",
+            "pollen_key": "-",
+            "size": "31-35 µm",
             "source": "MiW 50,9 µm; 50 T, 0a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "image": "../../assets/images/paldat/Arctostaphylos_alpina_Ed.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/paldat/Arctostaphylos_alpina_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/paldat/Arctostaphylos_alpina_Po.png",
                 "imageWidthPx": 1
               },
               {
@@ -64,12 +99,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Binnenwanden niet of nauwelijks geperforeerd.",
           "next": "3",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -85,14 +149,28 @@
     "3": {
       "id": "3",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Sculptuur scabraat; binnenwanden van de tetraden slechts met weinig perforaties.",
+          "next": null,
           "id": {
             "name": "4.7.2 Arctostaphylos uva-ursi (L.) Spreng. (3). 38,7–46",
+            "pollen_key": "-",
             "size": "3 µm",
             "source": "MiW 42,8 µm; 50 PK, 1a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -102,43 +180,148 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Sculptuur psilaat; binnenwanden niet geperforeerd.",
+          "next": null,
           "id": {
-            "name": "4.7.3 Arbutus. Arbutus unedo L. (2): 48,7–61",
-            "size": "2 µm",
+            "name": "4.7.3 Arbutus. Arbutus unedo (aardbeiboom)",
+            "pollen_key": "-",
+            "size": "50 µm",
             "source": "MiW 53,5 µm; 50 PK, 1a. Arbutus andrachne L. (1): 46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Arbutus_unedo_Ed .png",
+                "imageWidthPx": 125
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Arbutus_unedo_Eo.png",
+                "imageWidthPx": 125
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Arbutus_unedo_Pd.png",
+                "imageWidthPx": 125
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Arbutus_unedo_Po.png",
+                "imageWidthPx": 125
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "individuele pollenkorrel in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; individuele pollenkorrel soms in één vlak of een rij (tabel 1: 7 en 10).",
+          "next": null,
           "id": {
+            "name": "-",
             "pollen_key": "calluna_vulgaris",
-            "note": "4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48"
-          }
+            "size": "-",
+            "source": "-",
+            "note": "4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/Calluna_vulgaris.png",
+                "imageWidthPx": 125
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Calluna_vulgaris2.png",
+                "imageWidthPx": 125
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Calluna_vulgaris3.png",
+                "imageWidthPx": 125
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "individuele pollenkorrel slechts met 3 colpi.",
           "next": "5",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -154,14 +337,28 @@
     "5": {
       "id": "5",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Binnenwanden van de tetraden duidelijk dikker dan de buitenwanden, meest > 2 tot 3,5 µm (tabel 1: 8–9; fig. 4).",
+          "next": null,
           "id": {
             "name": "4.7.5 Empetrum / Ledum. Empetrum nigrum L. Blz...str. (5): 32,8–39",
+            "pollen_key": "-",
             "size": "5 µm",
             "source": "MiW 36,6 µm; 50 PK, 0a; sculptuur scabraat, colpuslengte 11,3–18,6 µm, polaire velden 11,3–13,8 µm. Empetrum hermaphroditum Hagerup (2): 30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -171,12 +368,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Binnenwanden van de tetraden even dik als de buitenwanden of dunner.",
           "next": "6",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -192,32 +418,78 @@
     "6": {
       "id": "6",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Colpi zeer kort; colpus-index groter dan 3,3. Tetraden duidelijk scabraat tot zwak verrucaat, niet dikkewandig. Colpus-index 3,3(3,6)–4,5, MiW 4,1, 10 T (tabel 2: 12–13).",
+          "next": null,
           "id": {
-            "name": "4.7.6 Moneses uniflora (L.) A.Gray (1). 41,8–53",
-            "size": "0 µm",
+            "name": "4.7.6 Moneses uniflora (Eenbloemig wintergroen)",
+            "pollen_key": "-",
+            "size": "36-40 µm",
             "source": "MiW 45,3 µm; 50 T, 0a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Moneses_uniflora.png",
+                "imageWidthPx": 95
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/pollenwiki/Moneses_uniflora2.png",
+                "imageWidthPx": 95
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Moneses_uniflora3.png",
+                "imageWidthPx": 95
+              },
+              {
+                "image": "../../assets/images/pollenwiki/Moneses_uniflora4.png",
+                "imageWidthPx": 95
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Colpi langer; colpus-index < 3,3; indien groter, dan tetraden vrijwel psilaat en duidelijk dikkewandig. Sculptuur varieert: psilaat, scabraat, ook barstend-fijn holruchtig.",
+          "next": null,
           "id": {
-            "name": "4.7.7 Verzamelgroep Vaccinium-type",
+            "name": "4.7.7 Verzamelgroep Vaccinium-type (oa cranberry",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -227,7 +499,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

@@ -4,6 +4,7 @@
     "title": "33.6 Malvaceae (Beug)",
     "locale": "nl",
     "source": "Beug",
+    "note": "-",
     "stepCount": 2,
     "start": "1"
   },
@@ -12,11 +13,22 @@
     "1": {
       "id": "1",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK 105-140 µm groot.",
           "next": "2",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -29,11 +41,24 @@
         },
         {
           "label": "PK 70-100 µm groot (Tafel 109: 1-2).",
+          "next": null,
           "id": {
             "name": "33.6.1 Malva neglecta-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -43,21 +68,54 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "2": {
       "id": "2",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "afstanden der Poriën 8-15 µm (Tafel 109: 3-4).",
+          "next": null,
           "id": {
             "name": "33.6.2 Malva sylvestris-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -67,15 +125,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "afstanden der Poriën 18-30 µm.",
+          "next": null,
           "id": {
             "name": "33.6.3 Lavatera-type",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -85,7 +175,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

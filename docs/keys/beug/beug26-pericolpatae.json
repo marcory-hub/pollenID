@@ -4,6 +4,7 @@
     "title": "26 Pericolpatae (Beug)",
     "locale": "nl",
     "source": "Beug",
+    "note": "-",
     "stepCount": 9,
     "start": "1"
   },
@@ -12,14 +13,28 @@
     "1": {
       "id": "1",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK echinaat (Tafel 91: 14-20).",
+          "next": null,
           "id": {
             "name": "26.1 Koenigia islandica (Blz. 405)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -29,12 +44,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK niet echinaat.",
           "next": "2",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -50,11 +94,22 @@
     "2": {
       "id": "2",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK reticulaat, wanneer PK met breiten marges, vgl. 26.5 *Montia fontana*.",
           "next": "6",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -68,7 +123,17 @@
         {
           "label": "PK niet reticulaat, höchstens rugulaat-reticulaat of microechinaat: PK met 12 Colpi (*Montia, Spergula arvensis*) of 6 Colpi (*Corydalis*-Gruppe) in regel- en/of unregelmäßiger (*Cuscuta* p.p.) Anordnung.",
           "next": "3",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -84,14 +149,28 @@
     "3": {
       "id": "3",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK kugelig, 50-70 µm groot, met 30 schmalen Colpi (Tafel 91: 11-13).",
+          "next": null,
           "id": {
             "name": "26.2 Persicaria amphibia (Blz. 405)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -101,12 +180,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK kleiner als 45 µm of langgestreckt en met wenigen undeutlichen Colpi.",
           "next": "4",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -122,11 +230,22 @@
     "4": {
       "id": "4",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK rund, homopolar.",
           "next": "5",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -139,11 +258,24 @@
         },
         {
           "label": "PK langgestreckt, spitz gleichschenklig-dreieckig of stumpf dreieckig-sackförmig met 4-6 Colpi in paralleler Anordnung en einem Colpus of Porus auf der korte Seite des gleichschenkligen Dreiecks (Tafel 116: 14-17, Tafel 117, Tafel 118: 1-7).",
+          "next": null,
           "id": {
             "name": "Cyperaceae (Blz. 404)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -153,21 +285,54 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine 3,5-4 µm dik, PK met 6 Colpi, in einigen Fällen met onregelmatig verteilten Colpi (Tafel 91: 21-24).",
+          "next": null,
           "id": {
             "name": "26.3 Cuscuta lupuliformis (Blz. 405)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -177,15 +342,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine 1,0-1,2 µm dik, PK met 6-8 breiten, engesenkten en körnig bekleideten Colpi (Tafel 92: 1-4).",
+          "next": null,
           "id": {
             "name": "26.4 Cercidiphyllum (Blz. 405)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -195,21 +392,54 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "6": {
       "id": "6",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK marginat, microechinaat. marges 5 µm breit, Exine en columella's hier dunner (Tafel 92: 5-9).",
+          "next": null,
           "id": {
             "name": "26.5 Montia fontana (Blz. 405)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -219,12 +449,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK niet marginat.",
           "next": "7",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -240,9 +499,39 @@
     "7": {
       "id": "7",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK rugulat, rugulat-reticulaat, verrucaat of fossulat (Tafel 92: 10-19).",
+          "next": null,
+          "id": {
+            "name": "Corydalis gruppe",
+            "pollen_key": "-",
+            "size": "-",
+            "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -251,18 +540,31 @@
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
             }
-          ],
-          "id": {
-            "name": "Corydalis gruppe",
-            "size": "-",
-            "source": "-"
-          }
+          ]
         },
         {
           "label": "PK psilaat of scabraat.",
           "next": "8",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -278,14 +580,28 @@
     "8": {
       "id": "8",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK scabraat (microechinaat); die Skulpturelemente staan ausschließlich over 0,6-1,0 µm dicken columella's (Tafel 92: 20-23).",
+          "next": null,
           "id": {
             "name": "26.7 Pulsatilla alpina (Blz. 408)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -295,12 +611,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Skulpturelemente niet an die Lage von columella's gebunden of PK psilaat.",
           "next": "9",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -316,14 +661,28 @@
     "9": {
       "id": "9",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine meestal 2,0-3,0 µm dik, columella's meestal 0,5-0,8 µm dik, Anordnung der Colpi tetraedrisch of onregelmatig, Tectum met einzelnen Perforationen.",
+          "next": null,
           "id": {
             "name": "26.8 Cuscuta p.p. (Blz. 408)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -333,15 +692,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK met Tectum perforatum, met 12 Colpi in regelmäßiger Anordnung, Exine 1,5-2,0 µm dik, columella's ca. 0,7 µm dik (Tafel 93: 1-5).",
+          "next": null,
           "id": {
             "name": "26.9 Spergula arvensis (Blz. 408)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -351,7 +742,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

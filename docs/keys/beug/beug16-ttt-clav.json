@@ -4,6 +4,7 @@
     "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug)",
     "locale": "nl",
     "source": "Beug",
+    "note": "-",
     "stepCount": 7,
     "start": "1"
   },
@@ -12,11 +13,22 @@
     "1": {
       "id": "1",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "De sculptuurelementen zijn netjes gerangschikt en staan op een reticulum.",
           "next": "2",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -30,7 +42,17 @@
         {
           "label": "De sculptuurelementen (clavae, bacula, ook gemmae of verrucae) zijn niet netjes gerangschikt en staan niet op een reticulum. Bij *Linum* en *Radiola* kunnen zij regelmatige rijen vormen.",
           "next": "4",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -46,14 +68,28 @@
     "2": {
       "id": "2",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine bis 1,5 µm dik, PK bis ca. 30 µm groot. Sculptuurelementen (clavae) klein, netzig (retipilaat) gerangschikt, aperturen onduidelijk (tabel 96: 1–4).",
+          "next": null,
           "id": {
             "name": "Callitriche palustris-type (Blz... 424)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -63,12 +99,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Exine duidelijk over 1,5 µm dik, PK über 40 µm en bis 150 µm groot.",
           "next": "3",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -84,14 +149,28 @@
     "3": {
       "id": "3",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "De clavae staan op een reticulum (tabel 34: 18–21; Afb. 20).",
+          "next": null,
           "id": {
             "name": "16.1 Geranium (Blz... 211)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -101,15 +180,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "De clavae zijn distaal met elkaar verbonden en micro-echinaat gesculpteerd, ze staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
+          "next": null,
           "id": {
             "name": "Armeria p.p. (Blz... 302)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -119,21 +230,54 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK met margo, poolvelden klein. PK met bis 3 µm langen, dicht stehenden clavae (tabel 34: 22–25).",
+          "next": null,
           "id": {
             "name": "16.2 Ilex aquifolium (Blz... 214)",
+            "pollen_key": "-",
             "size": "-",
             "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -143,12 +287,41 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "PK zonder margo, Indien zwach aangeduid, dan poolvelden zeer groot.",
           "next": "5",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -164,11 +337,22 @@
     "5": {
       "id": "5",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine met columellae-laag.",
           "next": "6",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -182,7 +366,17 @@
         {
           "label": "Exine zonder columellae-laag.",
           "next": "7",
+          "id": null,
+          "outcome": null,
           "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
@@ -198,54 +392,28 @@
     "6": {
       "id": "6",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Exine veel dikker als het tectum, poolvelden groot, sculptuurelementen (hoofdzakelijk bacula) bis 4 µm lang (tabel 35: 1–4).",
+          "next": null,
           "id": {
+            "name": "-",
             "pollen_key": "viscum_album",
-            "note": "16.3 Viscum album (Blz... 214)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
-          }
-        },
-        {
-          "label": "tectum so dik wie die endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
-          "id": {
-            "pollen_key": "rubus_chamaemorus",
-            "note": "16.4 Rubus chamaemorus (Blz... 214)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
-          }
-        }
-      ]
-    },
-    "7": {
-      "id": "7",
-      "type": "step",
-      "choices": [
-        {
-          "label": "PK < 30 µm (ca. 20–25 µm) (tabel 35: 9–11).",
-          "id": {
-            "name": "16.5 Radiola linoides (Blz... 214)",
             "size": "-",
             "source": "-",
+            "note": "16.3 Viscum album (Blz... 214)",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -255,10 +423,8 @@
                 "imageWidthPx": 1
               }
             ]
-          }
-        },
-        {
-          "label": "PK > 30 µm (ca. 35–100 µm) (tabel 35: 12–15, tabel 36: 1–7, tabel 37: 1–5, Afb. 21–22).",
+          },
+          "outcome": null,
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
@@ -267,13 +433,173 @@
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
               "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
             }
-          ],
+          ]
+        },
+        {
+          "label": "tectum so dik wie die endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
+          "next": null,
+          "id": {
+            "name": "-",
+            "pollen_key": "rubus_chamaemorus",
+            "size": "-",
+            "source": "-",
+            "note": "16.4 Rubus chamaemorus (Blz... 214)",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "note": "-",
+      "choices": [
+        {
+          "label": "PK < 30 µm (ca. 20–25 µm) (tabel 35: 9–11).",
+          "next": null,
+          "id": {
+            "name": "16.5 Radiola linoides (Blz... 214)",
+            "pollen_key": "-",
+            "size": "-",
+            "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
+        },
+        {
+          "label": "PK > 30 µm (ca. 35–100 µm) (tabel 35: 12–15, tabel 36: 1–7, tabel 37: 1–5, Afb. 21–22).",
+          "next": null,
           "id": {
             "name": "Beug-tricolpatae-tricolporoidatae-tricolporatae-clavate-166-linum",
+            "pollen_key": "-",
             "size": "-",
-            "source": "-"
-          }
+            "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

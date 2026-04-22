@@ -13,14 +13,28 @@
     "1": {
       "id": "1",
       "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "Grote echinate elementen 1,5-2,5 (tot 4,0) µm lang, onderling 3-5 µm; kleine ca. 0,8 µm (afstand ca. 1 µm), zeer dun. Alle scherp en lang toegespitst; zelden enkele stompe gemengd. Exine 2,0-2,5 µm dik (tabel 2: 1-2).",
+          "next": null,
           "id": {
             "name": "4.2.1 Drosera rotundifolia-type. Drosera rotundifolia L. (4): 51,8-70",
+            "pollen_key": "-",
             "size": "5 µm",
             "source": "MiW 62,0 µm; 50 T, 0a. Drosera longifolia HUDS. (4): 61,0-81,3 µm, MiW 70,8 µm; 50 T, 0a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -30,15 +44,47 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         },
         {
           "label": "Echini hoogstens 1,5 µm lang, stomp toegespitst, niet zelden baculum-achtig. Klavae staan vaak aan de rand van de individuele pollenkorrel. Sculptuurdimorfisme verder niet of slechts zeer zwak ontwikkeld. Exine ca. 1,5 µm dik.",
+          "next": null,
           "id": {
             "name": "4.2.2 Drosera intermedia. Drosera intermedia HAYNE (3): 47,3-69",
+            "pollen_key": "-",
             "size": "5 µm",
             "source": "MiW 56,6 µm; 50 T, 0a.",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -48,7 +94,26 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }

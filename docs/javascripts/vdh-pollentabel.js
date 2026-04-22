@@ -359,7 +359,10 @@
     images.forEach(function (im, imIdx) {
       if (!im || !im.image) return;
       const img = document.createElement("img");
-      img.alt = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
+      // Do not render text under tiles when an image fails to load.
+      // Keep a tooltip for context instead.
+      img.alt = "";
+      img.title = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
       const ph = isPlaceholderImagePath(im.image);
       img.src = ph
         ? resolveNoImageFoundUrl(baseUrl || document.baseURI)

@@ -4,26 +4,37 @@
     "title": "15.1 Cornus (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-"
+    "note": "-",
+    "stepCount": 1,
+    "start": "1"
   },
   "start": "1",
   "steps": {
     "1": {
+      "id": "1",
+      "type": "step",
+      "note": "-",
       "choices": [
         {
           "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
+          "next": null,
           "id": {
+            "name": "-",
             "pollen_key": "cornus_sanguinea",
-            "note": "15.1.1 Cornus sanguinea"
-          }
-        },
-        {
-          "label": "PK < 40 µm",
-          "id": {
-            "name": "15.1.2 Cornus mas-type",
             "size": "-",
             "source": "-",
+            "note": "15.1.1 Cornus sanguinea",
+            "text": "-",
+            "incomplete": false,
             "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
                 "imageWidthPx": 1
@@ -33,7 +44,76 @@
                 "imageWidthPx": 1
               }
             ]
-          }
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
+        },
+        {
+          "label": "PK < 40 µm",
+          "next": null,
+          "id": {
+            "name": "15.1.2 Cornus mas-type",
+            "pollen_key": "-",
+            "size": "-",
+            "source": "-",
+            "note": "-",
+            "text": "-",
+            "incomplete": false,
+            "images": [
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              },
+              {
+                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+                "imageWidthPx": 1
+              }
+            ]
+          },
+          "outcome": null,
+          "images": [
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            },
+            {
+              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "imageWidthPx": 1
+            }
+          ]
         }
       ]
     }
