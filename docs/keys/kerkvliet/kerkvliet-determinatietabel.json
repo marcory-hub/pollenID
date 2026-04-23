@@ -396,19 +396,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Eo.png",
-          "imageHeightPx": 33
+          "imageHeightPx": 45
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Eo2.png",
-          "imageHeightPx": 33
+          "imageHeightPx": 45
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Pd.png",
-          "imageHeightPx": 33
+          "imageHeightPx": 45
         },
         {
           "image": "assets/images/pollenwiki/Lotus_corniculatus_Po.png",
-          "imageHeightPx": 33
+          "imageHeightPx": 45
         }
       ]
     },
@@ -423,19 +423,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Echium_vulgare_Ed.png",
-          "imageHeightPx": 17
+          "imageHeightPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Echium_vulgare_Eo.png",
-          "imageHeightPx": 18
+          "imageHeightPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Echium_vulgare_Pd.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 43
         },
         {
           "image": "assets/images/pollenwiki/Echium_vulgare_Po.png",
-          "imageHeightPx": 20
+          "imageHeightPx": 43
         }
       ]
     },
@@ -710,20 +710,8 @@
       "opmerkingen": "3-colporaat, lange colpi, grote poren",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 58
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 58
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 58
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 58
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
@@ -783,28 +771,16 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum tuber.](https://www.paldat.org/pub/Solanum_tuberosum)",
+      "latin": "[Solanum tuberosum](https://www.paldat.org/pub/Solanum_tuberosum)",
       "dutch": "[aardappel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_tuberosum)",
-      "vorm": "O/vierhoekig",
-      "grootte": "25",
+      "vorm": "rond to vierhoekig",
+      "grootte": "25 µm",
       "oppervlak": "glad",
-      "opmerkingen": "3-4-colporaat, nectarl; lange colpi ; honingdauw",
+      "opmerkingen": "3-4-colporaat, nectarl; lange colpi",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
@@ -884,7 +860,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Coryllus avelana](https://www.paldat.org/pub/Corylus_avellana)",
+      "latin": "[Corylus avelana](https://www.paldat.org/pub/Corylus_avellana)",
       "dutch": "[hazelaar](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylus_avellana)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "27",
@@ -892,26 +868,26 @@
       "opmerkingen": "3-poraat, zwak geel",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Corylus_avellana_Ed.png",
+          "imageHeightPx": 68
+        },  
+        {
+          "image": "assets/images/pollenwiki/Corylus_avellana_Eo.png",
+          "imageHeightPx": 68
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Corylus_avellana_Pd.png",
+          "imageHeightPx": 68
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Corylus_avellana_Po.png",
+          "imageHeightPx": 68
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Symphytum off](https://www.paldat.org/pub/Symphytum_officinale)",
+      "latin": "[Symphytum officinale](https://www.paldat.org/pub/Symphytum_officinale)",
       "dutch": "[smeerwortel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Symphytum_officinale)",
       "vorm": "ovaal",
       "grootte": "27-33",
@@ -919,20 +895,20 @@
       "opmerkingen": "8-10-colporaat, lalongaat, colpi ca 15µm, spits einde",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Symphytum_officinale_Ed.png",
+          "imageHeightPx": 75
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Symphytum_officinale_Eo.png",
+          "imageHeightPx": 75
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Symphytum_officinale_Pd.png",
+          "imageHeightPx": 75
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Symphytum_officinale_Po.png",
+          "imageHeightPx": 75
         }
       ]
     },
@@ -946,19 +922,19 @@
       "opmerkingen": "3-colpaat, cyto: gran",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Verbena_officinalis_Ed.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+          "image": "assets/images/pollenwiki/Verbena_officinalis_Eo.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
+          "image": "assets/images/pollenwiki/Verbena_officinalis_Pd.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Verbena_officinalis_Po.png",
           "imageHeightPx": 72
         }
       ]
@@ -966,27 +942,27 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "[Lamium sp.](https://www.paldat.org/pub/Lamium_sp.)",
-      "dutch": "[dovenetel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lamium_sp.)",
+      "dutch": "[dovenetel (witte)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lamium_album.)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "27-30",
       "oppervlak": "glad/scabraat",
       "opmerkingen": "3-colpaat, l, br, scherp begrensde colpi, met stippels erop",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lamium_album_Ed.png",
+          "imageHeightPx": 70
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lamium_album_Eo.png",
+          "imageHeightPx": 70
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lamium_album_Pd.png",
+          "imageHeightPx": 70
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lamium_album_Po.png",
+          "imageHeightPx": 70
         }
       ]
     },
@@ -1019,7 +995,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Allium schoenopr.",
+      "latin": "Allium schoenoprasum.",
       "dutch": "bieslook",
       "vorm": "half ovaal",
       "grootte": "27",
@@ -1027,20 +1003,20 @@
       "opmerkingen": "1-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Allium_schoenoprasum_d1.png",
+          "imageHeightPx": 68
+        },  
+        {
+          "image": "assets/images/pollenwiki/Allium_schoenoprasum_d2.png",
+          "imageHeightPx": 68
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Allium_schoenoprasum_o1.png",
+          "imageHeightPx": 68
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Allium_schoenoprasum_o2.png",
+          "imageHeightPx": 68
         }
       ]
     },
@@ -1054,46 +1030,46 @@
       "opmerkingen": "3-colporaat, stippels op colpi, rode olie",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Aesculus_carnea_Ed.png",
+          "imageHeightPx": 70 
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Aesculus_carnea_Eo.png",
+          "imageHeightPx": 70
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Aesculus_carnea_Pd.png",
+          "imageHeightPx": 70
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Aesculus_carnea_Po.png",
+          "imageHeightPx": 70
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Photinia sp.](https://www.paldat.org/pub/Photinia_sp.)",
-      "dutch": "[Photinia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Photinia_sp.)",
+      "latin": "[Photinia fraseri](https://www.paldat.org/pub/Photinia_Photinia_fraseri.)",
+      "dutch": "[Photinia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Photinia_fraseri.)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "28-30",
       "oppervlak": "glad/scabraat",
       "opmerkingen": "3-colporaat, lange colpi spits einde",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Photinia_fraseri_Ed.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+          "image": "assets/images/pollenwiki/Photinia_fraseri_Eo.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
+          "image": "assets/images/pollenwiki/Photinia_fraseri_Pd.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Photinia_fraseri_Po.png",
           "imageHeightPx": 72
         }
       ]
@@ -1103,25 +1079,25 @@
       "latin": "[Malus sp.](https://www.paldat.org/pub/Malus_sp.)",
       "dutch": "[appel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Malus_sp.)",
       "vorm": "∆",
-      "grootte": "ca. 30",
+      "grootte": "33 µm",
       "oppervlak": "glad/rugulaat",
       "opmerkingen": "3-colp(or)aat, soms grote pore/colpus, dunne exine",
       "images": [
         {
-          "image": "assets/images/pollenwiki/Malus_sylvestris_Ed.png",
-          "imageHeightPx": 78
+          "image": "assets/images/pollenwiki/Malus_domestica_Ed.png",
+          "imageHeightPx": 83 
         },
         {
-          "image": "assets/images/pollenwiki/Malus_sylvestris_Eo.png",
-          "imageHeightPx": 78
+          "image": "assets/images/pollenwiki/Malus_domestica_Eo.png",
+          "imageHeightPx": 83
         },
         {
-          "image": "assets/images/pollenwiki/Malus_sylvestris_Pd.png",
-          "imageHeightPx": 78
+          "image": "assets/images/pollenwiki/Malus_domestica_Pd.png",
+          "imageHeightPx": 83
         },
         {
-          "image": "assets/images/pollenwiki/Malus_sylvestris_Po.png",
-          "imageHeightPx": 78
+          "image": "assets/images/pollenwiki/Malus_domestica_Po.png",
+          "imageHeightPx": 83
         }
       ]
     },
@@ -1189,20 +1165,20 @@
       "opmerkingen": "3-colporaat, rel.dikke exine,cyto: gran, lange colpi, ora 8µm, ondervertegenwoordigd in honing",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Medicago_sativa_Ed.png",
+          "imageHeightPx": 90
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Medicago_sativa_Eo.png",
+          "imageHeightPx": 90
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Medicago_sativa_Pd.png",
+          "imageHeightPx": 90
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Medicago_sativa_Po.png",
+          "imageHeightPx": 90
         }
       ]
     },
@@ -1316,8 +1292,8 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Berberis sp](https://www.paldat.org/pub/Berberis_sp.)",
-      "dutch": "[zuurbes](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_sp.)",
+      "latin": "[Berberis sp](https://www.paldat.org/pub/Berberis_vulgaris)",
+      "dutch": "[zuurbes](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_vulgaris.)",
       "vorm": "O/onregelmatig",
       "grootte": "37-45",
       "oppervlak": "glad",
@@ -1325,19 +1301,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Berberis_vulgaris_o.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 113
         },
         {
           "image": "assets/images/pollenwiki/Berberis_vulgaris_o2.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 113
         },
         {
           "image": "assets/images/pollenwiki/Berberis_vulgaris_o3.png",
-          "imageHeightPx": 20
+          "imageHeightPx": 113
         },
         {
           "image": "assets/images/pollenwiki/Berberis_vulgaris_o4.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 113
         }
       ]
     },
@@ -1568,19 +1544,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Eo.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 150
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Pd.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 150
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Po.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 150
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Po2.png",
-          "imageHeightPx": 20
+          "imageHeightPx": 150
         }
       ]
     },
@@ -1622,19 +1598,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Eo.png",
-          "imageHeightPx": 72
+          "imageHeightPx": 175
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Pd.png",
-          "imageHeightPx": 72
+          "imageHeightPx": 175
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Po.png",
-          "imageHeightPx": 72
+          "imageHeightPx": 175
         },
         {
           "image": "assets/images/pollenwiki/Viola_tricolor_Po2.png",
-          "imageHeightPx": 72
+          "imageHeightPx": 175
         }
       ]
     },
@@ -1648,8 +1624,8 @@
       "opmerkingen": "1-poraat, cyto gran",
       "images": [
         {
-          "image": "assets/images/pollenwiki/Zea_mays.png",
-          "imageHeightPx": 19
+          "image": "assets/images/pollenwiki/Zea_mays_Ed.png",
+          "imageHeightPx": 200
         }
       ]
     },

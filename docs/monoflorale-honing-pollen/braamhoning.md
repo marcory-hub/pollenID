@@ -3,27 +3,27 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>
@@ -54,27 +54,27 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Pd.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Eo.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Eo2.png" style="height: 150px; width: auto;" alt="Rubus fruticosus.">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
+      <img src="../assets/images/pollenwiki/Rubus_fruticosus_Po.png" style="height: 150px; width: auto;" alt="Rubus fruticosus">
       <figcaption class="pid-scale-caption">Rubus fruticosus</figcaption>
     </figure>
   </div>
@@ -84,19 +84,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../assets/images/pollenwiki/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
+      <img src="../assets/images/pollenwiki/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
       <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
+      <img src="../assets/images/pollenwiki/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
       <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
     </figure>
   </div>
