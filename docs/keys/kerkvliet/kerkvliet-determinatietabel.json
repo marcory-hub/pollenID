@@ -1322,24 +1322,24 @@
       "latin": "[Allium cepa](https://www.paldat.org/pub/Allium_cepa)",
       "dutch": "[ui](https://pollen.tstebler.ch/MediaWiki/index.php?title=Allium_cepa)",
       "vorm": "half ovaal",
-      "grootte": "39",
+      "grootte": "39 (tstebler 28 µm)",
       "oppervlak": "glad/zw rugulaat",
       "opmerkingen": "1-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Allium_cepa_1.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+          "image": "assets/images/pollenwiki/Allium_cepa_2.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
+          "image": "assets/images/pollenwiki/Allium_cepa_3.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/pollenwiki/Allium_cepa_4.png",
           "imageHeightPx": 72
         }
       ]
@@ -1354,20 +1354,20 @@
       "opmerkingen": "6-8-poraat, nectarloos",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fumaria_officinalis_d.png",
+          "imageHeightPx": 98
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fumaria_officinalis_d2.png",
+          "imageHeightPx": 98
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fumaria_officinalis_o.png",
+          "imageHeightPx": 98
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fumaria_officinalis_o2.png",
+          "imageHeightPx": 98
         }
       ]
     },
@@ -1376,25 +1376,25 @@
       "latin": "[Gramineae](https://www.paldat.org/pub/Gramineae)",
       "dutch": "[grassen](https://pollen.tstebler.ch/MediaWiki/index.php?title=Gramineae)",
       "vorm": "rond",
-      "grootte": "ca 40",
+      "grootte": "ca 40 (tstebler 29 (26.4-30.8) μm)",
       "oppervlak": "glad/scabraat",
       "opmerkingen": "1-poraat, cyto gran",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Alopecurus_pratensis_1.png",
+          "imageHeightPx": 75 
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Alopecurus_pratensis_2.png",
+          "imageHeightPx": 75
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Alopecurus_pratensis_3.png",
+          "imageHeightPx": 75
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Alopecurus_pratensis_4.png",
+          "imageHeightPx": 75
         }
       ]
     },
