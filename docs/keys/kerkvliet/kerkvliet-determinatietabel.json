@@ -1408,128 +1408,128 @@
       "opmerkingen": "3-poraat, hof, cyto gran, dikke intine P. vulgaris(spercieboon) is meer scabraat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Phaseolus_coccineus_Ed.png",
+          "imageHeightPx": 100  
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Phaseolus_coccineus_Eo.png",
+          "imageHeightPx": 100
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Phaseolus_coccineus_Pd.png",
+          "imageHeightPx": 100
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Phaseolus_coccineus_Po.png",
+          "imageHeightPx": 100
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Mahonia aquifolia](https://www.paldat.org/pub/Mahonia_aquifolia)",
-      "dutch": "[mahonia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mahonia_aquifolia)",
+      "latin": "[Mahonia aquifolium](https://www.paldat.org/pub/Mahonia_aquifolium)",
+      "dutch": "[mahonia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mahonia_aquifolium)",
       "vorm": "O/onregelmatig",
       "grootte": "40-50",
       "oppervlak": "glad",
       "opmerkingen": ">6 colpaat, syncolpaat, dikke intine, cyto. gran.",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Mahonia_aquifolium_1.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Mahonia_aquifolium_2.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Mahonia_aquifolium_3.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Mahonia_aquifolium_4.png",
+          "imageHeightPx": 113
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Eschscholtzia calif](https://www.paldat.org/pub/Eschscholtzia_californica)",
-      "dutch": "[slaapmutsje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eschscholtzia_californica)",
+      "latin": "[Eschscholzia californica](https://www.paldat.org/pub/Eschscholzia_californica)",
+      "dutch": "[slaapmutsje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eschscholzia_californica)",
       "vorm": "O/4-6 kantig",
       "grootte": "40(30-47)",
       "oppervlak": "scabraat/reticulaat",
       "opmerkingen": "4-6-colpaat of 5-8-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eschscholzia_californica_Eo.png",
+          "imageHeightPx": 100
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eschscholzia_californica_Eo2.png",
+          "imageHeightPx": 100
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eschscholzia_californica_Pd.png",
+          "imageHeightPx": 100
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eschscholzia_californica_Po.png",
+          "imageHeightPx": 100
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Eleagnus angustif](https://www.paldat.org/pub/Eleagnus_angustifolius)",
-      "dutch": "[olijfwilg](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eleagnus_angustifolius)",
+      "latin": "[Elaeagnus angustifolia](https://www.paldat.org/pub/Elaeagnus_angustifolia)",
+      "dutch": "[olijfwilg](https://pollen.tstebler.ch/MediaWiki/index.php?title=Elaeagnus_angustifolia)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "45",
       "oppervlak": "psilaat",
       "opmerkingen": "3-colporaat,vestibule,cyto: fijn granu",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Eo.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Eo2.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Pd.png",
+          "imageHeightPx": 113
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Po.png",
+          "imageHeightPx": 113
         }
       ]
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "[Anchusa arvensis](https://www.paldat.org/pub/Anchusa_arvensis)",
-      "dutch": "[kromhals](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_arvensis)",
+      "dutch": "kromhals",
       "vorm": "ovaal",
       "grootte": "48",
       "oppervlak": "glad",
       "opmerkingen": "3-(4)-colporaat, lijkt niet op A. off!",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
