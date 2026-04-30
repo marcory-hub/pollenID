@@ -2268,27 +2268,27 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "[Diplotaxis tenuifolia](https://www.paldat.org/pub/Diplotaxis_tenuifolia)",
-      "dutch": "[rucola](https://pollen.tstebler.ch/MediaWiki/index.php?title=Diplotaxis_tenuifolia)",
+      "dutch": "[wilde rucola](https://pollen.tstebler.ch/MediaWiki/index.php?title=Diplotaxis_tenuifolia)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "20",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Diplotaxis_tenuifolia_Ed.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Diplotaxis_tenuifolia_Eo.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Diplotaxis_tenuifolia_Pd.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Diplotaxis_tenuifolia_Po.png",
+          "imageHeightPx": 50
         }
       ]
     },
@@ -2302,26 +2302,26 @@
       "opmerkingen": "3-colporaat, oranje olie",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Hypericum perfo-](https://www.paldat.org/pub/Hypericum_perforatum)",
+      "latin": "[Hypericum perforatum](https://www.paldat.org/pub/Hypericum_perforatum)",
       "dutch": "[St. Janskruid](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_perforatum)",
       "vorm": "ongeveer rond",
       "grootte": "20- 22",
@@ -2329,20 +2329,20 @@
       "opmerkingen": "3-colporaat, ook glad; ook groter; (17-25) soms hof/ vouwen; lange colpi(bijna syncolpaat), duidelijke pore",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Hypericum_perforatum_Ed.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Hypericum_perforatum_Eo.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Hypericum_perforatum_Pd.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Hypericum_perforatum_Po.png",
+          "imageHeightPx": 50
         }
       ]
     },
@@ -2356,101 +2356,101 @@
       "opmerkingen": "3-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clematis_vitalba_Ed.png",
+          "imageHeightPx": 53
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clematis_vitalba_Eo.png",
+          "imageHeightPx": 53
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clematis_vitalba_Pd.png",
+          "imageHeightPx": 53
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clematis_vitalba_Po.png",
+          "imageHeightPx": 53
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Asperula odorata](https://www.paldat.org/pub/Asperula_odorata)",
-      "dutch": "[lieve vr. bedstro](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asperula_odorata)",
+      "latin": "[Galium odoratum (syn Asperula odorata)](https://www.paldat.org/pub/Galium_odoratum)",
+      "dutch": "[lieve vr. bedstro](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galium_odoratum)",
       "vorm": "rond",
       "grootte": "20-24",
       "oppervlak": "scabraat/foveolaat",
       "opmerkingen": "ca. 9 colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Galium_odoratum_Ed.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Galium_odoratum_Eo.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Galium_odoratum_Pd.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Galium_odoratum_Po.png",
+          "imageHeightPx": 50
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Limnanthes dougl](https://www.paldat.org/pub/Limnanthes_douglasii)",
-      "dutch": "[moerasbloem](https://pollen.tstebler.ch/MediaWiki/index.php?title=Limnanthes_douglasii)",
+      "latin": "[Limnanthes douglasii](https://www.paldat.org/pub/Limnanthes_douglasii)",
+      "dutch": "[moerasbloem (spiegeleibloem)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Limnanthes_douglasii)",
       "vorm": "onregelm. ovaal",
       "grootte": "20x16",
       "oppervlak": "scabraat?/striaat",
       "opmerkingen": "1-colpaat; (syncolpaat?) striaat bij colpus",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Ed.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Eo.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Eo2.png",
+          "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Limnanthes_douglasii_P.png",
+          "imageHeightPx": 50
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "[Fraxinus ornus](https://www.paldat.org/pub/Fraxinus_ornus)",
-      "dutch": "[es](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fraxinus_ornus)",
+      "dutch": "[pluim-es](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fraxinus_ornus)",
       "vorm": "O/vierkantig",
       "grootte": "21-23",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-4-colporaat, hof, vouwen, lijkt op",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fraxinus_ornus_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fraxinus_ornus_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fraxinus_ornus_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fraxinus_ornus_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },

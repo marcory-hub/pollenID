@@ -3,9 +3,12 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
+
+import yaml
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -14,6 +17,17 @@ KEYS_DIR = DOCS_DIR / "keys"
 IMAGES_DIR = DOCS_DIR / "assets" / "images"
 OUT_DIR = DOCS_DIR / "assets" / "manifests"
 KEYS_INDEX_MD = DOCS_DIR / "Identificatiesleutels" / "_index.md"
+POLLEN_YAML = REPO_ROOT / "data" / "pollen.yaml"
+
+# PalynoQuest quiz items only use images from identification keys excluding Beug (Beug deferred).
+PALYNOQUEST_BEUG_JSON_PREFIX = "keys/beug/"
+# Same image may appear under several JSON keys; canonical sleutel order (Kerkvliet → Van der Ham → Reitsma → Eide → rest).
+PALYNOQUEST_KEY_PRIORITY_ORDER: List[str] = [
+    "keys/kerkvliet/kerkvliet-determinatietabel.json",
+    "keys/vanderham/vanderham-pollentabel.json",
+    "keys/reitsma/rosaceae-reitsma.json",
+    "keys/eide/rosaceae-eide.json",
+]
 
 
 def read_json(path: Path) -> Any:
@@ -46,6 +60,115 @@ def list_images() -> List[str]:
 
 def is_placeholder_path(p: str) -> bool:
     return isinstance(p, str) and "PLACEHOLDER" in p.upper()
+
+
+def is_sem_em_png_path(rel: str) -> bool:
+    """True when the filename indicates a PalDat-style SEM raster (quiz uses LM views)."""
+    if not isinstance(rel, str):
+        return False
+    seg = Path(rel).name
+    return seg.endswith("EM.png")
+
+
+def palynoquest_key_allowed(key_json_url: Optional[str]) -> bool:
+    if not isinstance(key_json_url, str) or not key_json_url.strip():
+        return False
+    url = key_json_url.strip().lstrip("./").replace("\\", "/")
+    return not url.startswith(PALYNOQUEST_BEUG_JSON_PREFIX)
+
+
+def palynoquest_key_priority_rank(key_json_url: Optional[str]) -> int:
+    if not isinstance(key_json_url, str):
+        return len(PALYNOQUEST_KEY_PRIORITY_ORDER)
+    url = key_json_url.strip().lstrip("./").replace("\\", "/")
+    try:
+        return PALYNOQUEST_KEY_PRIORITY_ORDER.index(url)
+    except ValueError:
+        return len(PALYNOQUEST_KEY_PRIORITY_ORDER)
+
+
+def sort_palynoquest_outcomes(outcomes: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return sorted(
+        outcomes,
+        key=lambda u: (
+            palynoquest_key_priority_rank(str(u.get("keyJsonUrl")) if u.get("keyJsonUrl") is not None else None),
+            str(u.get("stepId") or ""),
+            int(u.get("choiceIdx") or 0),
+        ),
+    )
+
+
+def is_bad_outcome_placeholder(text: Optional[str]) -> bool:
+    if text is None:
+        return True
+    t = str(text).strip()
+    return t == "" or t == "-"
+
+
+def md_link_plain(s: str) -> str:
+    return re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", s).strip()
+
+
+def strip_leading_key_number(s: str) -> str:
+    """Strip leading '4.10.1 '-style prefixes from key outcome headings."""
+    s = s.strip()
+    prev = None
+    while prev != s:
+        prev = s
+        s = re.sub(r"^(\d+\.)+\d*\s+", "", s).strip()
+    return s
+
+
+def load_pollen_key_labels(path: Path) -> Dict[str, str]:
+    """Map pollen.yaml record key (e.g. agrimonia_eupatoria) to Latin (Dutch) label strings."""
+    if not path.exists():
+        return {}
+    raw = yaml.safe_load(path.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        return {}
+    out: Dict[str, str] = {}
+    for slug, rec in raw.items():
+        if not isinstance(rec, dict):
+            continue
+        sk = str(slug)
+        latin = rec.get("latin")
+        if not isinstance(latin, str) or not latin.strip():
+            continue
+        dutch = rec.get("dutch")
+        d = dutch.strip() if isinstance(dutch, str) else ""
+        if d and d not in ("-", "–", "—", "…"):
+            out[sk] = f"{latin.strip()} ({d})"
+        else:
+            out[sk] = latin.strip()
+    return out
+
+
+def resolve_outcome_display(out: dict, pollen_labels: Dict[str, str]) -> Optional[str]:
+    """
+    Build a single human-readable endpoint string for PalynoQuest from a choice `id` / `outcome` dict.
+    Order: explicit text (if meaningful) → pollen_key via pollen.yaml → cleaned `name` (markdown heading).
+    """
+    raw_text = out.get("text")
+    if isinstance(raw_text, str):
+        t = raw_text.strip()
+        if t and t != "-":
+            return t
+
+    pk = out.get("pollen_key")
+    if isinstance(pk, str):
+        p = pk.strip()
+        if p and p != "-":
+            lbl = pollen_labels.get(p)
+            if lbl:
+                return lbl
+
+    nm = out.get("name")
+    if isinstance(nm, str):
+        s = md_link_plain(nm)
+        s = strip_leading_key_number(s)
+        if s and s != "-":
+            return s
+    return None
 
 
 def normalize_image_ref(image_ref: str, base_dir: Path) -> Optional[str]:
@@ -99,7 +222,9 @@ def rel_json_url(key_json_path: Path) -> str:
     return norm_rel_posix(key_json_path.relative_to(DOCS_DIR))
 
 
-def extract_from_key_json(key_json_path: Path) -> Tuple[Dict[str, Any], Dict[str, List[ImageUse]]]:
+def extract_from_key_json(
+    key_json_path: Path, pollen_labels: Dict[str, str]
+) -> Tuple[Dict[str, Any], Dict[str, List[ImageUse]]]:
     data = read_json(key_json_path)
     base_dir = key_json_path.parent
     meta = data.get("meta") if isinstance(data, dict) else None
@@ -156,9 +281,7 @@ def extract_from_key_json(key_json_path: Path) -> Tuple[Dict[str, Any], Dict[str
 
             out = ch.get("id") if isinstance(ch.get("id"), dict) else ch.get("outcome")
             if isinstance(out, dict):
-                outcome_text = out.get("text") if "text" in out else out.get("name")
-                if not isinstance(outcome_text, str) or not outcome_text.strip():
-                    outcome_text = None
+                outcome_text = resolve_outcome_display(out, pollen_labels)
                 for image, _w in extract_images_from_node(out, base_dir):
                     w = _w
                     use = ImageUse(
@@ -291,7 +414,103 @@ def parse_key_order_from_index() -> List[str]:
     return out
 
 
+def normalize_docs_asset_path(rel: Any) -> Optional[str]:
+    if not isinstance(rel, str):
+        return None
+    r = rel.strip().lstrip("./").replace("\\", "/")
+    if not r or is_placeholder_path(r):
+        return None
+    try:
+        p = Path(r)
+        if (DOCS_DIR / p).is_file():
+            return norm_rel_posix(p)
+    except (OSError, ValueError):
+        return None
+    return None
+
+
+def kerkvliet_row_endpoint_label(row: Dict[str, Any]) -> Optional[str]:
+    lat = md_link_plain(str(row.get("latin") or "")).strip()
+    nl = md_link_plain(str(row.get("dutch") or "")).strip()
+    if not lat and not nl:
+        return None
+    if lat and nl:
+        return f"{lat} ({nl})"
+    return lat or nl
+
+
+def items_from_kerkvliet_determinatietabel(json_path: Path, key_json_url: str) -> List[Dict[str, Any]]:
+    """
+    Determinatietabel (Kerkvliet): flat rows met images[]. Geen dichotomisch steps-bestand —
+    daarom apart van extract_from_key_json.
+    """
+    if not json_path.exists():
+        return []
+    try:
+        data = read_json(json_path)
+    except Exception:
+        return []
+    rows = data.get("rows")
+    if not isinstance(rows, list):
+        return []
+
+    seen_image: Dict[str, Dict[str, Any]] = {}
+
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        label = kerkvliet_row_endpoint_label(row)
+        if not label:
+            continue
+        imgs = row.get("images")
+        if not isinstance(imgs, list):
+            continue
+        for im in imgs:
+            if not isinstance(im, dict):
+                continue
+            rel_raw = im.get("image")
+            docs_rel = normalize_docs_asset_path(rel_raw)
+            if not docs_rel or is_sem_em_png_path(docs_rel):
+                continue
+            wp = im.get("imageWidthPx")
+            hp = im.get("imageHeightPx")
+            w0: Optional[float] = None
+            if isinstance(wp, (int, float)) and wp > 0:
+                w0 = float(wp)
+            elif isinstance(hp, (int, float)) and hp > 0:
+                w0 = float(hp)
+            iw = int(w0) if w0 is not None else None
+
+            seen_image[docs_rel] = {
+                "image": docs_rel,
+                "imageWidthPx": iw,
+                "strict": {"endpointText": label, "keyJsonUrl": key_json_url},
+                "accepted": [{"endpointText": label, "grade": "acceptable"}],
+                "expectedPath": [],
+                "distractors": [],
+            }
+
+    return sorted(seen_image.values(), key=lambda x: str(x["image"]))
+
+
+def _unique_accepted(outcome_uses: List[Dict[str, Any]], limit: int = 5) -> List[Dict[str, str]]:
+    seen: set[str] = set()
+    out: List[Dict[str, str]] = []
+    for u in outcome_uses:
+        t = u.get("outcomeText")
+        if not isinstance(t, str) or is_bad_outcome_placeholder(t):
+            continue
+        if t in seen:
+            continue
+        seen.add(t)
+        out.append({"endpointText": t, "grade": "acceptable"})
+        if len(out) >= limit:
+            break
+    return out
+
+
 def main() -> int:
+    pollen_labels = load_pollen_key_labels(POLLEN_YAML)
     key_paths = sorted(KEYS_DIR.rglob("*.json"))
     keys: List[Dict[str, Any]] = []
     image_to_uses: Dict[str, List[Dict[str, Any]]] = {}
@@ -299,7 +518,7 @@ def main() -> int:
 
     for kp in key_paths:
         try:
-            key_info, image_map = extract_from_key_json(kp)
+            key_info, image_map = extract_from_key_json(kp, pollen_labels)
         except Exception as e:
             raise RuntimeError(f"Failed parsing {kp}: {e}") from e
 
@@ -348,13 +567,25 @@ def main() -> int:
         },
     )
 
-    # Seed v1 quiz items: pick images that are used in an outcome with outcomeText.
+    # Quiz items: images that appear on an endpoint with a resolved label (not "-" / empty).
     items: List[Dict[str, Any]] = []
     for img in all_images:
         if is_placeholder_path(img):
             continue
+        if is_sem_em_png_path(img):
+            continue
         uses = image_to_uses.get(img, [])
-        outcome_uses = [u for u in uses if u.get("kind") == "outcome" and u.get("outcomeText")]
+        outcome_uses_raw = [
+            u
+            for u in uses
+            if u.get("kind") == "outcome"
+            and u.get("outcomeText")
+            and not is_bad_outcome_placeholder(u.get("outcomeText"))
+        ]
+        outcome_uses = [
+            u for u in outcome_uses_raw if palynoquest_key_allowed(u.get("keyJsonUrl"))
+        ]
+        outcome_uses = sort_palynoquest_outcomes(outcome_uses)
         if not outcome_uses:
             continue
         u0 = outcome_uses[0]
@@ -386,15 +617,25 @@ def main() -> int:
                     "endpointText": u0["outcomeText"],
                     "keyJsonUrl": u0["keyJsonUrl"],
                 },
-                "accepted": [
-                    {"endpointText": u["outcomeText"], "grade": "acceptable"}
-                    for u in outcome_uses[:5]
-                    if u.get("outcomeText")
-                ],
+                "accepted": _unique_accepted(outcome_uses, limit=5),
                 "expectedPath": expected_path,
                 "distractors": [],
             }
         )
+
+    # Kerkvliet-determinatietabel is geen vdh-steps JSON; plaatjes + labels apart verzameld.
+    # Bij dezelfde afbeelding wint deze bron (prioriteit hoger dan Reitsma/Eide enz.).
+    kerkv_json = KEYS_DIR / "kerkvliet" / "kerkvliet-determinatietabel.json"
+    kerk_url = norm_rel_posix(kerkv_json.relative_to(DOCS_DIR))
+    kerk_items = items_from_kerkvliet_determinatietabel(kerkv_json, key_json_url=kerk_url)
+
+    merged: Dict[str, Dict[str, Any]] = {}
+    for it in items:
+        merged[str(it["image"])] = it
+    for it in kerk_items:
+        merged[str(it["image"])] = it
+
+    items = sorted(merged.values(), key=lambda x: str(x.get("image") or ""))
 
     write_json(OUT_DIR / "palynoquest-items.json", {"items": items})
     return 0

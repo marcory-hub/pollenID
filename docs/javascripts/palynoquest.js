@@ -380,6 +380,10 @@
       state.diverged = false;
       state.expectedPath = state.current && state.current.expectedPath ? state.current.expectedPath : null;
       state.pendingJump = false;
+      state.selectedKeyJsonUrl = null;
+      if (keyWrapEl) {
+        keyWrapEl.replaceChildren();
+      }
       if (!state.current) {
         setStatus('<p class="admonition warning"><strong>Geen quiz-items gevonden.</strong></p>');
         return;
@@ -491,9 +495,19 @@
       state.selectedKeyJsonUrl = jsonUrl || null;
       keyWrapEl.replaceChildren();
       if (!jsonUrl) return;
+      var normUrl = String(jsonUrl).replace(/^\.\//, "").replace(/^\//, "");
+      if (normUrl.indexOf("kerkvliet-determinatietabel.json") !== -1) {
+        state.selectedKeyJsonUrl = null;
+        setStatus(
+          '<p class="admonition info">' +
+            "<strong>Determinatietabel (Kerkvliet)</strong> heeft een eigen opzoektabel-gezicht (geen stappenwizard hier). " +
+            "Ga naar <em>Identificatiesleutels → Determinatietabel voor pollen in Nederlandse honing</em>.</p>"
+        );
+        return;
+      }
       var rootEl = document.createElement("div");
       rootEl.id = "vdh-pollentabel-root";
-      rootEl.setAttribute("data-json-url", "../../" + String(jsonUrl).replace(/^\.\//, "").replace(/^\//, ""));
+      rootEl.setAttribute("data-json-url", "../../" + normUrl);
       keyWrapEl.appendChild(rootEl);
       if (window.PID_VDH_POLLENTABEL && typeof window.PID_VDH_POLLENTABEL.boot === "function") {
         window.PID_VDH_POLLENTABEL.boot();
