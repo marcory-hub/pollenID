@@ -20,13 +20,13 @@
     },
     {
       "id": "beug04-tetradeae-epipactis.json",
-      "title": "4.10 Epipactis-groep (Beug)",
+      "title": "4.10 Epipactis-groep (wespenorchis) (Beug)",
       "jsonUrl": "keys/beug/beug04-tetradeae-epipactis.json",
       "sourcePath": "docs/keys/beug/beug04-tetradeae-epipactis.json"
     },
     {
       "id": "beug04-tetradeae-ericaceae-empetrum.json",
-      "title": "4.7 Ericaceae–Empetrum-groep (Beug)",
+      "title": "4.7 Ericaceae–Empetrum-groep (groenblijvende dwergstruiken uit de heidefamilie)(Beug)",
       "jsonUrl": "keys/beug/beug04-tetradeae-ericaceae-empetrum.json",
       "sourcePath": "docs/keys/beug/beug04-tetradeae-ericaceae-empetrum.json"
     },
@@ -157,8 +157,8 @@
       "sourcePath": "docs/keys/beug/beug14-tricolpatae-ps-lotus.json"
     },
     {
-      "id": "beug14-tricolpatae-ps-pleurospermum",
-      "title": "beug14-tricolpatae-ps-pleurospermum",
+      "id": "beug14-tricolpatae-ps-pleurospermum.json",
+      "title": "-",
       "jsonUrl": "keys/beug/beug14-tricolpatae-ps-pleurospermum.json",
       "sourcePath": "docs/keys/beug/beug14-tricolpatae-ps-pleurospermum.json"
     },
@@ -434,7 +434,7 @@
     },
     {
       "id": "kerkvliet_determinatietabel",
-      "title": "Determinatietabel (Kerkvliet) — interactieve tabel",
+      "title": "kerkvliet_determinatietabel",
       "jsonUrl": "keys/kerkvliet/kerkvliet-determinatietabel.json",
       "sourcePath": "docs/keys/kerkvliet/kerkvliet-determinatietabel.json"
     },
