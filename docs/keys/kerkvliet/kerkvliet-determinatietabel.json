@@ -2456,61 +2456,53 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Olea Daphne mezereum](https://www.paldat.org/pub/Olea_daphne_mezereum)",
-      "dutch": "[peperboompje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Olea_daphne_mezereum)",
+      "latin": "[Daphne mezereum](https://www.paldat.org/pub/Daphne_mezereum)",
+      "dutch": "[peperboompje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Daphne_mezereum)",
       "vorm": "rond",
-      "grootte": "21",
+      "grootte": "21 (pw 27 (23.1-28.6) μm)",
       "oppervlak": "reticulaat",
       "opmerkingen": "n-poraat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Daphne_mezereum_d.png",
+          "imageHeightPx": 53
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/27 (23.1-28.6) μm_o.png",
+          "imageHeightPx": 53
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Betula](https://www.paldat.org/pub/Betula_sp.)",
-      "dutch": "[berk](https://pollen.tstebler.ch/MediaWiki/index.php?title=Betula_sp.)",
+      "latin": "[Betula sp (Betula nigra)](https://www.paldat.org/pub/Betula_nigra)",
+      "dutch": "[berk](https://pollen.tstebler.ch/MediaWiki/index.php?title=Betula_nigra)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "21",
+      "grootte": "21 (pw 24 (22.0-27.3) μm )",
       "oppervlak": "scabraat",
       "opmerkingen": "3-poraat, geel, vestibulum",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Betula_nigra_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Betula_nigra_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Betula_nigra_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Betula_nigra_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Melampyrum](https://www.paldat.org/pub/Melampyrum_pratense)",
+      "latin": "[Melampyrum pratense](https://www.paldat.org/pub/Melampyrum_pratense)",
       "dutch": "[hengel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Melampyrum_pratense)",
       "vorm": "rond tot driekantig, afhankelijk van de ligging",
       "grootte": "21",
@@ -2518,20 +2510,20 @@
       "opmerkingen": "3-colpaat , scherpe colpi",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Melampyrum_pratense_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Melampyrum_pratense_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Melampyrum_pratense_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Melampyrum_pratense_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
@@ -2545,20 +2537,8 @@
       "opmerkingen": "3-colporaat(?); lijkt op Trif. hyb.",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
@@ -2572,47 +2552,35 @@
       "opmerkingen": "3-colpaat, vouwen",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Deutzia sp.](https://www.paldat.org/pub/Deutzia_sp.)",
-      "dutch": "[Deutzia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_sp.)",
+      "latin": "[Deutzia sp. (-purporascens](https://www.paldat.org/pub/Deutzia_purpurascens)",
+      "dutch": "[Deutzia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_purpurascens)",
       "vorm": "ongeveer rond",
       "grootte": "22",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-colporaat, hof en vouwen (Ohe)",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Ed.png",
+          "imageHeightPx": 55 
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
@@ -2626,20 +2594,20 @@
       "opmerkingen": "3-4-colpaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eruca_sativa_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eruca_sativa_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eruca_sativa_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Eruca_sativa_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
@@ -2653,20 +2621,20 @@
       "opmerkingen": "3-colpaat , dunne ex; colpi l, breed, scherpe punt aan einde, soms exineresten op colpi; cyto: iets granulair",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Reseda_lutea_Ed.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Reseda_lutea_Eo.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Reseda_lutea_Pd.png",
+          "imageHeightPx": 55
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Reseda_lutea_Po.png",
+          "imageHeightPx": 55
         }
       ]
     },
@@ -2680,20 +2648,20 @@
       "opmerkingen": "3-colporaat, margo",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lysimachia_vulgaris_Ed.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lysimachia_vulgaris_Eo.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lysimachia_vulgaris_Pd.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Lysimachia_vulgaris_Po.png",
+          "imageHeightPx": 58
         }
       ]
     },
@@ -2707,26 +2675,26 @@
       "opmerkingen": "3-colpaat , geel",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Raphanus_raphanistrum_Ed.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Raphanus_raphanistrum_Eo.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Raphanus_raphanistrum_Pd.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Raphanus_raphanistrum_Po.png",
+          "imageHeightPx": 58
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Xanthium italicum](https://www.paldat.org/pub/Xanthium_italicum)",
+      "latin": "[Xanthium strumarium](https://www.paldat.org/pub/Xanthium_strumarium)",
       "dutch": "[stekelnoot sp.](https://pollen.tstebler.ch/MediaWiki/index.php?title=Xanthium_italicum)",
       "vorm": "rond",
       "grootte": "23",
@@ -2734,20 +2702,16 @@
       "opmerkingen": "3-colpaat, lijkt op Ambrosia",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Xanthium_strumarium_1.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Xanthium_strumarium_2.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/paldat/Xanthium_strumarium_3.png",
+          "imageHeightPx": 58
         }
       ]
     },
@@ -2761,20 +2725,20 @@
       "opmerkingen": "3-colpaat (?)",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
@@ -2788,20 +2752,20 @@
       "opmerkingen": "3-colporaat, s l colpi, grote pore",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clethra_alnifolia_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clethra_alnifolia_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clethra_alnifolia_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Clethra_alnifolia_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
@@ -2815,20 +2779,20 @@
       "opmerkingen": "3-colporaat, onregelm netwerk, hof, licht geel, ( struik algemeen in bos) smalle colpi, grote pore",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Viburnum_opulus_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Viburnum_opulus_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Viburnum_opulus_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Viburnum_opulus_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
@@ -2842,19 +2806,19 @@
       "opmerkingen": "3-colporaat, geel, Prunusvorm, zie onder rugulaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/paldat/Pyracantha_coccinia_Ed.png",
+          "imageHeightPx": 60
+        },
+        {
+          "image": "assets/images/paldat/Pyracantha_coccinia_Eo.png",
+          "imageHeightPx": 60
+        },
+        {
+          "image": "assets/images/paldat/Pyracantha_coccinia_Pd.png",
           "imageHeightPx": 72
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+          "image": "assets/images/paldat/Pyracantha_coccinia_Po.png",
           "imageHeightPx": 72
         }
       ]
