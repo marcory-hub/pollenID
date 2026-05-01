@@ -2221,19 +2221,19 @@
       "opmerkingen": "7-9colpaat, lijkt fijn reticulaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/Galium odoratum_Ed.png",
+          "image": "assets/images/pollenwiki/Galium_odoratum_Ed.png",
           "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/Galium odoratum_Eo.png",
+          "image": "assets/images/pollenwiki/Galium_odoratum_Eo.png",
           "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/Galium odoratum_Pd.png",
+          "image": "assets/images/pollenwiki/Galium_odoratum_Pd.png",
           "imageHeightPx": 50
         },
         {
-          "image": "assets/images/pollenwiki/Galium odoratum_Po.png",
+          "image": "assets/images/pollenwiki/Galium_odoratum_Po.png",
           "imageHeightPx": 50
         }
       ]
@@ -2468,7 +2468,7 @@
           "imageHeightPx": 53
         },
         {
-          "image": "assets/images/pollenwiki/27 (23.1-28.6) μm_o.png",
+          "image": "assets/images/pollenwiki/Daphne_mezereum_o.png",
           "imageHeightPx": 53
         }
       ]
@@ -2833,20 +2833,20 @@
       "opmerkingen": "3-colporaat, soms oranje olie",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Ed.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Eo.png",
+            "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Pd.png",
+          "imageHeightPx": 58
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Verbascum_nigrum_Po.png",
+          "imageHeightPx": 58
         }
       ]
     },
@@ -2861,15 +2861,15 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Populus_nigra_d.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 58
         },
         {
           "image": "assets/images/pollenwiki/Populus_nigra_o.png",
-          "imageHeightPx": 22
+          "imageHeightPx": 58
         },
         {
           "image": "assets/images/pollenwiki/Populus_nigra_scabraat_verrucaat.png",
-          "imageHeightPx": 23
+          "imageHeightPx": 58
         }
       ]
     },
@@ -2883,20 +2883,20 @@
       "opmerkingen": "3-colporaat, Umbellif.bouw",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Anthriscus_sylvestris_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Anthriscus_sylvestris_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Anthriscus_sylvestris_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Anthriscus_sylvestris_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
@@ -2910,47 +2910,47 @@
       "opmerkingen": "3-colporaat; l smalle, s colpi, ;pore vaak onduidelijk",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Digitalis_purpurea_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Digitalis_purpurea_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Digitalis_purpurea_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Digitalis_purpurea_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Euodia hupehensis](https://www.paldat.org/pub/Euodia_hupehensis)",
-      "dutch": "[honingboom](https://pollen.tstebler.ch/MediaWiki/index.php?title=Euodia_hupehensis)",
+      "latin": "[Tetradium daniellii var. hupehensis](https://www.paldat.org/pub/Tetradium_daniellii)",
+      "dutch": "[bijenboom](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tetradium_daniellii)",
       "vorm": "ongeveer rond",
       "grootte": "24(-27)",
       "oppervlak": "grof reticulaat",
-      "opmerkingen": "3-colporaat; syn: Tetradium daniella; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm",
+      "opmerkingen": "3-colporaat; was formerly classed as Euodia hupehensis; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Tetradium_daniellii_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Tetradium_daniellii_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Tetradium_daniellii_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Tetradium_daniellii_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
@@ -2965,46 +2965,46 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Rumex_obtusifolius_Eo.png",
-          "imageHeightPx": 18
+          "imageHeightPx": 60
         },
         {
           "image": "assets/images/pollenwiki/Rumex_obtusifolius_Eo2.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 60
         },
         {
           "image": "assets/images/pollenwiki/Rumex_obtusifolius_Pd.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 60
         },
         {
           "image": "assets/images/pollenwiki/Rumex_obtusifolius_Po.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 60
         }
       ]
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Polygonum convol](https://www.paldat.org/pub/Polygonum_convolutum)",
-      "dutch": "[zwaluwtong](https://pollen.tstebler.ch/MediaWiki/index.php?title=Polygonum_convolutum)",
+      "latin": "[Fallopia convolvulus](https://www.paldat.org/pub/Fallopia_convolvulus)",
+      "dutch": "[zwaluwtong](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fallopia_convolvulus)",
       "vorm": "rond",
       "grootte": "24",
       "oppervlak": "foveolaat",
-      "opmerkingen": "3-colporaat, lange vouwen;cyto: gran",
+      "opmerkingen": "3-colporaat, lange vouwen;cyto: gran  synoniem: Polygonum convolvulus)",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Ed.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Eo.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Pd.png",
+          "imageHeightPx": 60
         },
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Po.png",
+          "imageHeightPx": 60
         }
       ]
     },
@@ -3018,20 +3018,8 @@
       "opmerkingen": "3-colporaat, rel. dikke exine, grote pore, colpi puntig einde, lolongaat",
       "images": [
         {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
+          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
+          "imageHeightPx": 20
         }
       ]
     },
@@ -3046,19 +3034,19 @@
       "images": [
         {
           "image": "assets/images/pollenwiki/Ailanthus_glandulosa_Eo.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 53
         },
         {
           "image": "assets/images/pollenwiki/Ailanthus_glandulosa_Eo2.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 53
         },
         {
           "image": "assets/images/pollenwiki/Ailanthus_glandulosa_Pd.png",
-          "imageHeightPx": 19
+          "imageHeightPx": 53
         },
         {
           "image": "assets/images/pollenwiki/Ailanthus_glandulosa_Po.png",
-          "imageHeightPx": 21
+          "imageHeightPx": 53
         }
       ]
     },
