@@ -10,7 +10,8 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
 
 ## Workflow (token-efficient)
 - Read only what you need: use targeted search, then small `Read` windows around the relevant key.
-- When adding images, derive them from existing files under `docs/assets/images/` and write docs-relative paths like `assets/images/...`.
+- When adding images, use files under `docs/assets/images/` and write docs-relative paths like `assets/images/...`.
+- Canonical layout for taxon-linked rasters: `assets/images/by-taxon/<pollen_key>/...` (use `kind` / `source` fields to record provenance, not only the folder name).
 - Prefer mechanical changes:
   - Insert `images:` immediately before `image:` in an entry.
   - Sort `images` paths and de-duplicate.
@@ -28,23 +29,26 @@ Use:
 
 ```yaml
   images:
-  - path: assets/images/pollenwiki/Foo_bar_Eo.png
+  - path: assets/images/by-taxon/foo_bar/Foo_bar_Eo.png
     kind: pollenwiki
     source: pollenwiki
 ```
 
-`kind` and `source` should usually match the folder under `assets/images/` (e.g. `pollenwiki`, `paldat`, `persano_oddo`, `beug`, `kerkvliet`).
+`kind` and `source` record the image corpus (e.g. `pollenwiki`, `paldat`, `persano_oddo`, `beug`, `kerkvliet`).
 
-## Regenerate the runtime index
+## Regenerate the runtime index and manifests
 
-`docs/javascripts/vdh-pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate that file:
+`docs/javascripts/vdh-pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate site data (not tracked in git):
 
 ```bash
-./.venv/bin/python scripts/export_pollen_json.py
+./.venv/bin/python scripts/build_docs_data.py
 ```
 
 Rules:
-- Always run the exporter in the same turn as the YAML edit; commit both files together.
-- Do not edit `docs/data/pollen.json` by hand; it is generated.
-- The exporter only emits `latin`, `dutch`, `family`, `size.smallest_size/largest_size`, and `images`; extending those fields requires editing `scripts/export_pollen_json.py`.
+- Do not edit `docs/data/pollen.json` or `docs/assets/manifests/*.json` by hand; they are generated.
+- The exporter emits `latin`, `dutch`, `family`, `shape`, `ornamentation`, `aperture`, `size`, and `images` (see `scripts/export_pollen_json.py`).
 
+## Auditing and migration helpers
+- Read-only inventory: `python scripts/audit_pollen_assets.py`
+- Append confidently mapped files missing from YAML: `python scripts/sync_yaml_confident_images.py`
+- Move resolved rasters into `by-taxon` (rewrites references): `python scripts/migrate_pollen_images_by_taxon.py --apply`
