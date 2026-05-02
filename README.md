@@ -1,7 +1,5 @@
 # Notities melissopalynologie.
 
-Notities voor het determineren van pollen in honing. De documentatie is gebouwd met MkDocs Material.
-
 ## Online
 https://marcory-hub.github.io/pollenID/
 
@@ -38,11 +36,31 @@ Installeer de benodigde software (MkDocs en plugins):
 pip install -r requirements.txt
 ```
 
-4. **Server starten**
+4. **_pollen.json_ en manifesten genereren**
+Vanuit de hoofdmap:
+```bash 
+python scripts/build_docs_data.py
+```
+
+5. **Server starten**
 Draai de lokale server vanuit de hoofdmap:
 ```bash 
 mkdocs serve
 ```
 
-5. **Bekijken**
+6. **Bekijken**
 Open http://127.0.0.1:8000 in je browser.
+
+## Pollengegevens en afbeeldingen toevoegen
+
+- **Bron**: alles bewerk je in `data/pollen.yaml` (één record per `pollen_key`, de sleutelregel bovenaan het blok).
+- **Nieuwe soort**: voeg een nieuw topniveau-item toe met minimaal `latin` (en waar nodig `dutch`, `family`, `size`, `shape`, `aperture`, `ornamentation`, enz.).
+- **Afbeeldingsbestand**: zet bestanden onder `docs/assets/images/by-taxon/<pollen_key>/` (mapnaam = dezelfde string als de sleutel).
+- **Koppeling in YAML**: onder het taxon een lijst `images:` met per bestand:
+  - `path`: docs-relatief pad, bijv. `assets/images/by-taxon/mijn_sleutel/Bestand.png`
+  - `kind` en `source`: corpus of herkomst (bijv. `pollenwiki`, `paldat`, `persano_oddo`, `beug`)
+  - optioneel `height_px` per afbeelding
+- **Standaardhoogte voor macro’s**: blok `image:` met `height_px` als er geen per-afbeelding `height_px` staat.
+- **Pagina met alle YAML-foto’s**: in Markdown `{{ pollen_gallery("pollen_key") }}` (macro’s staan in `main.py`).
+- **Na elke YAML-wijziging**: `python scripts/build_docs_data.py` en daarna `mkdocs serve` (of `mkdocs build`).
+- **Niet bewerken**: `docs/data/pollen.json` en `docs/assets/manifests/*.json` worden automatisch gegenereerd.
