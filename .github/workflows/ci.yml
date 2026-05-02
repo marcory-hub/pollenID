@@ -32,8 +32,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build manifests (keys, images, PalynoQuest)
-        run: python scripts/build_manifests.py
+      - name: Build site data (pollen.json + manifests)
+        run: python scripts/build_docs_data.py
 
       - name: Build MkDocs site
         run: mkdocs build
