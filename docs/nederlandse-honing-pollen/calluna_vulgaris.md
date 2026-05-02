@@ -1,33 +1,6 @@
 # *Calluna vulgaris* (struikheide)
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris-2.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/pollenwiki/Calluna-vulgaris-3.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/paldat/Calluna-vulgaris-4.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_Pd.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_Po.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur.png", alt="Calluna vulgaris") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("calluna_vulgaris", "../../assets/images/persano_oddo/Calluna_vulgaris_sculptuur2.png", alt="Calluna vulgaris") }}
-    </figure>
-  </div>
-</div>
+{{ pollen_gallery("calluna_vulgaris") }}
 
 ## Kenmerken
 

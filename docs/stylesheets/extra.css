@@ -77,6 +77,59 @@
   margin-top: 0;
 }
 
+.vdh-pollentabel-prev-fork {
+  margin: 0 0 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border-radius: 0.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  background: color-mix(in srgb, var(--md-default-fg-color) 4%, transparent);
+}
+
+.vdh-pollentabel-prev-fork h5 {
+  margin: 0 0 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.vdh-pollentabel-prev-fork-groups {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+}
+
+.vdh-pollentabel-prev-fork-group {
+  flex: 1 1 12rem;
+  min-width: 10rem;
+}
+
+.vdh-pollentabel-prev-fork-label {
+  font-size: 0.76rem;
+  line-height: 1.35;
+  margin-bottom: 0.2rem;
+}
+
+.vdh-pollentabel-prev-fork-empty {
+  margin: 0;
+  font-size: 0.76rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.vdh-pollentabel-img-with-hint {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  vertical-align: top;
+}
+
+.vdh-pollentabel-ph-hint {
+  font-size: 0.68rem;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--md-default-fg-color--lighter);
+}
+
 /* Geen theme .md-button: die gaf laag contrast (blauw op grijs). */
 .vdh-pollentabel-btn {
   display: inline-block;
@@ -224,8 +277,65 @@
   border: 1px solid var(--md-default-fg-color--lightest);
 }
 
+.vdh-pollentabel-table-fork {
+  margin: 0 0 0.45rem;
+  max-width: 100%;
+}
+
+.vdh-pollentabel-table-fork-caption {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color--lighter);
+  margin: 0 0 0.25rem;
+  white-space: nowrap;
+}
+
+.vdh-pollentabel-table-fork-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+  padding-bottom: 0.2rem;
+}
+
+.vdh-pollentabel-table-fork-strip {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-end;
+  gap: 6px;
+  width: max-content;
+}
+
+.vdh-pollentabel-table-fork-choice-chunk {
+  flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.vdh-pollentabel-table-fork-sep {
+  flex: 0 0 auto;
+  width: 1px;
+  min-height: 2rem;
+  align-self: stretch;
+  margin: 0 0.35rem;
+  background: var(--md-default-fg-color--lightest);
+}
+
+.vdh-pollentabel-table-fork-empty {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  color: var(--md-default-fg-color--lighter);
+  white-space: nowrap;
+  align-self: center;
+}
+
+.vdh-pollentabel-table-td-result {
+  max-width: none;
+}
+
 .vdh-pollentabel-table-grid {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   font-size: 0.82rem;
 }
@@ -236,6 +346,27 @@
   text-align: left;
   vertical-align: top;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.vdh-pollentabel-table-grid th:first-child,
+.vdh-pollentabel-table-grid td:first-child {
+  width: 3.75rem;
+  white-space: nowrap;
+}
+
+.vdh-pollentabel-table-grid th:nth-child(2),
+.vdh-pollentabel-table-grid td:nth-child(2) {
+  width: 32%;
+}
+
+.vdh-pollentabel-table-grid th:last-child,
+.vdh-pollentabel-table-grid td:last-child {
+  width: auto;
+  min-width: 0;
+}
+
+.vdh-pollentabel-table-grid td:last-child {
+  overflow-x: auto;
 }
 
 .vdh-pollentabel-table-grid th {

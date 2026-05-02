@@ -38,6 +38,13 @@ __main__.py
 # MkDocs build directory
 site/
 
+# Generated docs data (rebuild with: python scripts/build_docs_data.py)
+docs/data/pollen.json
+docs/assets/manifests/keys.json
+docs/assets/manifests/images.json
+docs/assets/manifests/palynoquest-items.json
+_build/
+
 # Search index and temporary build files
 .cache/
 .mkdocs_build/

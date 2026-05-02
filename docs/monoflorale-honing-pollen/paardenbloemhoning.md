@@ -1,21 +1,6 @@
 # paardenbloemhoning (Taraxacum officinale)
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Po.png", alt="Taraxacum officinale") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Pd.png", alt="Taraxacum officinale") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png", alt="Taraxacum officinale") }}
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("taraxacum_officinale", "../../assets/images/pollenwiki/Taraxacum_officinale_Ed.png", alt="Taraxacum officinale") }}
-    </figure>
-  </div>
-</div>
+{{ pollen_gallery("taraxacum_officinale") }}
 
 ## Kenmerken
 

@@ -3,16 +3,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/Myosotis_scorpioides_Eo.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/Myosotis_scorpioides_Eo.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/Myosotis_scorpioides_Eo2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/Myosotis_scorpioides_Pd.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/Myosotis_scorpioides_Pd.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../assets/images/pollenwiki/Myosotis_scorpioides_Po.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/Myosotis_scorpioides_Po.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
   </div>
 </div>

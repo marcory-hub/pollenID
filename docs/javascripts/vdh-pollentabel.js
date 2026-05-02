@@ -153,7 +153,9 @@
       return pollenIndexPromise;
     }
     try {
-      docsRootUrl = new URL("../../", url).href;
+      // pollen.json lives at `<site-prefix>/data/pollen.json`; one "../" yields the MkDocs site root
+      // (e.g. /pollenID/). "../../" wrongly strips subdirectory deploys like GitHub Pages.
+      docsRootUrl = new URL("../", url).href;
     } catch (e) {
       docsRootUrl = null;
     }
@@ -214,6 +216,54 @@
   // the size fields in data/pollen.yaml to switch to true-scale (2,5 px/µm).
   const FALLBACK_IMAGE_HEIGHT_PX = 100;
 
+  /** Eén visuele rij thumbnails in interactieve sleutels; voorkomt mix van 128 px + 250 px op dezelfde keuze. */
+  const POLLEN_THUMB_ROW_MAX_PX = 112;
+
+  function parseCssHeightPx(styleHeight) {
+    if (typeof styleHeight !== "string" || !styleHeight) return NaN;
+    var m = /^(\d+(?:\.\d+)?)px\s*$/i.exec(styleHeight.trim());
+    return m ? parseFloat(m[1]) : NaN;
+  }
+
+  /**
+   * Schaal alle <img>-hoogtes in de rij met dezelfde factor zodat de grootste niet boven maxPx uitkomt.
+   * Alle afbeeldingen op één tak (pollenwiki + placeholders) worden daarmee visueel vergelijkbaar.
+   */
+  function normalizePollenThumbnailRow(rowEl, maxPx) {
+    if (!rowEl || !(maxPx > 0)) return;
+    var imgs = rowEl.querySelectorAll("img");
+    if (!imgs.length) return;
+    var heights = [];
+    for (var i = 0; i < imgs.length; i++) {
+      var img = imgs[i];
+      var h =
+        typeof img.style.height === "string" && img.style.height
+          ? parseCssHeightPx(img.style.height)
+          : NaN;
+      if (!(Number.isFinite(h) && h > 0)) {
+        var oh = img.offsetHeight;
+        h = oh > 0 ? oh : 24;
+      }
+      heights.push(h);
+    }
+    var mh = Math.max.apply(null, heights);
+    if (!(mh > 0)) return;
+    var factor = mh > maxPx ? maxPx / mh : 1;
+    var minPx = 14;
+    for (var j = 0; j < imgs.length; j++) {
+      var nh = Math.max(minPx, Math.round(heights[j] * factor));
+      imgs[j].style.height = String(nh) + "px";
+      imgs[j].style.width = "auto";
+    }
+  }
+
+  function tileHeightPxFromPollenJsonImage(im, entryFallbackPx) {
+    if (typeof im.imageHeightPx === "number" && im.imageHeightPx > 0) return im.imageHeightPx;
+    if (typeof im.height_px === "number" && im.height_px > 0) return im.height_px;
+    if (typeof im.heightPx === "number" && im.heightPx > 0) return im.heightPx;
+    return entryFallbackPx;
+  }
+
   function imagesFromIndexEntry(entry) {
     if (!entry || !Array.isArray(entry.images)) return [];
     const h = heightPxFromSize(entry.size) || FALLBACK_IMAGE_HEIGHT_PX;
@@ -226,22 +276,35 @@
         if (docsRootUrl) {
           try { src = new URL(im.path, docsRootUrl).href; } catch (e) { /* keep raw */ }
         }
-        out.push({ image: src, imageHeightPx: h });
+        const tile = tileHeightPxFromPollenJsonImage(im, h);
+        out.push({ image: src, imageHeightPx: tile });
       }
     });
     return out;
   }
 
+  /** Geldige `pollen_key` voor lookups; "-", leegstrings en null tellen niet. */
+  function normalizePollenSlug(raw) {
+    if (typeof raw !== "string") return "";
+    const s = raw.trim();
+    if (!s || s === "-") return "";
+    return s;
+  }
+
   function resolveEndpointFromIndex(endpoint, pollenIndex) {
     if (!endpoint || !pollenIndex) return null;
-    const key = endpoint.pollen_key;
-    if (typeof key !== "string" || !key) return null;
+    const key = normalizePollenSlug(endpoint.pollen_key);
+    if (!key) return null;
     const entry = pollenIndex[key];
     if (!entry) return null;
-    const images =
-      Array.isArray(endpoint.images) && endpoint.images.length > 0
-        ? endpoint.images
-        : imagesFromIndexEntry(entry);
+    var fromIndex = imagesFromIndexEntry(entry);
+    /** Sleutels met alleen pollen_key gebruiken pollen.json; lokale overrides alleen bij gebrek aan afbeeldingen in index. */
+    var images =
+      fromIndex.length > 0
+        ? fromIndex
+        : Array.isArray(endpoint.images) && endpoint.images.length > 0
+          ? endpoint.images
+          : [];
     return {
       latin: entry.latin || null,
       dutch: entry.dutch || null,
@@ -313,6 +376,76 @@
     return resolveAssetUrl("../../assets/images/placeholder/NO_IMAGE_FOUND.jpg", baseUrl || document.baseURI);
   }
 
+  /**
+   * Afbeeldingen voor interactieve keuzes (zelfde samenstelling als op de knoppen).
+   * @param {object} ch
+   * @param {Record<string, unknown>} pollenIndex
+   * @returns {Array<{image?:string,imageHeightPx?:number,imageWidthPx?:number}>}
+   */
+  function gatherInteractiveChoiceImages(ch, pollenIndex) {
+    pollenIndex = pollenIndex || {};
+    var imgsFromChoice = [];
+    if (Array.isArray(ch.images) && ch.images.length > 0) {
+      imgsFromChoice = ch.images.slice();
+      if (
+        typeof ch.image === "string" &&
+        ch.image.trim() &&
+        !imgsFromChoice.some(function (x) {
+          return x && x.image === ch.image;
+        })
+      ) {
+        imgsFromChoice.unshift({
+          image: ch.image,
+          imageHeightPx: ch.imageHeightPx,
+          imageWidthPx: ch.imageWidthPx,
+        });
+      }
+    } else if (typeof ch.image === "string" && ch.image.trim()) {
+      imgsFromChoice = [
+        {
+          image: ch.image,
+          imageHeightPx: ch.imageHeightPx,
+          imageWidthPx: ch.imageWidthPx,
+        },
+      ];
+    }
+    const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
+    var imgsFromEndpoint = [];
+    var pollenSlug = endpoint ? normalizePollenSlug(endpoint.pollen_key) : "";
+    if (pollenSlug && pollenIndex[pollenSlug]) {
+      imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[pollenSlug]);
+    }
+    if (
+      (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
+      endpoint &&
+      Array.isArray(endpoint.images) &&
+      endpoint.images.length > 0
+    ) {
+      imgsFromEndpoint = endpoint.images;
+    }
+    const imgs = imgsFromChoice.concat(imgsFromEndpoint);
+    if (imgs.length > 0) return imgs;
+    if (isPlaceholderImagePath(ch.image)) {
+      return [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
+    }
+    if (endpoint && isPlaceholderImagePath(endpoint.image)) {
+      return [
+        {
+          image: endpoint.image,
+          imageHeightPx: endpoint.imageHeightPx,
+          imageWidthPx: endpoint.imageWidthPx,
+        },
+      ];
+    }
+    return [];
+  }
+
+  /** Voor placeholdertegels: doelstap bij `next`, anders leeg (eindpunt). */
+  function choicePlaceholderHint(ch) {
+    if (ch && ch.next) return String(ch.next);
+    return "";
+  }
+
   function applyImageSizing(img, heightPx, widthPx, isPlaceholder) {
     img.style.display = "block";
     img.style.height = "auto";
@@ -344,7 +477,46 @@
     if (isPlaceholder) img.classList.add("pid-placeholder-image");
   }
 
-  function renderImagesRow(container, images, baseUrl, altPrefix) {
+  /**
+   * @param {HTMLElement} flexRow moet flex + nowrap gebruiken
+   * @param {{ placeholderBranchHint?: string }} [renderOpts]
+   */
+  function appendImageTilesToFlexRow(flexRow, images, baseUrl, altPrefix, renderOpts) {
+    renderOpts = renderOpts || {};
+    var branchHint = renderOpts.placeholderBranchHint || "";
+    if (!Array.isArray(images)) return;
+    images.forEach(function (im, imIdx) {
+      if (!im || !im.image) return;
+      const img = document.createElement("img");
+      img.alt = "";
+      img.title = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
+      const ph = isPlaceholderImagePath(im.image);
+      if (ph && branchHint) img.title += " —→ stap " + branchHint;
+      img.src = ph
+        ? resolveNoImageFoundUrl(baseUrl || document.baseURI)
+        : resolveAssetUrl(im.image, baseUrl || document.baseURI);
+      applyImageSizing(img, im.imageHeightPx, im.imageWidthPx, ph);
+
+      if (ph && branchHint) {
+        const cell = document.createElement("span");
+        cell.className = "vdh-pollentabel-img-with-hint";
+        cell.appendChild(img);
+        const hintEl = document.createElement("span");
+        hintEl.className = "vdh-pollentabel-ph-hint";
+        hintEl.textContent = branchHint;
+        cell.appendChild(hintEl);
+        flexRow.appendChild(cell);
+      } else {
+        flexRow.appendChild(img);
+      }
+    });
+  }
+
+  /**
+   * @param {{ placeholderBranchHint?: string, compactRow?: boolean, skipThumbnailNormalize?: boolean, thumbnailRowMaxPx?: number }} [renderOpts]
+   */
+  function renderImagesRow(container, images, baseUrl, altPrefix, renderOpts) {
+    renderOpts = renderOpts || {};
     if (!Array.isArray(images) || images.length === 0) return;
     const row = document.createElement("div");
     row.className = "vdh-pollentabel-images-row";
@@ -352,24 +524,136 @@
     row.style.flexWrap = "nowrap";
     row.style.gap = "6px";
     row.style.alignItems = "flex-start";
-    row.style.marginTop = "8px";
+    if (!renderOpts.compactRow) {
+      row.style.marginTop = "8px";
+    }
     row.style.overflowX = "auto";
+    appendImageTilesToFlexRow(row, images, baseUrl, altPrefix, renderOpts);
+    if (!renderOpts.skipThumbnailNormalize) {
+      var cap =
+        typeof renderOpts.thumbnailRowMaxPx === "number" && renderOpts.thumbnailRowMaxPx > 0
+          ? renderOpts.thumbnailRowMaxPx
+          : POLLEN_THUMB_ROW_MAX_PX;
+      normalizePollenThumbnailRow(row, cap);
+    }
     container.appendChild(row);
+  }
 
-    images.forEach(function (im, imIdx) {
-      if (!im || !im.image) return;
-      const img = document.createElement("img");
-      // Do not render text under tiles when an image fails to load.
-      // Keep a tooltip for context instead.
-      img.alt = "";
-      img.title = (altPrefix || "Afbeelding") + " (" + (imIdx + 1) + ")";
-      const ph = isPlaceholderImagePath(im.image);
-      img.src = ph
-        ? resolveNoImageFoundUrl(baseUrl || document.baseURI)
-        : resolveAssetUrl(im.image, baseUrl || document.baseURI);
-      applyImageSizing(img, im.imageHeightPx, im.imageWidthPx, ph);
-      row.appendChild(img);
+  /** Voor elke stap met een `next`-inkomend: id van de vorige stap (eerste binding wint). */
+  function computeIncomingParentStepIds(steps) {
+    /** @type {Record<string, string>} */
+    var incoming = {};
+    var ids = Object.keys(steps).sort(function (a, b) {
+      return parseInt(a, 10) - parseInt(b, 10);
     });
+    ids.forEach(function (sid) {
+      var step = steps[sid];
+      (step.choices || []).forEach(function (ch) {
+        if (ch.next) {
+          var t = String(ch.next);
+          if (!incoming[t]) incoming[t] = String(sid);
+        }
+      });
+    });
+    return incoming;
+  }
+
+  /** Platte tabel: alle afbeeldingen van opties op het vorige keuzespunt in één rij + horizontale scroll. */
+  function renderTablePreviousForkStrip(hostEl, forkStepId, steps, pollenIndex, baseUrl) {
+    if (!forkStepId || !steps[forkStepId]) return;
+    var forkStep = steps[forkStepId];
+    if (!forkStep.choices || forkStep.choices.length === 0) return;
+
+    var wrap = document.createElement("div");
+    wrap.className = "vdh-pollentabel-table-fork";
+    var cap = document.createElement("div");
+    cap.className = "vdh-pollentabel-table-fork-caption";
+    cap.textContent = "Splitsing bij stap " + String(forkStepId);
+    wrap.appendChild(cap);
+
+    var sc = document.createElement("div");
+    sc.className = "vdh-pollentabel-table-fork-scroll";
+    var strip = document.createElement("div");
+    strip.className = "vdh-pollentabel-table-fork-strip";
+
+    forkStep.choices.forEach(function (ch, idx) {
+      if (idx > 0) {
+        var sep = document.createElement("span");
+        sep.className = "vdh-pollentabel-table-fork-sep";
+        sep.setAttribute("aria-hidden", "true");
+        strip.appendChild(sep);
+      }
+      var imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+      var hint = choicePlaceholderHint(ch);
+      var altP =
+        (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") +
+        " (stap " +
+        String(forkStepId) +
+        ", afbeelding)";
+      if (imgs.length === 0) {
+        var emp = document.createElement("span");
+        emp.className = "vdh-pollentabel-table-fork-empty";
+        emp.textContent = "(geen afbeelding)";
+        strip.appendChild(emp);
+      } else {
+        var chunk = document.createElement("div");
+        chunk.className = "vdh-pollentabel-table-fork-choice-chunk";
+        renderImagesRow(chunk, imgs, baseUrl || document.baseURI, altP, {
+          placeholderBranchHint: hint,
+          compactRow: true,
+        });
+        strip.appendChild(chunk);
+      }
+    });
+
+    sc.appendChild(strip);
+    wrap.appendChild(sc);
+    hostEl.appendChild(wrap);
+  }
+
+  /** Toont alle keuze-afbeeldingen van het vorige keuzespunt (boven huidige stap / eindpunt). */
+  function appendPreviousForkReminder(hostEl, forkStepId, steps, pollenIndex, baseUrl) {
+    var forkStep = steps[forkStepId];
+    if (!forkStep || !Array.isArray(forkStep.choices) || forkStep.choices.length === 0) return;
+
+    var box = document.createElement("div");
+    box.className = "vdh-pollentabel-prev-fork";
+    var h = document.createElement("h5");
+    h.textContent = "Voorgaande splitsing (stap " + String(forkStepId) + ")";
+    box.appendChild(h);
+
+    var groups = document.createElement("div");
+    groups.className = "vdh-pollentabel-prev-fork-groups";
+
+    forkStep.choices.forEach(function (ch, idx) {
+      var grp = document.createElement("div");
+      grp.className = "vdh-pollentabel-prev-fork-group";
+      var cap = document.createElement("div");
+      cap.className = "vdh-pollentabel-prev-fork-label";
+      cap.innerHTML = formatEmphasisAst(String(ch.label || "Optie " + (idx + 1)));
+      grp.appendChild(cap);
+
+      var imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+      var hint = choicePlaceholderHint(ch);
+      if (imgs.length === 0) {
+        var empty = document.createElement("p");
+        empty.className = "vdh-pollentabel-prev-fork-empty";
+        empty.textContent = "(Geen afbeelding)";
+        grp.appendChild(empty);
+      } else {
+        renderImagesRow(
+          grp,
+          imgs,
+          baseUrl,
+          (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)",
+          { placeholderBranchHint: hint }
+        );
+      }
+      groups.appendChild(grp);
+    });
+
+    box.appendChild(groups);
+    hostEl.appendChild(box);
   }
 
   function runKey(root, data, dataAbsUrl, pollenIndex) {
@@ -424,9 +708,16 @@
       stepEl.innerHTML = "<h4>Stap " + esc(String(id)) + "</h4>";
       emit("pid:vdh-step", { stepId: String(id) });
 
+      if (stack.length > 0) {
+        var forkFrom = stack[stack.length - 1];
+        appendPreviousForkReminder(stepEl, forkFrom, steps, pollenIndex, dataAbsUrl || document.baseURI);
+      }
+
       const choices = step.choices || [];
       if (choices.length === 0) {
-        stepEl.innerHTML += "<p>Geen keuzes gedefinieerd.</p>";
+        const emptyP = document.createElement("p");
+        emptyP.textContent = "Geen keuzes gedefinieerd.";
+        stepEl.appendChild(emptyP);
         return;
       }
 
@@ -438,37 +729,15 @@
         const labelText = ch.label || "Optie " + (idx + 1);
         labelSpan.innerHTML = formatEmphasisAst(labelText);
         btn.appendChild(labelSpan);
-        // Interactive choices: show images (scaled), placeholders stay dimmed.
-        const imgsFromChoice = Array.isArray(ch.images) ? ch.images : [];
-        const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
-        let imgsFromEndpoint = endpoint && Array.isArray(endpoint.images) ? endpoint.images : [];
-        if (
-          (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
-          endpoint && endpoint.pollen_key && pollenIndex[endpoint.pollen_key]
-        ) {
-          imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[endpoint.pollen_key]);
-        }
-        const imgs = imgsFromChoice.concat(imgsFromEndpoint);
+        const imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+        const phHint = choicePlaceholderHint(ch);
         if (imgs.length > 0) {
           renderImagesRow(
             btn,
             imgs,
             dataAbsUrl || document.baseURI,
-            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)"
-          );
-        } else if (isPlaceholderImagePath(ch.image)) {
-          renderImagesRow(
-            btn,
-            [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }],
-            dataAbsUrl || document.baseURI,
-            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
-          );
-        } else if (endpoint && isPlaceholderImagePath(endpoint.image)) {
-          renderImagesRow(
-            btn,
-            [{ image: endpoint.image, imageHeightPx: endpoint.imageHeightPx, imageWidthPx: endpoint.imageWidthPx }],
-            dataAbsUrl || document.baseURI,
-            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (placeholder)"
+            (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") + " (afbeelding)",
+            { placeholderBranchHint: phHint }
           );
         }
         btn.addEventListener("click", function () {
@@ -490,6 +759,17 @@
             const h = document.createElement("h4");
             h.textContent = "Eindpunt";
             outcomeEl.appendChild(h);
+
+            if (stack.length > 0) {
+              var forkAt = stack[stack.length - 1];
+              appendPreviousForkReminder(
+                outcomeEl,
+                forkAt,
+                steps,
+                pollenIndex,
+                dataAbsUrl || document.baseURI
+              );
+            }
 
             const resolved = resolveEndpointFromIndex(endpoint, pollenIndex);
             let altLabel = "Eindpunt";
@@ -675,29 +955,12 @@
       (step.choices || []).forEach(function (ch) {
         let result = "";
         let kind = "";
-        let images = [];
         if (ch.next) {
           result = "→ stap " + String(ch.next);
           kind = "stap";
-          if (Array.isArray(ch.images)) {
-            images = ch.images;
-          } else if (ch.image) {
-            images = [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
-          }
         } else if (ch.outcome && ch.outcome.text) {
           result = ch.outcome.text;
           kind = ch.outcome.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
-          if (Array.isArray(ch.outcome.images)) {
-            images = ch.outcome.images;
-          } else if (ch.outcome.image) {
-            images = [
-              {
-                image: ch.outcome.image,
-                imageHeightPx: ch.outcome.imageHeightPx,
-                imageWidthPx: ch.outcome.imageWidthPx,
-              },
-            ];
-          }
         } else if (ch.id && (ch.id.text || ch.id.name || ch.id.pollen_key)) {
           const resolvedRow = resolveEndpointFromIndex(ch.id, pollenIndex);
           if (ch.id.text) {
@@ -713,34 +976,20 @@
             result = ch.id.name || "";
           }
           kind = ch.id.incomplete ? "eindpunt (onvolledig)" : "eindpunt";
-          if (Array.isArray(ch.id.images) && ch.id.images.length > 0) {
-            images = ch.id.images;
-          } else if (resolvedRow && Array.isArray(resolvedRow.images) && resolvedRow.images.length > 0) {
-            images = resolvedRow.images;
-          } else if (ch.id.image) {
-            images = [
-              {
-                image: ch.id.image,
-                imageHeightPx: ch.id.imageHeightPx,
-                imageWidthPx: ch.id.imageWidthPx,
-              },
-            ];
-          }
         } else {
           result = "-";
           kind = "leeg";
-          if (Array.isArray(ch.images)) {
-            images = ch.images;
-          } else if (ch.image) {
-            images = [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
-          }
         }
+        let images = gatherInteractiveChoiceImages(ch, pollenIndex);
+        var placeholderHint =
+          typeof ch.next === "string" && String(ch.next).trim() !== "" ? String(ch.next) : "";
         rows.push({
           sid: sid,
           label: ch.label || "",
           result: result,
           kind: kind,
           images: images,
+          placeholderHint: placeholderHint,
         });
       });
     });
@@ -749,6 +998,8 @@
 
   function runTable(root, data, dataAbsUrl, pollenIndex) {
     const rows = flattenSteps(data, pollenIndex || {});
+    const steps = data.steps || {};
+    const incomingParent = computeIncomingParentStepIds(steps);
     const wrap = document.createElement("div");
     wrap.className = "vdh-pollentabel-table md-typeset";
 
@@ -794,9 +1045,12 @@
 
     rows.forEach(function (row) {
       const tr = document.createElement("tr");
-      const hay = (row.sid + " " + row.label + " " + row.result + " " + row.kind)
-        .toLowerCase()
-        .trim();
+      var forkParent = incomingParent[String(row.sid)] || "";
+      var hayBits =
+        row.sid + " " + row.label + " " + row.result + " " + row.kind + " " + forkParent;
+      if (forkParent)
+        hayBits += " splitsing bij stap " + forkParent + " splitsing stap " + forkParent;
+      const hay = hayBits.toLowerCase().trim();
       tr.setAttribute("data-vdh-filter", hay);
 
       const tdS = document.createElement("td");
@@ -811,12 +1065,31 @@
       }
 
       const tdR = document.createElement("td");
+      if (forkParent) {
+        renderTablePreviousForkStrip(
+          tdR,
+          forkParent,
+          steps,
+          pollenIndex || {},
+          dataAbsUrl || document.baseURI
+        );
+      }
       if (row.kind.indexOf("eindpunt") === 0) {
-        tdR.innerHTML = formatOutcomeRichText(row.result);
+        const outP = document.createElement("div");
+        outP.className = "vdh-pollentabel-table-td-result";
+        outP.innerHTML = formatOutcomeRichText(row.result);
+        tdR.appendChild(outP);
       } else {
-        tdR.textContent = row.result;
+        const outP = document.createElement("div");
+        outP.className = "vdh-pollentabel-table-td-result";
+        outP.textContent = row.result;
+        tdR.appendChild(outP);
       }
       if (row.images && row.images.length > 0) {
+        var rowPh =
+          row.placeholderHint && row.placeholderHint.length
+            ? { placeholderBranchHint: row.placeholderHint }
+            : {};
         renderImagesRow(
           tdR,
           row.images,
@@ -824,7 +1097,8 @@
           (row.kind.indexOf("eindpunt") === 0 ? row.result : row.label || row.result)
             .replace(/\*([^*]*)\*/g, "$1")
             .replace(/\n/g, " ")
-            .trim() + " (afbeelding)"
+            .trim() + " (afbeelding)",
+          rowPh
         );
       }
 

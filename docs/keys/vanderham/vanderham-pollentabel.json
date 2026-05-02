@@ -16,15 +16,15 @@
         {
           "label": "Vier pollenkorrels bij elkaar (tetrade)",
           "next": "2",
-          "image": "../../assets/images/pollenwiki/Calluna-vulgaris.png",
-          "imageWidthPx": 220,
+          "image": "../../assets/images/by-taxon/calluna_vulgaris/Calluna-vulgaris.png",
+          "imageHeightPx": 89,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/Calluna-vulgaris-2.png",
+              "image": "../../assets/images/by-taxon/calluna_vulgaris/Calluna-vulgaris-2.png",
               "imageHeightPx": 89
             },
             {
-              "image": "../../assets/images/pollenwiki/Calluna-vulgaris-3.png",
+              "image": "../../assets/images/by-taxon/calluna_vulgaris/Calluna-vulgaris-3.png",
               "imageHeightPx": 89
             }
           ]
@@ -32,15 +32,15 @@
         {
           "label": "Één losse pollenkorrel (monade)",
           "next": "3",
-          "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
-          "imageWidthPx": 130,
+          "image": "../../assets/images/by-taxon/brassica_napus/Brassica_napus_Ed_26.png",
+          "imageHeightPx": 63,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
+              "image": "../../assets/images/by-taxon/brassica_napus/Brassica_napus_Ed_26.png",
               "imageHeightPx": 63
             },
             {
-              "image": "../../assets/images/pollenwiki/Brassica_napus_Eo_26.png",
+              "image": "../../assets/images/by-taxon/brassica_napus/Brassica_napus_Eo_26.png",
               "imageHeightPx": 63
             }
           ]
@@ -60,11 +60,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/Oenothera_biennis_Po.png",
-                "imageWidthPx": 70
+                "imageHeightPx": 70
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -77,12 +77,12 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/Calluna-vulgaris-2.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/calluna_vulgaris/Calluna-vulgaris-2.png",
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/Erica_carnea_Eo.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -96,11 +96,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -120,11 +120,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -135,11 +135,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -157,12 +157,12 @@
             "source": "-",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/Cichorium_intybus_o1.png",
-                "imageWidthPx": 20
+                "image": "../../assets/images/by-taxon/cichorium_intybus/Cichorium_intybus_o1.png",
+                "imageHeightPx": 20
               },
               {
-                "image": "../../assets/images/pollenwiki/Taraxacum_officinale_Eo.png",
-                "imageWidthPx": 20
+                "image": "../../assets/images/by-taxon/taraxacum_officinale/Taraxacum_officinale_Eo.png",
+                "imageHeightPx": 20
               }
             ]
           }
@@ -173,11 +173,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -193,11 +193,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -207,11 +207,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -230,11 +230,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -245,11 +245,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -268,11 +268,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -286,11 +286,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -301,11 +301,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -324,11 +324,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -352,11 +352,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -366,11 +366,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -389,11 +389,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -407,11 +407,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -422,11 +422,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -445,11 +445,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -464,11 +464,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -486,11 +486,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -500,11 +500,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -514,11 +514,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -528,11 +528,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -548,11 +548,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -562,11 +562,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -592,11 +592,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -611,17 +611,7 @@
           "label": "ornamentatie striaat",
           "id": {
             "pollen_key": "lythrum_salicaria",
-            "note": "Lythraceae (Lythrum salicaria)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Lythraceae (Lythrum salicaria)"
           }
         },
         {
@@ -646,11 +636,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -664,11 +654,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -679,11 +669,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -699,11 +689,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -713,11 +703,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -733,11 +723,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -747,11 +737,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -770,11 +760,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -788,11 +778,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -809,11 +799,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -823,11 +813,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -843,11 +833,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -857,11 +847,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -880,11 +870,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -893,17 +883,7 @@
           "label": "netwerk met stekeltjes (kleiner dan 1 µm)",
           "id": {
             "pollen_key": "armeria_maritima",
-            "note": "Plumbaginaceae (Armeria maritima, Limonium vulgare)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Plumbaginaceae (Armeria maritima, Limonium vulgare)"
           }
         }
       ]
@@ -921,11 +901,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -936,11 +916,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -959,11 +939,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -977,11 +957,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -996,17 +976,7 @@
           "label": "pollenkorrel kleiner dan 25 µm",
           "id": {
             "pollen_key": "sambucus_nigra",
-            "note": "Caprifoliaceae (Sambucus nigra)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Caprifoliaceae (Sambucus nigra)"
           }
         },
         {
@@ -1018,11 +988,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1042,11 +1012,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1057,11 +1027,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1071,11 +1041,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1085,11 +1055,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1099,11 +1069,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1122,11 +1092,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1140,11 +1110,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1168,11 +1138,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1182,11 +1152,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1205,11 +1175,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1223,11 +1193,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1242,17 +1212,7 @@
           "label": "colpi lang, stekels duidelijk, op een verbrede basis",
           "id": {
             "pollen_key": "valeriana_officinalis",
-            "note": "Valerianaceae (Valeriana officinalis)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Valerianaceae (Valeriana officinalis)"
           }
         },
         {
@@ -1264,11 +1224,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1288,11 +1248,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1303,11 +1263,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1326,11 +1286,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1341,11 +1301,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1364,11 +1324,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1382,11 +1342,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1406,11 +1366,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1421,11 +1381,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1444,11 +1404,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1462,11 +1422,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1483,11 +1443,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1497,11 +1457,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1520,11 +1480,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1535,11 +1495,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1558,11 +1518,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1589,11 +1549,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1604,11 +1564,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1618,11 +1578,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1632,11 +1592,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1646,11 +1606,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1660,11 +1620,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1687,11 +1647,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1710,11 +1670,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1725,11 +1685,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1739,11 +1699,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1762,11 +1722,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1777,11 +1737,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1817,11 +1777,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1831,11 +1791,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1851,11 +1811,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1865,11 +1825,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1885,11 +1845,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1899,11 +1859,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1922,11 +1882,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -1935,17 +1895,7 @@
           "label": "pori rond tot elliptisch (dwars)",
           "id": {
             "pollen_key": "rhamnus_frangula",
-            "note": "Rhamnaceae (Rhamnus frangula)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Rhamnaceae (Rhamnus frangula)"
           }
         }
       ]
@@ -1990,11 +1940,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2005,11 +1955,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2028,11 +1978,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2046,11 +1996,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2074,11 +2024,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2101,11 +2051,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2124,11 +2074,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2139,11 +2089,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2162,11 +2112,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2193,11 +2143,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2208,11 +2158,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2228,11 +2178,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -2242,11 +2192,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2265,11 +2215,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2278,17 +2228,7 @@
           "label": "pollenkorrel groot (± 100 µm)",
           "id": {
             "pollen_key": "echinops_sphaerocephalus",
-            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Echinops sphaerocephalus)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Echinops sphaerocephalus)"
           }
         }
       ]
@@ -2306,11 +2246,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2321,11 +2261,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2344,11 +2284,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2359,11 +2299,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2382,11 +2322,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2400,11 +2340,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2428,11 +2368,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2451,11 +2391,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2469,11 +2409,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2497,11 +2437,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2520,11 +2460,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2535,11 +2475,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2562,11 +2502,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2580,17 +2520,7 @@
           "label": "Netwerk onduidelijk",
           "id": {
             "pollen_key": "vicia_cracca",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Medicago - Melilotus - Vicia cracca - Vicia sepium",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Medicago - Melilotus - Vicia cracca - Vicia sepium"
           }
         },
         {
@@ -2599,11 +2529,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2622,11 +2552,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2635,17 +2565,7 @@
           "label": "Pollenkorrel groter dan 40 µm",
           "id": {
             "pollen_key": "pisum_sativum",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Pisum sativum - Trifolium incarnatum - Vicia faba",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Pisum sativum - Trifolium incarnatum - Vicia faba"
           }
         }
       ]
@@ -2658,17 +2578,7 @@
           "label": "Netwerk onduidelijk, naar de polen toe grover en vaak incompleet",
           "id": {
             "pollen_key": "vitis_vinifera",
-            "note": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie) - (Vitis vinifera)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie) - (Vitis vinifera)"
           }
         },
         {
@@ -2677,11 +2587,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2700,11 +2610,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2715,11 +2625,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2742,11 +2652,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2765,11 +2675,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2778,17 +2688,7 @@
           "label": "Wand meestal dunner dan 2 µm, pori breder dan hoog of onduidelijk",
           "id": {
             "pollen_key": "sambucus_nigra",
-            "note": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Sambucus nigra)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Sambucus nigra)"
           }
         }
       ]
@@ -2803,11 +2703,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -2817,11 +2717,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -2831,11 +2731,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2849,17 +2749,7 @@
           "label": "Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)",
           "id": {
             "pollen_key": "chamerion_angustifolium",
-            "note": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Chamerion angustifolium (wilgenroosje) - Epilobium (basterdwederik) - Oenothera (teunisbloem)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Chamerion angustifolium (wilgenroosje) - Epilobium (basterdwederik) - Oenothera (teunisbloem)"
           }
         },
         {
@@ -2871,11 +2761,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2886,11 +2776,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -2909,11 +2799,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2922,17 +2812,7 @@
           "label": "Pollenkorrel ± 50 µm, ornamentatie reticulaat",
           "id": {
             "pollen_key": "cucumis_sativus",
-            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Cucumis sativus)",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Cucumis sativus)"
           }
         },
         {
@@ -2944,11 +2824,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2968,11 +2848,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -2986,11 +2866,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3010,11 +2890,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3028,11 +2908,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3040,16 +2920,16 @@
         {
           "label": "Ornamentatie reticulaat",
           "next": "77",
-          "image": "../../assets/images/pollenwiki/Brassica_napus_Ed_26.png",
-          "imageWidthPx": 130,
+          "image": "../../assets/images/by-taxon/brassica_napus/Brassica_napus_Ed_26.png",
+          "imageHeightPx": 130,
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -3059,11 +2939,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -3082,11 +2962,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3100,11 +2980,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3118,11 +2998,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3142,11 +3022,11 @@
             "images": [
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           }
@@ -3157,11 +3037,11 @@
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -3181,16 +3061,16 @@
         {
           "label": "Pori over de hele pollenkorrel verspreid",
           "next": "80",
-          "image": "../../assets/images/pollenwiki/Ribes_rubrum_Po.png",
-          "imageWidthPx": 145,
+          "image": "../../assets/images/by-taxon/ribes_rubrum/Ribes_rubrum_Po.png",
+          "imageHeightPx": 145,
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -3210,16 +3090,16 @@
         {
           "label": "Pori niet omgeven of verbonden door tectum-loze (scabrate) zones",
           "next": "81",
-          "image": "../../assets/images/pollenwiki/Thalictrum_flavum_Po.png",
-          "imageWidthPx": 112,
+          "image": "../../assets/images/by-taxon/thalictrum_flavum/Thalictrum_flavum_Po.png",
+          "imageHeightPx": 112,
           "images": [
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -3239,16 +3119,16 @@
         {
           "label": "Meestal meer dan tien pori, pori met massieve rand (annulus)",
           "next": "82",
-          "image": "../../assets/images/pollenwiki/Silene_cucubalis_Po.png",
-          "imageWidthPx": 255,
+          "image": "../../assets/images/by-taxon/silene_cucubalis/Silene_cucubalis_Po.png",
+          "imageHeightPx": 128,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Silene_cucubalus_d.png",
+              "imageHeightPx": 128
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/pollenwiki/Silene_cucubalus_o.png",
+              "imageHeightPx": 128
             }
           ]
         }
@@ -3269,7 +3149,7 @@
           "label": "Minder dan 50 pori, tectum met perforaties",
           "id": {
             "pollen_key": "silene_cucubalis",
-            "note": "Caryophyllaceae (diverse geslachten) - Silene cucubalis (blaassilene)"
+            "note": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae) (diverse geslachten) - [Silene vulgaris](https://pollen.tstebler.ch/MediaWiki/index.php?title=Silene_cucubalus) (blaassilene)"
           }
         }
       ]

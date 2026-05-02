@@ -31,6 +31,52 @@
     return jsonCache.get(url);
   }
 
+  function resolveDataJsonUrl(url) {
+    if (typeof url !== "string" || !url) return url;
+    try {
+      return new URL(url, document.baseURI).href;
+    } catch (e) {
+      return url;
+    }
+  }
+
+  /** @type {Promise<Record<string, unknown>>|null} */
+  let kerkvlietPollenIndexPromise = null;
+
+  function computePollenIndexUrl(keyAbsUrl) {
+    try {
+      const u = new URL(keyAbsUrl, document.baseURI);
+      if (/\/keys\//.test(u.pathname)) {
+        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/data/pollen.json");
+      } else {
+        u.pathname = u.pathname.replace(/\/[^/]*$/, "/data/pollen.json");
+      }
+      u.search = "";
+      u.hash = "";
+      return u.href;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function fetchPollenIndexForKerk(fromAbsUrl) {
+    if (kerkvlietPollenIndexPromise) return kerkvlietPollenIndexPromise;
+    const url = computePollenIndexUrl(fromAbsUrl);
+    if (!url) {
+      kerkvlietPollenIndexPromise = Promise.resolve({});
+      return kerkvlietPollenIndexPromise;
+    }
+    kerkvlietPollenIndexPromise = fetch(url, { credentials: "same-origin" })
+      .then(function (r) {
+        if (!r.ok) throw new Error(r.status + " " + r.statusText);
+        return r.json();
+      })
+      .catch(function () {
+        return {};
+      });
+    return kerkvlietPollenIndexPromise;
+  }
+
   /**
    * Parse a free-form size string (µm) and return an estimated max dimension.
    * Examples handled: "7x5", "10-12,5", "20(-25)", "31 (34)", "ca. 30?", "92(80-104)", "35/28-32"
@@ -109,10 +155,11 @@
     root.replaceChildren();
     root.innerHTML = '<p class="kerkvliet-status">' + esc("Tabel laden…") + "</p>";
 
-    fetchJsonCached(jsonUrl)
-      .then(function (data) {
+    const dataAbsUrl = resolveDataJsonUrl(jsonUrl);
+    Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndexForKerk(dataAbsUrl)])
+      .then(function (parts) {
         root.replaceChildren();
-        run(root, data);
+        run(root, parts[0], parts[1] || {});
       })
       .catch(function (e) {
         root.innerHTML =
@@ -122,7 +169,73 @@
       });
   }
 
-  function run(root, data) {
+  function normalizePollenKey(raw) {
+    if (typeof raw !== "string") return "";
+    const s = raw.trim();
+    if (!s || s === "-") return "";
+    return s;
+  }
+
+  function formatSizeFromPollen(size) {
+    if (!size || typeof size !== "object") return "";
+    const s = size.smallest_size != null ? String(size.smallest_size).trim() : "";
+    const l = size.largest_size != null ? String(size.largest_size).trim() : "";
+    if (!s && !l) return "";
+    const strip = function (v) {
+      return v.replace(/\s*µm$/i, "").trim();
+    };
+    if (s && l) {
+      const su = strip(s);
+      const lu = strip(l);
+      if (su === lu) return su + " µm";
+      return su + "-" + lu + " µm";
+    }
+    return s || l;
+  }
+
+  function pollenRowImagesFromIndex(entry) {
+    if (!entry || !Array.isArray(entry.images)) return [];
+    const out = [];
+    entry.images.forEach(function (im) {
+      if (!im || typeof im.path !== "string" || !im.path) return;
+      var p = String(im.path);
+      if (p.indexOf("assets/") === 0) {
+        p = "../../" + p;
+      }
+      var h =
+        typeof im.height_px === "number" && im.height_px > 0
+          ? im.height_px
+          : typeof im.heightPx === "number" && im.heightPx > 0
+            ? im.heightPx
+            : 100;
+      out.push({ image: p, imageHeightPx: h });
+    });
+    return out;
+  }
+
+  /** @param {Record<string, unknown>} pollenIndex */
+  function mergedPollenRowView(r, pollenIndex) {
+    if (!r || !pollenIndex) return null;
+    const pk = normalizePollenKey(r.pollen_key);
+    if (!pk || !pollenIndex[pk]) return null;
+    const e = /** @type {Record<string, unknown>} */ (pollenIndex[pk]);
+    return {
+      latin: e.latin != null ? String(e.latin) : "",
+      dutch: e.dutch != null ? String(e.dutch) : "",
+      vorm: e.shape != null ? String(e.shape) : "",
+      grootte: formatSizeFromPollen(
+        typeof e.size === "object" && e.size !== null ? /** @type {object} */ (e.size) : null
+      ),
+      oppervlak: e.ornamentation != null ? String(e.ornamentation) : "",
+      opmerkingen: e.aperture != null ? String(e.aperture) : "",
+      images: pollenRowImagesFromIndex(e),
+      pollen_key: pk,
+    };
+  }
+
+  /** @param {Record<string, unknown>} pollenIndex */
+  function run(root, data, pollenIndex) {
+    pollenIndex = pollenIndex || {};
     const sections = Array.isArray(data.sections) ? data.sections : [];
     const rows = Array.isArray(data.rows) ? data.rows : [];
 
@@ -352,46 +465,65 @@
         if (normalizeSectionTitle(r.section) !== selectedSectionKey) return;
         totalInSection += 1;
 
-        const maxUm = parseMaxUm(r.grootte || "");
+        const pv = mergedPollenRowView(r, pollenIndex);
+        const grootteDisp = pv ? pv.grootte : String(r.grootte || "");
+
+        const maxUm = parseMaxUm(grootteDisp || "");
         const cls = sizeClassFromMaxUm(maxUm);
         if (selectedSize !== "alle" && cls !== selectedSize) return;
 
+        const latinHay = pv ? pv.latin : String(r.latin || "");
+        const dutchHay = pv ? pv.dutch : String(r.dutch || "");
+        const vormHay = pv ? pv.vorm : String(r.vorm || "");
+        const grootteHay = pv ? pv.grootte : String(r.grootte || "");
+        const oppHay = pv ? pv.oppervlak : String(r.oppervlak || "");
+        const opmHay = pv ? pv.opmerkingen : String(r.opmerkingen || "");
         const hay = (
-          (r.latin || "") +
+          latinHay +
           " " +
-          (r.dutch || "") +
+          dutchHay +
           " " +
-          (r.vorm || "") +
+          vormHay +
           " " +
-          (r.grootte || "") +
+          grootteHay +
           " " +
-          (r.oppervlak || "") +
+          oppHay +
           " " +
-          (r.opmerkingen || "")
+          opmHay +
+          " " +
+          (pv && pv.pollen_key ? String(pv.pollen_key) : normalizePollenKey(r.pollen_key))
         )
           .toLowerCase()
           .trim();
         if (query && hay.indexOf(query) === -1) return;
 
+        const rowImages =
+          pv && Array.isArray(pv.images) && pv.images.length > 0
+            ? pv.images
+            : Array.isArray(r.images)
+              ? r.images
+              : [];
         // Optional full-width image row above the data row.
-        if (Array.isArray(r.images) && r.images.length > 0) {
+        if (Array.isArray(rowImages) && rowImages.length > 0) {
           const trImg = document.createElement("tr");
           const tdImg = document.createElement("td");
           tdImg.colSpan = 6;
-          renderImagesTd(tdImg, r.images);
+          renderImagesTd(tdImg, rowImages);
           trImg.appendChild(tdImg);
           tbody.appendChild(trImg);
         }
 
         const tr = document.createElement("tr");
-        const cells = [
-          r.latin || "",
-          r.dutch || "",
-          r.vorm || "",
-          r.grootte || "",
-          r.oppervlak || "",
-          r.opmerkingen || "",
-        ];
+        const cells = pv
+          ? [pv.latin, pv.dutch, pv.vorm, pv.grootte, pv.oppervlak, pv.opmerkingen]
+          : [
+              r.latin || "",
+              r.dutch || "",
+              r.vorm || "",
+              r.grootte || "",
+              r.oppervlak || "",
+              r.opmerkingen || "",
+            ];
         cells.forEach(function (cell, idx) {
           const td = document.createElement("td");
           // Render Markdown-style links in Latin (pd) and Dutch (pw) columns.
