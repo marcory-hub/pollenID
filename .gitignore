@@ -14,6 +14,7 @@ credentials*.md
 
 # Python & envs
 .venv/
+.tmp-*/
 __pycache__/
 __main__.py
 
