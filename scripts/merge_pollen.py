@@ -7,8 +7,10 @@ Usage (after running this script):
 - Text field in Markdown:
   {{ pollen("taraxacum_officinale", "size.largest_size") }}
 
-- Height-scaled image in Markdown:
-  {{ pollen_img("taraxacum_officinale", "assets/images/pollenwiki/Taraxacum_officinale_Po.png", alt="Taraxacum officinale") }}
+- YAML-backed gallery:
+  {{ pollen_gallery("taraxacum_officinale") }}
+- Height-scaled single image in Markdown:
+  {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/Taraxacum_officinale_Po.png", alt="Taraxacum officinale") }}
 """
 
 import argparse

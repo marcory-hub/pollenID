@@ -18,6 +18,52 @@ IMAGES_DIR = DOCS_DIR / "assets" / "images"
 OUT_DIR = DOCS_DIR / "assets" / "manifests"
 KEYS_INDEX_MD = DOCS_DIR / "Identificatiesleutels" / "_index.md"
 POLLEN_YAML = REPO_ROOT / "data" / "pollen.yaml"
+POLLEN_JSON = DOCS_DIR / "data" / "pollen.json"
+
+
+def pollen_slug_normalized(raw: Any) -> Optional[str]:
+    if not isinstance(raw, str):
+        return None
+    s = raw.strip()
+    if not s or s == "-":
+        return None
+    return s
+
+
+def load_pollen_json_assets(json_path: Path = POLLEN_JSON) -> Dict[str, List[Tuple[str, Optional[float]]]]:
+    """Slug → normalized docs asset paths for images (+ optional height_px as sizing proxy)."""
+    if not json_path.exists():
+        return {}
+    try:
+        data = read_json(json_path)
+    except Exception:
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    out: Dict[str, List[Tuple[str, Optional[float]]]] = {}
+    for slug, rec in data.items():
+        if not isinstance(rec, dict):
+            continue
+        sk = pollen_slug_normalized(str(slug))
+        if not sk:
+            continue
+        imgs = rec.get("images")
+        if not isinstance(imgs, list):
+            continue
+        tuples: List[Tuple[str, Optional[float]]] = []
+        for im in imgs:
+            if not isinstance(im, dict):
+                continue
+            rel = normalize_docs_asset_path(im.get("path"))
+            if not rel:
+                continue
+            hp = im.get("height_px")
+            w_proxy: Optional[float] = float(hp) if isinstance(hp, (int, float)) and hp > 0 else None
+            tuples.append((rel, w_proxy))
+        if tuples:
+            out[sk] = tuples
+    return out
+
 
 # PalynoQuest quiz items only use images from identification keys excluding Beug (Beug deferred).
 PALYNOQUEST_BEUG_JSON_PREFIX = "keys/beug/"
@@ -223,7 +269,9 @@ def rel_json_url(key_json_path: Path) -> str:
 
 
 def extract_from_key_json(
-    key_json_path: Path, pollen_labels: Dict[str, str]
+    key_json_path: Path,
+    pollen_labels: Dict[str, str],
+    pollen_assets: Dict[str, List[Tuple[str, Optional[float]]]],
 ) -> Tuple[Dict[str, Any], Dict[str, List[ImageUse]]]:
     data = read_json(key_json_path)
     base_dir = key_json_path.parent
@@ -282,7 +330,12 @@ def extract_from_key_json(
             out = ch.get("id") if isinstance(ch.get("id"), dict) else ch.get("outcome")
             if isinstance(out, dict):
                 outcome_text = resolve_outcome_display(out, pollen_labels)
-                for image, _w in extract_images_from_node(out, base_dir):
+                imgs_from_choice = list(extract_images_from_node(out, base_dir))
+                if not imgs_from_choice:
+                    slug = pollen_slug_normalized(out.get("pollen_key"))
+                    if slug and slug in pollen_assets:
+                        imgs_from_choice = pollen_assets.get(slug) or []
+                for image, _w in imgs_from_choice:
                     w = _w
                     use = ImageUse(
                         key=key_id,
@@ -439,7 +492,13 @@ def kerkvliet_row_endpoint_label(row: Dict[str, Any]) -> Optional[str]:
     return lat or nl
 
 
-def items_from_kerkvliet_determinatietabel(json_path: Path, key_json_url: str) -> List[Dict[str, Any]]:
+def items_from_kerkvliet_determinatietabel(
+    json_path: Path,
+    key_json_url: str,
+    *,
+    pollen_labels: Dict[str, str],
+    pollen_assets: Dict[str, List[Tuple[str, Optional[float]]]],
+) -> List[Dict[str, Any]]:
     """
     Determinatietabel (Kerkvliet): flat rows met images[]. Geen dichotomisch steps-bestand —
     daarom apart van extract_from_key_json.
@@ -459,13 +518,35 @@ def items_from_kerkvliet_determinatietabel(json_path: Path, key_json_url: str) -
     for row in rows:
         if not isinstance(row, dict):
             continue
+        slug = pollen_slug_normalized(row.get("pollen_key"))
         label = kerkvliet_row_endpoint_label(row)
+        if not label and slug:
+            lbl = pollen_labels.get(slug)
+            if lbl:
+                label = lbl
         if not label:
             continue
+
         imgs = row.get("images")
-        if not isinstance(imgs, list):
+        imgs_list = imgs if isinstance(imgs, list) else []
+
+        if not imgs_list and slug and slug in pollen_assets:
+            for docs_rel, hp in pollen_assets.get(slug) or []:
+                iw = int(hp) if isinstance(hp, (int, float)) and hp > 0 else None
+                seen_image[docs_rel] = {
+                    "image": docs_rel,
+                    "imageWidthPx": iw,
+                    "strict": {"endpointText": label, "keyJsonUrl": key_json_url},
+                    "accepted": [{"endpointText": label, "grade": "acceptable"}],
+                    "expectedPath": [],
+                    "distractors": [],
+                }
             continue
-        for im in imgs:
+
+        if not imgs_list:
+            continue
+
+        for im in imgs_list:
             if not isinstance(im, dict):
                 continue
             rel_raw = im.get("image")
@@ -511,6 +592,7 @@ def _unique_accepted(outcome_uses: List[Dict[str, Any]], limit: int = 5) -> List
 
 def main() -> int:
     pollen_labels = load_pollen_key_labels(POLLEN_YAML)
+    pollen_assets = load_pollen_json_assets()
     key_paths = sorted(KEYS_DIR.rglob("*.json"))
     keys: List[Dict[str, Any]] = []
     image_to_uses: Dict[str, List[Dict[str, Any]]] = {}
@@ -518,7 +600,7 @@ def main() -> int:
 
     for kp in key_paths:
         try:
-            key_info, image_map = extract_from_key_json(kp, pollen_labels)
+            key_info, image_map = extract_from_key_json(kp, pollen_labels, pollen_assets)
         except Exception as e:
             raise RuntimeError(f"Failed parsing {kp}: {e}") from e
 
@@ -627,7 +709,12 @@ def main() -> int:
     # Bij dezelfde afbeelding wint deze bron (prioriteit hoger dan Reitsma/Eide enz.).
     kerkv_json = KEYS_DIR / "kerkvliet" / "kerkvliet-determinatietabel.json"
     kerk_url = norm_rel_posix(kerkv_json.relative_to(DOCS_DIR))
-    kerk_items = items_from_kerkvliet_determinatietabel(kerkv_json, key_json_url=kerk_url)
+    kerk_items = items_from_kerkvliet_determinatietabel(
+        kerkv_json,
+        key_json_url=kerk_url,
+        pollen_labels=pollen_labels,
+        pollen_assets=pollen_assets,
+    )
 
     merged: Dict[str, Dict[str, Any]] = {}
     for it in items:
