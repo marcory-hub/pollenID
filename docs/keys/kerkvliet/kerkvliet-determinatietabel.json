@@ -46,18 +46,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Lotus ulginosis, synoniemen: Lotus pedunculatus, Lotus major",
-      "dutch": "moerasrolklaver",
-      "vorm": "ovaal",
-      "grootte": "14x10",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colp(or)aat",
-      "images": [
-        {
-          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
-          "imageHeightPx": 20
-        }
-      ]
+      "pollen_key": "lotus_ulginosis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -77,18 +66,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Nemophila menziesii](https://www.paldat.org/pub/Nemophila_menziesii)",
-      "dutch": "[bosliefje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nemophila_menziesii)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "17",
-      "oppervlak": "glad",
-      "opmerkingen": "3-syncolpaat, geen online images gevonden",
-      "images": [
-        {
-          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
-          "imageHeightPx": 20
-        }
-      ]
+      "pollen_key": "nemophila_menziesii"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -116,57 +94,11 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum lycopersicum](https://www.paldat.org/pub/Solanum_lycopersicum)",
-      "dutch": "[tomaat](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopersicum)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "20",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, lange niet brede colpi met rond einde, bijna syncolpaat, pore iets lolongaat; vestib. ca als Betula",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Solanum_lycopersicum_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Solanum_lycopersicum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Solanum_lycopersicum_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Solanum_lycopersicum_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "solanum_lycopersicum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Rhamnus frangula, syn: Frangula alnus](https://www.paldat.org/pub/Frangula_alnus)",
-      "dutch": "[vuilboom, syn sporkehout](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhamnus_frangula)",
-      "vorm": "∆",
-      "grootte": "20",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/paldat/Frangula_alnus_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/paldat/Frangula_alnus_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/paldat/Frangula_alnus_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/paldat/Frangula_alnus_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "rhamnus_frangula"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -178,45 +110,11 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Hypericum perforatum](https://www.paldat.org/pub/Hypericum_perforatum)",
-      "dutch": "[Sint Janskruid](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_perforatum)",
-      "vorm": "rond",
-      "grootte": "20(-25)",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, l colpi;wsl zwak reticul. soms hof en vouwen.",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "hypericum_perforatum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Hypericum polyphyllum](https://www.paldat.org/pub/Hypericum_polyphyllum)",
-      "dutch": "[hertshooi](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_polyphyllum)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "23",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, wsl zwak reticul.",
-      "images": [
-        {
-          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
-          "imageHeightPx": 20
-        }
-      ]
+      "pollen_key": "hypericum_polyphyllum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -244,18 +142,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Solanum tuberosum](https://www.paldat.org/pub/Solanum_tuberosum)",
-      "dutch": "[aardappel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_tuberosum)",
-      "vorm": "rond to vierhoekig",
-      "grootte": "25 µm",
-      "oppervlak": "glad",
-      "opmerkingen": "3-4-colporaat, nectarl; lange colpi",
-      "images": [
-        {
-          "image": "assets/images/placeholder/NO_IMAGE_FOUND.jpg",
-          "imageHeightPx": 20
-        }
-      ]
+      "pollen_key": "solanum_tuberosum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -267,57 +154,11 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Corylus avelana](https://www.paldat.org/pub/Corylus_avellana)",
-      "dutch": "[hazelaar](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylus_avellana)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "27",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-poraat, zwak geel",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/corylus_avellana/Corylus_avellana_Ed.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/by-taxon/corylus_avellana/Corylus_avellana_Eo.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/by-taxon/corylus_avellana/Corylus_avellana_Pd.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/by-taxon/corylus_avellana/Corylus_avellana_Po.png",
-          "imageHeightPx": 68
-        }
-      ]
+      "pollen_key": "corylus_avellana"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Symphytum officinale](https://www.paldat.org/pub/Symphytum_officinale)",
-      "dutch": "[smeerwortel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Symphytum_officinale)",
-      "vorm": "ovaal",
-      "grootte": "27-33",
-      "oppervlak": "glad/ruw opp.",
-      "opmerkingen": "8-10-colporaat, lalongaat, colpi ca 15µm, spits einde",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Symphytum_officinale_Ed.png",
-          "imageHeightPx": 75
-        },
-        {
-          "image": "assets/images/pollenwiki/Symphytum_officinale_Eo.png",
-          "imageHeightPx": 75
-        },
-        {
-          "image": "assets/images/pollenwiki/Symphytum_officinale_Pd.png",
-          "imageHeightPx": 75
-        },
-        {
-          "image": "assets/images/pollenwiki/Symphytum_officinale_Po.png",
-          "imageHeightPx": 75
-        }
-      ]
+      "pollen_key": "symphytum_officinale"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -329,57 +170,11 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Robinia pseudo-acacia](https://www.paldat.org/pub/Robinia_pseudo-acacia)",
-      "dutch": "[Pseudo-acacia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudo-acacia)",
-      "vorm": "∆/O",
-      "grootte": "27-31",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, smalle colpi met rond acacia einde, soms spits, dunne exine, intine dikker dan exine",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Ed.png",
-          "imageHeightPx": 73
-        },
-        {
-          "image": "assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Eo.png",
-          "imageHeightPx": 73
-        },
-        {
-          "image": "assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Pd.png",
-          "imageHeightPx": 73
-        },
-        {
-          "image": "assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Po.png",
-          "imageHeightPx": 73
-        }
-      ]
+      "pollen_key": "robinia_pseudoacacia"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Allium schoenoprasum.",
-      "dutch": "bieslook",
-      "vorm": "half ovaal",
-      "grootte": "27",
-      "oppervlak": "glad/zw. rugulaat",
-      "opmerkingen": "1-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Allium_schoenoprasum_d1.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/pollenwiki/Allium_schoenoprasum_d2.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/pollenwiki/Allium_schoenoprasum_o1.png",
-          "imageHeightPx": 68
-        },
-        {
-          "image": "assets/images/pollenwiki/Allium_schoenoprasum_o2.png",
-          "imageHeightPx": 68
-        }
-      ]
+      "pollen_key": "allium_schoenopr"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -387,30 +182,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Photinia fraseri](https://www.paldat.org/pub/Photinia_Photinia_fraseri.)",
-      "dutch": "[Photinia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Photinia_fraseri.)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "28-30",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-colporaat, lange colpi spits einde",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Photinia_fraseri_Ed.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/Photinia_fraseri_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/Photinia_fraseri_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/Photinia_fraseri_Po.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "photinia_fraseri"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -466,84 +238,15 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Mahonia aquifolium](https://www.paldat.org/pub/Mahonia_aquifolium)",
-      "dutch": "[mahonia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mahonia_aquifolium)",
-      "vorm": "O/onregelmatig",
-      "grootte": "40-50",
-      "oppervlak": "glad",
-      "opmerkingen": ">6 colpaat, syncolpaat, dikke intine, cyto. gran.",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Mahonia_aquifolium_1.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Mahonia_aquifolium_2.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Mahonia_aquifolium_3.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Mahonia_aquifolium_4.png",
-          "imageHeightPx": 113
-        }
-      ]
+      "pollen_key": "mahonia_aquifolium"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Eschscholzia californica](https://www.paldat.org/pub/Eschscholzia_californica)",
-      "dutch": "[slaapmutsje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eschscholzia_californica)",
-      "vorm": "O/4-6 kantig",
-      "grootte": "40(30-47)",
-      "oppervlak": "scabraat/reticulaat",
-      "opmerkingen": "4-6-colpaat of 5-8-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Eschscholzia_californica_Eo.png",
-          "imageHeightPx": 100
-        },
-        {
-          "image": "assets/images/pollenwiki/Eschscholzia_californica_Eo2.png",
-          "imageHeightPx": 100
-        },
-        {
-          "image": "assets/images/pollenwiki/Eschscholzia_californica_Pd.png",
-          "imageHeightPx": 100
-        },
-        {
-          "image": "assets/images/pollenwiki/Eschscholzia_californica_Po.png",
-          "imageHeightPx": 100
-        }
-      ]
+      "pollen_key": "eschscholzia_californica"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Elaeagnus angustifolia](https://www.paldat.org/pub/Elaeagnus_angustifolia)",
-      "dutch": "[olijfwilg](https://pollen.tstebler.ch/MediaWiki/index.php?title=Elaeagnus_angustifolia)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "45",
-      "oppervlak": "psilaat",
-      "opmerkingen": "3-colporaat,vestibule,cyto: fijn granu",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Eo.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Eo2.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Pd.png",
-          "imageHeightPx": 113
-        },
-        {
-          "image": "assets/images/pollenwiki/Elaeagnus_angustifolia_Po.png",
-          "imageHeightPx": 113
-        }
-      ]
+      "pollen_key": "elaeagnus_angustifolia"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -555,30 +258,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "[Chamerion angust](https://www.paldat.org/pub/Epilobium_angustifolium)",
-      "dutch": "[wilgeroosje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Epilobium_angustifolium)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "62-80",
-      "oppervlak": "glad",
-      "opmerkingen": "3-poraat, (Epilobium angu), draden",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Epilobium_angustifolium_Ed.png",
-          "imageHeightPx": 200
-        },
-        {
-          "image": "assets/images/pollenwiki/Epilobium_angustifolium_Ed2.png",
-          "imageHeightPx": 200
-        },
-        {
-          "image": "assets/images/pollenwiki/Epilobium_angustifolium_Pd.png",
-          "imageHeightPx": 200
-        },
-        {
-          "image": "assets/images/pollenwiki/Epilobium_angustifolium_Po.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "chamerion_angust"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -606,30 +286,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Deutzia sp. (Deutzia purpurascens)](https://www.paldat.org/pub/Deutzia_purpurascens)",
-      "dutch": "[Bruidsbloem](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_purpurascens)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "17",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat;geel; lange colpi spits einde; soms hof",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Ed.png",
-          "imageHeightPx": 43
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Eo.png",
-          "imageHeightPx": 43
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Pd.png",
-          "imageHeightPx": 43
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Po.png",
-          "imageHeightPx": 43
-        }
-      ]
+      "pollen_key": "deutzia_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -641,30 +298,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Veronica sp. (Veronica_gentianoides)](https://www.paldat.org/pub/Veronica_gentianoides)",
-      "dutch": "[ereprijs soort](https://pollen.tstebler.ch/MediaWiki/index.php?title=Veronica_gentianoides)",
-      "vorm": "ongeveer rond",
-      "grootte": "15",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat, cyto: iets gran. waarschijnlijk:Veronicastrum sibiricum",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Veronica_gentianoides_Ed.png",
-          "imageHeightPx": 38
-        },
-        {
-          "image": "assets/images/pollenwiki/Veronica_gentianoides_Eo.png",
-          "imageHeightPx": 38
-        },
-        {
-          "image": "assets/images/pollenwiki/Veronica_gentianoides_Pd.png",
-          "imageHeightPx": 38
-        },
-        {
-          "image": "assets/images/pollenwiki/Veronica_gentianoides_Po.png",
-          "imageHeightPx": 38
-        }
-      ]
+      "pollen_key": "veronica_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -688,30 +322,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Osmanthus sp. (Osmanthus burkwoodii)](https://www.paldat.org/pub/Osmanthus_burkwoodii)",
-      "dutch": "[Osmanthus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Osmanthus_burkwoodii)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "18-20",
-      "oppervlak": "reticulaat (als Bn/Si)",
-      "opmerkingen": "3-colp(or)aat, vouwen, liguster type",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Osmanthus_burkwoodii_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Osmanthus_burkwoodii_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Osmanthus_burkwoodii_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Osmanthus_burkwoodii_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "osmanthus_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -719,30 +330,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Alyssum sp. (Alyssum montanum)](https://www.paldat.org/pub/Alyssum_montanum)",
-      "dutch": "[schildzaad](https://pollen.tstebler.ch/MediaWiki/index.php?title=Alyssum_montanum)",
-      "vorm": "ongeveer rond",
-      "grootte": "18",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat, Cruciferenbouw",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Alyssum_montanum_1.png",
-          "imageHeightPx": 45
-        },
-        {
-          "image": "assets/images/pollenwiki/Alyssum_montanum_2.png",
-          "imageHeightPx": 45
-        },
-        {
-          "image": "assets/images/pollenwiki/Alyssum_montanum_3.png",
-          "imageHeightPx": 45
-        },
-        {
-          "image": "assets/images/pollenwiki/Alyssum_montanum_4.png",
-          "imageHeightPx": 45
-        }
-      ]
+      "pollen_key": "alyssum_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -766,84 +354,15 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Fallopia baldschuanica](https://www.paldat.org/pub/Fallopia_baldschuanica)",
-      "dutch": "[Chin. Bruidssluier](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fallopia_baldschuanica)",
-      "vorm": "ongeveer rond",
-      "grootte": "19",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; syn:Polygonum aubertii",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Fallopia_baldschuanica_Ed.png",
-          "imageHeightPx": 48
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_baldschuanica_Eo.png",
-          "imageHeightPx": 48
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_baldschuanica_Pd.png",
-          "imageHeightPx": 48
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_baldschuanica_Po.png",
-          "imageHeightPx": 48
-        }
-      ]
+      "pollen_key": "fallopia_baldschuanica"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Galium odoratum (syn Asperula odorata)](https://www.paldat.org/pub/Galium odoratum)",
-      "dutch": "[lievevrouwebedstro](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galium_odorata)",
-      "vorm": "rond",
-      "grootte": "20",
-      "oppervlak": "scabraat",
-      "opmerkingen": "7-9colpaat, lijkt fijn reticulaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "galium_odoratum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Humulus lupulus](https://www.paldat.org/pub/Humulus_lupulus)",
-      "dutch": "[hop](https://pollen.tstebler.ch/MediaWiki/index.php?title=Humulus_lupulus)",
-      "vorm": "rond",
-      "grootte": "20",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat, nectarl, hof, aambeeld",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/humulus_lupulus/Humulus_lupulus_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/by-taxon/humulus_lupulus/Humulus_lupulus_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/by-taxon/humulus_lupulus/Humulus_lupulus_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/by-taxon/humulus_lupulus/Humulus_lupulus_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "humulus_lupulus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -855,30 +374,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Hypericum perforatum](https://www.paldat.org/pub/Hypericum_perforatum)",
-      "dutch": "[St. Janskruid](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hypericum_perforatum)",
-      "vorm": "ongeveer rond",
-      "grootte": "20- 22",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat, ook glad; ook groter; (17-25) soms hof/ vouwen; lange colpi(bijna syncolpaat), duidelijke pore",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Hypericum_perforatum_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "hypericum_perforatum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -886,57 +382,11 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Galium odoratum (syn Asperula odorata)](https://www.paldat.org/pub/Galium_odoratum)",
-      "dutch": "[lieve vr. bedstro](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galium_odoratum)",
-      "vorm": "rond",
-      "grootte": "20-24",
-      "oppervlak": "scabraat/foveolaat",
-      "opmerkingen": "ca. 9 colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Pd.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Galium_odoratum_Po.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "galium_odoratum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Limnanthes douglasii](https://www.paldat.org/pub/Limnanthes_douglasii)",
-      "dutch": "[moerasbloem (spiegeleibloem)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Limnanthes_douglasii)",
-      "vorm": "onregelm. ovaal",
-      "grootte": "20x16",
-      "oppervlak": "scabraat?/striaat",
-      "opmerkingen": "1-colpaat; (syncolpaat?) striaat bij colpus",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Ed.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Eo.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Limnanthes_douglasii_Eo2.png",
-          "imageHeightPx": 50
-        },
-        {
-          "image": "assets/images/pollenwiki/Limnanthes_douglasii_P.png",
-          "imageHeightPx": 50
-        }
-      ]
+      "pollen_key": "limnanthes_douglasii"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -944,76 +394,15 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Daphne mezereum](https://www.paldat.org/pub/Daphne_mezereum)",
-      "dutch": "[peperboompje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Daphne_mezereum)",
-      "vorm": "rond",
-      "grootte": "21 (pw 27 (23.1-28.6) μm)",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "n-poraat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Daphne_mezereum_d.png",
-          "imageHeightPx": 53
-        },
-        {
-          "image": "assets/images/pollenwiki/Daphne_mezereum_o.png",
-          "imageHeightPx": 53
-        }
-      ]
+      "pollen_key": "daphne_mezereum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Betula sp (Betula nigra)](https://www.paldat.org/pub/Betula_nigra)",
-      "dutch": "[berk](https://pollen.tstebler.ch/MediaWiki/index.php?title=Betula_nigra)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "21 (pw 24 (22.0-27.3) μm )",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat, geel, vestibulum",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/betula_nigra/Betula_nigra_Ed.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/betula_nigra/Betula_nigra_Eo.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/betula_nigra/Betula_nigra_Pd.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/betula_nigra/Betula_nigra_Po.png",
-          "imageHeightPx": 55
-        }
-      ]
+      "pollen_key": "betula"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Melampyrum pratense](https://www.paldat.org/pub/Melampyrum_pratense)",
-      "dutch": "[hengel](https://pollen.tstebler.ch/MediaWiki/index.php?title=Melampyrum_pratense)",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "21",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colpaat , scherpe colpi",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/melampyrum_pratense/Melampyrum_pratense_Ed.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/melampyrum_pratense/Melampyrum_pratense_Eo.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/melampyrum_pratense/Melampyrum_pratense_Pd.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/by-taxon/melampyrum_pratense/Melampyrum_pratense_Po.png",
-          "imageHeightPx": 55
-        }
-      ]
+      "pollen_key": "melampyrum_pratense"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1025,30 +414,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Deutzia sp. (-purporascens](https://www.paldat.org/pub/Deutzia_purpurascens)",
-      "dutch": "[Deutzia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_purpurascens)",
-      "vorm": "ongeveer rond",
-      "grootte": "22",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, hof en vouwen (Ohe)",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Ed.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Eo.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Pd.png",
-          "imageHeightPx": 55
-        },
-        {
-          "image": "assets/images/pollenwiki/Deutzia_purpurascens_Po.png",
-          "imageHeightPx": 55
-        }
-      ]
+      "pollen_key": "deutzia_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1068,26 +434,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Xanthium strumarium](https://www.paldat.org/pub/Xanthium_strumarium)",
-      "dutch": "[stekelnoot sp.](https://pollen.tstebler.ch/MediaWiki/index.php?title=Xanthium_italicum)",
-      "vorm": "rond",
-      "grootte": "23",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colpaat, lijkt op Ambrosia",
-      "images": [
-        {
-          "image": "assets/images/paldat/Xanthium_strumarium_1.png",
-          "imageHeightPx": 58
-        },
-        {
-          "image": "assets/images/paldat/Xanthium_strumarium_2.png",
-          "imageHeightPx": 58
-        },
-        {
-          "image": "assets/images/paldat/Xanthium_strumarium_3.png",
-          "imageHeightPx": 58
-        }
-      ]
+      "pollen_key": "xanthium_strumarium"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1123,30 +470,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Tetradium daniellii var. hupehensis](https://www.paldat.org/pub/Tetradium_daniellii)",
-      "dutch": "[bijenboom](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tetradium_daniellii)",
-      "vorm": "ongeveer rond",
-      "grootte": "24(-27)",
-      "oppervlak": "grof reticulaat",
-      "opmerkingen": "3-colporaat; was formerly classed as Euodia hupehensis; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Tetradium_daniellii_Ed.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Tetradium_daniellii_Eo.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Tetradium_daniellii_Pd.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Tetradium_daniellii_Po.png",
-          "imageHeightPx": 60
-        }
-      ]
+      "pollen_key": "tetradium_daniellii"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1154,30 +478,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Fallopia convolvulus](https://www.paldat.org/pub/Fallopia_convolvulus)",
-      "dutch": "[zwaluwtong](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fallopia_convolvulus)",
-      "vorm": "rond",
-      "grootte": "24",
-      "oppervlak": "foveolaat",
-      "opmerkingen": "3-colporaat, lange vouwen;cyto: gran  synoniem: Polygonum convolvulus)",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Ed.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Eo.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Pd.png",
-          "imageHeightPx": 60
-        },
-        {
-          "image": "assets/images/pollenwiki/Fallopia_convolvulus_Po.png",
-          "imageHeightPx": 60
-        }
-      ]
+      "pollen_key": "fallopia_convolvulus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1185,30 +486,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "[Ailanthus](https://www.paldat.org/pub/Ailanthus_altissima)",
-      "dutch": "[hemelboom](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ailanthus_altissima)",
-      "vorm": "∆/O",
-      "grootte": "25",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "(ca als 3-colporaat Salix)+striaat (ret < Viburnum opulus)",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/ailanthus_altissima/Ailanthus_glandulosa_Eo.png",
-          "imageHeightPx": 53
-        },
-        {
-          "image": "assets/images/by-taxon/ailanthus_altissima/Ailanthus_glandulosa_Eo2.png",
-          "imageHeightPx": 53
-        },
-        {
-          "image": "assets/images/by-taxon/ailanthus_altissima/Ailanthus_glandulosa_Pd.png",
-          "imageHeightPx": 53
-        },
-        {
-          "image": "assets/images/by-taxon/ailanthus_altissima/Ailanthus_glandulosa_Po.png",
-          "imageHeightPx": 53
-        }
-      ]
+      "pollen_key": "ailanthus_altissima"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1408,30 +686,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "[Aesculus hippoca](https://www.paldat.org/pub/Aesculus_hippocastanum)",
-      "dutch": "[paardekastanje](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aesculus_hippocastanum)",
-      "vorm": "ovaal",
-      "grootte": "26",
-      "oppervlak": "zw striaat/glad",
-      "opmerkingen": "3-colporaat, colpi met stippen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "aesculus_hippocastanum"
     },
     {
       "section": "Pollen met groeven",
@@ -1683,966 +938,151 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cichorium intybus](https://www.paldat.org/pub/Cichorium_intybus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus) ",
-      "dutch": "cichorei",
-      "vorm": "drie-/zeskantig",
-      "grootte": "38",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/cichorium_intybus/Cichorium_intybus_d.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cichorium_intybus/Cichorium_intybus_o1.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cichorium_intybus/Cichorium_intybus_o2.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cichorium_intybus/Cichorium_intybus_o3.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "cichorium_intybus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Sonchus arvensis](https://www.paldat.org/pub/Sonchus_arvensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sonchus_arvensis) ",
-      "dutch": "akkermelkdistel",
-      "vorm": "drie-/zeskantig",
-      "grootte": "40(-45)",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat, stekels 2,5µm ca 35 stekles per rand",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "sonchus_arvensis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Tragopogon sp](https://www.paldat.org/pub/Tragopogon_sp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tragopogon_sp) ",
-      "dutch": "morgenster",
-      "vorm": "drie-/zeskantig",
-      "grootte": "44",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "tragopogon_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Arcticum minus](https://www.paldat.org/pub/Arcticum_minus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_minus) ",
-      "dutch": "klit",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "40-45",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat, stompe stekels van 1 µm",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "arcticum_minus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Weigelia/Diervilla](https://www.paldat.org/pub/Weigelia_Diervilla) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Weigelia_Diervilla) ",
-      "dutch": "Weigelia",
-      "vorm": "rond",
-      "grootte": "45",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-(col?)poraat, hof",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "weigelia_diervilla"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Nuphar lutea](https://www.paldat.org/pub/Nuphar_lutea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nuphar_lutea) ",
-      "dutch": "gele plomp",
-      "vorm": "rond",
-      "grootte": "47",
-      "oppervlak": "echinaat",
-      "opmerkingen": "1-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "nuphar_lutea"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carduus nutans](https://www.paldat.org/pub/Carduus_nutans) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carduus_nutans) ",
-      "dutch": "knikkende distel",
-      "vorm": "-",
-      "grootte": "47",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "carduus_nutans"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Onopordon acant](https://www.paldat.org/pub/Onopordon_acant) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Onopordon_acant) ",
-      "dutch": "wegdistel",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "47",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "onopordon_acant"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cirsium arvense](https://www.paldat.org/pub/Cirsium_arvense) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cirsium_arvense) ",
-      "dutch": "akkerdistel",
-      "vorm": "rond",
-      "grootte": "49",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/cirsium_arvense/Cirsium_arvense_Ed.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cirsium_arvense/Cirsium_arvense_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cirsium_arvense/Cirsium_arvense_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/cirsium_arvense/Cirsium_arvense_Po.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "cirsium_arvense"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cnicus benedict](https://www.paldat.org/pub/Cnicus_benedict) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cnicus_benedict) ",
-      "dutch": "gezeg. distel",
-      "vorm": "ovaal",
-      "grootte": "49",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "cnicus_benedict"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Serrulata tinctoria](https://www.paldat.org/pub/Serrulata_tinctoria) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Serrulata_tinctoria) ",
-      "dutch": "zaagblad",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "49",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "serrulata_tinctoria"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Sylibum marianum](https://www.paldat.org/pub/Sylibum_marianum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sylibum_marianum) ",
-      "dutch": "Mariadistel",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "50",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat; zeer korte stekels",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "sylibum_marianum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Arcticum majus](https://www.paldat.org/pub/Arcticum_majus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_majus) ",
-      "dutch": "grote klit",
-      "vorm": "O/ovaal",
-      "grootte": "50",
-      "oppervlak": "echinaat S/verruc",
-      "opmerkingen": "3-poraat, kleine stekels. Ook 40µm?",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "arcticum_majus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Cirsium vulgare](https://www.paldat.org/pub/Cirsium_vulgare) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cirsium_vulgare) ",
-      "dutch": "speerdistel",
-      "vorm": "rond",
-      "grootte": "50-52",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat (Zeeland), stekels 4x3 µm ca 15 stekels per rand",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "cirsium_vulgare"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Lonicera](https://www.paldat.org/pub/Lonicera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lonicera) ",
-      "dutch": "kamperfoelie",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "50-65",
-      "oppervlak": "echinaat/reticulaat",
-      "opmerkingen": "3-colporaat, korte colpi; ook rugulaat? Valeriana off valeriaan О ⁄ ∆ 52 echinaat+rugulaat 3-poraat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "lonicera"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carlina aucalis](https://www.paldat.org/pub/Carlina_aucalis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carlina_aucalis) ",
-      "dutch": "zilverdistel",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "60",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "carlina_aucalis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carthamus tinctor](https://www.paldat.org/pub/Carthamus_tinctor) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_tinctor) ",
-      "dutch": "saffloer",
-      "vorm": "?",
-      "grootte": "60",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "carthamus_tinctor"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Carthamus lanatuswollige](https://www.paldat.org/pub/Carthamus_lanatuswollige) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_lanatuswollige) ",
-      "dutch": "saffloer",
-      "vorm": "rond",
-      "grootte": "61",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "carthamus_lanatuswollige"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Centranthus ruber](https://www.paldat.org/pub/Centranthus_ruber) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centranthus_ruber) ",
-      "dutch": "rode spoorbloem",
-      "vorm": "rond",
-      "grootte": "65-72",
-      "oppervlak": "zwak echinaat",
-      "opmerkingen": "3-colp(or)aat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "centranthus_ruber"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Scabiosa columbar](https://www.paldat.org/pub/Scabiosa_columbar) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Scabiosa_columbar) ",
-      "dutch": "duifkruid",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "70",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat, korte stekels",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "scabiosa_columbar"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Echinops sphaer](https://www.paldat.org/pub/Echinops_sphaer) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Echinops_sphaer) ",
-      "dutch": "kogeldistel",
-      "vorm": "ovaal",
-      "grootte": "70",
-      "oppervlak": "echinaat C",
-      "opmerkingen": "3-colporaat, dikke exine, vouwen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "echinops_sphaer"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Dipsacus](https://www.paldat.org/pub/Dipsacus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus) ",
-      "dutch": "kaardebol",
-      "vorm": "rond",
-      "grootte": "71-90",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "dipsacus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Succisa praten](https://www.paldat.org/pub/Succisa_praten) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Succisa_praten) ",
-      "dutch": "blauwe knoop",
-      "vorm": "rond",
-      "grootte": "80",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colporaat, korte stekels",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "succisa_praten"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Knautia spp](https://www.paldat.org/pub/Knautia_spp) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Knautia_spp) ",
-      "dutch": "-",
-      "vorm": "rond",
-      "grootte": "80-110",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat, ‘deksel’ op pore",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "knautia_spp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Malva sp.](https://www.paldat.org/pub/Malva_sp.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Malva_sp.)",
-      "dutch": "kaasjeskruid",
-      "vorm": "rond",
-      "grootte": "113",
-      "oppervlak": "echinaat",
-      "opmerkingen": ">50-poraat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "malva_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Crocus ancyrensis](https://www.paldat.org/pub/Crocus_ancyrensis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_ancyrensis) ",
-      "dutch": "crocus",
-      "vorm": "rond",
-      "grootte": "70-110",
-      "oppervlak": "verrucaat/echinaat",
-      "opmerkingen": "syncolpaat",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/crocus_ancyrensis/Crocus_ancyrensis_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/crocus_ancyrensis/Crocus_ancyrensis_Po.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "crocus_ancyrensis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Portulacca oleacera](https://www.paldat.org/pub/Portulacca_oleacera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Portulacca_oleacera) ",
-      "dutch": "postelein",
-      "vorm": "rond",
-      "grootte": "ca. 80",
-      "oppervlak": "verrucaat/scabraat/",
-      "opmerkingen": "n-colpaat, grote colpi; cytopl.: echinaat granulair",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "portulacca_oleacera"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "[Crocus albiflorus](https://www.paldat.org/pub/Crocus_albiflorus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus) ",
-      "dutch": "crocus",
-      "vorm": "rond",
-      "grootte": "125",
-      "oppervlak": "echinaat+scabraat",
-      "opmerkingen": "0, geel/oranje olie",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/crocus_albiflorus/Crocus_albiflorus_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/crocus_albiflorus/Crocus_albiflorus_Po.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "crocus_albiflorus"
     },
     {
       "section": "Diversen",
-      "latin": "[Pinus](https://www.paldat.org/pub/Pinus) sp. [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pinus_sp.)",
-      "dutch": "den",
-      "vorm": "ovaal/luchtzakken",
-      "grootte": "44-75",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "0,dikke intine, cyto: granulair",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/Pinus_silvestris.png",
-          "imageHeightPx": 28
-        }
-      ]
+      "pollen_key": "pinus_sp"
     },
     {
       "section": "Diversen",
-      "latin": "[Calluna vulgaris](https://www.paldat.org/pub/Calluna_vulgaris) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris) ",
-      "dutch": "struikheide",
-      "vorm": "tetrade",
-      "grootte": "32-39",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat, wratten,gran",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/calluna_vulgaris/Calluna_vulgaris_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/calluna_vulgaris/Calluna_vulgaris_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/persano_oddo/Calluna_vulgaris_sculptuur.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/persano_oddo/Calluna_vulgaris_sculptuur2.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "calluna_vulgaris"
     },
     {
       "section": "Diversen",
-      "latin": "[Vaccinium vitis](https://www.paldat.org/pub/Vaccinium_vitis) -idaea [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_vitis) ",
-      "dutch": "vossebes",
-      "vorm": "tetrade",
-      "grootte": "35(33-35)",
-      "oppervlak": "glad",
-      "opmerkingen": "(3-)colporaat, cyto: helder ideae (33-40) poren indien aanw: elliptisch",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "vaccinium_vitis"
     },
     {
       "section": "Diversen",
-      "latin": "[Rhododendron](https://www.paldat.org/pub/Rhododendron) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron) ",
-      "dutch": "rhododendron",
-      "vorm": "tetrade",
-      "grootte": "36(-50?)",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat, cyto: helder",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "rhododendron"
     },
     {
       "section": "Diversen",
-      "latin": "[Vaccinium corymbosum](https://www.paldat.org/pub/Vaccinium_corymbosum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_corymbosum) ",
-      "dutch": "blauwe bes",
-      "vorm": "tetrade",
-      "grootte": "37-42",
-      "oppervlak": "glad",
-      "opmerkingen": "(3-)colporaat, colpi ± 17µm, lolongaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "vaccinium_corymbosum"
     },
     {
       "section": "Diversen",
-      "latin": "[Erica tetralix](https://www.paldat.org/pub/Erica_tetralix) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_tetralix) ",
-      "dutch": "dopheide",
-      "vorm": "tetrade",
-      "grootte": "39(37-40)",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat,lolongaat; cyto: gran (als E.cin.) gelig, poren zwak elliptisch",
-      "images": [
-        {
-          "image": "assets/images/by-taxon/erica_tetralix/Erica_tetralix_1.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/by-taxon/erica_tetralix/Erica_tetralix_2.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "erica_tetralix"
     },
     {
       "section": "Diversen",
-      "latin": "[Vaccinium myrtillus](https://www.paldat.org/pub/Vaccinium_myrtillus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_myrtillus) ",
-      "dutch": "bosbes",
-      "vorm": "tetrade",
-      "grootte": "(40-)47",
-      "oppervlak": "verrucaat wsl",
-      "opmerkingen": "(3-)colporaat, scherpe colpi van",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "vaccinium_myrtillus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Astragalus sinicus](https://www.paldat.org/pub/Astragalus_sinicus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Astragalus_sinicus) ",
-      "dutch": "milkvetch",
-      "vorm": "ovaal",
-      "grootte": "17",
-      "oppervlak": "glad?",
-      "opmerkingen": "3-colporaat. Mid.Zee gebied. Voor en",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "astragalus_sinicus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Oost Azië [Theobroma cacao](https://www.paldat.org/pub/Theobroma_cacao) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Theobroma_cacao) ",
-      "dutch": "cacao",
-      "vorm": "ongeveer rond",
-      "grootte": "17",
-      "oppervlak": "f reticulaat",
-      "opmerkingen": "(3-)colp(or)aat, iets brede colpi, A1741 Dom. rep. tropen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "oost_azi_theobroma_cacao"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
@@ -2650,894 +1090,135 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Amorpha fruticosa](https://www.paldat.org/pub/Amorpha_fruticosa) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Amorpha_fruticosa) ",
-      "dutch": "valse indigo",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "21",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat; exine met orane/gele olie",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "amorpha_fruticosa"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Punica granatum](https://www.paldat.org/pub/Punica_granatum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Punica_granatum) ",
-      "dutch": "granaatappel",
-      "vorm": "O tot ovaal",
-      "grootte": "21",
-      "oppervlak": "glad/scabraat/",
-      "opmerkingen": "3-colporaat, ca lalongaat, l colpi,",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "punica_granatum"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Eucalyptus camal [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eucalyptus_camal) ",
-      "dutch": "eucalyptus",
-      "vorm": "∆",
-      "grootte": "22",
-      "oppervlak": "glad/verrucaat",
-      "opmerkingen": "3-syncolpaat, dwz colpi raken elkaar",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "eucalyptus_camal"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Olea europaea [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Olea_europaea) ",
-      "dutch": "olijf",
-      "vorm": "onregelmatig O",
-      "grootte": "22",
-      "oppervlak": "reticulaat (als Bn)",
-      "opmerkingen": "3-colporaat, onduidelijke colpi",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "olea_europaea"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Caragana arborescens](https://www.paldat.org/pub/Caragana_arborescens) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Caragana_arborescens) ",
-      "dutch": "erwtenstruik",
-      "vorm": "ovaal/O",
-      "grootte": "23(20-25)",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-4-colpaat, soms syncolpaat; l s colpi z.o. Europa, voor Azië",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "caragana_arborescens"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Sapindaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Sapindaceae) (fam.) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sapindaceae) ",
-      "dutch": "-",
-      "vorm": "∆",
-      "grootte": "23",
-      "oppervlak": "psilaat/f reticulaat",
-      "opmerkingen": "3-syncolpaat, ∆ in het midden",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "sapindaceae_fam"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Mercurialis perennis](https://www.paldat.org/pub/Mercurialis_perennis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mercurialis_perennis) ",
-      "dutch": "bingelkruid",
-      "vorm": "О ⁄ ∆/ovaal",
-      "grootte": "23-26",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "mercurialis_perennis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Sulla coronaria [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Sulla_coronaria) ",
-      "dutch": "French honeysuc",
-      "vorm": "ovaal",
-      "grootte": "24",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; gele olie; It: sulla",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "sulla_coronaria"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Citrus sinensis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_sinensis) ",
-      "dutch": "sinaasappel",
-      "vorm": "□/O",
-      "grootte": "25",
-      "oppervlak": "foveolaat",
-      "opmerkingen": "4-colporaat; mid.zee, (sub)tropen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "citrus_sinensis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Mangifera indica](https://www.paldat.org/pub/Mangifera_indica) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mangifera_indica) ",
-      "dutch": "mango",
-      "vorm": "ovaal/O",
-      "grootte": "25(-27)",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, vouwen, ca □ pore. A1741 Dom. rep. Tropen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "mangifera_indica"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Coffea](https://www.paldat.org/search/genus/Coffea) sp. [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Coffea_sp.)",
-      "dutch": "koffie",
-      "vorm": "ongeveer rond",
-      "grootte": "25-32",
-      "oppervlak": "scabraat wsl",
-      "opmerkingen": "3-4-colporaat, lang colpi, vouwen A1741 Dom.rep. Tropen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "coffea_sp"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Ceratonia silqua](https://www.paldat.org/pub/Ceratonia_siliqua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ceratonia_siliqua) ",
-      "dutch": "Johannesbroodboom",
-      "vorm": "rond",
-      "grootte": "25-27",
-      "oppervlak": "f reti",
-      "opmerkingen": "4-colporaat, exine open bij colpi en intine ingedeukt, l s colpi, lalongaat, vouwen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "ceratonia_silqua"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Loranthus europaeus](https://www.paldat.org/pub/Loranthus_europaeus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Loranthus_europaeus) ",
-      "dutch": "mistletoe fam",
-      "vorm": "∆",
-      "grootte": "26",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-syncolpaat(zie eucalyptus); ZO Eur",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "loranthus_europaeus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Ulex](https://www.paldat.org/search/genus/Ulex) sp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ulex_sp) ",
-      "dutch": "gaspeldoorn",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "27",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colp(or)aat; Z Europa, Ierland; zie boven",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "ulex_sp"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Anacardium occidentale [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anacardium_occidentale) ",
-      "dutch": "cashew",
-      "vorm": "onregelmatig ovaal",
-      "grootte": "28",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat, l zeer s colpi, lolongaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "anacardium_occidentale"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Carpobrotus edulis](https://www.paldat.org/pub/Carpobrotus_edulis) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carpobrotus_edulis)  ",
-      "dutch": "hottentotvijg",
-      "vorm": "rond",
-      "grootte": "28",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat; in europese kustgebieden",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "carpobrotus_edulis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Borreria](https://www.paldat.org/search/genus/Borreria) sp. (Rubia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Borreria_sp.)",
-      "dutch": "Borreria",
-      "vorm": "rond",
-      "grootte": "30",
-      "oppervlak": "f reticulaat",
-      "opmerkingen": "9-poraat(?), iets dikke exine/intine, A1741 Dom. rep. Tropen",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "borreria_sp_rubia"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Erica arborea](https://www.paldat.org/pub/Erica_arborea) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_arborea) ",
-      "dutch": "boomheide",
-      "vorm": "tetrade",
-      "grootte": "30",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "3-colp(or)aat; cyto: gran; mid.zee",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "erica_arborea"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Davidia involucrata](https://www.paldat.org/pub/Davidia_involucrata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Davidia_involucrata) ",
-      "dutch": "vaantjesboom",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "33",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat;Nyssaceae. China,ook NL",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "davidia_involucrata"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Ferula communis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ferula_communis) ",
-      "dutch": "Reuzen-schijnvenkel",
-      "vorm": "ovaal",
-      "grootte": "33x20",
-      "oppervlak": "scabraat/rugulaat",
-      "opmerkingen": "3-colporaat, cytoplasma: granulair",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "ferula_communis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Teucrium chamaedrys](https://www.paldat.org/pub/Teucrium_chamaedrys) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Teucrium_chamaedrys) ",
-      "dutch": "echte gamander",
-      "vorm": "ovaal",
-      "grootte": "29-33",
-      "oppervlak": "scabraat/ f reticul?",
-      "opmerkingen": "3-colpaat; midden Europa",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "teucrium_chamaedrys"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Euphorbia](https://www.paldat.org/search/genus/Euphorbia) spp [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Euphorbia_spp) ",
-      "dutch": "euphorbia",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "35-46",
-      "oppervlak": "verrucaat/reticul?",
-      "opmerkingen": "3-colporaat; geel",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "euphorbia_spp"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Tordylium apulum](https://www.paldat.org/pub/Tordylium_apulum) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tordylium_apulum) ",
-      "dutch": "hertenplant",
-      "vorm": "ovaal",
-      "grootte": "36x17",
-      "oppervlak": "scabraat/rugulaat",
-      "opmerkingen": "3-colporaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "tordylium_apulum"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Lavandula angisti](https://www.paldat.org/pub/Lavandula_angustifolia) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia) ",
-      "dutch": "lavendel",
-      "vorm": "zeskantig",
-      "grootte": "38",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "6-colpaat; midelland. zee gebied",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "lavandula_angisti"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Viscum album](https://www.paldat.org/pub/Viscum_album) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viscum_album) ",
-      "dutch": "mistletoe",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "43",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "viscum_album"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Cistus salviifolius](https://www.paldat.org/pub/Cistus_salviifolius) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cistus_salviifolius) ",
-      "dutch": "Saliebladige zistroos",
-      "vorm": "⁄ ∆",
-      "grootte": "49",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; middellandsezee gebied",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "cistus_salviifolius"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Citrullus lanatus](https://www.paldat.org/pub/Citrullus_lanatus) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrullus_lanatus) ",
-      "dutch": "watermeloen",
-      "vorm": "ongeveer rond",
-      "grootte": "56",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; mid.zee, O-Europa, Azië,",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "citrullus_lanatus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Afrika Kolkwitzia amabilis [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kolkwitzia_amabilis) ",
-      "dutch": "kolkwitzia",
-      "vorm": "rond tot driekantig, afhankelijk van de ligging",
-      "grootte": "56",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat; tuinheester (herk:China)",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "afrika_kolkwitzia_amabilis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Liriodendron tulipifera](https://www.paldat.org/pub/Liriodendron_tulipifera) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Liriodendron_tulipifera) ",
-      "dutch": "tulpenboom",
-      "vorm": "half ovaal",
-      "grootte": "57",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "1-colpaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "liriodendron_tulipifera"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Asphodelus aestiv](https://www.paldat.org/pub/Asphodelus_aestiv) alleen EM [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asphodelus_aestiv) ",
-      "dutch": "gewone daffodil",
-      "vorm": "half ovaal",
-      "grootte": "61",
-      "oppervlak": "scabraat",
-      "opmerkingen": "1-colpaat; lijkt fijn reticulaat",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "asphodelus_aestiv"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Catalpa_ovata) ",
-      "dutch": "trompetboom",
-      "vorm": "tetrade",
-      "grootte": "73",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "0",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "catalpa_ovata"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "[Larix decidua](https://www.paldat.org/pub/Larix_decidua) [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Larix_decidua) ",
-      "dutch": "larix",
-      "vorm": "rond",
-      "grootte": "92 ",
-      "oppervlak": "glad",
-      "opmerkingen": "0; cyto: gran; nectarloos",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "larix_decidua"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Abelmoschus esculentus [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Abelmoschus_esculentus)  [pollenwiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Abelmoschus_esculentus) ",
-      "dutch": "okra",
-      "vorm": "rond",
-      "grootte": "175",
-      "oppervlak": "echinaat",
-      "opmerkingen": ">20-poraat; geel; India, Afrika",
-      "images": [
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Pd.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Po.png",
-          "imageHeightPx": 72
-        },
-        {
-          "image": "assets/images/pollenwiki/PLACEHOLDER_Eo.png",
-          "imageHeightPx": 72
-        }
-      ]
+      "pollen_key": "abelmoschus_esculentus"
     }
   ]
 }
