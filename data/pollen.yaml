@@ -967,6 +967,15 @@ armeria_maritima:
   ornamentation: reticulaat
   image:
     height_px: 165
+  images:
+    - path: assets/images/by-taxon/armeria_maritima/armeria_maritima_1.png
+      height_px: 165
+    - path: assets/images/by-taxon/armeria_maritima/armeria_maritima_2.png
+      height_px: 165
+    - path: assets/images/by-taxon/armeria_maritima/armeria_maritima_3.png
+      height_px: 165
+    - path: assets/images/by-taxon/armeria_maritima/armeria_maritima_4.png
+      height_px: 165
   bloeitijd:
     start:
     end:
