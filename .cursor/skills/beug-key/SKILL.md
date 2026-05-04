@@ -16,7 +16,7 @@ description: >-
 - Valid object for `vdh-pollentabel.js`: see **interactive-pollen-key** (this repo) - top-level `start`, `steps` with `choices`, each choice: `label` + **`next`** *or* **`outcome.text`** only. Italics: `*Genus species*`, not HTML.
 - Images:
   - Prefer `choice.images` and `outcome.images` arrays of `{ image, imageWidthPx }`.
-  - If the user asks for placeholder slots: add two `../../assets/images/pollenwiki/placeholder_pd.png` entries with `imageWidthPx: 1` to the relevant `images` array.
+  - If the user asks for placeholder slots: add entries pointing at `../../assets/images/non-pollen/placeholder.png` with `imageWidthPx: 1` (same bitmap repeated as needed).
 
 ## Standard `meta` (Beug keys)
 

@@ -55,11 +55,11 @@ Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and
    - Populate each figure with a macro call (no `<figcaption>`):
      - `{{ pollen_img("<taxon_id>", "<relative_src_under_docs>", alt="<Latin name>") }}`
    - Image source rule:
-     - include **all available images** for the taxon at the top of the page.
-     - search under `docs/assets/images/` for filenames containing the Latin binomial (underscore or hyphen variants) and include each match once.
-     - prefer a stable order by folder then filename (for example: `pollenwiki/`, `paldat/`, `persano_oddo/`, `beug/`, `kerkvliet/`).
+     - include **all available pollen images** for the taxon at the top of the page, in **`data/pollen.yaml`** order under `images:` (SoT).
+     - on-disk canonical paths: `assets/images/by-taxon/<pollen_key>/<pollen_key>_N.png` (numeric suffix). Do **not** add new pollen bitmaps under legacy corpus folders (`pollenwiki`, `paldat`, etc.).
+     - where a full **`{{ pollen_gallery("pollen_key") }}`** macro covers the taxon, prefer that over hand-built HTML for new pages.
    - Path rule (important):
-     - pass page-relative paths (usually `../../assets/images/...`) to `pollen_img(...)`, matching how images already work in this repo.
+     - pass page-relative paths (usually `../../assets/images/by-taxon/<slug>/...`) to `pollen_img(...)`, matching how images already work in this repo.
    - `alt`: short and correct (no placeholders).
 
 3. **`## Kenmerken` (required)**

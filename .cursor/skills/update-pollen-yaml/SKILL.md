@@ -11,7 +11,7 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
 ## Workflow (token-efficient)
 - Read only what you need: use targeted search, then small `Read` windows around the relevant key.
 - When adding images, use files under `docs/assets/images/` and write docs-relative paths like `assets/images/...`.
-- Canonical layout for taxon-linked rasters: `assets/images/by-taxon/<pollen_key>/...` (use `kind` / `source` fields to record provenance, not only the folder name).
+- Canonical layout for taxon-linked pollen bitmaps: `assets/images/by-taxon/<pollen_key>/...` (use `kind` / `source` fields to record provenance, not only the folder name).
 - Prefer mechanical changes:
   - Insert `images:` immediately before `image:` in an entry.
   - Sort `images` paths and de-duplicate.
@@ -29,12 +29,14 @@ Use:
 
 ```yaml
   images:
-  - path: assets/images/by-taxon/foo_bar/Foo_bar_Eo.png
+  - path: assets/images/by-taxon/foo_bar/foo_bar_1.png
     kind: pollenwiki
     source: pollenwiki
 ```
 
-`kind` and `source` record the image corpus (e.g. `pollenwiki`, `paldat`, `persano_oddo`, `beug`, `kerkvliet`).
+Use **numeric** filenames (`foo_bar_1.png`, …). `kind` and `source` record the image corpus (e.g. `pollenwiki`, `paldat`, `beug`, `kerkvliet`).
+
+Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json` (`pollenx`, `tstebler`, `paldat`); use explicit `null` when a default URL would be wrong.
 
 ## Regenerate the runtime index and manifests
 
@@ -46,12 +48,18 @@ Use:
 
 Rules:
 - Do not edit `docs/data/pollen.json` or `docs/assets/manifests/*.json` by hand; they are generated.
-- The exporter emits `latin`, `dutch`, `family`, `shape`, `ornamentation`, `aperture`, `size`, and `images` (see `scripts/export_pollen_json.py`).
+- The exporter emits `latin`, `dutch`, `family`, `shape`, `ornamentation`, `aperture`, `size`, `display_width_px`, `links`, and `images` (with per-image `width_px` when derivable; see `scripts/export_pollen_json.py`).
+
+## Validation
+
+```bash
+./.venv/bin/python scripts/validate_pollen_site.py --rebuild-data --images --links
+```
 
 ## Auditing and migration helpers
 - Read-only inventory: `python scripts/audit_pollen_assets.py`
 - Append confidently mapped files missing from YAML: `python scripts/sync_yaml_confident_images.py`
-- **By-taxon rasters** exist under `assets/images/by-taxon/<pollen_key>/` but stay **invisible** in the Kerkvliet table (and anywhere else that reads `pollen.json` `images[]`) until each path appears under **`images:`** in `data/pollen.yaml`. Append those without scanning pollenwiki:  
+- **By-taxon bitmap files** exist under `assets/images/by-taxon/<pollen_key>/` but stay **invisible** in the Kerkvliet table (and anywhere else that reads `pollen.json` `images[]`) until each path appears under **`images:`** in `data/pollen.yaml`. Append those without scanning pollenwiki:  
   `python scripts/sync_yaml_confident_images.py --only-by-taxon`  
   (optional: combine with the usual scan using `--include-by-taxon`.)
-- Move resolved rasters into `by-taxon` (rewrites references): `python scripts/migrate_pollen_images_by_taxon.py --apply`
+- Move resolved bitmaps into `by-taxon` (rewrites references): `python scripts/migrate_pollen_images_by_taxon.py --apply`

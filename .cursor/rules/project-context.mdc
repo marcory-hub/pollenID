@@ -40,7 +40,8 @@ Before architectural or roadmap answers:
 - Run **`mkdocs build`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors, so broken links surface before deploy.
 - **Internal links**: use **relative** Markdown paths between files under **`docs/`** (portable across local and CI builds).
 - **Images**: place files under **`docs/assets/`**
-- **Image size (true scale)**: Set the **longest** dimension to **\(2,5 (nederlandse honing) or 5 px/µm (other pages)\)** so sizes are comparable across pages. Canonical examples: **40 µm → 200 px**, **26 µm → 130 px**, **17 µm → 85 px**.
+- **Pollen image layout**: Pollen **bitmap** assets (e.g. PNG microscopie) live under **`docs/assets/images/by-taxon/<slug>/slug_N.png`**; non-pollen assets under **`docs/assets/images/non-pollen/`**. SoT is **`data/pollen.yaml`**; **`docs/data/pollen.json`** is generated only.
+- **Display width (site)**: Exporter en macro’s gebruiken **`display_width_px = round(largest_size_um × 2,5)`** (default **125 px** zonder maat). Per-afbeelding **`width_px`/`height_px`** in YAML blijft optioneel voor aspectratio; geen aparte 5 px/µm-regel meer voor “andere pagina’s”.
 
 ## 5. Directory integrity
 - **Obsidian**: The user manages `notes/`; do not change these notes.

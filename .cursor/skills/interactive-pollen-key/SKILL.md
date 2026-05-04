@@ -32,7 +32,7 @@ Images (overview + endpoint + placeholders):
   - `outcome.image` + `outcome.imageWidthPx`
 
 Placeholder policy (site authoring):
-- Use `../../assets/images/pollenwiki/placeholder_pd.png` twice with `imageWidthPx: 1` when the user asks to add placeholder slots broadly.
+- Use `../../assets/images/non-pollen/placeholder.png` (repeated if needed) with `imageWidthPx: 1` when the user asks to add placeholder slots broadly.
 
 Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 
