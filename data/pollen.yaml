@@ -300,19 +300,19 @@ aesculus_hippocastanum:
   ornamentation:
   images:
     - path: 
+        assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_1.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_3.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
         assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
         assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_10.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -364,17 +364,17 @@ agrimonia_eupatoria:
   aperture:
   ornamentation:
   images:
+    - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_1.png
+      kind: paldat
+      source: paldat
+    - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_3.png
+      kind: paldat
+      source: paldat
     - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_2.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_5.png
-      kind: paldat
-      source: paldat
-    - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png
-      kind: paldat
-      source: paldat
     - path: 
-        assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_10.png
+        assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png
       kind: paldat
       source: paldat
   image:
@@ -407,10 +407,10 @@ agrimonia_odorata:
     - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_2.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_5.png
+    - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_4.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_4.png
+    - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_3.png
       kind: paldat
       source: paldat
   image:
@@ -450,19 +450,19 @@ ailanthus_altissima:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
     - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_glandulosa_2.png
+        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_glandulosa_5.png
+        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_glandulosa_3.png
+        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_glandulosa_4.png
+        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_3.png
       kind: pollenwiki
       source: pollenwiki
 ajuga_reptans:
@@ -622,16 +622,16 @@ allium_ursinum:
   aperture: 1-colpaat
   ornamentation: glad/ zw. rugulaat
   images:
-    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_o1.png
+    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_o2.png
+    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_o3.png
+    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_o4.png
+    - path: assets/images/by-taxon/allium_ursinum/allium_ursinum_4.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -671,16 +671,16 @@ alnus_glutinosa:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_3.png
+    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_3.png
       kind: pollenwiki
       source: pollenwiki
 alyssum_sp:
@@ -720,13 +720,13 @@ amaranthus_caudatus:
   aperture: Meestal meer dan 50 pori, tectum zonder perforaties
   ornamentation:
   images:
-    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_d.png
+    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_o.png
+    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_4.png
+    - path: assets/images/by-taxon/amaranthus_caudatus/amaranthus_caudatus_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -1484,28 +1484,28 @@ brassica_napus:
   aperture: tricolpaat
   ornamentation: apertuurmembranen bevatten deels gering korrelig ornamentering
   images:
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_1_26.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_2_26.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/brassica_napus/brassica_napus_3.png
-      kind: persano_oddo
-      source: persano_oddo
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/brassica_napus/brassica_napus_4.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_sculptuur.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_3_26.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_4_26.png
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_1.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_2.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_7.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_5.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/brassica_napus/brassica_napus_size_26um.png
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_6.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/brassica_napus/brassica_napus_8.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -1532,6 +1532,9 @@ bryonia_dioica:
   aperture:
   ornamentation:
   images:
+    - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_1.png
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_2.png
       kind: pollenwiki
       source: pollenwiki
@@ -1541,11 +1544,8 @@ bryonia_dioica:
     - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_operculum.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: 
-        assets/images/by-taxon/bryonia_dioica/bryonia_dioica_uitpuilend_intine.png
+        assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -1671,33 +1671,33 @@ calluna_vulgaris:
   aperture:
   ornamentation: verrucaat
   images:
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-2.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-3.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-4.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-5.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_5.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_3.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_4.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
       kind: persano_oddo
       source: persano_oddo
     - path: 
-        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_sculptuur.png
+        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_8.png
       kind: persano_oddo
       source: persano_oddo
     - path: 
-        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_sculptuur2.png
+        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -1799,19 +1799,19 @@ campanula:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
     - path: 
-        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_3.png
+        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
         assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_3.png
       kind: pollenwiki
       source: pollenwiki
 cannabis_sativa:
@@ -2141,7 +2141,7 @@ carum_carvi:
     - path: assets/images/by-taxon/carum_carvi/carum_carvi_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/carum_carvi/carum_carvi_6.png
+    - path: assets/images/by-taxon/carum_carvi/carum_carvi_3.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/carum_carvi/carum_carvi_2.png
@@ -2188,38 +2188,38 @@ castanea_sativa:
       kind: persano_oddo
       source: persano_oddo
     - path: 
-        assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png
+        assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_6.png
+        assets/images/by-taxon/castanea_sativa/castanea_sativa_14.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png
+        assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_5.png
+        assets/images/by-taxon/castanea_sativa/castanea_sativa_13.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_7.png
+        assets/images/by-taxon/castanea_sativa/castanea_sativa_15.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_9.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_8.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_10.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_9.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_10.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -2570,20 +2570,20 @@ cichorium_intybus:
   aperture: 3-colporaat
   ornamentation: echinaat T
   images:
-    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_d.png
+    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_o1.png
+    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_o2.png
+    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_o3.png
+    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/cichorium_intybus/cichorium_intybus_size_40um.png
+        assets/images/by-taxon/cichorium_intybus/cichorium_intybus_5.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -2788,13 +2788,13 @@ citrus_spp_rutaceae:
     - source: monoflorale_md
       path: pollenID/docs/monoflorale-honing-pollen/citrushoning.md
   images:
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_3.png
+    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_1.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_sculpture.png
+    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_2.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_sculpture2.png
+    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_3.png
       kind: persano_oddo
       source: persano_oddo
 clematis_vitalba:
@@ -3093,13 +3093,13 @@ cornus_sanguinea:
   aperture: 3-colporaat
   ornamentation: scabraat/reticulaat
   images:
+    - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_1.png
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_4.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -3369,10 +3369,10 @@ crocus_albiflorus:
   aperture:
   ornamentation: echinaat+scabraat
   images:
-    - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_3.png
+    - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_4.png
+    - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -3400,10 +3400,10 @@ crocus_ancyrensis:
   aperture:
   ornamentation: verrucaat/echinaat
   images:
-    - path: assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_3.png
+    - path: assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_4.png
+    - path: assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -3545,7 +3545,7 @@ cynoglossum_officinale:
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_5.png
+        assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
@@ -3982,7 +3982,7 @@ echium_vulgare:
   aperture:
   ornamentation:
   images:
-    - path: assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png
+    - path: assets/images/by-taxon/echium_vulgare/echium_vulgare_5.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/echium_vulgare/echium_vulgare_2.png
@@ -4111,7 +4111,7 @@ erigeron_canaden:
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/helianthus_annuus/pollenwiki__helianthus_annuus_3.png
+        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
@@ -4400,19 +4400,19 @@ fagopyrum_esculentum:
       kind: beug
       source: beug
     - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_1.png
+        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_6.png
+        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_10.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_2.png
+        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_8.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_5.png
+        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_9.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
@@ -4555,16 +4555,16 @@ filipendula_ulmaria:
     - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_5.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png
+    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_6.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png
+    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_9.png
+    - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_4.png
@@ -4601,19 +4601,19 @@ filipendula_vulgaris:
   ornamentation:
   images:
     - path: 
-        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_2.png
-      kind: paldat
-      source: paldat
-    - path: 
-        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_5.png
-      kind: paldat
-      source: paldat
-    - path: 
-        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_3.png
+        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_1.png
       kind: paldat
       source: paldat
     - path: 
         assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_4.png
+      kind: paldat
+      source: paldat
+    - path: 
+        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_2.png
+      kind: paldat
+      source: paldat
+    - path: 
+        assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_3.png
       kind: paldat
       source: paldat
   image:
@@ -4794,18 +4794,18 @@ fumaria_officinalis:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_d.png
+    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_d2.png
+        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_o.png
+    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_3.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_o2.png
+        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_4.png
       kind: pollenwiki
       source: pollenwiki
 galinsoga_sp:
@@ -5071,7 +5071,7 @@ helenium_autumn:
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/helianthus_annuus/pollenwiki__helianthus_annuus_3.png
+        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
@@ -5124,17 +5124,17 @@ helianthus_annuus:
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/helianthus_annuus/pollenwiki__helianthus_annuus_3.png
+        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_echinea.png
+        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_5.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_pore.png
+    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_6.png
       kind: persano_oddo
       source: persano_oddo
   image:
@@ -5386,19 +5386,19 @@ juglans_regia:
   aperture: Pori vooral op één helft van de pollenkorrel
   ornamentation:
   images:
-    - path: assets/images/by-taxon/juglans_regia/juglans_regia_12.png
+    - path: assets/images/by-taxon/juglans_regia/juglans_regia_1.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/juglans_regia/juglans_regia_d.png
+    - path: assets/images/by-taxon/juglans_regia/juglans_regia_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/juglans_regia/juglans_regia_d2.png
+    - path: assets/images/by-taxon/juglans_regia/juglans_regia_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/juglans_regia/juglans_regia_o.png
+    - path: assets/images/by-taxon/juglans_regia/juglans_regia_5.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/juglans_regia/juglans_regia_anulus.png
+    - path: assets/images/by-taxon/juglans_regia/juglans_regia_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -5571,31 +5571,31 @@ lavandula_angustifolia:
   ornamentation: reticulaat
   images:
     - path: 
-        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_apertuur.png
+        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png
       kind: persano_oddo
       source: persano_oddo
+    - path: 
+        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_1.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: 
+        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_7.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: 
+        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_2.png
+      kind: by_taxon
+      source: by_taxon
     - path: 
         assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_3.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_sculptuur.png
-      kind: persano_oddo
-      source: persano_oddo
+      kind: by_taxon
+      source: by_taxon
     - path: 
         assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_4.png
       kind: by_taxon
       source: by_taxon
     - path: 
         assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_5.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_7.png
       kind: by_taxon
       source: by_taxon
   image:
@@ -5648,6 +5648,19 @@ ligustrum_vulgare_wilde_liguster:
   pe_ratio: 0.88; 0.83-0.95
   aperture: tricolpaat
   ornamentation: reticulaat, aperturen zonder ornamentatie
+  images:
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px: 84
   bloeitijd:
@@ -5720,16 +5733,16 @@ limonium_vulgare:
   aperture: 3-colpaat
   ornamentation: reticulaat
   images:
+    - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_1.png
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_9.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/limonium_vulgare/limonium_vulgare_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -5843,19 +5856,19 @@ linum_usitatissimum:
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_eo.png
+        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_5.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_pd.png
+        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_6.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_pd2.png
+        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_7.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_po.png
+        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_8.png
       kind: by_taxon
       source: by_taxon
 liriodendron_tulip:
@@ -5949,11 +5962,11 @@ lonicera:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
     - path: 
-        assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
+        assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_5.png
+        assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
       kind: pollenwiki
       source: pollenwiki
 lonicera_sp:
@@ -6017,16 +6030,16 @@ lotus_corniculatus:
   aperture: 3-colporaat
   ornamentation: glad
   images:
-    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_3.png
+    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -6445,19 +6458,19 @@ melilotus_hypericum_perfor:
   ornamentation: glad
   images:
     - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
         assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -6497,16 +6510,16 @@ mercurialis_annua:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_3.png
+    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/mercurialis_annua/mercurialis_annua_3.png
       kind: pollenwiki
       source: pollenwiki
 mercurialis_perennis:
@@ -6653,19 +6666,19 @@ myosotis_scorpioides:
   ornamentation: glad
   images:
     - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
         assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -6912,10 +6925,10 @@ nymphaea_alba:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/nymphaea_alba/nymphea_alba_d.png
+    - path: assets/images/by-taxon/nymphaea_alba/nymphaea_alba_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/nymphaea_alba/nymphea_alba_o.png
+    - path: assets/images/by-taxon/nymphaea_alba/nymphaea_alba_2.png
       kind: by_taxon
       source: by_taxon
 oenothera_tetrag:
@@ -7752,16 +7765,16 @@ primula_vulgaris:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_3.png
+    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/primula_vulgaris/primula_vulgaris_3.png
       kind: pollenwiki
       source: pollenwiki
 prunus_avium:
@@ -8156,22 +8169,22 @@ rhododendron:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_3.png
+    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_3.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_4.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_sculptuur.png
+    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_4.png
       kind: persano_oddo
       source: persano_oddo
     - path: 
-        assets/images/by-taxon/rhododendron_ponticum/rhododendron_dauricum_3.png
+        assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_5.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: 
+        assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/rhododendron_ponticum/rhododendron_dauricum_4.png
+        assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_2.png
       kind: pollenwiki
       source: pollenwiki
 rhododendron_spp_ericaceae:
@@ -8187,7 +8200,7 @@ rhododendron_spp_ericaceae:
   aperture:
   ornamentation:
   images:
-    - path: assets/images/by-taxon/ribes_rubrum/ribes_rubrum_4.png
+    - path: assets/images/by-taxon/ribes_rubrum/ribes_rubrum_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -8238,7 +8251,7 @@ ribes_rubrum:
   aperture: Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones
   ornamentation:
   images:
-    - path: assets/images/by-taxon/ribes_rubrum/ribes_rubrum_4.png
+    - path: assets/images/by-taxon/ribes_rubrum/ribes_rubrum_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -8278,16 +8291,16 @@ ribes_sanguineum:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_d1.png
+    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_o1.png
+    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_o2.png
+    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_o3.png
+    - path: assets/images/by-taxon/ribes_sanguineum/ribes_sanguineum_4.png
       kind: pollenwiki
       source: pollenwiki
 robinia_pseudo:
@@ -8351,34 +8364,27 @@ robinia_pseudoacacia:
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation: scabraat, aperturen zonder ornamentatie
   images:
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_surface.png
-      kind: persano_oddo
-      source: persano_oddo
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_7.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px: 75
   bloeitijd:
@@ -8525,11 +8531,11 @@ rosmarinus_officinalis:
   ornamentation:
   images:
     - path: 
-        assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_3.png
+        assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png
       kind: persano_oddo
       source: persano_oddo
     - path: 
-        assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_sculptuur.png
+        assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_2.png
       kind: persano_oddo
       source: persano_oddo
   image:
@@ -8660,19 +8666,19 @@ rubus_fruticosus:
     - source: monoflorale_md
       path: pollenID/docs/monoflorale-honing-pollen/braamhoning.md
   images:
-    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_3.png
+    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_10.png
+    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_3.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_5.png
       kind: pollenwiki
       source: pollenwiki
 rubus_idaeus:
@@ -8688,16 +8694,16 @@ rubus_idaeus:
   aperture: 3-colporaat
   ornamentation: striaat
   images:
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_7.png
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_3.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/rubus_idaeus/rubus_idaeus_1.png
@@ -8740,16 +8746,16 @@ rubus_saxatilis:
   aperture:
   ornamentation:
   images:
-    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_2.png
-      kind: paldat
-      source: paldat
-    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_5.png
-      kind: paldat
-      source: paldat
-    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_3.png
+    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_1.png
       kind: paldat
       source: paldat
     - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_4.png
+      kind: paldat
+      source: paldat
+    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_2.png
+      kind: paldat
+      source: paldat
+    - path: assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_3.png
       kind: paldat
       source: paldat
   image:
@@ -8812,18 +8818,21 @@ rumex_obtusifolius:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_3.png
+    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_4.png
       kind: pollenwiki
       source: pollenwiki
+    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_3.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_5.png
+      kind: by_taxon
+      source: by_taxon
     - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_6.png
       kind: by_taxon
       source: by_taxon
@@ -8831,9 +8840,6 @@ rumex_obtusifolius:
       kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_8.png
-      kind: by_taxon
-      source: by_taxon
-    - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_9.png
       kind: by_taxon
       source: by_taxon
 ruta_graveolens:
@@ -8992,16 +8998,16 @@ sanguisorba_minor:
   aperture: 3-colporaat
   ornamentation: striaat
   images:
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_7.png
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_3.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -9036,19 +9042,19 @@ sanguisorba_officinalis:
     intercolpium); indruk van hexacolpaat; langste as 29.8 µm
   images:
     - path: 
-        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_5.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_3.png
+        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
         assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_2.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: 
+        assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -9287,16 +9293,16 @@ senecio_jacobea:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobaea_eo.png
+    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobaea_eo2.png
+    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobaea_eo3.png
+    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobaea_po.png
+    - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_4.png
       kind: by_taxon
       source: by_taxon
 senecio_sp:
@@ -9404,13 +9410,13 @@ silene_cucubalis:
   aperture: Minder dan 50 pori, tectum met perforaties
   ornamentation:
   images:
-    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalus_d.png
+    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalis_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalus_o.png
+    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalis_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalis_4.png
+    - path: assets/images/by-taxon/silene_cucubalis/silene_cucubalis_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -9941,7 +9947,7 @@ sulla_coronaria:
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_5.png
+    - path: assets/images/by-taxon/vicia_faba/vicia_faba_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_3.png
@@ -10105,34 +10111,27 @@ taraxacum_officinale:
   aperture: tricolpaat, 3-4 slecht zichtbare aperturen
   ornamentation: fenestraat, echinaat
   images:
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/pollenwiki__taraxacum_officinale_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/pollenwiki__taraxacum_officinale_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_echinea.png
-      kind: persano_oddo
-      source: persano_oddo
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_7.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px: 70
   bloeitijd:
@@ -10157,13 +10156,13 @@ taxus_baccata:
   aperture:
   ornamentation: scabraat
   images:
-    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_o.png
+    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_o2.png
+    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_o3.png
+    - path: assets/images/by-taxon/taxus_baccata/taxus_baccata_3.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -10231,7 +10230,7 @@ thalictrum_flavum:
   aperture: Vier tot twaalf pori, pori zonder massieve rand
   ornamentation:
   images:
-    - path: assets/images/by-taxon/thalictrum_flavum/thalictrum_flavum_4.png
+    - path: assets/images/by-taxon/thalictrum_flavum/thalictrum_flavum_1.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -10294,17 +10293,17 @@ thymus_vulgaris:
     - source: monoflorale_md
       path: pollenID/docs/monoflorale-honing-pollen/tijmhoning.md
   images:
-    - path: assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_apertuur.png
+    - path: assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_2.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_1.png
       kind: persano_oddo
       source: persano_oddo
     - path: assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_3.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_sculptuur.png
-      kind: persano_oddo
-      source: persano_oddo
 tilia_type_linde_species:
-  latin: Tilia-type (Linde species
+  latin: Tilia-type (Linde species)
   dutch:
   family:
   size:
@@ -10315,6 +10314,19 @@ tilia_type_linde_species:
   pe_ratio: 'ca. 0,73 (range: 0,63–0,76)'
   aperture: Tricolporaat
   ornamentation: Reticulaat tot rugulaat, foveolaat/fossulaat
+  images:
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_2.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_3.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/non-pollen/tilia_kristals.png
+      kind: crystal
+      source: monoflorale_md
   image:
     height_px: 95
   bloeitijd:
@@ -10411,13 +10423,13 @@ trifolium_pratense:
   aperture: tricolporaat
   ornamentation: grof reticulair
   images:
-    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_10.png
+    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png
       kind: paldat
       source: paldat
-    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_2.png
+    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_4.png
+    - path: assets/images/by-taxon/trifolium_pratense/trifolium_pratense_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -10455,16 +10467,16 @@ trifolium_repens:
     - source: monoflorale_md
       path: pollenID/docs/monoflorale-honing-pollen/witte-klaverhoning.md
   images:
-    - path: assets/images/by-taxon/trifolium_repens/trifolium-repens_1.png
+    - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/trifolium_repens/trifolium-repens_2.png
+    - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/trifolium_repens/trifolium-repens_3.png
+    - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/trifolium_repens/trifolium-repens_4.png
+    - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_4.png
       kind: pollenwiki
       source: pollenwiki
 tulipa_sp:
@@ -10553,23 +10565,23 @@ urtica:
   ornamentation: glad
   images:
     - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_1.png
+        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_2.png
+        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_d1.png
+    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_d2.png
+    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_o1.png
+    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_o2.png
+    - path: assets/images/by-taxon/urtica_dioica/urtica_dioica_4.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -10646,11 +10658,11 @@ vaccinium_vitis_idaea:
   ornamentation: glad
   images:
     - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_1.png
+        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_2.png
+        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -10732,7 +10744,7 @@ verbascum_nigrum:
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_5.png
+    - path: assets/images/by-taxon/vicia_faba/vicia_faba_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_3.png
@@ -10778,6 +10790,9 @@ verbena_officinalis:
   aperture: 3-colpaat
   ornamentation: glad
   images:
+    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_1.png
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_2.png
       kind: pollenwiki
       source: pollenwiki
@@ -10785,9 +10800,6 @@ verbena_officinalis:
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_10.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/verbena_officinalis/verbena_officinalis_1.png
@@ -10944,7 +10956,7 @@ vicia_faba:
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_5.png
+    - path: assets/images/by-taxon/vicia_faba/vicia_faba_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/vicia_faba/vicia_faba_3.png
@@ -11023,6 +11035,9 @@ viola_tricolor:
   aperture: 5-colporaat
   ornamentation: glad
   images:
+    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_1.png
+      kind: pollenwiki
+      source: pollenwiki
     - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_2.png
       kind: pollenwiki
       source: pollenwiki
@@ -11030,9 +11045,6 @@ viola_tricolor:
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_10.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -11099,17 +11111,17 @@ vitis_vinifera:
       path: 
         /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
   images:
-    - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_2.png
+    - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_1.png
       kind: pollenwiki
       source: pollenwiki
     - path: 
-        assets/images/by-taxon/vitis_vinifera/vitis_vinifera_inaperturaat.png
+        assets/images/by-taxon/vitis_vinifera/vitis_vinifera_4.png
+      kind: pollenwiki
+      source: pollenwiki
+    - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_4.png
       kind: pollenwiki
       source: pollenwiki
 weigelia_diervilla:
@@ -11185,7 +11197,7 @@ zea:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/zea_mays/zea_mays.png
+    - path: assets/images/by-taxon/zea_mays/zea_mays_1.png
       kind: pollenwiki
       source: pollenwiki
 
@@ -11929,16 +11941,16 @@ photinia_fraseri:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 
   images:
-    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_ed.png
+    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_eo.png
+    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_pd.png
+    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_po.png
+    - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_4.png
       kind: by_taxon
       source: by_taxon
 rhododendron_pollenwiki:
@@ -12018,19 +12030,19 @@ solanum_lycopersicum:
 
   images:
     - path: 
-        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_ed.png
+        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_1.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_eo.png
+        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_2.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_pd.png
+        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_3.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_po.png
+        assets/images/by-taxon/solanum_lycopersicum/solanum_lycopersicum_4.png
       kind: by_taxon
       source: by_taxon
 solanum_tuberosum:
@@ -12085,19 +12097,19 @@ symphytum_officinale:
 
   images:
     - path: 
-        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_ed.png
+        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_1.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_eo.png
+        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_2.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_pd.png
+        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_3.png
       kind: by_taxon
       source: by_taxon
     - path: 
-        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_po.png
+        assets/images/by-taxon/symphytum_officinale/symphytum_officinale_4.png
       kind: by_taxon
       source: by_taxon
 tetradium_daniellii:
