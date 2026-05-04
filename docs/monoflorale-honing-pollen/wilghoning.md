@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>
@@ -47,19 +47,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_pd.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_eo.png" style="height: 110px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/Salix_alba_var_tristis_Po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 110px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Salix_alba_var_tristis</figcaption>
     </figure>
   </div>
@@ -69,11 +69,11 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">

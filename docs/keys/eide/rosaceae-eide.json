@@ -18,11 +18,11 @@
           "next": "2",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -32,11 +32,11 @@
           "next": "14",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -52,11 +52,11 @@
           "next": "3",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -66,11 +66,11 @@
           "next": "4",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -87,19 +87,19 @@
             "pollen_key": "sanguisorba_minor",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/Sanguisorba_minor_Eo.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/Sanguisorba_minor_Eo2.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_5.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/Sanguisorba_minor_Eo3.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_7.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/Sanguisorba_minor_Pd.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_3.png",
                 "imageWidthPx": 90
               }
             ]
@@ -111,19 +111,19 @@
             "pollen_key": "sanguisorba_officinalis",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/Sanguisorba_officinalis_Eo.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_2.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/Sanguisorba_officinalis_Eo2.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_5.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/Sanguisorba_officinalis_Pd.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_3.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/Sanguisorba_officinalis_Po.png",
+                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_4.png",
                 "imageWidthPx": 78
               }
             ]
@@ -140,11 +140,11 @@
           "next": "5",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -154,11 +154,11 @@
           "next": "10",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -175,19 +175,19 @@
             "pollen_key": "sibbaldia_procumbens",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/Sibbaldia_procumbens_Ed.png",
+                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_1.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/Sibbaldia_procumbens_Eo.png",
+                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_2.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/Sibbaldia_procumbens_Pd.png",
+                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_3.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/Sibbaldia_procumbens_Po.png",
+                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_4.png",
                 "imageWidthPx": 58
               }
             ]
@@ -198,11 +198,11 @@
           "next": "6",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -218,11 +218,11 @@
           "next": "7",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -232,11 +232,11 @@
           "next": "9",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -253,19 +253,19 @@
             "pollen_key": "comarum_palustre",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -276,11 +276,11 @@
           "next": "8",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -297,19 +297,19 @@
             "pollen_key": "fragaria_vesca",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ],
@@ -322,19 +322,19 @@
             "pollen_key": "potentilla_anserina",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/Potentilla_anserina_Ed.png",
+                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_1.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/Potentilla_anserina_Eo.png",
+                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_2.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/Potentilla_anserina_Pd.png",
+                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_3.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/Potentilla_anserina_Po.png",
+                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_4.png",
                 "imageWidthPx": 63
               }
             ]
@@ -352,19 +352,19 @@
             "pollen_key": "fragaria_viridis",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/Fragaria_viridis_Ed.png",
+                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_1.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/Fragaria_viridis_Eo.png",
+                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_2.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/Fragaria_viridis_Pd.png",
+                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_3.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/Fragaria_viridis_Po.png",
+                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_4.png",
                 "imageWidthPx": 45
               }
             ]
@@ -376,19 +376,19 @@
             "pollen_key": "potentilla_crantzii",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Ed.png",
+                "image": "../../assets/images/pollenwiki/potentilla_erecta_ed.png",
                 "imageWidthPx": 65
               },
               {
-                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Eo.png",
+                "image": "../../assets/images/pollenwiki/potentilla_erecta_eo.png",
                 "imageWidthPx": 65
               },
               {
-                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Pd.png",
+                "image": "../../assets/images/pollenwiki/potentilla_erecta_pd.png",
                 "imageWidthPx": 65
               },
               {
-                "image": "../../assets/images/pollenwiki/Potentilla_erecta_Po.png",
+                "image": "../../assets/images/pollenwiki/potentilla_erecta_po.png",
                 "imageWidthPx": 65
               }
             ],
@@ -406,11 +406,11 @@
           "next": "11",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -420,11 +420,11 @@
           "next": "12",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -441,19 +441,19 @@
             "pollen_key": "agrimonia_eupatoria",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/Agrimonia_eupatoria_Eo2.png",
+                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_5.png",
                 "imageWidthPx": 85
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/Agrimonia_eupatoria_Eo.png",
+                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_2.png",
                 "imageWidthPx": 85
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/Agrimonia_eupatoria_Po2.png",
+                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_10.png",
                 "imageWidthPx": 85
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/Agrimonia_eupatoria_Po.png",
+                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png",
                 "imageWidthPx": 85
               }
             ]
@@ -465,19 +465,19 @@
             "pollen_key": "agrimonia_odorata",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/Agrimonia_odorata_Ed.png",
+                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_1.png",
                 "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/Agrimonia_odorata_Eo.png",
+                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_2.png",
                 "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/Agrimonia_odorata_Eo2.png",
+                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_5.png",
                 "imageWidthPx": 188
               },
               {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/Agrimonia_odorata_Po.png",
+                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_4.png",
                 "imageWidthPx": 188
               }
             ]
@@ -495,19 +495,19 @@
             "pollen_key": "rosa_rubiginosa",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Ed.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_1.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Eo.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_2.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Pd.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_3.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Po.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_4.png",
                 "imageWidthPx": 78
               }
             ]
@@ -519,19 +519,19 @@
             "pollen_key": "rosa_pimpinellifolia",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/Rosa_pimpinellifolia_Ed.png",
+                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_1.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/Rosa_pimpinellifolia_Eo.png",
+                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_2.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/Rosa_pimpinellifolia_Pd.png",
+                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_3.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/Rosa_pimpinellifolia_Po.png",
+                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_4.png",
                 "imageWidthPx": 83
               }
             ],
@@ -544,19 +544,19 @@
             "pollen_key": "rosa_canina",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Ed.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_1.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Eo.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_2.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Pd.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_3.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Po.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_4.png",
                 "imageWidthPx": 83
               }
             ]
@@ -573,11 +573,11 @@
           "next": "15",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -587,11 +587,11 @@
           "next": "17",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -601,11 +601,11 @@
           "next": "20",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -622,19 +622,19 @@
             "pollen_key": "rubus_chamaemorus",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -645,11 +645,11 @@
           "next": "16",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -666,35 +666,35 @@
             "pollen_key": "filipendula_ulmaria",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Ed.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_1.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Eo.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_2.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Eo2.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_5.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Eo3.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Eo4.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Pd.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_3.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Pd2.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_9.png",
                 "imageWidthPx": 43
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/Filipendula_ulmaria_Po.png",
+                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_4.png",
                 "imageWidthPx": 43
               }
             ]
@@ -706,19 +706,19 @@
             "pollen_key": "filipendula_vulgaris",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/Filipendula_vulgaris_Eo2.png",
+                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_5.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/Filipendula_vulgaris_Eo.png",
+                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_2.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/Filipendula_vulgaris_Pd.png",
+                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_3.png",
                 "imageWidthPx": 45
               },
               {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/Filipendula_vulgaris_Po.png",
+                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_4.png",
                 "imageWidthPx": 45
               }
             ],
@@ -737,19 +737,19 @@
             "pollen_key": "mespilus_germanica",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -760,11 +760,11 @@
           "next": "18",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -774,11 +774,11 @@
           "next": "19",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -796,19 +796,19 @@
             "note": "Nederlandse naam onzeker",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -820,19 +820,19 @@
             "pollen_key": "cotoneaster_intergerrimus",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/Cotoneaster_intergerrimus_Ed.png",
+                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_1.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/Cotoneaster_intergerrimus_Eo.png",
+                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_2.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/Cotoneaster_intergerrimus_Pd.png",
+                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_3.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/Cotoneaster_intergerrimus_Po.png",
+                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_4.png",
                 "imageWidthPx": 83
               }
             ]
@@ -850,19 +850,19 @@
             "pollen_key": "alchemilla_alpina",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -874,19 +874,19 @@
             "pollen_key": "alchemilla_acutiloba",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ],
@@ -904,11 +904,11 @@
           "next": "21",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -918,11 +918,11 @@
           "next": "22",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -939,19 +939,19 @@
             "pollen_key": "geum_rivale",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/geum_rivale/Geum_rivale_Ed.png",
+                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_1.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/geum_rivale/Geum_rivale_Eo.png",
+                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_2.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/geum_rivale/Geum_rivale_Pd.png",
+                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_3.png",
                 "imageWidthPx": 63
               },
               {
-                "image": "../../assets/images/by-taxon/geum_rivale/Geum_rivale_Po.png",
+                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_4.png",
                 "imageWidthPx": 63
               }
             ],
@@ -964,19 +964,19 @@
             "pollen_key": "geum_urbanum",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/geum_urbanum/Geum_urbanum_Ed.png",
+                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_1.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/geum_urbanum/Geum_urbanum_Eo.png",
+                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_2.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/geum_urbanum/Geum_urbanum_Pd.png",
+                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_3.png",
                 "imageWidthPx": 58
               },
               {
-                "image": "../../assets/images/by-taxon/geum_urbanum/Geum_urbanum_Po.png",
+                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_4.png",
                 "imageWidthPx": 58
               }
             ]
@@ -993,11 +993,11 @@
           "next": "23",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1007,11 +1007,11 @@
           "next": "24",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1028,19 +1028,19 @@
             "pollen_key": "crataegus_monogyna",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ],
@@ -1053,19 +1053,19 @@
             "pollen_key": "crataegus_oxycantha",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1082,11 +1082,11 @@
           "next": "25",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1096,11 +1096,11 @@
           "next": "26",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1117,19 +1117,19 @@
             "pollen_key": "rubus_arcticus",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/PLACEHOLDER_Eo.png",
+                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
                 "imageWidthPx": 1
               }
             ],
@@ -1142,19 +1142,19 @@
             "pollen_key": "rubus_saxatilis",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/Rubus_saxatilis_Po.png",
+                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_4.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/Rubus_saxatilis_Eo.png",
+                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_2.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/Rubus_saxatilis_Pd.png",
+                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_3.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/Rubus_saxatilis_Eo2.png",
+                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_5.png",
                 "imageWidthPx": 70
               }
             ],
@@ -1172,11 +1172,11 @@
           "next": "27",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1186,11 +1186,11 @@
           "next": "28",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1207,19 +1207,19 @@
             "pollen_key": "rosa_rubiginosa",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Ed.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_1.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Eo.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_2.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Pd.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_3.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/Rosa_rubiginosa_Po.png",
+                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_4.png",
                 "imageWidthPx": 70
               }
             ]
@@ -1231,19 +1231,19 @@
             "pollen_key": "rosa_pimpinellifolia",
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Ed.png",
+                "image": "../../assets/images/pollenwiki/rosa_spinosissima_ed.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Eo.png",
+                "image": "../../assets/images/pollenwiki/rosa_spinosissima_eo.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Pd.png",
+                "image": "../../assets/images/pollenwiki/rosa_spinosissima_pd.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/pollenwiki/Rosa_spinosissima_Po.png",
+                "image": "../../assets/images/pollenwiki/rosa_spinosissima_po.png",
                 "imageWidthPx": 83
               }
             ],
@@ -1256,19 +1256,19 @@
             "pollen_key": "rosa_canina",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Ed.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_1.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Eo.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_2.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Pd.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_3.png",
                 "imageWidthPx": 83
               },
               {
-                "image": "../../assets/images/by-taxon/rosa_canina/Rosa_canina_Po.png",
+                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_4.png",
                 "imageWidthPx": 83
               }
             ]
@@ -1285,11 +1285,11 @@
           "next": "29",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1299,11 +1299,11 @@
           "next": "32",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1319,11 +1319,11 @@
           "next": "30",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1333,11 +1333,11 @@
           "next": "31",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1354,19 +1354,19 @@
             "pollen_key": "sorbus_aucuparia",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/Sorbus_aucuparia_Ed.png",
+                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_1.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/Sorbus_aucuparia_Eo.png",
+                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_2.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/Sorbus_aucuparia_Pd.png",
+                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_3.png",
                 "imageWidthPx": 70
               },
               {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/Sorbus_aucuparia_Po.png",
+                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_4.png",
                 "imageWidthPx": 70
               }
             ]
@@ -1391,19 +1391,19 @@
             "pollen_key": "prunus_avium",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/prunus_avium/Prunus_avium_Ed.png",
+                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_1.png",
                 "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_avium/Prunus_avium_Eo.png",
+                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_2.png",
                 "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_avium/Prunus_avium_Pd.png",
+                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_3.png",
                 "imageWidthPx": 98
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_avium/Prunus_avium_Po.png",
+                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_4.png",
                 "imageWidthPx": 98
               }
             ]
@@ -1415,19 +1415,19 @@
             "pollen_key": "prunus_spinosa",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/Prunus_spinosa_Ed.png",
+                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_1.png",
                 "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/Prunus_spinosa_Eo.png",
+                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_2.png",
                 "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/Prunus_spinosa_Pd.png",
+                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_3.png",
                 "imageWidthPx": 103
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/Prunus_spinosa_Po.png",
+                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_4.png",
                 "imageWidthPx": 103
               }
             ]
@@ -1445,19 +1445,19 @@
             "pollen_key": "prunus_padus",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/prunus_padus/Prunus_padus_Ed.png",
+                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_1.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_padus/Prunus_padus_Eo.png",
+                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_2.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_padus/Prunus_padus_Pd.png",
+                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_3.png",
                 "imageWidthPx": 90
               },
               {
-                "image": "../../assets/images/by-taxon/prunus_padus/Prunus_padus_Po.png",
+                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_4.png",
                 "imageWidthPx": 90
               }
             ]
@@ -1468,11 +1468,11 @@
           "next": "33",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/PLACEHOLDER_Pd.png",
+              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
               "imageWidthPx": 1
             }
           ]
@@ -1489,19 +1489,19 @@
             "pollen_key": "malus_sylvestris",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/Malus_sylvestris_Ed.png",
+                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_1.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/Malus_sylvestris_Eo.png",
+                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_2.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/Malus_sylvestris_Pd.png",
+                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_3.png",
                 "imageWidthPx": 78
               },
               {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/Malus_sylvestris_Po.png",
+                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_4.png",
                 "imageWidthPx": 78
               }
             ]
@@ -1513,19 +1513,19 @@
             "pollen_key": "dryas_octopetala",
             "images": [
               {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/Dryas_octopetala_Ed.png",
+                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_1.png",
                 "imageWidthPx": 75
               },
               {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/Dryas_octopetala_Eo.png",
+                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_2.png",
                 "imageWidthPx": 75
               },
               {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/Dryas_octopetala_Pd.png",
+                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_3.png",
                 "imageWidthPx": 75
               },
               {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/Dryas_octopetala_Po.png",
+                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_4.png",
                 "imageWidthPx": 75
               }
             ]

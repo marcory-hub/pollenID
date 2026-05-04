@@ -51,4 +51,7 @@ Rules:
 ## Auditing and migration helpers
 - Read-only inventory: `python scripts/audit_pollen_assets.py`
 - Append confidently mapped files missing from YAML: `python scripts/sync_yaml_confident_images.py`
+- **By-taxon rasters** exist under `assets/images/by-taxon/<pollen_key>/` but stay **invisible** in the Kerkvliet table (and anywhere else that reads `pollen.json` `images[]`) until each path appears under **`images:`** in `data/pollen.yaml`. Append those without scanning pollenwiki:  
+  `python scripts/sync_yaml_confident_images.py --only-by-taxon`  
+  (optional: combine with the usual scan using `--include-by-taxon`.)
 - Move resolved rasters into `by-taxon` (rewrites references): `python scripts/migrate_pollen_images_by_taxon.py --apply`

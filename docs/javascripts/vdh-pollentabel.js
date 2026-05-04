@@ -367,13 +367,13 @@
     // Always prefer the real docs root if we managed to compute it from pollen.json.
     if (docsRootUrl) {
       try {
-        return new URL("assets/images/placeholder/NO_IMAGE_FOUND.jpg", docsRootUrl).href;
+        return new URL("assets/images/placeholder/no_image_found.jpg", docsRootUrl).href;
       } catch (e) {
         // fall through
       }
     }
     // Otherwise resolve from the current key/page location.
-    return resolveAssetUrl("../../assets/images/placeholder/NO_IMAGE_FOUND.jpg", baseUrl || document.baseURI);
+    return resolveAssetUrl("../../assets/images/placeholder/no_image_found.jpg", baseUrl || document.baseURI);
   }
 
   /**

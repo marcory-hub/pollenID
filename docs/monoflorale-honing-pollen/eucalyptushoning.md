@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Pd.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_3.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Po.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_4.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Eo.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_2.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Ed.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_1.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
   </div>
@@ -44,42 +44,42 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Pd.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_3.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Po.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_4.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Eo.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_2.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/eucalyptus_globulus/Eucalyptus_globulus_Ed.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/by-taxon/eucalyptus_globulus/eucalyptus_globulus_1.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Eucalyptus.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/persano_oddo/eucalyptus.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Eucalyptus_pore.png" style="height: 115px; width: auto;" alt="Eucalyptus sp">
+      <img src="../../assets/images/persano_oddo/eucalyptus_pore.png" style="height: 115px; width: auto;" alt="Eucalyptus sp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/Eucalyptus_.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
+      <img src="../../assets/images/persano_oddo/eucalyptus_.png" style="height: 115px; width: auto;" alt="Eucalyptus spp">
       <figcaption class="pid-scale-caption">Eucalyptus sp</figcaption>
     </figure>
   </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">

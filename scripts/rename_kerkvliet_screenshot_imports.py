@@ -1,24 +1,26 @@
 #!/usr/bin/env python3
-"""Rename Schermafbeelding*.png files under docs/assets/images/by-taxon-kerkvliet/<slug>/.
+"""Rename Schermafbeelding*.png files under docs/assets/images/by-taxon/<slug>/ (or another --root).
 
-Each matching file becomes <slug>_1.png, <slug>_2.png, … using the folder basename as slug
-(e.g. calendula_officin/armeria_maritima_* under that folder).
+Each matching file becomes <slug>_N.png using the folder basename as slug. Numbering starts
+at the first free index after any existing <slug>_<digits>.png files, so new screenshots can
+be added alongside older numbered rasters without skipping the whole folder.
 
 macOS screenshots are often spelled with a Unicode soft hyphen (U+00AD) inside the word
 (Scherm + U+00AD + afbeelding). That invisible character breaks a naive "schermafbeelding*"
 prefix check; we strip U+00AD and common zero-width characters before matching.
 
-Use --dry-run to preview without changing files."""
+Run without flags to apply renames; use --dry-run to preview only."""
 
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from pathlib import Path
 from typing import List
 
 REPO = Path(__file__).resolve().parents[1]
-DEFAULT_ROOT = REPO / "docs" / "assets" / "images" / "by-taxon-kerkvliet"
+DEFAULT_ROOT = REPO / "docs" / "assets" / "images" / "by-taxon"
 
 # Dutch macOS default; allow optional overrides.
 DEFAULT_PREFIX = "schermafbeelding"
@@ -54,8 +56,21 @@ def sorted_sources(files: List[Path], *, by_mtime: bool) -> List[Path]:
     return sorted(files, key=lambda p: p.name.lower())
 
 
-def planned_destinations(slug: str, count: int) -> List[str]:
-    return [f"{slug}_{i}.png" for i in range(1, count + 1)]
+def max_existing_numbered_basename(folder: Path, slug: str) -> int:
+    """Largest N where <slug>_N.png exists (basename match, case-insensitive)."""
+    pat = re.compile(rf"^{re.escape(slug)}_(\d+)\.png$", re.IGNORECASE)
+    hi = 0
+    for p in folder.iterdir():
+        if not p.is_file():
+            continue
+        m = pat.match(p.name)
+        if m:
+            hi = max(hi, int(m.group(1)))
+    return hi
+
+
+def planned_destinations(slug: str, count: int, *, start: int) -> List[str]:
+    return [f"{slug}_{i}.png" for i in range(start, start + count)]
 
 
 def process_folder(folder: Path, slug: str, *, prefix_lc: str, by_mtime: bool, dry_run: bool) -> int:
@@ -70,7 +85,8 @@ def process_folder(folder: Path, slug: str, *, prefix_lc: str, by_mtime: bool, d
         return 0
 
     n = len(sources)
-    dest_names = planned_destinations(slug, n)
+    start = max_existing_numbered_basename(folder, slug) + 1
+    dest_names = planned_destinations(slug, n, start=start)
     dest_paths = [folder / dn for dn in dest_names]
 
     for dst in dest_paths:
@@ -95,7 +111,7 @@ def process_folder(folder: Path, slug: str, *, prefix_lc: str, by_mtime: bool, d
 
 def main() -> int:
     ap = argparse.ArgumentParser(
-        description="Rename Schermafbeelding*.png imports to <slug>_N.png under by-taxon-kerkvliet."
+        description="Rename Schermafbeelding*.png imports to <slug>_N.png under each slug folder (--root)."
     )
     ap.add_argument(
         "--root",

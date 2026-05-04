@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_3.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
   </div>
@@ -45,31 +45,31 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Pd.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_3.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Eo.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png" style="height: 150px; width: auto;" alt="PLACEHOLDER.">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__Robinia_pseudoacacia_Po.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 150px; width: auto;" alt="PLACEHOLDER">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Pd.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_Po.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/Robinia_pseudoacacia_surface.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_surface.png" style="height: 165px; width: auto;" alt="Robinia_pseudoacacia">
       <figcaption class="pid-scale-caption">Robinia pseudoacacia</figcaption>
     </figure>
   </div>
@@ -79,11 +79,11 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">

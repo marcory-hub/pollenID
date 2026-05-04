@@ -10,7 +10,7 @@ Usage (after running this script):
 - YAML-backed gallery:
   {{ pollen_gallery("taraxacum_officinale") }}
 - Height-scaled single image in Markdown:
-  {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/Taraxacum_officinale_Po.png", alt="Taraxacum officinale") }}
+  {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png", alt="Taraxacum officinale") }}
 """
 
 import argparse

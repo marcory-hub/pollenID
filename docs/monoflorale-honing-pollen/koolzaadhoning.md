@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Po_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Pd_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Eo_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_2_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Ed_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_1_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
   </div>
@@ -49,19 +49,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Po_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Pd_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Eo_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_2_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Ed_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_1_26.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; equatoriaal aanzicht; focus op doorsnede).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
   </div>
@@ -69,26 +69,26 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Po.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polair aanzicht; focus op oppervlak).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_Pd.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png" style="height: 130px; width: auto;" alt="Brassica napus (pollen; polaire aanzicht; focus op doorsnede).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/Brassica_napus_sculptuur.png" width="70" alt="Brassica napus (pollen; sculptuur).">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_sculptuur.png" width="70" alt="Brassica napus (pollen; sculptuur).">
       <figcaption class="pid-scale-caption">Brassica napus</figcaption>
     </figure>
   </div>
   <!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">

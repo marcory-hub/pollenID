@@ -474,7 +474,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "rumex"
+      "pollen_key": "rumex_obtusifolius"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -590,11 +590,11 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "colchicinum_autumnale"
+      "pollen_key": "colchicum_autumnale"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "cucumis_satives"
+      "pollen_key": "cucumis_sativus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -606,11 +606,11 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "colchicinum_autum"
+      "pollen_key": "colchicum_autumnale"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "linum_usitatissim"
+      "pollen_key": "linum_usitatissimum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -738,7 +738,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "pollen_key": "davidia_involcrata"
+      "pollen_key": "davidia_involucrata"
     },
     {
       "section": "Pollen met groeven",
@@ -758,7 +758,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "pollen_key": "prunus_laurocera"
+      "pollen_key": "prunus_laurocerasus"
     },
     {
       "section": "Pollen met groeven",
@@ -770,7 +770,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "pollen_key": "polemonium_coeruleum"
+      "pollen_key": "polemonium_caeruleum"
     },
     {
       "section": "Pollen met groeven",
@@ -814,7 +814,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "ambrosia_artemis"
+      "pollen_key": "ambrosia_artemisiifolia"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -894,7 +894,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "hieracium_aurantia"
+      "pollen_key": "hieracium_aurantiacum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",

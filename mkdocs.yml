@@ -10,6 +10,7 @@ extra:
 
 theme:
   name: material
+  favicon: assets/images/favicon.svg
   palette:
     - scheme: slate
       toggle:

@@ -3,19 +3,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Po.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Pd.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__Castanea_sativa_Eo.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__Castanea_sativa_Ed.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
   </div>
@@ -43,23 +43,23 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Ed.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Eo.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Ed2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_6.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Eo2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_5.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Eo3.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_7.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
   </div>
@@ -68,19 +68,19 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Po.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/Castanea_sativa_Pd.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__Castanea_sativa_Eo.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
+      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__Castanea_sativa_Ed.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
+      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
       <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
   </div>
@@ -89,11 +89,11 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_E_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
+      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
       <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_P_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
+      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
       <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
     </figure>
     <figure class="pid-scale-item">

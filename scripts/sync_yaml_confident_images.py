@@ -14,6 +14,7 @@ from ruamel.yaml import YAML
 from ruamel.yaml.comments import CommentedMap
 
 from pollen_asset_lib import (
+    DOCS_DIR,
     IMAGES_DIR,
     POLLEN_YAML,
     build_pollen_indexes,
@@ -37,9 +38,40 @@ def folder_kind_source(rel: str) -> tuple[str, str]:
     return "unknown", "unknown"
 
 
+def collect_by_taxon_additions(data: dict) -> list[tuple[str, str, str, str]]:
+    """PNG paths under assets/images/by-taxon/<pollen_key>/ when <pollen_key> is a YAML entry.
+
+    MkDocs/Kerkvliet resolve thumbnails from pollen.json, which comes only from these lists;
+    raster files alone are invisible until appended here."""
+    root = DOCS_DIR / "assets" / "images" / "by-taxon"
+    if not root.is_dir():
+        return []
+    additions: list[tuple[str, str, str, str]] = []
+    for taxon_dir in sorted(root.iterdir()):
+        if not taxon_dir.is_dir():
+            continue
+        pollen_key = taxon_dir.name
+        if pollen_key not in data or not isinstance(data[pollen_key], dict):
+            continue
+        for png in sorted(taxon_dir.glob("*.png"), key=lambda p: p.name.lower()):
+            rel = image_file_to_docs_path(png).replace("\\", "/")
+            additions.append((pollen_key, rel, "by_taxon", "by_taxon"))
+    return additions
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument(
+        "--include-by-taxon",
+        action="store_true",
+        help="Also append PNGs under assets/images/by-taxon/<pollen_key>/ missing from YAML (folder name must match pollen key)",
+    )
+    ap.add_argument(
+        "--only-by-taxon",
+        action="store_true",
+        help="Only append by-taxon/ PNGs (skip pollenwiki/paldat confident path scan)",
+    )
     args = ap.parse_args()
 
     yload = YAML()
@@ -55,31 +87,37 @@ def main() -> int:
 
     additions: list[tuple[str, str, str, str]] = []  # key, path, kind, source
 
-    for p in iter_image_files(IMAGES_DIR):
-        rel = image_file_to_docs_path(p).replace("\\", "/")
-        low = rel.lower()
-        if "placeholder" in low or "no_image_found" in low:
-            continue
-        if is_under_by_taxon(rel):
-            continue
+    if args.only_by_taxon:
+        additions.extend(collect_by_taxon_additions(data))
+    else:
+        for p in iter_image_files(IMAGES_DIR):
+            rel = image_file_to_docs_path(p).replace("\\", "/")
+            low = rel.lower()
+            if "placeholder" in low or "no_image_found" in low:
+                continue
+            if is_under_by_taxon(rel):
+                continue
 
-        stem = normalize_image_stem(p.stem)
-        status, keys = resolve_pollen_key_for_stem(
-            stem, stem_to_keys=stem_to_keys, slug_to_key=slug_to_key
-        )
-        if status != "confident" or len(keys) != 1:
-            continue
-        pollen_key = keys[0]
-        entry = data.get(pollen_key)
-        if not isinstance(entry, dict):
-            continue
+            stem = normalize_image_stem(p.stem)
+            status, keys = resolve_pollen_key_for_stem(
+                stem, stem_to_keys=stem_to_keys, slug_to_key=slug_to_key
+            )
+            if status != "confident" or len(keys) != 1:
+                continue
+            pollen_key = keys[0]
+            entry = data.get(pollen_key)
+            if not isinstance(entry, dict):
+                continue
 
-        seen = set(yaml_image_paths(entry))
-        if rel in seen:
-            continue
+            seen = set(yaml_image_paths(entry))
+            if rel in seen:
+                continue
 
-        kind, source = folder_kind_source(rel)
-        additions.append((pollen_key, rel, kind, source))
+            kind, source = folder_kind_source(rel)
+            additions.append((pollen_key, rel, kind, source))
+
+        if args.include_by_taxon:
+            additions.extend(collect_by_taxon_additions(data))
 
     if not additions:
         print("No confident image paths to add.")

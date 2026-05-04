@@ -123,7 +123,7 @@
 | Granulair Anthriscus sylv | fluitekruid | ovaal | 24x15 | reticulaat | 3-colporaat, Umbellif.bouw |
 | Digitalis purpurea | vingerhoedskruid | О ⁄ ∆ | 24 | fijn reticulaat | 3-colporaat; l smalle, s colpi, ;pore vaak onduidelijk |
 | Euodia hupehensis | honingboom | ca O | 24(-27) | grof reticulaat | 3-colporaat; syn: Tetradium daniella; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm |
-| Rumex | zuring | O | 24 | reliëf | 3-colporaat, cyto: gran |
+| Rumex obtusifolius | zuring | O | 24 | reliëf | 3-colporaat, cyto: gran |
 | Polygonum convol | zwaluwtong | O | 24 | foveolaat | 3-colporaat, lange vouwen;cyto: gran |
 | Rhus chinensis | Chinese sumac | О ⁄ ∆ | 24-25 | reticulaat (<Bn) | 3-colporaat, rel. dikke exine, grote pore, colpi puntig einde, lolongaat |
 | Ailanthus | hemelboom | ∆/O | 25 | reticulaat | (ca als 3-colporaat Salix)+striaat (ret < Viburnum opulus) |
@@ -153,11 +153,11 @@
 | Cornus sanguinea | rode kornoelje | O/∆/ovaal | 50 | scabraat/reticulaat | 3-colporaat, cyto: zetmeel lijkt reticulaat |
 | Scilla nonscripta | wilde hyacint | ca ovaal | 50 | reticulaat | 1-colpaat |
 | Colchicinum autu | herfsttijloos | halfovaal-ovaal | 52 | fijn reticulaat | 1-colpaat |
-| Cucumis satives | komkommer/aug | О ⁄ ∆ | 50-60 | fijn reticulaat | 3-poraat;’portaal’(hof), zwak geel; cyto: gran |
+| Cucumis sativus | komkommer/aug | О ⁄ ∆ | 50-60 | fijn reticulaat | 3-poraat;’portaal’(hof), zwak geel; cyto: gran |
 | Limonium vulgare | lamsoor | O | 55 | reticulaat | 3-colpaat |
 | Liriodendron tulip | tulpeboom | ca. halfovaal | 57 | verrucaat | 1-colpaat; intine 4µm;cyto: gran |
-| Colchicinum autum | herfsttijloos | semi-ovaal | 58 | reticulaat | 2-poraat |
-| Linum usitatissim | vlas | ca O | 60 | verrucaat | 3-colpaat , dikke exine,dikke intine, cytopl:granulair |
+| Colchicum autumnale | herfsttijloos | semi-ovaal | 58 | reticulaat | 2-poraat |
+| Linum usitatissimum | vlas | ca O | 60 | verrucaat | 3-colpaat , dikke exine,dikke intine, cytopl:granulair |
 | Lonicera sp | kamperfoelie | О ⁄ ∆ | ca 60 | reticulaat/stekels | 3-colpaat , hof, korte colpi, |
 | Geranium sp. | ooievaarsbek e.a. | О | 60-90 | grof reticulaat | 3-colp(or)aat/3-poraat, dikke exine |
 | Convolvulus arve | akkerwinde | О ⁄ ∆ | 61 | scabraat | 3-colpaat |
@@ -194,15 +194,15 @@
 | Malus sp. | appel | ∆ | ca. 30 | glad/rugulaat | 3-colp(or)aat, soms grote pore/colpus, dunne exine |
 | Nicotiana tabacum | tabak | O | 31 | rugulaat | 4-colporaat, lange colpi; siertabak vaak 3-colporaat |
 | Skimmia | Skimmia | O/ovaal | 32-35 | striaat/reticulaat | 5-colporaat, zwak bruin |
-| Davidia involcrata | vaantjesboom | О ⁄ ∆ | 33 | rugulaat | 3-colporaat;Nyssaceae. China,ook NL |
+| Davidia involucrata | vaantjesboom | О ⁄ ∆ | 33 | rugulaat | 3-colporaat;Nyssaceae. China,ook NL |
 | Veronica sp. | div. ereprijs | О ⁄ ∆ | 36(20-40)reticulaat/striaat | 3-colpaat |  |
 | Acer pseudoplat. | Esdoorn | ca O | 37(35-47) | striaat | 3-colpaat , dikke intine |
 | Prunus avium | zoete kers | ∆ | 37 | striaat | 3-colp(or)aat, soms onduidelijk striaat |
 | Crataegus sp | meidoorn | О ⁄ ∆ | 40 | onduidelijk striaat | 3-colporaat |
-| Prunus-laurocera | laurierkers | О ⁄ ∆ | 40-45 | striaat | 3-colporaat |
+| Prunus laurocerasus | laurierkers | О ⁄ ∆ | 40-45 | striaat | 3-colporaat |
 | Prunus spinoza | sleedoorn | О ⁄ ∆ | 41 | striaat, | 3-colp(or)aat |
 | Mespilus germani | mispel | О ⁄ ∆ | 45 | striaat?/scabraat? | 3-colpaat, dikke exine, druppelvormige colpi |
-| Polemonium coeru | Jacobs ladder | ca O | 45 | striaat, | 50-60-poraat |
+| Polemonium caeruleum | Jacobs ladder | ca O | 45 | striaat, | 50-60-poraat |
 | Astrantia major | Zeeuws knoopje | ovaal | 45x20 | rugulaat | 3-colporaat, iets onregelm. van vorm |
 | Gilia tricolor | Gilia | O | ca 45 | striaat | n-poraat |
 | Datura stramonium | doornappel | О ⁄ ∆ | 50 | rugulaat | 3-colporaat |
@@ -238,7 +238,7 @@
 | Campanula | klokje | O | 29 | echinaat | 3-4-poraat, hof |
 | Leontodon autum | vert. leeuwentand | drie-/zeskantig | 29 | echinaat T | 3-colporaat, fenestraat, exine 3µm, ca 35 stekels totaal van 2,5 µm, ca 18 stekels/rand |
 | Achillea millefolium | duizendblad | О ⁄ ∆ | 29 | echinaat A | 3-colporaat |  |
-| Hieracium aurantia | oranje havikskruid | drie-/zeskantig | (28-)30 | echinaat T | 3-colporaat,fenestraat, lijsten breed, vormen een soort schild, rel kleine vensters |
+| Hieracium aurantiacum | oranje havikskruid | drie-/zeskantig | (28-)30 | echinaat T | 3-colporaat,fenestraat, lijsten breed, vormen een soort schild, rel kleine vensters |
 | Picris hiëracioïdes | bitterkruid | drie-/zeskantig | 31 | echinaat T | 3-colporaat, fenestraat |
 | Tussilago farfara | klein hoefblad | О ⁄ ∆ | 32 | echinaat H? | 3-colporaat., stekels Cirsium type |
 | Picris echinoïdes | dubbelkelk | drie-/zeskantig | 32-37 | echinaat T | 3-colporaat,fenestraat, stekels ca1,5µm |
@@ -310,7 +310,7 @@
 | Carpobrotis edulis | hottentotvijg | O | 28 | echinaat | 3-colpaat; in europese kustgebieden |
 | Borreria sp. (Rubia) | Borreria | O | 30 | f reticulaat | 9-poraat(?), iets dikke exine/intine, A1741 Dom. rep. Tropen |
 | Erica arborea | boomheide | tetrade | 30 | verrucaat | 3-colp(or)aat; cyto: gran; mid.zee |
-| Davidia involcrata | vaantjesboom | О ⁄ ∆ | 33 | rugulaat | 3-colporaat;Nyssaceae. China,ook NL |
+| Davidia involucrata | vaantjesboom | О ⁄ ∆ | 33 | rugulaat | 3-colporaat;Nyssaceae. China,ook NL |
 | Ferula communis | - | ovaal | 33x20 | scabraat/rugulaat | 3-colporaat, cytoplasma: granulair |  |
 | Teucrium chamae | echte gamander | ovaal | 29-33 | scabraat/ f reticul? | 3-colpaat; midden Europa |
 | Euphorbia spp | euphorbia | О ⁄ ∆ | 35-46 | verrucaat/reticul? | 3-colporaat; geel |
