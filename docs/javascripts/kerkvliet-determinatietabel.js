@@ -198,10 +198,8 @@
     const out = [];
     entry.images.forEach(function (im) {
       if (!im || typeof im.path !== "string" || !im.path) return;
-      var p = String(im.path);
-      if (p.indexOf("assets/") === 0) {
-        p = "../../" + p;
-      }
+      var p = String(im.path).trim().replace(/^\.\.\/\.\.\/+/, "");
+      if (p.indexOf("assets/") !== 0) return;
       var h =
         typeof im.height_px === "number" && im.height_px > 0
           ? im.height_px
@@ -333,18 +331,54 @@
         .replace(/</g, "&lt;");
     }
 
+    /** MkDocs site root (…/pollenID/) for resolving docs-relative assets/… under GitHub Pages + instant nav. */
+    function resolveDocsSiteRoot() {
+      try {
+        const sel =
+          "header.md-header a.md-logo, header.md-header a.md-header__button.md-logo, nav.md-header__inner a.md-header__button.md-logo";
+        const el = document.querySelector(sel);
+        if (el && el.href) {
+          const u = new URL(el.href, document.baseURI);
+          let p = u.pathname.replace(/\/+$/, "");
+          if (/\.(html?|php)$/i.test(p)) {
+            p = p.replace(/\/[^/]+$/, "");
+          }
+          u.pathname = (p || "/") + "/";
+          u.hash = "";
+          u.search = "";
+          return u.href;
+        }
+      } catch (e) {}
+      try {
+        return new URL("../../", document.baseURI).href;
+      } catch (e2) {
+        return document.baseURI;
+      }
+    }
+
     function resolveAssetUrl(maybeRelative) {
       if (typeof maybeRelative !== "string" || !maybeRelative) return maybeRelative;
-      if (/^[a-z]+:/i.test(maybeRelative) || maybeRelative.startsWith("/")) return maybeRelative;
-      // Rows use docs-relative paths like "assets/images/...".
-      // This page lives under "Identificatiesleutels/", so prefix with "../../" to reach docs root.
-      if (maybeRelative.startsWith("assets/")) {
-        maybeRelative = "../../" + maybeRelative;
+      const s = maybeRelative.trim();
+      if (/^[a-z]+:/i.test(s) || s.startsWith("//")) return s;
+      if (s.startsWith("/")) {
+        try {
+          return new URL(s, location.origin).href;
+        } catch (e) {
+          return s;
+        }
+      }
+      const rel = s.replace(/^\.\.\/\.\.\/+/, "");
+      if (rel.startsWith("assets/")) {
+        try {
+          return new URL(rel, resolveDocsSiteRoot()).href;
+        } catch (e) {
+          return new URL("../../" + rel, document.baseURI).href;
+        }
       }
       try {
-        return new URL(maybeRelative, document.baseURI).href;
+        return new URL(rel, document.baseURI).href;
       } catch (e) {
-        return maybeRelative;
+        return rel;
       }
     }
 
