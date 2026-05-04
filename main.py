@@ -1,11 +1,18 @@
 from __future__ import annotations
 
+import sys
 from html import escape
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import yaml
 from mkdocs.utils import normalize_url
+
+_SCRIPTS = Path(__file__).resolve().parent / "scripts"
+if str(_SCRIPTS) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS))
+
+from pollen_display import display_width_px_for_yaml_entry, per_image_width_px  # noqa: E402
 
 
 def _load_pollen_data() -> Dict[str, Any]:
@@ -75,11 +82,7 @@ def define_env(env) -> None:
         entry = pollen_data.get(key, {}) if isinstance(pollen_data, dict) else {}
         height_px: Optional[int] = None
         if isinstance(entry, dict):
-            img = entry.get("image")
-            if isinstance(img, dict):
-                h = img.get("height_px")
-                if isinstance(h, int):
-                    height_px = h
+            height_px = display_width_px_for_yaml_entry(entry)
 
         ih = item_height_px
         if isinstance(ih, int) and ih > 0:
@@ -99,7 +102,7 @@ def define_env(env) -> None:
         if height_px is None:
             return f'<img src="{safe_src}" alt="{safe_alt}">'
 
-        return f'<img src="{safe_src}" style="height: {height_px}px; width: auto;" alt="{safe_alt}">'
+        return f'<img src="{safe_src}" style="width: {height_px}px; height: auto;" alt="{safe_alt}">'
 
     @env.macro
     def pollen_gallery(key: str) -> str:
@@ -112,10 +115,7 @@ def define_env(env) -> None:
         if isinstance(entry.get("latin"), str):
             latin = entry["latin"].strip()
 
-        default_h: Optional[int] = None
-        img_blk = entry.get("image")
-        if isinstance(img_blk, dict) and isinstance(img_blk.get("height_px"), int):
-            default_h = img_blk["height_px"]
+        default_w = display_width_px_for_yaml_entry(entry)
 
         imgs = entry.get("images")
         if not isinstance(imgs, list) or not imgs:
@@ -133,10 +133,7 @@ def define_env(env) -> None:
             if not canon.startswith("assets/"):
                 continue
 
-            ih: Optional[int] = default_h
-            h2 = im.get("height_px")
-            if isinstance(h2, int) and h2 > 0:
-                ih = h2
+            iw = per_image_width_px(im, default_w)
 
             href = _resolve_assets_href(canon, env)
             safe_src = escape(href, quote=True)
@@ -146,8 +143,8 @@ def define_env(env) -> None:
             safe_alt = escape(f"{caption} ({fname})", quote=True)
 
             style = ""
-            if ih is not None and ih > 0:
-                style = f' style="height: {ih}px; width: auto;"'
+            if iw > 0:
+                style = f' style="width: {iw}px; height: auto;"'
 
             figures.append(
                 f'<figure class="pid-scale-item"><img src="{safe_src}"{style} alt="{safe_alt}"></figure>'

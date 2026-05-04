@@ -10,7 +10,7 @@ extra:
 
 theme:
   name: material
-  favicon: assets/images/favicon.svg
+  favicon: assets/images/favicon.png
   palette:
     - scheme: slate
       toggle:
@@ -53,16 +53,16 @@ nav:
       - Zonnebloem (Helianthus annuus): monoflorale-honing-pollen/zonnebloemhoning.md
       - Witte klaver: monoflorale-honing-pollen/witte-klaverhoning.md
       - Wilg: monoflorale-honing-pollen/wilghoning.md
-      - Valse acacia: monoflorale-honing-pollen/valse-acacia.md
+      - Valse acacia (Robinia pseudoacacia): monoflorale-honing-pollen/valse-acacia.md
       - Tijm: monoflorale-honing-pollen/tijmhoning.md
       - Tamme kastanje: monoflorale-honing-pollen/tammekastanjehoning.md
       - Rosemarijn: monoflorale-honing-pollen/rosemarijnhoning.md
       - Rode klaver: monoflorale-honing-pollen/rode-klaverhoning.md
       - Rhododendron: monoflorale-honing-pollen/rhododendronhoning.md
       - Phacelia: monoflorale-honing-pollen/phaceliahoning.md
-      - Paardenbloem: monoflorale-honing-pollen/paardenbloemhoning.md
+      - Paardenbloem (Taraxacum officinale): monoflorale-honing-pollen/paardenbloemhoning.md
       - Linde: monoflorale-honing-pollen/lindehoning.md
-      - Liguster: monoflorale-honing-pollen/ligusterhoning.md
+      - Liguster (Ligustrum vulgare): monoflorale-honing-pollen/ligusterhoning.md
       - Lavendel: monoflorale-honing-pollen/lavendelhoning.md
       - Koolzaad: monoflorale-honing-pollen/koolzaadhoning.md
       - Heide: monoflorale-honing-pollen/heidehoning.md
