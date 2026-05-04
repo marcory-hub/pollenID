@@ -165,7 +165,13 @@ def main() -> int:
     args.out.write_text(
         json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    print(f"Wrote {args.out.relative_to(REPO_ROOT)}")
+    out_abs = args.out.resolve()
+    repo_abs = REPO_ROOT.resolve()
+    try:
+        disp = out_abs.relative_to(repo_abs).as_posix()
+    except ValueError:
+        disp = str(out_abs)
+    print(f"Wrote {disp}")
     print(
         f"files={len(rel_files)} confident_unlisted={len(report['not_in_yaml_but_confident'])} "
         f"ambiguous={len(by_status['ambiguous'])} unresolved={len(by_status['none'])}"

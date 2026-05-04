@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lowercase basenames of raster/SVG files under docs/assets/images/ and fix path strings in repo files.
+"""Lowercase basenames of bitmap/SVG files under docs/assets/images/ and fix path strings in repo files.
 
 Skips docs/assets/manifests/ (regenerate with build_docs_data.py after YAML changes).
 Skips docs/data/pollen.json (regenerate with export_pollen_json.py).

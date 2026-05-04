@@ -57,8 +57,13 @@ def load_pollen_json_assets(json_path: Path = POLLEN_JSON) -> Dict[str, List[Tup
             rel = normalize_docs_asset_path(im.get("path"))
             if not rel:
                 continue
+            wp = im.get("width_px")
             hp = im.get("height_px")
-            w_proxy: Optional[float] = float(hp) if isinstance(hp, (int, float)) and hp > 0 else None
+            w_proxy: Optional[float] = None
+            if isinstance(wp, (int, float)) and wp > 0:
+                w_proxy = float(wp)
+            elif isinstance(hp, (int, float)) and hp > 0:
+                w_proxy = float(hp)
             tuples.append((rel, w_proxy))
         if tuples:
             out[sk] = tuples
@@ -109,7 +114,7 @@ def is_placeholder_path(p: str) -> bool:
 
 
 def is_sem_em_png_path(rel: str) -> bool:
-    """True when the filename indicates a PalDat-style SEM raster (quiz uses LM views)."""
+    """True when the filename indicates a PalDat-style SEM bitmap (quiz uses LM views)."""
     if not isinstance(rel, str):
         return False
     seg = Path(rel).name

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Move confidently resolved raster images into assets/images/by-taxon/<pollen_key>/.
+"""Move confidently resolved bitmap images into assets/images/by-taxon/<pollen_key>/.
 
 Rewrites paths in data/pollen.yaml, docs/**/*.md, and docs/**/*.json.
 Use --dry-run first; then --apply.

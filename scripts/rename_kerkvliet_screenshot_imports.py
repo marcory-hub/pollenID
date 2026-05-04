@@ -3,7 +3,7 @@
 
 Each matching file becomes <slug>_N.png using the folder basename as slug. Numbering starts
 at the first free index after any existing <slug>_<digits>.png files, so new screenshots can
-be added alongside older numbered rasters without skipping the whole folder.
+be added alongside older numbered bitmaps without skipping the whole folder.
 
 macOS screenshots are often spelled with a Unicode soft hyphen (U+00AD) inside the word
 (Scherm + U+00AD + afbeelding). That invisible character breaks a naive "schermafbeelding*"

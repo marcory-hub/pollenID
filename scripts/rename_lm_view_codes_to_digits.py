@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rename palynological LM view suffixes on by-taxon rasters (ed,eo,pd,po,eo2,...) to _1,_2,... and fix path strings across the repo.
+"""Rename palynological LM view suffixes on by-taxon bitmaps (ed,eo,pd,po,eo2,...) to _1,_2,... and fix path strings across the repo.
 
 Only touches PNGs under docs/assets/images/by-taxon/.
 

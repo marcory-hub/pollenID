@@ -42,7 +42,7 @@ def collect_by_taxon_additions(data: dict) -> list[tuple[str, str, str, str]]:
     """PNG paths under assets/images/by-taxon/<pollen_key>/ when <pollen_key> is a YAML entry.
 
     MkDocs/Kerkvliet resolve thumbnails from pollen.json, which comes only from these lists;
-    raster files alone are invisible until appended here."""
+    bitmap files on disk alone are invisible until appended here."""
     root = DOCS_DIR / "assets" / "images" / "by-taxon"
     if not root.is_dir():
         return []
