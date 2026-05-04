@@ -18,11 +18,11 @@
           "next": "2",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -32,11 +32,11 @@
           "next": "14",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -52,11 +52,11 @@
           "next": "3",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -66,11 +66,11 @@
           "next": "4",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -84,49 +84,13 @@
         {
           "label": "Verrucaat-microstriaat, soms striaat met echinae; operculum smal en over de hele lengte uitstekend; langste as 26.5 µm",
           "id": {
-            "pollen_key": "sanguisorba_minor",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_5.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_7.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_3.png",
-                "imageWidthPx": 90
-              }
-            ]
+            "pollen_key": "sanguisorba_minor"
           }
         },
         {
           "label": "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm",
           "id": {
-            "pollen_key": "sanguisorba_officinalis",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_2.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_5.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_3.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_4.png",
-                "imageWidthPx": 78
-              }
-            ]
+            "pollen_key": "sanguisorba_officinalis"
           }
         }
       ]
@@ -140,11 +104,11 @@
           "next": "5",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -154,11 +118,11 @@
           "next": "10",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -172,25 +136,7 @@
         {
           "label": "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm",
           "id": {
-            "pollen_key": "sibbaldia_procumbens",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_1.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_2.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_3.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_4.png",
-                "imageWidthPx": 58
-              }
-            ]
+            "pollen_key": "sibbaldia_procumbens"
           }
         },
         {
@@ -198,11 +144,11 @@
           "next": "6",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -218,11 +164,11 @@
           "next": "7",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -232,11 +178,11 @@
           "next": "9",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -250,25 +196,7 @@
         {
           "label": "Colpi ingesnoerd; uiteinden afgerond; vallae diffuus in LM; pollen altijd prolaat; langste as 29 µm",
           "id": {
-            "pollen_key": "comarum_palustre",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "comarum_palustre"
           }
         },
         {
@@ -276,11 +204,11 @@
           "next": "8",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -295,49 +223,13 @@
           "label": "Polare gebieden afgeplat",
           "id": {
             "pollen_key": "fragaria_vesca",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ],
             "note": "synoniem *Potentilla palustris*"
           }
         },
         {
           "label": "Polare gebieden niet afgeplat",
           "id": {
-            "pollen_key": "potentilla_anserina",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_1.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_2.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_3.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/potentilla_anserina/potentilla_anserina_4.png",
-                "imageWidthPx": 63
-              }
-            ]
+            "pollen_key": "potentilla_anserina"
           }
         }
       ]
@@ -349,49 +241,13 @@
         {
           "label": "Colpusuiteinden afgerond",
           "id": {
-            "pollen_key": "fragaria_viridis",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_1.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_2.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_3.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/fragaria_viridis/fragaria_viridis_4.png",
-                "imageWidthPx": 45
-              }
-            ]
+            "pollen_key": "fragaria_viridis"
           }
         },
         {
           "label": "Colpusuiteinden acuut",
           "id": {
             "pollen_key": "potentilla_crantzii",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/potentilla_erecta_ed.png",
-                "imageWidthPx": 65
-              },
-              {
-                "image": "../../assets/images/pollenwiki/potentilla_erecta_eo.png",
-                "imageWidthPx": 65
-              },
-              {
-                "image": "../../assets/images/pollenwiki/potentilla_erecta_pd.png",
-                "imageWidthPx": 65
-              },
-              {
-                "image": "../../assets/images/pollenwiki/potentilla_erecta_po.png",
-                "imageWidthPx": 65
-              }
-            ],
             "note": "exine 1,7 µm; alternatief *Potentilla erecta* (tormentil), exine 0,8 µm"
           }
         }
@@ -406,11 +262,11 @@
           "next": "11",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -420,11 +276,11 @@
           "next": "12",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -438,49 +294,13 @@
         {
           "label": "Oppervlak geeft de indruk glad te zijn",
           "id": {
-            "pollen_key": "agrimonia_eupatoria",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_5.png",
-                "imageWidthPx": 85
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_2.png",
-                "imageWidthPx": 85
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_10.png",
-                "imageWidthPx": 85
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png",
-                "imageWidthPx": 85
-              }
-            ]
+            "pollen_key": "agrimonia_eupatoria"
           }
         },
         {
           "label": "Groepen vallae vormen licht verhoogde delen over het intercolpium",
           "id": {
-            "pollen_key": "agrimonia_odorata",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_1.png",
-                "imageWidthPx": 188
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_2.png",
-                "imageWidthPx": 188
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_5.png",
-                "imageWidthPx": 188
-              },
-              {
-                "image": "../../assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_4.png",
-                "imageWidthPx": 188
-              }
-            ]
+            "pollen_key": "agrimonia_odorata"
           }
         }
       ]
@@ -492,74 +312,20 @@
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
           "id": {
-            "pollen_key": "rosa_rubiginosa",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_1.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_2.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_3.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_4.png",
-                "imageWidthPx": 78
-              }
-            ]
+            "pollen_key": "rosa_rubiginosa"
           }
         },
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
           "id": {
             "pollen_key": "rosa_pimpinellifolia",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_1.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_2.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_3.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_4.png",
-                "imageWidthPx": 83
-              }
-            ],
             "note": "synoniem *Rosa spinosissima*"
           }
         },
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
           "id": {
-            "pollen_key": "rosa_canina",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_1.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_2.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_3.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_4.png",
-                "imageWidthPx": 83
-              }
-            ]
+            "pollen_key": "rosa_canina"
           }
         }
       ]
@@ -573,11 +339,11 @@
           "next": "15",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -587,11 +353,11 @@
           "next": "17",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -601,11 +367,11 @@
           "next": "20",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -619,25 +385,7 @@
         {
           "label": "Clavaat-bacillaat; sculptuurelementen basaal ingesnoerd; striatie en tectale perforaties vaak bedekt door clavae/bacula; langste as 28.5 µm",
           "id": {
-            "pollen_key": "rubus_chamaemorus",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "rubus_chamaemorus"
           }
         },
         {
@@ -645,11 +393,11 @@
           "next": "16",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -663,65 +411,13 @@
         {
           "label": "Sculptuurelementen acuut",
           "id": {
-            "pollen_key": "filipendula_ulmaria",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_1.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_2.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_5.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_3.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_9.png",
-                "imageWidthPx": 43
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_4.png",
-                "imageWidthPx": 43
-              }
-            ]
+            "pollen_key": "filipendula_ulmaria"
           }
         },
         {
           "label": "Sculptuurelementen obtuus",
           "id": {
             "pollen_key": "filipendula_vulgaris",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_5.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_2.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_3.png",
-                "imageWidthPx": 45
-              },
-              {
-                "image": "../../assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_4.png",
-                "imageWidthPx": 45
-              }
-            ],
             "note": "knolspirea; 16-20 µm volgens Halbritter & Heigl 2020 (PalDat)"
           }
         }
@@ -734,25 +430,7 @@
         {
           "label": "Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag; colpus lang; PAI 0.1; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm",
           "id": {
-            "pollen_key": "mespilus_germanica",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "mespilus_germanica"
           }
         },
         {
@@ -760,11 +438,11 @@
           "next": "18",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -774,11 +452,11 @@
           "next": "19",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -793,49 +471,13 @@
           "label": "Langste as 29.9 µm",
           "id": {
             "pollen_key": "cotoneaster_niger",
-            "note": "Nederlandse naam onzeker",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "Nederlandse naam onzeker"
           }
         },
         {
           "label": "Langste as 31.1 µm",
           "id": {
-            "pollen_key": "cotoneaster_intergerrimus",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_1.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_2.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_3.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_4.png",
-                "imageWidthPx": 83
-              }
-            ]
+            "pollen_key": "cotoneaster_intergerrimus"
           }
         }
       ]
@@ -847,49 +489,13 @@
         {
           "label": "Columellae in het midden van het intercolpium 1.5x zo hoog als aan de colpusrand",
           "id": {
-            "pollen_key": "alchemilla_alpina",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "alchemilla_alpina"
           }
         },
         {
           "label": "Columellae in het midden van het intercolpium 2.5x zo hoog als aan de colpusrand",
           "id": {
             "pollen_key": "alchemilla_acutiloba",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ],
             "note": "ook *Alchemilla glabra* (kale vrouwenmantel)"
           }
         }
@@ -904,11 +510,11 @@
           "next": "21",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -918,11 +524,11 @@
           "next": "22",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -937,49 +543,13 @@
           "label": "Vallae altijd recht, persistent en meridionaal; langste as 27 µm",
           "id": {
             "pollen_key": "geum_rivale",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_1.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_2.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_3.png",
-                "imageWidthPx": 63
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_rivale/geum_rivale_4.png",
-                "imageWidthPx": 63
-              }
-            ],
             "note": "knikkend nagelkruid; 27 (23,2-30,6) µm volgens Eide 1981"
           }
         },
         {
           "label": "Vallae soms gebogen en niet persistent (recht en parallel ook frequent); langste as 21 µm",
           "id": {
-            "pollen_key": "geum_urbanum",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_1.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_2.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_3.png",
-                "imageWidthPx": 58
-              },
-              {
-                "image": "../../assets/images/by-taxon/geum_urbanum/geum_urbanum_4.png",
-                "imageWidthPx": 58
-              }
-            ]
+            "pollen_key": "geum_urbanum"
           }
         }
       ]
@@ -993,11 +563,11 @@
           "next": "23",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1007,11 +577,11 @@
           "next": "24",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1026,49 +596,13 @@
           "label": "Langste as 29 µm",
           "id": {
             "pollen_key": "crataegus_monogyna",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ],
             "note": "eenstijlige meidoorn. Christensen 1992 concludeerde dat de soort overeenkomt met *C. rhipidophylla* (koraalmeidoorn). [bron](https://www.jstor.org/stable/i25027808)"
           }
         },
         {
           "label": "Langste as 35 µm",
           "id": {
-            "pollen_key": "crataegus_oxycantha",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "pollen_key": "crataegus_oxycantha"
           }
         }
       ]
@@ -1082,11 +616,11 @@
           "next": "25",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1096,11 +630,11 @@
           "next": "26",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1115,24 +649,6 @@
           "label": "Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig",
           "id": {
             "pollen_key": "rubus_arcticus",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_eo.png",
-                "imageWidthPx": 1
-              }
-            ],
             "note": "arctische braam; komt voor in arctisch gebied en alpen"
           }
         },
@@ -1140,24 +656,6 @@
           "label": "Perforaties minder talrijk dan in de vorige soort",
           "id": {
             "pollen_key": "rubus_saxatilis",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_4.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_2.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_3.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_5.png",
-                "imageWidthPx": 70
-              }
-            ],
             "note": "bron PalDat (Auer 2021)"
           }
         }
@@ -1172,11 +670,11 @@
           "next": "27",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1186,11 +684,11 @@
           "next": "28",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1204,74 +702,20 @@
         {
           "label": "Langste as 25.4 µm; exine 1.7 µm",
           "id": {
-            "pollen_key": "rosa_rubiginosa",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_1.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_2.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_3.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_4.png",
-                "imageWidthPx": 70
-              }
-            ]
+            "pollen_key": "rosa_rubiginosa"
           }
         },
         {
           "label": "Langste as 32.5 µm; exine 1.2 µm",
           "id": {
             "pollen_key": "rosa_pimpinellifolia",
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/rosa_spinosissima_ed.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/pollenwiki/rosa_spinosissima_eo.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/pollenwiki/rosa_spinosissima_pd.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/pollenwiki/rosa_spinosissima_po.png",
-                "imageWidthPx": 83
-              }
-            ],
             "note": "synoniem *Rosa spinosissima*"
           }
         },
         {
           "label": "Langste as 27.3 µm; exine 1.5 µm (pollen soms sferoïdaal)",
           "id": {
-            "pollen_key": "rosa_canina",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_1.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_2.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_3.png",
-                "imageWidthPx": 83
-              },
-              {
-                "image": "../../assets/images/by-taxon/rosa_canina/rosa_canina_4.png",
-                "imageWidthPx": 83
-              }
-            ]
+            "pollen_key": "rosa_canina"
           }
         }
       ]
@@ -1285,11 +729,11 @@
           "next": "29",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1299,11 +743,11 @@
           "next": "32",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1319,11 +763,11 @@
           "next": "30",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1333,11 +777,11 @@
           "next": "31",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1351,25 +795,7 @@
         {
           "label": "Langste as 22.0 µm",
           "id": {
-            "pollen_key": "sorbus_aucuparia",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_1.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_2.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_3.png",
-                "imageWidthPx": 70
-              },
-              {
-                "image": "../../assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_4.png",
-                "imageWidthPx": 70
-              }
-            ]
+            "pollen_key": "sorbus_aucuparia"
           }
         },
         {
@@ -1388,49 +814,13 @@
         {
           "label": "Vallae submeridionaal; pollen oblaat; langste as 26.8 µm",
           "id": {
-            "pollen_key": "prunus_avium",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_1.png",
-                "imageWidthPx": 98
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_2.png",
-                "imageWidthPx": 98
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_3.png",
-                "imageWidthPx": 98
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_avium/prunus_avium_4.png",
-                "imageWidthPx": 98
-              }
-            ]
+            "pollen_key": "prunus_avium"
           }
         },
         {
           "label": "Vallae submeridionaal tot subtransversaal; pollen meestal sferoïdaal; langste as 31.1 µm",
           "id": {
-            "pollen_key": "prunus_spinosa",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_1.png",
-                "imageWidthPx": 103
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_2.png",
-                "imageWidthPx": 103
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_3.png",
-                "imageWidthPx": 103
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_spinosa/prunus_spinosa_4.png",
-                "imageWidthPx": 103
-              }
-            ]
+            "pollen_key": "prunus_spinosa"
           }
         }
       ]
@@ -1442,25 +832,7 @@
         {
           "label": "Vallae kort en breed; sterk gebogen, snel versmallend naar de uiteinden (vermiculaat), duidelijk opaak; costae colpi en ingesnoerde colpus aanwezig; langste as 31.0 µm",
           "id": {
-            "pollen_key": "prunus_padus",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_1.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_2.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_3.png",
-                "imageWidthPx": 90
-              },
-              {
-                "image": "../../assets/images/by-taxon/prunus_padus/prunus_padus_4.png",
-                "imageWidthPx": 90
-              }
-            ]
+            "pollen_key": "prunus_padus"
           }
         },
         {
@@ -1468,11 +840,11 @@
           "next": "33",
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1486,49 +858,13 @@
         {
           "label": "Colpus lang; PAI 0.10; costae colpi aanwezig; langste as 27.0 µm",
           "id": {
-            "pollen_key": "malus_sylvestris",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_1.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_2.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_3.png",
-                "imageWidthPx": 78
-              },
-              {
-                "image": "../../assets/images/by-taxon/malus_sylvestris/malus_sylvestris_4.png",
-                "imageWidthPx": 78
-              }
-            ]
+            "pollen_key": "malus_sylvestris"
           }
         },
         {
           "label": "PAI 0.16; costae colpi afwezig; langste as 22.0 µm",
           "id": {
-            "pollen_key": "dryas_octopetala",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_1.png",
-                "imageWidthPx": 75
-              },
-              {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_2.png",
-                "imageWidthPx": 75
-              },
-              {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_3.png",
-                "imageWidthPx": 75
-              },
-              {
-                "image": "../../assets/images/by-taxon/dryas_octopetala/dryas_octopetala_4.png",
-                "imageWidthPx": 75
-              }
-            ]
+            "pollen_key": "dryas_octopetala"
           }
         }
       ]

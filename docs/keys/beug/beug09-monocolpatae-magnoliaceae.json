@@ -19,51 +19,10 @@
           "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
           "next": null,
           "id": {
-            "name": "-",
             "pollen_key": "liriodendron_tulipifera",
-            "size": "-",
-            "source": "-",
-            "note": "9.4.1 Liriodendron tulipifera",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "9.4.1 Liriodendron tulipifera"
           },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "outcome": null
         },
         {
           "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens verspreide brochi tussen deze sculptuurelementen. Exine dunner als 2 µm (tabel 9: 12–14).",
@@ -77,19 +36,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -97,19 +56,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]

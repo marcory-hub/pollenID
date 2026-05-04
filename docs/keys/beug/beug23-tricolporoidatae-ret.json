@@ -22,19 +22,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -46,19 +46,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -82,19 +82,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -102,19 +102,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -126,19 +126,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -154,51 +154,10 @@
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
           "next": null,
           "id": {
-            "name": "-",
             "pollen_key": "sambucus_ebulus",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "-"
           },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "outcome": null
         },
         {
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
@@ -212,19 +171,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -232,19 +191,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -263,19 +222,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -287,19 +246,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -323,19 +282,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -343,19 +302,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -367,19 +326,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -403,19 +362,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -423,19 +382,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -444,51 +403,10 @@
           "label": "PK 30-40 µm groot, Elemente der rugulaten Sculpturierung dicht gestellt, vaak vernetzt (Tafel 80: 6-9).",
           "next": null,
           "id": {
-            "name": "-",
             "pollen_key": "robinia_pseudoacacia",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "-"
           },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "outcome": null
         }
       ]
     },
@@ -509,19 +427,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -529,19 +447,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -553,19 +471,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -584,19 +502,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -608,19 +526,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -644,19 +562,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -664,19 +582,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -688,19 +606,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -724,19 +642,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -744,19 +662,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -773,19 +691,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -793,19 +711,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -824,19 +742,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -848,19 +766,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -879,19 +797,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -903,19 +821,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -931,51 +849,10 @@
           "label": "columella's unter de Muri z.T. dubbelrijig, Brochi Poriën duidelijk kleiner als op de Intercolpiën, PK sferoïdisch, zelden zwak prolaat (Cercis).",
           "next": null,
           "id": {
-            "name": "-",
             "pollen_key": "cercis_siliquastrum",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "-"
           },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "outcome": null
         },
         {
           "label": "columella's unter de Muri altijd enkelrijig. Brochi Poriën niet kleiner als op de intercolpiumrandenn. PK prolaat tot sferoïdisch (Tafel 80: 26-35, Tafel 81: 1-16).",
@@ -989,19 +866,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1009,19 +886,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1045,19 +922,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1065,19 +942,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1089,19 +966,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1125,19 +1002,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1145,19 +1022,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1169,19 +1046,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1205,19 +1082,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1225,19 +1102,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1254,19 +1131,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1274,19 +1151,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1305,19 +1182,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1329,19 +1206,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1365,19 +1242,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1385,19 +1262,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1409,19 +1286,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1445,19 +1322,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1465,19 +1342,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1494,19 +1371,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1514,19 +1391,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1545,19 +1422,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1569,19 +1446,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1605,19 +1482,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1625,19 +1502,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1649,19 +1526,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1685,19 +1562,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1705,19 +1582,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1729,19 +1606,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1760,19 +1637,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1789,19 +1666,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1809,19 +1686,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1845,19 +1722,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1865,19 +1742,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1894,19 +1771,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1914,19 +1791,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1950,19 +1827,19 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+                "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
             ]
@@ -1970,19 +1847,19 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             },
             {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
+              "image": "../../assets/images/non-pollen/placeholder.png",
               "imageWidthPx": 1
             }
           ]
@@ -1991,51 +1868,10 @@
           "label": "PK 20-28 µm groot, meestal sferoïdisch, Muri etwa so breit wie der Diameter der Lumina of nur wenig schmäler, columella's nur vereinzelnt dubbelrijig (Tafel 83: 24-28).",
           "next": null,
           "id": {
-            "name": "-",
             "pollen_key": "cercis_siliquastrum",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-                "imageWidthPx": 1
-              }
-            ]
+            "note": "-"
           },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/pollenwiki/placeholder_pd.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "outcome": null
         }
       ]
     }
