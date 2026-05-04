@@ -185,36 +185,36 @@
     return s || l;
   }
 
-  function parseSizeNumber(s) {
-    if (s == null) return null;
-    const m = String(s).match(/(\d+(?:[.,]\d+)?)/);
-    if (!m) return null;
-    const n = parseFloat(m[1].replace(",", "."));
-    return Number.isFinite(n) ? n : null;
+  /** Parse a free-form size string (µm) and return the largest numeric token (matches Kerkvliet parseMaxUm). */
+  function parseMaxUm(sizeRaw) {
+    if (typeof sizeRaw !== "string") return null;
+    const s = String(sizeRaw)
+      .replace(/,/g, ".")
+      .replace(/[^\d.x\-\(\)\/ ]+/g, " ")
+      .trim();
+    if (!s) return null;
+    const nums = s.match(/\d+(?:\.\d+)?/g);
+    if (!nums || nums.length === 0) return null;
+    let max = null;
+    nums.forEach(function (n) {
+      const v = parseFloat(n);
+      if (!Number.isFinite(v)) return;
+      if (max === null || v > max) max = v;
+    });
+    return max;
   }
 
-  /**
-   * True-scale conversion factor for keys: 2,5 px per µm applied to the
-   * average of smallest_size and largest_size. Matches the widthPx/heightPx
-   * values stored elsewhere in the repo and the project rule in
-   * project-reference.mdc.
-   */
-  function heightPxFromSize(size) {
+  /** Display width in px: round(max_um * 2.5); default 50 µm => 125 px. */
+  function widthPxFromSizeMax(size) {
     if (!size || typeof size !== "object") return null;
-    const a = parseSizeNumber(size.smallest_size);
-    const b = parseSizeNumber(size.largest_size);
-    let avg = null;
-    if (a != null && b != null) avg = (a + b) / 2;
-    else if (a != null) avg = a;
-    else if (b != null) avg = b;
-    if (avg == null || avg <= 0) return null;
-    return Math.round(2.5 * avg);
+    const raw = (String(size.smallest_size || "").trim() + " " + String(size.largest_size || "").trim()).trim();
+    if (!raw) return null;
+    const maxUm = parseMaxUm(raw);
+    if (maxUm == null || maxUm <= 0) return null;
+    return Math.round(2.5 * maxUm);
   }
 
-  // Conservative height when pollen.yaml has no size for a taxon. Prevents
-  // fallback images from rendering at the default 320 px max-width. Populate
-  // the size fields in data/pollen.yaml to switch to true-scale (2,5 px/µm).
-  const FALLBACK_IMAGE_HEIGHT_PX = 100;
+  const FALLBACK_DISPLAY_WIDTH_PX = 125;
 
   /** Eén visuele rij thumbnails in interactieve sleutels; voorkomt mix van 128 px + 250 px op dezelfde keuze. */
   const POLLEN_THUMB_ROW_MAX_PX = 112;
@@ -257,16 +257,25 @@
     }
   }
 
-  function tileHeightPxFromPollenJsonImage(im, entryFallbackPx) {
+  function tileWidthPxFromPollenJsonImage(im, entryFallbackPx) {
+    if (typeof im.imageWidthPx === "number" && im.imageWidthPx > 0) return im.imageWidthPx;
+    if (typeof im.width_px === "number" && im.width_px > 0) return im.width_px;
     if (typeof im.imageHeightPx === "number" && im.imageHeightPx > 0) return im.imageHeightPx;
     if (typeof im.height_px === "number" && im.height_px > 0) return im.height_px;
     if (typeof im.heightPx === "number" && im.heightPx > 0) return im.heightPx;
     return entryFallbackPx;
   }
 
+  function displayWidthFromPollenEntry(entry) {
+    if (entry && typeof entry.display_width_px === "number" && entry.display_width_px > 0) {
+      return entry.display_width_px;
+    }
+    return widthPxFromSizeMax(entry && entry.size) || FALLBACK_DISPLAY_WIDTH_PX;
+  }
+
   function imagesFromIndexEntry(entry) {
     if (!entry || !Array.isArray(entry.images)) return [];
-    const h = heightPxFromSize(entry.size) || FALLBACK_IMAGE_HEIGHT_PX;
+    const wFb = displayWidthFromPollenEntry(entry);
     const out = [];
     entry.images.forEach(function (im) {
       if (im && typeof im.path === "string" && im.path) {
@@ -276,8 +285,8 @@
         if (docsRootUrl) {
           try { src = new URL(im.path, docsRootUrl).href; } catch (e) { /* keep raw */ }
         }
-        const tile = tileHeightPxFromPollenJsonImage(im, h);
-        out.push({ image: src, imageHeightPx: tile });
+        const tileW = tileWidthPxFromPollenJsonImage(im, wFb);
+        out.push({ image: src, imageWidthPx: tileW });
       }
     });
     return out;
@@ -311,6 +320,7 @@
       size: formatSizeFromIndex(entry.size),
       images: images,
       note: typeof endpoint.note === "string" && endpoint.note.trim() ? endpoint.note : null,
+      links: entry.links && typeof entry.links === "object" ? entry.links : null,
     };
   }
 
@@ -329,6 +339,33 @@
       rows.push(["Grootte", esc(String(resolved.size))]);
     }
     rows.push(["Bron", "<code>pollen.yaml</code>"]);
+    if (resolved.links && typeof resolved.links === "object") {
+      const parts = [];
+      if (resolved.links.pollenx) {
+        parts.push(
+          '<a rel="noopener" target="_blank" href="' +
+            esc(String(resolved.links.pollenx)) +
+            '">PollenX</a>'
+        );
+      }
+      if (resolved.links.tstebler) {
+        parts.push(
+          '<a rel="noopener" target="_blank" href="' +
+            esc(String(resolved.links.tstebler)) +
+            '">Tstebler</a>'
+        );
+      }
+      if (resolved.links.paldat) {
+        parts.push(
+          '<a rel="noopener" target="_blank" href="' +
+            esc(String(resolved.links.paldat)) +
+            '">PalDat</a>'
+        );
+      }
+      if (parts.length) {
+        rows.push(["Atlas", parts.join(" · ")]);
+      }
+    }
     if (!isMissingValue(resolved.note)) {
       rows.push(["Opmerking", formatOutcomeRichText(String(resolved.note))]);
     }
@@ -360,20 +397,23 @@
   }
 
   function isPlaceholderImagePath(p) {
-    return typeof p === "string" && /\/PLACEHOLDER_[A-Za-z]+\.png$/i.test(p);
+    if (typeof p !== "string") return false;
+    if (/\/non-pollen\/placeholder\.png$/i.test(p)) return true;
+    if (/\/non-pollen\/placeholder_/i.test(p)) return true;
+    return /\/PLACEHOLDER_[A-Za-z]+\.png$/i.test(p);
   }
 
   function resolveNoImageFoundUrl(baseUrl) {
     // Always prefer the real docs root if we managed to compute it from pollen.json.
     if (docsRootUrl) {
       try {
-        return new URL("assets/images/placeholder/no_image_found.jpg", docsRootUrl).href;
+        return new URL("assets/images/non-pollen/no_image_found.jpg", docsRootUrl).href;
       } catch (e) {
         // fall through
       }
     }
     // Otherwise resolve from the current key/page location.
-    return resolveAssetUrl("../../assets/images/placeholder/no_image_found.jpg", baseUrl || document.baseURI);
+    return resolveAssetUrl("../../assets/images/non-pollen/no_image_found.jpg", baseUrl || document.baseURI);
   }
 
   /**

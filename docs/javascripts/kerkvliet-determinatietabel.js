@@ -193,20 +193,37 @@
     return s || l;
   }
 
+  function displayWidthFromPollenEntry(entry) {
+    if (entry && typeof entry.display_width_px === "number" && entry.display_width_px > 0) {
+      return entry.display_width_px;
+    }
+    const sz = entry && entry.size;
+    if (!sz || typeof sz !== "object") return 125;
+    const raw = (String(sz.smallest_size || "").trim() + " " + String(sz.largest_size || "").trim()).trim();
+    const m = parseMaxUm(raw);
+    if (m == null || m <= 0) return 125;
+    return Math.round(2.5 * m);
+  }
+
   function pollenRowImagesFromIndex(entry) {
     if (!entry || !Array.isArray(entry.images)) return [];
     const out = [];
+    const wFb = displayWidthFromPollenEntry(entry);
     entry.images.forEach(function (im) {
       if (!im || typeof im.path !== "string" || !im.path) return;
       var p = String(im.path).trim().replace(/^\.\.\/\.\.\/+/, "");
       if (p.indexOf("assets/") !== 0) return;
-      var h =
-        typeof im.height_px === "number" && im.height_px > 0
-          ? im.height_px
-          : typeof im.heightPx === "number" && im.heightPx > 0
-            ? im.heightPx
-            : 100;
-      out.push({ image: p, imageHeightPx: h });
+      var w =
+        typeof im.width_px === "number" && im.width_px > 0
+          ? im.width_px
+          : typeof im.imageWidthPx === "number" && im.imageWidthPx > 0
+            ? im.imageWidthPx
+            : typeof im.height_px === "number" && im.height_px > 0
+              ? im.height_px
+              : typeof im.heightPx === "number" && im.heightPx > 0
+                ? im.heightPx
+                : wFb;
+      out.push({ image: p, imageWidthPx: w });
     });
     return out;
   }

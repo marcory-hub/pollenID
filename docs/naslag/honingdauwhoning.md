@@ -9,7 +9,7 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/hde1.png" style="height: 175px; width: auto;" alt="HoneyDewElements">
+      <img src="../../../assets/images/non-pollen/hde1.png" style="height: 175px; width: auto;" alt="HoneyDewElements">
       <figcaption class="pid-scale-caption">Honingdauwhoning</figcaption>
     </figure>
   </div>
@@ -22,7 +22,7 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../../assets/images/persano_oddo/hde2.png" style="height: 175px; width: auto;" alt="HoneyDewElements">
+      <img src="../../../assets/images/non-pollen/hde2.png" style="height: 175px; width: auto;" alt="HoneyDewElements">
       <figcaption class="pid-scale-caption">Honingdauwhoning</figcaption>
     </figure>
   </div>

@@ -53,10 +53,6 @@
   box-shadow: var(--md-shadow-z1);
 }
 
-.pid-scale-row.pid-scale-row--grayscale img {
-  filter: grayscale(1);
-}
-
 .pid-scale-caption {
   font-size: 0.72rem;
   line-height: 1.15;
