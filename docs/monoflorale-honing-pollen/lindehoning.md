@@ -1,17 +1,6 @@
 # Lindehoning (Tilia-type (Linde species) Tiliaceae)
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_p_o.png" style="height: 175px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia+platyphyllos_e.png" style="height: 175px; width: auto;" alt="Tilia platyphyllos (pollen; equatoriaal aanzicht).">
-      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
-    </figure>
-  </div>
-</div>  
+{{ pollen_gallery("tilia_type_linde_species") }}
 
 ## Herkenning hoofdpollen
 
@@ -36,65 +25,7 @@
 
 ## Afbeeldingen
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_p_o.png" style="height: 175px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_p_d.png" style="height: 175px; width: auto;" alt="Tilia platyphyllos (pollen; polair aanzicht; focus op doorsnede).">
-      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia+platyphyllos_e.png" style="height: 175px; width: auto;" alt="Tilia platyphyllos (pollen; equatoriaal aanzicht).">
-      <figcaption class="pid-scale-caption">Tilia platyphyllos</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_kristals.png" width="111" alt="Tilia platyphyllos (calciumoxalaat kristallen).">
-      <figcaption class="pid-scale-caption">Calciumoxalaatkristallen</figcaption>
-    </figure>
-  </div>
-
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pd.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; polair aanzicht; focus op doorsnede).">
-      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pore_o.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; porie; focus op oppervlak).">
-      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pore_d.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; porie; focus op doorsnede).">
-      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_sculptuur.png" style="height: 175px; width: auto;" alt="Tilia spp (pollen; sculptuur).">
-      <figcaption class="pid-scale-caption">Tilia spp</figcaption>
-    </figure>
-  </div>
-
-
-  <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
-      <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
-      <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
-      <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
-      <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
-    </figure>
-  </div>
-</div>
+Drie LM-beelden van *Tilia platyphyllos* (Persano Oddo) plus calciumoxalaatkristallen; zie de galerij bovenaan deze pagina.
 
 ### Externe determinatiebronnen
 - **PollenX**: [Tilia platyphyllos](https://pollenx.eu/species.php?species=Tilia_platyphyllos)

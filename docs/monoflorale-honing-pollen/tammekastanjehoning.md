@@ -4,19 +4,15 @@
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
     </figure>
   </div>
 </div>
@@ -38,74 +34,6 @@
 | --- | --- |
 | **Aperturen** | tricolporaat |
 | **Ornamentatie** | psilaat, aperturen geen ornamentering |
-
-### Afbeeldingen
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_6.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_5.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_7.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-  </div>
-</div>
-
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 80px; width: auto;" alt="Castanea sativa, polair aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, oppervlak">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png" style="height: 80px; width: auto;" alt="Castanea sativa, equatoriaal aanzicht, doorsnede">
-      <figcaption class="pid-scale-caption">Castanea sativa</figcaption>
-    </figure>
-  </div>
-</div>
-<!-- Grijswaarde maatreferentie (vaste set; klein → groot). -->
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--grayscale pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_e_size17um.png" width="85" alt="Grijswaarde maatreferentie: Echium vulgare 17 µm.">
-      <figcaption class="pid-scale-caption">Echium (17 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/corylus_avallana_p_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Corylus avellana 26 µm.">
-      <figcaption class="pid-scale-caption">Corylus (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_size_26um.png" width="130" alt="Grijswaarde maatreferentie: Brassica napus 26 µm.">
-      <figcaption class="pid-scale-caption">Brassica (26 µm)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_size_40um.png" width="200" alt="Grijswaarde maatreferentie: Cichorium intybus 40 µm.">
-      <figcaption class="pid-scale-caption">Cichorium (40 µm)</figcaption>
-    </figure>
-  </div>
-</div>
 
 ### Externe determinatiebronnen
 - [PollenX](https://pollenx.eu/species.php?species=Castanea_sativa)

@@ -25,16 +25,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4_26.png" style="height: 65px; width: auto;" alt="Brassica napus">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_6.png" style="height: 65px; width: auto;" alt="Brassica napus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3_26.png" style="height: 65px; width: auto;" alt="Brassica napus">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_5.png" style="height: 65px; width: auto;" alt="Brassica napus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_2_26.png" style="height: 65px; width: auto;" alt="Brassica napus">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4.png" style="height: 65px; width: auto;" alt="Brassica napus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_1_26.png" style="height: 65px; width: auto;" alt="Brassica napus">
+      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png" style="height: 65px; width: auto;" alt="Brassica napus">
     </figure>
   </div>
 </div>
@@ -61,16 +61,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_5.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
     </figure>
   </div>
 </div>
@@ -80,16 +80,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_2.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
+      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_8.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_3.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_5.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
+      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_9.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/pollenwiki__fagopyrum_esculentum_6.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
+      <img src="../../assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_10.png" style="height: 128px; width: auto;" alt="Fagopyrum esculentum">
     </figure>
   </div>
 </div>
@@ -98,16 +98,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
       <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-2.png" style="height: 128px; width: auto;" alt="Calluna vulgaris not hydrated">
+      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png" style="height: 128px; width: auto;" alt="Calluna vulgaris not hydrated">
     </figure>
       <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris.png" style="height: 128px; width: auto;" alt="Calluna vulgaris.">
+      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png" style="height: 128px; width: auto;" alt="Calluna vulgaris.">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-3.png" style="height: 128px; width: auto;" alt="Calluna vulgaris not hydrated">
+      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png" style="height: 128px; width: auto;" alt="Calluna vulgaris not hydrated">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna-vulgaris-4.png" style="height: 128px; width: auto;" alt="Calluna vulgaris hydrated">
+      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png" style="height: 128px; width: auto;" alt="Calluna vulgaris hydrated">
     </figure>
  </div>
 </div>
@@ -122,10 +122,10 @@
       <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 40px; width: auto;" alt="Castanea sativa">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_2.png" style="height: 40px; width: auto;" alt="Castanea sativa">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png" style="height: 40px; width: auto;" alt="Castanea sativa">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/pollenwiki__castanea_sativa_1.png" style="height: 40px; width: auto;" alt="Castanea sativa">
+      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png" style="height: 40px; width: auto;" alt="Castanea sativa">
     </figure>
   </div>
 </div>
@@ -134,16 +134,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_pd.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_eo.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis.">
+      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis.">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/salix_alba_var_tristis_po.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
+      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
     </figure>
   </div>
 </div>
@@ -155,22 +155,22 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_4.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_10.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
-    </figure>
-    <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_3.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_2.png" style="height: 75px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_5.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_5.png" style="height: 75px; width: auto;" alt="Rubus fruticosus.">
+      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_2.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_4.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
+      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png" style="height: 75px; width: auto;" alt="Rubus fruticosus.">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_4.png" style="height: 75px; width: auto;" alt="Rubus fruticosus.">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_3.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
     </figure>
   </div>
 </div>
@@ -179,13 +179,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_3.png" style="height: 83px; width: auto;" alt="Rhododendron spp">
+      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_3.png" style="height: 83px; width: auto;" alt="Rhododendron spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_4.png" style="height: 83px; width: auto;" alt="Rhododendron sp">
+      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_4.png" style="height: 83px; width: auto;" alt="Rhododendron sp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_sp_sculptuur.png" style="height: 83px; width: auto;" alt="Rhododendron spp">
+      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_5.png" style="height: 83px; width: auto;" alt="Rhododendron spp">
     </figure>
   </div>
 </div>
@@ -194,13 +194,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_4.png" style="height: 83px; width: auto;" alt="Trifolium_pratense">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_10.png" style="height: 83px; width: auto;" alt="Trifolium_pratense">
-    </figure>
-    <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_2.png" style="height: 83px; width: auto;" alt="Trifolium_pratense">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png" style="height: 83px; width: auto;" alt="Trifolium_pratense">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_1.png" style="height: 83px; width: auto;" alt="Trifolium_pratense">
     </figure>
   </div>
 </div>
@@ -209,10 +209,10 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_3.png" style="height: 80px; width: auto;" alt="Rosmarinus officinalis">
+      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png" style="height: 80px; width: auto;" alt="Rosmarinus officinalis">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_sculptuur.png" style="height: 80px; width: auto;" alt="Rosmarinus officinalis">
+      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_2.png" style="height: 80px; width: auto;" alt="Rosmarinus officinalis">
     </figure>
   </div>
 </div>
@@ -221,13 +221,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_1.png" style="height: 85px; width: auto;" alt="Thymus vulgaris">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_2.png" style="height: 85px; width: auto;" alt="Thymus vulgaris">
+    </figure>
+    <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_3.png" style="height: 85px; width: auto;" alt="Thymus vulgaris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_apertuur.png" style="height: 85px; width: auto;" alt="Thymus vulgaris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/thymus_vulgaris/thymus_vulgaris_sculptuur.png" style="height: 85px; width: auto;" alt="Thymus vulgaris">
     </figure>
   </div>
 </div>
@@ -236,16 +236,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium-repens_4.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_4.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium-repens_3.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_3.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium-repens_2.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_2.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium-repens_1.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
+      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png" style="height: 58px; width: auto;" alt="Trifolium-repens (21-25 µm)">
     </figure>
   </div>
 </div> 
@@ -257,7 +257,7 @@
       <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png" style="height: 105px; width: auto;" alt="Helianthus annuus">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/helianthus_annuus/pollenwiki__helianthus_annuus_3.png" style="height: 105px; width: auto;" alt="Helianthus annuus">
+      <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png" style="height: 105px; width: auto;" alt="Helianthus annuus">
     </figure>
     <figure class="pid-scale-item">
       <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png" style="height: 105px; width: auto;" alt="Helianthus annuus">
@@ -275,13 +275,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_3.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_1.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_sculpture.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_2.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_sculpture2.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_3.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
   </div>
 </div> 
@@ -290,79 +290,52 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_3.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
+      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_1.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_apertuur.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
+      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_sculptuur.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
+      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_7.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
     </figure>
   </div>
 </div> 
 
 #### [Linde](lindehoning.md) (II vlgx Persano Oddo)(1-56%)
+{{ pollen_gallery("tilia_type_linde_species") }}
+
+#### [Taraxacum officinale](paardenbloemhoning.md) (paardenbloem) (5-40%)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_p_o.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
+      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_p_d.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
+      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia+platyphyllos_e.png" style="height: 80px; width: auto;" alt="Tilia platyphyllos">
+      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/tilia_platyphyllos_kristals.png" width="111" alt="calciumoxalaat kristallen">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pd.png" style="height: 80px; width: auto;" alt="Tilia spp">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pore_o.png" style="height: 80px; width: auto;" alt="Tilia spp">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_pore_d.png" style="height: 80px; width: auto;" alt="Tilia spp">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/persano_oddo/tilia_spp_sculptuur.png" style="height: 80px; width: auto;" alt="Tilia spp">
+      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
     </figure>
   </div>
 </div>
 
-#### [Paardenbloem](paardenbloemhoning.md) (5-40%)
+#### [Robinia pseudoacacia](valse-acacia.md) (meestal groep I, II volgens Persano Oddo) (7-60%)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/pollenwiki__taraxacum_officinale_4.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png" style="height: 75px; width: auto;" alt="Robinia pseudoacacia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/pollenwiki__taraxacum_officinale_3.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png" style="height: 75px; width: auto;" alt="Robinia pseudoacacia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png" style="height: 75px; width: auto;" alt="Robinia pseudoacacia">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png" style="height: 70px; width: auto;" alt="Taraxacum_officinale">
-    </figure>
-  </div>
-</div>
-
-#### [Robinia (pseudoacacia)](valse-acacia.md) (meestal groep I, II vlgs Persano Oddo) (7-60%)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 75px; width: auto;" alt="Robinia_pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_3.png" style="height: 75px; width: auto;" alt="Robinia_pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png" style="height: 75px; width: auto;" alt="Robinia_pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/pollenwiki__robinia_pseudoacacia_4.png" style="height: 75px; width: auto;" alt="Robinia_pseudoacacia">
+      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png" style="height: 75px; width: auto;" alt="Robinia pseudoacacia">
     </figure>
   </div>
 </div>
@@ -376,20 +349,20 @@
 #### Crambe (bolletjeskool) (I)
 
 ### to be determined
-#### [Liguster](ligusterhoning.md)
+#### [Ligustrum vulgare](ligusterhoning.md) (liguster)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/liguster_vulgare_po.png" style="height: 78px; width: auto;" alt="Ligustrum_vulgare">
+      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/liguster_vulgare_pd.png" style="height: 78px; width: auto;" alt="Ligustrum_vulgare">
+      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/liguster_vulgare_eo.png" style="height: 78px; width: auto;" alt="Ligustrum_vulgare">
+      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/pollenwiki/liguster_vulgare_po.png" style="height: 78px; width: auto;" alt="Ligustrum_vulgare">
+      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
   </div>
 </div>
