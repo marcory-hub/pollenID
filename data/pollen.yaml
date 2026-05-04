@@ -9783,15 +9783,6 @@ spirea_x_vanhouttei:
   pe_ratio:
   aperture:
   ornamentation: glad
-  images:
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis-idaea_2.png
-      kind: pollenwiki
-      source: pollenwiki
   image:
     height_px: 42
   bloeitijd:

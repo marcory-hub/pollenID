@@ -442,7 +442,16 @@
         if (!im || !im.image) return;
         const img = document.createElement("img");
         img.src = resolveAssetUrl(im.image);
-        img.alt = "Afbeelding";
+        img.alt = "";
+        img.loading = "lazy";
+        img.decoding = "async";
+        img.addEventListener("error", function () {
+          img.remove();
+          if (row.childElementCount === 0) {
+            const tr = td.closest("tr");
+            if (tr) tr.remove();
+          }
+        });
         img.style.display = "block";
         img.style.height = "auto";
         img.style.borderRadius = "4px";
