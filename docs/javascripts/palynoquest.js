@@ -55,8 +55,9 @@
     return Promise.all([
       fetchJson("../../assets/manifests/keys.json"),
       fetchJson("../../assets/manifests/palynoquest-items.json"),
+      fetchJson("../../data/pollen.json"),
     ]).then(function (xs) {
-      return { keys: xs[0], items: xs[1] };
+      return { keys: xs[0], items: xs[1], pollen: xs[2] };
     });
   }
 
@@ -95,6 +96,23 @@
     return parts[0] + "_" + parts[1];
   }
 
+  function buildImageToSlugFromPollen(pollen) {
+    var map = {};
+    if (!pollen || typeof pollen !== "object") return map;
+    Object.keys(pollen).forEach(function (slug) {
+      var rec = pollen[slug];
+      if (!rec || typeof rec !== "object") return;
+      var imgs = rec.images;
+      if (!Array.isArray(imgs)) return;
+      imgs.forEach(function (im) {
+        if (!im || typeof im.path !== "string" || !im.path) return;
+        var p = im.path.replace(/^\//, "").replace(/^\.\//, "");
+        map[p] = slug;
+      });
+    });
+    return map;
+  }
+
   function bootOne(root) {
     var state = {
       keys: [],
@@ -106,6 +124,8 @@
       pendingJump: false,
       endpointToExample: {},
       groupToImages: {},
+      pollen: {},
+      imageToSlug: {},
     };
 
     var imgEl = qs(root, "[data-pq-image]");
@@ -123,6 +143,7 @@
     var pathEl = qs(root, "[data-pq-path]");
     var wrongPreviewEl = qs(root, "[data-pq-wrongpreview]");
     var galleryEl = qs(root, "[data-pq-gallery]");
+    var infoEl = qs(root, "[data-pq-info]");
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -290,6 +311,124 @@
       galleryEl.appendChild(row);
     }
 
+    function slugForCurrentItem(item) {
+      if (!item || typeof item.image !== "string" || !item.image) return "";
+      var rel = item.image.replace(/^\//, "").replace(/^\.\//, "");
+      if (state.imageToSlug[rel]) return state.imageToSlug[rel];
+      return groupKeyFromImagePath(item.image) || "";
+    }
+
+    function clearInfo() {
+      if (!infoEl) return;
+      infoEl.hidden = true;
+      infoEl.replaceChildren();
+    }
+
+    function linkLabelForPollenLinkKey(key) {
+      var k = String(key || "").toLowerCase();
+      if (k === "pollenx") return "PollenX";
+      if (k === "tstebler") return "Tstebler";
+      if (k === "paldat") return "PalDat";
+      return esc(key);
+    }
+
+    function renderInfo(slug) {
+      if (!infoEl) return;
+      infoEl.replaceChildren();
+      if (!slug || !state.pollen || typeof state.pollen !== "object") {
+        infoEl.hidden = true;
+        return;
+      }
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") {
+        infoEl.hidden = true;
+        return;
+      }
+
+      function addRow(dl, labelHtml, valueHtml) {
+        var dt = document.createElement("dt");
+        dt.style.fontWeight = "600";
+        dt.style.marginTop = "6px";
+        dt.innerHTML = labelHtml;
+        var dd = document.createElement("dd");
+        dd.style.margin = "0 0 0 0.75rem";
+        dd.innerHTML = valueHtml;
+        dl.appendChild(dt);
+        dl.appendChild(dd);
+      }
+
+      var dl = document.createElement("dl");
+      dl.style.margin = "0";
+      dl.style.fontSize = "0.85rem";
+
+      if (!isMissingValue(rec.latin)) {
+        addRow(dl, "Latijnse naam", "<em>" + esc(rec.latin) + "</em>");
+      }
+      if (!isMissingValue(rec.dutch)) {
+        addRow(dl, "Nederlandse naam", esc(rec.dutch));
+      }
+      if (!isMissingValue(rec.family)) {
+        addRow(dl, "Familie", esc(rec.family));
+      }
+      if (!isMissingValue(rec.shape)) {
+        addRow(dl, "Vorm", esc(rec.shape));
+      }
+      if (!isMissingValue(rec.ornamentation)) {
+        addRow(dl, "Ornamentatie", esc(rec.ornamentation));
+      }
+      if (!isMissingValue(rec.aperture)) {
+        addRow(dl, "Apertuur", esc(rec.aperture));
+      }
+      var sz = rec.size;
+      if (sz && typeof sz === "object") {
+        var a = !isMissingValue(sz.smallest_size) ? String(sz.smallest_size).trim() : "";
+        var b = !isMissingValue(sz.largest_size) ? String(sz.largest_size).trim() : "";
+        var sizeStr = "";
+        if (a && b) {
+          sizeStr = a === b ? a : a + " – " + b;
+        } else {
+          sizeStr = a || b || "";
+        }
+        if (sizeStr) {
+          addRow(dl, "Grootte", esc(sizeStr));
+        }
+      }
+      var links = rec.links;
+      if (links && typeof links === "object") {
+        var parts = [];
+        Object.keys(links).forEach(function (lk) {
+          var url = links[lk];
+          if (isMissingValue(url)) return;
+          parts.push(
+            '<a href="' +
+              esc(String(url)) +
+              '" target="_blank" rel="noopener">' +
+              linkLabelForPollenLinkKey(lk) +
+              "</a>"
+          );
+        });
+        if (parts.length) {
+          addRow(dl, "Externe links", parts.join(" · "));
+        }
+      }
+
+      if (!dl.childNodes.length) {
+        infoEl.hidden = true;
+        return;
+      }
+
+      var wrap = document.createElement("div");
+      wrap.className = "admonition info";
+      wrap.style.margin = "0";
+      var title = document.createElement("p");
+      title.innerHTML = "<strong>Pollengegevens</strong>";
+      title.style.margin = "0 0 8px 0";
+      wrap.appendChild(title);
+      wrap.appendChild(dl);
+      infoEl.appendChild(wrap);
+      infoEl.hidden = false;
+    }
+
     function buildMcq(item) {
       if (!mcqEl) return;
       mcqEl.replaceChildren();
@@ -367,7 +506,9 @@
           );
           if (o.correct) {
             clearWrongPreview();
+            renderInfo(slugForCurrentItem(state.current));
           } else {
+            clearInfo();
             showWrongPreview(o);
           }
         });
@@ -400,6 +541,7 @@
       }
       setMcqStatus("");
       clearWrongPreview();
+      clearInfo();
       // Gallery stays visible for this question.
       if (pathEl) {
         pathEl.hidden = true;
@@ -604,6 +746,10 @@
       .then(function (all) {
         state.keys = buildKeyOptions(all.keys || {});
         state.items = (all.items && all.items.items) || [];
+        var pollenRoot = all.pollen;
+        state.pollen =
+          pollenRoot && typeof pollenRoot === "object" && !Array.isArray(pollenRoot) ? pollenRoot : {};
+        state.imageToSlug = buildImageToSlugFromPollen(state.pollen);
         state.endpointToExample = {};
         state.groupToImages = {};
         (state.items || []).forEach(function (it) {

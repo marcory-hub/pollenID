@@ -9,6 +9,7 @@
       <p style="margin: 12px 0 0 0;">
         <button data-pq-next type="button" class="md-button">Volgende (random)</button>
       </p>
+      <div data-pq-info hidden style="margin-top: 12px;"></div>
     </div>
 
     <div style="min-width: min(320px, 100%);">
