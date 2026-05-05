@@ -4,7 +4,7 @@
     "title": "1. Pollenklasse (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "status: diagonaal gecontroleerd",
+    "note": "status: bezig met images linken",
     "stepCount": 20,
     "start": "1"
   },
@@ -22,20 +22,16 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
+              "imageHeightPx": 20
             },
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
+              "imageHeightPx": 20
             },
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/acacia_dealbata/acacia_dealbata_1.png",
+              "imageHeightPx": 20
             }
           ]
         },
@@ -46,20 +42,8 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/echium_vulgare/echium_vulgare_1.png",
+              "imageHeightPx": 20
             }
           ]
         }
@@ -82,20 +66,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/acacia_dealbata/acacia_dealbata_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -103,19 +75,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -126,20 +98,12 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
+              "imageHeightPx": 20
             },
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
+              "imageHeightPx": 20
             }
           ]
         }
@@ -154,7 +118,7 @@
           "label": "PK per vier verenigd.",
           "next": null,
           "id": {
-            "name": "Tetradeae",
+            "name": "[Tetradeae](beug04-tetradeae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -162,20 +126,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -183,19 +135,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -203,7 +155,7 @@
           "label": "PK per twee verenigd.",
           "next": null,
           "id": {
-            "name": "Dyadeae",
+            "name": "[Dyadeae](beug02-dyadeae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -211,20 +163,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -232,19 +172,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -259,7 +199,7 @@
           "label": "PK met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
           "next": null,
           "id": {
-            "name": "Vesiculatae",
+            "name": "[Vesiculatae](beug05-vesiculatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -267,20 +207,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/pinus_nigra/pinus_nigra_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -288,19 +216,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -312,19 +240,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -336,7 +264,7 @@
       "note": "-",
       "choices": [
         {
-          "label": "PK zonder poriën of colpi, deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: alleen *Ephedra*).",
+          "label": "PK zonder poriën of colpi, deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: *Ephedra* (zeedruif) en *Welwitschia mirabilis* (tweeblaarkanniedood)).",
           "next": null,
           "id": {
             "name": "Inaperturatae (1), Polyplicatae (2)",
@@ -347,20 +275,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/crocus_tommasinianus/crocus_tommasinianus_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -368,19 +284,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -392,19 +308,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -419,7 +335,7 @@
           "label": "PK met ronde of hoekige zones (lacunae) waarin de extexine ontbreekt en die door ribben zijn omzoomd.",
           "next": null,
           "id": {
-            "name": "Fenestratae",
+            "name": "[Fenestratae](beug06-fenestratae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -427,20 +343,12 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png",
+                "imageHeightPx": 20
               },
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_3.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -448,19 +356,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -472,19 +380,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -502,20 +410,12 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/zea_mays/zea_mays_1.png",
+              "imageHeightPx": 20
             },
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_3.png",
+              "imageHeightPx": 20
             }
           ]
         },
@@ -527,19 +427,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -554,7 +454,7 @@
           "label": "PK met 1 porie.",
           "next": null,
           "id": {
-            "name": "Monoporatae",
+            "name": "[Monoporatae](beug08-monoporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -562,20 +462,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/zea_mays/zea_mays_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -583,19 +471,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -611,20 +499,12 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_2.png",
+                "imageHeightPx": 20
               },
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_3.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -632,19 +512,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -659,7 +539,7 @@
           "label": "Colpi met een ring- of schroefvormig verloop of met twee of drie colpi die polair met elkaar verbonden zijn, of met colpi die het oppervlak van de PK in hoekige zones verdelen en met elkaar verbonden zijn.",
           "next": null,
           "id": {
-            "name": "Syncolpatae",
+            "name": "[Syncolpatae](beug10-syncolpatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -667,20 +547,12 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_2.png",
+                "imageHeightPx": 20
               },
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/passiflora_caerulea/passiflora_caerulea_1.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -688,19 +560,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -712,19 +584,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -742,20 +614,8 @@
           "outcome": null,
           "images": [
             {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "image": "../../assets/images/by-taxon/hypecoum_procumbens/hypecoum_procumbens_1.png",
+              "imageHeightPx": 20
             }
           ]
         },
@@ -767,19 +627,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -798,19 +658,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -818,7 +678,7 @@
           "label": "PK met 2 colpi die equatoriaal elk een porie bezitten.",
           "next": null,
           "id": {
-            "name": "Dicolporatae",
+            "name": "[Dicolporatae](beug12-dicolporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -827,19 +687,19 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -847,19 +707,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -874,7 +734,7 @@
           "label": "PK met 2 colpi.",
           "next": null,
           "id": {
-            "name": "Dicolpatae",
+            "name": "[Dicolpatae](beug11-dicolpatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -883,19 +743,19 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -903,19 +763,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -923,7 +783,7 @@
           "label": "PK met 2 poriën.",
           "next": null,
           "id": {
-            "name": "Diporatae",
+            "name": "[Diporatae](beug13-diporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -932,19 +792,19 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 10
+                "imageHeightPx": 10
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 10
+                "imageHeightPx": 10
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -952,19 +812,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -979,7 +839,7 @@
           "label": "PK met 3 poriën.",
           "next": null,
           "id": {
-            "name": "Triporatae",
+            "name": "[Triporatae](beug14-triporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -987,20 +847,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/corylus_avellana/corylus_avellana_3.png",
+                "imageHeightPx": 1
               }
             ]
           },
@@ -1008,19 +856,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1032,19 +880,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1059,7 +907,7 @@
           "label": "PK met 3 colpi (a–b) of bovendien met 3 in het midden van de colpi georiënteerde poriën (c–d) of porieachtige wijzigingen (niet afgebeeld).",
           "next": null,
           "id": {
-            "name": "Tricolpatae, Tricolporatae, Tricolporoidatae",
+            "name": "[Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolporatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1068,19 +916,19 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -1088,19 +936,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1112,19 +960,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1143,19 +991,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1167,19 +1015,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1198,19 +1046,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1222,19 +1070,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1249,7 +1097,7 @@
           "label": "PK alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
           "next": null,
           "id": {
-            "name": "Stephanocolpatae",
+            "name": "[Stephanocolpatae](beug17-stephanocolpatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1257,20 +1105,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_4.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -1278,19 +1114,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1298,7 +1134,7 @@
           "label": "PK alleen met poriën.",
           "next": null,
           "id": {
-            "name": "Stephanoporatae",
+            "name": "[Stephanoporatae](beug18-stephanoporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1306,20 +1142,12 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_2.png",
+                "imageHeightPx": 20
               },
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_4.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -1327,19 +1155,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1354,7 +1182,7 @@
           "label": "Elke colpus heeft een porie (geen patroon ‘slechts om de andere’ colpus met porie).",
           "next": null,
           "id": {
-            "name": "Stephanocolporatae",
+            "name": "[Stephanocolporatae](beug19-stephanocolporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1362,20 +1190,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/symphytum_officinale/symphytum_officinale_2.png",
+                "imageHeightPx": 1
               }
             ]
           },
@@ -1383,19 +1199,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1403,7 +1219,7 @@
           "label": "Slechts elke tweede colpus met een porie.",
           "next": null,
           "id": {
-            "name": "Heterocolpatae",
+            "name": "[Heterocolpatae](beug20-heterocolpatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1411,20 +1227,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -1432,19 +1236,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1459,7 +1263,7 @@
           "label": "PK alleen met poriën.",
           "next": null,
           "id": {
-            "name": "Periporatae",
+            "name": "[Periporatae](beug21-periporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1467,20 +1271,8 @@
             "incomplete": false,
             "images": [
               {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "image": "../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_3.png",
+                "imageHeightPx": 20
               }
             ]
           },
@@ -1488,19 +1280,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1512,19 +1304,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
@@ -1539,7 +1331,7 @@
           "label": "PK colpaat.",
           "next": null,
           "id": {
-            "name": "Pericolpatae",
+            "name": "[Pericolpatae](beug22-pericolpatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1548,19 +1340,19 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -1568,19 +1360,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         },
@@ -1588,7 +1380,7 @@
           "label": "PK colporaat.",
           "next": null,
           "id": {
-            "name": "Pericolporatae",
+            "name": "[Pericolporatae](beug23-pericolporatae.md)",
             "size": "-",
             "source": "-",
             "note": "-",
@@ -1597,19 +1389,15 @@
             "images": [
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               },
               {
                 "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
+                "imageHeightPx": 1
               }
             ]
           },
@@ -1617,19 +1405,19 @@
           "images": [
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             },
             {
               "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
+              "imageHeightPx": 1
             }
           ]
         }
