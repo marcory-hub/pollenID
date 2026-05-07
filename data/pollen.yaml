@@ -373,8 +373,7 @@ agrimonia_eupatoria:
     - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_2.png
       kind: paldat
       source: paldat
-    - path: 
-        assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png
+    - path: assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_4.png
       kind: paldat
       source: paldat
   image:
@@ -449,20 +448,16 @@ ailanthus_altissima:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_1.png
+    - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_4.png
+    - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_2.png
+    - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_3.png
+    - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_3.png
       kind: pollenwiki
       source: pollenwiki
 ajuga_reptans:
@@ -1544,8 +1539,7 @@ bryonia_dioica:
     - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png
+    - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -1689,17 +1683,21 @@ calluna_vulgaris:
     - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
       kind: persano_oddo
       source: persano_oddo
-    - path: 
-        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_8.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_8.png
       kind: persano_oddo
       source: persano_oddo
-    - path: 
-        assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
       kind: persano_oddo
       source: persano_oddo
     - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png
       kind: pollenwiki
       source: pollenwiki
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_4.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px: 98
   bloeitijd:
@@ -2187,24 +2185,19 @@ castanea_sativa:
     - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_7.png
       kind: persano_oddo
       source: persano_oddo
-    - path: 
-        assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/castanea_sativa/castanea_sativa_14.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_14.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/castanea_sativa/castanea_sativa_13.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_13.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/castanea_sativa/castanea_sativa_15.png
+    - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_15.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png
@@ -2484,6 +2477,16 @@ chamerion_angustifolium:
   pe_ratio:
   aperture: 3-poraat
   ornamentation: glad
+  images:
+    - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_3.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px: 200
   bloeitijd:
@@ -2582,8 +2585,7 @@ cichorium_intybus:
     - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/cichorium_intybus/cichorium_intybus_5.png
+    - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_5.png
       kind: pollenwiki
       source: pollenwiki
   image:
@@ -4033,6 +4035,38 @@ eleagnus_angustif:
     - source: kerkvliet
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+epilobium_angustifolium:
+  latin: Epilobium angustifolium
+  dutch: wilgenroosje
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: 
+        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_3.png
+      kind: by_taxon
+      source: by_taxon
 erica_arborea:
   latin: Erica arborea
   dutch: boomheide
@@ -4110,8 +4144,7 @@ erigeron_canaden:
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
+    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
@@ -4732,6 +4765,64 @@ fragaria_viridis:
     - source: feagri_iversen
       path: 
         /Users/md/Developer/pollenID/docs/keys/feagri-iversen/rosaceae-feagri-iversen-273-288.json
+frangula_alnus:
+  latin: Frangula alnus
+  dutch: vuilboom
+  family:
+  size:
+    smallest_size: 20 µm
+    largest_size: 20 µm
+  shape: ∆
+  polarity:
+  pe_ratio:
+  aperture: 3-colporaat
+  ornamentation: glad
+  images:
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_9.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/frangula_alnus/frangula_alnus_10.png
+      kind: by_taxon
+      source: by_taxon
+  image:
+    height_px: 50
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources:
+    - source: kerkvliet
+      path: 
+        /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    - source: vanderham
+      path: 
+        /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
 fraxinus_ornus:
   latin: Fraxinus ornus
   dutch: es
@@ -4797,15 +4888,13 @@ fumaria_officinalis:
     - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_2.png
+    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_2.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_3.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_4.png
+    - path: assets/images/by-taxon/fumaria_officinalis/fumaria_officinalis_4.png
       kind: pollenwiki
       source: pollenwiki
 galinsoga_sp:
@@ -5070,8 +5159,7 @@ helenium_autumn:
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
+    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
@@ -5123,15 +5211,13 @@ helianthus_annuus:
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
+    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/helianthus_annuus/helianthus_annuus_5.png
+    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_5.png
       kind: persano_oddo
       source: persano_oddo
     - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_6.png
@@ -5190,6 +5276,38 @@ hieracium_aurantiacum:
       source: by_taxon
     - path: 
         assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_4.png
+      kind: by_taxon
+      source: by_taxon
+hieracium_austriacum:
+  latin: Hieracium austriacum
+  dutch: havikskruid
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_4.png
       kind: by_taxon
       source: by_taxon
 hieracium_sp:
@@ -5855,20 +5973,16 @@ linum_usitatissimum:
     - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_4.png
       kind: by_taxon
       source: by_taxon
-    - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_5.png
+    - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_5.png
       kind: by_taxon
       source: by_taxon
-    - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_6.png
+    - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_6.png
       kind: by_taxon
       source: by_taxon
-    - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_7.png
+    - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_7.png
       kind: by_taxon
       source: by_taxon
-    - path: 
-        assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_8.png
+    - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_8.png
       kind: by_taxon
       source: by_taxon
 liriodendron_tulip:
@@ -8117,35 +8231,8 @@ reseda_lutea:
     - path: assets/images/by-taxon/reseda_lutea/reseda_lutea_4.png
       kind: pollenwiki
       source: pollenwiki
-rhamnus_frangula:
-  latin: Rhamnus frangula
-  dutch: vuilboom
-  family:
-  size:
-    smallest_size: 20 µm
-    largest_size: 20 µm
-  shape: ∆
-  polarity:
-  pe_ratio:
-  aperture: 3-colporaat
-  ornamentation: glad
-  image:
-    height_px: 50
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  sources:
-    - source: kerkvliet
-      path: 
-        /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-    - source: vanderham
-      path: 
-        /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
-rhododendron:
-  latin: Rhododendron
+rhododendron_ponticum:
+  latin: Rhododendron ponticum
   dutch: rhododendron
   family:
   size:
@@ -8169,10 +8256,12 @@ rhododendron:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_3.png
+    - path: 
+        assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_3.png
       kind: persano_oddo
       source: persano_oddo
-    - path: assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_4.png
+    - path: 
+        assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_4.png
       kind: persano_oddo
       source: persano_oddo
     - path: 
@@ -8187,33 +8276,6 @@ rhododendron:
         assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_2.png
       kind: pollenwiki
       source: pollenwiki
-rhododendron_spp_ericaceae:
-  latin: Rhododendron spp, Ericaceae
-  dutch:
-  family:
-  size:
-    smallest_size: 33 µm
-    largest_size: 33 µm
-  shape:
-  polarity:
-  pe_ratio:
-  aperture:
-  ornamentation:
-  images:
-    - path: assets/images/by-taxon/ribes_rubrum/ribes_rubrum_1.png
-      kind: pollenwiki
-      source: pollenwiki
-  image:
-    height_px: 82
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  sources:
-    - source: monoflorale_md
-      path: pollenID/docs/monoflorale-honing-pollen/rhododendronhoning.md
 rhus_chinensis:
   latin: Rhus chinensis
   dutch: Chinese sumac
@@ -8364,25 +8426,32 @@ robinia_pseudoacacia:
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation: scabraat, aperturen zonder ornamentatie
   images:
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_5.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_5.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_6.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_6.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_7.png
+    - path: 
+        assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_7.png
       kind: by_taxon
       source: by_taxon
   image:
@@ -10111,25 +10180,32 @@ taraxacum_officinale:
   aperture: tricolpaat, 3-4 slecht zichtbare aperturen
   ornamentation: fenestraat, echinaat
   images:
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_5.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_5.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_6.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_6.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_7.png
+    - path: 
+        assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_7.png
       kind: by_taxon
       source: by_taxon
   image:
@@ -10689,6 +10765,19 @@ valeriana_officinalis:
   pe_ratio:
   aperture:
   ornamentation:
+  images:
+    - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_4.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px:
   bloeitijd:
@@ -10925,6 +11014,19 @@ vicia_cracca:
   pe_ratio:
   aperture:
   ornamentation:
+  images:
+    - path: assets/images/by-taxon/vicia_cracca/vicia_cracca_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vicia_cracca/vicia_cracca_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vicia_cracca/vicia_cracca_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vicia_cracca/vicia_cracca_4.png
+      kind: by_taxon
+      source: by_taxon
   image:
     height_px:
   bloeitijd:
@@ -11114,8 +11216,7 @@ vitis_vinifera:
     - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_1.png
       kind: pollenwiki
       source: pollenwiki
-    - path: 
-        assets/images/by-taxon/vitis_vinifera/vitis_vinifera_4.png
+    - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_4.png
       kind: pollenwiki
       source: pollenwiki
     - path: assets/images/by-taxon/vitis_vinifera/vitis_vinifera_2.png
@@ -11953,31 +12054,6 @@ photinia_fraseri:
     - path: assets/images/by-taxon/photinia_fraseri/photinia_fraseri_4.png
       kind: by_taxon
       source: by_taxon
-rhododendron_pollenwiki:
-  latin: Rhododendron pollenwiki
-  dutch:
-  family:
-  size:
-    smallest_size:
-    largest_size:
-  shape:
-  polarity:
-  pe_ratio:
-  aperture:
-  ornamentation:
-  image:
-    height_px:
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  sources:
-    - source: kerkvliet
-      path: 
-        /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-
 robinia_pseudo_acacia:
   latin: Robinia pseudo-acacia
   dutch:
@@ -12219,5 +12295,759 @@ xanthium_strumarium:
       kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/xanthium_strumarium/xanthium_strumarium_3.png
+      kind: by_taxon
+      source: by_taxon
+carex_pendula:
+  latin: Carex pendula
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/carex_pendula/carex_pendula_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/carex_pendula/carex_pendula_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/carex_pendula/carex_pendula_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/carex_pendula/carex_pendula_4.png
+      kind: by_taxon
+      source: by_taxon
+impatiens_balsamina:
+  latin: Impatiens balsamina
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/impatiens_balsamina/impatiens_balsamina_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/impatiens_balsamina/impatiens_balsamina_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/impatiens_balsamina/impatiens_balsamina_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/impatiens_balsamina/impatiens_balsamina_4.png
+      kind: by_taxon
+      source: by_taxon
+iris_pseudacorus:
+  latin: Iris pseudacorus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/iris_pseudacorus/iris_pseudacorus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/iris_pseudacorus/iris_pseudacorus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/iris_pseudacorus/iris_pseudacorus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/iris_pseudacorus/iris_pseudacorus_4.png
+      kind: by_taxon
+      source: by_taxon
+juncus_jacquinii:
+  latin: Juncus jacquinii
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/juncus_jacquinii/juncus_jacquinii_1.png
+      kind: by_taxon
+      source: by_taxon
+luzula_sylvatica:
+  latin: Luzula sylvatica
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/luzula_sylvatica/luzula_sylvatica_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/luzula_sylvatica/luzula_sylvatica_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/luzula_sylvatica/luzula_sylvatica_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/luzula_sylvatica/luzula_sylvatica_4.png
+      kind: by_taxon
+      source: by_taxon
+picea_omorika:
+  latin: Picea omorika
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/picea_omorika/picea_omorika_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/picea_omorika/picea_omorika_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/picea_omorika/picea_omorika_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/picea_omorika/picea_omorika_4.png
+      kind: by_taxon
+      source: by_taxon
+scirpus_sylvaticus:
+  latin: Scirpus sylvaticus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/scirpus_sylvaticus/scirpus_sylvaticus_1.png
+      kind: by_taxon
+      source: by_taxon
+lactuca_sativa:
+  latin: Lactuca sativa
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lactuca_sativa/lactuca_sativa_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lactuca_sativa/lactuca_sativa_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lactuca_sativa/lactuca_sativa_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lactuca_sativa/lactuca_sativa_4.png
+      kind: by_taxon
+      source: by_taxon
+berberis_vulgaris:
+  latin: Berberis vulgaris
+  dutch: zuurbes
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_4.png
+      kind: by_taxon
+      source: by_taxon
+geranium_robertianum:
+  latin: Geranium robertianum
+  dutch: robertskruid
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: 
+        assets/images/by-taxon/geranium_robertianum/geranium_robertianum_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/geranium_robertianum/geranium_robertianum_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/geranium_robertianum/geranium_robertianum_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/geranium_robertianum/geranium_robertianum_4.png
+      kind: by_taxon
+      source: by_taxon
+ilex_aquifolium:
+  latin: Ilex aquifolium
+  dutch: hulst
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_4.png
+      kind: by_taxon
+      source: by_taxon
+juniperus:
+  latin: Juniperus communis
+  dutch: jeneverbes
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/juniperus_communis/juniperus_communis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/juniperus_communis/juniperus_communis_2.png
+      kind: by_taxon
+      source: by_taxon
+lamium_album:
+  latin: Lamium album
+  dutch: witte dovenetel
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lamium_album/lamium_album_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lamium_album/lamium_album_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lamium_album/lamium_album_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lamium_album/lamium_album_4.png
+      kind: by_taxon
+      source: by_taxon
+liguster_vulgare:
+  latin: Ligustrum vulgare
+  dutch: wilde liguster
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png
+      kind: by_taxon
+      source: by_taxon
+lilium_regale:
+  latin: Lilium regale
+  dutch: koningslelie
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lilium_regale/lilium_regale_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lilium_regale/lilium_regale_2.png
+      kind: by_taxon
+      source: by_taxon
+magnolia_kobus:
+  latin: Magnolia kobus
+  dutch: Magnolia kobus
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/magnolia_kobus/magnolia_kobus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/magnolia_kobus/magnolia_kobus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/magnolia_kobus/magnolia_kobus_3.png
+      kind: by_taxon
+      source: by_taxon
+pinus_nigra:
+  latin: Pinus nigra
+  dutch: zwarte den
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/pinus_nigra/pinus_nigra_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/pinus_nigra/pinus_nigra_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/pinus_nigra/pinus_nigra_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/pinus_nigra/pinus_nigra_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/pinus_nigra/pinus_nigra_5.png
+      kind: by_taxon
+      source: by_taxon
+pinus_sylvestris:
+  latin: Pinus sylvestris
+  dutch: grove den
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/pinus_sylvestris/pinus_sylvestris_1.png
+      kind: by_taxon
+      source: by_taxon
+populus_nigra:
+  latin: Populus nigra
+  dutch: zwarte populier
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/populus_nigra/populus_nigra_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/populus_nigra/populus_nigra_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/populus_nigra/populus_nigra_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/populus_nigra/populus_nigra_4.png
+      kind: by_taxon
+      source: by_taxon
+raphanus_raphanistrum:
+  latin: Raphanus raphanistrum
+  dutch: wilde radijs
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: 
+        assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_4.png
+      kind: by_taxon
+      source: by_taxon
+salix_alba_var_tristis:
+  latin: Salix alba var. tristis
+  dutch: treurwilg
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: 
+        assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_4.png
+      kind: by_taxon
+      source: by_taxon
+salix_caprea:
+  latin: Salix caprea
+  dutch: boswilg
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/salix_caprea/salix_caprea_7.png
+      kind: by_taxon
+      source: by_taxon
+saxifraga_rotundifolia:
+  latin: Saxifraga rotundifolia
+  dutch: rondbladige steenbreek
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: 
+        assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_4.png
+      kind: by_taxon
+      source: by_taxon
+sinapis_arvensis:
+  latin: Sinapis arvensis
+  dutch: wilde mosterd
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_4.png
       kind: by_taxon
       source: by_taxon
