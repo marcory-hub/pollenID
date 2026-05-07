@@ -5,6 +5,7 @@
     "locale": "nl",
     "source": "pollentabel van der Ham 1999",
     "stepCount": 82,
+    "hide_images": false,
     "start": "1"
   },
   "start": "1",
@@ -16,34 +17,12 @@
         {
           "label": "Vier pollenkorrels bij elkaar (tetrade)",
           "next": "2",
-          "image": "../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png",
-          "imageHeightPx": 89,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png",
-              "imageHeightPx": 89
-            },
-            {
-              "image": "../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png",
-              "imageHeightPx": 89
-            }
-          ]
+          "pollen_key": "calluna_vulgaris"
         },
         {
           "label": "Één losse pollenkorrel (monade)",
           "next": "3",
-          "image": "../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png",
-          "imageHeightPx": 63,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png",
-              "imageHeightPx": 63
-            },
-            {
-              "image": "../../assets/images/by-taxon/brassica_napus/brassica_napus_4.png",
-              "imageHeightPx": 63
-            }
-          ]
+          "pollen_key": "brassica_napus"
         }
       ]
     },
@@ -55,35 +34,18 @@
           "label": "Individuele korrels los verbonden, triporaat",
           "id": {
             "name": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Epilobium (basterdwederik soorten)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/oenothera_biennis/oenothera_biennis_1.png",
-                "imageHeightPx": 70
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "epilobium_angustifolium"
           }
         },
         {
           "label": "individuele korrels stevig verbonden, tricolpaat of tricolporaat",
           "id": {
             "name": "Ericaceae (Calluna, Erica, Rhododendron, Vaccinium)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
-                "imageHeightPx": 1
-              }
+            "pollen_keys": [
+              "calluna_vulgaris",
+              "erica_tetralix",
+              "rhododendron_ponticum",
+              "vaccinium_vitis_idaea"
             ]
           }
         },
@@ -91,17 +53,10 @@
           "label": "Individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat [to be verified]",
           "id": {
             "name": "[Juncaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juncaceae) (Juncus (rus), Luzula (veldbies))",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_key": "pollen_key_placeholder_luzula_veldbies",
+            "pollen_keys": [
+              "luzula_sylvatica",
+              "juncus_jacquinii"
             ]
           }
         }
@@ -115,33 +70,18 @@
           "label": "Pollenkorrel met twee luchtzakken (vesiculaat)",
           "id": {
             "name": "[Pinaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Pinaceae) (Picea, Pinus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_key": "pollen_key_placeholder_onbekend",
+            "pollen_keys": [
+              "picea_omorika",
+              "pinus_sylvestris",
+              "pinus_nigra"
             ]
           }
         },
         {
           "label": "pollenkorrel zonder luchtzakken",
           "next": "4",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_luchtzakken"
         }
       ]
     },
@@ -153,33 +93,20 @@
           "label": "pollenkorrel met ‘vensters’ (fenestraat)",
           "id": {
             "name": "Asteraceae (Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_2.png",
-                "imageHeightPx": 20
-              },
-              {
-                "image": "../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_6.png",
-                "imageHeightPx": 20
-              }
+            "pollen_key": "pollen_key_placeholder_asteraceae_cichorium_hieracium_lactuca_sonchus_taraxacum",
+            "pollen_keys": [
+              "cichorium_intybus",
+              "hieracium_austriacum",
+              "lactuca_sativa",
+              "sonchus_arvensis",
+              "taraxacum_officinale"
             ]
           }
         },
         {
           "label": "pollenkorrel zonder ‘vensters’",
           "next": "5",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_vensters"
         }
       ]
     },
@@ -190,30 +117,12 @@
         {
           "label": "pollenkorrel zonder aperturen (inaperturaat)",
           "next": "6",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_aperturen_inaperturaat"
         },
         {
           "label": "pollenkorrel met één of meer aperturen",
           "next": "9",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_een_of_meer_aperturen"
         }
       ]
     },
@@ -225,33 +134,17 @@
           "label": "pollenkorrel peervormig",
           "id": {
             "name": "Cyperaceae (Carex, Scirpus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_scirpus",
+            "pollen_keys": [
+              "carex_pendula",
+              "scirpus_sylvaticus"
             ]
           }
         },
         {
           "label": "pollenkorrel ± rond",
           "next": "7",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond"
         }
       ]
     },
@@ -263,51 +156,20 @@
           "label": "ornamentatie perforaat tot fijn reticulaat, pollenkorrel niet gespleten",
           "id": {
             "name": "Thymelaeaceae (Daphne)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "daphne_mezereum"
           }
         },
         {
           "label": "ornamentatie dicht scabraat, pollenkorrel niet gespleten",
           "id": {
             "name": "Salicaceae (Populus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "populus_nigra"
           }
         },
         {
           "label": "ornamentatie meer of minder dicht verrucaat, pollenkorrel vaak gespleten",
           "next": "8",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_meer_of_minder_dicht_verrucaat_pollenkorrel_vaak_gespleten"
         }
       ]
     },
@@ -319,18 +181,7 @@
           "label": "wratten onregelmatig verspreid (oppervlak met kale plekken)",
           "id": {
             "name": "Cupressaceae (Juniperus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "juniperus"
           }
         },
         {
@@ -349,30 +200,12 @@
         {
           "label": "pollenkorrel met één apertuur",
           "next": "10",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_een_apertuur"
         },
         {
           "label": "pollenkorrel met drie of meer aperturen",
           "next": "12",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_aperturen"
         }
       ]
     },
@@ -384,51 +217,24 @@
           "label": "apertuur spiraal- of lusvormig: ‘tennisbal-patroon’ (syncolpaat)",
           "id": {
             "name": "Berberidaceae (Berberis)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "berberis_vulgaris"
           }
         },
         {
           "label": "apertuur langwerpig, groot (monocolpaat)",
           "id": {
             "name": "Veel monocotylen (o.m. Iridaceae, Liliaceae), enkele dicotylen (o.m. Magnolia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_keys": [
+              "iris_pseudacorus",
+              "lilium_regale",
+              "magnolia_kobus"
             ]
           }
         },
         {
           "label": "apertuur ± rond, klein (monoporaat)",
           "next": "11",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_apertuur_rond_klein_monoporaat"
         }
       ]
     },
@@ -440,41 +246,21 @@
           "label": "porus duidelijk, met verdikte rand (annulus), pollenkorrel ± rond",
           "id": {
             "name": "Poaceae (alle geslachten)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_poaceae_alle_geslachten"
           }
         },
         {
           "label": "porus onduidelijk, zonder verdikte rand, aan de stompe zijde van een peervormige korrel",
           "id": {
-            "name": "[Bronscan eindigt hier; vervolgstap niet op deze pagina — zie drukwerk van der Ham.]",
-            "size": "-",
-            "source": "-",
-            "incomplete": true,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "name": "Cyperaceae (Carex, Scirpus)",
+            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_scirpus",
+            "pollen_keys": [
+              "carex_pendula",
+              "scirpus_sylvaticus"
             ]
           }
         }
-      ],
-      "note": "Tweede optie afgekapt op eerste pagina-scan."
+      ]
     },
     "12": {
       "id": "12",
@@ -483,58 +269,22 @@
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) zonder pori (colpaat)",
           "next": "16",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_langwerpige_aperturen_colpi_zonder_pori_colpaat"
         },
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) met pori (colporaat)",
           "next": "36",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_langwerpige_aperturen_colpi_met_pori_colporaat"
         },
         {
           "label": "pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)",
           "next": "13",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_colpi_met_pori_afgewisseld_door_drie_colpi_zonder_pori_of_colpi_op_een_andere_manier_verschillend_heterocolpaat"
         },
         {
           "label": "pollenkorrel met drie of meer ± ronde aperturen (pori; poraat)",
           "next": "72",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_ronde_aperturen_pori_poraat"
         }
       ]
     },
@@ -545,30 +295,12 @@
         {
           "label": "pollenkorrel kleiner dan 15 µm",
           "next": "14",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_15_m"
         },
         {
           "label": "pollenkorrel groter dan 15 µm",
           "next": "15",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_15_m"
         }
       ]
     },
@@ -587,18 +319,7 @@
           "label": "colpi recht (niet ‘vertakt’)",
           "id": {
             "name": "Boraginaceae (Myosotis)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "myosotis_scorpioides"
           }
         }
       ]
@@ -631,51 +352,20 @@
           "label": "pollenkorrel met zes lange colpi (stephanocolpaat)",
           "id": {
             "name": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) (vele geslachten)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "lamium_album"
           }
         },
         {
           "label": "pollenkorrel stomp rechthoekig, met vier korte colpi op de hoekpunten (stephanocolpaat)",
           "id": {
             "name": "Balsaminaceae (Impatiens)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "impatiens_balsamina"
           }
         },
         {
           "label": "pollenkorrel met drie korte of lange colpi (tricolpaat)",
           "next": "17",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_korte_of_lange_colpi_tricolpaat"
         }
       ]
     },
@@ -686,30 +376,12 @@
         {
           "label": "tectum afwezig (intectaat) of aanwezig als een netwerk (eureticulaat)",
           "next": "18",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_tectum_afwezig_intectaat_of_aanwezig_als_een_netwerk_eureticulaat"
         },
         {
           "label": "tectum aanwezig (tectaat)",
           "next": "26",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_tectum_aanwezig_tectaat"
         }
       ]
     },
@@ -720,30 +392,12 @@
         {
           "label": "tectum afwezig",
           "next": "19",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_tectum_afwezig"
         },
         {
           "label": "tectum netvormig",
           "next": "20",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_tectum_netvormig"
         }
       ]
     },
@@ -755,36 +409,14 @@
           "label": "ornamentatie-elementen variabel van grootte",
           "id": {
             "name": "Aquifoliaceae (Ilex)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "ilex_aquifolium"
           }
         },
         {
           "label": "ornamentatie-elementen uniform of in twee duidelijk gescheiden formaten aanwezig",
           "id": {
             "name": "Linaceae (Linum)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "linum_usitatissimum"
           }
         }
       ]
@@ -796,30 +428,12 @@
         {
           "label": "colpi in het midden niet versmald",
           "next": "21",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_niet_versmald"
         },
         {
           "label": "colpi in het midden versmald",
           "next": "25",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_versmald"
         }
       ]
     },
@@ -830,30 +444,12 @@
         {
           "label": "pollenkorrel groter dan 50 µm",
           "next": "22",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_50_m"
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
           "next": "23",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_50_m"
         }
       ]
     },
@@ -865,24 +461,17 @@
           "label": "netwerk met duidelijke knotsvormige ornamentatie-elementen",
           "id": {
             "name": "Geraniaceae (Geranium)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "geranium_robertianum"
           }
         },
         {
           "label": "netwerk met stekeltjes (kleiner dan 1 µm)",
           "id": {
             "pollen_key": "armeria_maritima",
+            "pollen_keys": [
+              "armeria_maritima",
+              "limonium_vulgare"
+            ],
             "note": "Plumbaginaceae (Armeria maritima, Limonium vulgare)"
           }
         }
@@ -896,33 +485,13 @@
           "label": "mazen van het netwerk kleiner dan 1 µm",
           "id": {
             "name": "Saxifragaceae (Saxifraga)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "saxifraga_rotundifolia"
           }
         },
         {
           "label": "tenminste een deel van de mazen groter dan 1 µm",
           "next": "24",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_tenminste_een_deel_van_de_mazen_groter_dan_1_m"
         }
       ]
     },
@@ -934,17 +503,10 @@
           "label": "mazen duidelijk kleiner naar de colpi toe, colpusranden meestal naar binnen gevouwen",
           "id": {
             "name": "Salicaceae (Salix)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_key": "pollen_key_placeholder_salicaceae_salix",
+            "pollen_keys": [
+              "salix_alba_var_tristis",
+              "salix_caprea"
             ]
           }
         },
@@ -952,17 +514,11 @@
           "label": "mazen niet duidelijk kleiner naar de colpi toe, colpusranden reticulaat",
           "id": {
             "name": "Brassicaceae (Brassica, Raphanus, Sinapis)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_key": "brassica_napus",
+            "pollen_keys": [
+              "brassica_napus",
+              "raphanus_raphanistrum",
+              "sinapis_arvensis"
             ]
           }
         }
@@ -983,18 +539,7 @@
           "label": "pollenkorrel groter dan 25 µm",
           "id": {
             "name": "Oleaceae (Ligustrum)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "liguster_vulgare"
           }
         }
       ]
@@ -1007,75 +552,28 @@
           "label": "ornamentatie perforaat",
           "id": {
             "name": "Saxifragaceae (Saxifraga)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_saxifragaceae_saxifraga"
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
           "next": "27",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "saxifraga_rotundifolia"
         },
         {
           "label": "ornamentatie echinaat",
           "next": "28",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_echinaat"
         },
         {
           "label": "ornamentatie striaat of rugulaat",
           "next": "31",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_striaat_of_rugulaat"
         },
         {
           "label": "ornamentatie suprareticulaat (netwerk op het tectum)",
           "next": "34",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_suprareticulaat_netwerk_op_het_tectum"
         }
       ]
     },
@@ -1087,36 +585,14 @@
           "label": "nexine onduidelijk, zeer dun",
           "id": {
             "name": "Saxifragaceae (Saxifraga)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_saxifragaceae_saxifraga"
           }
         },
         {
           "label": "nexine duidelijk, scabrae verspreid",
           "id": {
             "name": "Ranunculaceae (Ranunculus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_ranunculaceae_ranunculus"
           }
         },
         {
@@ -1135,30 +611,12 @@
         {
           "label": "pollenkorrel kleiner dan 40 µm",
           "next": "29",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_40_m"
         },
         {
           "label": "pollenkorrel groter dan 40 µm",
           "next": "30",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_40_m"
         }
       ]
     },
@@ -1170,36 +628,14 @@
           "label": "colpi met duidelijke wratten op de membraan (= nexine in/onder colpi)",
           "id": {
             "name": "Ranunculaceae (Ranunculus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_ranunculaceae_ranunculus"
           }
         },
         {
           "label": "colpi zonder wratten op de membraan (of membraan gescheurd)",
           "id": {
             "name": "Fagaceae (Quercus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_fagaceae_quercus"
           }
         }
       ]
@@ -1219,18 +655,7 @@
           "label": "colpi kort, stekels klein, niet op een verbrede basis",
           "id": {
             "name": "Dipsacaceae (Dipsacus, Scabiosa, Succisa)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_dipsacaceae_dipsacus_scabiosa_succisa"
           }
         }
       ]
@@ -1243,33 +668,13 @@
           "label": "pollenkorrel groter dan 50 µm",
           "id": {
             "name": "Geraniaceae (Geranium)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_geraniaceae_geranium"
           }
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
           "next": "32",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_50_m"
         }
       ]
     },
@@ -1281,33 +686,13 @@
           "label": "colpusranden niet recht",
           "id": {
             "name": "Rosaceae (o.m. Cotoneaster, Malus, Prunus, Rubus, Spiraea)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_rosaceae_o_m_cotoneaster_malus_prunus_rubus_spiraea"
           }
         },
         {
           "label": "colpusranden recht",
           "next": "33",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpusranden_recht"
         }
       ]
     },
@@ -1319,36 +704,14 @@
           "label": "ornamentatie-elementen (muri) vooral meridionaal (± loodrecht op equatoriale vlak)",
           "id": {
             "name": "Aceraceae (Acer)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_aceraceae_acer"
           }
         },
         {
           "label": "ornamentatie-elementen (muri) meestal dwars (± parallel aan equatoriale vlak)",
           "id": {
             "name": "Saxifragaceae (Saxifraga)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_saxifragaceae_saxifraga"
           }
         }
       ]
@@ -1361,33 +724,13 @@
           "label": "colpi in het midden versmald of met onderbroken randen",
           "id": {
             "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Cytisus - Genista - Ulex",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_cytisus_genista_ulex"
           }
         },
         {
           "label": "colpi in het midden niet versmald of met onderbroken randen",
           "next": "35",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_niet_versmald_of_met_onderbroken_randen"
         }
       ]
     },
@@ -1399,36 +742,14 @@
           "label": "pollenkorrel prolaat (P duidelijk groter dan E)",
           "id": {
             "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (verschillende geslachten)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_verschillende_geslachten"
           }
         },
         {
           "label": "pollenkorrel ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
           "id": {
             "name": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) - Ajuga - Scutellaria - Stachys",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_ajuga_scutellaria_stachys"
           }
         }
       ]
@@ -1440,30 +761,12 @@
         {
           "label": "pollenkorrel met meer dan drie colpi",
           "next": "37",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_colpi"
         },
         {
           "label": "pollenkorrel met drie colpi (tricolporaat)",
           "next": "39",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_colpi_tricolporaat"
         }
       ]
     },
@@ -1475,33 +778,13 @@
           "label": "colpi niet alle meridionaal (pericolporaat)",
           "id": {
             "name": "Polygonaceae (Rumex)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_polygonaceae_rumex"
           }
         },
         {
           "label": "colpi alle meridionaal (stephanocolporaat)",
           "next": "38",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpi_alle_meridionaal_stephanocolporaat"
         }
       ]
     },
@@ -1513,18 +796,7 @@
           "label": "pollenkorrel groter dan 40 µm, met vier colpi",
           "id": {
             "name": "Violaceae (Viola)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_violaceae_viola"
           }
         },
         {
@@ -1544,89 +816,33 @@
           "label": "ornamentatie perforaat",
           "id": {
             "name": "Polygonaceae (Rumex)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_polygonaceae_rumex"
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
           "next": "40",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_of_scabraat"
         },
         {
           "label": "ornamentatie echinaat",
           "next": "55",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_echinaat"
         },
         {
           "label": "ornamentatie striaat of rugulaat",
           "next": "61",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_striaat_of_rugulaat"
         },
         {
           "label": "ornamentatie foveolaat (tectum met putjes) of suprareticulaat (netwerk op tectum)",
           "next": "63",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_foveolaat_tectum_met_putjes_of_suprareticulaat_netwerk_op_tectum"
         },
         {
           "label": "ornamentatie eureticulaat (netwerk is tectum)",
           "next": "68",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_eureticulaat_netwerk_is_tectum"
         }
       ]
     },
@@ -1644,16 +860,7 @@
         {
           "label": "pollenkorrel zonder equatoriale verdikkingen",
           "next": "41",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_equatoriale_verdikkingen"
         }
       ]
     },
@@ -1665,47 +872,18 @@
           "label": "pollenkorrel in zijaanzicht oblaat (P kleiner dan E), in bovenaanzicht sterk driehoekig",
           "id": {
             "name": "Elaeagnaceae (Elaeagnus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_elaeagnaceae_elaeagnus"
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E), met rechte of holle zijden",
           "next": "42",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_prolaat_p_duidelijk_groter_dan_e_met_rechte_of_holle_zijden"
         },
         {
           "label": "pollenkorrel in zijaanzicht ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
           "next": "44",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_rond_tot_iets_prolaat_p_gelijk_aan_of_iets_groter_dan_e"
         }
       ]
     },
@@ -1717,33 +895,13 @@
           "label": "pollenkorrel groter dan 35 µm",
           "id": {
             "name": "Apiaceae (Heracleum)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_apiaceae_heracleum"
           }
         },
         {
           "label": "pollenkorrel kleiner dan 35 µm",
           "next": "43",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_35_m"
         }
       ]
     },
@@ -1774,30 +932,12 @@
         {
           "label": "pollenkorrel in zijaanzicht ± rond (P = E)",
           "next": "45",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_rond_p_e"
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E)",
           "next": "51",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_prolaat_p_duidelijk_groter_dan_e"
         }
       ]
     },
@@ -1808,30 +948,12 @@
         {
           "label": "wandgedeelten tussen de colpi recht tot hol (in bovenaanzicht van de pollenkorrel)",
           "next": "46",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_wandgedeelten_tussen_de_colpi_recht_tot_hol_in_bovenaanzicht_van_de_pollenkorrel"
         },
         {
           "label": "wandgedeelten tussen de colpi bol (in bovenaanzicht van de pollenkorrel)",
           "next": "49",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_wandgedeelten_tussen_de_colpi_bol_in_bovenaanzicht_van_de_pollenkorrel"
         }
       ]
     },
@@ -1842,30 +964,12 @@
         {
           "label": "pori duidelijk",
           "next": "47",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pori_duidelijk"
         },
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
           "next": "48",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pori_onduidelijk_soms_h_vormig"
         }
       ]
     },
@@ -1877,24 +981,13 @@
           "label": "pori smal (dwars), met spitse uiteinden",
           "id": {
             "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat"
           }
         },
         {
           "label": "pori rond tot elliptisch (dwars)",
           "id": {
-            "pollen_key": "rhamnus_frangula",
+            "pollen_key": "frangula_alnus",
             "note": "Rhamnaceae (Rhamnus frangula)"
           }
         }
@@ -1935,33 +1028,13 @@
           "label": "pori groot, elliptisch (dwars), colpi kort",
           "id": {
             "name": "Caprifoliaceae (Symphoricarpos)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_caprifoliaceae_symphoricarpos"
           }
         },
         {
           "label": "pori smal (dwars), colpi lang",
           "next": "50",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pori_smal_dwars_colpi_lang"
         }
       ]
     },
@@ -1973,36 +1046,14 @@
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "id": {
             "name": "Rosaceae (Filipendula)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_rosaceae_filipendula"
           }
         },
         {
           "label": "ornamentatie ± psilaat",
           "id": {
             "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat"
           }
         }
       ]
@@ -2021,16 +1072,7 @@
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp ruitvormig",
           "next": "52",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_elliptisch_tot_stomp_ruitvormig"
         }
       ]
     },
@@ -2048,16 +1090,7 @@
         {
           "label": "pori duidelijk, rond tot langwerpig (dwars)",
           "next": "53",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pori_duidelijk_rond_tot_langwerpig_dwars"
         }
       ]
     },
@@ -2069,33 +1102,13 @@
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "id": {
             "name": "Rosaceae (Filipendula)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_rosaceae_filipendula"
           }
         },
         {
           "label": "ornamentatie ± psilaat of onduidelijk rugulaat",
           "next": "54",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_of_onduidelijk_rugulaat"
         }
       ]
     },
@@ -2107,18 +1120,7 @@
           "label": "pollenkorrel in zijaanzicht stomp ruitvormig, pori in bovenaanzicht op de hoekpunten",
           "id": {
             "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat"
           }
         },
         {
@@ -2138,33 +1140,13 @@
           "label": "stekels met cylindrische basis, zuiltjes in infratectum recht, niet vertakt",
           "id": {
             "name": "Caprifoliaceae (Lonicera)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_caprifoliaceae_lonicera"
           }
         },
         {
           "label": "stekels kegelvormig (soms erg klein), zuiltjes in infratectum vertakt of onduidelijk",
           "next": "56",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_stekels_kegelvormig_soms_erg_klein_zuiltjes_in_infratectum_vertakt_of_onduidelijk"
         }
       ]
     },
@@ -2175,30 +1157,12 @@
         {
           "label": "stekels kleiner dan 1½ µm of onduidelijk",
           "next": "57",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_stekels_kleiner_dan_11_2_m_of_onduidelijk"
         },
         {
           "label": "stekels groter dan 1½ µm",
           "next": "58",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_stekels_groter_dan_11_2_m"
         }
       ]
     },
@@ -2210,18 +1174,7 @@
           "label": "pollenkorrel klein (20–30 µm)",
           "id": {
             "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Artemisia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_artemisia"
           }
         },
         {
@@ -2241,33 +1194,13 @@
           "label": "zuiltjes in infratectum onduidelijk",
           "id": {
             "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Aster, Helianthus, Senecio, Solidago)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_aster_helianthus_senecio_solidago"
           }
         },
         {
           "label": "zuiltjes in infratectum duidelijk",
           "next": "59",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_zuiltjes_in_infratectum_duidelijk"
         }
       ]
     },
@@ -2279,33 +1212,13 @@
           "label": "zuiltjes onder de stekels langer en ten dele scheef (stervorm in bovenaanzicht)",
           "id": {
             "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Carduus - Cirsium*",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_carduus_cirsium"
           }
         },
         {
           "label": "Zuiltjes loodrecht onder de stekels (geen stervorm in bovenaanzicht)",
           "next": "60",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_zuiltjes_loodrecht_onder_de_stekels_geen_stervorm_in_bovenaanzicht"
         }
       ]
     },
@@ -2317,36 +1230,14 @@
           "label": "Pollenkorrel meestal groter dan 40 µm",
           "id": {
             "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Arctium",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_arctium"
           }
         },
         {
           "label": "Pollenkorrel meestal kleiner dan 40 µm",
           "id": {
             "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Matricaria",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_matricaria"
           }
         }
       ]
@@ -2365,16 +1256,7 @@
         {
           "label": "Colpusmembranen zonder stekels",
           "next": "62",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_colpusmembranen_zonder_stekels"
         }
       ]
     },
@@ -2386,36 +1268,14 @@
           "label": "Colpi in het midden niet versmald, ornamentatie striaat-reticulaat",
           "id": {
             "name": "[Simarubaceae](hemelboomfamilie) Ailanthus altissima",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_ailanthus_altissima"
           }
         },
         {
           "label": "Colpi in het midden versmald, ornamentatie striaat-rugulaat",
           "id": {
             "name": "Rosaceae (rozenfamilie) Cotoneaster - Malus - Prunus - Rubus - Spiraea",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_rosaceae_rozenfamilie_cotoneaster_malus_prunus_rubus_spiraea"
           }
         }
       ]
@@ -2434,16 +1294,7 @@
         {
           "label": "Pollenkorrel ± rond tot ellipsvormig",
           "next": "64",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_ellipsvormig"
         }
       ]
     },
@@ -2455,33 +1306,13 @@
           "label": "Pollenkorrel oblaat (P duidelijk kleiner dan E), colpi zeer kort, pori met sterk verdikte rand",
           "id": {
             "name": "[Tiliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Tiliaceae) (`lindes`) - Tilia",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_tilia"
           }
         },
         {
           "label": "Pollenkorrel ± rond tot prolaat (P groter of gelijk aan E), colpi vrij lang, pori zonder sterk verdikte rand",
           "next": "65",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_prolaat_p_groter_of_gelijk_aan_e_colpi_vrij_lang_pori_zonder_sterk_verdikte_rand"
         }
       ]
     },
@@ -2499,16 +1330,7 @@
         {
           "label": "Wand dunner dan 2 µm, zuiltjes in infratectum klein of onduidelijk",
           "next": "66",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_wand_dunner_dan_2_m_zuiltjes_in_infratectum_klein_of_onduidelijk"
         }
       ]
     },
@@ -2526,16 +1348,7 @@
         {
           "label": "Netwerk duidelijk",
           "next": "67",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_netwerk_duidelijk"
         }
       ]
     },
@@ -2547,18 +1360,7 @@
           "label": "Pollenkorrel kleiner dan 40 µm",
           "id": {
             "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Trifolium - Vicia",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_trifolium_vicia"
           }
         },
         {
@@ -2584,16 +1386,7 @@
         {
           "label": "Netwerk duidelijk",
           "next": "69",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_netwerk_duidelijk"
         }
       ]
     },
@@ -2605,33 +1398,13 @@
           "label": "Mazen kleiner dan 1 µm",
           "id": {
             "name": "[Clusiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hypericaceae) (clusiafamilie) - (Hypericum)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_hypericum"
           }
         },
         {
           "label": "Mazen groter dan 1 µm",
           "next": "70",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_mazen_groter_dan_1_m"
         }
       ]
     },
@@ -2649,16 +1422,7 @@
         {
           "label": "Pollenkorrel kleiner dan 40 µm",
           "next": "71",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_40_m"
         }
       ]
     },
@@ -2670,18 +1434,7 @@
           "label": "Wand meestal dikker dan 2 µm, pori hoger dan breed",
           "id": {
             "name": "[Celastraceae](kardinaalsmutsfamilie) - Euonymus (kardinaalsmuts)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_euonymus_kardinaalsmuts"
           }
         },
         {
@@ -2700,44 +1453,17 @@
         {
           "label": "Pollenkorrel met drie equatoriale pori (triporaat)",
           "next": "73",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_equatoriale_pori_triporaat"
         },
         {
           "label": "Pollenkorrel met meer dan drie equatoriale pori (stephanoporaat)",
           "next": "75",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_equatoriale_pori_stephanoporaat"
         },
         {
           "label": "Pollenkorrel met meer dan drie verspreide (niet-equatoriale) pori (periporaat)",
           "next": "76",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_verspreide_niet_equatoriale_pori_periporaat"
         }
       ]
     },
@@ -2756,33 +1482,13 @@
           "label": "Pori iets uitstekend, ornamentatie echinaat (stekels groter dan 1 µm)",
           "id": {
             "name": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Weigelia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_weigelia"
           }
         },
         {
           "label": "Pori niet uitstekend, indien ornamentatie echinaat dan stekels kleiner dan 1 µm",
           "next": "74",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pori_niet_uitstekend_indien_ornamentatie_echinaat_dan_stekels_kleiner_dan_1_m"
         }
       ]
     },
@@ -2794,18 +1500,7 @@
           "label": "Pollenkorrel kleiner dan 50 µm, ornamentatie echinaat",
           "id": {
             "name": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) (klokjesfamilie) - (Campanula)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_campanula"
           }
         },
         {
@@ -2819,18 +1514,7 @@
           "label": "pollenkorrel groter dan 60 µm, ornamentatie echinaat",
           "id": {
             "name": "[Dipsacaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_pilosus) (kaardenbolfamilie) - (Dipsacus, Knautia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_dipsacus_knautia"
           }
         }
       ]
@@ -2843,36 +1527,14 @@
           "label": "Pollenkorrel met vier pori, ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
           "id": {
             "name": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) - (Campanula)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_onbekend"
           }
         },
         {
           "label": "Pollenkorrel met vier tot elf pori, ornamentatie striaat of perforaat",
           "id": {
             "name": "[Polemoniaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polemoniaceae) (vlambloemfamilie) - (Gilia)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_gilia"
           }
         }
       ]
@@ -2885,67 +1547,25 @@
           "label": "Ornamentatie verrucaat of onregelmatig golvend",
           "id": {
             "name": "[Plantaginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Plantaginaceae) (weegbreefamilie) (Plantago)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_plantago"
           }
         },
         {
           "label": "Ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm) [to be verified] ",
           "id": {
             "name": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae) (anjerfamilie) (diverse geslachten)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_diverse_geslachten"
           }
         },
         {
           "label": "Ornamentatie reticulaat",
           "next": "77",
-          "image": "../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png",
-          "imageHeightPx": 130,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "brassica_napus"
         },
         {
           "label": "Ornamentatie psilaat, perforaat of scabraat",
           "next": "78",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_perforaat_of_scabraat"
         }
       ]
     },
@@ -2957,54 +1577,21 @@
           "label": "pori ± even groot als de mazen van het netwerk (mazen groter dan 3 µm)",
           "id": {
             "name": "Polemoniaceae (vlambloemfamilie) - (Phlox)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_polemoniaceae_vlambloemfamilie_phlox"
           }
         },
         {
           "label": "Pori ± even groot als de mazen van het netwerk (mazen kleiner dan 3 µm)",
           "id": {
             "name": "[Thymelaeaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Thymelaeaceae) (peperboompjesfamilie) - (Daphne)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_daphne"
           }
         },
         {
           "label": "Pori duidelijk groter dan de mazen van het netwerk",
           "id": {
             "name": "Caryophyllaceae (Silene)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_caryophyllaceae_silene"
           }
         }
       ]
@@ -3017,33 +1604,13 @@
           "label": "Pollenkorrel peervormig",
           "id": {
             "name": "Cyperaceae (Carex (zegge), Scirpus)",
-            "size": "-",
-            "source": "-",
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
+            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_zegge_scirpus"
           }
         },
         {
           "label": "Pollenkorrel ± rond tot ellipsvormig",
           "next": "79",
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_ellipsvormig"
         }
       ]
     },
@@ -3061,18 +1628,7 @@
         {
           "label": "Pori over de hele pollenkorrel verspreid",
           "next": "80",
-          "image": "../../assets/images/by-taxon/ribes_rubrum/ribes_rubrum_1.png",
-          "imageHeightPx": 145,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "ribes_rubrum"
         }
       ]
     },
@@ -3090,18 +1646,7 @@
         {
           "label": "Pori niet omgeven of verbonden door tectum-loze (scabrate) zones",
           "next": "81",
-          "image": "../../assets/images/by-taxon/thalictrum_flavum/thalictrum_flavum_1.png",
-          "imageHeightPx": 112,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "pollen_key": "thalictrum_flavum"
         }
       ]
     },
@@ -3119,18 +1664,7 @@
         {
           "label": "Meestal meer dan tien pori, pori met massieve rand (annulus)",
           "next": "82",
-          "image": "../../assets/images/by-taxon/silene_cucubalis/silene_cucubalis_1.png",
-          "imageHeightPx": 128,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/silene_cucubalis/silene_cucubalis_2.png",
-              "imageHeightPx": 128
-            },
-            {
-              "image": "../../assets/images/by-taxon/silene_cucubalis/silene_cucubalis_3.png",
-              "imageHeightPx": 128
-            }
-          ]
+          "pollen_key": "silene_cucubalis"
         }
       ]
     },

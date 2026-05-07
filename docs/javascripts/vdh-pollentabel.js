@@ -132,12 +132,15 @@
   function computePollenIndexUrl(keyAbsUrl) {
     try {
       const u = new URL(keyAbsUrl, document.baseURI);
+      // Carry over cache-busting query params from the key URL (e.g. ?v=...),
+      // otherwise pollen.json can remain stale even when key JSON/JS update.
+      const keyQ = u.search;
       if (/\/keys\//.test(u.pathname)) {
         u.pathname = u.pathname.replace(/\/keys\/.*$/, "/data/pollen.json");
       } else {
         u.pathname = u.pathname.replace(/\/[^/]*$/, "/data/pollen.json");
       }
-      u.search = "";
+      u.search = keyQ || "";
       u.hash = "";
       return u.href;
     } catch (e) {
@@ -216,8 +219,11 @@
 
   const FALLBACK_DISPLAY_WIDTH_PX = 125;
 
-  /** Eén visuele rij thumbnails in interactieve sleutels; voorkomt mix van 128 px + 250 px op dezelfde keuze. */
-  const POLLEN_THUMB_ROW_MAX_PX = 112;
+  /**
+   * Eén visuele rij thumbnails in interactieve sleutels.
+   * We cap only extreme outliers; the normal scale is max µm × 2.5 px (e.g. 50 µm → 125 px).
+   */
+  const POLLEN_THUMB_ROW_MAX_PX = 260;
 
   function parseCssHeightPx(styleHeight) {
     if (typeof styleHeight !== "string" || !styleHeight) return NaN;
@@ -254,6 +260,48 @@
       var nh = Math.max(minPx, Math.round(heights[j] * factor));
       imgs[j].style.height = String(nh) + "px";
       imgs[j].style.width = "auto";
+    }
+  }
+
+  /**
+   * Run normalizePollenThumbnailRow after images have dimensions; otherwise all rows
+   * read ~24px height before load and stay tiny.
+   */
+  function schedulePollenThumbnailNormalize(rowEl, maxPx) {
+    if (!rowEl || !(maxPx > 0)) return;
+    var imgs = rowEl.querySelectorAll("img");
+    if (!imgs.length) return;
+
+    function finalize() {
+      // Ensure the row is in the DOM and has layout before measuring.
+      requestAnimationFrame(function () {
+        normalizePollenThumbnailRow(rowEl, maxPx);
+      });
+    }
+
+    var waits = 0;
+    for (var i = 0; i < imgs.length; i++) {
+      var im = imgs[i];
+      if (im.complete && (im.naturalWidth > 0 || im.naturalHeight > 0)) continue;
+      waits++;
+    }
+
+    if (waits === 0) {
+      finalize();
+      return;
+    }
+
+    var left = waits;
+    function onDone() {
+      left--;
+      if (left <= 0) finalize();
+    }
+
+    for (var j = 0; j < imgs.length; j++) {
+      var im2 = imgs[j];
+      if (im2.complete && (im2.naturalWidth > 0 || im2.naturalHeight > 0)) continue;
+      im2.addEventListener("load", onDone, { once: true });
+      im2.addEventListener("error", onDone, { once: true });
     }
   }
 
@@ -416,14 +464,65 @@
     return resolveAssetUrl("../../assets/images/non-pollen/no_image_found.jpg", baseUrl || document.baseURI);
   }
 
+  function tilesFromLegacyEndpointImages(endptImgs) {
+    /** @type {Array<{image?:string,imageHeightPx?:number,imageWidthPx?:number}>} */
+    var out = [];
+    if (!Array.isArray(endptImgs)) return out;
+    endptImgs.forEach(function (im) {
+      if (!im || typeof im !== "object") return;
+      if (typeof im.image === "string" && im.image.trim()) {
+        out.push({
+          image: im.image,
+          imageHeightPx: im.imageHeightPx,
+          imageWidthPx: im.imageWidthPx,
+        });
+        return;
+      }
+      if (typeof im.path === "string" && im.path.trim()) {
+        var src = im.path;
+        if (docsRootUrl) {
+          try {
+            src = new URL(im.path, docsRootUrl).href;
+          } catch (e) {
+            /* keep raw */
+          }
+        }
+        out.push({
+          image: src,
+          imageWidthPx: tileWidthPxFromPollenJsonImage(im, FALLBACK_DISPLAY_WIDTH_PX),
+        });
+      }
+    });
+    return out;
+  }
+
   /**
-   * Afbeeldingen voor interactieve keuzes (zelfde samenstelling als op de knoppen).
+   * Meerdere afbeeldingen van hetzelfde taxon (pollen_key / één suggestie in pollen_keys): alle
+   * beelden uit pollen.json. Alleen bij meerdere suggested keys één representatieve tegel per taxon
+   * (overzicht op knoppen / tabel).
    * @param {object} ch
+   * @param {object} data
    * @param {Record<string, unknown>} pollenIndex
    * @returns {Array<{image?:string,imageHeightPx?:number,imageWidthPx?:number}>}
    */
-  function gatherInteractiveChoiceImages(ch, pollenIndex) {
+  function gatherInteractiveChoiceImages(ch, data, pollenIndex) {
+    if (data && data.meta && data.meta.hide_images === true) return [];
     pollenIndex = pollenIndex || {};
+    function isMultiTaxonPollenEndpoint(endpoint) {
+      return !!(endpoint && Array.isArray(endpoint.pollen_keys) && endpoint.pollen_keys.length > 1);
+    }
+    function pickRepresentativeIndexImage(key, entry) {
+      if (!key || !entry) return null;
+      const imgs = imagesFromIndexEntry(entry);
+      if (!Array.isArray(imgs) || imgs.length === 0) return null;
+      const escKey = String(key).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      // Prefer `<key>_1.*` when present (common primary example).
+      const re = new RegExp("/" + escKey + "_1\\.", "i");
+      const preferred = imgs.find(function (im) {
+        return im && typeof im.image === "string" && re.test(im.image);
+      });
+      return preferred || imgs[0];
+    }
     var imgsFromChoice = [];
     if (Array.isArray(ch.images) && ch.images.length > 0) {
       imgsFromChoice = ch.images.slice();
@@ -451,9 +550,60 @@
     }
     const endpoint = ch && ch.id ? ch.id : ch && ch.outcome ? ch.outcome : null;
     var imgsFromEndpoint = [];
+    // Step choices can carry `pollen_key` without being an endpoint.
+    var choiceKey = normalizePollenSlug(ch && ch.pollen_key);
+    if (choiceKey && pollenIndex[choiceKey]) {
+      const repChoice = pickRepresentativeIndexImage(choiceKey, pollenIndex[choiceKey]);
+      if (repChoice) {
+        const imgsC = imgsFromChoice.concat([repChoice]);
+        return imgsC.length > 1 ? [imgsC[0]] : imgsC;
+      }
+    } else if (Array.isArray(ch && ch.pollen_keys) && ch.pollen_keys.length > 0) {
+      for (var ci = 0; ci < ch.pollen_keys.length; ci++) {
+        var ck = normalizePollenSlug(ch.pollen_keys[ci]);
+        if (ck && pollenIndex[ck]) {
+          const repChoice2 = pickRepresentativeIndexImage(ck, pollenIndex[ck]);
+          if (repChoice2) {
+            const imgsC2 = imgsFromChoice.concat([repChoice2]);
+            return imgsC2.length > 1 ? [imgsC2[0]] : imgsC2;
+          }
+        }
+      }
+    }
     var pollenSlug = endpoint ? normalizePollenSlug(endpoint.pollen_key) : "";
     if (pollenSlug && pollenIndex[pollenSlug]) {
-      imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[pollenSlug]);
+      var entryPS = pollenIndex[pollenSlug];
+      if (isMultiTaxonPollenEndpoint(endpoint)) {
+        var repMT = pickRepresentativeIndexImage(pollenSlug, entryPS);
+        imgsFromEndpoint = repMT ? [repMT] : [];
+      } else {
+        imgsFromEndpoint = imagesFromIndexEntry(entryPS);
+      }
+    } else if (
+      (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
+      endpoint &&
+      Array.isArray(endpoint.pollen_keys) &&
+      endpoint.pollen_keys.length > 0
+    ) {
+      if (endpoint.pollen_keys.length === 1) {
+        var kOne = normalizePollenSlug(endpoint.pollen_keys[0]);
+        if (kOne && pollenIndex[kOne]) {
+          imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[kOne]);
+        }
+      } else {
+        // Meerdere taxa: één representatieve tegel per suggestie.
+        const reps = [];
+        for (var i = 0; i < endpoint.pollen_keys.length; i++) {
+          var k = normalizePollenSlug(endpoint.pollen_keys[i]);
+          if (k && pollenIndex[k]) {
+            const rep2 = pickRepresentativeIndexImage(k, pollenIndex[k]);
+            if (rep2) reps.push(rep2);
+          } else if (k) {
+            reps.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
+          }
+        }
+        imgsFromEndpoint = reps;
+      }
     }
     if (
       (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
@@ -461,23 +611,12 @@
       Array.isArray(endpoint.images) &&
       endpoint.images.length > 0
     ) {
-      imgsFromEndpoint = endpoint.images;
+      imgsFromEndpoint = tilesFromLegacyEndpointImages(endpoint.images);
     }
     const imgs = imgsFromChoice.concat(imgsFromEndpoint);
     if (imgs.length > 0) return imgs;
-    if (isPlaceholderImagePath(ch.image)) {
-      return [{ image: ch.image, imageHeightPx: ch.imageHeightPx, imageWidthPx: ch.imageWidthPx }];
-    }
-    if (endpoint && isPlaceholderImagePath(endpoint.image)) {
-      return [
-        {
-          image: endpoint.image,
-          imageHeightPx: endpoint.imageHeightPx,
-          imageWidthPx: endpoint.imageWidthPx,
-        },
-      ];
-    }
-    return [];
+    // Nothing resolvable from pollen.json: show a stable placeholder tile.
+    return [{ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 }];
   }
 
   /** Voor placeholdertegels: doelstap bij `next`, anders leeg (eindpunt). */
@@ -569,14 +708,15 @@
     }
     row.style.overflowX = "auto";
     appendImageTilesToFlexRow(row, images, baseUrl, altPrefix, renderOpts);
+    // Append first so offsetHeight measurements are meaningful.
+    container.appendChild(row);
     if (!renderOpts.skipThumbnailNormalize) {
       var cap =
         typeof renderOpts.thumbnailRowMaxPx === "number" && renderOpts.thumbnailRowMaxPx > 0
           ? renderOpts.thumbnailRowMaxPx
           : POLLEN_THUMB_ROW_MAX_PX;
-      normalizePollenThumbnailRow(row, cap);
+      schedulePollenThumbnailNormalize(row, cap);
     }
-    container.appendChild(row);
   }
 
   /** Voor elke stap met een `next`-inkomend: id van de vorige stap (eerste binding wint). */
@@ -599,7 +739,9 @@
   }
 
   /** Platte tabel: alle afbeeldingen van opties op het vorige keuzespunt in één rij + horizontale scroll. */
-  function renderTablePreviousForkStrip(hostEl, forkStepId, steps, pollenIndex, baseUrl) {
+  function renderTablePreviousForkStrip(hostEl, forkStepId, steps, data, pollenIndex, baseUrl) {
+    // Disabled: don't show "Splitsing bij stap ..." anywhere.
+    return;
     if (!forkStepId || !steps[forkStepId]) return;
     var forkStep = steps[forkStepId];
     if (!forkStep.choices || forkStep.choices.length === 0) return;
@@ -623,7 +765,7 @@
         sep.setAttribute("aria-hidden", "true");
         strip.appendChild(sep);
       }
-      var imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+      var imgs = gatherInteractiveChoiceImages(ch, data, pollenIndex);
       var hint = choicePlaceholderHint(ch);
       var altP =
         (ch.label || "Keuze").replace(/\*([^*]*)\*/g, "$1") +
@@ -652,7 +794,9 @@
   }
 
   /** Toont alle keuze-afbeeldingen van het vorige keuzespunt (boven huidige stap / eindpunt). */
-  function appendPreviousForkReminder(hostEl, forkStepId, steps, pollenIndex, baseUrl) {
+  function appendPreviousForkReminder(hostEl, forkStepId, steps, data, pollenIndex, baseUrl) {
+    // Disabled: don't show previous fork reminder.
+    return;
     var forkStep = steps[forkStepId];
     if (!forkStep || !Array.isArray(forkStep.choices) || forkStep.choices.length === 0) return;
 
@@ -673,7 +817,7 @@
       cap.innerHTML = formatEmphasisAst(String(ch.label || "Optie " + (idx + 1)));
       grp.appendChild(cap);
 
-      var imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+      var imgs = gatherInteractiveChoiceImages(ch, data, pollenIndex);
       var hint = choicePlaceholderHint(ch);
       if (imgs.length === 0) {
         var empty = document.createElement("p");
@@ -750,7 +894,14 @@
 
       if (stack.length > 0) {
         var forkFrom = stack[stack.length - 1];
-        appendPreviousForkReminder(stepEl, forkFrom, steps, pollenIndex, dataAbsUrl || document.baseURI);
+        appendPreviousForkReminder(
+          stepEl,
+          forkFrom,
+          steps,
+          data,
+          pollenIndex,
+          dataAbsUrl || document.baseURI
+        );
       }
 
       const choices = step.choices || [];
@@ -769,7 +920,7 @@
         const labelText = ch.label || "Optie " + (idx + 1);
         labelSpan.innerHTML = formatEmphasisAst(labelText);
         btn.appendChild(labelSpan);
-        const imgs = gatherInteractiveChoiceImages(ch, pollenIndex);
+        const imgs = gatherInteractiveChoiceImages(ch, data, pollenIndex);
         const phHint = choicePlaceholderHint(ch);
         if (imgs.length > 0) {
           renderImagesRow(
@@ -806,6 +957,7 @@
                 outcomeEl,
                 forkAt,
                 steps,
+                data,
                 pollenIndex,
                 dataAbsUrl || document.baseURI
               );
@@ -824,6 +976,23 @@
               outcomeEl.appendChild(renderEndpointTable(resolved));
               altLabel = resolved.latin || resolved.dutch || "Eindpunt";
               imgs = resolved.images || [];
+            } else if (endpoint && Array.isArray(endpoint.pollen_keys) && endpoint.pollen_keys.length > 0) {
+              // Group endpoint without a resolvable `pollen_key`: show name + one image per suggested key.
+              const p = document.createElement("p");
+              p.innerHTML = formatEmphasisAst(String(endpoint.name || "Eindpunt"));
+              outcomeEl.appendChild(p);
+              altLabel = String(endpoint.name || "Eindpunt");
+              const reps = [];
+              for (var gi = 0; gi < endpoint.pollen_keys.length; gi++) {
+                var gk = normalizePollenSlug(endpoint.pollen_keys[gi]);
+                if (gk && pollenIndex[gk]) {
+                  const entryImgs = imagesFromIndexEntry(pollenIndex[gk]);
+                  if (entryImgs && entryImgs.length > 0) reps.push(entryImgs[0]);
+                } else if (gk) {
+                  reps.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
+                }
+              }
+              imgs = reps;
             } else {
               const p = document.createElement("p");
               var lines = [];
@@ -1020,7 +1189,7 @@
           result = "-";
           kind = "leeg";
         }
-        let images = gatherInteractiveChoiceImages(ch, pollenIndex);
+        let images = gatherInteractiveChoiceImages(ch, data, pollenIndex);
         var placeholderHint =
           typeof ch.next === "string" && String(ch.next).trim() !== "" ? String(ch.next) : "";
         rows.push({
@@ -1088,8 +1257,6 @@
       var forkParent = incomingParent[String(row.sid)] || "";
       var hayBits =
         row.sid + " " + row.label + " " + row.result + " " + row.kind + " " + forkParent;
-      if (forkParent)
-        hayBits += " splitsing bij stap " + forkParent + " splitsing stap " + forkParent;
       const hay = hayBits.toLowerCase().trim();
       tr.setAttribute("data-vdh-filter", hay);
 
@@ -1105,15 +1272,6 @@
       }
 
       const tdR = document.createElement("td");
-      if (forkParent) {
-        renderTablePreviousForkStrip(
-          tdR,
-          forkParent,
-          steps,
-          pollenIndex || {},
-          dataAbsUrl || document.baseURI
-        );
-      }
       if (row.kind.indexOf("eindpunt") === 0) {
         const outP = document.createElement("div");
         outP.className = "vdh-pollentabel-table-td-result";

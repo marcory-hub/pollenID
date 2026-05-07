@@ -1,6 +1,6 @@
 # 4.7 Ericaceae–Empetrum-groep (Beug)
 
-Onderdeel van de tetradensleutel. Omvat Ericaceae, Empetraceae en alle Pyrolaceae waarvan de soorten tetraden hebben (volgens Beug). Alle**groottevermeldingen** hebben getrekking op de **tetraden**, tenzij anders aangegeven.
+Onderdeel van de tetradensleutel. Omvat Ericaceae, Empetraceae en alle Pyrolaceae waarvan de soorten tetraden hebben (volgens Beug). Alle **groottevermeldingen** hebben betrekking op de **tetraden**, tenzij anders aangegeven.
 
 **Colpus-index:** verhouding tetradediameter : colpuslengte - de totale lengte van de tussen aangrenzende enkele pollenkorrel in elkaar overlopende colpi.
 

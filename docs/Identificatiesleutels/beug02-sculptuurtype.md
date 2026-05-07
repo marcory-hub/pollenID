@@ -1,4 +1,4 @@
-# Determinatiesleutel voor sculptuurtypen (Beug)
+# 2. Determinatiesleutel voor sculptuurtypen (Beug)
 
 <div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug02-sculptuurtype.json"></div>
 
