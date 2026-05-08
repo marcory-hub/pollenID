@@ -17,6 +17,10 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
   - Sort `images` paths and de-duplicate.
   - Do not modify other fields unless explicitly requested.
 
+## Keep entries alphabetical
+- Treat each top-level key (column 0, ending with `:`) as a taxon block.
+- When requested, reorder the file by sorting these blocks alphabetically by key, while keeping each block's internal content unchanged.
+
 ## Mapping images to keys
 - Map an image to a pollen key using the filename stem:
   - Normalize: `-` to `_`, lowercase, collapse `_`.
@@ -63,3 +67,7 @@ Rules:
   `python scripts/sync_yaml_confident_images.py --only-by-taxon`  
   (optional: combine with the usual scan using `--include-by-taxon`.)
 - Move resolved bitmaps into `by-taxon` (rewrites references): `python scripts/migrate_pollen_images_by_taxon.py --apply`
+
+## By-taxon folder to YAML key coverage
+- When requested, inventory `docs/assets/images/by-taxon/*` subfolders and ensure each folder slug exists as a top-level key in `data/pollen.yaml`.
+- For missing slugs, add a minimal stub entry plus an `images:` list containing every `*.png` in that folder (paths under `assets/images/by-taxon/<slug>/...`), using `kind: by_taxon` and `source: by_taxon`.

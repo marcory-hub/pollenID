@@ -221,6 +221,19 @@
   white-space: nowrap;
 }
 
+/* Determinatiesleutels (paden) op taxonpagina's */
+.pid-key-choice {
+  display: inline;
+}
+
+.pid-key-choice--on {
+  color: var(--md-default-fg-color);
+}
+
+.pid-key-choice--off {
+  color: var(--md-default-fg-color--lighter);
+}
+
 .pid-placeholder-image {
   opacity: 0.35;
   filter: grayscale(1);

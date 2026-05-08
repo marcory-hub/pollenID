@@ -43,7 +43,7 @@
 | Verbena officinalis | ijzerhard | О ⁄ ∆ | 27 | glad | 3-colpaat, cyto: gran |
 | Lamium sp. | dovenetel | О ⁄ ∆ | 27-30 | glad/scabraat | 3-colpaat, l, br, scherp begrensde colpi, met stippels erop |
 | Robinia pseudo- | acacia | ∆/O | 27-31 | glad | 3-colporaat, smalle colpi met rond acacia einde, soms spits, dunne exine, intine dikker dan exine |
-| Allium schoenopr. | bieslook | half ovaal | 27 | glad/zw. rugulaat | 1-colpaat |
+| Allium schoenoprasum | bieslook | half ovaal | 27 | glad/zw. rugulaat | 1-colpaat |
 | Aesculus carnea | rode paardekast | ovaal | 28 | glad | 3-colporaat, stippels op colpi, rode olie |
 | Photinia sp. | Photinia | О ⁄ ∆ | 28-30 | glad/scabraat | 3-colporaat, lange colpi spits einde |
 | Malus sp. | appel | ∆ | ca. 30 | glad/rugulaat | 3-colp(or)aat, soms grote pore/colpus, dunne exine |
