@@ -13051,3 +13051,945 @@ sinapis_arvensis:
     - path: assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_4.png
       kind: by_taxon
       source: by_taxon
+
+quercus_robor:
+  latin: Quercus robur
+  dutch: zomereik
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/quercus_robor/quercus_robor_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/quercus_robor/quercus_robor_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/quercus_robor/quercus_robor_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/quercus_robor/quercus_robor_4.png
+      kind: by_taxon
+      source: by_taxon
+
+acer_platanoides:
+  latin: Acer Platanoides
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_4.png
+      kind: by_taxon
+      source: by_taxon
+
+acer_pseudoplatoides:
+  latin: Acer Pseudoplatoides
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/acer_pseudoplatoides/acer_pseudoplatoides_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_pseudoplatoides/acer_pseudoplatoides_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_pseudoplatoides/acer_pseudoplatoides_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/acer_pseudoplatoides/acer_pseudoplatoides_4.png
+      kind: by_taxon
+      source: by_taxon
+
+arctium_lappa:
+  latin: Arctium Lappa
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/arctium_lappa/arctium_lappa_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/arctium_lappa/arctium_lappa_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/arctium_lappa/arctium_lappa_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/arctium_lappa/arctium_lappa_4.png
+      kind: by_taxon
+      source: by_taxon
+
+artemisia_vulgaris:
+  latin: Artemisia Vulgaris
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_5.png
+      kind: by_taxon
+      source: by_taxon
+
+aster_amellus:
+  latin: Aster Amellus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/aster_amellus/aster_amellus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_amellus/aster_amellus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_amellus/aster_amellus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_amellus/aster_amellus_4.png
+      kind: by_taxon
+      source: by_taxon
+
+aster_lanceolatus:
+  latin: Aster Lanceolatus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_4.png
+      kind: by_taxon
+      source: by_taxon
+
+campanula_latifolia:
+  latin: Campanula Latifolia
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/campanula_latifolia/campanula_latifolia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_latifolia/campanula_latifolia_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_latifolia/campanula_latifolia_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_latifolia/campanula_latifolia_4.png
+      kind: by_taxon
+      source: by_taxon
+
+campanula_rotundifolia:
+  latin: Campanula Rotundifolia
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_4.png
+      kind: by_taxon
+      source: by_taxon
+
+dianthus_deltoides:
+  latin: Dianthus Deltoides
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/dianthus_deltoides/dianthus_deltoides_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dianthus_deltoides/dianthus_deltoides_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dianthus_deltoides/dianthus_deltoides_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dianthus_deltoides/dianthus_deltoides_4.png
+      kind: by_taxon
+      source: by_taxon
+
+dipsacus_sylvester:
+  latin: Dipsacus Sylvester
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/dipsacus_sylvester/dipsacus_sylvester_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dipsacus_sylvester/dipsacus_sylvester_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dipsacus_sylvester/dipsacus_sylvester_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/dipsacus_sylvester/dipsacus_sylvester_4.png
+      kind: by_taxon
+      source: by_taxon
+
+euonymus_europaeus:
+  latin: Euonymus Europaeus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/euonymus_europaeus/euonymus_europaeus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/euonymus_europaeus/euonymus_europaeus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/euonymus_europaeus/euonymus_europaeus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/euonymus_europaeus/euonymus_europaeus_4.png
+      kind: by_taxon
+      source: by_taxon
+
+gilia_capitata:
+  latin: Gilia Capitata
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/gilia_capitata/gilia_capitata_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/gilia_capitata/gilia_capitata_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/gilia_capitata/gilia_capitata_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/gilia_capitata/gilia_capitata_4.png
+      kind: by_taxon
+      source: by_taxon
+
+knautia_arvensis:
+  latin: Knautia Arvensis
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/knautia_arvensis/knautia_arvensis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/knautia_arvensis/knautia_arvensis_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/knautia_arvensis/knautia_arvensis_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/knautia_arvensis/knautia_arvensis_4.png
+      kind: by_taxon
+      source: by_taxon
+
+lonicera_caprifolium:
+  latin: Lonicera Caprifolium
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
+      kind: by_taxon
+      source: by_taxon
+
+lonicera_fragrantissima:
+  latin: Lonicera Fragrantissima
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lonicera_fragrantissima/lonicera_fragrantissima_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_fragrantissima/lonicera_fragrantissima_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_fragrantissima/lonicera_fragrantissima_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_fragrantissima/lonicera_fragrantissima_4.png
+      kind: by_taxon
+      source: by_taxon
+
+lonicera_japonica:
+  latin: Lonicera Japonica
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/lonicera_japonica/lonicera_japonica_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_japonica/lonicera_japonica_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_japonica/lonicera_japonica_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lonicera_japonica/lonicera_japonica_4.png
+      kind: by_taxon
+      source: by_taxon
+
+matricaria_chamomilla:
+  latin: Matricaria Chamomilla
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/matricaria_chamomilla/matricaria_chamomilla_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_chamomilla/matricaria_chamomilla_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_chamomilla/matricaria_chamomilla_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_chamomilla/matricaria_chamomilla_4.png
+      kind: by_taxon
+      source: by_taxon
+
+matricaria_recutita:
+  latin: Matricaria Recutita
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_recutita/matricaria_recutita_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_recutita/matricaria_recutita_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/matricaria_recutita/matricaria_recutita_4.png
+      kind: by_taxon
+      source: by_taxon
+
+oenothera_biennis:
+  latin: Oenothera Biennis
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/oenothera_biennis/oenothera_biennis_1.png
+      kind: by_taxon
+      source: by_taxon
+
+phlox_paniculata:
+  latin: Phlox Paniculata
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/phlox_paniculata/phlox_paniculata_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/phlox_paniculata/phlox_paniculata_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/phlox_paniculata/phlox_paniculata_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/phlox_paniculata/phlox_paniculata_4.png
+      kind: by_taxon
+      source: by_taxon
+
+plantago_lanceolata:
+  latin: Plantago Lanceolata
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_4.png
+      kind: by_taxon
+      source: by_taxon
+
+ranunculus_acris:
+  latin: Ranunculus Acris
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_3.png
+      kind: by_taxon
+      source: by_taxon
+
+senecio_cineraria:
+  latin: Senecio Cineraria
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/senecio_cineraria/senecio_cineraria_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/senecio_cineraria/senecio_cineraria_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/senecio_cineraria/senecio_cineraria_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/senecio_cineraria/senecio_cineraria_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/senecio_cineraria/senecio_cineraria_5.png
+      kind: by_taxon
+      source: by_taxon
+
+solidago_virgaurea:
+  latin: Solidago Virgaurea
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_4.png
+      kind: by_taxon
+      source: by_taxon
+
+symphoricarpos_albus:
+  latin: Symphoricarpos Albus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_4.png
+      kind: by_taxon
+      source: by_taxon
+
+tilia_platyphyllos:
+  latin: Tilia Platyphyllos
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_3.png
+      kind: by_taxon
+      source: by_taxon
+
+ulex_europaeus:
+  latin: Ulex Europaeus
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/ulex_europaeus/ulex_europaeus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ulex_europaeus/ulex_europaeus_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ulex_europaeus/ulex_europaeus_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/ulex_europaeus/ulex_europaeus_4.png
+      kind: by_taxon
+      source: by_taxon
+
+weigela_florida:
+  latin: Weigela Florida
+  dutch:
+  family:
+  size: {}
+  shape:
+  polarity:
+  pe_ratio:
+  aperture:
+  ornamentation:
+  image:
+    height_px: 112
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/weigela_florida/weigela_florida_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/weigela_florida/weigela_florida_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/weigela_florida/weigela_florida_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/weigela_florida/weigela_florida_4.png
+      kind: by_taxon
+      source: by_taxon
