@@ -5,291 +5,184 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 4. **Tetradeae**
 
 #### [Calluna vulgaris](calluna_vulgaris.md) (struikheide)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png" style="height: 125px; width: auto;" alt="Calluna vulgaris not hydrated">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png" style="height: 125px; width: auto;" alt="Calluna vulgaris.">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png" style="height: 125px; width: auto;" alt="Calluna vulgaris not hydrated">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png" style="height: 125px; width: auto;" alt="Calluna vulgaris hydrated">
-    </figure>
-  </div>
-</div>
-- Pollen: 27 (22.5-30.0) μm, unit 50 µm, tetrade, verrucaat 
-- Bloeiperiode: juli-september
-- Waarde: N 5, P 5
-- [Heidehoning](../monoflorale-honing-pollen/heidehoning.md), zomerhoning
+{{ pollen_gallery("calluna_vulgaris") }}
+- Latijn: {{ pollen("calluna_vulgaris", "latin") }}
+- Nederlands: {{ pollen("calluna_vulgaris", "dutch") }}
+- Grootte: {{ pollen("calluna_vulgaris", "size.smallest_size") }}-{{ pollen("calluna_vulgaris", "size.largest_size") }}
+- Vorm: {{ pollen("calluna_vulgaris", "shape") }}
+- Sculptuur: {{ pollen("calluna_vulgaris", "sculpture") }}
+- Apertuur: {{ pollen("calluna_vulgaris", "aperture") }}
+- Ornamentatie: {{ pollen("calluna_vulgaris", "ornamentation") }}
 
-#### [Erica tetralix](https://pollenx.eu/species.php?species=Erica_tetralix) (dopheide)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-      <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png" style="height: 125px; width: auto;" alt="Erica tetralix">
-    </figure>
-      <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/erica_tetralix/erica_tetralix_2.png" style="height: 125px; width: auto;" alt="Calluna vulgaris">
-    </figure>
-  </div> </div>
-- In honing: 8.1%, incidenteel in zomerhoning
-- Pollen: 26-50 µm, fossulate, scabrate, verrucate, gemmate
-- Bloeiperiode: juni-september
-- Waarde: N 5, P 5
+#### [Erica tetralix](erica_tetralix.md) (dopheide)
+{{ pollen_gallery("erica_tetralix") }}
+- Latijn: {{ pollen("erica_tetralix", "latin") }}
+- Nederlands: {{ pollen("erica_tetralix", "dutch") }}
+- Grootte: {{ pollen("erica_tetralix", "size.smallest_size") }}-{{ pollen("erica_tetralix", "size.largest_size") }}
+- Vorm: {{ pollen("erica_tetralix", "shape") }}
+- Sculptuur: {{ pollen("erica_tetralix", "sculpture") }}
+- Apertuur: {{ pollen("erica_tetralix", "aperture") }}
+- Ornamentatie: {{ pollen("erica_tetralix", "ornamentation") }}
 
-#### [Erica carnea](https://pollenx.eu/species.php?species=Erica_carnea) (winterheide/Erica vagans)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png" style="height: 125px; width: auto;" alt="Erica_carnea">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png" style="height: 125px; width: auto;" alt="Erica_carnea">
-    </figure>
-  </div>
-</div>
-- Pollen: 26-50 µm
-- Bloeiperiode: juni-september
-- Waarde: N 5, P 5
-- In honing: 1.3%
+#### [Erica carnea](erica_tetralix.md) (winterheide/Erica vagans)
+{{ pollen_gallery("erica_tetralix") }}
+- Latijn: {{ pollen("erica_tetralix", "latin") }}
+- Nederlands: {{ pollen("erica_tetralix", "dutch") }}
+- Grootte: {{ pollen("erica_tetralix", "size.smallest_size") }}-{{ pollen("erica_tetralix", "size.largest_size") }}
+- Vorm: {{ pollen("erica_tetralix", "shape") }}
+- Sculptuur: {{ pollen("erica_tetralix", "sculpture") }}
+- Apertuur: {{ pollen("erica_tetralix", "aperture") }}
+- Ornamentatie: {{ pollen("erica_tetralix", "ornamentation") }}
 
-#### [Vaccinium vitis-ideae](https://pollenx.eu/species.php?species=Vaccinium_vitis-idaea) (vossebes)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png" style="height: 88px; width: auto;" alt="Vaccinium vitis-idea">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png" style="height: 88px; width: auto;" alt="Vaccinium vitis-idea">
-    </figure>
-  </div>
-</div>
-- Pollen: 35 (31.5-40.9) μm, psilate, scabrate
-- Bloeiperiode: juni-september
-- Waarde:
-- In honing: 1.3%, incidenteel in zomerhoning 
+#### [Vaccinium vitis-ideae](vaccinium_vitis_idaea.md) (vossebes)
+{{ pollen_gallery("vaccinium_vitis_idaea") }}
+- Latijn: {{ pollen("vaccinium_vitis_idaea", "latin") }}
+- Nederlands: {{ pollen("vaccinium_vitis_idaea", "dutch") }}
+- Grootte: {{ pollen("vaccinium_vitis_idaea", "size.smallest_size") }}-{{ pollen("vaccinium_vitis_idaea", "size.largest_size") }}
+- Vorm: {{ pollen("vaccinium_vitis_idaea", "shape") }}
+- Sculptuur: {{ pollen("vaccinium_vitis_idaea", "sculpture") }}
+- Apertuur: {{ pollen("vaccinium_vitis_idaea", "aperture") }}
+- Ornamentatie: {{ pollen("vaccinium_vitis_idaea", "ornamentation") }}
 
-#### [Rhododendron dauricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_dauricum) (rhododendron)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_2.png" style="height: 123px; width: auto;" alt="Rhododendron_dauricum_Po">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rhododendron_ponticum/rhododendron_ponticum_1.png" style="height: 123px; width: auto;" alt="Rhododendron_dauricum_Pd">
-    </figure>
-  </div>
-</div>
-- Pollen: 49 (45.8-40.6) μm, scabraat tot verrucaat
-- Bloeiperiode: april-mei
-- Waarde: 
-- In honing: 1.9%, [Rhododendronhoning](../monoflorale-honing-pollen/rhododendronhoning.md)
+#### [Rhododendron dauricum](rhododendron_ponticum.md) (rhododendron)
+{{ pollen_gallery("rhododendron_ponticum") }}
+- Latijn: {{ pollen("rhododendron_ponticum", "latin") }}
+- Nederlands: {{ pollen("rhododendron_ponticum", "dutch") }}
+- Grootte: {{ pollen("rhododendron_ponticum", "size.smallest_size") }}-{{ pollen("rhododendron_ponticum", "size.largest_size") }}
+- Vorm: {{ pollen("rhododendron_ponticum", "shape") }}
+- Sculptuur: {{ pollen("rhododendron_ponticum", "sculpture") }}
+- Apertuur: {{ pollen("rhododendron_ponticum", "aperture") }}
+- Ornamentatie: {{ pollen("rhododendron_ponticum", "ornamentation") }}
 
 #### [Vaccinium myrtillus](https://pollenx.eu/species.php?species=Vaccinium_myrtillus) (bosbes)-incidenteel in zomerhoning
-#### [Pieris Japonica](https://pollen.tstebler.ch/MediaWiki/index.php?title=Pieris_japonica) (rotsheide)
+#### [Pieris Japonica](pieris_japonica.md) (rotsheide)
 #### [Vaccinium corymbosum](https://pollenx.eu/species.php?species=Vaccinium_corymbosum) (blauwe bes)
 #### [Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata/301425) (trompetboom)
 
 ### 6. **Vesiculatae**
 
 #### [Pinus sylvestris](https://pollenx.eu/species.php?species=Pinus_sylvestris) (grove den)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/pinus_silvestris/pinus_silvestris_1.png" style="height: 162px; width: auto;" alt="Pinus sylvestris">
-    </figure>
-  </div>
-</div>
-- Pollen: 65 μm, reticulaat
-- Bloeiperiode: april-mei
-- Waarde:
-- In honing: 2.5%, secundaire inbreng
+{{ pollen_gallery("pinus_sylvestris") }}
+- Latijn: {{ pollen("pinus_sylvestris", "latin") }}
+- Nederlands: {{ pollen("pinus_sylvestris", "dutch") }}
+- Grootte: {{ pollen("pinus_sylvestris", "size.smallest_size") }}-{{ pollen("pinus_sylvestris", "size.largest_size") }}
+- Vorm: {{ pollen("pinus_sylvestris", "shape") }}
+- Sculptuur: {{ pollen("pinus_sylvestris", "sculpture") }}
+- Apertuur: {{ pollen("pinus_sylvestris", "aperture") }}
+- Ornamentatie: {{ pollen("pinus_sylvestris", "ornamentation") }}
 
 ### 7. **Inaperturatae inclusief polyplicatae**
 
-#### [Juniperus communis](https://www.paldat.org/pub/Juniperus_communis/) (cupressaceae) (jeneverbes)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juniperus_communis/juniperus_communis_1.png" style="height: 70px; width: auto;" alt="Juniperus communis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juniperus_communis/juniperus_communis_2.png" style="height: 70px; width: auto;" alt="Juniperus communis">
-    </figure>
-  </div>
-</div>
-- Pollen: 26–30 μm, verrucate, scabrate, gemmate sculptuur
-- Bloeiperiode: maart–mei
-- Waarde:
-- In honing: 1.3%
+#### [Juniperus communis](juniperus_communis.md) (cupressaceae) (jeneverbes)
+{{ pollen_gallery("juniperus_communis") }}
+- Latijn: {{ pollen("juniperus_communis", "latin") }}
+- Nederlands: {{ pollen("juniperus_communis", "dutch") }}
+- Grootte: {{ pollen("juniperus_communis", "size.smallest_size") }}-{{ pollen("juniperus_communis", "size.largest_size") }}
+- Vorm: {{ pollen("juniperus_communis", "shape") }}
+- Sculptuur: {{ pollen("juniperus_communis", "sculpture") }}
+- Apertuur: {{ pollen("juniperus_communis", "aperture") }}
+- Ornamentatie: {{ pollen("juniperus_communis", "ornamentation") }}
 
-#### [Laurus nobilis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Laurus_nobilis) (laurier)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lauris_nobilis/lauris_nobilis_1.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lauris_nobilis/lauris_nobilis_1.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lauris_nobilis/lauris_nobilis_1.png" style="height: 95px; width: auto;" alt="Laurus nobilis">
-    </figure>
-  </div>
-</div>
-- Pollen: 38 (34.1–40.1) μm, echinaat (echini zijn kort, breed, piramide vormig tot verrucaat)
-- Bloeiperiode: maart–april
-- Waarde: 
-- In honing: 0.6%
+#### [Laurus nobilis](lauris_nobilis.md) (laurier)
+{{ pollen_gallery("lauris_nobilis") }}
+- Latijn: {{ pollen("lauris_nobilis", "latin") }}
+- Nederlands: {{ pollen("lauris_nobilis", "dutch") }}
+- Grootte: {{ pollen("lauris_nobilis", "size.smallest_size") }}-{{ pollen("lauris_nobilis", "size.largest_size") }}
+- Vorm: {{ pollen("lauris_nobilis", "shape") }}
+- Sculptuur: {{ pollen("lauris_nobilis", "sculpture") }}
+- Apertuur: {{ pollen("lauris_nobilis", "aperture") }}
+- Ornamentatie: {{ pollen("lauris_nobilis", "ornamentation") }}
 
-#### [Populus sp](https://pollenx.eu/species.php?species=Populus_nigra) (populier)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/populus_nigra/populus_nigra_1.png" style="height: 73px; width: auto;" alt="Populus_nigra">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/populus_nigra/populus_nigra_1.png" style="height: 73px; width: auto;" alt="Populus_nigra">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/populus_nigra/populus_nigra_1.png" style="height: 73px; width: auto;" alt="Populus_nigra">
-    </figure>
-  </div>
-</div>
-- Pollen: 29 (24.3-31.6) μm, gemmate, microreticulate, scabrate, echinate, verrucate
-- Bloeiperiode: 
-- Waarde:
-- In honing: 0.6% secundaire inbreng
+#### [Populus sp](populus_nigra.md) (populier)
+{{ pollen_gallery("populus_nigra") }}
+- Latijn: {{ pollen("populus_nigra", "latin") }}
+- Nederlands: {{ pollen("populus_nigra", "dutch") }}
+- Grootte: {{ pollen("populus_nigra", "size.smallest_size") }}-{{ pollen("populus_nigra", "size.largest_size") }}
+- Vorm: {{ pollen("populus_nigra", "shape") }}
+- Sculptuur: {{ pollen("populus_nigra", "sculpture") }}
+- Apertuur: {{ pollen("populus_nigra", "aperture") }}
+- Ornamentatie: {{ pollen("populus_nigra", "ornamentation") }}
 
-#### [Taxus baccata](https://pollenx.eu/species.php?species=Taxus_baccata) (taxus)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taxus_baccata/taxus_baccata_1.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taxus_baccata/taxus_baccata_2.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taxus_baccata/taxus_baccata_3.png" style="height: 65px; width: auto;" alt="Taxus_baccata_o">
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (22.5-31.1) μm, scabraat, gemmaat tot verrucaat
-- Bloeiperiode: maart-april
-- Waarde: N 0, P 3
-- In honing: 0.6%
+#### [Taxus baccata](taxus_baccata.md) (taxus)
+{{ pollen_gallery("taxus_baccata") }}
+- Latijn: {{ pollen("taxus_baccata", "latin") }}
+- Nederlands: {{ pollen("taxus_baccata", "dutch") }}
+- Grootte: {{ pollen("taxus_baccata", "size.smallest_size") }}-{{ pollen("taxus_baccata", "size.largest_size") }}
+- Vorm: {{ pollen("taxus_baccata", "shape") }}
+- Sculptuur: {{ pollen("taxus_baccata", "sculpture") }}
+- Apertuur: {{ pollen("taxus_baccata", "aperture") }}
+- Ornamentatie: {{ pollen("taxus_baccata", "ornamentation") }}
 
-#### [Thuja sp.](https://pollen.tstebler.ch/MediaWiki/index.php?title=Thuja_occidentalis) (levensboom, uit geslacht van coniferen)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/thuja_occidentalis/thuja_occidentalis_1.png" style="height: 88px; width: auto;" alt="Thuja_occidentalis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/thuja_occidentalis/thuja_occidentalis_1.png" style="height: 88px; width: auto;" alt="Thuja_occidentalis">
-    </figure>
-  </div>
-</div>
-- Pollen: 35 (30.7-38.1) μm, scabraat (k), gemmaat tot verrucaat (pw)
-- Bloeiperiode: divers
-- Waarde: onbekend
-- In honing:
-
+#### [Thuja sp.](thuja_occidentalis.md) (levensboom, uit geslacht van coniferen)
+{{ pollen_gallery("thuja_occidentalis") }}
+- Latijn: {{ pollen("thuja_occidentalis", "latin") }}
+- Nederlands: {{ pollen("thuja_occidentalis", "dutch") }}
+- Grootte: {{ pollen("thuja_occidentalis", "size.smallest_size") }}-{{ pollen("thuja_occidentalis", "size.largest_size") }}
+- Vorm: {{ pollen("thuja_occidentalis", "shape") }}
+- Sculptuur: {{ pollen("thuja_occidentalis", "sculpture") }}
+- Apertuur: {{ pollen("thuja_occidentalis", "aperture") }}
+- Ornamentatie: {{ pollen("thuja_occidentalis", "ornamentation") }}
 
 ### 8. **Monoporatae**
 
-#### [Poaceae](https://pollenx.eu/species.php?species=Poaceae) [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
+#### [Poaceae](poaceae.md) [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
 - In honing: 16.3%, secundaire inbreng
 
 #### [Alopecurus pratensis](https://pollenx.eu/species.php?species=Alopecurus_pratensis) (grote vossestaart)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_1.png" style="height: 73px; width: auto;" alt="Alopecurus_pratensis_E">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_1.png" style="height: 73px; width: auto;" alt="Alopecurus_pratensis_P">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/populus_nigra/populus_nigra_1.png" style="height: 73px; width: auto;" alt="Populus_nigra">
-    </figure>
- </div>
-</div>
+{{ pollen_gallery("alopecurus_pratensis") }}
+- Latijn: {{ pollen("alopecurus_pratensis", "latin") }}
+- Nederlands: {{ pollen("alopecurus_pratensis", "dutch") }}
+- Grootte: {{ pollen("alopecurus_pratensis", "size.smallest_size") }}-{{ pollen("alopecurus_pratensis", "size.largest_size") }}
+- Vorm: {{ pollen("alopecurus_pratensis", "shape") }}
+- Sculptuur: {{ pollen("alopecurus_pratensis", "sculpture") }}
+- Apertuur: {{ pollen("alopecurus_pratensis", "aperture") }}
+- Ornamentatie: {{ pollen("alopecurus_pratensis", "ornamentation") }}
 
-#### [Zea mays](https://pollenx.eu/species.php?species=Zea_mays) (mais)
+#### [Zea mays](zea_mays.md) (mais)
 - In honing: 
 - Pollen: 84 (76.9-88.3) μm, rugulaat tot verrucaat
 - Bloeiperiode: juni-augustus
 - Waarde: N 0, P 5
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/zea_mays/zea_mays_1.png" style="height: 210px; width: auto;" alt="Zea_mays">
-    </figure>
- </div>
-</div>
-- In honing: secundaire inbreng
-- Pollen: 29 (26.4-30.8) μm, psilate, scabrate sculptuur, operculate, annulate apertuur
-- Bloeiperiode: 
-- Waarde: 
+{{ pollen_gallery("zea_mays") }}
+- Latijn: {{ pollen("zea_mays", "latin") }}
+- Nederlands: {{ pollen("zea_mays", "dutch") }}
+- Grootte: {{ pollen("zea_mays", "size.smallest_size") }}-{{ pollen("zea_mays", "size.largest_size") }}
+- Vorm: {{ pollen("zea_mays", "shape") }}
+- Sculptuur: {{ pollen("zea_mays", "sculpture") }}
+- Apertuur: {{ pollen("zea_mays", "aperture") }}
+- Ornamentatie: {{ pollen("zea_mays", "ornamentation") }}
 
-#### [Nymphaea alba](https://pollenx.eu/species.php?species=Nymphaea_alba)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/nymphaea_alba/nymphaea_alba_2.png" style="height: 95px; width: auto;" alt="Nymphaea alba">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/nymphaea_alba/nymphaea_alba_1.png" style="height: 95px; width: auto;" alt="Nymphaea alba">
-    </figure>
-  </div>
-</div>
-- Pollen: 38 (34.8-42.9) μm, baculate, clavate, echinate tot psilate sculptuur, één zijde met grote ornametering and de andere zijde duidelijk minder
-- Bloeiperiode: mei-augustus
-- Waarde: N 0, P 1
-- In honing: 
+#### [Nymphaea alba](nymphaea_alba.md)
+{{ pollen_gallery("nymphaea_alba") }}
+- Latijn: {{ pollen("nymphaea_alba", "latin") }}
+- Nederlands: {{ pollen("nymphaea_alba", "dutch") }}
+- Grootte: {{ pollen("nymphaea_alba", "size.smallest_size") }}-{{ pollen("nymphaea_alba", "size.largest_size") }}
+- Vorm: {{ pollen("nymphaea_alba", "shape") }}
+- Sculptuur: {{ pollen("nymphaea_alba", "sculpture") }}
+- Apertuur: {{ pollen("nymphaea_alba", "aperture") }}
+- Ornamentatie: {{ pollen("nymphaea_alba", "ornamentation") }}
 
 ### 9. **Monocolpatae**
 
-#### [Magnolia kobus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Magnolia_kobus) (magnolia)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/magnolia_kobus/magnolia_kobus_1.png" style="height: 103px; width: auto;" alt="Magnolia_kobus_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/magnolia_kobus/magnolia_kobus_1.png" style="height: 103px; width: auto;" alt="Magnolia_kobus_Eo2">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/magnolia_kobus/magnolia_kobus_1.png" style="height: 103px; width: auto;" alt="Magnolia_kobus_Eo3">
-    </figure>
- </div>
-</div>
-- Pollen: 41 (34.6-48.2) μm, rugulate tot verrucate, deels gering reticulate sculptuur
-- Bloeiperiode: maart-april
-- Waarde:
-- In honing: 1.9%
+#### [Magnolia kobus](magnolia_kobus.md) (magnolia)
+{{ pollen_gallery("magnolia_kobus") }}
+- Latijn: {{ pollen("magnolia_kobus", "latin") }}
+- Nederlands: {{ pollen("magnolia_kobus", "dutch") }}
+- Grootte: {{ pollen("magnolia_kobus", "size.smallest_size") }}-{{ pollen("magnolia_kobus", "size.largest_size") }}
+- Vorm: {{ pollen("magnolia_kobus", "shape") }}
+- Sculptuur: {{ pollen("magnolia_kobus", "sculpture") }}
+- Apertuur: {{ pollen("magnolia_kobus", "aperture") }}
+- Ornamentatie: {{ pollen("magnolia_kobus", "ornamentation") }}
 
-#### [Lilium regale](https://pollenx.eu/species.php?species=Lilium_regale) (koningslelie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lilium_regale/lilium_regale_1.png" style="height: 175px; width: auto;" alt="Lilium_regale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lilium_regale/lilium_regale_1.png" style="height: 175px; width: auto;" alt="Lilium_regale">
-    </figure>
- </div>
-</div>
-- Pollen: 70 (65.8-73.0) μm, grof reticulaat
-- Bloeiperiode: 
-- Waarde:
-- In honing: 12.5%
+#### [Lilium regale](lilium_regale.md) (koningslelie) 
+{{ pollen_gallery("lilium_regale") }}
+- Latijn: {{ pollen("lilium_regale", "latin") }}
+- Nederlands: {{ pollen("lilium_regale", "dutch") }}
+- Grootte: {{ pollen("lilium_regale", "size.smallest_size") }}-{{ pollen("lilium_regale", "size.largest_size") }}
+- Vorm: {{ pollen("lilium_regale", "shape") }}
+- Sculptuur: {{ pollen("lilium_regale", "sculpture") }}
+- Apertuur: {{ pollen("lilium_regale", "aperture") }}
+- Ornamentatie: {{ pollen("lilium_regale", "ornamentation") }}
 
 #### [Muscari odorata](https://pollenx.eu/species.php?species=Muscari_odorata) (blauwe druifhyacint)
 #### [Asparagus-Type](https://pollenx.eu/species.php?species=Asparagus-Type) (asperge)
@@ -311,66 +204,41 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Scilla bifolia](https://pollenx.eu/species.php?species=Scilla_bifolia)
 #### [Scilla nonscripta](https://pollenx.eu/species.php?species=Scilla_nonscripta)
 #### [Tulipa sp.](https://pollenx.eu/species.php?species=Tulipa_sp.)
-#### [Allium cepa](https://pollenx.eu/species.php?species=Allium_cepa)
-#### [Allium schoenopr.](https://pollenx.eu/species.php?species=Allium_schoenopr.)
+#### [Allium cepa](allium_cepa.md)
+#### [Allium schoenoprasum](https://pollenx.eu/species.php?species=Allium_schoenoprasum)
 #### [Allium ursinum](https://pollenx.eu/species.php?species=Allium_ursinum)
 
 ### 10. **Syncolpatae**
 
 #### [Berberis vulgaris](https://pollenx.eu/species.php?species=Berberis_vulgaris) (zuurbes)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png" style="height: 115px; width: auto;" alt="Berberis_vulgaris_o">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png" style="height: 115px; width: auto;" alt="Berberis_vulgaris_o">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png" style="height: 115px; width: auto;" alt="Berberis_vulgaris_o">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png" style="height: 115px; width: auto;" alt="Berberis_vulgaris_o">
-    </figure>
-  </div>
-</div>
-- Pollen: 46 (39.5-51.9) μm, scabrate, psilate, verrucate, gemmate sculptuur, spiraperturate deels met korrelige tot verrucate ornamentatie
-- Bloeiperiode: mei-juni
-- Waarde: N 5-P 5
-- In honing: 1.9%
+{{ pollen_gallery("berberis_vulgaris") }}
+- Latijn: {{ pollen("berberis_vulgaris", "latin") }}
+- Nederlands: {{ pollen("berberis_vulgaris", "dutch") }}
+- Grootte: {{ pollen("berberis_vulgaris", "size.smallest_size") }}-{{ pollen("berberis_vulgaris", "size.largest_size") }}
+- Vorm: {{ pollen("berberis_vulgaris", "shape") }}
+- Sculptuur: {{ pollen("berberis_vulgaris", "sculpture") }}
+- Apertuur: {{ pollen("berberis_vulgaris", "aperture") }}
+- Ornamentatie: {{ pollen("berberis_vulgaris", "ornamentation") }}
 
+#### [Crocus albiflorus](crocus_albiflorus.md)
+{{ pollen_gallery("crocus_albiflorus") }}
+- Latijn: {{ pollen("crocus_albiflorus", "latin") }}
+- Nederlands: {{ pollen("crocus_albiflorus", "dutch") }}
+- Grootte: {{ pollen("crocus_albiflorus", "size.smallest_size") }}-{{ pollen("crocus_albiflorus", "size.largest_size") }}
+- Vorm: {{ pollen("crocus_albiflorus", "shape") }}
+- Sculptuur: {{ pollen("crocus_albiflorus", "sculpture") }}
+- Apertuur: {{ pollen("crocus_albiflorus", "aperture") }}
+- Ornamentatie: {{ pollen("crocus_albiflorus", "ornamentation") }}
 
-#### [Crocus albiflorus](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_1.png" style="height: 250px; width: auto;" alt="Crocus_albiflorus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_2.png" style="height: 250px; width: auto;" alt="Crocus_albiflorus">
-    </figure>
-  </div>
-</div>
-- Pollen: 100 μm
-- Bloeiperiode: februari-april
-- Waarde: N 5, P 5 
-- In honing:
-
-#### [Crocus ancyrensis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_ancyrensis)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_1.png" style="height: 175px; width: auto;" alt="Crocus_ancyrensis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_2.png" style="height: 175px; width: auto;" alt="Crocus_ancyrensis">
-    </figure>
-  </div>
-</div>
-- Pollen: 70 (65.8-73.2) μm, verrucate sculptuur
-- Bloeiperiode: februari-april
-- Waarde: N 5, P 5 
-- In honing:
+#### [Crocus ancyrensis](crocus_ancyrensis.md)
+{{ pollen_gallery("crocus_ancyrensis") }}
+- Latijn: {{ pollen("crocus_ancyrensis", "latin") }}
+- Nederlands: {{ pollen("crocus_ancyrensis", "dutch") }}
+- Grootte: {{ pollen("crocus_ancyrensis", "size.smallest_size") }}-{{ pollen("crocus_ancyrensis", "size.largest_size") }}
+- Vorm: {{ pollen("crocus_ancyrensis", "shape") }}
+- Sculptuur: {{ pollen("crocus_ancyrensis", "sculpture") }}
+- Apertuur: {{ pollen("crocus_ancyrensis", "aperture") }}
+- Ornamentatie: {{ pollen("crocus_ancyrensis", "ornamentation") }}
 
 #### [Mahonia aquifolia](https://pollenx.eu/species.php?species=Mahonia_aquifolia)
 #### [Primula vulgaris](https://pollenx.eu/species.php?species=Primula_vulgaris)
@@ -381,68 +249,35 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 13. **Tricolpaat-Psilate, scabrate, verrucate of microverrucate pollen**
 
-#### [Quercus robur](https://pollenx.eu/species.php?species=Quercus_robur) (eik)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/quercus_robor/quercus_robor_1.png" style="height: 83px; width: auto;" alt="Quercus_robor">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/quercus_robor/quercus_robor_1.png" style="height: 83px; width: auto;" alt="Quercus_robor">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/quercus_robor/quercus_robor_1.png" style="height: 83px; width: auto;" alt="Quercus_robor"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/quercus_robor/quercus_robor_1.png" style="height: 83px; width: auto;" alt="Quercus_robor">
-    </figure>
-  </div>
-</div>
-- Pollen: 33 (29.3-38.1) μm, scabrate, verrucate, gemmate sculpturen
-- Bloeiperiode: mei-mei
-- Waarde: P 0
-- In honing: 9.4% secundaire inbreng
+#### [Quercus robur](quercus_robor.md) (eik)
+{{ pollen_gallery("quercus_robor") }}
+- Latijn: {{ pollen("quercus_robor", "latin") }}
+- Nederlands: {{ pollen("quercus_robor", "dutch") }}
+- Grootte: {{ pollen("quercus_robor", "size.smallest_size") }}-{{ pollen("quercus_robor", "size.largest_size") }}
+- Vorm: {{ pollen("quercus_robor", "shape") }}
+- Sculptuur: {{ pollen("quercus_robor", "sculpture") }}
+- Apertuur: {{ pollen("quercus_robor", "aperture") }}
+- Ornamentatie: {{ pollen("quercus_robor", "ornamentation") }}
 
-#### [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) (scherpe boterbloem) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png" style="height: 73px; width: auto;" alt="Ranunculus_acris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png" style="height: 73px; width: auto;" alt="Ranunculus_acris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png" style="height: 73px; width: auto;" alt="Ranunculus_acris"> 
-    </figure>
-  </div>
-</div>
-- Pollen: 29 (27.0-34.9) μm, scabrate, microechinate, granulate, echinate sculptuur, aperturen korrelige ornamentatie.  Syncolpaat of pericoplaat zijn ook mogelijk.
-- Bloeiperiode: april-oktober
-- Waarde: N 1, P 1
-- In honing: 4.4%
+#### [Ranunculus acris](ranunculus_acris.md) (scherpe boterbloem) 
+{{ pollen_gallery("ranunculus_acris") }}
+- Latijn: {{ pollen("ranunculus_acris", "latin") }}
+- Nederlands: {{ pollen("ranunculus_acris", "dutch") }}
+- Grootte: {{ pollen("ranunculus_acris", "size.smallest_size") }}-{{ pollen("ranunculus_acris", "size.largest_size") }}
+- Vorm: {{ pollen("ranunculus_acris", "shape") }}
+- Sculptuur: {{ pollen("ranunculus_acris", "sculpture") }}
+- Apertuur: {{ pollen("ranunculus_acris", "aperture") }}
+- Ornamentatie: {{ pollen("ranunculus_acris", "ornamentation") }}
 
-#### [Papaver somniferum](https://pollenx.eu/species.php?species=Papaver_somniferum) (papaver, slaapbol) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_1.png" style="height: 75px; width: auto;" alt="Papaver_somnoliferum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_1.png" style="height: 75px; width: auto;" alt="Papaver_somnoliferum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_1.png" style="height: 75px; width: auto;" alt="Papaver_somnoliferum"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_1.png" style="height: 75px; width: auto;" alt="Papaver_somnoliferum">
-    </figure>
-  </div>
-</div>
-- Pollen: 30 (28.0-32.0) μm
-- Bloeiperiode: juni-augustus
-- Waarde: N 0, P 5
-- In honing: 5.0%, secundaire inbreng
+#### [Papaver somniferum](papaver_somnoliferum.md) (papaver, slaapbol) 
+{{ pollen_gallery("papaver_somnoliferum") }}
+- Latijn: {{ pollen("papaver_somnoliferum", "latin") }}
+- Nederlands: {{ pollen("papaver_somnoliferum", "dutch") }}
+- Grootte: {{ pollen("papaver_somnoliferum", "size.smallest_size") }}-{{ pollen("papaver_somnoliferum", "size.largest_size") }}
+- Vorm: {{ pollen("papaver_somnoliferum", "shape") }}
+- Sculptuur: {{ pollen("papaver_somnoliferum", "sculpture") }}
+- Apertuur: {{ pollen("papaver_somnoliferum", "aperture") }}
+- Ornamentatie: {{ pollen("papaver_somnoliferum", "ornamentation") }}
 
 #### [Ficaria verna](https://pollenx.eu/species.php?species=Ficaria_verna) (gewoon speenkruid)
 #### [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) (witte dovenetel)
@@ -457,278 +292,111 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Vinca sp.](https://pollenx.eu/species.php?species=Vinca_sp.)
 #### [Teucrium chamae](https://pollenx.eu/species.php?species=Teucrium_chamae)
 #### [Nigella damasc.](https://pollenx.eu/species.php?species=Nigella_damasc.)
-#### [Anemone](https://pollenx.eu/species.php?species=Anemone)
+#### [Anemone](anemone.md)
 #### [Clematis vitalba](https://pollenx.eu/species.php?species=Clematis_vitalba)
 #### [Caltha palustris](https://pollenx.eu/species.php?species=Caltha_palustris)
 
 ### 14. **Tricolporaat-Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Lotus corniculatus](https://pollenx.eu/species.php?species=Lotus_corniculatus) (rolklaver)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_2.png" style="height: 32px; width: auto;" alt="Lotus_corniculatus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_3.png" style="height: 32px; width: auto;" alt="Lotus_corniculatus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_1.png" style="height: 48px; width: auto;" alt="Lotus_corniculatus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_4.png" style="height: 48px; width: auto;" alt="Lotus_corniculatus">
-    </figure>
-  </div>
-</div>
-- Pollen: 19 (17.4-20.5) μm, psilate, scabrate sculpturen
-- Bloeiperiode: juni-september
-- Waarde: N 3, P 3
-- In honing: 23.1% (k), 34.2% (db)
+{{ pollen_gallery("lotus_corniculatus") }}
+- Latijn: {{ pollen("lotus_corniculatus", "latin") }}
+- Nederlands: {{ pollen("lotus_corniculatus", "dutch") }}
+- Grootte: {{ pollen("lotus_corniculatus", "size.smallest_size") }}-{{ pollen("lotus_corniculatus", "size.largest_size") }}
+- Vorm: {{ pollen("lotus_corniculatus", "shape") }}
+- Sculptuur: {{ pollen("lotus_corniculatus", "sculpture") }}
+- Apertuur: {{ pollen("lotus_corniculatus", "aperture") }}
+- Ornamentatie: {{ pollen("lotus_corniculatus", "ornamentation") }}
 
-#### [Castanea sativa](https://pollenx.eu/species.php?species=Castanea_sativa) (tamme kastanje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_4.png" style="height: 30px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_9.png" style="height: 30px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_10.png" style="height: 30px; width: auto;" alt="Castanea_sativa"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_3.png" style="height: 30px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_8.png" style="height: 30px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_12.png" style="height: 40px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_13.png" style="height: 40px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_15.png" style="height: 40px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_11.png" style="height: 40px; width: auto;" alt="Castanea_sativa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/castanea_sativa/castanea_sativa_14.png" style="height: 40px; width: auto;" alt="Castanea_sativa">
-    </figure>
-  </div>
-</div>
-- Pollen: 16 (14.6-17.1) μm, rugulate, psilate sculpturen
-- Bloeiperiode: juni-juni
-- Waarde: N 5, P 5
-- In honing: 23.1% (k), 21.3% (db) [Tammekastanjehoning](../monoflorale-honing-pollen/tammekastanjehoning.md)
+#### [Castanea sativa](castanea_sativa.md) (tamme kastanje)
+{{ pollen_gallery("castanea_sativa") }}
+- Latijn: {{ pollen("castanea_sativa", "latin") }}
+- Nederlands: {{ pollen("castanea_sativa", "dutch") }}
+- Grootte: {{ pollen("castanea_sativa", "size.smallest_size") }}-{{ pollen("castanea_sativa", "size.largest_size") }}
+- Vorm: {{ pollen("castanea_sativa", "shape") }}
+- Sculptuur: {{ pollen("castanea_sativa", "sculpture") }}
+- Apertuur: {{ pollen("castanea_sativa", "aperture") }}
+- Ornamentatie: {{ pollen("castanea_sativa", "ornamentation") }}
 
-#### [Frangula alnus](https://pollenx.eu/species.php?species=Frangula_alnus) (Rhamnus frangula / vuilboom / sporkehout)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/frangula_alnus/frangula_alnus_1.png" style="height: 50px; width: auto;" alt="Frangula_alnus"> 
-    </figure>
-  </div>
-</div>
-- Pollen: 16-20 µm, psilate sculptuur
-- Bloeiperiode: mei-september
-- Waarde: P 5, N 5
-- In honing: 22.5% (k), 35.4% (db)
+#### [Frangula alnus](frangula_alnus.md) (Rhamnus frangula / vuilboom / sporkehout)
+{{ pollen_gallery("frangula_alnus") }}
+- Latijn: {{ pollen("frangula_alnus", "latin") }}
+- Nederlands: {{ pollen("frangula_alnus", "dutch") }}
+- Grootte: {{ pollen("frangula_alnus", "size.smallest_size") }}-{{ pollen("frangula_alnus", "size.largest_size") }}
+- Vorm: {{ pollen("frangula_alnus", "shape") }}
+- Sculptuur: {{ pollen("frangula_alnus", "sculpture") }}
+- Apertuur: {{ pollen("frangula_alnus", "aperture") }}
+- Ornamentatie: {{ pollen("frangula_alnus", "ornamentation") }}
 
-#### [Centaurea cyanus](https://pollenx.eu/species.php?species=Centaurea_cyanus) (korenbloem)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png" style="height: 94px; width: auto;" alt="Centaurea_cyanus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_2.png" style="height: 78px; width: auto;" alt="Centaurea_cyanus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_3.png" style="height: 78px; width: auto;" alt="Centaurea_cyanus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_4.png" style="height: 78px; width: auto;" alt="Centaurea_cyanus">
-    </figure>
-  </div>
-</div>
-- Pollen: k: 38x31; pw: 41 (38.2-45.3); 34 (30.9-40.8) μm, pd: 26-50 µm, scabrate, microechinate, verrucate sculptuur
-- Bloeiperiode: juni-augustus
-- Waarde: N 5, P 5
-- In honing: 17.5% (k), 7.6% (db)
+#### [Centaurea cyanus](centaurea_cyanus.md) (korenbloem)
+{{ pollen_gallery("centaurea_cyanus") }}
+- Latijn: {{ pollen("centaurea_cyanus", "latin") }}
+- Nederlands: {{ pollen("centaurea_cyanus", "dutch") }}
+- Grootte: {{ pollen("centaurea_cyanus", "size.smallest_size") }}-{{ pollen("centaurea_cyanus", "size.largest_size") }}
+- Vorm: {{ pollen("centaurea_cyanus", "shape") }}
+- Sculptuur: {{ pollen("centaurea_cyanus", "sculpture") }}
+- Apertuur: {{ pollen("centaurea_cyanus", "aperture") }}
+- Ornamentatie: {{ pollen("centaurea_cyanus", "ornamentation") }}
 
-#### [Anthriscus sylvestris](https://pollenx.eu/species.php?species=Anthriscus_sylvestris) (fluitekruid)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png" style="height: 60px; width: auto;" alt="Anthriscus_sylvestris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_2.png" style="height: 60px; width: auto;" alt="Anthriscus_sylvestris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_3.png" style="height: 38px; width: auto;" alt="Anthriscus_sylvestris"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_4.png" style="height: 38px; width: auto;" alt="Anthriscus_sylvestris">
-    </figure>
-  </div>
-</div>
-- Pollen: k: 24x15; pw: 26 (24.2-27.2); 15 (13.1-15.5) μm
-- Bloeiperiode: mei-juni
-- Waarde: N 2, N 2
-- In honing: 16.3%
+#### [Anthriscus sylvestris](anthriscus_sylvestris.md) (fluitekruid)
+{{ pollen_gallery("anthriscus_sylvestris") }}
+- Latijn: {{ pollen("anthriscus_sylvestris", "latin") }}
+- Nederlands: {{ pollen("anthriscus_sylvestris", "dutch") }}
+- Grootte: {{ pollen("anthriscus_sylvestris", "size.smallest_size") }}-{{ pollen("anthriscus_sylvestris", "size.largest_size") }}
+- Vorm: {{ pollen("anthriscus_sylvestris", "shape") }}
+- Sculptuur: {{ pollen("anthriscus_sylvestris", "sculpture") }}
+- Apertuur: {{ pollen("anthriscus_sylvestris", "aperture") }}
+- Ornamentatie: {{ pollen("anthriscus_sylvestris", "ornamentation") }}
 
-#### [Heracleum spondhylium](https://pollenx.eu/species.php?species=Heracleum_sphondylium) (bereklauw)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug"> <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png" style="height: 95px; width: auto;" alt="Heracleum_sphondylium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png" style="height: 95px; width: auto;" alt="Heracleum_sphondylium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png" style="height: 95px; width: auto;" alt="Heracleum_sphondylium"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png" style="height: 95px; width: auto;" alt="Heracleum_sphondylium">
-    </figure>
-  </div>
-</div>
-- Pollen: 38 (35.4-41.6) μm, verrucate, scabrate, gemmate sculptuur
-- Bloeiperiode: juni-augustus
-- Waarde: P 3, N 3
-- In honing: 8.8%
+#### [Heracleum spondhylium](heracleum_sphondylium.md) (bereklauw)
+{{ pollen_gallery("heracleum_sphondylium") }}
+- Latijn: {{ pollen("heracleum_sphondylium", "latin") }}
+- Nederlands: {{ pollen("heracleum_sphondylium", "dutch") }}
+- Grootte: {{ pollen("heracleum_sphondylium", "size.smallest_size") }}-{{ pollen("heracleum_sphondylium", "size.largest_size") }}
+- Vorm: {{ pollen("heracleum_sphondylium", "shape") }}
+- Sculptuur: {{ pollen("heracleum_sphondylium", "sculpture") }}
+- Apertuur: {{ pollen("heracleum_sphondylium", "aperture") }}
+- Ornamentatie: {{ pollen("heracleum_sphondylium", "ornamentation") }}
 
-#### [Symphoricarpos albus](https://pollenx.eu/species.php?species=Symphoricarpos_albus) (sneeuwbes)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_1.png" style="height: 94px; width: auto;" alt="Symphoricarpos_albus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_1.png" style="height: 94px; width: auto;" alt="Symphoricarpos_albus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_1.png" style="height: 94px; width: auto;" alt="Symphoricarpos_albus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/symphoricarpos_albus/symphoricarpos_albus_1.png" style="height: 94px; width: auto;" alt="Symphoricarpos_albus">
-    </figure>
-  </div>
-</div>
-- Pollen: 40 μm, psilate sculptuur
-- Bloeiperiode: juli-augustus
-- Waarde: N 5, P 5
-- In honing: 2.5%
+#### [Symphoricarpos albus](symphoricarpos_albus.md) (sneeuwbes)
+{{ pollen_gallery("symphoricarpos_albus") }}
+- Latijn: {{ pollen("symphoricarpos_albus", "latin") }}
+- Nederlands: {{ pollen("symphoricarpos_albus", "dutch") }}
+- Grootte: {{ pollen("symphoricarpos_albus", "size.smallest_size") }}-{{ pollen("symphoricarpos_albus", "size.largest_size") }}
+- Vorm: {{ pollen("symphoricarpos_albus", "shape") }}
+- Sculptuur: {{ pollen("symphoricarpos_albus", "sculpture") }}
+- Apertuur: {{ pollen("symphoricarpos_albus", "aperture") }}
+- Ornamentatie: {{ pollen("symphoricarpos_albus", "ornamentation") }}
 
-#### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria) (moerasspiraea)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_1.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_5.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_6.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_3.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_4.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-  </div>
-</div>
-- Pollen: 17 (15.1-18.3) μm, gemmate, psilate, microechinate, scabrate, verrucate
-- Bloeiperiode: juni-september
-- Waarde: N 0, P 3
-- In honing: 8.1% 
+#### [Filipendula ulmaria](filipendula_ulmaria.md) (moerasspiraea)
+{{ pollen_gallery("filipendula_ulmaria") }}
+- Latijn: {{ pollen("filipendula_ulmaria", "latin") }}
+- Nederlands: {{ pollen("filipendula_ulmaria", "dutch") }}
+- Grootte: {{ pollen("filipendula_ulmaria", "size.smallest_size") }}-{{ pollen("filipendula_ulmaria", "size.largest_size") }}
+- Vorm: {{ pollen("filipendula_ulmaria", "shape") }}
+- Sculptuur: {{ pollen("filipendula_ulmaria", "sculpture") }}
+- Apertuur: {{ pollen("filipendula_ulmaria", "aperture") }}
+- Ornamentatie: {{ pollen("filipendula_ulmaria", "ornamentation") }}
 
-#### [Carum carvi](https://pollenx.eu/species.php?species=Carum_carvi) (karwij)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/carum_carvi/carum_carvi_1.png" style="height: 65px; width: auto;" alt="Carum_carvi">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/carum_carvi/carum_carvi_3.png" style="height: 65px; width: auto;" alt="Carum_carvi">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/carum_carvi/carum_carvi_2.png" style="height: 65px; width: auto;" alt="Carum_carvi"> 
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (24.4-28.0) μm, scabrate, verrucate, gemmate sculpturen
-- Bloeiperiode: mei-juni
-- Waarde: N 5-P 5
-- In honing: 0.6% 
+#### [Carum carvi](carum_carvi.md) (karwij)
+{{ pollen_gallery("carum_carvi") }}
+- Latijn: {{ pollen("carum_carvi", "latin") }}
+- Nederlands: {{ pollen("carum_carvi", "dutch") }}
+- Grootte: {{ pollen("carum_carvi", "size.smallest_size") }}-{{ pollen("carum_carvi", "size.largest_size") }}
+- Vorm: {{ pollen("carum_carvi", "shape") }}
+- Sculptuur: {{ pollen("carum_carvi", "sculpture") }}
+- Apertuur: {{ pollen("carum_carvi", "aperture") }}
+- Ornamentatie: {{ pollen("carum_carvi", "ornamentation") }}
 
-#### [Artemisia vulgaris](https://pollenx.eu/species.php?species=Artemisia_vulgaris) (alsem) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png" style="height: 57px; width: auto;" alt="Artemisia_vulgaris">
-    </figure>
-  </div>
-</div>
-- Pollen: 23 (20.7-25.5); 20 (18.7-21.1) μm,tricolpate, colporate, triporate sculptuur
-- Bloeiperiode: 
-- Waarde:
-- In honing: 2.5%
+#### [Artemisia vulgaris](artemisia_vulgaris.md) (alsem) 
+{{ pollen_gallery("artemisia_vulgaris") }}
+- Latijn: {{ pollen("artemisia_vulgaris", "latin") }}
+- Nederlands: {{ pollen("artemisia_vulgaris", "dutch") }}
+- Grootte: {{ pollen("artemisia_vulgaris", "size.smallest_size") }}-{{ pollen("artemisia_vulgaris", "size.largest_size") }}
+- Vorm: {{ pollen("artemisia_vulgaris", "shape") }}
+- Sculptuur: {{ pollen("artemisia_vulgaris", "sculpture") }}
+- Apertuur: {{ pollen("artemisia_vulgaris", "aperture") }}
+- Ornamentatie: {{ pollen("artemisia_vulgaris", "ornamentation") }}
 
 #### [Solanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Solanaceae) (nachtschadefamilie) 
 - In honing: 1.3%
@@ -750,395 +418,162 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Pimpinella anisum](https://pollenx.eu/species.php?species=Pimpinella_anisum)
 #### [Fallopia baldschur](https://pollenx.eu/species.php?species=Fallopia_baldschur)
 #### [Fallopia japonica](https://pollenx.eu/species.php?species=Fallopia_japonica)
-#### [Capsicum annuum](https://pollenx.eu/species.php?species=Capsicum_annuum)
+#### [Capsicum annuum](capsicum_annuum.md)
 #### [Clethra alnifolia](https://pollenx.eu/species.php?species=Clethra_alnifolia)
 #### [Fagus sylvatica](https://pollenx.eu/species.php?species=Fagus_sylvatica)
 
 ### 15. **Tricolporoidaat-Psilate, scabrate, verrucate of microverrucate pollen**
 
 #### [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas) (gele kornoelje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_mas/cornus_mas_1.png" style="height: 60px; width: auto;" alt="Cornus_mas">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_mas/cornus_mas_2.png" style="height: 60px; width: auto;" alt="Cornus_mas">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_mas/cornus_mas_5.png" style="height: 60px; width: auto;" alt="Cornus_mas"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_mas/cornus_mas_3.png" style="height: 60px; width: auto;" alt="Cornus_mas">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_mas/cornus_mas_4.png" style="height: 60px; width: auto;" alt="Cornus_mas">
-    </figure>
-  </div>
-</div>
-- Pollen: 24 μm, scabrate, psilate, verrucate sculptuur
-- Bloeiperiode: februari-maart
-- Waarde: N 4, P 4
-- In honing: 
+{{ pollen_gallery("cornus_mas") }}
+- Latijn: {{ pollen("cornus_mas", "latin") }}
+- Nederlands: {{ pollen("cornus_mas", "dutch") }}
+- Grootte: {{ pollen("cornus_mas", "size.smallest_size") }}-{{ pollen("cornus_mas", "size.largest_size") }}
+- Vorm: {{ pollen("cornus_mas", "shape") }}
+- Sculptuur: {{ pollen("cornus_mas", "sculpture") }}
+- Apertuur: {{ pollen("cornus_mas", "aperture") }}
+- Ornamentatie: {{ pollen("cornus_mas", "ornamentation") }}
 
-#### [Cornus sanguinea](https://pollenx.eu/species.php?species=Cornus_sanguinea)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_1.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_2.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_3.png" style="height: 145px; width: auto;" alt="Cornus_sanguinea">
-    </figure>
-  </div>
-</div>
-- Pollen: 58 μm, scabrate, psilate, verrucate
-- Bloeiperiode: juni-juli
-- Waarde: N 1,	P 1
-- In honing: 
+#### [Cornus sanguinea](cornus_sanguinea.md)
+{{ pollen_gallery("cornus_sanguinea") }}
+- Latijn: {{ pollen("cornus_sanguinea", "latin") }}
+- Nederlands: {{ pollen("cornus_sanguinea", "dutch") }}
+- Grootte: {{ pollen("cornus_sanguinea", "size.smallest_size") }}-{{ pollen("cornus_sanguinea", "size.largest_size") }}
+- Vorm: {{ pollen("cornus_sanguinea", "shape") }}
+- Sculptuur: {{ pollen("cornus_sanguinea", "sculpture") }}
+- Apertuur: {{ pollen("cornus_sanguinea", "aperture") }}
+- Ornamentatie: {{ pollen("cornus_sanguinea", "ornamentation") }}
 
 #### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
 #### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (bos)bingelkruid 
-#### [Mercurialus perennis](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mercurialis_perennis) 
+#### [Mercurialus perennis](mercurialus_perennis.md) 
 #### [Medicago](https://pollenx.eu/species.php?species=Medicago)
 #### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
 ### 16. **Drie aperturen-Clavate, baculate, verrucate of gemmate sculpturen**
 
 #### [Ilex aquifolium](https://pollenx.eu/species.php?species=Ilex_aquifolium) (hulst)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_1.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_1.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_1.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ilex_aquifolium/ilex_aquifolium_1.png" style="height: 83px; width: auto;" alt="Ilex_aquifolium">
-    </figure>
-  </div>
-</div>
-- Pollen: 33 (30.5-36.2) μm, clavate sculptuur
-- Bloeiperiode: mei-juni
-- Waarde: N 5-P 5
-- In honing: 1.3%
+{{ pollen_gallery("ilex_aquifolium") }}
+- Latijn: {{ pollen("ilex_aquifolium", "latin") }}
+- Nederlands: {{ pollen("ilex_aquifolium", "dutch") }}
+- Grootte: {{ pollen("ilex_aquifolium", "size.smallest_size") }}-{{ pollen("ilex_aquifolium", "size.largest_size") }}
+- Vorm: {{ pollen("ilex_aquifolium", "shape") }}
+- Sculptuur: {{ pollen("ilex_aquifolium", "sculpture") }}
+- Apertuur: {{ pollen("ilex_aquifolium", "aperture") }}
+- Ornamentatie: {{ pollen("ilex_aquifolium", "ornamentation") }}
 
-#### [Geranium robertianum](https://pollenx.eu/species.php?species=Geranium_robertianum) (ooievaarsbekfamilie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/geranium_robertianum/geranium_robertianum_1.png" style="height: 190px; width: auto;" alt="Geranium_robertianum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/geranium_robertianum/geranium_robertianum_1.png" style="height: 190px; width: auto;" alt="Geranium_robertianum">
-    </figure>
-  </div>
-</div>
-- Pollen: 76 (67.2-81.7) μm, clavate, reticulate
-- Bloeiperiode: mei-oktober
-- Waarde: N 3, P 3
-- In honing: 0.6%
+#### [Geranium robertianum](geranium_robertianum.md) (ooievaarsbekfamilie) 
+{{ pollen_gallery("geranium_robertianum") }}
+- Latijn: {{ pollen("geranium_robertianum", "latin") }}
+- Nederlands: {{ pollen("geranium_robertianum", "dutch") }}
+- Grootte: {{ pollen("geranium_robertianum", "size.smallest_size") }}-{{ pollen("geranium_robertianum", "size.largest_size") }}
+- Vorm: {{ pollen("geranium_robertianum", "shape") }}
+- Sculptuur: {{ pollen("geranium_robertianum", "sculpture") }}
+- Apertuur: {{ pollen("geranium_robertianum", "aperture") }}
+- Ornamentatie: {{ pollen("geranium_robertianum", "ornamentation") }}
 
-#### [Linum](https://pollenx.eu/species.php?species=Linum_usitatissimum) (vlas) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_5.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_6.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_7.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_8.png" style="height: 165px; width: auto;" alt="Linum_usitatissimum">
-    </figure>
-  </div>
-</div>
-- Pollen: 72 (62.9-78.8), 60 (56.3-61.9) μm, baculate, perforate, clavate, scabrate, microreticulate
-- Bloeiperiode: juni-augustus
-- Waarde: N 1, P 1
-- In honing: 0.6%
+#### [Linum](linum_usitatissimum.md) (vlas) 
+{{ pollen_gallery("linum_usitatissimum") }}
+- Latijn: {{ pollen("linum_usitatissimum", "latin") }}
+- Nederlands: {{ pollen("linum_usitatissimum", "dutch") }}
+- Grootte: {{ pollen("linum_usitatissimum", "size.smallest_size") }}-{{ pollen("linum_usitatissimum", "size.largest_size") }}
+- Vorm: {{ pollen("linum_usitatissimum", "shape") }}
+- Sculptuur: {{ pollen("linum_usitatissimum", "sculpture") }}
+- Apertuur: {{ pollen("linum_usitatissimum", "aperture") }}
+- Ornamentatie: {{ pollen("linum_usitatissimum", "ornamentation") }}
 
-#### [Geranium sp.](https://pollenx.eu/species.php?species=Geranium_sp.)
+#### [Geranium sp.](geranium_sp.md)
 #### [Viscum album](https://pollenx.eu/species.php?species=Viscum_album)
 
 ### 17. **Drie aperturen-Echinate sculpturen**
 
 #### [Helianthus annuus](https://pollenx.eu/species.php?species=Helianthus_annuus) (zonnebloem)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_1.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png" style="height: 105px; width: auto;" alt="Helianthus_annuus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png" style="height: 105px; width: auto;" alt="Helianthus_annuus">
-    </figure>
-  </div>
-</div>
-- Pollen: 42 (38.9-45.5) μm, echinate sculptuur
-- Bloeiperiode: juli-oktober
-- Waarde: N 5-P 5
-- In honing: 11.9%, [Zonnebloemhoning](../monoflorale-honing-pollen/zonnebloemhoning.md)
+{{ pollen_gallery("helianthus_annuus") }}
+- Latijn: {{ pollen("helianthus_annuus", "latin") }}
+- Nederlands: {{ pollen("helianthus_annuus", "dutch") }}
+- Grootte: {{ pollen("helianthus_annuus", "size.smallest_size") }}-{{ pollen("helianthus_annuus", "size.largest_size") }}
+- Vorm: {{ pollen("helianthus_annuus", "shape") }}
+- Sculptuur: {{ pollen("helianthus_annuus", "sculpture") }}
+- Apertuur: {{ pollen("helianthus_annuus", "aperture") }}
+- Ornamentatie: {{ pollen("helianthus_annuus", "ornamentation") }}
 
-#### [Aster amellus](https://pollenx.eu/species.php?species=Aster_amellus) (aster)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aster_amellus/aster_amellus_1.png" style="height: 73px; width: auto;" alt="Aster_amellus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aster_amellus/aster_amellus_1.png" style="height: 73px; width: auto;" alt="Aster_amellus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aster_amellus/aster_amellus_1.png" style="height: 73px; width: auto;" alt="Aster_amellus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aster_amellus/aster_amellus_1.png" style="height: 73px; width: auto;" alt="Aster_amellus">
-    </figure>
-  </div>
-</div>
-- Pollen: 29 (27.2-31.6) μm, echinate sculptuur
-- Bloeiperiode: juli-oktober
-- Waarde: N 3, P 3
-- In honing: 9.4%
+#### [Aster amellus](aster_amellus.md) (aster)
+{{ pollen_gallery("aster_amellus") }}
+- Latijn: {{ pollen("aster_amellus", "latin") }}
+- Nederlands: {{ pollen("aster_amellus", "dutch") }}
+- Grootte: {{ pollen("aster_amellus", "size.smallest_size") }}-{{ pollen("aster_amellus", "size.largest_size") }}
+- Vorm: {{ pollen("aster_amellus", "shape") }}
+- Sculptuur: {{ pollen("aster_amellus", "sculpture") }}
+- Apertuur: {{ pollen("aster_amellus", "aperture") }}
+- Ornamentatie: {{ pollen("aster_amellus", "ornamentation") }}
 
-#### [Senecio jacobaea](https://pollenx.eu/species.php?species=Senecio_jacobaea) (kruiskruid)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/senecio_jacobea/senecio_jacobea_1.png" style="height: 75px; width: auto;" alt="Senecio jacobaea">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/senecio_jacobea/senecio_jacobea_2.png" style="height: 75px; width: auto;" alt="Senecio jacobaea">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/senecio_jacobea/senecio_jacobea_3.png" style="height: 75px; width: auto;" alt="Senecio jacobaea"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/senecio_jacobea/senecio_jacobea_4.png" style="height: 75px; width: auto;" alt="Senecio jacobaea">
-    </figure>
-  </div>
-</div>
-- Pollen:	30 (27.5-32.3) μm ,echinate, microreticulate sculptuur
-- Bloeiperiode: juni-oktober
-- Waarde: N 3, P 3
-- In honing: 5.6% 
+#### [Senecio jacobaea](senecio_jacobea.md) (kruiskruid)
+{{ pollen_gallery("senecio_jacobea") }}
+- Latijn: {{ pollen("senecio_jacobea", "latin") }}
+- Nederlands: {{ pollen("senecio_jacobea", "dutch") }}
+- Grootte: {{ pollen("senecio_jacobea", "size.smallest_size") }}-{{ pollen("senecio_jacobea", "size.largest_size") }}
+- Vorm: {{ pollen("senecio_jacobea", "shape") }}
+- Sculptuur: {{ pollen("senecio_jacobea", "sculpture") }}
+- Apertuur: {{ pollen("senecio_jacobea", "aperture") }}
+- Ornamentatie: {{ pollen("senecio_jacobea", "ornamentation") }}
 
-#### [Matricaria recutita](https://pollenx.eu/species.php?species=Matricaria_recutita) (kamille) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png" style="height: 60px; width: auto;" alt="Matricaria_recutita"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png" style="height: 60px; width: auto;" alt="Matricaria_recutita">
-    </figure>
-  </div>
-</div>
-- Pollen: 24 (21.5-25.7) μm , echinate sculptuur
-- Bloeiperiode: mei-oktober
-- Waarde: N 0, P 3
-- In honing: 1.9%
+#### [Matricaria recutita](matricaria_recutita.md) (kamille) 
+{{ pollen_gallery("matricaria_recutita") }}
+- Latijn: {{ pollen("matricaria_recutita", "latin") }}
+- Nederlands: {{ pollen("matricaria_recutita", "dutch") }}
+- Grootte: {{ pollen("matricaria_recutita", "size.smallest_size") }}-{{ pollen("matricaria_recutita", "size.largest_size") }}
+- Vorm: {{ pollen("matricaria_recutita", "shape") }}
+- Sculptuur: {{ pollen("matricaria_recutita", "sculpture") }}
+- Apertuur: {{ pollen("matricaria_recutita", "aperture") }}
+- Ornamentatie: {{ pollen("matricaria_recutita", "ornamentation") }}
 
-#### [Cirsium arvense](https://pollenx.eu/species.php?species=Cirsium_arvense) (distel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cirsium_arvense/cirsium_arvense_1.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cirsium_arvense/cirsium_arvense_2.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cirsium_arvense/cirsium_arvense_3.png" style="height: 95px; width: auto;" alt="Cirsium_arvense"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cirsium_arvense/cirsium_arvense_4.png" style="height: 95px; width: auto;" alt="Cirsium_arvense">
-    </figure>
-  </div>
-</div>
-- Pollen: 38 μm, echinate, microreticulate
-- Bloeiperiode: juni-september
-- Waarde: N 5, P 5
-- In honing: 16.9% 
+#### [Cirsium arvense](cirsium_arvense.md) (distel)
+{{ pollen_gallery("cirsium_arvense") }}
+- Latijn: {{ pollen("cirsium_arvense", "latin") }}
+- Nederlands: {{ pollen("cirsium_arvense", "dutch") }}
+- Grootte: {{ pollen("cirsium_arvense", "size.smallest_size") }}-{{ pollen("cirsium_arvense", "size.largest_size") }}
+- Vorm: {{ pollen("cirsium_arvense", "shape") }}
+- Sculptuur: {{ pollen("cirsium_arvense", "sculpture") }}
+- Apertuur: {{ pollen("cirsium_arvense", "aperture") }}
+- Ornamentatie: {{ pollen("cirsium_arvense", "ornamentation") }}
 
 #### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 5.0%
 
-#### [Dipsacaceae](https://pollenx.eu/species.php?species=Dipsacaceae) (kaardebolfamilie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Dipsacaceae](dipsacaceae.md) (kaardebolfamilie) 
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
 - In honing: 3.1%
 
 #### [Lonicera caprifolium](https://pollenx.eu/species.php?species=Lonicera_caprifolium) (tuinkamperfoelie)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png" style="height: 193px; width: auto;" alt="Lonicera_caprifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png" style="height: 100px; width: auto;" alt="Lonicera_caprifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="https://pollen.tstebler.ch/MediaWiki/images/d/d4/Lonicera_periclymenum.gif" style="height: 210px; width: auto; display: block; margin: 8px 0;" alt="Lonicera periclymenum, animatie">
-    </figure>
-  </div>
-</div>
-- Pollen: 77 (70.1-85.0), 69 (65.2-73.0) μm, echinate sculptuur
-- Bloeiperiode: mei-juni
-- Waarde: N 1, P 1
-- In honing: 1.3% 
+{{ pollen_gallery("lonicera_caprifolium") }}
+- Latijn: {{ pollen("lonicera_caprifolium", "latin") }}
+- Nederlands: {{ pollen("lonicera_caprifolium", "dutch") }}
+- Grootte: {{ pollen("lonicera_caprifolium", "size.smallest_size") }}-{{ pollen("lonicera_caprifolium", "size.largest_size") }}
+- Vorm: {{ pollen("lonicera_caprifolium", "shape") }}
+- Sculptuur: {{ pollen("lonicera_caprifolium", "sculpture") }}
+- Apertuur: {{ pollen("lonicera_caprifolium", "aperture") }}
+- Ornamentatie: {{ pollen("lonicera_caprifolium", "ornamentation") }}
 
 #### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 0.6%
 
 #### [Echinops sphaerocephalus](https://pollenx.eu/species.php?species=Echinops_sphaerocephalus) (kogeldistel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
 - In honing: 0.6%
 
 #### [Achillea-Typ](https://pollenx.eu/species.php?species=Achillea-Typ) (duizendblad)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode:
 - Waarde:
 - In honing: 
 
 #### [Bellis perennis](https://pollenx.eu/species.php?species=Bellis_perennis) (madelief)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 
 #### [Tussilago farfara](https://pollenx.eu/species.php?species=Tussilago_farfara) (klein hoefblad)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 
 #### [Helianthus-Typ](https://pollenx.eu/species.php?species=Helianthus-Typ) (zonnebloem-soorten)
 #### [Senecio](https://pollenx.eu/species.php?species=Senecio) (kruiskruid)
@@ -1163,62 +598,36 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Tagetes erecta](https://pollenx.eu/species.php?species=Tagetes_erecta)
 #### [Chrysanthemum leuc margriet](https://pollenx.eu/species.php?species=Chrysanthemum_leuc) (margriet)
 #### [Dipsacus](https://pollenx.eu/species.php?species=Dipsacus)
-#### [Scabiosa columbar](https://pollenx.eu/species.php?species=Scabiosa_columbar)
+#### [Scabiosa columbar](scabiosa_columbar.md)
 #### [Centranthus ruber](https://pollenx.eu/species.php?species=Centranthus_ruber)
 
 
 ### 18. **Tricolpaat-Striate, striaat-reticulate en rugulate sculpturen**
 
 #### [Saxifragaceae](https://pollenx.eu/species.php?species=Saxifraga_rotundifolia) (steenbreekfamilie)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_1.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_1.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_1.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/saxifraga_rotundifolia/saxifraga_rotundifolia_1.png" style="height: 68px; width: auto;" alt="Saxifraga_rotundifolia">
-    </figure>
-  </div>
-</div>
-- Pollen: 27 (22.7-29.8) μm , rugulate, striate, verrucate sculptuur
-- Bloeiperiode: mei-september
-- Waarde: N 3, P 3
-- In honing: 1.3% 
+{{ pollen_gallery("saxifraga_rotundifolia") }}
+- Latijn: {{ pollen("saxifraga_rotundifolia", "latin") }}
+- Nederlands: {{ pollen("saxifraga_rotundifolia", "dutch") }}
+- Grootte: {{ pollen("saxifraga_rotundifolia", "size.smallest_size") }}-{{ pollen("saxifraga_rotundifolia", "size.largest_size") }}
+- Vorm: {{ pollen("saxifraga_rotundifolia", "shape") }}
+- Sculptuur: {{ pollen("saxifraga_rotundifolia", "sculpture") }}
+- Apertuur: {{ pollen("saxifraga_rotundifolia", "aperture") }}
+- Ornamentatie: {{ pollen("saxifraga_rotundifolia", "ornamentation") }}
 
-#### [Erodium cicutarium](https://pollenx.eu/species.php?species=Erodium_cicutarium)
+#### [Erodium cicutarium](erodium_cicutarium.md)
 #### [Saxifraga granul](https://pollenx.eu/species.php?species=Saxifraga_granul)
 
 ### 19. **Tricolporaat-Striate, striaat-reticulate en rugulate sculpture**
 
 #### [Aesculus hippocastanum](https://pollenx.eu/species.php?species=Aesculus_hippocastanum) (paardekastanje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_1.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_3.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_2.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_4.png" style="height: 60px; width: auto;" alt="Aesculus_hippocastanum">
-    </figure>
-  </div>
-</div>
-- Pollen: 24 μm, rugulate, psilate, striate scuptuur
-- Bloeiperiode: mei-juni
-- Waarde: N 5, P 5
-- In honing: 26.3% (k), 9.9% (db)
-
-
+{{ pollen_gallery("aesculus_hippocastanum") }}
+- Latijn: {{ pollen("aesculus_hippocastanum", "latin") }}
+- Nederlands: {{ pollen("aesculus_hippocastanum", "dutch") }}
+- Grootte: {{ pollen("aesculus_hippocastanum", "size.smallest_size") }}-{{ pollen("aesculus_hippocastanum", "size.largest_size") }}
+- Vorm: {{ pollen("aesculus_hippocastanum", "shape") }}
+- Sculptuur: {{ pollen("aesculus_hippocastanum", "sculpture") }}
+- Apertuur: {{ pollen("aesculus_hippocastanum", "aperture") }}
+- Ornamentatie: {{ pollen("aesculus_hippocastanum", "ornamentation") }}
 
 #### [Rhus chinensis](https://pollenx.eu/species.php?species=Rhus_chinensis)
 #### [Rhus typhina](https://pollenx.eu/species.php?species=Rhus_typhina)
@@ -1228,174 +637,63 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Rosaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rosaceae) (rozenfamilie) 
 
-#### [Prunus/pirus species](https://pollenx.eu/species.php?species=Prunus_pirus_species) (prunus/pruim/kers/peer/appel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Prunus/pirus species](prunus_pirus_species.md) (prunus/pruim/kers/peer/appel)
 - Pollen: 
 - Bloeiperiode: maart-april
 - Waarde: N3-5, P3-5
 - In honing: 55.0% (k), 25.5% (db)
 
 #### [Rubus fruticosus](https://pollenx.eu/species.php?species=Rubus_fruticosus)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_4.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_2.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_3.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_5.png" style="height: 75px; width: auto;" alt="Rubus_fruticosus">
-    </figure>
-  </div>
-</div>
-- Pollen: 30 (28.6-36.9) μm, rugulate
-- Bloeiperiode: mei-augustus
-- Waarde: P 5, N 5
-- In honing: [Braamhoning](../monoflorale-honing-pollen/braamhoning.md)
+{{ pollen_gallery("rubus_fruticosus") }}
+- Latijn: {{ pollen("rubus_fruticosus", "latin") }}
+- Nederlands: {{ pollen("rubus_fruticosus", "dutch") }}
+- Grootte: {{ pollen("rubus_fruticosus", "size.smallest_size") }}-{{ pollen("rubus_fruticosus", "size.largest_size") }}
+- Vorm: {{ pollen("rubus_fruticosus", "shape") }}
+- Sculptuur: {{ pollen("rubus_fruticosus", "sculpture") }}
+- Apertuur: {{ pollen("rubus_fruticosus", "aperture") }}
+- Ornamentatie: {{ pollen("rubus_fruticosus", "ornamentation") }}
 
-#### [Cotoneaster integerrimus](https://pollenx.eu/species.php?species=Cotoneaster_integerrimus) (cotoneaster)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Cotoneaster integerrimus](cotoneaster_integerrimus.md) (cotoneaster)
 - Pollen: 
 - Bloeiperiode: mei-juni
 - Waarde: N4-5, P4-5 (mv Cotoneaster franchetii N1, P1)
 - In honing: 16.9%
 
 #### [Acer pseudoplatanus](https://pollenx.eu/species.php?species=Acer_pseudoplatanus) (esdoorn)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode: april-mei
-- Waarde: N 5, P 5
-- In honing: 16.3% 
+{{ pollen_gallery("acer_pseudoplatanoides") }}
+- Latijn: {{ pollen("acer_pseudoplatanoides", "latin") }}
+- Nederlands: {{ pollen("acer_pseudoplatanoides", "dutch") }}
+- Grootte: {{ pollen("acer_pseudoplatanoides", "size.smallest_size") }}-{{ pollen("acer_pseudoplatanoides", "size.largest_size") }}
+- Vorm: {{ pollen("acer_pseudoplatanoides", "shape") }}
+- Sculptuur: {{ pollen("acer_pseudoplatanoides", "sculpture") }}
+- Apertuur: {{ pollen("acer_pseudoplatanoides", "aperture") }}
+- Ornamentatie: {{ pollen("acer_pseudoplatanoides", "ornamentation") }}
 
-#### [Malus domestica](https://pollenx.eu/species.php?species=Malus_domestica) (appel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Malus domestica](malus_domestica.md) (appel)
 - Pollen: 
 - Bloeiperiode: april-mei
 - Waarde: N 3, P 3
 - In honing: 11.3% 
 
 #### [Filipendula ulmaria](https://pollenx.eu/species.php?species=Filipendula_ulmaria)(moerasspirea) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_1.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_2.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_5.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_6.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_7.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_3.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_8.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_4.png" style="height: 34px; width: auto;" alt="Filipendula_ulmaria">
-    </figure>
-  </div>
-</div>
-- Pollen: 17 (15.1-18.3) μm, gemmate, psilate, microechinate, scabrate, verrucate sculptuur, copi met margo
-- Bloeiperiode: juni-september
-- Waarde: N 0, P 3
-- In honing: 7.5%
+{{ pollen_gallery("filipendula_ulmaria") }}
+- Latijn: {{ pollen("filipendula_ulmaria", "latin") }}
+- Nederlands: {{ pollen("filipendula_ulmaria", "dutch") }}
+- Grootte: {{ pollen("filipendula_ulmaria", "size.smallest_size") }}-{{ pollen("filipendula_ulmaria", "size.largest_size") }}
+- Vorm: {{ pollen("filipendula_ulmaria", "shape") }}
+- Sculptuur: {{ pollen("filipendula_ulmaria", "sculpture") }}
+- Apertuur: {{ pollen("filipendula_ulmaria", "aperture") }}
+- Ornamentatie: {{ pollen("filipendula_ulmaria", "ornamentation") }}
 
-#### [Ailanthus glandulosa](https://pollenx.eu/species.php?species=Ailanthus_glandulosa) (hemelboom) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_1.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_4.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_2.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_3.png" style="height: 65px; width: auto;" alt="Ailanthus_glandulosa">
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (24.3-28.7) μm, striato-reticulate sculptuur
-- Bloeiperiode: juni-juli
-- Waarde: N 5, P 5
-- In honing: 0.6%
+#### [Ailanthus glandulosa](ailanthus_altissima.md) (hemelboom) 
+{{ pollen_gallery("ailanthus_altissima") }}
+- Latijn: {{ pollen("ailanthus_altissima", "latin") }}
+- Nederlands: {{ pollen("ailanthus_altissima", "dutch") }}
+- Grootte: {{ pollen("ailanthus_altissima", "size.smallest_size") }}-{{ pollen("ailanthus_altissima", "size.largest_size") }}
+- Vorm: {{ pollen("ailanthus_altissima", "shape") }}
+- Sculptuur: {{ pollen("ailanthus_altissima", "sculpture") }}
+- Apertuur: {{ pollen("ailanthus_altissima", "aperture") }}
+- Ornamentatie: {{ pollen("ailanthus_altissima", "ornamentation") }}
 
 #### [Spiraea japonica](https://pollenx.eu/species.php?species=Spiraea_japonica)
 #### [Crataegus-Typ](https://pollenx.eu/species.php?species=Crataegus-Typ) (meidoorn)
@@ -1418,180 +716,80 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 21. **Tricolpaat-Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-#### [Crucifereae](https://pollenx.eu/species.php?species=Crucifereae) (overige kruisbloemigen) 
+#### [Crucifereae](crucifereae.md) (overige kruisbloemigen) 
 - In honing: 3.8%
 
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_alba) (wilg)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png" style="height: 55px; width: auto;" alt="Salix_alba_var_tristis">
-    </figure>
-  </div>
-</div>
-- Pollen: 22 (19.9-24.8) μm
-- Bloeiperiode: april-mei
-- Waarde: P 5, N 5
-- In honing: 96.4% (k) 8.0% (db), [Wilghoning](../monoflorale-honing-pollen/wilghoning.md)
+{{ pollen_gallery("salix_alba_var_tristis") }}
+- Latijn: {{ pollen("salix_alba_var_tristis", "latin") }}
+- Nederlands: {{ pollen("salix_alba_var_tristis", "dutch") }}
+- Grootte: {{ pollen("salix_alba_var_tristis", "size.smallest_size") }}-{{ pollen("salix_alba_var_tristis", "size.largest_size") }}
+- Vorm: {{ pollen("salix_alba_var_tristis", "shape") }}
+- Sculptuur: {{ pollen("salix_alba_var_tristis", "sculpture") }}
+- Apertuur: {{ pollen("salix_alba_var_tristis", "aperture") }}
+- Ornamentatie: {{ pollen("salix_alba_var_tristis", "ornamentation") }}
 
-#### [Brassica napus](https://pollenx.eu/species.php?species=Brassica_napus) (koolzaad)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_3.png" style="height: 65px; width: auto;" alt="Brassica_napus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_4.png" style="height: 65px; width: auto;" alt="Brassica_napus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_5.png" style="height: 65px; width: auto;" alt="Brassica_napus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/brassica_napus/brassica_napus_6.png" style="height: 65px; width: auto;" alt="Brassica_napus">
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (22.3-28.2) μm 
-- Bloeiperiode: april-augustus
-- Waarde: N 5, P 5
-- In honing: 60.6% (k), 64.7% (db) [Koolzaadhoning](../monoflorale-honing-pollen/koolzaadhoning.md)
+#### [Brassica napus](brassica_napus.md) (koolzaad)
+{{ pollen_gallery("brassica_napus") }}
+- Latijn: {{ pollen("brassica_napus", "latin") }}
+- Nederlands: {{ pollen("brassica_napus", "dutch") }}
+- Grootte: {{ pollen("brassica_napus", "size.smallest_size") }}-{{ pollen("brassica_napus", "size.largest_size") }}
+- Vorm: {{ pollen("brassica_napus", "shape") }}
+- Sculptuur: {{ pollen("brassica_napus", "sculpture") }}
+- Apertuur: {{ pollen("brassica_napus", "aperture") }}
+- Ornamentatie: {{ pollen("brassica_napus", "ornamentation") }}
 
-#### [Ligustrum vulgare](https://pollenx.eu/species.php?species=Ligustrum_vulgare) (liguster)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png" style="height: 73px; width: auto;" alt="Ligustrum vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png" style="height: 73px; width: auto;" alt="Ligustrum vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png" style="height: 73px; width: auto;" alt="Ligustrum vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png" style="height: 73px; width: auto;" alt="Ligustrum vulgare">
-    </figure>
-  </div>
-</div>
-- Pollen: 29 (24.1-33.7) μm 
-- Bloeiperiode: juni-juli
-- Waarde: N 4, P 4
-- In honing: 45.6% (k), 1.5% (db), [Ligusterhoning](../monoflorale-honing-pollen/ligusterhoning.md)
+#### [Ligustrum vulgare](liguster_vulgare.md) (liguster)
+{{ pollen_gallery("liguster_vulgare") }}
+- Latijn: {{ pollen("liguster_vulgare", "latin") }}
+- Nederlands: {{ pollen("liguster_vulgare", "dutch") }}
+- Grootte: {{ pollen("liguster_vulgare", "size.smallest_size") }}-{{ pollen("liguster_vulgare", "size.largest_size") }}
+- Vorm: {{ pollen("liguster_vulgare", "shape") }}
+- Sculptuur: {{ pollen("liguster_vulgare", "sculpture") }}
+- Apertuur: {{ pollen("liguster_vulgare", "aperture") }}
+- Ornamentatie: {{ pollen("liguster_vulgare", "ornamentation") }}
 
-#### [Elaeagnus angustifolia](https://pollenx.eu/species.php?species=Elaeagnus_angustifolia) (olijfwilg)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/elaeagnus_angustifolia/elaeagnus_angustifolia_1.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/elaeagnus_angustifolia/elaeagnus_angustifolia_1.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/elaeagnus_angustifolia/elaeagnus_angustifolia_1.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/elaeagnus_angustifolia/elaeagnus_angustifolia_1.png" style="height: 110px; width: auto;" alt="Elaeagnus_angustifolia">
-    </figure>
-  </div>
-</div>
-- Pollen: 44 (39.5-50.4), 39 (34.8-40.7) μm, psilate, scabrate sculpturen
-- Bloeiperiode: mei-juni
-- Waarde: P 5, N 5
-- In honing: 1.3% 
+#### [Elaeagnus angustifolia](elaeagnus_angustifolia.md) (olijfwilg)
+{{ pollen_gallery("elaeagnus_angustifolia") }}
+- Latijn: {{ pollen("elaeagnus_angustifolia", "latin") }}
+- Nederlands: {{ pollen("elaeagnus_angustifolia", "dutch") }}
+- Grootte: {{ pollen("elaeagnus_angustifolia", "size.smallest_size") }}-{{ pollen("elaeagnus_angustifolia", "size.largest_size") }}
+- Vorm: {{ pollen("elaeagnus_angustifolia", "shape") }}
+- Sculptuur: {{ pollen("elaeagnus_angustifolia", "sculpture") }}
+- Apertuur: {{ pollen("elaeagnus_angustifolia", "aperture") }}
+- Ornamentatie: {{ pollen("elaeagnus_angustifolia", "ornamentation") }}
 
-#### [Limonium vulgare](https://pollenx.eu/species.php?species=Limonium_vulgare) (lamsoor)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_1.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_2.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_4.png" style="height: 118px; width: auto;" alt="Limonium_vulgare"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_3.png" style="height: 118px; width: auto;" alt="Limonium_vulgare">
-    </figure>
-  </div>
-</div>
-- Pollen: 47 (36.6-53.4) μm, reticulate
-- Bloeiperiode: juli-oktober
-- Waarde: N 5, P 5
-- In honing: 2.5% 
+#### [Limonium vulgare](limonium_vulgare.md) (lamsoor)
+{{ pollen_gallery("limonium_vulgare") }}
+- Latijn: {{ pollen("limonium_vulgare", "latin") }}
+- Nederlands: {{ pollen("limonium_vulgare", "dutch") }}
+- Grootte: {{ pollen("limonium_vulgare", "size.smallest_size") }}-{{ pollen("limonium_vulgare", "size.largest_size") }}
+- Vorm: {{ pollen("limonium_vulgare", "shape") }}
+- Sculptuur: {{ pollen("limonium_vulgare", "sculpture") }}
+- Apertuur: {{ pollen("limonium_vulgare", "aperture") }}
+- Ornamentatie: {{ pollen("limonium_vulgare", "ornamentation") }}
 
-#### [Chelidonium majus](https://pollenx.eu/species.php?species=Chelidonium_majus) (stinkende gouwe) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/chelidonium_majus/chelidonium_majus_1.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/chelidonium_majus/chelidonium_majus_2.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/chelidonium_majus/chelidonium_majus_3.png" style="height: 68px; width: auto;" alt="Chelidonium_majus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/chelidonium_majus/chelidonium_majus_4.png" style="height: 68px; width: auto;" alt="Chelidonium_majus">
-    </figure>
-  </div>
-</div>
-- Pollen: 27 μm, perforate, scabrate, reticulate, microreticulate
-- Bloeiperiode: mei-oktober
-- Waarde: N 0, P 3
-- In honing: 0.6%
+#### [Chelidonium majus](chelidonium_majus.md) (stinkende gouwe) 
+{{ pollen_gallery("chelidonium_majus") }}
+- Latijn: {{ pollen("chelidonium_majus", "latin") }}
+- Nederlands: {{ pollen("chelidonium_majus", "dutch") }}
+- Grootte: {{ pollen("chelidonium_majus", "size.smallest_size") }}-{{ pollen("chelidonium_majus", "size.largest_size") }}
+- Vorm: {{ pollen("chelidonium_majus", "shape") }}
+- Sculptuur: {{ pollen("chelidonium_majus", "sculpture") }}
+- Apertuur: {{ pollen("chelidonium_majus", "aperture") }}
+- Ornamentatie: {{ pollen("chelidonium_majus", "ornamentation") }}
 
-#### [Sinapis arvensis](https://pollenx.eu/species.php?species=Sinapis_arvensis) (herik) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png" style="height: 83px; width: auto;" alt="Sinapis_arvensis">
-    </figure>
-  </div>
-</div>
-- Pollen: 31-35 µm, reticulate
-- Bloeiperiode: mei-september
-- Waarde: N 5, P 5
-- In honing: 3.1%
+#### [Sinapis arvensis](sinapis_arvensis.md) (herik) 
+{{ pollen_gallery("sinapis_arvensis") }}
+- Latijn: {{ pollen("sinapis_arvensis", "latin") }}
+- Nederlands: {{ pollen("sinapis_arvensis", "dutch") }}
+- Grootte: {{ pollen("sinapis_arvensis", "size.smallest_size") }}-{{ pollen("sinapis_arvensis", "size.largest_size") }}
+- Vorm: {{ pollen("sinapis_arvensis", "shape") }}
+- Sculptuur: {{ pollen("sinapis_arvensis", "sculpture") }}
+- Apertuur: {{ pollen("sinapis_arvensis", "aperture") }}
+- Ornamentatie: {{ pollen("sinapis_arvensis", "ornamentation") }}
 
 #### [Raphanus raphanistrum](https://pollenx.eu/species.php?species=Raphanus_raphanistrum) (Knopherik sp) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 2.5%
 
 #### [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (herderstasje)
@@ -1615,234 +813,105 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Olea europaea](https://pollenx.eu/species.php?species=Olea_europaea)
 #### [Diplotaxis muralis](https://pollenx.eu/species.php?species=Diplotaxis_muralis)
 #### [Diplotaxis tenuïfoliarucola](https://pollenx.eu/species.php?species=Diplotaxis_tenuïfoliarucola)
-#### [Eruca sativa](https://pollenx.eu/species.php?species=Eruca_sativa)
+#### [Eruca sativa](eruca_sativa.md)
 #### [Corylopsis parcifl](https://pollenx.eu/species.php?species=Corylopsis_parcifl)
 #### [Fraxinus ornus](https://pollenx.eu/species.php?species=Fraxinus_ornus)
 
 ### 22. **Tricolporaat-Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
 #### [Trifolium repens](https://pollenx.eu/species.php?species=Trifolium_repens) (witte klaver)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png" style="height: 68px; width: auto;" alt="Trifolium repens">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_2.png" style="height: 68px; width: auto;" alt="Trifolium repens">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_3.png" style="height: 68px; width: auto;" alt="Trifolium repens"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_repens/trifolium_repens_4.png" style="height: 68px; width: auto;" alt="Trifolium repens">
-    </figure>
-  </div>
-</div>
-- Pollen: 27 (24.4-28.4) μm, psilate, reticulate, perforate sculptuur
-- Bloeiperiode: mei-oktober
-- Waarde: N 5-P 5
-- In honing: 68.2% (k), 95.8% (db), [Witteklaverhoning](../monoflorale-honing-pollen/witte-klaverhoning.md)
+{{ pollen_gallery("trifolium_repens") }}
+- Latijn: {{ pollen("trifolium_repens", "latin") }}
+- Nederlands: {{ pollen("trifolium_repens", "dutch") }}
+- Grootte: {{ pollen("trifolium_repens", "size.smallest_size") }}-{{ pollen("trifolium_repens", "size.largest_size") }}
+- Vorm: {{ pollen("trifolium_repens", "shape") }}
+- Sculptuur: {{ pollen("trifolium_repens", "sculpture") }}
+- Apertuur: {{ pollen("trifolium_repens", "aperture") }}
+- Ornamentatie: {{ pollen("trifolium_repens", "ornamentation") }}
 
-#### [Tilia platyphyllos](https://pollenx.eu/species.php?species=Tilia_platyphyllos) (linde)
+#### [Tilia platyphyllos](tilia_type_linde_species.md) (linde)
 {{ pollen_gallery("tilia_type_linde_species") }}
-- Pollen: 32 (31.0-34.7) μm, reticulate, microreticulate sculptuur
-- Bloeiperiode: mei-juli
-- Waarde: P 5, N 5
-- In honing: 39.4% (k), 4.9% (db), [Lindehoning](../monoflorale-honing-pollen/lindehoning.md)
+- Latijn: {{ pollen("tilia_type_linde_species", "latin") }}
+- Nederlands: {{ pollen("tilia_type_linde_species", "dutch") }}
+- Grootte: {{ pollen("tilia_type_linde_species", "size.smallest_size") }}-{{ pollen("tilia_type_linde_species", "size.largest_size") }}
+- Vorm: {{ pollen("tilia_type_linde_species", "shape") }}
+- Sculptuur: {{ pollen("tilia_type_linde_species", "sculpture") }}
+- Apertuur: {{ pollen("tilia_type_linde_species", "aperture") }}
+- Ornamentatie: {{ pollen("tilia_type_linde_species", "ornamentation") }}
 
-#### [Vicia faba](https://pollenx.eu/species.php?species=Vicia_faba) (tuinboon/voederboon)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vicia_faba/vicia_faba_1.png" style="width: 95px; height: auto;" alt="Vicia_faba">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vicia_faba/vicia_faba_4.png" style="width: 95px; height: auto;" alt="Vicia_faba">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vicia_faba/vicia_faba_2.png" style="width: 95px; height: auto;" alt="Vicia_faba"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/vicia_faba/vicia_faba_3.png" style="width: 95px; height: auto;" alt="Vicia_faba">
-    </figure>
-  </div>
-</div>
-- Pollen: 36-40 µm, psilate, verrucate sculptuur
-- Bloeiperiode: april-juni
-- Waarde:
-- In honing: 21.9% (k), 39.1% (db)
+#### [Vicia faba](vicia_faba.md) (tuinboon/voederboon)
+{{ pollen_gallery("vicia_faba") }}
+- Latijn: {{ pollen("vicia_faba", "latin") }}
+- Nederlands: {{ pollen("vicia_faba", "dutch") }}
+- Grootte: {{ pollen("vicia_faba", "size.smallest_size") }}-{{ pollen("vicia_faba", "size.largest_size") }}
+- Vorm: {{ pollen("vicia_faba", "shape") }}
+- Sculptuur: {{ pollen("vicia_faba", "sculpture") }}
+- Apertuur: {{ pollen("vicia_faba", "aperture") }}
+- Ornamentatie: {{ pollen("vicia_faba", "ornamentation") }}
 
-#### [Melilotus officinalis](https://pollenx.eu/species.php?species=Melilotus_officinalis) (honingklaver)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png" style="height: 65px; width: auto;" alt="Melilotus_officinalis">
-    </figure>
-  </div>
-</div>
-- Pollen: 26 (22.8-27.7) μm, reticulate sculptuur, aperturen met granulaire ornamentatie
-- Bloeiperiode: juli-september
-- Waarde: N 5
-- Pollenwaarde: P 5
-- In honing: 17.5% (k), 9.5% (db), Zomerhoning 1-63%
+#### [Melilotus officinalis](melilotus_officinalis.md) (honingklaver)
+{{ pollen_gallery("melilotus_officinalis") }}
+- Latijn: {{ pollen("melilotus_officinalis", "latin") }}
+- Nederlands: {{ pollen("melilotus_officinalis", "dutch") }}
+- Grootte: {{ pollen("melilotus_officinalis", "size.smallest_size") }}-{{ pollen("melilotus_officinalis", "size.largest_size") }}
+- Vorm: {{ pollen("melilotus_officinalis", "shape") }}
+- Sculptuur: {{ pollen("melilotus_officinalis", "sculpture") }}
+- Apertuur: {{ pollen("melilotus_officinalis", "aperture") }}
+- Ornamentatie: {{ pollen("melilotus_officinalis", "ornamentation") }}
 
-#### [Bryonia dioica](https://pollenx.eu/species.php?species=Bryonia_dioica) (heggerank)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/bryonia_dioica/bryonia_dioica_1.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/bryonia_dioica/bryonia_dioica_2.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/bryonia_dioica/bryonia_dioica_3.png" style="height: 103px; width: auto;" alt="Bryonia_dioica"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/bryonia_dioica/bryonia_dioica_4.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png" style="height: 103px; width: auto;" alt="Bryonia_dioica">
-    </figure>
-  </div>
-</div>
-- Pollen: 41 (35.3-44.4) μm, reticulate sculptuur, aperturen met korrelige ornamentatie, operculaat, intine puilt uit pori
-- Bloeiperiode: juni-augustus
-- In honing: 12.5%, secundaire inbreng
+#### [Bryonia dioica](bryonia_dioica.md) (heggerank)
+{{ pollen_gallery("bryonia_dioica") }}
+- Latijn: {{ pollen("bryonia_dioica", "latin") }}
+- Nederlands: {{ pollen("bryonia_dioica", "dutch") }}
+- Grootte: {{ pollen("bryonia_dioica", "size.smallest_size") }}-{{ pollen("bryonia_dioica", "size.largest_size") }}
+- Vorm: {{ pollen("bryonia_dioica", "shape") }}
+- Sculptuur: {{ pollen("bryonia_dioica", "sculpture") }}
+- Apertuur: {{ pollen("bryonia_dioica", "aperture") }}
+- Ornamentatie: {{ pollen("bryonia_dioica", "ornamentation") }}
 
-#### [Rumex obtusifolius](https://pollenx.eu/species.php?species=Rumex_obtusifolius) (zuring)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_1.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_4.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_2.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_3.png" style="height: 78px; width: auto;" alt="Rumex_obtusifolius">
-    </figure>
-  </div>
-</div>
-- Pollen: 31 (28.4-38.0) μm, perforate, scabrate, reticulate, microreticulate
-- Bloeiperiode: mei-augustus
-- Waarde:
-- In honing: 15.6% 
+#### [Rumex obtusifolius](rumex_obtusifolius.md) (zuring)
+{{ pollen_gallery("rumex_obtusifolius") }}
+- Latijn: {{ pollen("rumex_obtusifolius", "latin") }}
+- Nederlands: {{ pollen("rumex_obtusifolius", "dutch") }}
+- Grootte: {{ pollen("rumex_obtusifolius", "size.smallest_size") }}-{{ pollen("rumex_obtusifolius", "size.largest_size") }}
+- Vorm: {{ pollen("rumex_obtusifolius", "shape") }}
+- Sculptuur: {{ pollen("rumex_obtusifolius", "sculpture") }}
+- Apertuur: {{ pollen("rumex_obtusifolius", "aperture") }}
+- Ornamentatie: {{ pollen("rumex_obtusifolius", "ornamentation") }}
 
-#### [Trifolium pratense](https://pollenx.eu/species.php?species=Trifolium_pratense) (rode klaver)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_2.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/trifolium_pratense/trifolium_pratense_1.png" style="height: 94px; width: auto;" alt="Trifolium pratense">
-    </figure>
-  </div>
-</div>
-- Pollen: 39 (35.9-41.5) μm, reticulate sculptuur
-- Bloeiperiode: mei-oktober
-- Waarde: N 1, P 1
-- In honing: 11.3% (k), [Rodeklaverhoning](../monoflorale-honing-pollen/rode-klaverhoning.md)
+#### [Trifolium pratense](trifolium_pratense.md) (rode klaver)
+{{ pollen_gallery("trifolium_pratense") }}
+- Latijn: {{ pollen("trifolium_pratense", "latin") }}
+- Nederlands: {{ pollen("trifolium_pratense", "dutch") }}
+- Grootte: {{ pollen("trifolium_pratense", "size.smallest_size") }}-{{ pollen("trifolium_pratense", "size.largest_size") }}
+- Vorm: {{ pollen("trifolium_pratense", "shape") }}
+- Sculptuur: {{ pollen("trifolium_pratense", "sculpture") }}
+- Apertuur: {{ pollen("trifolium_pratense", "aperture") }}
+- Ornamentatie: {{ pollen("trifolium_pratense", "ornamentation") }}
 
-#### [Echium vulgare](https://pollenx.eu/species.php?species=Echium_vulgare) (slangenkruid)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_1.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_2.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_3.png" style="height: 94px; width: auto;" alt="Echium_vulgare"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/echium_vulgare/echium_vulgare_4.png" style="height: 94px; width: auto;" alt="Echium_vulgare">
-    </figure>
-  </div>
-</div>
-- Pollen: 17 μm, perforate, scabrate, reticulate, microreticulate sculptuur
-- Bloeiperiode: mei-september
-- Waarde: N 4, P 4
-- In honing: 8.1% 
+#### [Echium vulgare](echium_vulgare.md) (slangenkruid)
+{{ pollen_gallery("echium_vulgare") }}
+- Latijn: {{ pollen("echium_vulgare", "latin") }}
+- Nederlands: {{ pollen("echium_vulgare", "dutch") }}
+- Grootte: {{ pollen("echium_vulgare", "size.smallest_size") }}-{{ pollen("echium_vulgare", "size.largest_size") }}
+- Vorm: {{ pollen("echium_vulgare", "shape") }}
+- Sculptuur: {{ pollen("echium_vulgare", "sculpture") }}
+- Apertuur: {{ pollen("echium_vulgare", "aperture") }}
+- Ornamentatie: {{ pollen("echium_vulgare", "ornamentation") }}
 
 #### [Vitis vinifera](https://pollenx.eu/species.php?species=Vitis_vinifera) (wijnstok)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: juni-juni
 - Waarde: N 2, P 2
 - In honing: 1.3% 
 
 #### [Parthenocissus quinquefolia](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) (wilde wingerd)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen:
 - Bloeiperiode: mei-mei
 - Waarde: N 3, P 0
 - In honing:
 
 #### [Trifolium incarnatum](https://pollenx.eu/species.php?species=Trifolium_incarnatum) (incarnaatklaver)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: mei-juni
 - Waarde: N 5, P 5
@@ -1851,22 +920,6 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Amorpha fruticosa](https://pollenx.eu/species.php?species=Amorpha_fruticosa) (indigobosje)
 
 #### [Fagopyrum_esculentum](https://pollenx.eu/species.php?species=Fagopyrum_esculentum) (boekweit) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 51 μm, scabrate, reticulate, foveolate sculptuur
 - Bloeiperiode: juni-augustus
 - Waarde: N 5, P 5
@@ -1893,131 +946,43 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Staphylea pinnata](https://pollenx.eu/species.php?species=Staphylea_pinnata)
 #### [Fagopyrum esc.](https://pollenx.eu/species.php?species=Fagopyrum_esc.)
 #### [Lathyrus sylvestris](https://pollenx.eu/species.php?species=Lathyrus_sylvestris)
-#### [Onosis spinoza](https://pollenx.eu/species.php?species=Onosis_spinoza)
+#### [Onosis spinoza](onosis_spinoza.md)
 #### [Astragalus sinicus](https://pollenx.eu/species.php?species=Astragalus_sinicus)
 #### [Sophora japonica](https://pollenx.eu/species.php?species=Sophora_japonica) (onregelmatig
 
 ### 23. **Tricolporoidaat-Reticulate (per- of suprareticulate) (of microreticulate sculpturen**
 
 #### [Robinia pseudoacacia](https://pollenx.eu/species.php?species=Robinia_pseudoacacia) (valse acacia)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png" style="height: 94px; width: auto;" alt="Robinia pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_2.png" style="height: 94px; width: auto;" alt="Robinia pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_3.png" style="height: 94px; width: auto;" alt="Robinia pseudoacacia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_4.png" style="height: 94px; width: auto;" alt="Robinia pseudoacacia">
-    </figure>
-  </div>
-</div>
-- Pollen: 
-- Bloeiperiode: juni-juli
-- Waarde: N 5, P 5
-- In honing: 30.0% (k), 2.3% (db)
+{{ pollen_gallery("robinia_pseudoacacia") }}
+- Latijn: {{ pollen("robinia_pseudoacacia", "latin") }}
+- Nederlands: {{ pollen("robinia_pseudoacacia", "dutch") }}
+- Grootte: {{ pollen("robinia_pseudoacacia", "size.smallest_size") }}-{{ pollen("robinia_pseudoacacia", "size.largest_size") }}
+- Vorm: {{ pollen("robinia_pseudoacacia", "shape") }}
+- Sculptuur: {{ pollen("robinia_pseudoacacia", "sculpture") }}
+- Apertuur: {{ pollen("robinia_pseudoacacia", "aperture") }}
+- Ornamentatie: {{ pollen("robinia_pseudoacacia", "ornamentation") }}
 
-#### [Hypericum perforatum](https://pollenx.eu/species.php?species=Hypericum_perforatum) (sint-janskruid)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/hypericum_perforatum/hypericum_perforatum_1.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/hypericum_perforatum/hypericum_perforatum_1.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/hypericum_perforatum/hypericum_perforatum_1.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/hypericum_perforatum/hypericum_perforatum_1.png" style="height: 48px; width: auto;" alt="Hypericum_perforatum">
-    </figure>
-  </div>
-</div>
-- Pollen: 19 μm, reticulate, microreticulate sculptuur
-- Bloeiperiode: juni-september
-- Waarde: N 0, P 3
-- In honing: 3.8% 
+#### [Hypericum perforatum](hypericum_perforatum.md) (sint-janskruid)
+{{ pollen_gallery("hypericum_perforatum") }}
+- Latijn: {{ pollen("hypericum_perforatum", "latin") }}
+- Nederlands: {{ pollen("hypericum_perforatum", "dutch") }}
+- Grootte: {{ pollen("hypericum_perforatum", "size.smallest_size") }}-{{ pollen("hypericum_perforatum", "size.largest_size") }}
+- Vorm: {{ pollen("hypericum_perforatum", "shape") }}
+- Sculptuur: {{ pollen("hypericum_perforatum", "sculpture") }}
+- Apertuur: {{ pollen("hypericum_perforatum", "aperture") }}
+- Ornamentatie: {{ pollen("hypericum_perforatum", "ornamentation") }}
 
 #### [Cytisus](https://pollenx.eu/species.php?species=Cytisus) (brem)) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 0.6%
 
 #### [Euonymus](https://pollenx.eu/species.php?species=Euonymus) (kardinaalsmuts) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 0.6%
 
 #### [Genista-Typ](https://pollenx.eu/species.php?species=Genista-Typ) (zonnewinde) 
 - In honing: 0.6%
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 
 #### [Sambucus nigra](https://pollenx.eu/species.php?species=Sambucus_nigra) (vlier) 
 - In honing: 3.8%
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 
 
 #### [Euphorbia](https://pollenx.eu/species.php?species=Euphorbia) (wolfsmelk)
@@ -2042,131 +1007,53 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 24. **Stephanocolpatae**
 
-#### [Lamiaceae](https://pollenx.eu/species.php?species=Lamiaceae) (lipbloemigen-divers)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Lamiaceae](lamiaceae.md) (lipbloemigen-divers)
 - Pollen: 
 - Bloeiperiode: april-september
 - Waarde:
 - In honing: 13.8% 
 
 #### [Phacelia tanacetifolia](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia) (phacelia)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_1.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_2.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_3.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_4.png" style="height: 50px; width: auto;" alt="Phacelia_tanacetifolia">
-    </figure>
-  </div>
-</div>
-- Pollen: 	20 (18.8-23.1) μm, perforate, scabrate, microreticulate sculptuur
-- Bloeiperiode: mei-september
-- Waarde: N 5, P 5
-- In honing: 5.0%, [Phaceliahoning](../monoflorale-honing-pollen/phaceliahoning.md)
+{{ pollen_gallery("phacelia_tanacetifolia") }}
+- Latijn: {{ pollen("phacelia_tanacetifolia", "latin") }}
+- Nederlands: {{ pollen("phacelia_tanacetifolia", "dutch") }}
+- Grootte: {{ pollen("phacelia_tanacetifolia", "size.smallest_size") }}-{{ pollen("phacelia_tanacetifolia", "size.largest_size") }}
+- Vorm: {{ pollen("phacelia_tanacetifolia", "shape") }}
+- Sculptuur: {{ pollen("phacelia_tanacetifolia", "sculpture") }}
+- Apertuur: {{ pollen("phacelia_tanacetifolia", "aperture") }}
+- Ornamentatie: {{ pollen("phacelia_tanacetifolia", "ornamentation") }}
 
 #### [Impatiens balsamina](https://pollenx.eu/species.php?species=Impatiens_balsamina) (balsemien)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: juli-september
 - Waarde:
 - In honing: 1.3%
 
-#### [Impatiens glandulifera](https://pollenx.eu/species.php?species=Impatiens_glandulifera) (reuzenbalsamine)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
+#### [Impatiens glandulifera](impatiens_glandulifera.md) (reuzenbalsamine)
 - Pollen: 
 - Bloeiperiode: juli-oktober
 - Waarde: N 3, P 3
 - In honing: 
 
 #### [Lavandula angustifolia](https://pollenx.eu/species.php?species=Lavandula_angustifolia) (lavendel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_1.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_7.png" style="height: 93px; width: auto;" alt="Lavandula angustifolia">
-    </figure>
-  </div>
-</div>
-- Pollen: 37 μm 
-- Bloeiperiode: juli-oktober
-- Waarde: N 3, P 3
-- In honing: [Lavendelhoning](../monoflorale-honing-pollen/lavendelhoning.md)
+{{ pollen_gallery("lavandula_angustifolia") }}
+- Latijn: {{ pollen("lavandula_angustifolia", "latin") }}
+- Nederlands: {{ pollen("lavandula_angustifolia", "dutch") }}
+- Grootte: {{ pollen("lavandula_angustifolia", "size.smallest_size") }}-{{ pollen("lavandula_angustifolia", "size.largest_size") }}
+- Vorm: {{ pollen("lavandula_angustifolia", "shape") }}
+- Sculptuur: {{ pollen("lavandula_angustifolia", "sculpture") }}
+- Apertuur: {{ pollen("lavandula_angustifolia", "aperture") }}
+- Ornamentatie: {{ pollen("lavandula_angustifolia", "ornamentation") }}
 
-#### [Rosmarinus officinalis](https://pollenx.eu/species.php?species=Rosmarinus_officinalis) (rozemarijn)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_2.png" style="height: 108px; width: auto;" alt="Rosmarinus officinalis">
-    </figure>
-  </div>
-</div>
-- Pollen: 43 (40.3-46.4) μm, reticulate, microreticulate sculptuur
-- Bloeiperiode: april-juni
-- Waarde: N 1, P 0
-- In honing: [Rozemarijnhoning](../monoflorale-honing-pollen/rosemarijnhoning.md)
+#### [Rosmarinus officinalis](rosmarinus_officinalis.md) (rozemarijn)
+{{ pollen_gallery("rosmarinus_officinalis") }}
+- Latijn: {{ pollen("rosmarinus_officinalis", "latin") }}
+- Nederlands: {{ pollen("rosmarinus_officinalis", "dutch") }}
+- Grootte: {{ pollen("rosmarinus_officinalis", "size.smallest_size") }}-{{ pollen("rosmarinus_officinalis", "size.largest_size") }}
+- Vorm: {{ pollen("rosmarinus_officinalis", "shape") }}
+- Sculptuur: {{ pollen("rosmarinus_officinalis", "sculpture") }}
+- Apertuur: {{ pollen("rosmarinus_officinalis", "aperture") }}
+- Ornamentatie: {{ pollen("rosmarinus_officinalis", "ornamentation") }}
 
 #### [Glechoma hederacea](https://pollenx.eu/species.php?species=Glechoma_hederacea) (hondsdraf)
 #### [Majoranus-Typ](https://pollenx.eu/species.php?species=Majoranus-Typ) (marjolein)
@@ -2179,33 +1066,21 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Mentha aquatica](https://pollenx.eu/species.php?species=Mentha_aquatica)
 #### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
 #### [Satureia hortensis](https://pollenx.eu/species.php?species=Satureia_hortensis)
-#### [Thymus serpyllum?](https://pollenx.eu/species.php?species=Thymus_serpyllum?)
+#### [Thymus serpyllum?](thymus_serpyllum.md)
 #### [Nepeta cataria](https://pollenx.eu/species.php?species=Nepeta_cataria)
 
 
 ### 25. **Stephanocolporatae**
 
 #### [Viola tricolor](https://pollenx.eu/species.php?species=Viola_tricolor) (viooltje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/viola_tricolor/viola_tricolor_1.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/viola_tricolor/viola_tricolor_2.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/viola_tricolor/viola_tricolor_3.png" style="height: 188px; width: auto;" alt="Viola_tricolor"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/viola_tricolor/viola_tricolor_4.png" style="height: 188px; width: auto;" alt="Viola_tricolor">
-    </figure>
-  </div>
-</div>
-- Pollen: 51-100 µm, verrucate, scabrate, gemmate sculptuur
-- Bloeiperiode: april-oktober
-- Waarde: N 1, P 1
-- In honing: 8.8% 
+{{ pollen_gallery("viola_tricolor") }}
+- Latijn: {{ pollen("viola_tricolor", "latin") }}
+- Nederlands: {{ pollen("viola_tricolor", "dutch") }}
+- Grootte: {{ pollen("viola_tricolor", "size.smallest_size") }}-{{ pollen("viola_tricolor", "size.largest_size") }}
+- Vorm: {{ pollen("viola_tricolor", "shape") }}
+- Sculptuur: {{ pollen("viola_tricolor", "sculpture") }}
+- Apertuur: {{ pollen("viola_tricolor", "aperture") }}
+- Ornamentatie: {{ pollen("viola_tricolor", "ornamentation") }}
 
 #### [Citrus sinensis](https://pollenx.eu/species.php?species=Citrus_sinensis)
 #### [Pulmonaria officinalis](https://pollenx.eu/species.php?species=Pulmonaria_officinalis)
@@ -2215,192 +1090,93 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 26. **Pericolpatae**
 
 #### [Corydalis cava](https://pollenx.eu/species.php?species=Corydalis_cava)
-#### [Corydalis lutea](https://pollenx.eu/species.php?species=Corydalis_lutea)
+#### [Corydalis lutea](corydalis_lutea.md)
 
 ### 27. **Pericolporatae**
 
 ### 28. **Hetrocolpatae**
 
 #### [Cynoglossum officinale](https://pollenx.eu/species.php?species=Cynoglossum_officinale) (hondstong)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_1.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_2.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_4.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_3.png" style="height: 25px; width: auto;" alt="Cynoglossum_officinale">
-    </figure>
-  </div>
-</div>
-- Pollen: 10 µm, psilate sculptuur
-- Bloeiperiode: mei-juni
-- Waarde: N 3, P 3
-- In honing: 12.5% 
+{{ pollen_gallery("cynoglossum_officinale") }}
+- Latijn: {{ pollen("cynoglossum_officinale", "latin") }}
+- Nederlands: {{ pollen("cynoglossum_officinale", "dutch") }}
+- Grootte: {{ pollen("cynoglossum_officinale", "size.smallest_size") }}-{{ pollen("cynoglossum_officinale", "size.largest_size") }}
+- Vorm: {{ pollen("cynoglossum_officinale", "shape") }}
+- Sculptuur: {{ pollen("cynoglossum_officinale", "sculpture") }}
+- Apertuur: {{ pollen("cynoglossum_officinale", "aperture") }}
+- Ornamentatie: {{ pollen("cynoglossum_officinale", "ornamentation") }}
 
 #### [Myosotis scorpioides](myosotis_scorpioides.md) (vergeet-mij-niet)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png" style="height: 20px; width: auto;" alt="Myosotis_scorpioides">
-    </figure>
-  </div>
-</div>
-- Pollen: 8 (8.0-8.7); 5 (4.6-5.3) μm,
-- Bloeiperiode: mei-augustus
-- Waarde: N 1, P 0
-- In honing: 5.6% 
+{{ pollen_gallery("myosotis_scorpioides") }}
+- Latijn: {{ pollen("myosotis_scorpioides", "latin") }}
+- Nederlands: {{ pollen("myosotis_scorpioides", "dutch") }}
+- Grootte: {{ pollen("myosotis_scorpioides", "size.smallest_size") }}-{{ pollen("myosotis_scorpioides", "size.largest_size") }}
+- Vorm: {{ pollen("myosotis_scorpioides", "shape") }}
+- Sculptuur: {{ pollen("myosotis_scorpioides", "sculpture") }}
+- Apertuur: {{ pollen("myosotis_scorpioides", "aperture") }}
+- Ornamentatie: {{ pollen("myosotis_scorpioides", "ornamentation") }}
 
-#### [Lythrum salicaria](https://pollenx.eu/species.php?species=Lythrum_salicaria) (watereppe)
+#### [Lythrum salicaria](lythrum_salicaria.md) (watereppe)
 
 ### 29. **Fenestratae**
 
 #### [Taraxacum officinale](https://pollenx.eu/species.php?species=Taraxacum_officinale) (paardebloem)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_2.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_3.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png" style="height: 70px; width: auto;" alt="Taraxacum officinale">
-    </figure>
-  </div>
-</div>
-- Pollen: 28 μm, lophate, echinate
-- Bloeiperiode: maart-mei en september-november
-- Waarde: N 5, P 5
-- In honing: 21.9% (k), 49.1% (db), [Paardenbloemhoning](../monoflorale-honing-pollen/paardenbloemhoning.md)
+{{ pollen_gallery("taraxacum_officinale") }}
+- Latijn: {{ pollen("taraxacum_officinale", "latin") }}
+- Nederlands: {{ pollen("taraxacum_officinale", "dutch") }}
+- Grootte: {{ pollen("taraxacum_officinale", "size.smallest_size") }}-{{ pollen("taraxacum_officinale", "size.largest_size") }}
+- Vorm: {{ pollen("taraxacum_officinale", "shape") }}
+- Sculptuur: {{ pollen("taraxacum_officinale", "sculpture") }}
+- Apertuur: {{ pollen("taraxacum_officinale", "aperture") }}
+- Ornamentatie: {{ pollen("taraxacum_officinale", "ornamentation") }}
 
-#### [Cichorium intybus](https://pollenx.eu/species.php?species=Cichorium_intybus)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png" style="height: 100px; width: auto;" alt="Cichorium_intybus">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_2.png" style="height: 100px; width: auto;" alt="Taraxacum_officinale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_3.png" style="height: 100px; width: auto;" alt="Cichorium_intybus"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_4.png" style="height: 100px; width: auto;" alt="Cichorium_intybus">
-    </figure>
-  </div>
-</div>
-- Pollen: 40 μm, lophate, echinate, perforate sculptuur
-- Bloeitijd: juli-september
-- Waarde: N 3, P 3
+#### [Cichorium intybus](cichorium_intybus.md)
+{{ pollen_gallery("cichorium_intybus") }}
+- Latijn: {{ pollen("cichorium_intybus", "latin") }}
+- Nederlands: {{ pollen("cichorium_intybus", "dutch") }}
+- Grootte: {{ pollen("cichorium_intybus", "size.smallest_size") }}-{{ pollen("cichorium_intybus", "size.largest_size") }}
+- Vorm: {{ pollen("cichorium_intybus", "shape") }}
+- Sculptuur: {{ pollen("cichorium_intybus", "sculpture") }}
+- Apertuur: {{ pollen("cichorium_intybus", "aperture") }}
+- Ornamentatie: {{ pollen("cichorium_intybus", "ornamentation") }}
 
 #### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
 
-#### [Hieracium aurantiacum](https://pollenx.eu/species.php?species=Hieracium_aurantiacum)
+#### [Hieracium aurantiacum](hieracium_aurantiacum.md)
 #### [Hieracium sp.](https://pollenx.eu/species.php?species=Hieracium_sp.)
 #### [Tragopogon sp](https://pollenx.eu/species.php?species=Tragopogon_sp)
 
 ### 30. **Diporatae**
 
 #### [Colchicum autumnale](https://pollenx.eu/species.php?species=Colchicum_autumnale) (herfststijlloos)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_1.png" style="height: 125px; width: auto;" alt="Colchicum_autumnale">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_1.png" style="height: 125px; width: auto;" alt="Colchicum_autumnale">
-    </figure>
-  </div>
-</div>
-- Pollen: 55 (50.2-59.0) μm,  reticulate tot rugulate sculptuur, deels pori met operculum
-- Bloeiperiode: herfst
-
+{{ pollen_gallery("colchicum_autumnale") }}
+- Latijn: {{ pollen("colchicum_autumnale", "latin") }}
+- Nederlands: {{ pollen("colchicum_autumnale", "dutch") }}
+- Grootte: {{ pollen("colchicum_autumnale", "size.smallest_size") }}-{{ pollen("colchicum_autumnale", "size.largest_size") }}
+- Vorm: {{ pollen("colchicum_autumnale", "shape") }}
+- Sculptuur: {{ pollen("colchicum_autumnale", "sculpture") }}
+- Apertuur: {{ pollen("colchicum_autumnale", "aperture") }}
+- Ornamentatie: {{ pollen("colchicum_autumnale", "ornamentation") }}
 
 ### 31. **Triporatae**
 
-#### [Epilobium angustifolium](https://pollen.tstebler.ch/MediaWiki/index.php?title=Epilobium_angustifolium) ((knikkend)wilgeroosje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png" style="height: 200px; width: auto;" alt="Epilobium_angustifolium">
-    </figure>
-  </div>
-</div>
-- Pollen: 80 (74.6-89.5) μm, rugulate sculptuur (Beug psilaat, met golvend oppervlak), viscine draden
-- Bloeiperiode: juli-september
-- Waarde: N3, P3
-- In honing: 10.0% 
+#### [Epilobium angustifolium](epilobium_angustifolium.md) ((knikkend)wilgeroosje)
+{{ pollen_gallery("epilobium_angustifolium") }}
+- Latijn: {{ pollen("epilobium_angustifolium", "latin") }}
+- Nederlands: {{ pollen("epilobium_angustifolium", "dutch") }}
+- Grootte: {{ pollen("epilobium_angustifolium", "size.smallest_size") }}-{{ pollen("epilobium_angustifolium", "size.largest_size") }}
+- Vorm: {{ pollen("epilobium_angustifolium", "shape") }}
+- Sculptuur: {{ pollen("epilobium_angustifolium", "sculpture") }}
+- Apertuur: {{ pollen("epilobium_angustifolium", "aperture") }}
+- Ornamentatie: {{ pollen("epilobium_angustifolium", "ornamentation") }}
 
 #### [Urtica dioica](https://pollenx.eu/species.php?species=Urtica_dioica) (brandnetel)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: juni-september
 - Waarde:
 - In honing:-
 
 #### [Cucumis sativus](https://pollenx.eu/species.php?species=Cucumis_sativus) (komkommer/augurk) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 4.4%
 
 #### [Betula](https://pollenx.eu/species.php?species=Betula) (berk)
@@ -2415,165 +1191,72 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Phaseolus vulgaris](https://pollenx.eu/species.php?species=Phaseolus_vulgaris)
 #### [Oenothera tetrag](https://pollenx.eu/species.php?species=Oenothera_tetrag)
 
-#### [Humulus](https://pollenx.eu/species.php?species=Humulus)
+#### [Humulus](humulus.md)
 #### [Cannabis sativa](https://pollenx.eu/species.php?species=Cannabis_sativa)
 
 ### 32. **Stephanoporatae**
 
 #### [Campanula rotundifolia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rotundifolia) (klokje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_1.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_4.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_2.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_3.png" style="height: 83px; width: auto;" alt="Campanula_rotundifolia">
-    </figure>
-  </div>
-</div>
-- Pollen:  34 (31.5-36.3), 32 (31.4-33.3) μm,verrucate tot echinate sculptuur
-- Bloeiperiode: mei-september
-- Waarde:
-- In honing: 6.9% 
+{{ pollen_gallery("campanula_rotundifolia") }}
+- Latijn: {{ pollen("campanula_rotundifolia", "latin") }}
+- Nederlands: {{ pollen("campanula_rotundifolia", "dutch") }}
+- Grootte: {{ pollen("campanula_rotundifolia", "size.smallest_size") }}-{{ pollen("campanula_rotundifolia", "size.largest_size") }}
+- Vorm: {{ pollen("campanula_rotundifolia", "shape") }}
+- Sculptuur: {{ pollen("campanula_rotundifolia", "sculpture") }}
+- Apertuur: {{ pollen("campanula_rotundifolia", "aperture") }}
+- Ornamentatie: {{ pollen("campanula_rotundifolia", "ornamentation") }}
 
-#### [Juglans regia](https://pollenx.eu/species.php?species=Juglans_regia) (walnoot) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juglans_regia/juglans_regia_2.png" style="height: 100px; width: auto;" alt="Juglans_regia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juglans_regia/juglans_regia_3.png" style="height: 100px; width: auto;" alt="Juglans_regia">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juglans_regia/juglans_regia_4.png" style="height: 100px; width: auto;" alt="Juglans_regia"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/juglans_regia/juglans_regia_5.png" style="height: 100px; width: auto;" alt="Juglans_regia">
-    </figure>
-  </div>
-</div>
-- Pollen: 40 (36.0-41.7) μm (Medium), scabrate, microechinate, verrucate, gemmate sculpturen, pori met anulus
-- In honing: 0.6%
-
+#### [Juglans regia](juglans_regia.md) (walnoot) 
+{{ pollen_gallery("juglans_regia") }}
+- Latijn: {{ pollen("juglans_regia", "latin") }}
+- Nederlands: {{ pollen("juglans_regia", "dutch") }}
+- Grootte: {{ pollen("juglans_regia", "size.smallest_size") }}-{{ pollen("juglans_regia", "size.largest_size") }}
+- Vorm: {{ pollen("juglans_regia", "shape") }}
+- Sculptuur: {{ pollen("juglans_regia", "sculpture") }}
+- Apertuur: {{ pollen("juglans_regia", "aperture") }}
+- Ornamentatie: {{ pollen("juglans_regia", "ornamentation") }}
 
 #### [Jasione](https://pollenx.eu/species.php?species=Jasione) (jasione)
 #### [Carpinus betulus](https://pollenx.eu/species.php?species=Carpinus_betulus)
-#### [Jasione montana](https://pollenx.eu/species.php?species=Jasione_montana)
+#### [Jasione montana](jasione_montana.md)
 #### [Ulmus sp.](https://pollenx.eu/species.php?species=Ulmus_sp.)
 
 
 ### 33. **Periporatae**
 
 #### [Plantago lanceolata](https://pollenx.eu/species.php?species=Plantago_lanceolata) (weegbree)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_1.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_1.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_1.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_1.png" style="height: 94px; width: auto;" alt="Plantago_lanceolata">
-    </figure>
-  </div>
-</div>
-- Pollen: 28 μm, areolate, scabrate, verrucate, gemmate sculptuur, pori met anulus
-- Bloeiperiode: mei-september
-- Waarde: N 0, P 3
-- In honing: 10.0%  secundaire inbreng
+{{ pollen_gallery("plantago_lanceolata") }}
+- Latijn: {{ pollen("plantago_lanceolata", "latin") }}
+- Nederlands: {{ pollen("plantago_lanceolata", "dutch") }}
+- Grootte: {{ pollen("plantago_lanceolata", "size.smallest_size") }}-{{ pollen("plantago_lanceolata", "size.largest_size") }}
+- Vorm: {{ pollen("plantago_lanceolata", "shape") }}
+- Sculptuur: {{ pollen("plantago_lanceolata", "sculpture") }}
+- Apertuur: {{ pollen("plantago_lanceolata", "aperture") }}
+- Ornamentatie: {{ pollen("plantago_lanceolata", "ornamentation") }}
 
-#### [Lychnis flos-cuculi](https://pollenx.eu/species.php?species=Lychnis_flos-cuculi) (koekoeksbloem)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png" style="height: 90px; width: auto;" alt="Lychnis_flos-cuculi"> 
-    </figure>
-    </figure>
-  </div>
-</div>
-- Pollen: 36 (32.9-36.7) μm, perforate, scabrate, verrucate, gemmate sculptuur
-- Bloeiperiode: mei-september
-- Waarde: N 3, P 3
-- In honing: 
+#### [Lychnis flos-cuculi](lychnis_flos-cuculi.md) (koekoeksbloem)
+{{ pollen_gallery("lychnis_flos-cuculi") }}
+- Latijn: {{ pollen("lychnis_flos-cuculi", "latin") }}
+- Nederlands: {{ pollen("lychnis_flos-cuculi", "dutch") }}
+- Grootte: {{ pollen("lychnis_flos-cuculi", "size.smallest_size") }}-{{ pollen("lychnis_flos-cuculi", "size.largest_size") }}
+- Vorm: {{ pollen("lychnis_flos-cuculi", "shape") }}
+- Sculptuur: {{ pollen("lychnis_flos-cuculi", "sculpture") }}
+- Apertuur: {{ pollen("lychnis_flos-cuculi", "aperture") }}
+- Ornamentatie: {{ pollen("lychnis_flos-cuculi", "ornamentation") }}
 
 #### [Daphne laureola](https://pollenx.eu/species.php?species=Daphne_laureola) (peperboompje)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: februari-april
 - Waarde:
 - In honing: 0.6% 
 
 #### [Phlox subulata](https://pollenx.eu/species.php?species=Phlox_subulata) (vlambloem)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: mei-juli
 - Waarde:
 - In honing: 1.3% 
 
 #### [Thalictrum flavum](https://pollenx.eu/species.php?species=Thalictrum_flavum) (ruit)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - Pollen: 
 - Bloeiperiode: juni-juli
 - Waarde: N 0, P 3
@@ -2582,79 +1265,15 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie)
 #### [Anemone](https://pollenx.eu/species.php?species=Anemone) (anemoon)
 #### [Caryophyllaceae](https://pollenx.eu/species.php?species=Caryophyllaceae) (anjerfamilie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 5.0%
 
 #### [Chenopodium album](https://pollenx.eu/species.php?species=Chenopodium_album) (ganzevoetfamilie) 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 4.4%, secundaire inbreng
 
 #### [Cyperaceae](https://pollenx.eu/species.php?species=Cyperaceae) (zeggen)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing: 1.3%
 
 #### [Silene](https://pollenx.eu/species.php?species=Silene) (anjerfamilie)
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo"> 
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/non-pollen/placeholder.png" style="height: 1px; width: auto;" alt="PLACEHOLDER_Eo">
-    </figure>
-  </div>
-</div>
 - In honing:
 
 #### [Stellaria holostea](https://pollenx.eu/species.php?species=Stellaria_holostea) (grote muur)

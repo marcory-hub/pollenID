@@ -1,74 +1,108 @@
-# *Myosotis scorpioides* (vergeet-mij-niet)
+# *Myosotis scorpioides* (vergeet-me-nietje)
 
-<div class="pid-scale-gallery">
-  <div class="pid-scale-row pid-scale-row--snug">
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-    <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png" style="height: 20px; width: auto;" alt="Myosotis scorpioides">
-    </figure>
-  </div>
-</div>
-- Pollen: 8 (8.0-8.7); 5 (4.6-5.3) μm,
-- Bloeiperiode: mei-augustus
-- Waarde: N 1, P 0
-- In honing: 5.6%
+{{ pollen_gallery("myosotis_scorpioides") }}
+
+## Kenmerken
+
+| Veld | Waarde |
+|---|---|
+| Latijn | Myosotis scorpioides |
+| Nederlands | vergeet-me-nietje |
+| Grootte | 5 µm-7 µm |
+| Vorm | halter |
+| Apertuur | 6-colpaat |
+| Sculptuur | glad |
+
+### SoT (`data/pollen.yaml`)
+
+```yaml
+myosotis_scorpioides:
+  latin: Myosotis scorpioides
+  dutch: vergeet-me-nietje
+  family: null
+  size:
+    smallest_size: 5 µm
+    largest_size: 7 µm
+    height_px: 18
+  shape: halter
+  sculpture: glad
+  aperture: 6-colpaat
+  ornamentation: null
+  polarity: null
+  pe_ratio: null
+  bloeitijd:
+    start: null
+    end: null
+  images:
+  - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
+    kind: pollenwiki
+    source: pollenwiki
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Myosotis_scorpioides
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides
+    paldat: https://www.paldat.org/pub/Myosotis_scorpioides
+    pollenx: https://pollenx.eu/species.php?species=Myosotis_scorpioides
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+```
 
 ## Determinatiesleutels
 
-### Kerkvliet-determinatietabel voor pollen in Nederlandse honing
+### Vanderham
+<details><summary>Pollentabel (van der Ham)</summary>
 
-<div class="admonition info">
-<p class="admonition-title">Diversen <em>Myosotis scorpioides</em></p>
-<ul>
-<li><strong>Nederlands:</strong> vergeet-me-nietje</li>
-<li><strong>Vorm:</strong> halter</li>
-<li><strong>Grootte (µm):</strong> 7x5</li>
-<li><strong>Oppervlak:</strong> glad</li>
-<li><strong>Opmerkingen:</strong> 6-colpaat, maar niet goed zichtbaar</li>
-</ul>
-</div>
+- Stap 1:
+  - <span class="pid-key-choice pid-key-choice--off">Vier pollenkorrels bij elkaar (tetrade)</span>
+  - <span class="pid-key-choice pid-key-choice--on">Één losse pollenkorrel (monade)</span>
+- Stap 3:
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel met twee luchtzakken (vesiculaat)</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder luchtzakken</span>
+- Stap 4:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met ‘vensters’ (fenestraat)</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder ‘vensters’</span>
+- Stap 5:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder aperturen (inaperturaat)</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met één of meer aperturen</span>
+- Stap 9:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met één apertuur</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met drie of meer aperturen</span>
+- Stap 12:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer langwerpige aperturen (colpi) zonder pori (colpaat)</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer langwerpige aperturen (colpi) met pori (colporaat)</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer ± ronde aperturen (pori; poraat)</span>
+- Stap 13:
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel kleiner dan 15 µm</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel groter dan 15 µm</span>
+- Stap 14:
+  - <span class="pid-key-choice pid-key-choice--off">colpi kruisvormig (met equatoriale ‘takken’)</span>
+  - <span class="pid-key-choice pid-key-choice--on">colpi recht (niet ‘vertakt’)</span>
 
-### Pollentabel van der Ham
+</details>
 
-<div class="admonition info">
-<p class="admonition-title">Verwacht pad</p>
-<ol>
-<li><strong>Stap 1:</strong> Één losse pollenkorrel (monade)</li>
-<li><strong>Stap 3:</strong> pollenkorrel zonder luchtzakken</li>
-<li><strong>Stap 4:</strong> pollenkorrel zonder ‘vensters’</li>
-<li><strong>Stap 5:</strong> pollenkorrel met één of meer aperturen</li>
-<li><strong>Stap 9:</strong> pollenkorrel met drie of meer aperturen</li>
-<li><strong>Stap 12:</strong> pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)</li>
-<li><strong>Stap 13:</strong> pollenkorrel kleiner dan 15 µm</li>
-<li><strong>Stap 14:</strong> colpi recht (niet ‘vertakt’)</li>
-<li><strong>Eindpunt:</strong> Boraginaceae (Myosotis)</li>
-</ol>
-</div>
+### Kerkvliet
+<details><summary>kerkvliet_determinatietabel</summary>
 
-### Beug: 28. Heterocolpatae
+- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
 
-<div class="admonition info">
-<p class="admonition-title">Beug</p>
-<ol>
-<li><strong>Stap 1:</strong> Porate en niet-porate Colpi smaller of PK groter als 30 µm.</li>
-<li><strong>Stap 2:</strong> PK &lt; 18 µm (vgl. aber ook kleine PK van <em>Lythrum</em>).</li>
-<li><strong>Stap 6:</strong> PK zonder eine solche Ringfurche.</li>
-<li><strong>Stap 7:</strong> Alle Poriën in äquatorialer Position, PK (meestal zwak) hantelförmig.</li>
-<li><strong>Stap 9:</strong> PK polar afgerond (Abrundung vaak nur zwak).</li>
-<li><strong>Eindpunt:</strong> 28.8 <em>Myosotis</em> sylvatica-type (Blz. 414)</li>
-</ol>
-</div>
+</details>
 
 ## Online databases
 
-- [PollenX - *Myosotis scorpioides*](https://pollenx.eu/species.php?species=Myosotis_scorpioides)
-- [pollenwiki - *Myosotis scorpioides*](https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides)
-- [Paldat - *Myosotis scorpioides*](https://www.paldat.org/pub/Myosotis_scorpioides)
+- pollenX: https://pollenx.eu/species.php?species=Myosotis_scorpioides
+- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides
+- paldat: https://www.paldat.org/pub/Myosotis_scorpioides
+- pollenx: https://pollenx.eu/species.php?species=Myosotis_scorpioides
