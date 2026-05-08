@@ -1,5 +1,25 @@
 # Lindehoning (Tilia-type (Linde species) Tiliaceae)
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Tilia-type (Linde species) |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 32-38 µm |
+| **Vorm** | rond tot driehoekig; oblaat |
+| **Sculptuur** | Reticulaat tot rugulaat, foveolaat/fossulaat |
+| **Apertuur** | Tricolporaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | ca. 0,73 (range: 0,63–0,76) |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Tilia-type_linde)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia-type_linde)<br>[PalDat](https://www.paldat.org/pub/Tilia-type_linde) |
+
 {{ pollen_gallery("tilia_type_linde_species") }}
 
 ## Herkenning hoofdpollen
@@ -8,31 +28,9 @@
 
 - In de Tilia honing komen stervormige kristallen bestaande uit calciumoxalaat voor.
 
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 32–38 µm (middelgroot) |
-| **Vorm** | rond tot driehoekig; oblaat |
-| **Polariteit** | isopolair |
-| **P/E-ratio** | ca. 0,73 (range: 0,63–0,76) |
-
-### Pollenklasse
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | Tricolporaat |
-| **Ornamentatie** | Reticulaat tot rugulaat, foveolaat/fossulaat |
-
 ## Afbeeldingen
 
 Drie LM-beelden van *Tilia platyphyllos* (Persano Oddo) plus calciumoxalaatkristallen; zie de galerij bovenaan deze pagina.
-
-### Externe determinatiebronnen
-- **PollenX**: [Tilia platyphyllos](https://pollenx.eu/species.php?species=Tilia_platyphyllos)
-- **Pollen-Wiki (T. Stebler)**
-  - [Tilia platyphyllos (zomerlinde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_platyphyllos)
-  - [Tilia cordata (winterlinde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_cordata)
-  - [Tilia henryana (chinese linde)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_henryana)
 
 ## Pollen die erop lijken
 
@@ -86,7 +84,7 @@ Drie LM-beelden van *Tilia platyphyllos* (Persano Oddo) plus calciumoxalaatkrist
 
 ## Botanische achtergrond
 - Zomerlinde- en winterlindepollen lijken sterk op elkaar. Kruising tussen beide wordt *Tilia × vulgaris* (Nederlandse linde) genoemd. Veel cultivars.
-- Bloemen van *Tilia* hebben een nectarium op de bovenzijde van de kelkbladen, afgedekt met beharing. Haren op de kelkbladen van het kaasjeskruid (*Malva*) scheiden nectar af; dit zijn de zogenoemde trichoomnectariën. Zie: [Trichoom (sterharen) bij Tilia](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_cordata)
+- Bloemen van *Tilia* hebben een nectarium op de bovenzijde van de kelkbladen, afgedekt met beharing. Haren op de kelkbladen van het kaasjeskruid (*Malva*) scheiden nectar af; dit zijn de zogenoemde trichoomnectariën. Zie: Trichoom (sterharen) bij Tilia
 - De bloemen van *Tilia* bevatten **calciumoxalaatkristallen**, vooral in het **subglandulaire weefsel** (onder de nectar-producerende klieren). Mogelijk bescherming tegen herbivoren.
 
 ### Taxonomie:
@@ -108,8 +106,3 @@ Drie LM-beelden van *Tilia platyphyllos* (Persano Oddo) plus calciumoxalaatkrist
 
 ## Te verifieren
 - Geen artikel gevonden over steriele cultivars die geen pollen produceren en (mogelijk) groep I monoflorale honing kunnen verklaren (wel steriel zaad).
-
-
-
-
-

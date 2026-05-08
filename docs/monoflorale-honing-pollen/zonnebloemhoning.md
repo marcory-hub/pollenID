@@ -26,29 +26,27 @@
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 42 (38.9-45.5) μm (Medium) pollenwiki, 26-30 µm paldat |
-| **Vorm** | rond, sferoid |
+| **Latijn** | Helianthus annuus |
+| **Nederlands** | zonnebloem |
+| **Familie** |  |
+| **Grootte** | 35 µm |
+| **Vorm** | rond |
+| **Sculptuur** | echinaat H |
+| **Apertuur** | 3-colporaat |
+| **Ornamentatie** |  |
 | **Polariteit** | isopolair |
-| **P/E-ratio**  |   |
+| **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Helianthus_annuus)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Helianthus_annuus)<br>[PalDat](https://www.paldat.org/pub/Helianthus_annuus) |
 
-### Pollenklasse
-
-| Kenmerk  | Waarde |
-| --- |--- |
-| **Aperturen** | tricoporaat |
-| **Ornamentatie** | echinaat, lengte van echini 5-6 µm |
-
-### Externe determinatiebronnen
-
-- [PollenX](https://pollenx.eu/species.php?species=Helianthus_annuus)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Helianthus_annuus)
-- [PalDat](https://www.paldat.org/pub/Helianthus_annuus/304619)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 - andere 'Helianthus (zonnebloem)-type' composieten
@@ -98,4 +96,3 @@
 ## Naslag
 
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

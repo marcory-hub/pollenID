@@ -23,21 +23,27 @@
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte (Beug)** | 51 µm (groot) (kan kleine korrels maken 25 µm)(bron: van der Ham en Sawyer)|
+| **Latijn** | Fagopyrum esculentum |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 51 µm |
 | **Vorm** | rond, sferoid |
-| **Polariteit** | isopolair  |
+| **Sculptuur** | reticulaat, aperturen met korrelige ornamentering |
+| **Apertuur** | tricolporaat (poren vaak niet te zien) |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
 | **P/E-ratio** | 1.1 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Fagopyrum_esculentum)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fagopyrum_esculentum)<br>[PalDat](https://www.paldat.org/pub/Fagopyrum_esculentum) |
 
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolporaat (poren vaak niet te zien) |
-| **Ornamentatie** | reticulaat, aperturen met korrelige ornamentering |
+## Herkenning hoofdpollen
 
 ### Beug
 - Colpi zijn lang
@@ -61,16 +67,11 @@
   </div>
 </div>
 
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Fagopyrum_esculentum)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fagopyrum_esculentum)
-- [PalDat](https://www.paldat.org/pub/Fagopyrum_esculentum/303791)
-
 ## Pollen die erop lijken
-- [polygonacea (duizendknoopfamilie (zuring e.d.)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae)
+- polygonacea (duizendknoopfamilie (zuring e.d.)
   - Pollen met drie lange smalle groeven, elk met een ovale of rechthoekige porie. Poriën vaak breder dan de groeven met verdikte randen, wat in doorsnede (poolaanzicht) een kenmerkende wigvorm geeft.
-    - [Polygonum avicular (varkensgras)-type](https://pollenx.eu/species.php?species=Polygonum_aviculare): is kleiner en minder grof ivm Fagopyrum 
-    - [Rumex (zuring)-type](https://pollenx.eu/species.php?species=Rumex_acetosa): windbestoven. Exine zeer dun, korrel rond of afgerond driehoekig met poriën in de middenzijden. Celinhoud: grote zetmeelkorrels.
+    - Polygonum avicular (varkensgras)-type: is kleiner en minder grof ivm Fagopyrum 
+    - Rumex (zuring)-type: windbestoven. Exine zeer dun, korrel rond of afgerond driehoekig met poriën in de middenzijden. Celinhoud: grote zetmeelkorrels.
     - Fagopyrum tataricum (Franse boekweit) is rodelijst soort en komt niet meer in het wild voor in Nederland.
 
 ## Relevante neven- en bijpollen
@@ -135,10 +136,3 @@
 ## Naslag
 - [PALYNOLOGICAL, PHYSICO-CHEMICAL AND BIOLOGICALLY ACTIVE SUBSTANCES PROFILE IN SOME TYPES OF HONEY IN THE REPUBLIC OF MOLDOVA](https://doi.org/10.52326/jes.utm.2021.28(3).14)
 - [PHYSICOCHEMICAL CHARACTERISTICS AND MELISSOPALYNOLOGICAL ANALYSIS OF COMMERCIAL BUCKWHEAT HONEYS FROM POLAND](https://doi.org/10.18006/2021.9(2).200.205)
-
-
-
-
-
-
-

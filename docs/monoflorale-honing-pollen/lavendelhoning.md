@@ -11,27 +11,27 @@
   </div>
 </div> 
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Lavandula angustifolia |
+| **Nederlands** | lavendel |
+| **Familie** |  |
+| **Grootte** | 38 µm |
+| **Vorm** | zeskantig |
+| **Sculptuur** | reticulaat |
+| **Apertuur** | 6-colpaat |
+| **Ornamentatie** |  |
+| **Polariteit** |  |
+| **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Lavandula_angustifolia)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia)<br>[PalDat](https://www.paldat.org/pub/Lavandula_angustifolia) |
+
 ## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 37 μm (Medium)   |
-| **Vorm** | Eliptisch tot hexagonaal  |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | - |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | Stephanocolpaat, meestal 6 colpi |
-| **Ornamentatie** | Reticulaat  |
-
-### Externe determinatiebronnen
-- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
-- [PalDat](https://www.paldat.org/search/genus/Lavandula)
 
 ## Pollen die erop lijken
 

@@ -17,34 +17,32 @@
   </div>
 </div>
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Calluna vulgaris |
+| **Nederlands** | struikheide |
+| **Familie** |  |
+| **Grootte** | 32-39 µm |
+| **Vorm** | tetrade |
+| **Sculptuur** | verrucaat |
+| **Apertuur** |  |
+| **Ornamentatie** |  |
+| **Polariteit** |  |
+| **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Calluna_vulgaris)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris)<br>[PalDat](https://www.paldat.org/pub/Calluna_vulgaris) |
+
 ## Calluna vulgaris (struikhei)
 - tetrade van 51 µm 
 - kristalgruis
 
 ## Herkenning hoofdpollen
 - alle gebruikelijk heidepollen zijn tetraden. 
-
-### Vorm, afmeting en apertuur
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenunitgrootte** | 	26-50 µm |
-| **Pollengrootte** |  size of hydrated pollen (LM): 	27 (22.5-30.0) μm (Medium) |
-| **Vorm** | tetradeae, rond tonvormig, onregelmatig bij ongehydrateerde pollen |
-| **Aperturen** | korte brede colpi, tricolpaat of tricolporaat |
-| **Polariteit** | heteropolair  |
-| **P/E-ratio** | - |
-
-### Ornamentatie en structuur
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Ornamentatie** | psylaat (pollenwiki), verrucate, scabrate, gemmate (paldat en Beug) |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Calluna_vulgaris)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris)
-- [PalDat](https://www.paldat.org/pub/Calluna_vulgaris/304299)
 
 ## Pollen die erop lijken
 ### Heidefamilie. 
@@ -143,6 +141,3 @@ Overig: samengestelde korrels
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-
-
-

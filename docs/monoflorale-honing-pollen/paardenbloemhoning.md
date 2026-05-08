@@ -1,5 +1,25 @@
 # paardenbloemhoning (Taraxacum officinale)
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Taraxacum officinale |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 28 µm |
+| **Vorm** | rond tot driehoekig, sferoid |
+| **Sculptuur** | fenestraat, echinaat |
+| **Apertuur** | tricolpaat, 3-4 slecht zichtbare aperturen |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | 0.89 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Taraxacum_officinale)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale)<br>[PalDat](https://www.paldat.org/pub/Taraxacum_officinale) |
+
 {{ pollen_gallery("taraxacum_officinale") }}
 
 ## Kenmerken
@@ -10,30 +30,6 @@
 | **Nederlands** | {{ pollen("taraxacum_officinale", "dutch") }} |
 | **Familie** | {{ pollen("taraxacum_officinale", "family") }} |
 
-### Pollenafmeting en vorm
-| Kenmerk | Waarde |
-| --- | --- |
-| **Grootte (klein-groot)** | {{ pollen("taraxacum_officinale", "size.smallest_size") }} - {{ pollen("taraxacum_officinale", "size.largest_size") }} |
-| **Vorm** | {{ pollen("taraxacum_officinale", "shape") }} |
-| **Polariteit** | {{ pollen("taraxacum_officinale", "polarity") }} |
-| **P/E-ratio** | {{ pollen("taraxacum_officinale", "pe_ratio") }} |
-| **Apertuur** | {{ pollen("taraxacum_officinale", "aperture") }} |
-| **Ornamentatie** | {{ pollen("taraxacum_officinale", "ornamentation") }} |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | {{ pollen("taraxacum_officinale", "aperture") }} |
-| **Ornamentatie** | {{ pollen("taraxacum_officinale", "ornamentation") }} |
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Bloeitijd (maand)** | {{ pollen("taraxacum_officinale", "bloeitijd.start") }} - {{ pollen("taraxacum_officinale", "bloeitijd.end") }} |
-| **Nectarwaarde** | {{ pollen("taraxacum_officinale", "nectar_value") }} |
-| **Pollenwaarde** | {{ pollen("taraxacum_officinale", "pollen_value") }} |
-| **Frequentie in honing** | {{ pollen("taraxacum_officinale", "frequency_in_honey") }} |
-
 ## Melissopalynologische interpretatie
 - komt voor in 22% van de onderzochte Nederlandse honing
 - hoog vetgehalte (13%) itt mais (2,2%)
@@ -41,18 +37,11 @@
 - niet altijd bezocht door bijen als ze onvoldoende ontwikkels zijn om het te vergaren voor honingproductie
 - kristaliseerd vrij snel door hoge glucose aandeel
 
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Taraxacum_officinale)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale)
-- [PalDat](https://www.paldat.org/pub/Taraxacum_officinale/305331)
-
 ## Pollen die erop lijken
 - fenestrate pollen
 - taraxacum type composieten
 
 ## Relevante neven- en bijpollen
-
-
 
 ### Aandeel in de monoflorale honing
 
@@ -107,4 +96,3 @@
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

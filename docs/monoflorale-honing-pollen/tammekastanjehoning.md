@@ -17,31 +17,30 @@
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 16 (14.6-17.1) μm (Small) 11-15 paldat |
-| **Vorm** | driehoekig (angulair), prolaat |
+| **Latijn** | Castanea sativa |
+| **Nederlands** | tamme kastanje |
+| **Familie** |  |
+| **Grootte** | 12-14 µm |
+| **Vorm** | ovaal |
+| **Sculptuur** | glad |
+| **Apertuur** | 3-colporaat |
+| **Ornamentatie** |  |
 | **Polariteit** | isopolair |
 | **P/E-ratio** | ca. 1.24 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Castanea_sativa)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Castanea_sativa)<br>[PalDat](https://www.paldat.org/pub/Castanea_sativa) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolporaat |
-| **Ornamentatie** | psilaat, aperturen geen ornamentering |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Castanea_sativa)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Castanea_sativa)
-- [PalDat](https://www.paldat.org/pub/Castanea_sativa/303767)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
-- [Fagaceae-familie](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fagaceae) (napjesdrager familie (napje op/om de vrucht), beukenfamilie). 
+- Fagaceae-familie (napjesdrager familie (napje op/om de vrucht), beukenfamilie). 
     - Kleine, driehoekige pollen (tricolporaat). Exine psilaat, aperturen zonder ornamentering.
 
 ## Relevante neven- en bijpollen

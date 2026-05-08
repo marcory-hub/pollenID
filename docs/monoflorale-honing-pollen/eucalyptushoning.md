@@ -14,27 +14,27 @@
   </div>
 </div> 
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 23 (19.1-25.9) μm (Small) |
+| **Latijn** | Eucalyptus globulus - Myrtaceae |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 19.1-25.9 µm |
 | **Vorm** | driehoekig |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.81 sferoid tot optisch gering oblaat  |
+| **Sculptuur** | scabraat |
+| **Apertuur** | syncolpaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | 0.81 sferoid tot optisch gering oblaat |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Eucalyptus_globulus)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eucalyptus_globulus)<br>[PalDat](https://www.paldat.org/pub/Eucalyptus_globulus) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | syncolpaat |
-| **Ornamentatie** | scabraat  |
-
-### Externe determinatiebronnen
-- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
-- [PalDat](https://www.paldat.org/search/genus/Citrus)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 

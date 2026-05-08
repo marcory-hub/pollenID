@@ -14,31 +14,27 @@
   </div>
 </div> 
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 21-25 µm  |
+| **Latijn** | Trifolium repens |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 21-25 µm |
 | **Vorm** | gering driehoekig convex sferoid |
-| **Polariteit** |  isopolair |
+| **Sculptuur** | fijn reticulaat |
+| **Apertuur** | tricolportaal |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
 | **P/E-ratio** | 0.96; 0.93-1.05 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Trifolium_repens)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_repens)<br>[PalDat](https://www.paldat.org/pub/Trifolium_repens) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolportaal |
-| **Ornamentatie** | fijn reticulaat |
-
-- Glazige pollen (lege pollen) kunne voorkomen
-- Dit abortieve pollen niet tellen
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Trifolium_repens)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_repens)
-- [PalDat](https://www.paldat.org/pub/Trifolium_repens/306197)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 
@@ -64,7 +60,6 @@
 
 ## Palynologische betekenis
 
-
 ## Sleutels
 ### **Beug:** 
 
@@ -86,4 +81,3 @@
 
 ## Naslag
   - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

@@ -418,6 +418,29 @@
   color: var(--md-default-fg-color--light);
 }
 
+.kerkvliet-row-label {
+  margin: 0 0 0.35rem;
+  line-height: 1.15;
+}
+
+.kerkvliet-row-label-latin {
+  font-weight: 600;
+}
+
+.kerkvliet-row-label-dutch {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.85em;
+  margin-top: 0.1rem;
+}
+
+.pid-pollen-morph-tail {
+  white-space: pre;
+}
+
+.vdh-pollentabel-table-td-result .pid-pollen-morph-tail {
+  white-space: pre;
+}
+
 /* Material for MkDocs hides top navigation tabs below ~76em.
    Force them visible so the "Home / monoflorale honing / ..." tabs stay accessible. */
 @media screen and (max-width: 76.234375em) {

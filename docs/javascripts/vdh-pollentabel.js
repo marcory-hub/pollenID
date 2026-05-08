@@ -94,6 +94,18 @@
           '" class="vdh-pollentabel-outcome-link" rel="noopener noreferrer" target="_blank">' +
           formatEmphasisAst(m[1]) +
           "</a>";
+      } else if (/\.md$/i.test(href) || /^\.\.\//.test(href) || /^\.\//.test(href)) {
+        try {
+          const abs = new URL(href, document.baseURI).href;
+          out +=
+            '<a href="' +
+            escAttr(abs) +
+            '" class="vdh-pollentabel-outcome-link-internal">' +
+            formatEmphasisAst(m[1]) +
+            "</a>";
+        } catch (e) {
+          out += esc(m[0]);
+        }
       } else {
         out += esc(m[0]);
       }
@@ -186,6 +198,67 @@
       return su + "-" + lu + " µm";
     }
     return s || l;
+  }
+
+  function resolveInternalMdHref(relativeMd) {
+    if (typeof relativeMd !== "string" || !relativeMd) return relativeMd;
+    try {
+      return new URL(relativeMd, document.baseURI).href;
+    } catch (e) {
+      return relativeMd;
+    }
+  }
+
+  function primaryTaxonDocHrefFromPollenEntry(entry, pollenKey) {
+    if (!pollenKey || typeof pollenKey !== "string") return "";
+    const mono =
+      entry && typeof entry.monofloral_honey_page === "string"
+        ? String(entry.monofloral_honey_page).trim()
+        : "";
+    if (mono) return "../" + mono.replace(/^\/*/, "");
+    return "../nederlandse-honing-pollen/" + pollenKey + ".md";
+  }
+
+  /** Tab-separated tail: vorm, grootte, oppervlak (ornamentatie), opmerkingen (apertuur). */
+  function morphTailTabsFromPollenEntry(entry) {
+    if (!entry || typeof entry !== "object") return "\t\t\t\t";
+    const vorm = entry.shape != null ? String(entry.shape).trim() : "";
+    const grootte =
+      formatSizeFromIndex(
+        typeof entry.size === "object" && entry.size !== null ? entry.size : null
+      ) || "";
+    const grootteStr = grootte ? String(grootte).trim() : "";
+    const ornament = entry.ornamentation != null ? String(entry.ornamentation).trim() : "";
+    const oppervlak = ornament;
+    const opm = entry.aperture != null ? String(entry.aperture).trim() : "";
+    return "\t" + vorm + "\t" + grootteStr + "\t" + oppervlak + "\t" + opm;
+  }
+
+  function fauxPollenEntryFromResolved(resolved) {
+    return {
+      shape: resolved.shape,
+      sculpture: resolved.sculpture,
+      ornamentation: resolved.ornamentation,
+      aperture: resolved.aperture,
+      size: resolved.sizeRecord,
+      monofloral_honey_page: resolved.monofloral_honey_page,
+    };
+  }
+
+  function latinLinkedHtmlFromResolved(resolved) {
+    if (!resolved || isMissingValue(resolved.latin)) return "";
+    const pk = normalizePollenSlug(resolved.pollen_key);
+    const faux = fauxPollenEntryFromResolved(resolved);
+    const hrefRaw = primaryTaxonDocHrefFromPollenEntry(faux, pk);
+    const href = resolveInternalMdHref(hrefRaw);
+    const tail = morphTailTabsFromPollenEntry(faux);
+    const link =
+      '<a class="pid-pollen-latin-link" href="' +
+      escAttr(href) +
+      '"><em>' +
+      esc(String(resolved.latin)) +
+      "</em></a>";
+    return link + '<span class="pid-pollen-morph-tail">' + esc(tail) + "</span>";
   }
 
   /** Parse a free-form size string (µm) and return the largest numeric token (matches Kerkvliet parseMaxUm). */
@@ -366,6 +439,15 @@
       latin: entry.latin || null,
       dutch: entry.dutch || null,
       size: formatSizeFromIndex(entry.size),
+      sizeRecord:
+        entry.size && typeof entry.size === "object" ? /** @type {object} */ (entry.size) : null,
+      shape: entry.shape != null ? entry.shape : null,
+      sculpture: entry.sculpture != null ? entry.sculpture : null,
+      ornamentation: entry.ornamentation != null ? entry.ornamentation : null,
+      aperture: entry.aperture != null ? entry.aperture : null,
+      monofloral_honey_page:
+        entry.monofloral_honey_page != null ? entry.monofloral_honey_page : null,
+      pollen_key: key,
       images: images,
       note: typeof endpoint.note === "string" && endpoint.note.trim() ? endpoint.note : null,
       links: entry.links && typeof entry.links === "object" ? entry.links : null,
@@ -378,7 +460,7 @@
     const tbody = document.createElement("tbody");
     const rows = [];
     if (!isMissingValue(resolved.latin)) {
-      rows.push(["Latijn", "<em>" + esc(String(resolved.latin)) + "</em>"]);
+      rows.push(["Latijn", latinLinkedHtmlFromResolved(resolved)]);
     }
     if (!isMissingValue(resolved.dutch)) {
       rows.push(["Nederlands", esc(String(resolved.dutch))]);
@@ -1175,10 +1257,17 @@
           if (ch.id.text) {
             result = ch.id.text;
           } else if (resolvedRow) {
+            const pk = normalizePollenSlug(ch.id.pollen_key);
+            const faux = fauxPollenEntryFromResolved(resolvedRow);
+            const hrefRaw = primaryTaxonDocHrefFromPollenEntry(faux, pk);
             let txt = "";
-            if (resolvedRow.latin) txt += "*" + resolvedRow.latin + "*";
-            if (resolvedRow.dutch) txt += (txt ? " " : "") + "(" + resolvedRow.dutch + ")";
-            if (resolvedRow.size) txt += (txt ? "\n" : "") + resolvedRow.size;
+            if (resolvedRow.latin && hrefRaw) {
+              txt += "[" + resolvedRow.latin + "](" + hrefRaw + ")";
+            } else if (resolvedRow.latin) {
+              txt += "*" + resolvedRow.latin + "*";
+            }
+            txt += morphTailTabsFromPollenEntry(faux);
+            if (resolvedRow.dutch) txt += (txt ? "\n" : "") + "(" + resolvedRow.dutch + ")";
             if (resolvedRow.note) txt += (txt ? "\n" : "") + resolvedRow.note;
             result = txt || ch.id.pollen_key || "";
           } else {

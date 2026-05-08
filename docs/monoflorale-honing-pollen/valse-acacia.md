@@ -17,31 +17,29 @@
   </div>
 </div>
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Robinia pseudoacacia |
+| **Nederlands** | Robinia pseudoacacia |
+| **Familie** |  |
+| **Grootte** | 30 µm |
+| **Vorm** | driehoekig tot rond, sferoid tot optisch gering oblaat |
+| **Sculptuur** | scabraat, aperturen zonder ornamentatie |
+| **Apertuur** | tricolpaat, enkele pollen tetracolporoidaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | 0.89 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Robinia_pseudoacacia)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia)<br>[PalDat](https://www.paldat.org/pub/Robinia_pseudoacacia) |
+
 ## Herkenning hoofdpollen
 - smalle colpi en onscherp begrensde poren
 - poren barsten vaak bij het insluiten
-
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 30 μm (Medium) |
-| **Vorm** | driehoekig tot rond, sferoid tot optisch gering oblaat |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.89 |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolpaat, enkele pollen tetracolporoidaat |
-| **Ornamentatie** | scabraat, aperturen zonder ornamentatie |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Robinia_pseudoacacia)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia)
-- [PalDat](https://www.paldat.org/pub/Robinia_pseudoacacia/304082)
-- [Paldat met typo](https://www.paldat.org/pub/Robinia_pseudacacia/301261)
 
 ## Pollen die erop lijken
 - Rosaceae
@@ -96,4 +94,3 @@
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

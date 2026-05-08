@@ -11,27 +11,27 @@
   </div>
 </div> 
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 36-40 µm   |
+| **Latijn** | Thymus vulgaris |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 36-40 µm |
 | **Vorm** |  |
-| **Polariteit** |   |
+| **Sculptuur** |  |
+| **Apertuur** |  |
+| **Ornamentatie** |  |
+| **Polariteit** |  |
 | **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Thymus_vulgaris)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Thymus_vulgaris)<br>[PalDat](https://www.paldat.org/pub/Thymus_vulgaris) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** |  |
-| **Ornamentatie** |   |
-
-### Externe determinatiebronnen
-- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
-- [PalDat](https://www.paldat.org/search/genus/Lavandula)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 

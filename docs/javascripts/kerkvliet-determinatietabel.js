@@ -234,6 +234,7 @@
     const pk = normalizePollenKey(r.pollen_key);
     if (!pk || !pollenIndex[pk]) return null;
     const e = /** @type {Record<string, unknown>} */ (pollenIndex[pk]);
+    const oppervlak = e.ornamentation != null ? String(e.ornamentation).trim() : "";
     return {
       latin: e.latin != null ? String(e.latin) : "",
       dutch: e.dutch != null ? String(e.dutch) : "",
@@ -241,7 +242,7 @@
       grootte: formatSizeFromPollen(
         typeof e.size === "object" && e.size !== null ? /** @type {object} */ (e.size) : null
       ),
-      oppervlak: e.ornamentation != null ? String(e.ornamentation) : "",
+      oppervlak: oppervlak,
       opmerkingen: e.aperture != null ? String(e.aperture) : "",
       images: pollenRowImagesFromIndex(e),
       pollen_key: pk,
@@ -348,6 +349,52 @@
         .replace(/</g, "&lt;");
     }
 
+    function resolveMdHref(relativeMd) {
+      if (typeof relativeMd !== "string" || !relativeMd) return relativeMd;
+      try {
+        return new URL(relativeMd, document.baseURI).href;
+      } catch (e) {
+        return relativeMd;
+      }
+    }
+
+    /** Tab-separated tail aligned with Kerkvliet kolommen vorm / grootte / oppervlak / opmerkingen. */
+    function morphTailTabsFromPollenEntry(ent) {
+      if (!ent || typeof ent !== "object") return "\t\t\t\t";
+      const vorm = ent.shape != null ? String(ent.shape).trim() : "";
+      const grootte = formatSizeFromPollen(
+        typeof ent.size === "object" && ent.size !== null ? /** @type {object} */ (ent.size) : null
+      );
+      const ornament = ent.ornamentation != null ? String(ent.ornamentation).trim() : "";
+      const oppervlak = ornament;
+      const opm = ent.aperture != null ? String(ent.aperture).trim() : "";
+      return "\t" + vorm + "\t" + grootte + "\t" + oppervlak + "\t" + opm;
+    }
+
+    function primaryTaxonDocHrefFromPollenEntry(ent, pollenKey) {
+      if (!pollenKey) return "";
+      const mono =
+        ent && typeof ent.monofloral_honey_page === "string"
+          ? String(ent.monofloral_honey_page).trim()
+          : "";
+      if (mono) return "../" + mono.replace(/^\/*/, "");
+      return "../nederlandse-honing-pollen/" + pollenKey + ".md";
+    }
+
+    function latinHeadHtmlFromPollenEntry(ent, latinPlain, pollenKey) {
+      if (!latinPlain) return "";
+      const hrefRaw = primaryTaxonDocHrefFromPollenEntry(ent, pollenKey);
+      const href = resolveMdHref(hrefRaw);
+      const tail = morphTailTabsFromPollenEntry(ent || {});
+      const link =
+        '<a class="pid-pollen-latin-link" href="' +
+        escAttr(href) +
+        '"><strong>' +
+        esc(String(latinPlain)) +
+        "</strong></a>";
+      return link + '<span class="pid-pollen-morph-tail">' + esc(tail) + "</span>";
+    }
+
     /** MkDocs site root (…/pollenID/) for resolving docs-relative assets/… under GitHub Pages + instant nav. */
     function resolveDocsSiteRoot() {
       try {
@@ -417,6 +464,18 @@
             '" rel="noopener noreferrer" target="_blank">' +
             esc(m[1] || "") +
             "</a>";
+        } else if (/\.md$/i.test(href) || /^\.\.\//.test(href) || /^\.\//.test(href)) {
+          try {
+            const abs = new URL(href, document.baseURI).href;
+            out +=
+              '<a href="' +
+              escAttr(abs) +
+              '" class="pid-pollen-latin-link">' +
+              esc(m[1] || "") +
+              "</a>";
+          } catch (e2) {
+            out += esc(m[0]);
+          }
         } else {
           out += esc(m[0]);
         }
@@ -538,6 +597,12 @@
         const grootteHay = pv ? pv.grootte : String(r.grootte || "");
         const oppHay = pv ? pv.oppervlak : String(r.oppervlak || "");
         const opmHay = pv ? pv.opmerkingen : String(r.opmerkingen || "");
+        const pkResolved =
+          pv && pv.pollen_key ? pv.pollen_key : normalizePollenKey(r.pollen_key);
+        const entryFull =
+          pkResolved && pollenIndex[pkResolved]
+            ? /** @type {Record<string, unknown>} */ (pollenIndex[pkResolved])
+            : null;
         const hay = (
           latinHay +
           " " +
@@ -568,6 +633,18 @@
           const trImg = document.createElement("tr");
           const tdImg = document.createElement("td");
           tdImg.colSpan = 6;
+          const label = document.createElement("div");
+          label.className = "kerkvliet-row-label";
+          label.innerHTML =
+            '<div class="kerkvliet-row-label-latin">' +
+            (latinHay && pkResolved
+              ? latinHeadHtmlFromPollenEntry(entryFull, latinHay, pkResolved)
+              : esc(latinHay)) +
+            "</div>" +
+            (dutchHay
+              ? '<div class="kerkvliet-row-label-dutch">' + esc(dutchHay) + "</div>"
+              : "");
+          tdImg.appendChild(label);
           renderImagesTd(tdImg, rowImages);
           trImg.appendChild(tdImg);
           tbody.appendChild(trImg);
@@ -586,8 +663,9 @@
             ];
         cells.forEach(function (cell, idx) {
           const td = document.createElement("td");
-          // Render Markdown-style links in Latin (pd) and Dutch (pw) columns.
-          if (idx === 0 || idx === 1) {
+          if (idx === 0 && latinHay && pkResolved) {
+            td.innerHTML = latinHeadHtmlFromPollenEntry(entryFull, latinHay, pkResolved);
+          } else if (idx === 0 || idx === 1) {
             td.innerHTML = formatMarkdownLinks(String(cell || "")).replace(/\s{2,}/g, " ").trim();
           } else {
             td.textContent = cell;

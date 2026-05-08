@@ -11,28 +11,27 @@
   </div>
 </div> 
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 39 (35.9-41.5) μm (Medium) |
-| **Vorm** | gering driehoekig convex  |
-| **Polariteit** | isopolair  |
+| **Latijn** | Trifolium pratense |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 35.9-41.5 µm |
+| **Vorm** | gering driehoekig convex |
+| **Sculptuur** | grof reticulair |
+| **Apertuur** | tricolporaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
 | **P/E-ratio** | ca. 1.07 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Trifolium_pratense)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_pratense)<br>[PalDat](https://www.paldat.org/pub/Trifolium_pratense) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolporaat |
-| **Ornamentatie** | grof reticulair |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Trifolium_pratense)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_pratense)
-- [PalDat](https://www.paldat.org/pub/Trifolium_pratense/306432)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 

@@ -11,30 +11,30 @@
   </div>
 </div> 
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Citrus spp, Rutaceae |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 28.8-37.6 µm |
+| **Vorm** | sferoid |
+| **Sculptuur** | reticulaat |
+| **Apertuur** | tetracolporaat of pentacolporaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | 0.95 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Citrus_spp,)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_spp,)<br>[PalDat](https://www.paldat.org/pub/Citrus_spp,) |
+
 ## Herkenning hoofdpollen
 
-### Pollenafmeting en vorm
-- Citrus limon
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 33 (28.8-37.6) μm (Medium)  |
-| **Vorm** | sferoid  |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.95 |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tetracolporaat of pentacolporaat |
-| **Ornamentatie** | reticulaat  |
-
-### Externe determinatiebronnen
-- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rutaceae)
-- [PalDat](https://www.paldat.org/search/genus/Citrus)
-
 ## Pollen die erop lijken
-[Citrus spp](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Citrus)
+Citrus spp
 
 ## Relevante neven- en bijpollen
 

@@ -14,28 +14,27 @@
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 20 µm  |
+| **Latijn** | Phacelia tanacetifolia |
+| **Nederlands** | Phacelia tanacetifolia |
+| **Familie** |  |
+| **Grootte** | 20 µm |
 | **Vorm** | rond tot rozetvormig, tot gering oblaat |
-| **Polariteit** | isopolair  |
+| **Sculptuur** | scabraat tot psylaat, aperturen met geringe korrelige ornamentatie |
+| **Apertuur** | stephanocolpaat, afwisselend breed en smal |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
 | **P/E-ratio** | ca. 0.81 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_tanacetifolia)<br>[PalDat](https://www.paldat.org/pub/Phacelia_tanacetifolia) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | stephanocolpaat, afwisselend breed en smal |
-| **Ornamentatie** | scabraat tot psylaat, aperturen met geringe korrelige ornamentatie |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_tanacetifolia)
-- [PalDat](https://www.paldat.org/pub/Phacelia_tanacetifolia/306821)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 
@@ -90,12 +89,3 @@
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
 - [Unlocking Phacelia tanacetifolia Benth. honey characterization through melissopalynological analysis, color determination and volatiles chemical profiling](https://doi.org/10.1016/j.foodres.2017.12.065)
-
-
-
-
-
-
-
-
-

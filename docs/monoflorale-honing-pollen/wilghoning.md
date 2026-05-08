@@ -8,32 +8,29 @@
   </div>
 </div>
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Salix alba var. tristis |
+| **Nederlands** | treurwilg |
+| **Familie** |  |
+| **Grootte** |  |
+| **Vorm** |  |
+| **Sculptuur** |  |
+| **Apertuur** |  |
+| **Ornamentatie** |  |
+| **Polariteit** |  |
+| **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Salix_alba)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Salix_alba)<br>[PalDat](https://www.paldat.org/pub/Salix_alba) |
+
 ## Herkenning hoofdpollen
 - Wilgenfamilie. Salix (wilg), in sommige soorten duidelijke porie. Netoppervlak met duidelijke hoekige mazen die in grootte afnemen naar de gladde randen van de groeven. 
 - Grootte per soort zeer klein tot klein (17-26 μm). Korrels bevatten heldergele olie, vergelijk Fraxinus en Cruciferae.
-
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 22 (19.9-24.8) μm (Small) |
-| **Vorm** | rond tot gering driehoekig |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.89; 0.84-0.95 |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolpaat |
-| **Ornamentatie** | reticulaat, aperturen met korrelige ornamentatie |
-
-- pollenkit
-
-### Externe determinatiebronnen
-- [PollenX]
-- [Pollen-Wiki]
-- [PalDat] 
 
 ## Pollen die erop lijken
 
@@ -66,4 +63,3 @@
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

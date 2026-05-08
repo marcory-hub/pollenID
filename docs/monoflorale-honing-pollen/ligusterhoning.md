@@ -14,28 +14,27 @@
   </div>
 </div>
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Ligustrum vulgare |
+| **Nederlands** | wilde liguster |
+| **Familie** |  |
+| **Grootte** |  |
+| **Vorm** |  |
+| **Sculptuur** |  |
+| **Apertuur** |  |
+| **Ornamentatie** |  |
+| **Polariteit** |  |
+| **P/E-ratio** |  |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Ligustrum_vulgare)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ligustrum_vulgare)<br>[PalDat](https://www.paldat.org/pub/Ligustrum_vulgare) |
+
 ## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 29 (24.1-33.7) μm (Medium) |
-| **Vorm** | rond tot sferoid, gering optisch oblaat |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | 0.88; 0.83-0.95 |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolpaat |
-| **Ornamentatie** | reticulaat, aperturen zonder ornamentatie |
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Ligustrum_vulgare)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ligustrum_vulgare)
-- [PalDat](https://www.paldat.org/pub/Ligustrum_vulgare/306267)
 
 ## Pollen die erop lijken
 
@@ -105,4 +104,3 @@ Intine gezwollen onder aperturen
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

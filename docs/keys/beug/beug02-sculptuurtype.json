@@ -16,7 +16,7 @@
       "note": "-",
       "choices": [
         {
-          "label": "Exine niet gesculpteerd. tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
+          "label": "Exine zonder sculptuur. Tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
           "next": null,
           "id": {
             "name": "psilaat",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "label": "Oppervlak van de Exine met verdiepingen of met uitstekende sculptuurelementen, of het tectum is netvormig doorbroken.",
+          "label": "Oppervlak van het exine bevat uitsparingen of uitstekende sculptuurelementen, of het tectum is netvormig onderbroken.",
           "next": "2",
           "id": null,
           "outcome": null,
@@ -96,7 +96,7 @@
       "note": "-",
       "choices": [
         {
-          "label": "Oppervlak van de Exine met verdiepingen.",
+          "label": "Oppervlak van het exine met uitsparingen.",
           "next": "3",
           "id": null,
           "outcome": null,
@@ -120,7 +120,7 @@
           ]
         },
         {
-          "label": "Oppervlak van de Exine met uitstekende sculptuurelementen of het tectum is netvormig doorbroken.",
+          "label": "Oppervlak van het exine met uitstekende sculptuurelementen of het tectum is netvormig.",
           "next": "5",
           "id": null,
           "outcome": null,
@@ -151,7 +151,7 @@
       "note": "-",
       "choices": [
         {
-          "label": "Oppervlak van de Exine met ronde verdiepingen.",
+          "label": "Oppervlak van het exine met ronde onderbrekingen.",
           "next": null,
           "id": {
             "name": "foveolaat",
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "label": "Oppervlak van de Exine met langgerekte (gootvormige) verdiepingen.",
+          "label": "Oppervlak van het exine met langgerekte (gootvormige) onderbrekingen.",
           "next": "4",
           "id": null,
           "outcome": null,
@@ -231,7 +231,7 @@
       "note": "-",
       "choices": [
         {
-          "label": "De langgerekte verdiepingen staan geïsoleerd.",
+          "label": "De langgerekte onderbrekingen liggen los van elkaar.",
           "next": null,
           "id": {
             "name": "fossulaat",
@@ -245,8 +245,7 @@
                 "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
+              { "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               },
               {
@@ -280,7 +279,7 @@
           ]
         },
         {
-          "label": "De verdiepingen sluiten aaneen tot een netwerk.",
+          "label": "De onderbrekingen sluiten aaneen tot een netwerk.",
           "next": null,
           "id": {
             "name": "frustillaat of areolaat",

@@ -20,30 +20,27 @@
   </div>
 </div>
 
-## Herkenning hoofdpollen
-
-### Pollenafmeting en vorm
+## Pollenkenmerken
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Pollenkorrelgrootte** | 30 (28.6-36.9) μm (Medium) |
+| **Latijn** | Rubus fruticosus |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 28.6-36.9 µm |
 | **Vorm** | driehoekig tot vierhoekig, sferoid tot optisch gering oblaat |
-| **Polariteit** | isopolair  |
+| **Sculptuur** | rugulaat, aperturen met gedeeltelijke korrelige ornamentatie |
+| **Apertuur** | tricolpaat, enkele pollen tetracolporoidaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
 | **P/E-ratio** | 0.88 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Rubus_fruticosus)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_fruticosus)<br>[PalDat](https://www.paldat.org/pub/Rubus_fruticosus) |
 
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolpaat, enkele pollen tetracolporoidaat |
-| **Ornamentatie** | rugulaat, aperturen met gedeeltelijke korrelige ornamentatie |
-
-- Bij diverse Rubus soorten, in het bijzonder bij Rubus fruticosus komen afwijkende of slecht ontwikkelde pollenkorrels voor. 
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Rubus_fruticosus)
-- [Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_fruticosus)
-- [PalDat](https://www.paldat.org/pub/Rubus_fructicosus/301336)
+## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
 - Rosaceae
@@ -79,7 +76,7 @@
 - 11 PK groter dan 25 µm
 - 12 Geen uitstulpingen tpv colpus rand equatoriaal: eenvoudig tot S-vormige vernauwingen van de colpus, brugachtige vernauwingen, lichte uitstulpingen en onregelmatig straalvormige uitstulpingen die beginnen bij de equatoriale regio van de colpi en onder de intercolpia reikende scheuren in de endexine. Valla hoog of laag contrast; PK met of zonder Perforaties tussen de Valla
   - 20.12 Sorbus-Gruppe
-[Sorbus-groep](https://www.paldat.org/search/genus/Sorbus): 
+Sorbus-groep: 
 - 13 geslachten van de rosaseae
 - veel variatie
 
@@ -119,4 +116,3 @@ Exine: medium, geen rods
 
 ## Naslag
 - [Main European unifloral honeys: descriptive sheets, Persano Oddo et al, 2004](https://www.apidologie.org/articles/apido/pdf/2004/06/MHS06.pdf)
-

@@ -26,35 +26,33 @@
   </div>
 </div>
 
+## Pollenkenmerken
+
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | Brassica napus (koolzaad |
+| **Nederlands** |  |
+| **Familie** |  |
+| **Grootte** | 22.3-28.2 µm |
+| **Vorm** | rond, sferoid to optisch gering prolaat |
+| **Sculptuur** | apertuurmembranen bevatten deels gering korrelig ornamentering |
+| **Apertuur** | tricolpaat |
+| **Ornamentatie** |  |
+| **Polariteit** | isopolair |
+| **P/E-ratio** | PoFormI ca. 1.01; 0.96-1.12 |
+| **Bloeitijd** |  |
+| **Nectarwaarde** |  |
+| **Pollenwaarde** |  |
+| **Frequentie in honing** |  |
+| **Links** | [PollenX](https://pollenx.eu/species.php?species=Brassica_napus)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Brassica_napus)<br>[PalDat](https://www.paldat.org/pub/Brassica_napus) |
+
 ## Herkenning hoofdpollen
 - Middelgrote (26-30 µm) ronde tricolpate reticulate pollen
 - Dik exine
 
-### Pollenafmeting en vorm
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Pollenkorrelgrootte** | 26 (22.3-28.2) μm   |
-| **Pollenkorrelgrootte (Beug)** | 24-32 μm   |
-| **Vorm** | rond, sferoid to optisch gering prolaat |
-| **Polariteit** | isopolair  |
-| **P/E-ratio** | PoFormI ca. 1.01; 0.96-1.12 |
-
-### Pollenklasse
-
-| Kenmerk | Waarde |
-| --- | --- |
-| **Aperturen** | tricolpaat |
-| **Ornamentatie** | apertuurmembranen bevatten deels gering korrelig ornamentering  |
-
 ### Afbeeldingen
 
 (P = polair aanzicht, E = equatoriaal aanzicht, o = focus op oppervlak, d = focus op doorsnede; zie galerij bovenaan.)
-
-### Externe determinatiebronnen
-- [PollenX](https://pollenx.eu/species.php?species=Brassica_napus)
-- [Pollen-Wiki (T. Stebler)](https://pollen.tstebler.ch/MediaWiki/index.php?title=Brassica_napus)
-- [PalDat](https://www.paldat.org/pub/Brassica_napus/303973)
 
 ## Pollen die erop lijken
 - Spinapis alba (witte mosterd)
@@ -79,23 +77,23 @@
 - Pyrus communis (peren)
 
 ### Gelijktijdige bloei
-- [Taraxacum officinale](https://pollenx.eu/species.php?species=Taraxacum_officinale) (Paardenbloem)
-- [Ranunculus acris](https://pollenx.eu/species.php?species=Ranunculus_acris) soorten (Boterbloemen)
-- [Cardamine pratensis](https://pollenx.eu/species.php?species=Cardamine_pratensis) (Pinksterbloem)
-- [Stellaria holostea](https://pollenx.eu/species.php?species=Stellaria_holostea) (Grote muur)
+- Taraxacum officinale (Paardenbloem)
+- Ranunculus acris soorten (Boterbloemen)
+- Cardamine pratensis (Pinksterbloem)
+- Stellaria holostea (Grote muur)
 
 ### Opportunistische pollen
-- [Veronica chamaedrys](https://pollenx.eu/species.php?species=Veronica_chamaedrys) (Gewone ereprijs)
-- [Ajuga reptans](https://pollenx.eu/species.php?species=Ajuga_reptans) (Zenegroen)
-- [Lamium album](https://pollenx.eu/species.php?species=Lamium_album) (Witte dovenetel)
-- [Capsella bursa-pastoris](https://pollenx.eu/species.php?species=Capsella_bursa-pastoris) (Herderstasje)
+- Veronica chamaedrys (Gewone ereprijs)
+- Ajuga reptans (Zenegroen)
+- Lamium album (Witte dovenetel)
+- Capsella bursa-pastoris (Herderstasje)
 
 ### Secundaire inbreng (windbestuivers)
-- [Betula](https://pollenx.eu/species.php?species=Betula) (Berken)
-- [Corylus avellana](https://pollenx.eu/species.php?species=Corylus_avellana) (Hazelaar)
+- Betula (Berken)
+- Corylus avellana (Hazelaar)
 - Vroege voorjaarsbloeiers:
-  - [Alnus glutinosa](https://pollenx.eu/species.php?species=Alnus_glutinosa) (Zwarte els)
-  - [Cornus mas](https://pollenx.eu/species.php?species=Cornus_mas) (Gele kornoelje)
+  - Alnus glutinosa (Zwarte els)
+  - Cornus mas (Gele kornoelje)
 
 ## Melissopalynologische interpretatie
 - een van de snelst kristalierende honing als gevolg van hoog gehalte glucose

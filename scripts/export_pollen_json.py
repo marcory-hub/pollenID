@@ -5,7 +5,8 @@ Writes a deterministic JSON index so `docs/javascripts/vdh-pollentabel.js`
 and MkDocs macros can resolve taxon info from the SoT.
 
 Each exported taxon includes:
-  - pollen_key, latin, dutch, family, shape, ornamentation, aperture, size
+  - pollen_key, latin, dutch, family, shape, sculpture, ornamentation, aperture, size
+  - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
   - display_width_px — round(max_um * 2.5) from YAML size strings, else 125 (50 µm default)
   - links — optional pollenx, tstebler, paldat URLs (YAML `links` overrides)
   - images[] — path, optional kind/source, width_px (per-image override or display_width_px)
@@ -15,6 +16,8 @@ Usage: python3 scripts/export_pollen_json.py
 from __future__ import annotations
 
 import json
+import re
+from collections import Counter
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
@@ -25,6 +28,31 @@ from pollen_display import display_width_px_for_yaml_entry, merge_links_yaml_def
 REPO = Path(__file__).resolve().parents[1]
 YAML_PATH = REPO / "data" / "pollen.yaml"
 JSON_PATH = REPO / "docs" / "data" / "pollen.json"
+MONOFLORAL_MD_DIR = REPO / "docs" / "monoflorale-honing-pollen"
+BY_TAXON_REF_RE = re.compile(r"by-taxon/([a-z0-9_]+)/", re.I)
+
+
+def _build_monofloral_primary_slug_map() -> Dict[str, str]:
+    """pollen_key slug -> docs-relative path to monofloral honey page.
+
+    Each ``*.md`` under ``docs/monoflorale-honing-pollen/`` (except ``_index.md``)
+    is scanned for ``by-taxon/<slug>/`` image paths; the most frequent slug wins.
+    First file in sorted path order wins if two pages share the same dominant slug.
+    """
+    out: Dict[str, str] = {}
+    if not MONOFLORAL_MD_DIR.is_dir():
+        return out
+    for md_path in sorted(MONOFLORAL_MD_DIR.glob("*.md")):
+        if md_path.name == "_index.md":
+            continue
+        text = md_path.read_text(encoding="utf-8")
+        counts: Counter[str] = Counter(m.group(1) for m in BY_TAXON_REF_RE.finditer(text))
+        if not counts:
+            continue
+        primary = counts.most_common(1)[0][0]
+        rel = f"monoflorale-honing-pollen/{md_path.name}"
+        out.setdefault(primary, rel)
+    return out
 
 
 def _clean_scalar(v: Any) -> Any:
@@ -55,7 +83,7 @@ def _build_entry(pollen_key_slug: str, src: Dict[str, Any]) -> Dict[str, Any]:
     if family is not None:
         out["family"] = family
 
-    for morph in ("shape", "ornamentation", "aperture"):
+    for morph in ("shape", "sculpture", "ornamentation", "aperture"):
         mv = _clean_scalar(src.get(morph))
         if mv is not None:
             out[morph] = mv
@@ -113,12 +141,17 @@ def main() -> int:
     if not isinstance(data, dict):
         raise SystemExit(f"Unexpected top-level YAML type: {type(data).__name__}")
 
+    monofloral_pages = _build_monofloral_primary_slug_map()
     exported: Dict[str, Dict[str, Any]] = {}
     for key in sorted(data.keys()):
         entry = data.get(key)
         if not isinstance(entry, dict):
             continue
-        exported[key] = _build_entry(str(key), entry)
+        built = _build_entry(str(key), entry)
+        mf = monofloral_pages.get(str(key))
+        if mf:
+            built["monofloral_honey_page"] = mf
+        exported[key] = built
 
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
     JSON_PATH.write_text(
