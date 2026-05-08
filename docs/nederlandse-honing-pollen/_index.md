@@ -507,15 +507,15 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("aster_amellus", "aperture") }}
 - Ornamentatie: {{ pollen("aster_amellus", "ornamentation") }}
 
-#### [Senecio jacobaea](senecio_jacobea.md) (kruiskruid)
-{{ pollen_gallery("senecio_jacobea") }}
-- Latijn: {{ pollen("senecio_jacobea", "latin") }}
-- Nederlands: {{ pollen("senecio_jacobea", "dutch") }}
-- Grootte: {{ pollen("senecio_jacobea", "size.smallest_size") }}-{{ pollen("senecio_jacobea", "size.largest_size") }}
-- Vorm: {{ pollen("senecio_jacobea", "shape") }}
-- Sculptuur: {{ pollen("senecio_jacobea", "sculpture") }}
-- Apertuur: {{ pollen("senecio_jacobea", "aperture") }}
-- Ornamentatie: {{ pollen("senecio_jacobea", "ornamentation") }}
+#### [Senecio jacobaea](senecio_jacobaea.md) (kruiskruid)
+{{ pollen_gallery("senecio_jacobaea") }}
+- Latijn: {{ pollen("senecio_jacobaea", "latin") }}
+- Nederlands: {{ pollen("senecio_jacobaea", "dutch") }}
+- Grootte: {{ pollen("senecio_jacobaea", "size.smallest_size") }}-{{ pollen("senecio_jacobaea", "size.largest_size") }}
+- Vorm: {{ pollen("senecio_jacobaea", "shape") }}
+- Sculptuur: {{ pollen("senecio_jacobaea", "sculpture") }}
+- Apertuur: {{ pollen("senecio_jacobaea", "aperture") }}
+- Ornamentatie: {{ pollen("senecio_jacobaea", "ornamentation") }}
 
 #### [Matricaria recutita](matricaria_recutita.md) (kamille) 
 {{ pollen_gallery("matricaria_recutita") }}
@@ -547,14 +547,14 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - In honing: 3.1%
 
 #### [Lonicera caprifolium](https://pollenx.eu/species.php?species=Lonicera_caprifolium) (tuinkamperfoelie)
-{{ pollen_gallery("lonicera_caprifolium") }}
-- Latijn: {{ pollen("lonicera_caprifolium", "latin") }}
-- Nederlands: {{ pollen("lonicera_caprifolium", "dutch") }}
-- Grootte: {{ pollen("lonicera_caprifolium", "size.smallest_size") }}-{{ pollen("lonicera_caprifolium", "size.largest_size") }}
-- Vorm: {{ pollen("lonicera_caprifolium", "shape") }}
-- Sculptuur: {{ pollen("lonicera_caprifolium", "sculpture") }}
-- Apertuur: {{ pollen("lonicera_caprifolium", "aperture") }}
-- Ornamentatie: {{ pollen("lonicera_caprifolium", "ornamentation") }}
+{{ pollen_gallery("lonicera_caprifolium_caprifolium") }}
+- Latijn: {{ pollen("lonicera_caprifolium_caprifolium", "latin") }}
+- Nederlands: {{ pollen("lonicera_caprifolium_caprifolium", "dutch") }}
+- Grootte: {{ pollen("lonicera_caprifolium_caprifolium", "size.smallest_size") }}-{{ pollen("lonicera_caprifolium_caprifolium", "size.largest_size") }}
+- Vorm: {{ pollen("lonicera_caprifolium_caprifolium", "shape") }}
+- Sculptuur: {{ pollen("lonicera_caprifolium_caprifolium", "sculpture") }}
+- Apertuur: {{ pollen("lonicera_caprifolium_caprifolium", "aperture") }}
+- Ornamentatie: {{ pollen("lonicera_caprifolium_caprifolium", "ornamentation") }}
 
 #### [Valeriana](https://pollenx.eu/species.php?species=Valeriana) (valeriaan)
 - In honing: 0.6%
@@ -830,14 +830,14 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Ornamentatie: {{ pollen("trifolium_repens", "ornamentation") }}
 
 #### [Tilia platyphyllos](tilia_type_linde_species.md) (linde)
-{{ pollen_gallery("tilia_type_linde_species") }}
-- Latijn: {{ pollen("tilia_type_linde_species", "latin") }}
-- Nederlands: {{ pollen("tilia_type_linde_species", "dutch") }}
-- Grootte: {{ pollen("tilia_type_linde_species", "size.smallest_size") }}-{{ pollen("tilia_type_linde_species", "size.largest_size") }}
-- Vorm: {{ pollen("tilia_type_linde_species", "shape") }}
-- Sculptuur: {{ pollen("tilia_type_linde_species", "sculpture") }}
-- Apertuur: {{ pollen("tilia_type_linde_species", "aperture") }}
-- Ornamentatie: {{ pollen("tilia_type_linde_species", "ornamentation") }}
+{{ pollen_gallery("tilia_platyphyllos") }}
+- Latijn: {{ pollen("tilia_platyphyllos", "latin") }}
+- Nederlands: {{ pollen("tilia_platyphyllos", "dutch") }}
+- Grootte: {{ pollen("tilia_platyphyllos", "size.smallest_size") }}-{{ pollen("tilia_platyphyllos", "size.largest_size") }}
+- Vorm: {{ pollen("tilia_platyphyllos", "shape") }}
+- Sculptuur: {{ pollen("tilia_platyphyllos", "sculpture") }}
+- Apertuur: {{ pollen("tilia_platyphyllos", "aperture") }}
+- Ornamentatie: {{ pollen("tilia_platyphyllos", "ornamentation") }}
 
 #### [Vicia faba](vicia_faba.md) (tuinboon/voederboon)
 {{ pollen_gallery("vicia_faba") }}

@@ -1,6 +1,6 @@
 # *Humulus* (hop)
 
-{{ pollen_gallery("humulus") }}
+{{ pollen_gallery("humulus_lupulus") }}
 
 ## Kenmerken
 

@@ -1,6 +1,6 @@
 # *Geranium sp.* (ooievaarsbek e.a.)
 
-{{ pollen_gallery("geranium_sp") }}
+{{ pollen_gallery("geranium_robertianum") }}
 
 ## Kenmerken
 

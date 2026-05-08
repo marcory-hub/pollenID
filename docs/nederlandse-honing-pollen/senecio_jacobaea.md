@@ -1,6 +1,6 @@
 # *Senecio jacobea* (Jacobs kruiskruid)
 
-{{ pollen_gallery("senecio_jacobea") }}
+{{ pollen_gallery("senecio_jacobaea") }}
 
 ## Kenmerken
 
@@ -16,7 +16,7 @@
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-senecio_jacobea:
+senecio_jacobaea:
   latin: Senecio jacobea
   dutch: Jacobs kruiskruid
   family: null
@@ -45,16 +45,16 @@ senecio_jacobea:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-  - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_1.png
+  - path: assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_2.png
+  - path: assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_2.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_3.png
+  - path: assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_3.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/senecio_jacobea/senecio_jacobea_4.png
+  - path: assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_4.png
     kind: by_taxon
     source: by_taxon
 ```

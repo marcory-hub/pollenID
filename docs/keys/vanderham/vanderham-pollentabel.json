@@ -181,7 +181,7 @@
           "label": "wratten onregelmatig verspreid (oppervlak met kale plekken)",
           "id": {
             "name": "Cupressaceae (Juniperus)",
-            "pollen_key": "juniperus"
+            "pollen_key": "juniperus_communis"
           }
         },
         {
@@ -1181,9 +1181,9 @@
             "name": "Caprifoliaceae (Lonicera)",
             "pollen_key": "pollen_key_placeholder_caprifoliaceae_lonicera",
             "pollen_keys": [
-              "lonicera_caprifolium",
-              "lonicera_japonica",
-              "lonicera_fragrantissima"
+              "lonicera_caprifolium_caprifolium",
+              "lonicera_caprifolium_japonica",
+              "lonicera_caprifolium_fragrantissima"
             ]
           }
         },
@@ -1245,7 +1245,7 @@
               "aster_tripolium",
               "helianthus_annuus",
               "senecio_cineraria",
-              "senecio_jacobea",
+              "senecio_jacobaea",
               "solidago_virgaurea"
             ]
           }

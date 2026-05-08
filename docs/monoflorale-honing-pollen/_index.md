@@ -302,7 +302,7 @@
 </div> 
 
 #### [Linde](lindehoning.md) (II vlgx Persano Oddo)(1-56%)
-{{ pollen_gallery("tilia_type_linde_species") }}
+{{ pollen_gallery("tilia_platyphyllos") }}
 
 #### [Taraxacum officinale](paardenbloemhoning.md) (paardenbloem) (5-40%)
 <div class="pid-scale-gallery">

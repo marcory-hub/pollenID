@@ -29,7 +29,7 @@
 | Onosis spinoza | kattendoorn | ovaal | 20x25 | glad/f.reticuaat | 3-colporaat; lijkt op Trif. repens en |
 | Melilotus Hypericum perfor | Sint Janskruid | O | 20(-25) | glad | 3-colporaat, l colpi;wsl zwak reticul. soms hof en vouwen. |
 | Hypericum polyph | hertshooi | О ⁄ ∆ | 23 | glad | 3-colporaat, wsl zwak reticul. |
-| Phacelia | phacelia | O/zeskantig | 22 | glad | 6-colpaat, (3 pseudocolpi) |
+| Phacelia | phacelia_tanacetifolia | O/zeskantig | 22 | glad | 6-colpaat, (3 pseudocolpi) |
 | Nemophila sp. | bosliefje | ∆(/O) | 22(18-22) | glad | 3-syncolpaat |
 | Vitis vinifera | druif | О ⁄ ∆ | 22 | glad/scabraat | 3-colporaat,lange smalle colpi, kleine (striaat?) pore, rel. dikke intine;nectarloos, vouwen,hof;geel |
 | Prunus serotina | Am. vogelkers | О ⁄ ∆ | 23 | glad | 3-colporaat, lange colpi, grote poren |

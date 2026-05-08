@@ -1,6 +1,6 @@
 # *Lonicera Caprifolium*
 
-{{ pollen_gallery("lonicera_caprifolium") }}
+{{ pollen_gallery("lonicera_caprifolium_caprifolium") }}
 
 ## Kenmerken
 
@@ -11,7 +11,7 @@
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-lonicera_caprifolium:
+lonicera_caprifolium_caprifolium:
   latin: Lonicera Caprifolium
   dutch: null
   family: null
@@ -38,10 +38,10 @@ lonicera_caprifolium:
     pollenx: https://pollenx.eu/species.php?species=Lonicera_caprifolium
   sources: []
   images:
-  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png
+  - path: assets/images/by-taxon/lonicera_caprifolium_caprifolium/lonicera_caprifolium_caprifolium_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
+  - path: assets/images/by-taxon/lonicera_caprifolium_caprifolium/lonicera_caprifolium_caprifolium_2.png
     kind: by_taxon
     source: by_taxon
 ```
