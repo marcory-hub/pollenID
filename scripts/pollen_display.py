@@ -95,19 +95,17 @@ def merge_links_yaml_defaults(latin: str, links_yaml: Any) -> Dict[str, Optional
 
 
 def display_width_px_for_yaml_entry(entry: Dict[str, Any]) -> int:
-    """Single display width for a taxon from size + legacy image.height_px fallback."""
-    legacy_block = entry.get("image") if isinstance(entry.get("image"), dict) else {}
+    """Single display width for a taxon from size + legacy height_px fallback."""
     legacy_px = None
-    if isinstance(legacy_block, dict):
-        h = legacy_block.get("height_px")
-        if isinstance(h, int) and h > 0:
-            legacy_px = h
-        elif isinstance(h, float) and h > 0:
-            legacy_px = int(round(h))
 
     size_src = entry.get("size") or {}
     ss = ls = None
     if isinstance(size_src, dict):
+        h = size_src.get("height_px")
+        if isinstance(h, int) and h > 0:
+            legacy_px = h
+        elif isinstance(h, float) and h > 0:
+            legacy_px = int(round(h))
         ss = size_src.get("smallest_size")
         ls = size_src.get("largest_size")
         if isinstance(ss, str):
