@@ -4,7 +4,6 @@
     "title": "23. Tricolporoidatae (reticulate, microreticulate of fossulate sculpturen) (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 25,
     "start": "1"
   },
@@ -13,1865 +12,402 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Poolvelden psilaat, met Tectum perforatum of Brochi hier aanzienlijk kleiner en Exine (Ektexine) dunner als op de intercolpiumrandenn, PK perreticulaat (wanneer PK suprareticulaat, vgl. 23.12 Genista-Gruppe).",
-          "next": "2",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "2"
         },
         {
           "label": "sculpturering op de poolvelden als op de intercolpiumrandenn.",
-          "next": "4",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "4"
         }
       ]
     },
     "2": {
       "id": "2",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK homobrochaat, Brochi tot ca. 1,2 µm groot (Tafel 79: 11-16).",
-          "next": null,
           "id": {
-            "name": "Sambucus nigra-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Sambucus nigra-type"
+          }
         },
         {
           "label": "PK heterobrochaat, grote Brochi 1 tot 2 µm groot.",
-          "next": "3",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "3"
         }
       ]
     },
     "3": {
       "id": "3",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 3,5(4,0) µm dik, PK meestal sferoïdisch (Tafel 79: 17-24).",
-          "next": null,
           "id": {
-            "pollen_key": "sambucus_ebulus",
-            "note": "-"
-          },
-          "outcome": null
+            "pollen_key": "sambucus_ebulus"
+          }
         },
         {
           "label": "Exine in het midden van de Intercolpiën equatoriaal tot 1,5 µm dik, PK zwak prolaat (Tafel 79: 25-31).",
-          "next": null,
           "id": {
-            "name": "Adoxa moschatellina",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Adoxa moschatellina"
+          }
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Exine microreticulaat of fossulaat met overgangen zu einer microreticulaten Sculpturierung, Brochi vereinzelnt tot 1,2 (1,3) µm, PK relatief dunwandig (Exine tot 2 µm dik), bei Exinen-Dicken over 2-2,5 µm vgl. Euphorbia.",
-          "next": "5",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "5"
         },
         {
           "label": "Exine reticulaat (supra- of perreticulaat), Brochi meerderheid duidelijk over 1 µm groot; hier ook de PK van Euphorbia met undeutlichem Suprareticulum en een Exinen-dikte von (2)2,5-3(4) µm.",
-          "next": "17",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "17"
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK fossulaat met overgangen zu einer microreticulaten Sculpturierung tussen de rugulaten Sculpturelementen (bei ausschließlich onduidelijk grubbig Sculpturierung vgl. ook de Medicago sativa-type, Blz. 207).",
-          "next": null,
           "id": {
-            "name": "Geen match. Zie Medicago sativa-type (Blz. 207) [te verifiëren]",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Geen match. Zie Medicago sativa-type (Blz. 207) [te verifiëren]"
+          }
         },
         {
           "label": "Sculpturierung nur microreticulaat.",
-          "next": "6",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "6"
         }
       ]
     },
     "6": {
       "id": "6",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK 24-33 µm groot, Elemente der rugulaten Sculpturierung locker gestellt, fossulate Sculpturierung daardoor duidelijk (Tafel 80: 1-5).",
-          "next": null,
           "id": {
-            "name": "Laburnum",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Laburnum"
+          }
         },
         {
           "label": "PK 30-40 µm groot, Elemente der rugulaten Sculpturierung dicht gestellt, vaak vernetzt (Tafel 80: 6-9).",
-          "next": null,
           "id": {
-            "pollen_key": "robinia_pseudoacacia",
-            "note": "-"
-          },
-          "outcome": null
+            "pollen_key": "robinia_pseudoacacia"
+          }
         }
       ]
     },
     "7": {
       "id": "7",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK heteropolaar, met einem abgerundeten en einem toegespitste Pol, 15-22 µm groot (Tafel 80: 26-27).",
-          "next": null,
           "id": {
-            "name": "Scrophulariaceae",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Scrophulariaceae"
+          }
         },
         {
           "label": "PK niet heteropolar.",
-          "next": "8",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "8"
         }
       ]
     },
     "8": {
       "id": "8",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Brochi im lichtveldbeeld (olie-immersie) niet, im Phasenkontrastbild vaak nur schwer herkenbaar, overheersende Größe der Lumina om 0,5 µm (schwierige Gruppen).",
-          "next": "9",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "9"
         },
         {
           "label": "Brochi im lichtveldbeeld (olie-immersie) herkenbaar, overheersende Größe der Lumina 0,5-1,0 µm.",
-          "next": "11",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "11"
         }
       ]
     },
     "9": {
       "id": "9",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "breedte der Muri meestal geringer als der Diameter der Lumina, PK 25-32 µm groot, meestal ruitvormig, zelden elliptisch (Tafel 80: 10-15).",
-          "next": null,
           "id": {
-            "name": "Lobelia dortmanna",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Lobelia dortmanna"
+          }
         },
         {
           "label": "Muri meestal so breit wie der Diameter der Lumina.",
-          "next": "10",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "10"
         }
       ]
     },
     "10": {
       "id": "10",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Brochi im Phasenkontrastbild gut herkenbaar, PK 18-28 µm groot (recentes Vergleichsmaterial benutzen) (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": null,
           "id": {
-            "name": "Scrophulariaceae",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Scrophulariaceae"
+          }
         },
         {
           "label": "Brochi im Phasenkontrastbild schwer herkenbaar, PK nur 11-21 µm groot (rezentes Vergleichsmaterial benutzen) (Tafel 80: 16-25).",
-          "next": null,
           "id": {
-            "name": "Primula clusiana-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Primula clusiana-type"
+          }
         }
       ]
     },
     "11": {
       "id": "11",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK marginaat (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": "12",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "12"
         },
         {
           "label": "PK niet marginaat.",
-          "next": "13",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "13"
         }
       ]
     },
     "12": {
       "id": "12",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "columella's in Aufsicht ten minste im Phasenkontrastbild herkenbaar.",
-          "next": "20",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "20"
         },
         {
           "label": "columella's in Aufsicht ook im Phasenkontrastbild niet herkenbaar.",
-          "next": "21",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "21"
         }
       ]
     },
     "13": {
       "id": "13",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "columella's unter de Muri z.T. dubbelrijig, Brochi Poriën duidelijk kleiner als op de Intercolpiën, PK sferoïdisch, zelden zwak prolaat (Cercis).",
-          "next": null,
           "id": {
-            "pollen_key": "cercis_siliquastrum",
-            "note": "-"
-          },
-          "outcome": null
+            "pollen_key": "cercis_siliquastrum"
+          }
         },
         {
           "label": "columella's unter de Muri altijd enkelrijig. Brochi Poriën niet kleiner als op de intercolpiumrandenn. PK prolaat tot sferoïdisch (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": null,
           "id": {
-            "name": "Scrophulariaceae",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Scrophulariaceae"
+          }
         }
       ]
     },
     "14": {
       "id": "14",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK micro-suprareticulaat, Brochi daardoor relatief contrastarm, columella-laag im optischen Schnitt met kontrastschwachen en relatief weit gestellten columella's herkenbaar; Indien eng gestellt, vgl. Linaria (Blz. 368) (Tafel 81: 17-22).",
-          "next": null,
           "id": {
-            "name": "Hypericum perforatum-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Hypericum perforatum-type"
+          }
         },
         {
           "label": "PK micro-perreticulaat.",
-          "next": "15",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "15"
         }
       ]
     },
     "15": {
       "id": "15",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK 15-18 µm groot, dunwandig (Tafel 80: 26-35, Tafel 81: 1-16).",
-          "next": null,
           "id": {
-            "name": "Scrophulariaceae",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Scrophulariaceae"
+          }
         },
         {
           "label": "PK größer (vgl. ook Elatine, Blz. 206).",
-          "next": "16",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "16"
         }
       ]
     },
     "16": {
       "id": "16",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK polair meest afgerond, Endexine relatief dun (Tafel 80: 16-25).",
-          "next": null,
           "id": {
-            "name": "23.7 Primula clusiana-type (grote PK) (Blz. 364)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "23.7 Primula clusiana-type (grote PK) (Blz. 364)"
+          }
         },
         {
           "label": "PK met polair meest taps toelopende Enden, Endexine relatief dik. Schwer von de großen PK vom Primula clusiana-type zu trennen.",
-          "next": null,
           "id": {
-            "name": "Saxifraga hieracifolia",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Saxifraga hieracifolia"
+          }
         }
       ]
     },
     "17": {
       "id": "17",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK suprareticulaat.",
-          "next": "18",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "18"
         },
         {
           "label": "PK perreticulaat.",
-          "next": "20",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "20"
         }
       ]
     },
     "18": {
       "id": "18",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK dikwandig (dikte der Exine 2-4 µm). Die suprareticulate of (zelden) supramicroreticulate Sculpturierung verlangt hoge optische resolutie en is meestal nur im Phasenkontrastbild met voldoende duidelijkheid herkenbaar (Tafel 81: 23-30, Tafel 82: 1-7).",
-          "next": null,
           "id": {
-            "name": "23.11 Euphorbia (Blz. 371)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "23.11 Euphorbia (Blz. 371)"
+          }
         },
         {
           "label": "Exine nur tot 2 µm dik. Reticulate Sculpturierung ten minste im Phasenkontrastbild altijd duidelijk herkenbaar.",
-          "next": "19",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "19"
         }
       ]
     },
     "19": {
       "id": "19",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Brochi met opvallend breedte Muri. columella's im Phasenkontrastbild duidelijk, unter de Muri meerrijig (Tafel 76: 11-17).",
-          "next": null,
           "id": {
-            "name": "Hypericum elodes (Blz. 344)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Hypericum elodes (Blz. 344)"
+          }
         },
         {
           "label": "Muri niet opvallend breit. columella's im Phasenkontrastbild niet of nur im polaren en subpolaren gebied herkenbaar (Tafel 82: 8-19, Tafel 83: 1-9).",
-          "next": null,
           "id": {
-            "name": "Genista gruppe",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Genista gruppe"
+          }
         }
       ]
     },
     "20": {
       "id": "20",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "columella's duidelijk enkelrijig of niet herkenbaar.",
-          "next": "21",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "21"
         },
         {
           "label": "columella's meerrijig of streckenweise 2 columella's nebeneinander.",
-          "next": "25",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "25"
         }
       ]
     },
     "21": {
       "id": "21",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK prolaat, marginaat (Tafel 61: 26-32, Tafel 62: 1-3).",
-          "next": null,
           "id": {
-            "name": "Salix (Blz. 300)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Salix (Blz. 300)"
+          }
         },
         {
           "label": "PK sferoïdisch, met of zonder marges.",
-          "next": "22",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "22"
         }
       ]
     },
     "22": {
       "id": "22",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "columella's im Phasenkontrastbild niet herkenbaar (Tafel 63: 9-15).",
-          "next": null,
           "id": {
-            "name": "Hottonia palustris (Blz. 304)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Hottonia palustris (Blz. 304)"
+          }
         },
         {
           "label": "columella's ten minste im Phasenkontrastbild herkenbaar.",
-          "next": "23",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "23"
         }
       ]
     },
     "23": {
       "id": "23",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Exine 2,0-3,0(5,5) µm dik (Indien Poolvelden klein, Reticulum met tot 2 µm langgestreckten, meridionaal ausgerichteten Brochi, vgl. Hyoscyamus niger, Blz. 332), Brochi over 2,0 µm groot; die Ektexine wird zu de intercolpiumrandenn hin dunner (Exine hier um 1 µm dik).",
-          "next": "24",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "24"
         },
         {
           "label": "Exine 1,5-1,8 µm dik, an de intercolpiumrandenn niet dunner. Brochi 1,0-1,8(2,1) µm groot. Indien Brochi nur tot 1,2 µm groot, vgl. 6. Scrophulariaceae p.p. (Tafel 83: 15-19).",
-          "next": null,
           "id": {
-            "name": "Diapensia lapponica",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Diapensia lapponica"
+          }
         }
       ]
     },
     "24": {
       "id": "24",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Brochi 2,0-2,5(3,0) µm groot, columella's dubbelrijig (Tafel 83: 10-14).",
-          "next": null,
           "id": {
-            "name": "Euonymus",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Euonymus"
+          }
         },
         {
           "label": "Brochi maximal 4-5 µm groot, columella's altijd enkelrijig (Tafel 73: 18-25).",
-          "next": null,
           "id": {
-            "name": "Viburnum lantana (Blz. 336)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Viburnum lantana (Blz. 336)"
+          }
         }
       ]
     },
     "25": {
       "id": "25",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK 32-42 µm groot, prolaat, Lumina kleiner als die breedte der Muri, columella's meerrijig (Tafel 83: 20-23).",
-          "next": null,
           "id": {
-            "name": "Paeonia officinalis",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "Paeonia officinalis"
+          }
         },
         {
           "label": "PK 20-28 µm groot, meestal sferoïdisch, Muri etwa so breit wie der Diameter der Lumina of nur wenig schmäler, columella's nur vereinzelnt dubbelrijig (Tafel 83: 24-28).",
-          "next": null,
           "id": {
-            "pollen_key": "cercis_siliquastrum",
-            "note": "-"
-          },
-          "outcome": null
+            "pollen_key": "cercis_siliquastrum"
+          }
         }
       ]
     }

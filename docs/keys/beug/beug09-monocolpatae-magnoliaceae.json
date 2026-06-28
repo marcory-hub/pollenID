@@ -4,7 +4,6 @@
     "title": "9.4 Magnoliaceae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,65 +12,19 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
-          "next": null,
           "id": {
             "pollen_key": "liriodendron_tulipifera",
             "note": "9.4.1 Liriodendron tulipifera"
-          },
-          "outcome": null
+          }
         },
         {
           "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens verspreide brochi tussen deze sculptuurelementen. Exine dunner als 2 µm (tabel 9: 12–14).",
-          "next": null,
           "id": {
-            "name": "9.4.2 Magnolia",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "9.4.2 Magnolia"
+          }
         }
       ]
     }

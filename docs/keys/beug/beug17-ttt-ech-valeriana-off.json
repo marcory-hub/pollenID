@@ -4,7 +4,6 @@
     "title": "17.2 Valeriana officinalis-groep (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,105 +12,18 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
-          "next": null,
           "id": {
-            "name": "17.2.1 Valeriana officinalis-type (Blz... 236)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "17.2.1 Valeriana officinalis-type (Blz... 236)"
+          }
         },
         {
           "label": "PK 28–45 µm, prolaat tot sferoïdisch, oppervlak met fijne echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
-          "next": null,
           "id": {
-            "name": "17.2.2 Valeriana montana-type (Blz... 236)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "17.2.2 Valeriana montana-type (Blz... 236)"
+          }
         }
       ]
     }

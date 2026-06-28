@@ -4,7 +4,6 @@
     "title": "2. Sculptuurtype",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 13,
     "start": "1"
   },
@@ -13,1064 +12,210 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Exine zonder sculptuur. Tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
-          "next": null,
           "id": {
-            "name": "psilaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "psilaat"
+          }
         },
         {
           "label": "Oppervlak van het exine bevat uitsparingen of uitstekende sculptuurelementen, of het tectum is netvormig onderbroken.",
-          "next": "2",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "2"
         }
       ]
     },
     "2": {
       "id": "2",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Oppervlak van het exine met uitsparingen.",
-          "next": "3",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "3"
         },
         {
           "label": "Oppervlak van het exine met uitstekende sculptuurelementen of het tectum is netvormig.",
-          "next": "5",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "5"
         }
       ]
     },
     "3": {
       "id": "3",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Oppervlak van het exine met ronde onderbrekingen.",
-          "next": null,
           "id": {
-            "name": "foveolaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "foveolaat"
+          }
         },
         {
           "label": "Oppervlak van het exine met langgerekte (gootvormige) onderbrekingen.",
-          "next": "4",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "4"
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "De langgerekte onderbrekingen liggen los van elkaar.",
-          "next": null,
           "id": {
-            "name": "fossulaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              { "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "fossulaat"
+          }
         },
         {
           "label": "De onderbrekingen sluiten aaneen tot een netwerk.",
-          "next": null,
           "id": {
-            "name": "frustillaat of areolaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "frustillaat of areolaat"
+          }
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen in bovenaanzicht ± isodiametrisch (rond, polyëdrisch).",
-          "next": "6",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "6"
         },
         {
           "label": "Sculptuurelementen in bovenaanzicht verlengd.",
-          "next": "11",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "11"
         }
       ]
     },
     "6": {
       "id": "6",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Diameter of lengte van de sculptuurelementen tot 1 µm (verzamelbegrip: omvat micro-echinaat, micro-gemmaat, micro-clavaat, micro-verrucaat, micro-baculaat en micro-reticulaat; in tectate of in intectate positie).",
-          "next": null,
           "id": {
-            "name": "scabraat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "scabraat"
+          }
         },
         {
           "label": "Diameter of lengte van de sculptuurelementen groter dan 1 µm.",
-          "next": "7",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "7"
         }
       ]
     },
     "7": {
       "id": "7",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen toegespitst (in tectate of in intectate positie).",
-          "next": null,
           "id": {
-            "name": "echinaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "echinaat"
+          }
         },
         {
           "label": "Sculptuurelementen niet toegespitst.",
-          "next": "8",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "8"
         }
       ]
     },
     "8": {
       "id": "8",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Hoogte van de sculptuurelementen hoogstens even groot als hun diameter.",
-          "next": "9",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "9"
         },
         {
           "label": "Hoogte van de sculptuurelementen groter dan hun diameter.",
-          "next": "10",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "10"
         }
       ]
     },
     "9": {
       "id": "9",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "next": null,
           "id": {
-            "name": "gemmaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "gemmaat"
+          }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "next": null,
           "id": {
-            "name": "verrucaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "verrucaat"
+          }
         }
       ]
     },
     "10": {
       "id": "10",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "next": null,
           "id": {
-            "name": "clavaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "clavaat"
+          }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "next": null,
           "id": {
-            "name": "baculaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "baculaat"
+          }
         }
       ]
     },
     "11": {
       "id": "11",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen in netvormige rangschikking.",
-          "next": "12",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "12"
         },
         {
           "label": "Sculptuurelementen niet in netvormige rangschikking.",
-          "next": "13",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "13"
         }
       ]
     },
     "12": {
       "id": "12",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Netvormige sculpturering met gesloten brochi, perreticulaat (semitectaat) of suprareticulaat (tectaat).",
-          "next": null,
           "id": {
-            "name": "reticulaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "reticulaat"
+          }
         },
         {
           "label": "Sculpturering bestaat uit netvormig geplaatste bacula of clavae.",
-          "next": null,
           "id": {
-            "name": "retipilaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "retipilaat"
+          }
         }
       ]
     },
     "13": {
       "id": "13",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Sculptuurelementen in ± parallelle rangschikking, ten minste in bundels parallel.",
-          "next": null,
           "id": {
-            "name": "striaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "striaat"
+          }
         },
         {
           "label": "Sculptuurelementen onregelmatig (niet netvormig en niet parallel) gerangschikt.",
-          "next": null,
           "id": {
-            "name": "rugulaat",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "rugulaat"
+          }
         }
       ]
     }

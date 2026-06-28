@@ -4,7 +4,6 @@
     "title": "21.10 Galeopsis-Ballota-groep (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,105 +12,18 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "brochi duidelijk groter dan 1 µm en tot 2,5 µm groot, tectum op de lumina door microbrochi onderverdeeld (Tafel 60: 3-9).",
-          "next": null,
           "id": {
-            "name": "21.10.1 Galeopsis-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "21.10.1 Galeopsis-type"
+          }
         },
         {
           "label": "brochi slechts tot 1(1,2) µm groot, overwegend ononderverdeeld (Tafel 60: 10-13).",
-          "next": null,
           "id": {
-            "name": "21.10.2 Ballota-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "21.10.2 Ballota-type"
+          }
         }
       ]
     }

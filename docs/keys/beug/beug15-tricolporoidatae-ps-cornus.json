@@ -4,7 +4,6 @@
     "title": "15.1 Cornus (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,65 +12,19 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
-          "next": null,
           "id": {
             "pollen_key": "cornus_sanguinea",
             "note": "15.1.1 Cornus sanguinea"
-          },
-          "outcome": null
+          }
         },
         {
           "label": "PK < 40 µm",
-          "next": null,
           "id": {
-            "name": "15.1.2 Cornus mas-type",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "15.1.2 Cornus mas-type"
+          }
         }
       ]
     }

@@ -6,12 +6,14 @@ abelmoschus_esculentus:
     smallest_size: 175 µm
     largest_size: 175 µm
     height_px: 438
+  pollen_class:
   shape: rond
   sculpture: echinaat
   aperture: 20-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -19,9 +21,9 @@ abelmoschus_esculentus:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Abelmoschus_esculentus
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Abelmoschus_esculentus
-    paldat: https://www.paldat.org/pub/Abelmoschus_esculentus
+    pollenX: 
+    tstebler: 
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -34,12 +36,14 @@ acacia_dealbata:
     smallest_size: 44 µm
     largest_size: 44 µm
     height_px: 110
-  shape: rond tot polygonaal
+  pollen-class: 03
+  shape: rond tot polygonaal, 16 eenheden, 2x4 eenheden in het midden, 8 eenheden in de rand
   sculpture: psilaat
   aperture: inaperturaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -63,17 +67,19 @@ acer_campestre:
     smallest_size: 32 µm
     largest_size: 37 µm
     height_px: 88
+  pollen-class: 18
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: striaat
   aperture: tricolpaat
   ornamentation:
   polarity: 0.79
   pe_ratio: 0.26
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 6
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Acer_campestre
@@ -101,18 +107,21 @@ acer_japonicum:
   dutch: Japanse esdoorn
   family: Sapindaceae (zeepboomfamilie)
   size:
-    smallest_size: 25 µm
-    largest_size: 29 µm
-    height_px: 72
-  shape: rond tot licht driehoekig
+    smallest_size: 28 µm
+    largest_size: 30 µm
+    height_px: 75
+  pollen_class: 18
+  shape: rond tot licht driehoekig, sferoid
   sculpture: striaat
   aperture: tricolporaat
   ornamentation: niet
-  polarity: 0.79
+  polarity: 0.86
   pe_ratio: 0.28
+  pollen-note:
   bloeitijd:
     start: 5
     end: 6
+  pollen_class: 18
   nectar_value: 5
   pollen_value: 5
   frequency_in_honey:
@@ -145,21 +154,24 @@ acer_negundo:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class: 18
   shape: ongeveer rond
-  sculpture: reticulaat, striaat
+  sculpture: striaat, rugulaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
   bloeitijd:
-    start: 3
+    start:  pollen-note:
+ 3
     end: 4
-  nectar_value: 1
+    pollen_class: tricolpaat rugulaat, striaat
+    nectar_value: 1
   pollen_value: 1
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Acer_negundo
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_negundo
+    tstebler: 
     paldat: https://www.paldat.org/pub/Acer_negundo
   sources:
     - source: kerkvliet
@@ -173,12 +185,14 @@ acer_palmatum:
     smallest_size: 25 µm
     largest_size: 27 µm
     height_px: 65
-  shape: rond tot gering driehoekig
-  sculpture: reticulaat/rugulaat
+  pollen_class: 18
+  shape: rond tot gering driehoekig, sferoid
+  sculpture: striaat
   aperture: tricolporaat (in tegenstelling to de andere acer-soorten die tricolpaat zijn)
-  ornamentation: deels gering geornamenteerd
+  ornamentation: "Pollenwiki: deels gering geornamenteerd (te zien op foto), Paldat: apertuur membraan psilaat"
   polarity: 0.90
   pe_ratio: 0.30
+  pollen-note:
   bloeitijd:
     start: 5
     end: 5
@@ -217,12 +231,14 @@ acer_platanoides:
     smallest_size: 30 µm
     largest_size: 34 µm
     height_px: 85
-  shape: rondf tot licht driehoekig
+  pollen-class: 18
+  shape: rond tot licht driehoekig, sferoid tot optisch gering oblaat
   sculpture: striaat
   aperture: tricolpaat
   ornamentation:
   polarity: 0.85
-  pe_ratio: 0.20
+  pe_ratio: 0.20z
+  pollen-note:
   bloeitijd:
     start: 4
     end: 4
@@ -242,7 +258,7 @@ acer_platanoides:
       kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_2.png
-      kind: by_taxon
+      kind: by_taxonz
       source: by_taxon
     - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_3.png
       kind: by_taxon
@@ -250,20 +266,22 @@ acer_platanoides:
     - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_4.png
       kind: by_taxon
       source: by_taxon
-acer_pseudoplatanoides:
-  latin: Acer pseudoplatanoides
+acer_pseudoplatanus:
+  latin: Acer pseudoplatanus
   dutch: Esdoorn
   family: Sapindaceae (zeepboomfamilie)
   size:
-    smallest_size: 31 µm
-    largest_size: 35 µm
-    height_px: 85
-  shape: ongeveer rond
-  sculpture: striaat
+    smallest_size: 35 µm
+    largest_size: 40 µm
+    height_px: 95
+  pollen-class: 18
+  shape: rond tot gering driehoekig, sferoid tot optisch gering oblaat
+  sculpture: duidelijk striaat tot verrucaat
   aperture: tricolpaat
-  ornamentation: licht korrelig
+  ornamentation: geen
   polarity: 0.85
-  pe_ratio: 0.20
+  pe_ratio: 0.25
+  pollen-note:
   bloeitijd:
     start: 4
     end: 5
@@ -271,9 +289,9 @@ acer_pseudoplatanoides:
   pollen_value: 5
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Acer_pseudoplatanoides
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_pseudoplatanoides
-    paldat: https://www.paldat.org/pub/Acer_pseudoplatanoides
+    pollenX: https://pollenx.eu/species.php?species=Acer_pseudoplatanus
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_pseudoplatanus
+    paldat: https://www.paldat.org/pub/Acer_pseudoplatanus
   sources:
     - source: kerkvliet
       path: 
@@ -299,13 +317,14 @@ achillea_millefolium:
     smallest_size: 29 µm
     largest_size: 29 µm
     height_px: 72
-  shape: rond tot driekantig convex, afhankelijk van de ligging
-  sculpture: echinaat 
+  pollen_class: 17
+  shape: rond tot driekantig convex, sferoid
+  sculpture: echinaat, lengte van de echini 3.3 µm, veel pollenkit
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio: 0.33
-  pollen-note: "exine: dik (3 µm), pori-radius: 2.8 µm, veel pollenkit"
+  pollen-note: "exine: dik (3 µm), pori-radius 2.8 µm, veel pollenkit"
   bloeitijd:
     start: 6
     end: 10
@@ -345,12 +364,14 @@ aesculus_carnea:
     smallest_size: 24 µm
     largest_size: 26 µm
     height_px: 63
+  pollen_class:
   shape: rond tot licht prolaat
-  sculpture: glad
+  sculpture: rugulaat tot striaat
   aperture: tricolporaat
   ornamentation: brede colpi (4-6 µm) met gemmate ornamentering
   polarity: 1.09
   pe_ratio: 0.28
+  pollen-note: veel pollenkit
   bloeitijd:
     start:
     end:
@@ -386,12 +407,14 @@ aesculus_hippocastanum:
     smallest_size: 24 µm
     largest_size: 24 µm
     height_px: 63
+  pollen_class:
   shape: rond tot licht prolaat
   sculpture: psilaat tot rugulaat
   aperture: tricolporaat
   ornamentation: gemmaat tot verrucaat
-  polarity:
+  polarity: isopolair
   pe_ratio: geen polair veld
+  pollen-note:
   bloeitijd:
     start: 5
     end: 6
@@ -434,12 +457,14 @@ kolkwitzia_amabilis:
     smallest_size: 46 µm
     largest_size: 58 µm
     height_px: 130
-  shape: driehoekig, elliptisch oblaat
-  sculpture: echinaat
+  pollen_class: 17
+  shape: driehoekig, elliptisch, oblaat
+  sculpture: echinaat op scabraat tot striaat-regulaat
   aperture: tricolpaat
   ornamentation: geen
   polarity: isopolair
   pe_ratio: 0.59
+  pollen-note:
   bloeitijd:
     start: 5
     end: 6
@@ -449,7 +474,7 @@ kolkwitzia_amabilis:
   links:
     pollenX: https://pollenx.eu/species.php?species=Kolkwitzia_amabilis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Kolkwitzia_amabilis
-    paldat: https://www.paldat.org/pub/Kolkwitzia_amabilis
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -460,18 +485,20 @@ kolkwitzia_amabilis:
       source: by_taxon
 agave_striata:
   latin: Agave striata
-  dutch:
+  dutch: gestreept agave
   family: Asperagaceae (aspergefamilie)
   size:
     smallest_size: 56 µm
     largest_size: 94 µm
-    height_px: 188
+    height_px: 200
+  pollen_class: 09
   shape: rond tot licht oblaat, dyade pollen komen voor
   sculpture: reticulaat tot rugulaat
   aperture: heteroprolaat, sulcaat
   ornamentation: geen
   polarity: 
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -481,7 +508,7 @@ agave_striata:
   links:
     pollenX: https://pollenx.eu/species.php?species=Agave_striata
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Agave_striata
-    paldat: https://www.paldat.org/pub/Agave_striata
+    paldat: 
   sources: []
   images:
     - path: assets/images/by-taxon/agave_striata/agave_striata_1.png
@@ -495,12 +522,14 @@ agrimonia_eupatoria:
     smallest_size: 30 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class: 20
   shape: driehoekig tot rhomboid, sferoid tot gering prolaat
   sculpture: rugulaat
-  aperture: tricolporaat
-  ornamentation: in het midden van de colpi, pori niet altijd zichtbaar
+  aperture: tricolporaat, pori gering uitstekend
+  ornamentation: apertuurmembraan in het midden van de colpi geornamenteerd, pori niet altijd zichtbaar
   polarity: 1.10
   pe_ratio: 0.33
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -532,18 +561,20 @@ agrimonia_odorata:
   dutch: welriekende agrimonie
   family: Rosaceae (rozenfamilie)
   size:
-    smallest_size: 36 µm
+    smallest_size: 51 µm
     largest_size: 100 µm
-    height_px: 250
-  shape: rond prolaat
+    height_px: 187
+  pollen_class: tricolporaat
+  shape: rond, prolaat
   sculpture: verrucaat, scabraat, gemmaat
   aperture: tricolporaat
-  ornamentation: 
-  polarity:
-  pe_ratio:
+  ornamentation: apertuurmembraan in het midden van de colpi geornamenteerd, pori niet altijd zichtbaar
+  polarity: isopolair
+  pe_ratio: 
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 
+    end: 
   images:
     - path: assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_1.png
       kind: paldat
@@ -561,8 +592,8 @@ agrimonia_odorata:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Agrimonia_odorata
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Agrimonia_odorata
+    pollenX: 
+    tstebler: 
     paldat: https://www.paldat.org/pub/Agrimonia_odorata
   sources:
     - source: eide
@@ -575,12 +606,14 @@ ailanthus_altissima:
     smallest_size: 24 µm
     largest_size: 28 µm
     height_px: 65
+  pollen_class: 19
   shape: driehoekig convex, sferoid
   sculpture: reticulaat tot gering striaat
-  aperture: tricolporaat
+  aperture: tricolporaat, porus 5.5 µm
   ornamentation: geen
   polarity: 0.88
   pe_ratio: 0.26
+  pollen-note:
   bloeitijd:
     start: 6
     end: 7
@@ -612,12 +645,14 @@ ajuga_reptans:
     smallest_size: 24 µm
     largest_size: 28 µm
     height_px: 65
+  pollen_class: 21
   shape: rond tot gering driehoekig, sferoid
-  sculpture: reticulaat(<Bn)
+  sculpture: rugulaat tot reticulaat(<Bn)
   aperture: tricolpaat
   ornamentation: geen, brede colpi
   polarity: 0.93
   pe_ratio: 0.22
+  pollen-note:
   bloeitijd:
     start: 4
     end: 6
@@ -653,12 +688,14 @@ alchemilla_acutiloba:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -680,12 +717,14 @@ alchemilla_alpina:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -702,17 +741,19 @@ alchemilla_alpina:
 allium_cepa:
   latin: Allium cepa
   dutch: ui of tuinui
-  family: Liliaceae (pw) Amaryllidaceae (narcisfamilie)
+  family: Liliaceae (pw) Amaryllidaceae (wiki) (narcisfamilie)
   size:
     smallest_size: 27 µm
     largest_size: 29 µm
     height_px: 70
-  shape: half ovaal, broodvormig
+  pollen_class: 09
+  shape: half ovaal, broodvormig, oblaat, sulcaat
   sculpture: scabraat tot psilaat
   aperture: monocolpaat
   ornamentation: geen
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start: 7
     end: 8
@@ -748,12 +789,14 @@ allium_schoenoprasum:
     smallest_size: 27 µm
     largest_size: 29 µm
     height_px: 70
+  pollen_class: 09
   shape: half ovaal, broodvormig, oblaat, sulcaat
   sculpture: scabraat tot psilaat
   aperture: monocolpaat, sulcaat
   ornamentation: geen
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start: 5
     end: 7
@@ -780,12 +823,14 @@ allium_ursinum:
     smallest_size: 31 µm
     largest_size: 31 µm
     height_px: 78
+  pollen_class: 09
   shape: half ovaal, broodvormig tot trapezevormig
   sculpture: psilaat
   aperture: monocolpaat
   ornamentation: geen
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start: 4
     end: 5
@@ -821,12 +866,14 @@ alnus_glutinosa:
     smallest_size: 26 µm
     largest_size: 26 µm
     height_px: 65
+  pollen_class:
   shape: rond, afhankelijk van het aantal pori 4 tot 5 hoekig
   sculpture: scabraat tot psilaat
   aperture: 4-5-poraat, anulus om de pori, brevicolpaat 3.4 µm met kleine boog tussen de pori (arcus)
   ornamentation: geen
   polarity: 0.81
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start: 2
     end: 3
@@ -862,12 +909,14 @@ alopecurus_pratensis:
     smallest_size: 27 µm
     largest_size: 31 µm
     height_px: 73
+  pollen_class: 08
   shape: rond tot ovaal
   sculpture: ulceraat, scabraat
-  aperture: monoporaat, avena type (beug)
+  aperture: monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm
   ornamentation: pori vaak met kiemdeksel
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -891,12 +940,14 @@ alyssum_montanum:
     smallest_size: 24 µm
     largest_size: 29 µm
     height_px: 66
+  pollen_class: 21
   shape: rond, meestal prolaat tot sferoid
-  sculpture: reticulaat
+  sculpture: reticulaat of microreticulaat
   aperture: tricolpaat
   ornamentation: geen
   polarity: 1.12
   pe_ratio: 0.25
+  pollen-note:
   bloeitijd:
     start: 6
     end: 7
@@ -923,12 +974,14 @@ alyssum_saxatile:
     smallest_size: 18 µm
     largest_size: 19 µm
     height_px: 46
+  pollen_class:
   shape: rond, sferoid
   sculpture: reticulaat
   aperture: tricolpaat
   ornamentation: geen
   polarity: 1.10
   pe_ratio: 0.34
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -952,12 +1005,14 @@ amaranthus_caudatus:
     smallest_size: 21 µm
     largest_size: 27 µm
     height_px: 60
+  pollen_class: 33
   shape: rond sferoid
   sculpture: scabraat
-  aperture: 35 - 50 pori
+  aperture: 35 - 50 pori per pollenkorrel
   ornamentation: aperturen deels geornamenteerd (kiemdeksel)
-  polarity: 
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -990,12 +1045,14 @@ ambrosia_artemisiifolia:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class: tricolporaat echinaat
   shape: rond
   sculpture: echinaat 
-  aperture: periporaat
+  aperture: brevicolporaat (=korte colpi)
   ornamentation: deels geornamenteerd (kiemdeksel)
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1004,7 +1061,7 @@ ambrosia_artemisiifolia:
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Ambrosia_artemisiifolia
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ambrosia_artemisiifolia
+    tstebler: 
     paldat: https://www.paldat.org/pub/Ambrosia_artemisiifolia
   sources:
     - source: kerkvliet
@@ -1035,12 +1092,14 @@ amorpha_fruticosa:
     smallest_size: 21 µm
     largest_size: 21 µm
     height_px: 52
+  pollen_class: 22
   shape: rond tot gering driekantig, sferoid tot gering oblaat
   sculpture: reticulaat en deels verrucaat
   aperture: tricolpaat
   ornamentation: middenstreep van apertuurmembraan
   polarity: 0.84
   pe_ratio: 0.25
+  pollen-note:
   bloeitijd:
     start: 6
     end: 8
@@ -1076,12 +1135,14 @@ anacardium_occidentale:
     smallest_size: 28 µm
     largest_size: 28 µm
     height_px: 70
+  pollen_class:
   shape: onregelmatig ovaal
   sculpture: reticulaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1089,9 +1150,9 @@ anacardium_occidentale:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Anacardium_occidentale
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anacardium_occidentale
-    paldat: https://www.paldat.org/pub/Anacardium_occidentale
+    pollenX: 
+    tstebler: 
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -1104,12 +1165,14 @@ anchusa_arvensis:
     smallest_size: 48 µm
     largest_size: 48 µm
     height_px: 120
+  pollen_class: tricolporaat psilaat scabraat perforaat
   shape: ovaal
-  sculpture: psilaat
-  aperture: tricolpaat
+  sculpture: psilaat scabraat perforaat
+  aperture: tricolporpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1118,7 +1181,7 @@ anchusa_arvensis:
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Anchusa_arvensis
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_arvensis
+    tstebler: 
     paldat: https://www.paldat.org/pub/Anchusa_arvensis
   sources:
     - source: kerkvliet
@@ -1126,18 +1189,20 @@ anchusa_arvensis:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 anchusa_officinalis:
   latin: Anchusa officinalis
-  dutch: ossetong
+  dutch: gewone ossentong
   family: Boraginaceae (ruwbladigefamilie)
   size:
     smallest_size: 26 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class: 25
   shape: ovaal
-  sculpture: glad/foveolaat
-  aperture: 4-colporaat
+  sculpture: glad/foveolaat tot rugulaat
+  aperture: 4-colporaat, korte smalle colpi
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start: 5
     end: 9
@@ -1173,12 +1238,14 @@ anethum_graveolens:
     smallest_size: 13 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: ovaal
-  sculpture: fijn reticulaat, verrucaat, scabraat, gemmaat
+  sculpture: microreticulaat, verrucaat, scabraat, gemmaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1187,7 +1254,7 @@ anethum_graveolens:
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Anethum_graveolens
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anethum_graveolens
+    tstebler: 
     paldat: https://www.paldat.org/pub/Anethum_graveolens
   sources:
     - source: kerkvliet
@@ -1201,12 +1268,14 @@ anthemis_nobilis:
     smallest_size: 28 µm
     largest_size: 28 µm
     height_px: 70
-  shape: rond
+  pollen_class: 17
+  shape: rond tot gering driehoekig, sferoid
   sculpture: echinaat A
   aperture: tricolporaat
   ornamentation:
   polarity: 0.92
   pe_ratio:
+  pollen-note: veel pollenkit
   bloeitijd:
     start:
     end:
@@ -1214,9 +1283,9 @@ anthemis_nobilis:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Anthemis_nobilis
+    pollenX: 
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthemis_nobilis
-    paldat: https://www.paldat.org/pub/Anthemis_nobilis
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -1242,12 +1311,14 @@ antirrhinum_majus:
     smallest_size: 16 µm
     largest_size: 18 µm
     height_px: 45
+  pollen_class: 23
   shape: driehoekig sferoid
-  sculpture: microreticulaat of fossulaat
+  sculpture: reticulaat, microreticulaat of fossulaat
   aperture: tricolporaat
   ornamentation: geen
   polarity: 0.93
   pe_ratio: 0.31
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1267,18 +1338,20 @@ anthriscus_sylvestris:
   dutch: fluitenkruid
   family: Apiaceae (schermbloemenfamilie)
   size:
-    smallest_size: 15 µm
-    largest_size: 26 µm
-    height_px: 52
-  shape:
-  sculpture:
-  aperture: colpusranden vormen geen uitstekende kapjes over de pori
-  ornamentation:
-  polarity:
+    smallest_size: 24 µm
+    largest_size: 27 µm
+    height_px: 65
+  pollen_class: 14
+  shape: rond to licht driehoekig convex, prolaat
+  sculpture: verrucaat, scabraat, gemmaat
+  aperture: smalle colpi
+  ornamentation: geen
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 5
+    end: 6
   images:
     - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png
       kind: pollenwiki
@@ -1292,8 +1365,8 @@ anthriscus_sylvestris:
     - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_4.png
       kind: pollenwiki
       source: pollenwiki
-  nectar_value:
-  pollen_value:
+  nectar_value: 2
+  pollen_value: 2
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Anthriscus_sylvestris
@@ -1308,18 +1381,20 @@ anthriscus_sylvestris:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 arbutus_unedo:
   latin: Arbutus unedo
-  dutch:
-  family:
+  dutch: aardbeienboom
+  family: Ericaceae (heidefamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 50 µm
+    largest_size: 50 µm
+    height_px: 125
+  pollen_class: 04
+  shape: rond, sferoid
+  sculpture: psilaat
+  aperture: smalle colpi
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1335,20 +1410,22 @@ arbutus_unedo:
     - path: assets/images/by-taxon/arbutus_unedo/arbutus_unedo_1.png
       kind: by_taxon
       source: by_taxon
-arcticum_majus:
-  latin: Arcticum majus
+arcticum_lappa:
+  latin: Arctium lappa [agent: change all arctium_majus to arcticum_lappa]
   dutch: grote klit
   family:
   size:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
-  shape: O/ovaal
-  sculpture: echinaat S/verruc
-  aperture: 3-poraat
+  pollen_class:
+  shape: driehoekig convex
+  sculpture: echinaat verrucaat
+  aperture: 3-poraat, pori gering uitstekend
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1356,27 +1433,29 @@ arcticum_majus:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Arcticum_majus
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_majus
-    paldat: https://www.paldat.org/pub/Arcticum_majus
+    pollenX: https://pollenx.eu/species.php?species=Arctium_lappa
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Arctium_lappa
+    paldat: https://www.paldat.org/pub/Arctium_lappa
   sources:
     - source: kerkvliet
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-arcticum_minus:
-  latin: Arcticum minus
+arctium_minus:
+  latin: Arctium minus [agent: change all arcticum_minus to arctium_minus]
   dutch: klit
   family:
   size:
     smallest_size: 40 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
-  sculpture: echinaat S
+  sculpture: echinaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1384,27 +1463,29 @@ arcticum_minus:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Arcticum_minus
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_minus
-    paldat: https://www.paldat.org/pub/Arcticum_minus
+    pollenX: https://pollenx.eu/species.php?species=Arctium_minus
+    tstebler: 
+    paldat: https://www.paldat.org/pub/Arctium_minus
   sources:
     - source: kerkvliet
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 arctium_lappa:
-  latin: Arctium Lappa
+  latin: Arctium Lappa [agent: merge with arctium_lappa, delete this entry]
   dutch:
   family:
   size:
     smallest_size:
     largest_size:
-    height_px: 112
+    height_px: 
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1437,12 +1518,14 @@ arctostaphylos_alpina:
     smallest_size:
     largest_size:
     height_px: 112
-  shape:
-  sculpture:
-  aperture:
+  pollen_class: 04
+  shape:tetrade
+  sculpture: scabraat, verrucaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1450,8 +1533,8 @@ arctostaphylos_alpina:
   pollen_value:
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Arctostaphylos_alpina
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Arctostaphylos_alpina
+    pollenX: 
+    tstebler: 
     paldat: https://www.paldat.org/pub/Arctostaphylos_alpina
   sources: []
   images:
@@ -1461,17 +1544,19 @@ arctostaphylos_alpina:
 armeria_maritima:
   latin: Armeria maritima
   dutch: strandkruid
-  family:
+  family: Plumbaginaceae (strandkruidfamilie)
   size:
-    smallest_size: 66 µm
-    largest_size: 66 µm
-    height_px: 165
-  shape: ∆
-  sculpture: reticulaat
+    smallest_size: 60 µm
+    largest_size: 76 µm
+    height_px: 168
+  pollen_class: 21
+  shape: rond, sferoid tot gering oblaat
+  sculpture: reticulaat, muri lijken uit clavaten sculpturen te bestaan
   aperture: tricolporaat
-  ornamentation:
-  polarity:
+  ornamentation: deels korrelige ornamentatie
+  polarity: isopolair
   pe_ratio:
+  pollen-note: dik exine 
   bloeitijd:
     start:
     end:
@@ -1506,12 +1591,14 @@ artemisia_vulgaris:
     smallest_size: 20 µm
     largest_size: 23 µm
     height_px: 54
+  pollen_class: 14
   shape: rond tot gering rosetvormig/lobaat, sferoid tot gering oblaat
   sculpture: reticulaat
-  aperture: tricolporaat
+  aperture: tricolporaat (pw), echinaat (pd)
   ornamentation: geen
   polarity: 0.90
   pe_ratio: 0.30
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1541,23 +1628,25 @@ artemisia_vulgaris:
       source: by_taxon
 aruncus_dioicus:
   latin: Aruncus dioicus
-  dutch:
-  family:
+  dutch: geitenbaard
+  family: Rosaceae (rozenfamilie)
   size:
     smallest_size:
     largest_size:
     height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
+  pollen_class: 20
+  shape: driehoekig, sferoid tot gering oblaat
+  sculpture: striaat, rugulaat
+  aperture: tricolporaat
+  ornamentation: apertuurmembraan geornamenteerd
+  polarity: 0.85
+  pe_ratio: 0.25
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 7
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Aruncus_dioicus
@@ -1582,18 +1671,20 @@ aruncus_dioicus:
       source: by_taxon
 asparagus_setaceus:
   latin: Asparagus setaceus
-  dutch:
-  family:
+  dutch: asperge varen
+  family: Asparagaceae (aspergefamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
+    smallest_size: 20 µm
+    largest_size: 24 µm
+    height_px: 55
+  pollen_class: 09
+  shape: elliptisch, gering oblaaat tot sferoid, sulcaat
+  sculpture: regulaat tot reticulaat
+  aperture: monocolpaat
+  ornamentation: geen
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1603,7 +1694,7 @@ asparagus_setaceus:
   links:
     pollenX: https://pollenx.eu/species.php?species=Asparagus_setaceus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_setaceus
-    paldat: https://www.paldat.org/pub/Asparagus_setaceus
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -1622,19 +1713,21 @@ asparagus_setaceus:
       kind: by_taxon
       source: by_taxon
 asperula_odorata:
-  latin: Asperula odorata
+  latin: Asperula odorata [agent: merge with galium_odoratum, delete this entry]
   dutch: lievevrouwebedstro
   family:
   size:
     smallest_size: 20 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: rond
   sculpture: scabraat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1654,23 +1747,25 @@ asperula_odorata:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 asphodelus_aestivus:
   latin: Asphodelus aestivus
-  dutch: gewone daffodil
-  family:
+  dutch: gewone affodil
+  family: Asphodelaceae (affodilfamilie)
   size:
-    smallest_size: 61 µm
-    largest_size: 61 µm
-    height_px: 152
-  shape: half ovaal
-  sculpture: scabraat
+    smallest_size: 55 µm
+    largest_size: 72 µm
+    height_px: 158
+  pollen_class: 09
+  shape: sferoid tot gering oblaat
+  sculpture: reticulaat tot striaat
   aperture: monocolpaat
-  ornamentation:
-  polarity:
+  ornamentation: geen
+  polarity: 0.87
   pe_ratio:
+  pollen-note: dik intine
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 6
+  nectar_value: 1
+  pollen_value: 0
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Asphodelus_aestivus
@@ -1695,23 +1790,25 @@ asphodelus_aestivus:
       source: by_taxon
 aster_amellus:
   latin: Aster Amellus
-  dutch:
-  family:
+  dutch: bergaster, italiaanse aster
+  family: Asteraceae (asterfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 27 µm
+    largest_size: 32 µm
+    height_px: 73
+  pollen_class: 17
+  shape: rond tot gering driehoekig, sferoid tot gering oblaat
+  sculpture: echinaat
+  aperture: tricolporaat
   ornamentation:
-  polarity:
+  polarity: 0.86
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 7
+    end: 10
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Aster_amellus
@@ -1733,23 +1830,25 @@ aster_amellus:
       source: by_taxon
 aster_lanceolatus:
   latin: Aster Lanceolatus
-  dutch:
-  family:
+  dutch: smalle aster
+  family: Asteraceae (asterfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 30 µm
+    largest_size: 36 µm
+    height_px: 83
+  pollen_class: 17
+  shape: rond tot gering driehoekig, sferoid
+  sculpture: echinaat
+  aperture: tricolporaat
   ornamentation:
-  polarity:
+  polarity: 0.89
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 8
+    end: 10
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Aster_lanceolatus
@@ -1777,12 +1876,14 @@ aster_tripolium:
     smallest_size: 30 µm
     largest_size: 33 µm
     height_px: 82
-  shape: rond
-  sculpture: echinaat H
+  pollen_class: 17
+  shape: rond, sferoid tot gering oblaat
+  sculpture: echinaat
   aperture: tricolporaat
-  ornamentation:
-  polarity:
-  pe_ratio:
+  ornamentation: geen
+  polarity: 0.89
+  pe_ratio: 0.32
+  pollen-note: pollenkit
   bloeitijd:
     start:
     end:
@@ -1812,18 +1913,20 @@ aster_tripolium:
       source: by_taxon
 astragalus_sinicus:
   latin: Astragalus sinicus
-  dutch: milkvetch
-  family:
+  dutch: hokjespeul
+  family: Fabaceae (peulenfamilie)
   size:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px: 42
+  pollen_class:
   shape: ovaal
   sculpture: glad?
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -1846,17 +1949,19 @@ astrantia_major:
     smallest_size: 20 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class: 14
   shape: ovaal
-  sculpture: rugulaat
+  sculpture: verrucaat, scabraat, gemmaat
   aperture: tricolporaat
   ornamentation:
-  polarity:
-  pe_ratio:
+  polarity: 1.40
+  pe_ratio: 0.20
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 7
+  nectar_value: 2
+  pollen_value: 2
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Astrantia_major
@@ -1885,22 +1990,24 @@ astrantia_major:
 berberis_vulgaris:
   latin: Berberis vulgaris
   dutch: zuurbes
-  family:
+  family: Berberidaceae (Zuurbesfamilie)
   size:
-    smallest_size: 37 µm
-    largest_size: 45 µm
-    height_px: 112
-  shape: O/onregelmatig
-  sculpture: glad
-  aperture:
-  ornamentation:
-  polarity:
+    smallest_size: 39 µm
+    largest_size: 52 µm
+    height_px: 115
+  pollen_class:
+  shape: rond tot vierhoekig, sferoid
+  sculpture: verrucaat, scabraat
+  aperture: spiraperturaat
+  ornamentation: apertuurmembranen deels korrelig tot verrucateornamentering
+  polarity: heteropolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 6
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Berberis_vulgaris
@@ -1926,22 +2033,24 @@ berberis_vulgaris:
 betula_nigra:
   latin: Betula nigra
   dutch: berk
-  family:
+  family: Betulaceae (Berkenfamilie)
   size:
-    smallest_size: 21 µm
-    largest_size: 21 µm
-    height_px: 52
-  shape: rond tot driekantig, afhankelijk van de ligging
-  sculpture: scabraat
-  aperture: 3-poraat
+    smallest_size: 22 µm
+    largest_size: 27 µm
+    height_px: 85
+  pollen_class: 31
+  shape: rond, sferoid tot optisch gering oblaat
+  sculpture: psilaat
+  aperture: 3-poraat, kleine ronde pori met duidelijke anulus en vestibuli.
   ornamentation:
-  polarity:
+  polarity: 0.89
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 4
+    end: 5
+  nectar_value: 0
+  pollen_value: 1
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Betula_nigra
@@ -1981,15 +2090,17 @@ bidens_ferulifolia:
   dutch: tandzaad
   family:
   size:
-    smallest_size: 23 µm
-    largest_size: 23 µm
-    height_px: 58
-  shape: rond
-  sculpture: echinaat H
-  aperture: 3-colporaat
+    smallest_size: 28 µm
+    largest_size: 34 µm
+    height_px: 78
+  pollen_class: 17
+  shape: rond, sferoid
+  sculpture: echinaat
+  aperture: tricolporaat
   ornamentation:
-  polarity:
+  polarity: isopolair
   pe_ratio:
+  pollen-note: veel pollenkit
   bloeitijd:
     start:
     end:
@@ -2017,6 +2128,28 @@ bidens_ferulifolia:
     - path: assets/images/by-taxon/bidens_ferulifolia/bidens_ferulifolia_4.png
       kind: by_taxon
       source: by_taxon
+borrago_officinalis:
+  latin: Borrago officinalis
+  dutch: komkommerkruid, bernagie
+  family: Boraginaceae (Ruwbladigenfamilie)
+  size:
+    smallest_size: 22 µm
+    largest_size: 43 µm
+    height_px: 90
+  pollen_class:
+  shape: rond tot rozetvormig, sferoid tot optisch gering oblaat
+  sculpture: scabraat tot verrucaat, dik exine
+  aperture: "9-10 poraat, pore onduidelijk, colpi door dikke rand (margo) omgeven. Beug: stephanocolporaat, Paldat: syncolpaat"
+  ornamentation: 
+  polarity: 
+  pe_ratio: 
+  pollen-note:
+  bloeitijd:
+    start: 6
+    end: 9
+  nectar_value: 5
+  pollen_value: 5
+  frequency_in_honey:
 borreria_verticilata:
   latin: Borreria verticilata
   dutch: Borreria
@@ -2025,14 +2158,16 @@ borreria_verticilata:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: rond
-  sculpture: f reticulaat
+  sculpture: reticulaat
   aperture: 9-poraat
-  ornamentation:
-  polarity:
-  pe_ratio:
+  ornamentation: 
+  polarity: 
+  pe_ratio: 
+  pollen-note:
   bloeitijd:
-    start:
+    start: 
     end:
   nectar_value:
   pollen_value:
@@ -2060,21 +2195,23 @@ borreria_verticilata:
       source: by_taxon
 brassica_napus:
   latin: Brassica napus (koolzaad
-  dutch:
-  family:
+  dutch: koolzaad
+  family: Brassicaceae (Kruisbloemenfamilie)
   size:
     smallest_size: 22.3 µm
     largest_size: 28.2 µm
     height_px: 70
+  pollen_class:
   shape: rond, sferoid to optisch gering prolaat
-  sculpture: apertuurmembranen bevatten deels gering korrelig ornamentering
-  aperture: tricolpaat
+  sculpture: reticulaat
+  aperture: tricolpaat, apertuurmembranen bevatten deels gering korrelig ornamentering
   ornamentation:
-  polarity: isopolair
-  pe_ratio: PoFormI ca. 1.01; 0.96-1.12
+  polarity: 1.01
+  pe_ratio: 0.21
+  pollen-note: exine dik
   bloeitijd:
-    start:
-    end:
+    start: 4
+    end: 8
   images:
     - path: assets/images/by-taxon/brassica_napus/brassica_napus_3.png
       kind: pollenwiki
@@ -2100,8 +2237,8 @@ brassica_napus:
     - path: assets/images/by-taxon/brassica_napus/brassica_napus_8.png
       kind: pollenwiki
       source: pollenwiki
-  nectar_value:
-  pollen_value:
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Brassica_napus
@@ -2112,21 +2249,23 @@ brassica_napus:
       path: pollenID/docs/monoflorale-honing-pollen/koolzaadhoning.md
 bryonia_dioica:
   latin: Bryonia dioica
-  dutch: Bryonia dioica
-  family:
+  dutch: heggenrank
+  family: Cucurbitaceae (komkommerfamilie)
   size:
     smallest_size: 35 µm
     largest_size: 44 µm
-    height_px:
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
+    height_px: 103
+  pollen_class: 22
+  shape: rond tot gering driehoekig, sferoid
+  sculpture: reticulaat, brochi worden kleiner in de richting van de colpi
+  aperture: intine puilt uit de porus
+  ornamentation: apertuurmembranen en pori zijn korrelig geornamenteerd
+  polarity: 0.93
+  pe_ratio: 0.31
+  pollen-note: veel pollenkit
   bloeitijd:
-    start:
-    end:
+    start: 6
+    end: 9
   images:
     - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_1.png
       kind: pollenwiki
@@ -2143,8 +2282,8 @@ bryonia_dioica:
     - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png
       kind: pollenwiki
       source: pollenwiki
-  nectar_value:
-  pollen_value:
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Bryonia_dioica
@@ -2162,12 +2301,14 @@ buddleja_davidii:
     smallest_size: 15 µm
     largest_size: 15 µm
     height_px: 38
+  pollen_class: 25
   shape: rond
-  sculpture: glad
+  sculpture: psilaat, soms rugulaat
   aperture: 4-colporaat
-  ornamentation:
-  polarity:
-  pe_ratio:
+  ornamentation: apertuurmembranen zijn deels geornamenteerd
+  polarity: 0.85
+  pe_ratio: 0.41
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2190,7 +2331,7 @@ buddleja_davidii:
   links:
     pollenX: https://pollenx.eu/species.php?species=Buddleja_davidii
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Buddleja_davidii
-    paldat: https://www.paldat.org/pub/Buddleja_davidii
+    paldat: 
   sources:
     - source: kerkvliet
       path: 
@@ -2198,26 +2339,28 @@ buddleja_davidii:
 cakile_maritima:
   latin: Cakile maritima
   dutch: zeeraket
-  family:
+  family: Brassicaceae (Kruisbloemenfamilie)
   size:
     smallest_size: 25 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class: tricolpaat reticulaat
   shape: rond
   sculpture: reticulaat
-  aperture:
+  aperture: apertuurmembranen zijn geornamenteerd
   ornamentation:
-  polarity:
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 10
+  nectar_value: 1
+  pollen_value: 1
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Cakile_maritima
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cakile_maritima
+    tstebler: 
     paldat: https://www.paldat.org/pub/Cakile_maritima
   sources:
     - source: kerkvliet
@@ -2239,22 +2382,24 @@ cakile_maritima:
 calendula_officinalis:
   latin: Calendula officinalis
   dutch: goudsbloem
-  family:
+  family: Asteraceae (Composietenfamilie)
   size:
     smallest_size: 34 µm
     largest_size: 34 µm
     height_px: 85
-  shape: rond
-  sculpture: echinaat H
-  aperture:
+  pollen_class: 17
+  shape: rond tot gering driehoekig, convex, sferoid tot gering oblaat
+  sculpture: echinaat
+  aperture: tricolporaat
   ornamentation:
-  polarity:
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 10
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Calendula_officinalis
@@ -2280,20 +2425,22 @@ calendula_officinalis:
 calluna_vulgaris:
   latin: Calluna vulgaris
   dutch: struikheide
-  family:
+  family: Ericaceae (heidefamilie)
   size:
     smallest_size: 32 µm
     largest_size: 39 µm
     height_px: 98
-  shape: tetrade
-  sculpture: verrucaat
+  pollen_class: 04
+  shape: tetrade, sferoid
+  sculpture: psilaat
   aperture: korte brede colpi, tricolpaat of tricolporaat
   ornamentation:
   polarity: heteropolair
   pe_ratio: '-'
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 7
+    end: 9
   images:
     - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png
       kind: pollenwiki
@@ -2322,8 +2469,8 @@ calluna_vulgaris:
     - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
       kind: persano_oddo
       source: persano_oddo
-  nectar_value:
-  pollen_value:
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
@@ -2340,22 +2487,24 @@ calluna_vulgaris:
 calystegia_sepium:
   latin: Calystegia sepium
   dutch: haagwinde
-  family:
+  family: Convolvulaceae (haagwindefamilie)
   size:
-    smallest_size: 78 µm
-    largest_size: 78 µm
-    height_px: 195
-  shape: rond
-  sculpture: scabraat
-  aperture: 20-poraat
-  ornamentation:
+    smallest_size: 79 µm
+    largest_size: 84 µm
+    height_px: 200
+  pollen_class: 30
+  shape: rond, sferoid
+  sculpture: scabraat, verrucaat, gemmaat
+  aperture: 20-poraat, pw meer als 6 poren, porenafstand rond de 25 µm, porenradius 5.8 µm
+  ornamentation: apertuurmembranen zijn gemmaat-verrucaat geornamenteerd
   polarity:
   pe_ratio:
+  pollen-note: dik exine 4 µm dik
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 9
+  nectar_value: 3 
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Calystegia_sepium
@@ -2383,15 +2532,17 @@ campanula_latifolia:
   dutch: klokje
   family:
   size:
-    smallest_size: 29 µm
-    largest_size: 29 µm
-    height_px: 72
-  shape: rond
+    smallest_size: 36 µm
+    largest_size: 41 µm
+    height_px: 100
+  pollen_class: 32
+  shape: rond, sferoid
   sculpture: echinaat
-  aperture: 4-poraat
+  aperture: 4-poraat, tenminste 4 (5) pori met anulus, porenradius ca 4.2 µm
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2401,7 +2552,7 @@ campanula_latifolia:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_latifolia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_latifolia
-    paldat: https://www.paldat.org/pub/Campanula_latifolia
+    paldat:
   sources:
     - source: kerkvliet
       path: 
@@ -2421,23 +2572,25 @@ campanula_latifolia:
       source: by_taxon
 campanula_rotundifolia:
   latin: Campanula Rotundifolia
-  dutch:
-  family:
+  dutch: grasklokje
+  family: Campanulaceae (klokjesfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
+    smallest_size: 31 µm
+    largest_size: 36 µm
+    height_px: 85
+  pollen_class: 32
+  shape: rond, sferoid
+  sculpture: verrucaat to echinaat
+  aperture: 4 poren met anulus, porenradius ca 4.2 µm
+  ornamentation: geen
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 10
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_rotundifolia
@@ -2462,15 +2615,17 @@ cannabis_sativa:
   dutch: cannabis
   family:
   size:
-    smallest_size: 20 µm
-    largest_size: 20 µm
-    height_px: 50
-  shape: rond
-  sculpture: scabraat
-  aperture: 3-poraat
-  ornamentation:
-  polarity:
+    smallest_size: 23 µm
+    largest_size: 29 µm
+    height_px: 65
+  pollen_class: 31
+  shape: rond, sferoid
+  sculpture: psilaat, scabraat
+  aperture: 3-poraat, triporaat tot tricolporaat
+  ornamentation: 
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2506,17 +2661,19 @@ caragana_arborescens:
     smallest_size: 20 µm
     largest_size: 25 µm
     height_px: 62
-  shape: ovaal/O
+  pollen_class:
+  shape: driehoekig convex, sferoid
   sculpture: scabraat
-  aperture: 4-colpaat
-  ornamentation:
-  polarity:
-  pe_ratio:
+  aperture: tricolpaat tot tricolporaat, deels zijn poren zichtbaar
+  ornamentation: apertuurmembranen geornamenteerd met fijn korrelige middenstreep
+  polarity: isopolair
+  pe_ratio: 0.98
+  pollen-note: zeer veel pollenkit
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 6
+  nectar_value: 3
+  pollen_value: 0
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Caragana_arborescens
@@ -2546,22 +2703,24 @@ caragana_arborescens:
 cardamine_pratensis:
   latin: Cardamine pratensis
   dutch: pinksterbloem
-  family:
+  family: Brassicaceae (kruisbloemenfamilie)
   size:
-    smallest_size: 25 µm
-    largest_size: 25 µm
-    height_px: 62
-  shape: ongeveer rond
+    smallest_size: 27 µm
+    largest_size: 31 µm
+    height_px: 73
+  pollen_class: 21
+  shape: ongeveer rond tot gering driehoekig, sferoid
   sculpture: reticulaat
   aperture: tricolpaat
   ornamentation:
-  polarity:
-  pe_ratio:
+  polarity: isopolair
+  pe_ratio: klein polair veld
+  pollen-note: dik exine
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 4
+    end: 6
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Cardamine_pratensis
@@ -2587,17 +2746,19 @@ cardamine_pratensis:
 carduus_nutans:
   latin: Carduus nutans
   dutch: knikkende distel
-  family:
+  family: Asteraceae (Composietenfamilie)
   size:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
-  shape: '-'
+  pollen_class:
+  shape: sferoid
   sculpture: echinaat S
   aperture: tricolporaat
-  ornamentation:
-  polarity:
+  ornamentation: apertuurmembranen zijn geornamenteerd
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2627,18 +2788,20 @@ carduus_nutans:
       source: by_taxon
 carex_pendula:
   latin: Carex pendula
-  dutch:
-  family:
+  dutch: hangende zegge
+  family: Cyperaceae (cypergrassenfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
+    smallest_size: 41 µm
+    largest_size: 47 µm
+    height_px: 110
+  pollen_class: 33
+  shape: maiskorrelvormig tot kegelvormig met geringe driehoekige omkanting
+  sculpture: rugulaat, scabraat tot verrucaat
+  aperture: periporaat, gering langgerekt of rond
+  ornamentation: apertuurmembranen zijn korrelig geornamenteerd
+  polarity: hetropolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2663,30 +2826,32 @@ carex_pendula:
     - path: assets/images/by-taxon/carex_pendula/carex_pendula_4.png
       kind: by_taxon
       source: by_taxon
-carlina_aucalis:
-  latin: Carlina aucalis
+carlina_acaulis:
+  latin: Carlina aucalis [agent: change to acaulis on all places]
   dutch: zilverdistel
-  family:
+  family: Asteraceae (Composietenfamilie)
   size:
     smallest_size: 60 µm
     largest_size: 60 µm
     height_px: 150
+  pollen_class: tricolporaat echinaat
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat S
   aperture: tricolpaat
-  ornamentation:
-  polarity:
-  pe_ratio:
+  ornamentation: 
+  polarity: isopolair
+  pe_ratio: 
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 7
+    end: 10
+  nectar_value: 1 
+  pollen_value: 0
   frequency_in_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Carlina_aucalis
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Carlina_aucalis
-    paldat: https://www.paldat.org/pub/Carlina_aucalis
+    pollenX: 
+    tstebler:
+    paldat: https://www.paldat.org/pub/Carlina_acaulis
   sources:
     - source: kerkvliet
       path: 
@@ -2707,17 +2872,19 @@ carlina_aucalis:
 carpinus_betulus:
   latin: Carpinus betulus
   dutch: haagbeuk
-  family:
+  family: Betulaceae (beukfamilie)
   size:
-    smallest_size: 33 µm
+    smallest_size: 34 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
-  sculpture: ca glad
+  sculpture: scabraat tot psilaat
   aperture: 5-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2753,12 +2920,14 @@ carpobrotus_edulis:
     smallest_size: 28 µm
     largest_size: 28 µm
     height_px: 70
+  pollen_class:
   shape: rond
   sculpture: echinaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2794,12 +2963,14 @@ carthamus_lanatus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2823,12 +2994,14 @@ carthamus_tinctorius:
     smallest_size: 61 µm
     largest_size: 61 µm
     height_px: 152
+  pollen_class:
   shape: rond
   sculpture: echinaat J
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2864,12 +3037,14 @@ carum_carvi:
     smallest_size: 24 µm
     largest_size: 28 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture: colpusranden vormen iets uitstekende kapjes over de pori
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2902,12 +3077,14 @@ castanea_sativa:
     smallest_size: 12 µm
     largest_size: 14 µm
     height_px: 35
+  pollen_class:
   shape: ovaal
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity: isopolair
   pe_ratio: ca. 1.24
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -2981,12 +3158,14 @@ catalpa_bignonioides:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3010,12 +3189,14 @@ catalpa_ovata:
     smallest_size: 73 µm
     largest_size: 73 µm
     height_px: 182
+  pollen_class:
   shape: tetrade
   sculpture: reticulaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3038,12 +3219,14 @@ centaurea_cyanus:
     smallest_size: 34 µm
     largest_size: 41 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3079,12 +3262,14 @@ centaurea_jacea:
     smallest_size: 31 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat J
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3120,12 +3305,14 @@ centaurea_montana:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: ovaal
   sculpture: verrucaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3161,12 +3348,14 @@ centranthus_ruber:
     smallest_size: 65 µm
     largest_size: 72 µm
     height_px: 180
+  pollen_class:
   shape: rond
   sculpture: zwak echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3202,12 +3391,14 @@ ceratonia_silqua:
     smallest_size: 25 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: rond
   sculpture: f reti
   aperture: 4-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3243,12 +3434,14 @@ cercis_siliquastrum:
     smallest_size: 25 µm
     largest_size: 28 µm
     height_px: 70
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3277,22 +3470,24 @@ cercis_siliquastrum:
       kind: by_taxon
       source: by_taxon
 chamerion_angustifolium:
-  latin: Chamerion angustifolium
+  latin: "Chamerion angustifolium (synoniem: Epilobium angustifolium)"
   dutch: (knikkend) wilgeroosje
-  family:
+  family: Onagraceae (Teunisbloemfamilie)
   size:
     smallest_size: 62 µm
     largest_size: 80 µm
     height_px: 200
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
-  sculpture: glad
-  aperture: 3-poraat
+  sculpture: "glad (Tstebler: rugulaat, Beug: psilaat met golvend oppervlak)"
+  aperture: 3-poraat, pori radius 10 µm, vele viscinedraden
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 6
+    end: 8
   images:
     - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png
       kind: by_taxon
@@ -3303,8 +3498,8 @@ chamerion_angustifolium:
     - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_3.png
       kind: by_taxon
       source: by_taxon
-  nectar_value:
-  pollen_value:
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Chamerion_angustifolium
@@ -3322,12 +3517,14 @@ chelidonium_majus:
     smallest_size: 27 µm
     largest_size: 27 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3363,12 +3560,14 @@ chrysanthemum_grandiflorum:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3392,12 +3591,14 @@ chrysanthemum_leuc:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond
   sculpture: echinaat A
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3420,12 +3621,14 @@ cichorium_intybus:
     smallest_size: 38 µm
     largest_size: 38 µm
     height_px: 95
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3464,12 +3667,14 @@ cirsium_arvense:
     smallest_size: 49 µm
     largest_size: 49 µm
     height_px: 122
+  pollen_class:
   shape: rond
   sculpture: echinaat S
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3505,12 +3710,14 @@ cirsium_vulgare:
     smallest_size: 50 µm
     largest_size: 52 µm
     height_px: 130
+  pollen_class:
   shape: rond
   sculpture: echinaat S
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3546,12 +3753,14 @@ cistus_salviifolius:
     smallest_size: 49 µm
     largest_size: 49 µm
     height_px: 122
+  pollen_class:
   shape: ⁄ ∆
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3581,12 +3790,14 @@ citrullus_lanatus:
     smallest_size: 56 µm
     largest_size: 56 µm
     height_px: 140
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3622,12 +3833,14 @@ citrus_sinensis:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: □/O
   sculpture: foveolaat
   aperture: 4-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3650,12 +3863,14 @@ citrus_spp_rutaceae:
     smallest_size: 28.8 µm
     largest_size: 37.6 µm
     height_px: 94
+  pollen_class:
   shape: sferoid
   sculpture: reticulaat
   aperture: tetracolporaat of pentacolporaat
   ornamentation:
   polarity: isopolair
   pe_ratio: '0.95'
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3687,12 +3902,14 @@ clematis_vitalba:
     smallest_size: 20 µm
     largest_size: 22 µm
     height_px: 55
+  pollen_class:
   shape: ongeveer rond
   sculpture: reliëf, scabraat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3728,12 +3945,14 @@ clethra_alnifolia:
     smallest_size: 23 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: verrucaat (?)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3769,12 +3988,14 @@ cnicus_benedictus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3810,12 +4031,14 @@ coffea_arabica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3851,12 +4074,14 @@ colchicum_autumnale:
     smallest_size: 58 µm
     largest_size: 58 µm
     height_px: 145
+  pollen_class:
   shape: semi-ovaal
   sculpture: reticulaat
   aperture: 2-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3892,12 +4117,14 @@ comarum_palustre:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape: Colpi ingesnoerd; uiteinden afgerond; vallae diffuus in LM; pollen altijd prolaat; langste as 29 µm
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3922,12 +4149,14 @@ convolvulus_arvensis:
     smallest_size: 61 µm
     largest_size: 61 µm
     height_px: 152
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: scabraat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -3963,12 +4192,14 @@ cornus_mas:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: scabraat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4016,12 +4247,14 @@ cornus_sanguinea:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class:
   shape: O/∆/ovaal
   sculpture: scabraat/reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4054,12 +4287,14 @@ corylopsis_parcifl:
     smallest_size: 25 µm
     largest_size: 32 µm
     height_px: 80
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat (als salix)
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4082,12 +4317,14 @@ corylopsis_pauciflora:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4105,23 +4342,25 @@ corylopsis_pauciflora:
       source: by_taxon
 corylus_avelana:
   latin: Corylus avelana
-  dutch:
-  family:
+  dutch: hazelaar
+  family: Betulaceae (Berkenfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px:
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 24 µm
+    largest_size: 28 µm
+    height_px: 65
+  pollen_class:
+  shape: driehoekig tot afgerond, sferoid
+  sculpture: scabraat
+  aperture: anulus om de pori
   ornamentation:
-  polarity:
+  polarity: 0.93
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 1
+    end: 3
+  nectar_value: 0
+  pollen_value: 1
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Corylus_avelana
@@ -4139,12 +4378,14 @@ corylus_avellana:
     smallest_size: 27 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad/scabraat
   aperture: 3-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4180,12 +4421,14 @@ cosmos_bipinnatus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4221,12 +4464,14 @@ cotoneaster_intergerrimus:
     smallest_size: 31 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4265,12 +4510,14 @@ cotoneaster_niger:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4292,12 +4539,14 @@ crataegus_leavigata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4321,12 +4570,14 @@ crataegus_monogyna:
     smallest_size: 39 µm
     largest_size: 46 µm
     height_px: 100
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4351,12 +4602,14 @@ crataegus_oxycantha:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4378,12 +4631,14 @@ crocus_albiflorus:
     smallest_size: 125 µm
     largest_size: 125 µm
     height_px: 312
+  pollen_class:
   shape: rond
   sculpture: echinaat+scabraat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4413,12 +4668,14 @@ crocus_ancyrensis:
     smallest_size: 70 µm
     largest_size: 110 µm
     height_px: 275
+  pollen_class:
   shape: rond
   sculpture: verrucaat/echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4448,12 +4705,14 @@ crocus_tommasinianus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4486,12 +4745,14 @@ cucumis_sativus:
     smallest_size: 50 µm
     largest_size: 62 µm
     height_px: 150
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: fijn reticulaat
   aperture: 3-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4530,12 +4791,14 @@ cynoglossum_creticum:
     smallest_size: 8 µm
     largest_size: 11 µm
     height_px: 28
+  pollen_class:
   shape: ovaal
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4575,12 +4838,14 @@ cynoglossum_officinale:
     smallest_size: 11 µm
     largest_size: 15 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4623,12 +4888,14 @@ cytisus_scoparius:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: ongeveer rond
   sculpture: wsl glad of scabr
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4664,12 +4931,14 @@ daphne_mezereum:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4705,12 +4974,14 @@ datura_stramonium:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: rugulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4746,12 +5017,14 @@ daucus_carota:
     smallest_size: 12 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: ovaal
   sculpture: scabraat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4787,12 +5060,14 @@ davidia_involucrata:
     smallest_size: 33 µm
     largest_size: 33 µm
     height_px: 82
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: rugulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4828,12 +5103,14 @@ deutzia_gracilis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4857,12 +5134,14 @@ deutzia_purpurascens:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4886,12 +5165,14 @@ deutzia_sp:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px: 42
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4917,12 +5198,14 @@ dianthus_deltoides:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4955,12 +5238,14 @@ digitalis_purpurea:
     smallest_size: 24 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -4996,12 +5281,14 @@ diplotaxis_tenuifolia:
     smallest_size: 20 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5041,12 +5328,14 @@ dipsacus:
     smallest_size: 71 µm
     largest_size: 90 µm
     height_px: 225
+  pollen_class:
   shape: rond
   sculpture: echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5070,12 +5359,14 @@ dipsacus_pollenwiki:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5098,12 +5389,14 @@ dipsacus_sylvester:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5136,12 +5429,14 @@ dryas_octopetala:
     smallest_size: 27 µm
     largest_size: 32 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5176,12 +5471,14 @@ echinops_sphaerocephalus:
     smallest_size: 74 µm
     largest_size: 80 µm
     height_px: 175
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5220,12 +5517,14 @@ echium_vulgare:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5267,12 +5566,14 @@ elaeagnus_angustifolia:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5306,18 +5607,20 @@ elaeagnus_angustifolia:
       source: by_taxon
 ephedra_helvetica:
   latin: Ephedra helvetica
-  dutch:
-  family:
+  dutch: Zwitserse zeedruif
+  family: Ephedraceae (Zeedruiffamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
+    smallest_size: 29 µm
+    largest_size: 47 µm
+    height_px: 110
+  pollen_class:
+  shape: inaperturaat
+  sculpture: psilaat
+  aperture: polyplicaat
+  ornamentation: geen
+  polarity: 1.52 prolaat
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5341,12 +5644,14 @@ epilobium_angustifolium:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5379,12 +5684,14 @@ erica_arborea:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: tetrade
   sculpture: verrucaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5407,12 +5714,14 @@ erica_tetralix:
     smallest_size: 37 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class:
   shape: tetrade
   sculpture: verrucaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5442,12 +5751,14 @@ erigeron_canaden:
     smallest_size: 20 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5486,12 +5797,14 @@ erodium_cicutarium:
     smallest_size: 54 µm
     largest_size: 54 µm
     height_px: 135
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: striaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5514,12 +5827,14 @@ eruca_sativa:
     smallest_size: 22 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: ca О ⁄ ovaal
   sculpture: reticulaat (<Bn)
   aperture: 4-colpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5555,12 +5870,14 @@ escallonia_sp:
     smallest_size: 18 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: O tot О ⁄ ∆ tot ∆
   sculpture: glad (evt scabr?)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5583,12 +5900,14 @@ eschscholzia_californica:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5628,12 +5947,14 @@ eucalyptus_camaldulensis:
     smallest_size: 22 µm
     largest_size: 22 µm
     height_px: 55
+  pollen_class:
   shape: ∆
   sculpture: glad/verrucaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5666,12 +5987,14 @@ eucalyptus_globulus:
     smallest_size: 19.1 µm
     largest_size: 25.9 µm
     height_px: 65
+  pollen_class:
   shape: driehoekig
   sculpture: scabraat
   aperture: syncolpaat
   ornamentation:
   polarity: isopolair
   pe_ratio: 0.81 sferoid tot optisch gering oblaat
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5706,12 +6029,14 @@ euodia_hupehensis:
     smallest_size: 24 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: ongeveer rond
   sculpture: grof reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5734,12 +6059,14 @@ euonymus_europaeus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5772,12 +6099,14 @@ eupatorium_cannabinum:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond
   sculpture: echinaat H
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5813,12 +6142,14 @@ euphorbia_amygdaloides:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5854,12 +6185,14 @@ fagopyrum_esculentum:
     smallest_size: 51 µm
     largest_size: 51 µm
     height_px:
+  pollen_class:
   shape: rond, sferoid
   sculpture: reticulaat, aperturen met korrelige ornamentering
   aperture: tricolporaat (poren vaak niet te zien)
   ornamentation:
   polarity: isopolair
   pe_ratio: '1.1'
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5925,12 +6258,14 @@ fallopia_baldschuanica:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -5979,12 +6314,14 @@ fallopia_baldschur:
     smallest_size: 19 µm
     largest_size: 19 µm
     height_px: 48
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6007,12 +6344,14 @@ fallopia_convolvulus:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6035,12 +6374,14 @@ fallopia_japonica:
     smallest_size: 25 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6063,12 +6404,14 @@ ferula_communis:
     smallest_size: 20 µm
     largest_size: 33 µm
     height_px: 82
+  pollen_class:
   shape: ovaal
   sculpture: scabraat/rugulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6091,12 +6434,14 @@ filipendula:
     smallest_size: 15 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat/scabraat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6120,12 +6465,14 @@ filipendula_ulmaria:
     smallest_size: 12 µm
     largest_size: 16 µm
     height_px: 40
+  pollen_class:
   shape: onregelm.
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6178,12 +6525,14 @@ filipendula_vulgaris:
     smallest_size: 16 µm
     largest_size: 16 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6222,12 +6571,14 @@ foeniculum_vulgaris:
     smallest_size: 14 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: ovaal/iets onregelm
   sculpture: scabraat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6263,12 +6614,14 @@ fragaria_vesca:
     smallest_size: 21 µm
     largest_size: 21 µm
     height_px: 52
+  pollen_class:
   shape: ∆
   sculpture: striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6309,12 +6662,14 @@ fragaria_viridis:
     smallest_size: 16 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: Colpusuiteinden afgerond
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6352,12 +6707,14 @@ frangula_alnus:
     smallest_size: 20 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: ∆
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6414,12 +6771,14 @@ fraxinus_ornus:
     smallest_size: 21 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: O/vierkantig
   sculpture: reticulaat
   aperture: 4-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6455,12 +6814,14 @@ fumaria_officinalis:
     smallest_size: 39 µm
     largest_size: 39 µm
     height_px: 98
+  pollen_class:
   shape: □
   sculpture: glad
   aperture: 8-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6496,12 +6857,14 @@ galinsoga_ciliata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6537,12 +6900,14 @@ galium_odoratum:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6579,12 +6944,14 @@ galium_sylvatica:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px: 42
+  pollen_class:
   shape: ongeveer rond
   sculpture: fijn reticulaat
   aperture: 9-colpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6607,12 +6974,14 @@ genista_anglica:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: zeer fijn reticulaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6635,12 +7004,14 @@ geranium_robertianum:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6676,12 +7047,14 @@ geum_rivale:
     smallest_size: 21.1 µm
     largest_size: 26.1 µm
     height_px: 65
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6716,12 +7089,14 @@ geum_urbanum:
     smallest_size: 20 µm
     largest_size: 25.6 µm
     height_px: 64
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6756,12 +7131,14 @@ gilia_capitata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6794,12 +7171,14 @@ gilia_tricolor:
     smallest_size: 45 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: rond
   sculpture: striaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6822,12 +7201,14 @@ gramineae:
     smallest_size: 40 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class:
   shape: rond
   sculpture: glad/scabraat
   aperture: 1-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6851,12 +7232,14 @@ helenium_autumn:
     smallest_size: 20 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6907,12 +7290,14 @@ helianthus_annuus:
     smallest_size: 35 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape: rond
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6959,12 +7344,14 @@ heracleum_sphondylium:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -6988,12 +7375,14 @@ hieracium_aurantiacum:
     smallest_size: 28 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7033,12 +7422,14 @@ hieracium_austriacum:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7075,12 +7466,14 @@ hippophae_rhamnoides:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7117,12 +7510,14 @@ humulus_lupulus:
     smallest_size:
     largest_size:
     height_px: 50
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7170,12 +7565,14 @@ hydrangea_macrophylla:
     smallest_size: 12 µm
     largest_size: 14 µm
     height_px: 35
+  pollen_class:
   shape: ca. O/onregelm
   sculpture: reticulaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7211,12 +7608,14 @@ hydrangea_paniculata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7240,12 +7639,14 @@ hypecoum_procumbens:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7270,10 +7671,11 @@ hypericum_perforatum:
     largest_size: 22 µm
     height_px: 55
   sculpture: fijn reticulaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7312,12 +7714,14 @@ hypericum_polyphyllum:
     smallest_size:
     largest_size:
     height_px: 58
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7340,12 +7744,14 @@ ilex_aquifolium:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7378,12 +7784,14 @@ impatiens_balsamina:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7416,12 +7824,14 @@ iris_pseudacorus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7454,12 +7864,14 @@ juglans_regia:
     smallest_size: 36 µm
     largest_size: 42 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture: Pori vooral op één helft van de pollenkorrel
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7498,12 +7910,14 @@ juncus_jacquinii:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7527,12 +7941,14 @@ juniperus_communis:
     smallest_size: 26 µm
     largest_size: 26 µm
     height_px: 65
+  pollen_class:
   shape: rond
   sculpture: scabraat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7568,12 +7984,14 @@ knautia_arvensis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7609,12 +8027,14 @@ lactuca_sativa:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7647,12 +8067,14 @@ lamium_album:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7688,12 +8110,14 @@ lampsana_communis:
     smallest_size: 25 µm
     largest_size: 28 µm
     height_px: 70
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7716,12 +8140,14 @@ larix_decidua:
     smallest_size: 80 µm
     largest_size: 104 µm
     height_px: 260
+  pollen_class:
   shape: rond
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7744,12 +8170,14 @@ lathyrus_sylvestris:
     smallest_size: 37 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: ovaal
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7772,12 +8200,14 @@ lauris_nobilis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7798,18 +8228,20 @@ lavandula_angustifolia:
   dutch: lavendel
   family:
   size:
-    smallest_size: 38 µm
-    largest_size: 38 µm
-    height_px: 92
+    smallest_size: 37 µm
+    largest_size: 37 µm
+    height_px: 93
+  pollen_class:
   shape: zeskantig
   sculpture: reticulaat
-  aperture: 6-colpaat
-  ornamentation:
+  aperture: meestal 6-colpaat, colpi 8.3 µm breed
+  ornamentation: apertuurmembranen deels korrelig ornamentering
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 6
+    end: 7
   images:
     - path: 
         assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png
@@ -7839,8 +8271,8 @@ lavandula_angustifolia:
         assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_5.png
       kind: by_taxon
       source: by_taxon
-  nectar_value:
-  pollen_value:
+  nectar_value: 5
+  pollen_value: 0
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Lavandula_angustifolia
@@ -7860,12 +8292,14 @@ leontodon_autum:
     smallest_size: 29 µm
     largest_size: 29 µm
     height_px: 72
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7888,12 +8322,14 @@ liguster_vulgare:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7930,12 +8366,14 @@ lilium_regale:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -7966,10 +8404,11 @@ limnanthes_douglasii:
     largest_size: 20 µm
     height_px: 50
   sculpture: scabraat?/striaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8005,12 +8444,14 @@ limonium_vulgare:
     smallest_size: 55 µm
     largest_size: 55 µm
     height_px: 138
+  pollen_class:
   shape: rond
   sculpture: reticulaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8046,12 +8487,14 @@ linaria_cymbalaria:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px: 42
+  pollen_class:
   shape: rond
   sculpture: fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8087,12 +8530,14 @@ linaria_vulgaris:
     smallest_size: 18 µm
     largest_size: 18 µm
     height_px: 45
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: 3-colpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8128,12 +8573,14 @@ linum_usitatissimum:
     smallest_size: 60 µm
     largest_size: 60 µm
     height_px: 150
+  pollen_class:
   shape: ongeveer rond
   sculpture: verrucaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8181,12 +8628,14 @@ liriodendron_tulipifera:
     smallest_size: 57 µm
     largest_size: 57 µm
     height_px: 142
+  pollen_class:
   shape: half ovaal
   sculpture: verrucaat
   aperture: monocolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8222,12 +8671,14 @@ listera_cordata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8251,12 +8702,14 @@ lonicera_caprifolium:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8294,12 +8747,14 @@ lonicera_fragrantissima:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8332,12 +8787,14 @@ lonicera_japonica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8373,12 +8830,14 @@ loranthus_europaeus:
     smallest_size: 26 µm
     largest_size: 26 µm
     height_px: 65
+  pollen_class:
   shape: ∆
   sculpture: scabraat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8401,12 +8860,14 @@ lotus_corniculatus:
     smallest_size: 13 µm
     largest_size: 18 µm
     height_px: 45
+  pollen_class:
   shape: ovaal
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8445,12 +8906,14 @@ lotus_ulginosis:
     smallest_size: 10 µm
     largest_size: 14 µm
     height_px: 35
+  pollen_class:
   shape: ovaal
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8473,12 +8936,14 @@ luzula_sylvatica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8511,12 +8976,14 @@ lychnis_flos-cuculi:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8540,12 +9007,14 @@ lysimachia_vulgaris:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8593,12 +9062,14 @@ lythrum_salicaria:
     smallest_size: 19 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class:
   shape: ongeveer rond
   sculpture: striaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8637,12 +9108,14 @@ magnolia_kobus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8666,18 +9139,20 @@ magnolia_kobus:
       source: by_taxon
 mahonia_aquifolium:
   latin: Mahonia aquifolium
-  dutch:
-  family:
+  dutch: mahonie
+  family: Berberidaceae (Berberisfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px:
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 45 µm
+    largest_size: 45 µm
+    height_px: 113
+  pollen_class:
+  shape: rond, sferoid
+  sculpture: tennisbalpatroon
+  aperture: colpi 3.4-6.3 µm
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8708,22 +9183,24 @@ mahonia_aquifolium:
 malus_domestica:
   latin: Malus domestica
   dutch: appel
-  family:
+  family: Rosaceae (Rozenfamilie)
   size:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
-  shape: ∆
-  sculpture: glad/rugulaat
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
+  pollen_class:
+  shape: driehoekig, gering oblaat tot sferoid
+  sculpture: rugulaat tot striaat oppervlak, met LM lastig herkenbaar
+  aperture: tricolporaat met de randen van de colpi gering rafelig
+  ornamentation: geen
+  polarity: 0.75
+  pe_ratio: 0.19
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 4
+    end: 5
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Malus_domestica
@@ -8757,12 +9234,14 @@ malus_sylvestris:
     smallest_size: 31 µm
     largest_size: 31 µm
     height_px: 78
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8797,12 +9276,14 @@ malva_arborea:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8832,12 +9313,14 @@ mangifera_indica:
     smallest_size: 25 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: ovaal/O
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8873,12 +9356,14 @@ matricaria_chamomilla:
     smallest_size: 26 µm
     largest_size: 26 µm
     height_px: 65
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat A
   aperture: 3-colpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8914,12 +9399,14 @@ matricaria_recutita:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8952,12 +9439,14 @@ medicago_sativa:
     smallest_size: 32 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: rond tot driekantig-ovaal
   sculpture: glad/fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -8993,12 +9482,14 @@ melampyrum_pratense:
     smallest_size:
     largest_size:
     height_px: 52
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9046,12 +9537,14 @@ melilotus_officinalis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9075,12 +9568,14 @@ mercurialis_annua:
     smallest_size: 18 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9116,12 +9611,14 @@ mercurialis_perennis:
     smallest_size: 23 µm
     largest_size: 26 µm
     height_px: 65
+  pollen_class:
   shape: О ⁄ ∆/ovaal
   sculpture: fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9161,12 +9658,14 @@ mespilus_germanica:
     smallest_size: 40 µm
     largest_size: 40 µm
     height_px: 112
+  pollen_class:
   shape:
   sculpture: "Rugulata-microstriaat; sculptuurelementen extreem kort en gevlochten; tectale perforaties mogelijk vaag; colpus lang; PAI 0.1; costae colpi en membrana granulata afwezig; langste as 35.5 µm; exine 2.3 µm"
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9194,12 +9693,14 @@ moneses_uniflora:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9223,12 +9724,14 @@ morus_alba:
     smallest_size: 19 µm
     largest_size: 19 µm
     height_px: 48
+  pollen_class:
   shape: rond
   sculpture: vrijwel glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9259,20 +9762,22 @@ morus_alba:
 myosotis_scorpioides:
   latin: Myosotis scorpioides
   dutch: vergeet-me-nietje
-  family:
+  family: Boraginaceae (Ruwbladigenfamilie)
   size:
     smallest_size: 5 µm
     largest_size: 7 µm
     height_px: 18
-  shape: halter
-  sculpture: glad
-  aperture: 6-colpaat
+  pollen_class:
+  shape: halter, tonvormig bij equator ingesnoerd, prolaat
+  sculpture: psilaat
+  aperture: 6-colpaat, iedere tweede colpus met een porus
   ornamentation:
-  polarity:
+  polarity: hetropolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 5
+    end: 8
   images:
     - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png
       kind: pollenwiki
@@ -9286,8 +9791,8 @@ myosotis_scorpioides:
     - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
       kind: pollenwiki
       source: pollenwiki
-  nectar_value:
-  pollen_value:
+  nectar_value: 1
+  pollen_value: 0
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Myosotis_scorpioides
@@ -9307,12 +9812,14 @@ narcissus_albus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9349,10 +9856,11 @@ nemophila_menziesii:
     largest_size: 17 µm
     height_px: 42
   sculpture: glad
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9375,12 +9883,14 @@ neottia_nidus-avis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9404,12 +9914,14 @@ nicotiana_glauca:
     smallest_size: 27 µm
     largest_size: 29 µm
     height_px: 72
+  pollen_class:
   shape: O-О ⁄ ∆
   sculpture: rugulaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9445,12 +9957,14 @@ nicotiana_tabacum:
     smallest_size: 31 µm
     largest_size: 31 µm
     height_px: 78
+  pollen_class:
   shape: rond
   sculpture: rugulaat
   aperture: 4-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9486,12 +10000,14 @@ nigella_sativa:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9527,12 +10043,14 @@ nuphar_lutea:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: rond
   sculpture: echinaat
   aperture: monocolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9568,12 +10086,14 @@ nymphaea_alba:
     smallest_size: 37 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: ovaal/onregelmatig
   sculpture: ca echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9603,12 +10123,14 @@ oenothera_biennis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9636,12 +10158,14 @@ olea_europaea:
     smallest_size: 22 µm
     largest_size: 22 µm
     height_px: 55
+  pollen_class:
   shape: onregelmatig O
   sculpture: reticulaat (als Bn)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9677,12 +10201,14 @@ onopordum_acanthium:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat S
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9705,12 +10231,14 @@ onosis_spinoza:
     smallest_size: 20 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: ovaal
   sculpture: glad/f.reticuaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9746,12 +10274,14 @@ ornithopus_perpusillus:
     smallest_size: 21 µm
     largest_size: 21 µm
     height_px: 52
+  pollen_class:
   shape: O/ovaal
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9774,12 +10304,14 @@ osmanthus_burkwoodii:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9815,12 +10347,14 @@ papaver_somnoliferum:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9844,12 +10378,14 @@ parnassia_palustris:
     smallest_size: 23 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: iets ovaal
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9879,23 +10415,25 @@ parnassia_palustris:
       source: by_taxon
 passiflora_caerulea:
   latin: Passiflora caerulea
-  dutch:
+  dutch: passieflora
   family:
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
+    smallest_size: 65 µm
+    largest_size: 76 µm
+    height_px: 175
+  pollen_class:
+  shape: rond tot ovaal, sferoid tot gering oblaat
+  sculpture: grof reticulaat, in de brochi zijn vrijstaande columellae als kleine puntjes zichtbaar
+  aperture: "Beug: syncolpaat. Paldat: 3 aperturen, ringvormig verloop"
+  ornamentation: apertuurmembranen korrelig ornamentering
+  polarity: 0.86
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 10
+  nectar_value: 4
+  pollen_value: 4
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Passiflora_caerulea
@@ -9914,12 +10452,14 @@ petasitis_officinalis:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -9936,21 +10476,23 @@ petasitis_officinalis:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 phacelia_tanacetifolia:
   latin: Phacelia tanacetifolia
-  dutch: Phacelia tanacetifolia
-  family:
+  dutch: phacelia, bijenvoer
+  family: Boraginaceae (Ruwbladigenfamilie)
   size:
     smallest_size: 20 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: rond tot rozetvormig, tot gering oblaat
   sculpture: scabraat tot psylaat, aperturen met geringe korrelige ornamentatie
   aperture: stephanocolpaat, afwisselend breed en smal
   ornamentation:
   polarity: isopolair
   pe_ratio: ca. 0.81
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 5
+    end: 9
   images:
     - path: assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_1.png
       kind: pollenwiki
@@ -9964,8 +10506,8 @@ phacelia_tanacetifolia:
     - path: assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_4.png
       kind: pollenwiki
       source: pollenwiki
-  nectar_value:
-  pollen_value:
+  nectar_value: 5
+  pollen_value: 5
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Phacelia_tanacetifolia
@@ -9988,12 +10530,14 @@ phaseolus_coccineus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10035,12 +10579,14 @@ philadelphus_coronarius:
     smallest_size: 14 µm
     largest_size: 16 µm
     height_px: 40
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: zeer fijn reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10082,18 +10628,20 @@ philadelphus_coronarius:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 phlox_paniculata:
   latin: Phlox Paniculata
-  dutch:
-  family:
+  dutch: vlambloem
+  family: Polemoniaceae (vlambloemfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
+    smallest_size: 32 µm
+    largest_size: 52 µm
+    height_px: 105
+  pollen_class:
+  shape: rond, sferoid
+  sculpture: reticulaat, baculaat
+  aperture: 3.8 µm, altijd meer dan 6 pori, poriafstand 12 µm, pantoaperturaat (aperturen verspreid)
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10126,12 +10674,14 @@ photinia_fraseri:
     smallest_size:
     largest_size:
     height_px: 75
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10161,23 +10711,25 @@ photinia_fraseri:
       source: by_taxon
 picea_omorika:
   latin: Picea omorika
-  dutch:
-  family:
+  dutch: Servische spar
+  family: Pinaceae (Sparfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
+    smallest_size: 77
+    largest_size: 111
+    height_px: 233
+  pollen_class:
+  shape: luchtzakken tot maximaal half kogelvormig
+  sculpture: reticulaat tot rugulaat
   aperture:
-  ornamentation:
+  ornamentation: verrucate ornamenten
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
-  nectar_value:
-  pollen_value:
+  nectar_value: 
+  pollen_value: secundaire inbreng
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Picea_omorika
@@ -10205,12 +10757,14 @@ helminthotheca_echioides:
     smallest_size: 32 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10233,12 +10787,14 @@ picris_echioides:
     smallest_size: 31 µm
     largest_size: 31 µm
     height_px: 78
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10258,20 +10814,22 @@ pinus_nigra:
   dutch: zwarte den
   family:
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
+    smallest_size: 56 µm
+    largest_size: 71 µm
+    height_px: 159
+  pollen_class:
+  shape: luchtzakken meer dan half kogelvormig
   sculpture:
   aperture:
-  ornamentation:
+  ornamentation: reticulate ornamentering van de luchtzakken
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
   nectar_value:
-  pollen_value:
+  pollen_value: secundaire inbreng
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Pinus_nigra
@@ -10297,22 +10855,24 @@ pinus_nigra:
 pinus_sylvestris:
   latin: Pinus sylvestris
   dutch: grove den
-  family:
+  family: Pinaceae (Sparfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
+    smallest_size: 65 µm
+    largest_size: 65 µm
+    height_px: 163
+  pollen_class:
+  shape: luchtzakken meer dan half kogelvormig, kogelradius ca 15 µm
+  sculpture: 
   aperture:
-  ornamentation:
+  ornamentation: luchtzakken reticulaat
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
   nectar_value:
-  pollen_value:
+  pollen_value: secundaire inbreng
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Pinus_sylvestris
@@ -10335,12 +10895,14 @@ pisum_sativum:
     smallest_size: 32 µm
     largest_size: 48 µm
     height_px: 120
+  pollen_class:
   shape:
   sculpture: reticulaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10379,12 +10941,14 @@ plantago_lanceolata:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10417,12 +10981,14 @@ platanus_hispanica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10471,12 +11037,14 @@ polemonium_caeruleum:
     smallest_size: 45 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: ongeveer rond
   sculpture: striaat,
   aperture: 60-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10516,12 +11084,14 @@ populus_nigra:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10557,12 +11127,14 @@ portulacca_oleacera:
     smallest_size: 80 µm
     largest_size: 80 µm
     height_px: 200
+  pollen_class:
   shape: rond
   sculpture: verrucaat/scabraat/
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10585,12 +11157,14 @@ potentilla_anserina:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10628,12 +11202,14 @@ potentilla_crantzii:
     smallest_size: 24.8 µm
     largest_size: 27.2 µm
     height_px: 68
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10655,12 +11231,14 @@ potentilla_erecta:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10684,12 +11262,14 @@ primula_vulgaris:
     smallest_size: 18 µm
     largest_size: 19 µm
     height_px: 48
+  pollen_class:
   shape: rond
   sculpture: reticulaat
   aperture: 8-colpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10725,12 +11305,14 @@ prunus_avium:
     smallest_size: 37 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class:
   shape: ∆
   sculpture: striaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10768,12 +11350,14 @@ prunus_laurocerasus:
     smallest_size: 40 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10809,12 +11393,14 @@ prunus_padus:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad/zw.striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10852,12 +11438,14 @@ prunus_serotina:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10880,12 +11468,14 @@ prunus_spinosa:
     smallest_size: 39.1 µm
     largest_size: 42.6 µm
     height_px: 106
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10923,12 +11513,14 @@ punica_granatum:
     smallest_size: 21 µm
     largest_size: 21 µm
     height_px: 52
+  pollen_class:
   shape: O tot ovaal
   sculpture: glad/scabraat/
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10964,12 +11556,14 @@ pyracantha_coccinea:
     smallest_size: 23 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat (?)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -10992,12 +11586,14 @@ quercus_robor:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11030,12 +11626,14 @@ ranunculus_acris:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11065,12 +11663,14 @@ raphanus_raphanistrum:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11106,12 +11706,14 @@ reseda_lutea:
     smallest_size: 22 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: fijn reticulaat (<Bn)
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11147,12 +11749,14 @@ rhododendron_ponticum:
     smallest_size: 36 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class:
   shape: tetrade
   sculpture: verrucaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11196,12 +11800,14 @@ rhus_chinensis:
     smallest_size: 24 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat (<Bn)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11224,12 +11830,14 @@ ribes_rubrum:
     smallest_size: 25 µm
     largest_size: 33 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture: Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11256,12 +11864,14 @@ ribes_sanguineum:
     smallest_size: 33 µm
     largest_size: 33 µm
     height_px: 82
+  pollen_class:
   shape: rond
   sculpture: glad
   aperture: 8-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11297,12 +11907,14 @@ robinia_pseudoacacia:
     smallest_size: 30 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: driehoekig tot rond, sferoid tot optisch gering oblaat
   sculpture: scabraat, aperturen zonder ornamentatie
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation:
   polarity: isopolair
   pe_ratio: '0.89'
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11352,12 +11964,14 @@ rosa_canina:
     smallest_size: 30.4 µm
     largest_size: 36.4 µm
     height_px: 91
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11394,12 +12008,14 @@ rosa_pimpinellifolia:
     smallest_size: 31 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11440,12 +12056,14 @@ rosa_rubiginosa:
     smallest_size: 26 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11482,12 +12100,14 @@ rosa_spinosissima:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11511,12 +12131,14 @@ rosmarinus_officinalis:
     smallest_size: 36 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11547,12 +12169,14 @@ rubus_arcticus:
     smallest_size: 10 µm
     largest_size: 25 µm
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture: Colpusmembraan met veel grote granula; colpus zonder insnoering; porie nooit aanwezig
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11574,12 +12198,14 @@ rubus_chamaemorus:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture: Clavaat-bacillaat-echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11604,12 +12230,14 @@ rubus_fructicosus:
     smallest_size: 21 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: О ⁄ ∆ Prunus bouw
   sculpture: striaat/f reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11651,12 +12279,14 @@ rubus_fruticosus:
     smallest_size: 28.6 µm
     largest_size: 36.9 µm
     height_px: 92
+  pollen_class:
   shape: driehoekig tot vierhoekig, sferoid tot optisch gering oblaat
   sculpture: rugulaat, aperturen met gedeeltelijke korrelige ornamentatie
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation:
   polarity: isopolair
   pe_ratio: '0.88'
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11694,12 +12324,14 @@ rubus_idaeus:
     smallest_size: 25 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: О ⁄ ∆ Prunus bouw
   sculpture: striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11750,12 +12382,14 @@ rubus_saxatilis:
     smallest_size: 26 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11790,12 +12424,14 @@ rumex_obtusifolius:
     smallest_size: 24 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class:
   shape: rond
   sculpture: reliëf
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11843,12 +12479,14 @@ ruta_graveolens:
     smallest_size: 27 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape: ovaal, spits naar de top
   sculpture: rugulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11884,12 +12522,14 @@ salix_alba_var_tristis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11928,12 +12568,14 @@ salix_caprea:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -11975,12 +12617,14 @@ sambucus_ebulus:
     smallest_size: 18 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12016,12 +12660,14 @@ sambucus_nigra:
     smallest_size: 18 µm
     largest_size: 18 µm
     height_px: 45
+  pollen_class:
   shape: ongeveer rond
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12063,12 +12709,14 @@ sanguisorba_minor:
     smallest_size: 30 µm
     largest_size: 32 µm
     height_px: 80
+  pollen_class:
   shape: rond
   sculpture: striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12109,12 +12757,14 @@ sanguisorba_officinalis:
     smallest_size: 28.4 µm
     largest_size: 32.2 µm
     height_px: 80
+  pollen_class:
   shape:
   sculpture: "Psilaat-scabraat; operculum extreem breed (zo breed als het intercolpium); indruk van hexacolpaat; langste as 29.8 µm"
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12156,12 +12806,14 @@ jasione_montana:
     smallest_size: 22 µm
     largest_size: 22 µm
     height_px: 55
+  pollen_class:
   shape: rond
   sculpture: echinaat
   aperture: 3-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12184,12 +12836,14 @@ xanthoceras_sorbifolium:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: ∆
   sculpture: psilaat/f reticulaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12212,12 +12866,14 @@ saxifraga_rotundifolia:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12254,12 +12910,14 @@ scabiosa_columbar:
     smallest_size: 70 µm
     largest_size: 70 µm
     height_px: 175
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12295,12 +12953,14 @@ scilla_nonscripta:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class:
   shape: ca ovaal
   sculpture: reticulaat
   aperture: monocolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12339,12 +12999,14 @@ scirpus_sylvaticus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12368,12 +13030,14 @@ sedum_acre:
     smallest_size: 18 µm
     largest_size: 20 µm
     height_px: 50
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: rugulaat/zw striaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12396,12 +13060,14 @@ sedum_sieboldii:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12445,12 +13111,14 @@ senecio_cineraria:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12486,12 +13154,14 @@ senecio_inaequalis:
     smallest_size: 25 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: ca. O
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12514,12 +13184,14 @@ senecio_jacobaea:
     smallest_size: 27 µm
     largest_size: 30 µm
     height_px: 75
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12555,12 +13227,14 @@ serrulata_tinctoria:
     smallest_size: 49 µm
     largest_size: 49 µm
     height_px: 122
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat S
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12583,12 +13257,14 @@ sibbaldia_procumbens:
     smallest_size: 21 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape:
   sculpture:
   aperture: "Vallae zelden parallel; operculum extreem smal; porie altijd duidelijk; langste as 24 µm"
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12625,17 +13301,19 @@ sibbaldia_procumbens:
 silene_cucubalis:
   latin: Silene cucubalis
   dutch: blaassilene
-  family:
+  family: Caryophyllaceae (anjerfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px:
-  shape:
-  sculpture:
-  aperture: Minder dan 50 pori, tectum met perforaties
-  ornamentation:
-  polarity:
+    smallest_size: 51 µm
+    largest_size: 51 µm
+    height_px: 128
+  pollen_class:
+  shape: rond, sferoid
+  sculpture: clavaat tot baculaat
+  aperture: pantoaperturaat, periporaat, minder dan 50 pori, porenradius 3.8 µm
+  ornamentation: apertuurmembranen zijn geornamenteerd echinaat/operculaat
+  polarity: isopolair
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12668,12 +13346,14 @@ sinapis_arvensis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12706,12 +13386,14 @@ skimmia_japonica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12750,12 +13432,14 @@ solanum_dulcamara:
     smallest_size: 12 µm
     largest_size: 12 µm
     height_px: 30
+  pollen_class:
   shape: rond
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12794,12 +13478,14 @@ solanum_lycopersicum:
     smallest_size:
     largest_size:
     height_px: 50
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12836,10 +13522,11 @@ solanum_tuberosum:
     largest_size: 25 µm
     height_px: 62
   sculpture: glad
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12862,12 +13549,14 @@ solidago_virgaurea:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12905,12 +13594,14 @@ sonchus_arvensis:
     smallest_size: 40 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12946,12 +13637,14 @@ sophora_japonica:
     smallest_size: 15 µm
     largest_size: 18 µm
     height_px: 45
+  pollen_class:
   shape: О ⁄ ∆/iets ovaal
   sculpture: 3-4-colporaat, omtrek soms
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -12987,12 +13680,14 @@ sorbus_arranensis:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13027,12 +13722,14 @@ sorbus_aucuparia:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13067,12 +13764,14 @@ spiraea_japonica:
     smallest_size: 12.5 µm
     largest_size: 12.5 µm
     height_px: 31
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13108,12 +13807,14 @@ spirea_x_vanhouttei:
     smallest_size: 17 µm
     largest_size: 17 µm
     height_px: 42
+  pollen_class:
   shape: ongeveer rond
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13136,12 +13837,14 @@ staphylea_pinnata:
     smallest_size: 45 µm
     largest_size: 45 µm
     height_px: 112
+  pollen_class:
   shape: Ο/∆/□
   sculpture: reticulaat
   aperture: 4-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13183,12 +13886,14 @@ succisa_pratensis:
     smallest_size: 80 µm
     largest_size: 80 µm
     height_px: 200
+  pollen_class:
   shape: rond
   sculpture: striaat/echinaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13224,12 +13929,14 @@ sulla_coronaria:
     smallest_size: 24 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class:
   shape: ovaal
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13265,12 +13972,14 @@ sylibum_marianum:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat S
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13293,12 +14002,14 @@ symphoricarpos_albus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13332,10 +14043,11 @@ symphytum_officinale:
     largest_size: 33 µm
     height_px: 82
   sculpture: glad/ruw opp.
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13371,12 +14083,14 @@ tagetes_erecta:
     smallest_size: 34 µm
     largest_size: 34 µm
     height_px: 85
+  pollen_class:
   shape: rond
   sculpture: echinaat H
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13399,12 +14113,14 @@ tamarix_gallica:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13446,18 +14162,20 @@ tamarix_gallica:
       source: pollenwiki
 taraxacum_officinale:
   latin: Taraxacum officinale
-  dutch:
-  family:
+  dutch: paardenbloem
+  family: Asteraceae (composietenfamilie)
   size:
     smallest_size: 28 µm
     largest_size: 28 µm
     height_px: 70
+  pollen_class:
   shape: rond tot driehoekig, sferoid
   sculpture: fenestraat, echinaat
   aperture: tricolpaat, 3-4 slecht zichtbare aperturen
   ornamentation:
   polarity: isopolair
   pe_ratio: '0.89'
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13504,12 +14222,14 @@ taxus_baccata:
     smallest_size: 25 µm
     largest_size: 29 µm
     height_px: 72
+  pollen_class:
   shape: onregelmatig O
   sculpture: scabraat
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13545,12 +14265,14 @@ tetradium_daniellii:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13573,12 +14295,14 @@ teucrium_chamaedrys:
     smallest_size: 29 µm
     largest_size: 33 µm
     height_px: 82
+  pollen_class:
   shape: ovaal
   sculpture: scabraat/ f reticul?
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13614,12 +14338,14 @@ thalictrum_flavum:
     smallest_size:
     largest_size:
     height_px: 50
+  pollen_class:
   shape:
   sculpture:
   aperture: Vier tot twaalf pori, pori zonder massieve rand
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13649,12 +14375,14 @@ theobroma_cacao:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13692,12 +14420,14 @@ thesium_alpinum:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13721,12 +14451,14 @@ thuja_occidentalis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13750,12 +14482,14 @@ thymus_vulgaris:
     smallest_size: 36 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13787,12 +14521,14 @@ tilia_platyphyllos:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13826,12 +14562,14 @@ tordylium_apulum:
     smallest_size: 17 µm
     largest_size: 36 µm
     height_px: 90
+  pollen_class:
   shape: ovaal
   sculpture: scabraat/rugulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13854,12 +14592,14 @@ tragopogon_pratensis:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13895,12 +14635,14 @@ trifolium_incarnatum:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: ovaal
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13923,12 +14665,14 @@ trifolium_pratense:
     smallest_size: 35.9 µm
     largest_size: 41.5 µm
     height_px: 104
+  pollen_class:
   shape: gering driehoekig convex
   sculpture: grof reticulair
   aperture: tricolporaat
   ornamentation:
   polarity: isopolair
   pe_ratio: ca. 1.07
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -13960,12 +14704,14 @@ trifolium_repens:
     smallest_size: 21 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: gering driehoekig convex sferoid
   sculpture: fijn reticulaat
   aperture: tricolportaal
   ornamentation:
   polarity: isopolair
   pe_ratio: 0.96; 0.93-1.05
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14000,12 +14746,14 @@ tulipa_cultivars:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14041,12 +14789,14 @@ tussilago_farfara:
     smallest_size: 32 µm
     largest_size: 32 µm
     height_px: 80
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat H?
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14069,12 +14819,14 @@ ulex_europaeus:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14104,18 +14856,20 @@ ulex_europaeus:
       source: by_taxon
 urtica_dioica:
   latin: Urtica dioica
-  dutch:
-  family:
+  dutch: grote brandnetel
+  family: Urticaceae (Brandnetelfamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px: 112
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
+    smallest_size: 15 µm
+    largest_size: 16 µm
+    height_px: 40
+  pollen_class:
+  shape: rond tot elliptisch, sferoid
+  sculpture: psilaat
+  aperture: kleine pori ca 2,1 µm met anulus
+  ornamentation: deels met operculum-achtige ornamentering
+  polarity: 0.90
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14153,12 +14907,14 @@ vaccinium_corymbosum:
     smallest_size: 37 µm
     largest_size: 42 µm
     height_px: 105
+  pollen_class:
   shape: tetrade
   sculpture: glad
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14181,12 +14937,14 @@ vaccinium_myrtillus:
     smallest_size: 40 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: tetrade
   sculpture: verrucaat wsl
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14209,12 +14967,14 @@ vaccinium_vitis_idaea:
     smallest_size: 33 µm
     largest_size: 35 µm
     height_px: 88
+  pollen_class:
   shape: tetrade
   sculpture: glad
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14244,21 +15004,23 @@ vaccinium_vitis_idaea:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 valeriana_officinalis:
   latin: Valeriana officinalis
-  dutch: Valeriana officinalis
-  family:
+  dutch: echte valeriaan
+  family: Caprifoliaceae (kamperfoeliefamilie)
   size:
-    smallest_size:
-    largest_size:
-    height_px:
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
+    smallest_size: 40 µm
+    largest_size: 51 µm
+    height_px: 113
+  pollen_class:
+  shape: rond tot gering driehoekig
+  sculpture: echinaat op scabraat/rugulaat oppervlak
+  aperture: tricolpaat, brede colpi
+  ornamentation: apertuurmembranen korrelig ornamentering
+  polarity: 0.71
+  pe_ratio: 0.42
+  pollen-note:
   bloeitijd:
-    start:
-    end:
+    start: 6
+    end: 7
   images:
     - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_1.png
       kind: by_taxon
@@ -14272,8 +15034,8 @@ valeriana_officinalis:
     - path: assets/images/by-taxon/valeriana_officinalis/valeriana_officinalis_4.png
       kind: by_taxon
       source: by_taxon
-  nectar_value:
-  pollen_value:
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Valeriana_officinalis
@@ -14291,12 +15053,14 @@ magnolia_grandiflora:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14319,12 +15083,14 @@ verbascum_nigrum:
     smallest_size: 20 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14375,12 +15141,14 @@ verbena_officinalis:
     smallest_size: 27 µm
     largest_size: 27 µm
     height_px: 68
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14428,12 +15196,14 @@ veronica_gentianoides:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14469,12 +15239,14 @@ viburnum_opulus:
     smallest_size: 23 µm
     largest_size: 25 µm
     height_px: 62
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: reticulaat(als Sinap)
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14510,12 +15282,14 @@ vicia_cracca:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14551,12 +15325,14 @@ vicia_faba:
     smallest_size: 47 µm
     largest_size: 47 µm
     height_px: 118
+  pollen_class:
   shape: ovaal
   sculpture: reticulaat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14592,12 +15368,14 @@ vinca_sp:
     smallest_size: 80 µm
     largest_size: 80 µm
     height_px: 200
+  pollen_class:
   shape: rond
   sculpture: glad
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14620,12 +15398,14 @@ viola_tricolor:
     smallest_size: 70 µm
     largest_size: 70 µm
     height_px: 175
+  pollen_class:
   shape: 4-5-hoekig
   sculpture: glad
   aperture: 5-colporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14661,12 +15441,14 @@ viscum_album:
     smallest_size: 43 µm
     largest_size: 43 µm
     height_px: 108
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: echinaat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14689,12 +15471,14 @@ vitis_vinifera:
     smallest_size: 22 µm
     largest_size: 22 µm
     height_px: 55
+  pollen_class:
   shape: rond tot driekantig, afhankelijk van de ligging
   sculpture: glad/scabraat
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14733,12 +15517,14 @@ weigela_florida:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14771,12 +15557,14 @@ weigelia_diervilla_pollenwiki:
     smallest_size:
     largest_size:
     height_px: 112
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14799,12 +15587,14 @@ xanthium_italicum:
     smallest_size: 23 µm
     largest_size: 23 µm
     height_px: 58
+  pollen_class:
   shape: rond
   sculpture: scabraat
   aperture: tricolpaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14827,12 +15617,14 @@ xanthium_strumarium:
     smallest_size:
     largest_size:
     height_px:
+  pollen_class:
   shape:
   sculpture:
   aperture:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14865,12 +15657,14 @@ zea_mays:
     smallest_size: 80 µm
     largest_size: 80 µm
     height_px: 200
+  pollen_class:
   shape: rond
   sculpture: glad
   aperture: 1-poraat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:
@@ -14900,12 +15694,14 @@ crepis_biennis:
     smallest_size: 22 µm
     largest_size: 36 µm
     height_px: 90
+  pollen_class:
   shape: drie-/zeskantig
   sculpture: echinaat T
   aperture: tricolporaat
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
     start:
     end:

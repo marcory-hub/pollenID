@@ -4,7 +4,6 @@
     "title": "33.8 Caryophyllaceae p.p. (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 11,
     "start": "1"
   },
@@ -13,880 +12,176 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "annulus (1,)1,2-4 µm breit, fein scabraat, microechinaat en microreticulat of met Tectum perforatum, PK meestal 8eckig en met 12 Poriën.",
-          "next": "2",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "Anulus (1,)1,2–4 µm breed, fijn scabraat, microechinaat en microreticulaat of met perforaat tectum, PK meestal 8-hoekig met 12 poriën.",
+          "next": "2"
         },
         {
-          "label": "annulus 0,6-1,0 µm breit, Indien tot 1,1 µm breit, PK niet 8eckig en met mehr als 12 Poriën, Anuli glad of Poriën zonder annulus.",
-          "next": "4",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "Anulus 0,6–1,0 µm breed; indien tot 1,1 µm breed, PK niet 8-hoekig met meer dan 12 poriën; anuli glad of poriën zonder anulus.",
+          "next": "4"
         }
       ]
     },
     "2": {
       "id": "2",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "Anuli 1,2-2,0 µm breit, fein scabraat (Indien in intrareticulum of intramicroreticulum, vgl. Alisma-Gruppe, Blz. 464) (Tafel 110: 1-6).",
-          "next": null,
+          "label": "Anuli 1,2–2,0 µm breed, fijn scabraat (bij intrareticulum of intramicroreticulum, vgl. Alisma-groep, biz. 464) (tabel 110: 1–6).",
           "id": {
-            "name": "33.8.1 Gypsophila repens-type (Blz. 469)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.1 Gypsophila repens-type (Blz. 469)"
+          }
         },
         {
-          "label": "Anuli 2-4 µm breit, microreticulat of met deutlichem Tectum perforatum, met 0,6-1,0 µm breed glatten Innenring.",
-          "next": "3",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "Anuli 2–4 µm breed, microreticulaat of met duidelijk perforaat tectum, met 0,6–1,0 µm brede gladde binnenring.",
+          "next": "3"
         }
       ]
     },
     "3": {
       "id": "3",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "columella's an der schmalsten Stelle der Interporen nur 1-2 reihig, columella's tot 2,0(2,5) µm dik (Tafel 110: 7-10).",
-          "next": null,
+          "label": "Columellae op het smalste gedeelte van de interporiesleuf slechts 1–2 rijen, columellae tot 2,0 (2,5) µm dik (tabel 110: 7–10).",
           "id": {
-            "name": "33.8.2 Scleranthus (Blz. 470)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.2 Scleranthus (Blz. 470)"
+          }
         },
         {
-          "label": "columella's an der schmalsten Stelle der Interporen mehr als zweireihig, PK microreticulat en microechinaat, columella's 1,0-1,2 µm dik (Tafel 110: 11-16).",
-          "next": null,
+          "label": "Columellae op het smalste gedeelte van de interporiesleuf meer dan tweerijig; PK microreticulaat en microechinaat; columellae 1,0–1,2 µm dik (tabel 110: 11–16).",
           "id": {
-            "name": "33.8.3 Stellaria holostea (Blz. 470)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.3 Stellaria holostea (Blz. 470)"
+          }
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "Poriën zonder annulus.",
-          "next": "5",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "5"
         },
         {
           "label": "Poriën met annulus.",
-          "next": "6",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "next": "6"
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "Zahl der Perforationen of microbrochi duidelijk größer als die Zahl der columella's (Tafel 110: 17-20).",
-          "next": null,
+          "label": "Aantal perforaties respectievelijk microbrochi duidelijk groter dan het aantal columellae (tabel 110: 17–20).",
           "id": {
-            "name": "33.8.5 Cerastium-type (Blz. 472)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.5 Cerastium-type (Blz. 472)"
+          }
         },
         {
-          "label": "Zahl der Perforationen, Mircobrochi, bzw. Brochi of netmazingen in der columella-laag etwa so wie die Zahl der columella's of duidelijk kleiner.",
-          "next": "6",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "Aantal perforaties, microbrochi respectievelijk brochi of networmen in de columella-laag ongeveer gelijk aan het aantal columellae of duidelijk kleiner.",
+          "next": "6"
         }
       ]
     },
     "6": {
       "id": "6",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK reticulaat, Brochi 1,5-4,0 µm groot (Tafel 110: 21-22).",
-          "next": null,
+          "label": "PK reticulaat; brochi 1,5–4,0 µm groot (tabel 110: 21–22).",
           "id": {
-            "name": "33.8.6 Melandrium (Blz. 474)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.6 Melandrium (Blz. 474)"
+          }
         },
         {
-          "label": "PK met Tectum perforatum of microreticulat.",
-          "next": "7",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "PK met perforaat tectum of microreticulaat.",
+          "next": "7"
         }
       ]
     },
     "7": {
       "id": "7",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK microreticulat: Lumina regelmäßig angeordnet, afstanden der Lumina so groot wie ihr Diameter of nur wenig größer; Indien Brochi duidelijk over 1,0 µm (*Honkeya* max. 1,8 µm), dan Poriën kleiner als bei *Melandrium* (Tafel 111: 1-4).",
-          "next": null,
+          "label": "PK microreticulaat: lumina regelmatig gerangschikt; afstand tussen lumina zo groot als hun diameter of nauwelijks groter; bij brochi duidelijk boven 1,0 µm (*Honckenya* max. 1,8 µm) zijn poriën kleiner dan bij *Melandrium* (tabel 111: 1–4).",
           "id": {
-            "name": "33.8.7 Minuartia verna-type (Blz. 474)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.7 Minuartia verna-type (Blz. 474)"
+          }
         },
         {
-          "label": "PK met Tectum perforatum.",
-          "next": "8",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "PK met perforaat tectum.",
+          "next": "8"
         }
       ]
     },
     "8": {
       "id": "8",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK größer als 54 µm, met 30-40 Poriën (Tafel 111: 5-10).",
-          "next": null,
+          "label": "PK groter dan 54 µm met 30–40 poriën (tabel 111: 5–10).",
           "id": {
-            "name": "33.8.8 Agrostemma githago (Blz. 476)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.8 Agrostemma githago (Blz. 476)"
+          }
         },
         {
-          "label": "PK met weniger als 30 Poriën.",
-          "next": "9",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "PK met minder dan 30 poriën.",
+          "next": "9"
         }
       ]
     },
     "9": {
       "id": "9",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "columella's duidelijk netzig gestellt, met je einer Perforation in der Mitte der Endobrochi, netmazingen im Allgemeinen 2-3(5) µm groot.",
-          "next": "10",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "Columellae duidelijk netvormig gerangschikt met telkens een perforatie in het midden van de endobrochi; networmen doorgaans 2–3 (5) µm groot.",
+          "next": "10"
         },
         {
-          "label": "columella's niet of nur onduidelijk netzig gestellt, Perforationen nur over de größeren Lücken zwischen de columella's (Tafel 111: 11-13).",
-          "next": null,
+          "label": "Columellae niet of nauwelijks netvormig gerangschikt; perforaties alleen over de grotere openingen tussen de columellae (tabel 111: 11–13).",
           "id": {
-            "name": "33.8.9 Silene-type (Blz. 476)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.9 Silene-type (Blz. 476)"
+          }
         }
       ]
     },
     "10": {
       "id": "10",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK 38-48 µm groot, In omtrek 8eckig, met 20-26 Poriën (Tafel 112: 1-5).",
-          "next": null,
+          "label": "PK 38–48 µm groot; in omtrek 8-hoekig met 20–26 poriën (tabel 112: 1–5).",
           "id": {
-            "name": "33.8.10 Petrorhagia prolifera (Blz. 480)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.10 Petrorhagia prolifera (Blz. 480)"
+          }
         },
         {
-          "label": "PK met weniger als 20 Poriën, In omtrek rundlich.",
-          "next": "11",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+          "label": "PK met minder dan 20 poriën; in omtrek rond.",
+          "next": "11"
         }
       ]
     },
     "11": {
       "id": "11",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "Opercula kroonvormig of met verdikte, gesloten of onderbroken rand, PK 35-67 µm groot, met 8-19 Poriën (Tafel 112: 6-12).",
-          "next": null,
+          "label": "Opercula kroonvormig of met verdikte gesloten of onderbroken rand; PK 35–67 µm groot met 8–19 poriën (tabel 112: 6–12).",
           "id": {
-            "name": "33.8.11 Dianthus (Blz. 480)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.11 Dianthus (Blz. 480)"
+          }
         },
         {
-          "label": "Opercula körnig bezet, PK 42-49 µm groot, met 12-14 Poriën (Tafel 113: 1-2).",
-          "next": null,
+          "label": "Opercula korrelig bedekt; PK 42–49 µm groot met 12–14 poriën (tabel 113: 1–2).",
           "id": {
-            "name": "33.8.12 Vaccaria hispanica (Blz. 482)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.8.12 Vaccaria hispanica (Blz. 482)"
+          }
         }
       ]
     }

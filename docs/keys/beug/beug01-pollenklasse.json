@@ -4,7 +4,6 @@
     "title": "1. Pollenklasse (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "status: bezig met images linken",
     "stepCount": 20,
     "start": "1"
   },
@@ -13,98 +12,40 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "Pollenkorrels (PK) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).",
+          "label": "Pollenkorrels (pollenkorrel) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).",
           "next": "2",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
-              "imageHeightPx": 20
-            },
-            {
-              "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
-              "imageHeightPx": 20
-            },
-            {
-              "image": "../../assets/images/by-taxon/acacia_dealbata/acacia_dealbata_1.png",
-              "imageHeightPx": 20
-            }
+          "pollen_keys": [
+            "agave_striata",
+            "calluna_vulgaris",
+            "acacia_dealbata"
           ]
         },
         {
-          "label": "PK enkelvoudig (monade).",
+          "label": "pollenkorrel enkelvoudig (monade).",
           "next": "4",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/echium_vulgare/echium_vulgare_1.png",
-              "imageHeightPx": 20
-            }
-          ]
+          "pollen_key": "brassica_napus"
         }
       ]
     },
     "2": {
       "id": "2",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met velen tezamen.",
-          "next": null,
+          "label": "pollenkorrel met velen tezamen.",
           "id": {
             "name": "[Polyadeae](beug03-polyadeae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/acacia_dealbata/acacia_dealbata_1.png",
-                "imageHeightPx": 20
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "pollen_key": "acacia_dealbata"
+          }
         },
         {
-          "label": "PK per vier of per twee verenigd.",
+          "label": "pollenkorrel per vier of per twee verenigd.",
           "next": "3",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
-              "imageHeightPx": 20
-            },
-            {
-              "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
-              "imageHeightPx": 20
-            }
+          "pollen_keys": [
+            "acacia_dealbata",
+            "calluna_vulgaris"
           ]
         }
       ]
@@ -112,788 +53,226 @@
     "3": {
       "id": "3",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK per vier verenigd.",
-          "next": null,
+          "label": "pollenkorrel per vier verenigd.",
           "id": {
             "name": "[Tetradeae](beug04-tetradeae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "calluna_vulgaris",
+              "erica_tetralix"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK per twee verenigd.",
-          "next": null,
+          "label": "pollenkorrel per twee verenigd.",
           "id": {
             "name": "[Dyadeae](beug02-dyadeae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/agave_striata/agave_striata_1.png",
-                "imageHeightPx": 20
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "pollen_keys": "acacia_dealbata"
+          }
         }
       ]
     },
     "4": {
       "id": "4",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
-          "next": null,
+          "label": "Pollenkorrel met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
           "id": {
-            "name": "[Vesiculatae](beug05-vesiculatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/pinus_nigra/pinus_nigra_1.png",
-                "imageHeightPx": 20
-              }
+            "name": "[Vesiculatae](beug05-vesiculatae.md). Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)",
+            "pollen_keys": [
+              "pinus_sylvestris",
+              "pinus_nigra",
+              "picea_omorika"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK zonder luchtzakken.",
-          "next": "5",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel zonder luchtzakken.",
+          "next": "5"
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK zonder poriën of colpi, deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: *Ephedra* (zeedruif) en *Welwitschia mirabilis* (tweeblaarkanniedood)).",
-          "next": null,
+          "label": "Pollenkorrel zonder aperturen (pori of colpi), deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: *Ephedra* (zeedruif, niet inheemse heester) en *Welwitschia mirabilis* (tweeblaarkanniedood)).",
           "id": {
             "name": "Inaperturatae (1), Polyplicatae (2)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/crocus_tommasinianus/crocus_tommasinianus_1.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "ephedra_spinosa",
+              "welwitschia_mirabilis"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK met poriën en/of colpi.",
-          "next": "6",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel met pori en/of colpi.",
+          "next": "6"
         }
       ]
     },
     "6": {
       "id": "6",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met ronde of hoekige zones (lacunae) waarin de extexine ontbreekt en die door ribben zijn omzoomd.",
-          "next": null,
+          "label": "Pollenkorrel met ronde of hoekige zones (lacunae, vensters) waarin de extexine ontbreekt en die door ribben zijn omzoomd. Vooral bekend van de vele vertegenwoordigers van de Composietenfamilie (Asteraceae)",
           "id": {
             "name": "[Fenestratae](beug06-fenestratae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png",
-                "imageHeightPx": 20
-              },
-              {
-                "image": "../../assets/images/by-taxon/cichorium_intybus/cichorium_intybus_3.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "taraxacum_officinale",
+              "cichorium_intybus"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK zonder dergelijke lacunae.",
-          "next": "7",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel zonder dergelijke lacunae.",
+          "next": "7"
         }
       ]
     },
     "7": {
       "id": "7",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 1 porie of 1 colpus.",
+          "label": "Pollenkorrel met 1 porus of 1 colpus.",
           "next": "8",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/zea_mays/zea_mays_1.png",
-              "imageHeightPx": 20
-            },
-            {
-              "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_3.png",
-              "imageHeightPx": 20
-            }
+          "pollen_keys": [
+            "zea_mays",
+            "allium_schoenoprasum"
           ]
         },
         {
-          "label": "PK met meer dan 1 porie en/of meer dan 1 colpus.",
-          "next": "9",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel met meer dan 1 pori en/of meer dan 1 colpus.",
+          "next": "9"
         }
       ]
     },
     "8": {
       "id": "8",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 1 porie.",
-          "next": null,
+          "label": "Pollenkorrel met 1 porus.",
           "id": {
             "name": "[Monoporatae](beug08-monoporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/zea_mays/zea_mays_1.png",
-                "imageHeightPx": 20
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "pollen_key": "zea_mays"
+          }
         },
         {
-          "label": "PK met 1 colpus.",
-          "next": null,
+          "label": "Pollenkorrel met 1 colpus.",
           "id": {
-            "name": "Monocolpatae",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_2.png",
-                "imageHeightPx": 20
-              },
-              {
-                "image": "../../assets/images/by-taxon/allium_schoenoprasum/allium_schoenoprasum_3.png",
-                "imageHeightPx": 20
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Monocolpatae](beug09-monocolpatae.md)",
+            "pollen_key": "allium_schoenoprasum"
+          }
         }
       ]
     },
     "9": {
       "id": "9",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "Colpi met een ring- of schroefvormig verloop of met twee of drie colpi die polair met elkaar verbonden zijn, of met colpi die het oppervlak van de PK in hoekige zones verdelen en met elkaar verbonden zijn.",
-          "next": null,
+          "label": "Colpi met een ring- of schroefvormig verloop of met twee of drie colpi die polair met elkaar verbonden zijn, of met colpi die het oppervlak van de pollenkorrel in hoekige zones verdelen en met elkaar verbonden zijn.",
           "id": {
             "name": "[Syncolpatae](beug10-syncolpatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/crocus_ancyrensis/crocus_ancyrensis_2.png",
-                "imageHeightPx": 20
-              },
-              {
-                "image": "../../assets/images/by-taxon/passiflora_caerulea/passiflora_caerulea_1.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "berberis_vulgaris",
+              "mahonia_aquifolium",
+              "passiflora_caerulea"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
           "label": "Colpi anders gerangschikt, niet met elkaar verbonden.",
-          "next": "10",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "next": "10"
         }
       ]
     },
     "10": {
       "id": "10",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 2 colpi en/of poriën.",
-          "next": "11",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/by-taxon/hypecoum_procumbens/hypecoum_procumbens_1.png",
-              "imageHeightPx": 20
-            }
-          ]
+          "label": "Pollenkorrel met 2 colpi en/of pori.",
+          "next": "11"
         },
         {
-          "label": "PK met meer dan 2 colpi en/of poriën.",
-          "next": "13",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel met meer dan 2 colpi en/of pori.",
+          "next": "13"
         }
       ]
     },
     "11": {
       "id": "11",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK slechts met 2 poriën of slechts met 2 colpi.",
-          "next": "12",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "Pollenkorrel slechts met 2 pori of slechts met 2 colpi.",
+          "next": "12"
         },
         {
-          "label": "PK met 2 colpi die equatoriaal elk een porie bezitten.",
-          "next": null,
+          "label": "Pollenkorrel met 2 colpi die equatoriaal elk een pori bezitten.",
           "id": {
-            "name": "[Dicolporatae](beug12-dicolporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Dicolporatae](beug12-dicolporatae.md)"
+          }
         }
       ]
     },
     "12": {
       "id": "12",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 2 colpi.",
-          "next": null,
+          "label": "Pollenkorrel met 2 colpi.",
           "id": {
-            "name": "[Dicolpatae](beug11-dicolpatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Dicolpatae](beug11-dicolpatae.md)"
+          }
         },
         {
-          "label": "PK met 2 poriën.",
-          "next": null,
+          "label": "Pollenkorrel met 2 pori.",
           "id": {
-            "name": "[Diporatae](beug13-diporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 10
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 10
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Diporatae](beug13-diporatae.md)"
+          }
         }
       ]
     },
     "13": {
       "id": "13",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 3 poriën.",
-          "next": null,
+          "label": "Pollenkorrel met 3 pori.",
           "id": {
             "name": "[Triporatae](beug14-triporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/corylus_avellana/corylus_avellana_3.png",
-                "imageHeightPx": 1
-              }
+            "pollen_keys": [
+              "corylus_avellana",
+              "betula_nigra",
+              "urtica_dioica",
+              "epilobium_angustifolium"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK met meer dan 3 poriën of met 3 colpi die bovendien in het midden elk 1 porie hebben, of met meer dan 3 colpi die bovendien in het midden 1 porie kunnen hebben.",
+          "label": "Pollenkorrel met meer dan 3 pori of met 3 colpi die bovendien in het midden elk 1 pori hebben, of met meer dan 3 colpi die bovendien in het midden 1 pori kunnen hebben.",
           "next": "14",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
+          "pollen_keys": [
+            "phacelia_tanacetifolia",
+            "borago_officinalis",
+            "lavandula_angustifolia",
+            "alnus_glutinosa",
+            "campanula_rotundifolia",
+            "myosotis_scorpioides",
+            "amarantus_caudatus",
+            "phlox_paniculata",
+            "silene_cucubalis",
+            "brassica_napus",
+            "valerianella_officinalis",
+            "malus_domestica" 
           ]
         }
       ]
@@ -901,79 +280,31 @@
     "14": {
       "id": "14",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 3 colpi (a–b) of bovendien met 3 in het midden van de colpi georiënteerde poriën (c–d) of porieachtige wijzigingen (niet afgebeeld).",
-          "next": null,
+          "label": "Pollenkorrel met 3 colpi, of 3 colpi met in het midden een porus of porusachtige structuur.",
           "id": {
             "name": "[Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolporatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
+            "pollen_keys": [
+              "brassica_napus",
+              "valerianella_officinalis",
+              "malus_domestica"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK met meer dan 3 colpi en/of poriën.",
+          "label": "pollenkorrel met meer dan 3 colpi en/of pori.",
           "next": "15",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
+          "pollen_keys": [
+            "phacelia_tanacetifolia",
+            "borago_officinalis",
+            "lavandula_angustifolia",
+            "alnus_glutinosa",
+            "campanula_rotundifolia",
+            "myosotis_scorpioides",
+            "amarantus_caudatus",
+            "phlox_paniculata",
+            "silene_cucubalis"
           ]
         }
       ]
@@ -981,54 +312,26 @@
     "15": {
       "id": "15",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK met 4 of meer colpi die poriën kunnen hebben, of met 4 of meer equatoriaal gerangschikte poriën.",
+          "label": "pollenkorrel met 4 of meer colpi die pori kunnen hebben, of met 4 of meer equatoriaal gerangschikte pori.",
           "next": "16",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
+          "pollen_keys": [
+            "phacelia_tanacetifolia",
+            "borago_officinalis",
+            "lavandula_angustifolia",
+            "alnus_glutinosa",
+            "campanula_rotundifolia",
+            "myosotis_scorpioides"
           ]
         },
         {
           "label": "Aperturen min of meer regelmatig over de Exine verdeeld.",
           "next": "19",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
+          "pollen_keys": [
+            "amarantus_caudatus",
+            "phlox_paniculata",
+            "silene_cucubalis"
           ]
         }
       ]
@@ -1036,140 +339,49 @@
     "16": {
       "id": "16",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK alleen met colpi of alleen met poriën.",
+          "label": "pollenkorrel alleen met colpi of alleen met pori.",
           "next": "17",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
+          "pollen_keys": [
+            "phacelia_tanacetifolia",
+            "borago_officinalis",
+            "lavandula_angustifolia",
+            "alnus_glutinosa",
+            "campanula_rotundifolia"
           ]
         },
         {
-          "label": "PK met colpi en poriën.",
-          "next": "18",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "pollenkorrel met colpi en pori.",
+          "pollen_key": "myosotis_scorpioides",
+          "next": "18"
         }
       ]
     },
     "17": {
       "id": "17",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
-          "next": null,
+          "label": "Pollenkorrel alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
           "id": {
             "name": "[Stephanocolpatae](beug17-stephanocolpatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_4.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "phacelia_tanacetifolia",
+              "borago_officinalis",
+              "lavandula_angustifolia"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK alleen met poriën.",
-          "next": null,
+          "label": "pollenkorrel alleen met pori.",
           "id": {
             "name": "[Stephanoporatae](beug18-stephanoporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_2.png",
-                "imageHeightPx": 20
-              },
-              {
-                "image": "../../assets/images/by-taxon/alnus_glutinosa/alnus_glutinosa_4.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "alnus_glutinosa",
+              "campanula_rotundifolia"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         }
       ]
     },
@@ -1179,247 +391,62 @@
       "note": "Eerste leidraad op bronfragment niet zichtbaar; logische tegenhanger van heterocolpaat toegepast.",
       "choices": [
         {
-          "label": "Elke colpus heeft een porie (geen patroon ‘slechts om de andere’ colpus met porie).",
-          "next": null,
+          "label": "Elke colpus heeft een pori (geen patroon ‘slechts om de andere’ colpus met pori).",
           "id": {
             "name": "[Stephanocolporatae](beug19-stephanocolporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/symphytum_officinale/symphytum_officinale_2.png",
-                "imageHeightPx": 1
-              }
+            "pollen_keys": [
+              "buddleja_davidii",
+              "borago_officinalis"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "Slechts elke tweede colpus met een porie.",
-          "next": null,
+          "label": "Slechts elke tweede colpus met een pori.",
           "id": {
             "name": "[Heterocolpatae](beug20-heterocolpatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_2.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "myosotis_scorpioides"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         }
       ]
     },
     "19": {
       "id": "19",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK alleen met poriën.",
-          "next": null,
+          "label": "pollenkorrel alleen met pori.",
           "id": {
             "name": "[Periporatae](beug21-periporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/by-taxon/plantago_lanceolata/plantago_lanceolata_3.png",
-                "imageHeightPx": 20
-              }
+            "pollen_keys": [
+              "amarantus_caudatus",
+              "phlox_paniculata",
+              "silene_cucubalis"
             ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          }
         },
         {
-          "label": "PK met colpi of met colpi die elk een porie bezitten.",
-          "next": "20",
-          "id": null,
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+          "label": "pollenkorrel met colpi of met colpi die elk een pori bezitten.",
+          "next": "20"
         }
       ]
     },
     "20": {
       "id": "20",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK colpaat.",
-          "next": null,
+          "label": "pollenkorrel colpaat.",
           "id": {
-            "name": "[Pericolpatae](beug22-pericolpatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Pericolpatae](beug22-pericolpatae.md)"
+          }
         },
         {
-          "label": "PK colporaat.",
-          "next": null,
+          "label": "pollenkorrel colporaat.",
           "id": {
-            "name": "[Pericolporatae](beug23-pericolporatae.md)",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageHeightPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageHeightPx": 1
-            }
-          ]
+            "name": "[Pericolporatae](beug23-pericolporatae.md)"
+          }
         }
       ]
     }

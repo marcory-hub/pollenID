@@ -4,7 +4,6 @@
     "title": "13.23 Teucrium (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,105 +12,18 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "PK > 50 µm.",
-          "next": null,
           "id": {
-            "name": "13.23.1 Teucrium botrys. (Teucrium botrys L. (2): 48,8–65",
-            "size": "5 µm",
-            "source": "MiW 58,0 µm; 36 PK, 0a.)",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "13.23.1 Teucrium botrys. (Teucrium botrys L. (2): 48,8–65"
+          }
         },
         {
           "label": "PK < 45 µm, eventueel overlapping tussen 45 en 50 µm negeren (tabel 16: 20–22).",
-          "next": null,
           "id": {
-            "name": "13.23.2 Teucrium chamaedrys-type. (Teucrium chamaedrys L. (2): 32,5–42",
-            "size": "0 µm",
-            "source": "MiW 37,5 µm; 50 PK, 0a. Teucrium scordium L. (3): 32,0–39,3 µm, MiW 35,4 µm; 50 PK, 0a. Teucrium montanum L. (2): 34,5–45,0 µm, MiW 39,0 µm; 50 PK, 0a. Teucrium polium L. (1): 28,0–49,9 µm, MiW 36,8 µm; 50 PK, 0a.)",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "13.23.2 Teucrium chamaedrys-type. (Teucrium chamaedrys L. (2): 32,5–42"
+          }
         }
       ]
     }

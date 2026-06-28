@@ -36,6 +36,63 @@
     }
   }
 
+  /** MkDocs site root (…/pollenID/) for docs-root-relative .md links under Identificatiesleutels/ (directory URLs). */
+  function resolveDocsSiteRoot() {
+    try {
+      const sel =
+        "header.md-header a.md-logo, header.md-header a.md-header__button.md-logo, nav.md-header__inner a.md-header__button.md-logo";
+      const el = document.querySelector(sel);
+      if (el && el.href) {
+        const u = new URL(el.href, document.baseURI);
+        let p = u.pathname.replace(/\/+$/, "");
+        if (/\.(html?|php)$/i.test(p)) {
+          p = p.replace(/\/[^/]+$/, "");
+        }
+        u.pathname = (p || "/") + "/";
+        u.hash = "";
+        u.search = "";
+        return u.href;
+      }
+    } catch (e) {}
+    try {
+      return new URL("../../", document.baseURI).href;
+    } catch (e2) {
+      return document.baseURI;
+    }
+  }
+
+  function resolveSiteRelativeMarkdownHref(hrefRaw) {
+    if (typeof hrefRaw !== "string" || !hrefRaw) return hrefRaw;
+    const h = hrefRaw.trim();
+    if (/^https?:\/\//i.test(h)) return h;
+    if (h.startsWith("/")) {
+      try {
+        return new URL(h, location.origin).href;
+      } catch (e) {
+        return h;
+      }
+    }
+    let rel = h.replace(/^\.\/+/, "");
+    while (rel.startsWith("../")) {
+      rel = rel.slice(3);
+    }
+    if (/\.md$/i.test(rel)) {
+      rel = rel.slice(0, -3);
+    }
+    if (rel && !rel.endsWith("/")) {
+      rel += "/";
+    }
+    try {
+      return new URL(rel, resolveDocsSiteRoot()).href;
+    } catch (e) {
+      try {
+        return new URL(hrefRaw, document.baseURI).href;
+      } catch (e2) {
+        return hrefRaw;
+      }
+    }
+  }
+
   /**
    * JSON-labels en eindpunten gebruiken *cursief* zoals in het boek; geen volledige Markdown.
    * Paren asterisken worden <em>; overige tekst ge-escaped.
@@ -96,7 +153,7 @@
           "</a>";
       } else if (/\.md$/i.test(href) || /^\.\.\//.test(href) || /^\.\//.test(href)) {
         try {
-          const abs = new URL(href, document.baseURI).href;
+          const abs = resolveSiteRelativeMarkdownHref(href);
           out +=
             '<a href="' +
             escAttr(abs) +
@@ -202,11 +259,8 @@
 
   function resolveInternalMdHref(relativeMd) {
     if (typeof relativeMd !== "string" || !relativeMd) return relativeMd;
-    try {
-      return new URL(relativeMd, document.baseURI).href;
-    } catch (e) {
-      return relativeMd;
-    }
+    if (/^https?:\/\//i.test(relativeMd)) return relativeMd;
+    return resolveSiteRelativeMarkdownHref(relativeMd);
   }
 
   function primaryTaxonDocHrefFromPollenEntry(entry, pollenKey) {
@@ -215,8 +269,10 @@
       entry && typeof entry.monofloral_honey_page === "string"
         ? String(entry.monofloral_honey_page).trim()
         : "";
-    if (mono) return "../" + mono.replace(/^\/*/, "");
-    return "../nederlandse-honing-pollen/" + pollenKey + ".md";
+    const rel = mono
+      ? mono.replace(/^\/*/, "")
+      : "nederlandse-honing-pollen/" + pollenKey + ".md";
+    return resolveSiteRelativeMarkdownHref(rel);
   }
 
   /** Tab-separated tail: vorm, grootte, oppervlak (ornamentatie), opmerkingen (apertuur). */
@@ -579,9 +635,9 @@
   }
 
   /**
-   * Meerdere afbeeldingen van hetzelfde taxon (pollen_key / één suggestie in pollen_keys): alle
-   * beelden uit pollen.json. Alleen bij meerdere suggested keys één representatieve tegel per taxon
-   * (overzicht op knoppen / tabel).
+   * Eén taxon (`pollen_key`): alle beelden uit pollen.json waar mogelijk.
+   * Meerdere taxa (`pollen_keys` op keuze of eindpunt): één representatieve tegel per sleutel
+   * (overzicht op knoppen / platte tabel).
    * @param {object} ch
    * @param {object} data
    * @param {Record<string, unknown>} pollenIndex
@@ -641,16 +697,17 @@
         return imgsC.length > 1 ? [imgsC[0]] : imgsC;
       }
     } else if (Array.isArray(ch && ch.pollen_keys) && ch.pollen_keys.length > 0) {
+      const repsPk = [];
       for (var ci = 0; ci < ch.pollen_keys.length; ci++) {
-        var ck = normalizePollenSlug(ch.pollen_keys[ci]);
-        if (ck && pollenIndex[ck]) {
-          const repChoice2 = pickRepresentativeIndexImage(ck, pollenIndex[ck]);
-          if (repChoice2) {
-            const imgsC2 = imgsFromChoice.concat([repChoice2]);
-            return imgsC2.length > 1 ? [imgsC2[0]] : imgsC2;
-          }
+        var ckPk = normalizePollenSlug(ch.pollen_keys[ci]);
+        if (ckPk && pollenIndex[ckPk]) {
+          const repPk = pickRepresentativeIndexImage(ckPk, pollenIndex[ckPk]);
+          if (repPk) repsPk.push(repPk);
+        } else if (ckPk) {
+          repsPk.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
         }
       }
+      if (repsPk.length > 0) return imgsFromChoice.concat(repsPk);
     }
     var pollenSlug = endpoint ? normalizePollenSlug(endpoint.pollen_key) : "";
     if (pollenSlug && pollenIndex[pollenSlug]) {

@@ -1,10 +1,10 @@
 {
   "meta": {
     "key": "beug33-periporatae-thymelaeaceae.json",
-    "title": "33.13 Thymelaeaceae (Beug)",
+    "title": "33.13 [Thymelaeaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Thymelaeaceae) (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
+    "note": "Agent: clean this page, only use pollentabel.json for the choices. If needed update the pollentabel.json with the images in by-taxon. Do not add other than label, next, id, name, pollen_key and incomplete. Check vanderham-pollentabel.json for the choices.",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,105 +13,20 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
-          "label": "PK 20-38 µm groot, poren unscharf begrenzt (Tafel 114: 18-20).",
-          "next": null,
+          "label": "PK 20-38 µm groot, poren onscherp begrenst (Tabel 114: 18-20).",
           "id": {
             "name": "33.13.1 Daphne",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "pollen_key": "daphne_mezereum"
+          }
         },
         {
-          "label": "PK 34-47 µm groot, Poriën kontrastreich begrenzt (Tafel 115: 1-5).",
-          "next": null,
+          "label": "PK 34-47 µm groot, Poren contrastrijk begrenst (Tabel 115: 1-5).",
           "id": {
-            "name": "33.13.2 Thymelaea",
-            "size": "-",
-            "source": "-",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "33.13.2 [Thymelaea](https://www.paldat.org/pub/Thymelaea_passerina/)",
+            "pollen_key": "thymelaea_passerina"
+          }
         }
       ]
     }

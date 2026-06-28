@@ -351,11 +351,8 @@
 
     function resolveMdHref(relativeMd) {
       if (typeof relativeMd !== "string" || !relativeMd) return relativeMd;
-      try {
-        return new URL(relativeMd, document.baseURI).href;
-      } catch (e) {
-        return relativeMd;
-      }
+      if (/^https?:\/\//i.test(relativeMd)) return relativeMd;
+      return resolveSiteRelativeMarkdownHref(relativeMd);
     }
 
     /** Tab-separated tail aligned with Kerkvliet kolommen vorm / grootte / oppervlak / opmerkingen. */
@@ -377,8 +374,10 @@
         ent && typeof ent.monofloral_honey_page === "string"
           ? String(ent.monofloral_honey_page).trim()
           : "";
-      if (mono) return "../" + mono.replace(/^\/*/, "");
-      return "../nederlandse-honing-pollen/" + pollenKey + ".md";
+      const rel = mono
+        ? mono.replace(/^\/*/, "")
+        : "nederlandse-honing-pollen/" + pollenKey + ".md";
+      return resolveSiteRelativeMarkdownHref(rel);
     }
 
     function latinHeadHtmlFromPollenEntry(ent, latinPlain, pollenKey) {
@@ -417,6 +416,38 @@
         return new URL("../../", document.baseURI).href;
       } catch (e2) {
         return document.baseURI;
+      }
+    }
+
+    function resolveSiteRelativeMarkdownHref(hrefRaw) {
+      if (typeof hrefRaw !== "string" || !hrefRaw) return hrefRaw;
+      const h = hrefRaw.trim();
+      if (/^https?:\/\//i.test(h)) return h;
+      if (h.startsWith("/")) {
+        try {
+          return new URL(h, location.origin).href;
+        } catch (e) {
+          return h;
+        }
+      }
+      let rel = h.replace(/^\.\/+/, "");
+      while (rel.startsWith("../")) {
+        rel = rel.slice(3);
+      }
+      if (/\.md$/i.test(rel)) {
+        rel = rel.slice(0, -3);
+      }
+      if (rel && !rel.endsWith("/")) {
+        rel += "/";
+      }
+      try {
+        return new URL(rel, resolveDocsSiteRoot()).href;
+      } catch (e) {
+        try {
+          return new URL(hrefRaw, document.baseURI).href;
+        } catch (e2) {
+          return hrefRaw;
+        }
       }
     }
 
@@ -466,7 +497,7 @@
             "</a>";
         } else if (/\.md$/i.test(href) || /^\.\.\//.test(href) || /^\.\//.test(href)) {
           try {
-            const abs = new URL(href, document.baseURI).href;
+            const abs = resolveSiteRelativeMarkdownHref(href);
             out +=
               '<a href="' +
               escAttr(abs) +

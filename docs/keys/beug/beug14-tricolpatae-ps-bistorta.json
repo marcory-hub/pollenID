@@ -4,7 +4,6 @@
     "title": "14.9 Bistorta-type (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "note": "-",
     "stepCount": 1,
     "start": "1"
   },
@@ -13,105 +12,18 @@
     "1": {
       "id": "1",
       "type": "step",
-      "note": "-",
       "choices": [
         {
           "label": "columella's im polair gebied in groepen staand. exine polair 4,4-5,5 µm dik, equatoriaal 1,8-2,9 µm (Tafel 22: 5-6)",
-          "next": null,
           "id": {
-            "name": "14.9.1 Bistorta officinalis Bistorta officinalis (L.) Delabre (2) 45,5-63",
-            "size": "0 µm",
-            "source": "MiW 55,1 µm; 50 PK, 0a",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "14.9.1 Bistorta officinalis Bistorta officinalis (L.) Delabre (2) 45,5-63"
+          }
         },
         {
           "label": "columella's im polair gebied ± gelijkmatig verdeeld, exine polair 3,8-4,3 µm dik, equatoriaal 2,5-3,0 µm (Tafel 22: 7-8)",
-          "next": null,
           "id": {
-            "name": "14.9.2 Bistorta vivipara Bistorta vivipara (L.) Delabre (3) 48,1-75",
-            "size": "4 µm",
-            "source": "MiW 58,7 µm; 50 PK, 1a",
-            "note": "-",
-            "text": "-",
-            "incomplete": false,
-            "images": [
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              },
-              {
-                "image": "../../assets/images/non-pollen/placeholder.png",
-                "imageWidthPx": 1
-              }
-            ]
-          },
-          "outcome": null,
-          "images": [
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            },
-            {
-              "image": "../../assets/images/non-pollen/placeholder.png",
-              "imageWidthPx": 1
-            }
-          ]
+            "name": "14.9.2 Bistorta vivipara Bistorta vivipara (L.) Delabre (3) 48,1-75"
+          }
         }
       ]
     }
