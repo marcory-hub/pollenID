@@ -161,12 +161,11 @@ acer_negundo:
   ornamentation:
   polarity:
   pe_ratio:
+  pollen-note:
   bloeitijd:
-    start:  pollen-note:
- 3
+    start: 3
     end: 4
-    pollen_class: tricolpaat rugulaat, striaat
-    nectar_value: 1
+  nectar_value: 1
   pollen_value: 1
   frequency_in_honey:
   links:
@@ -1411,7 +1410,7 @@ arbutus_unedo:
       kind: by_taxon
       source: by_taxon
 arcticum_lappa:
-  latin: Arctium lappa [agent: change all arctium_majus to arcticum_lappa]
+  latin: Arctium lappa
   dutch: grote klit
   family:
   size:
@@ -1441,7 +1440,7 @@ arcticum_lappa:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 arctium_minus:
-  latin: Arctium minus [agent: change all arcticum_minus to arctium_minus]
+  latin: Arctium minus
   dutch: klit
   family:
   size:
@@ -1471,7 +1470,7 @@ arctium_minus:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 arctium_lappa:
-  latin: Arctium Lappa [agent: merge with arctium_lappa, delete this entry]
+  latin: Arctium lappa
   dutch:
   family:
   size:
@@ -1519,7 +1518,7 @@ arctostaphylos_alpina:
     largest_size:
     height_px: 112
   pollen_class: 04
-  shape:tetrade
+  shape: tetrade
   sculpture: scabraat, verrucaat
   aperture: tricolporaat
   ornamentation:
@@ -1713,7 +1712,7 @@ asparagus_setaceus:
       kind: by_taxon
       source: by_taxon
 asperula_odorata:
-  latin: Asperula odorata [agent: merge with galium_odoratum, delete this entry]
+  latin: Asperula odorata
   dutch: lievevrouwebedstro
   family:
   size:
@@ -2827,7 +2826,7 @@ carex_pendula:
       kind: by_taxon
       source: by_taxon
 carlina_acaulis:
-  latin: Carlina aucalis [agent: change to acaulis on all places]
+  latin: Carlina acaulis
   dutch: zilverdistel
   family: Asteraceae (Composietenfamilie)
   size:
