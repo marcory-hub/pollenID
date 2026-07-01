@@ -10,7 +10,7 @@
 | Nederlands | cichorei |
 | Grootte | 38 µm |
 | Vorm | drie-/zeskantig |
-| Apertuur | 3-colporaat |
+| Apertuur | tricolporaat |
 | Sculptuur | echinaat T |
 
 ### SoT (`data/pollen.yaml`)
@@ -24,15 +24,27 @@ cichorium_intybus:
     smallest_size: 38 µm
     largest_size: 38 µm
     height_px: 95
+  pollen_class: null
   shape: drie-/zeskantig
   sculpture: echinaat T
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Cichorium_intybus
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus
+    paldat: https://www.paldat.org/pub/Cichorium_intybus
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
   - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png
     kind: pollenwiki
@@ -49,40 +61,26 @@ cichorium_intybus:
   - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_5.png
     kind: pollenwiki
     source: pollenwiki
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Cichorium_intybus
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus
-    paldat: https://www.paldat.org/pub/Cichorium_intybus
-    pollenx: https://pollenx.eu/species.php?species=Cichorium_intybus
-  sources:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 ```
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
+### Beug
+<details><summary>1. Pollenklasse (Beug)</summary>
 
 - Stap 1:
-  - <span class="pid-key-choice pid-key-choice--off">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--on">Één losse pollenkorrel (monade)</span>
-- Stap 3:
-  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel met twee luchtzakken (vesiculaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder luchtzakken</span>
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrels (pollenkorrel) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel enkelvoudig (monade).</span>
 - Stap 4:
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met ‘vensters’ (fenestraat)</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder ‘vensters’</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met stekels echinaat fenestraat
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.</span>
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel zonder luchtzakken.</span>
+- Stap 5:
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel zonder aperturen (pori of colpi), deels met lengteribben en onvertakte of aan beide zijden vertakte pseudocolpi en dan perprolaat (Polyplicatae: *Ephedra* (zeedruif, niet inheemse heester) en *Welwitschia mirabilis* (tweeblaarkanniedood)).</span>
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met pori en/of colpi.</span>
+- Stap 6:
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met ronde of hoekige zones (lacunae, vensters) waarin de extexine ontbreekt en die door ribben zijn omzoomd. Vooral bekend van de vele vertegenwoordigers van de Composietenfamilie (Asteraceae)</span>
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel zonder dergelijke lacunae.</span>
+- Eindpunt: [Fenestratae](beug06-fenestratae.md)
 
 </details>
 
@@ -91,4 +89,3 @@ cichorium_intybus:
 - pollenX: https://pollenx.eu/species.php?species=Cichorium_intybus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus
 - paldat: https://www.paldat.org/pub/Cichorium_intybus
-- pollenx: https://pollenx.eu/species.php?species=Cichorium_intybus

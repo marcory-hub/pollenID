@@ -23,22 +23,17 @@ erica_tetralix:
     smallest_size: 37 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class: null
   shape: tetrade
   sculpture: verrucaat
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
-  images:
-  - path: assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png
-    kind: paldat
-    source: paldat
-  - path: assets/images/by-taxon/erica_tetralix/erica_tetralix_2.png
-    kind: paldat
-    source: paldat
   nectar_value: null
   pollen_value: null
   frequency_in_honey: null
@@ -46,31 +41,33 @@ erica_tetralix:
     pollenX: https://pollenx.eu/species.php?species=Erica_tetralix
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_tetralix
     paldat: https://www.paldat.org/pub/Erica_tetralix
-    pollenx: https://pollenx.eu/species.php?species=Erica_tetralix
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  images:
+  - path: assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/by-taxon/erica_tetralix/erica_tetralix_2.png
+    kind: paldat
+    source: paldat
 ```
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
+### Beug
+<details><summary>1. Pollenklasse (Beug)</summary>
 
 - Stap 1:
-  - <span class="pid-key-choice pid-key-choice--on">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--off">Één losse pollenkorrel (monade)</span>
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrels (pollenkorrel) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel enkelvoudig (monade).</span>
 - Stap 2:
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels los verbonden, triporaat</span>
-  - <span class="pid-key-choice pid-key-choice--on">individuele korrels stevig verbonden, tricolpaat of tricolporaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat [to be verified]</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Diversen
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met velen tezamen.</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel per vier of per twee verenigd.</span>
+- Stap 3:
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel per vier verenigd.</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel per twee verenigd.</span>
+- Eindpunt: [Tetradeae](beug04-tetradeae.md)
 
 </details>
 
@@ -79,4 +76,3 @@ erica_tetralix:
 - pollenX: https://pollenx.eu/species.php?species=Erica_tetralix
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Erica_tetralix
 - paldat: https://www.paldat.org/pub/Erica_tetralix
-- pollenx: https://pollenx.eu/species.php?species=Erica_tetralix

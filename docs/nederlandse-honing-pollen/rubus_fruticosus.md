@@ -25,12 +25,14 @@ rubus_fruticosus:
     smallest_size: 28.6 µm
     largest_size: 36.9 µm
     height_px: 92
+  pollen_class: null
   shape: driehoekig tot vierhoekig, sferoid tot optisch gering oblaat
   sculpture: rugulaat, aperturen met gedeeltelijke korrelige ornamentatie
   aperture: tricolpaat, enkele pollen tetracolporoidaat
   ornamentation: null
   polarity: isopolair
   pe_ratio: '0.88'
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -41,7 +43,6 @@ rubus_fruticosus:
     pollenX: https://pollenx.eu/species.php?species=Rubus_fruticosus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_fruticosus
     paldat: https://www.paldat.org/pub/Rubus_fruticosus
-    pollenx: https://pollenx.eu/species.php?species=Rubus_fruticosus
   sources:
   - source: monoflorale_md
     path: pollenID/docs/monoflorale-honing-pollen/braamhoning.md
@@ -65,16 +66,10 @@ rubus_fruticosus:
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Rubus_fruticosus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rubus_fruticosus
 - paldat: https://www.paldat.org/pub/Rubus_fruticosus
-- pollenx: https://pollenx.eu/species.php?species=Rubus_fruticosus

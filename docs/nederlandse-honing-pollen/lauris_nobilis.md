@@ -19,12 +19,14 @@ lauris_nobilis:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,16 +37,9 @@ lauris_nobilis:
     pollenX: https://pollenx.eu/species.php?species=Lauris_nobilis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lauris_nobilis
     paldat: https://www.paldat.org/pub/Lauris_nobilis
-    pollenx: https://pollenx.eu/species.php?species=Lauris_nobilis
   sources: []
   images:
   - path: assets/images/by-taxon/lauris_nobilis/lauris_nobilis_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/lauris_nobilis/lauris_nobilis_2.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/lauris_nobilis/lauris_nobilis_3.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -58,4 +53,3 @@ lauris_nobilis:
 - pollenX: https://pollenx.eu/species.php?species=Lauris_nobilis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lauris_nobilis
 - paldat: https://www.paldat.org/pub/Lauris_nobilis
-- pollenx: https://pollenx.eu/species.php?species=Lauris_nobilis

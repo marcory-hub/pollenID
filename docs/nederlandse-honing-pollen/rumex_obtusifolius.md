@@ -10,7 +10,7 @@
 | Nederlands | zuring |
 | Grootte | 24 µm |
 | Vorm | rond |
-| Apertuur | 3-colporaat |
+| Apertuur | tricolporaat |
 | Sculptuur | reliëf |
 
 ### SoT (`data/pollen.yaml`)
@@ -24,12 +24,14 @@ rumex_obtusifolius:
     smallest_size: 24 µm
     largest_size: 24 µm
     height_px: 60
+  pollen_class: null
   shape: rond
   sculpture: reliëf
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -40,7 +42,6 @@ rumex_obtusifolius:
     pollenX: https://pollenx.eu/species.php?species=Rumex_obtusifolius
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rumex_obtusifolius
     paldat: https://www.paldat.org/pub/Rumex_obtusifolius
-    pollenx: https://pollenx.eu/species.php?species=Rumex_obtusifolius
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
@@ -73,16 +74,10 @@ rumex_obtusifolius:
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Rumex_obtusifolius
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rumex_obtusifolius
 - paldat: https://www.paldat.org/pub/Rumex_obtusifolius
-- pollenx: https://pollenx.eu/species.php?species=Rumex_obtusifolius

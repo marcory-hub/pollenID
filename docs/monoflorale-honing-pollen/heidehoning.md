@@ -23,17 +23,17 @@
 | --- | --- |
 | **Latijn** | Calluna vulgaris |
 | **Nederlands** | struikheide |
-| **Familie** |  |
+| **Familie** | Ericaceae (heidefamilie) |
 | **Grootte** | 32-39 µm |
-| **Vorm** | tetrade |
-| **Sculptuur** | verrucaat |
-| **Apertuur** |  |
+| **Vorm** | tetrade, sferoid |
+| **Sculptuur** | psilaat |
+| **Apertuur** | korte brede colpi, tricolpaat of tricolporaat |
 | **Ornamentatie** |  |
-| **Polariteit** |  |
+| **Polariteit** | heteropolair |
 | **P/E-ratio** |  |
-| **Bloeitijd** |  |
-| **Nectarwaarde** |  |
-| **Pollenwaarde** |  |
+| **Bloeitijd** | 7-9 |
+| **Nectarwaarde** | 5 |
+| **Pollenwaarde** | 5 |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Calluna_vulgaris)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris)<br>[PalDat](https://www.paldat.org/pub/Calluna_vulgaris) |
 

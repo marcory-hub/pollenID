@@ -23,12 +23,14 @@ nymphaea_alba:
     smallest_size: 37 µm
     largest_size: 37 µm
     height_px: 92
+  pollen_class: null
   shape: ovaal/onregelmatig
   sculpture: ca echinaat
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -39,7 +41,6 @@ nymphaea_alba:
     pollenX: https://pollenx.eu/species.php?species=Nymphaea_alba
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Nymphaea_alba
     paldat: https://www.paldat.org/pub/Nymphaea_alba
-    pollenx: https://pollenx.eu/species.php?species=Nymphaea_alba
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
@@ -54,16 +55,10 @@ nymphaea_alba:
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met stekels echinaat fenestraat
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Nymphaea_alba
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Nymphaea_alba
 - paldat: https://www.paldat.org/pub/Nymphaea_alba
-- pollenx: https://pollenx.eu/species.php?species=Nymphaea_alba

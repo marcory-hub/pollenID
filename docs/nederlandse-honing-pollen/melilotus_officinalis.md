@@ -19,12 +19,14 @@ melilotus_officinalis:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,19 +37,9 @@ melilotus_officinalis:
     pollenX: https://pollenx.eu/species.php?species=Melilotus_officinalis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Melilotus_officinalis
     paldat: https://www.paldat.org/pub/Melilotus_officinalis
-    pollenx: https://pollenx.eu/species.php?species=Melilotus_officinalis
   sources: []
   images:
   - path: assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_2.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_3.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_4.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -61,4 +53,3 @@ melilotus_officinalis:
 - pollenX: https://pollenx.eu/species.php?species=Melilotus_officinalis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Melilotus_officinalis
 - paldat: https://www.paldat.org/pub/Melilotus_officinalis
-- pollenx: https://pollenx.eu/species.php?species=Melilotus_officinalis

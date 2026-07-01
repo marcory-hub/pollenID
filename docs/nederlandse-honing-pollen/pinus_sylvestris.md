@@ -8,6 +8,11 @@
 |---|---|
 | Latijn | Pinus sylvestris |
 | Nederlands | grove den |
+| Familie | Pinaceae (Sparfamilie) |
+| Grootte | 65 µm |
+| Vorm | luchtzakken meer dan half kogelvormig, kogelradius ca 15 µm |
+| Ornamentatie | luchtzakken reticulaat |
+| Pollenwaarde | secundaire inbreng |
 
 ### SoT (`data/pollen.yaml`)
 
@@ -15,28 +20,29 @@
 pinus_sylvestris:
   latin: Pinus sylvestris
   dutch: grove den
-  family: null
+  family: Pinaceae (Sparfamilie)
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  shape: null
+    smallest_size: 65 µm
+    largest_size: 65 µm
+    height_px: 163
+  pollen_class: null
+  shape: luchtzakken meer dan half kogelvormig, kogelradius ca 15 µm
   sculpture: null
   aperture: null
-  ornamentation: null
+  ornamentation: luchtzakken reticulaat
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
   nectar_value: null
-  pollen_value: null
+  pollen_value: secundaire inbreng
   frequency_in_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Pinus_sylvestris
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Pinus_sylvestris
     paldat: https://www.paldat.org/pub/Pinus_sylvestris
-    pollenx: https://pollenx.eu/species.php?species=Pinus_sylvestris
   sources: []
   images:
   - path: assets/images/by-taxon/pinus_sylvestris/pinus_sylvestris_1.png
@@ -46,15 +52,16 @@ pinus_sylvestris:
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
+### Beug
+<details><summary>1. Pollenklasse (Beug)</summary>
 
 - Stap 1:
-  - <span class="pid-key-choice pid-key-choice--off">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--on">Één losse pollenkorrel (monade)</span>
-- Stap 3:
-  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met twee luchtzakken (vesiculaat)</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder luchtzakken</span>
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrels (pollenkorrel) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel enkelvoudig (monade).</span>
+- Stap 4:
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.</span>
+  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel zonder luchtzakken.</span>
+- Eindpunt: [Vesiculatae](beug05-vesiculatae.md). Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)
 
 </details>
 
@@ -63,4 +70,3 @@ pinus_sylvestris:
 - pollenX: https://pollenx.eu/species.php?species=Pinus_sylvestris
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Pinus_sylvestris
 - paldat: https://www.paldat.org/pub/Pinus_sylvestris
-- pollenx: https://pollenx.eu/species.php?species=Pinus_sylvestris

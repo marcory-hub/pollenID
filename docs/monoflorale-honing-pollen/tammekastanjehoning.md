@@ -27,7 +27,7 @@
 | **Grootte** | 12-14 µm |
 | **Vorm** | ovaal |
 | **Sculptuur** | glad |
-| **Apertuur** | 3-colporaat |
+| **Apertuur** | tricolporaat |
 | **Ornamentatie** |  |
 | **Polariteit** | isopolair |
 | **P/E-ratio** | ca. 1.24 |

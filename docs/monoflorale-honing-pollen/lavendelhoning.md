@@ -18,16 +18,16 @@
 | **Latijn** | Lavandula angustifolia |
 | **Nederlands** | lavendel |
 | **Familie** |  |
-| **Grootte** | 38 µm |
+| **Grootte** | 37 µm |
 | **Vorm** | zeskantig |
 | **Sculptuur** | reticulaat |
-| **Apertuur** | 6-colpaat |
-| **Ornamentatie** |  |
+| **Apertuur** | meestal 6-colpaat, colpi 8.3 µm breed |
+| **Ornamentatie** | apertuurmembranen deels korrelig ornamentering |
 | **Polariteit** |  |
 | **P/E-ratio** |  |
-| **Bloeitijd** |  |
-| **Nectarwaarde** |  |
-| **Pollenwaarde** |  |
+| **Bloeitijd** | 6-7 |
+| **Nectarwaarde** | 5 |
+| **Pollenwaarde** | 0 |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Lavandula_angustifolia)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia)<br>[PalDat](https://www.paldat.org/pub/Lavandula_angustifolia) |
 

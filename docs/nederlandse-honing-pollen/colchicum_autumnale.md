@@ -24,12 +24,14 @@ colchicum_autumnale:
     smallest_size: 58 µm
     largest_size: 58 µm
     height_px: 145
+  pollen_class: null
   shape: semi-ovaal
   sculpture: reticulaat
   aperture: 2-poraat
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -40,7 +42,6 @@ colchicum_autumnale:
     pollenX: https://pollenx.eu/species.php?species=Colchicum_autumnale
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicum_autumnale
     paldat: https://www.paldat.org/pub/Colchicum_autumnale
-    pollenx: https://pollenx.eu/species.php?species=Colchicum_autumnale
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
@@ -61,16 +62,10 @@ colchicum_autumnale:
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Colchicum_autumnale
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicum_autumnale
 - paldat: https://www.paldat.org/pub/Colchicum_autumnale
-- pollenx: https://pollenx.eu/species.php?species=Colchicum_autumnale

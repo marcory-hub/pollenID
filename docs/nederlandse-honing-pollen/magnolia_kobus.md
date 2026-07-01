@@ -20,12 +20,14 @@ magnolia_kobus:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -36,7 +38,6 @@ magnolia_kobus:
     pollenX: https://pollenx.eu/species.php?species=Magnolia_kobus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Magnolia_kobus
     paldat: https://www.paldat.org/pub/Magnolia_kobus
-    pollenx: https://pollenx.eu/species.php?species=Magnolia_kobus
   sources: []
   images:
   - path: assets/images/by-taxon/magnolia_kobus/magnolia_kobus_1.png
@@ -52,34 +53,10 @@ magnolia_kobus:
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
-
-- Stap 1:
-  - <span class="pid-key-choice pid-key-choice--off">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--on">Één losse pollenkorrel (monade)</span>
-- Stap 3:
-  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel met twee luchtzakken (vesiculaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder luchtzakken</span>
-- Stap 4:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met ‘vensters’ (fenestraat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder ‘vensters’</span>
-- Stap 5:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder aperturen (inaperturaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met één of meer aperturen</span>
-- Stap 9:
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met één apertuur</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer aperturen</span>
-- Stap 10:
-  - <span class="pid-key-choice pid-key-choice--off">apertuur spiraal- of lusvormig: ‘tennisbal-patroon’ (syncolpaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">apertuur langwerpig, groot (monocolpaat)</span>
-  - <span class="pid-key-choice pid-key-choice--off">apertuur ± rond, klein (monoporaat)</span>
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Magnolia_kobus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Magnolia_kobus
 - paldat: https://www.paldat.org/pub/Magnolia_kobus
-- pollenx: https://pollenx.eu/species.php?species=Magnolia_kobus

@@ -55,7 +55,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Ornamentatie: {{ pollen("rhododendron_ponticum", "ornamentation") }}
 
 #### [Vaccinium myrtillus](https://pollenx.eu/species.php?species=Vaccinium_myrtillus) (bosbes)-incidenteel in zomerhoning
-#### [Pieris Japonica](pieris_japonica.md) (rotsheide)
+#### [Pieris Japonica](pinus_sylvestris.md) (rotsheide)
 #### [Vaccinium corymbosum](https://pollenx.eu/species.php?species=Vaccinium_corymbosum) (blauwe bes)
 #### [Catalpa ovata](https://www.paldat.org/pub/Catalpa_ovata/301425) (trompetboom)
 
@@ -125,7 +125,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 8. **Monoporatae**
 
-#### [Poaceae](poaceae.md) [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
+#### [Poaceae](alopecurus_pratensis.md) [Gramineae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Gramineae) (grassen)
 - In honing: 16.3%, secundaire inbreng
 
 #### [Alopecurus pratensis](https://pollenx.eu/species.php?species=Alopecurus_pratensis) (grote vossestaart)
@@ -204,7 +204,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Scilla bifolia](https://pollenx.eu/species.php?species=Scilla_bifolia)
 #### [Scilla nonscripta](https://pollenx.eu/species.php?species=Scilla_nonscripta)
 #### [Tulipa sp.](https://pollenx.eu/species.php?species=Tulipa_sp.)
-#### [Allium cepa](allium_cepa.md)
+#### [Allium cepa](berberis_vulgaris.md)
 #### [Allium schoenoprasum](https://pollenx.eu/species.php?species=Allium_schoenoprasum)
 #### [Allium ursinum](https://pollenx.eu/species.php?species=Allium_ursinum)
 
@@ -292,7 +292,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Vinca sp.](https://pollenx.eu/species.php?species=Vinca_sp.)
 #### [Teucrium chamae](https://pollenx.eu/species.php?species=Teucrium_chamae)
 #### [Nigella damasc.](https://pollenx.eu/species.php?species=Nigella_damasc.)
-#### [Anemone](anemone.md)
+#### [Anemone](lotus_corniculatus.md)
 #### [Clematis vitalba](https://pollenx.eu/species.php?species=Clematis_vitalba)
 #### [Caltha palustris](https://pollenx.eu/species.php?species=Caltha_palustris)
 
@@ -418,7 +418,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Pimpinella anisum](https://pollenx.eu/species.php?species=Pimpinella_anisum)
 #### [Fallopia baldschur](https://pollenx.eu/species.php?species=Fallopia_baldschur)
 #### [Fallopia japonica](https://pollenx.eu/species.php?species=Fallopia_japonica)
-#### [Capsicum annuum](capsicum_annuum.md)
+#### [Capsicum annuum](cornus_mas.md)
 #### [Clethra alnifolia](https://pollenx.eu/species.php?species=Clethra_alnifolia)
 #### [Fagus sylvatica](https://pollenx.eu/species.php?species=Fagus_sylvatica)
 
@@ -446,7 +446,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Mercurialis annua](https://pollenx.eu/species.php?species=Mercurialis_annua)
 #### [Mercurialus](https://pollenx.eu/species.php?species=Mercurialus) (bos)bingelkruid 
-#### [Mercurialus perennis](mercurialus_perennis.md) 
+#### [Mercurialus perennis](ilex_aquifolium.md) 
 #### [Medicago](https://pollenx.eu/species.php?species=Medicago)
 #### [Punica granatum](https://pollenx.eu/species.php?species=Punica_granatum)
 
@@ -482,7 +482,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("linum_usitatissimum", "aperture") }}
 - Ornamentatie: {{ pollen("linum_usitatissimum", "ornamentation") }}
 
-#### [Geranium sp.](geranium_sp.md)
+#### [Geranium sp.](helianthus_annuus.md)
 #### [Viscum album](https://pollenx.eu/species.php?species=Viscum_album)
 
 ### 17. **Drie aperturen-Echinate sculpturen**
@@ -540,7 +540,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Solidago](https://pollenx.eu/species.php?species=Solidago) (guldenroede) 
 - In honing: 5.0%
 
-#### [Dipsacaceae](dipsacaceae.md) (kaardebolfamilie) 
+#### [Dipsacaceae](lonicera_caprifolium_caprifolium.md) (kaardebolfamilie) 
 - Pollen: 
 - Bloeiperiode: 
 - Waarde:
@@ -598,7 +598,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Tagetes erecta](https://pollenx.eu/species.php?species=Tagetes_erecta)
 #### [Chrysanthemum leuc margriet](https://pollenx.eu/species.php?species=Chrysanthemum_leuc) (margriet)
 #### [Dipsacus](https://pollenx.eu/species.php?species=Dipsacus)
-#### [Scabiosa columbar](scabiosa_columbar.md)
+#### [Scabiosa columbar](saxifraga_rotundifolia.md)
 #### [Centranthus ruber](https://pollenx.eu/species.php?species=Centranthus_ruber)
 
 
@@ -614,7 +614,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("saxifraga_rotundifolia", "aperture") }}
 - Ornamentatie: {{ pollen("saxifraga_rotundifolia", "ornamentation") }}
 
-#### [Erodium cicutarium](erodium_cicutarium.md)
+#### [Erodium cicutarium](aesculus_hippocastanum.md)
 #### [Saxifraga granul](https://pollenx.eu/species.php?species=Saxifraga_granul)
 
 ### 19. **Tricolporaat-Striate, striaat-reticulate en rugulate sculpture**
@@ -637,7 +637,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Rosaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Rosaceae) (rozenfamilie) 
 
-#### [Prunus/pirus species](prunus_pirus_species.md) (prunus/pruim/kers/peer/appel)
+#### [Prunus/pirus species](rubus_fruticosus.md) (prunus/pruim/kers/peer/appel)
 - Pollen: 
 - Bloeiperiode: maart-april
 - Waarde: N3-5, P3-5
@@ -653,7 +653,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("rubus_fruticosus", "aperture") }}
 - Ornamentatie: {{ pollen("rubus_fruticosus", "ornamentation") }}
 
-#### [Cotoneaster integerrimus](cotoneaster_integerrimus.md) (cotoneaster)
+#### [Cotoneaster integerrimus](acer_pseudoplatanoides.md) (cotoneaster)
 - Pollen: 
 - Bloeiperiode: mei-juni
 - Waarde: N4-5, P4-5 (mv Cotoneaster franchetii N1, P1)
@@ -669,7 +669,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("acer_pseudoplatanoides", "aperture") }}
 - Ornamentatie: {{ pollen("acer_pseudoplatanoides", "ornamentation") }}
 
-#### [Malus domestica](malus_domestica.md) (appel)
+#### [Malus domestica](filipendula_ulmaria.md) (appel)
 - Pollen: 
 - Bloeiperiode: april-mei
 - Waarde: N 3, P 3
@@ -716,7 +716,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 21. **Tricolpaat-Reticulate (per- of suprareticulate) of microreticulate sculpturen**
 
-#### [Crucifereae](crucifereae.md) (overige kruisbloemigen) 
+#### [Crucifereae](salix_alba_var_tristis.md) (overige kruisbloemigen) 
 - In honing: 3.8%
 
 #### [Salix sp](https://pollenx.eu/species.php?species=Salix_alba) (wilg)
@@ -813,7 +813,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Olea europaea](https://pollenx.eu/species.php?species=Olea_europaea)
 #### [Diplotaxis muralis](https://pollenx.eu/species.php?species=Diplotaxis_muralis)
 #### [Diplotaxis tenuïfoliarucola](https://pollenx.eu/species.php?species=Diplotaxis_tenuïfoliarucola)
-#### [Eruca sativa](eruca_sativa.md)
+#### [Eruca sativa](trifolium_repens.md)
 #### [Corylopsis parcifl](https://pollenx.eu/species.php?species=Corylopsis_parcifl)
 #### [Fraxinus ornus](https://pollenx.eu/species.php?species=Fraxinus_ornus)
 
@@ -829,7 +829,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("trifolium_repens", "aperture") }}
 - Ornamentatie: {{ pollen("trifolium_repens", "ornamentation") }}
 
-#### [Tilia platyphyllos](tilia_type_linde_species.md) (linde)
+#### [Tilia platyphyllos](tilia_platyphyllos.md) (linde)
 {{ pollen_gallery("tilia_platyphyllos") }}
 - Latijn: {{ pollen("tilia_platyphyllos", "latin") }}
 - Nederlands: {{ pollen("tilia_platyphyllos", "dutch") }}
@@ -946,7 +946,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Staphylea pinnata](https://pollenx.eu/species.php?species=Staphylea_pinnata)
 #### [Fagopyrum esc.](https://pollenx.eu/species.php?species=Fagopyrum_esc.)
 #### [Lathyrus sylvestris](https://pollenx.eu/species.php?species=Lathyrus_sylvestris)
-#### [Onosis spinoza](onosis_spinoza.md)
+#### [Onosis spinoza](robinia_pseudoacacia.md)
 #### [Astragalus sinicus](https://pollenx.eu/species.php?species=Astragalus_sinicus)
 #### [Sophora japonica](https://pollenx.eu/species.php?species=Sophora_japonica) (onregelmatig
 
@@ -1007,7 +1007,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 ### 24. **Stephanocolpatae**
 
-#### [Lamiaceae](lamiaceae.md) (lipbloemigen-divers)
+#### [Lamiaceae](phacelia_tanacetifolia.md) (lipbloemigen-divers)
 - Pollen: 
 - Bloeiperiode: april-september
 - Waarde:
@@ -1029,7 +1029,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Waarde:
 - In honing: 1.3%
 
-#### [Impatiens glandulifera](impatiens_glandulifera.md) (reuzenbalsamine)
+#### [Impatiens glandulifera](lavandula_angustifolia.md) (reuzenbalsamine)
 - Pollen: 
 - Bloeiperiode: juli-oktober
 - Waarde: N 3, P 3
@@ -1066,7 +1066,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Mentha aquatica](https://pollenx.eu/species.php?species=Mentha_aquatica)
 #### [Origanum vulgare](https://pollenx.eu/species.php?species=Origanum_vulgare)
 #### [Satureia hortensis](https://pollenx.eu/species.php?species=Satureia_hortensis)
-#### [Thymus serpyllum?](thymus_serpyllum.md)
+#### [Thymus serpyllum?](viola_tricolor.md)
 #### [Nepeta cataria](https://pollenx.eu/species.php?species=Nepeta_cataria)
 
 
@@ -1090,7 +1090,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 ### 26. **Pericolpatae**
 
 #### [Corydalis cava](https://pollenx.eu/species.php?species=Corydalis_cava)
-#### [Corydalis lutea](corydalis_lutea.md)
+#### [Corydalis lutea](cynoglossum_officinale.md)
 
 ### 27. **Pericolporatae**
 
@@ -1116,7 +1116,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 - Apertuur: {{ pollen("myosotis_scorpioides", "aperture") }}
 - Ornamentatie: {{ pollen("myosotis_scorpioides", "ornamentation") }}
 
-#### [Lythrum salicaria](lythrum_salicaria.md) (watereppe)
+#### [Lythrum salicaria](taraxacum_officinale.md) (watereppe)
 
 ### 29. **Fenestratae**
 
@@ -1142,7 +1142,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Sonchus arvensis](https://pollenx.eu/species.php?species=Sonchus_arvensis)
 
-#### [Hieracium aurantiacum](hieracium_aurantiacum.md)
+#### [Hieracium aurantiacum](colchicum_autumnale.md)
 #### [Hieracium sp.](https://pollenx.eu/species.php?species=Hieracium_sp.)
 #### [Tragopogon sp](https://pollenx.eu/species.php?species=Tragopogon_sp)
 
@@ -1191,7 +1191,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 #### [Phaseolus vulgaris](https://pollenx.eu/species.php?species=Phaseolus_vulgaris)
 #### [Oenothera tetrag](https://pollenx.eu/species.php?species=Oenothera_tetrag)
 
-#### [Humulus](humulus.md)
+#### [Humulus](campanula_rotundifolia.md)
 #### [Cannabis sativa](https://pollenx.eu/species.php?species=Cannabis_sativa)
 
 ### 32. **Stephanoporatae**
@@ -1218,7 +1218,7 @@ Pollen die in Nederlandse honing gecategoriseerd op morfologische onderscheidhei
 
 #### [Jasione](https://pollenx.eu/species.php?species=Jasione) (jasione)
 #### [Carpinus betulus](https://pollenx.eu/species.php?species=Carpinus_betulus)
-#### [Jasione montana](jasione_montana.md)
+#### [Jasione montana](plantago_lanceolata.md)
 #### [Ulmus sp.](https://pollenx.eu/species.php?species=Ulmus_sp.)
 
 

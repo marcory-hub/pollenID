@@ -23,22 +23,17 @@ crocus_albiflorus:
     smallest_size: 125 µm
     largest_size: 125 µm
     height_px: 312
+  pollen_class: null
   shape: rond
   sculpture: echinaat+scabraat
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
-  images:
-  - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_1.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_2.png
-    kind: pollenwiki
-    source: pollenwiki
   nectar_value: null
   pollen_value: null
   frequency_in_honey: null
@@ -46,24 +41,24 @@ crocus_albiflorus:
     pollenX: https://pollenx.eu/species.php?species=Crocus_albiflorus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus
     paldat: https://www.paldat.org/pub/Crocus_albiflorus
-    pollenx: https://pollenx.eu/species.php?species=Crocus_albiflorus
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  images:
+  - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_2.png
+    kind: pollenwiki
+    source: pollenwiki
 ```
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met stekels echinaat fenestraat
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Crocus_albiflorus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus
 - paldat: https://www.paldat.org/pub/Crocus_albiflorus
-- pollenx: https://pollenx.eu/species.php?species=Crocus_albiflorus

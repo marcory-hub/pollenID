@@ -19,12 +19,14 @@ papaver_somnoliferum:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,19 +37,9 @@ papaver_somnoliferum:
     pollenX: https://pollenx.eu/species.php?species=Papaver_somnoliferum
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Papaver_somnoliferum
     paldat: https://www.paldat.org/pub/Papaver_somnoliferum
-    pollenx: https://pollenx.eu/species.php?species=Papaver_somnoliferum
   sources: []
   images:
   - path: assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_2.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_3.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/papaver_somnoliferum/papaver_somnoliferum_4.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -61,4 +53,3 @@ papaver_somnoliferum:
 - pollenX: https://pollenx.eu/species.php?species=Papaver_somnoliferum
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Papaver_somnoliferum
 - paldat: https://www.paldat.org/pub/Papaver_somnoliferum
-- pollenx: https://pollenx.eu/species.php?species=Papaver_somnoliferum

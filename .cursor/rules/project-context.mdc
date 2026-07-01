@@ -26,6 +26,7 @@ Before architectural or roadmap answers:
 | **Navigation & UI** | `mkdocs.yml` |
 | **CI/CD** | `.github/workflows/deploy.yml` |
 | **Knowledge capture** | `notes/` (general) |
+| **Taxon page key paths** | `.cursor/skills/trace-key-paths/SKILL.md`, `scripts/extract_key_paths.py` |
 
 ## 3. Knowledge sync
 - Use `[to be verified]` for any assumption not grounded in files read this session.

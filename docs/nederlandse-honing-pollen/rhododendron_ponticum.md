@@ -23,12 +23,14 @@ rhododendron_ponticum:
     smallest_size: 36 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class: null
   shape: tetrade
   sculpture: verrucaat
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -39,7 +41,6 @@ rhododendron_ponticum:
     pollenX: https://pollenx.eu/species.php?species=Rhododendron_ponticum
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_ponticum
     paldat: https://www.paldat.org/pub/Rhododendron_ponticum
-    pollenx: https://pollenx.eu/species.php?species=Rhododendron_ponticum
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
@@ -63,29 +64,10 @@ rhododendron_ponticum:
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
-
-- Stap 1:
-  - <span class="pid-key-choice pid-key-choice--on">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--off">Één losse pollenkorrel (monade)</span>
-- Stap 2:
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels los verbonden, triporaat</span>
-  - <span class="pid-key-choice pid-key-choice--on">individuele korrels stevig verbonden, tricolpaat of tricolporaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat [to be verified]</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Diversen
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Rhododendron_ponticum
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhododendron_ponticum
 - paldat: https://www.paldat.org/pub/Rhododendron_ponticum
-- pollenx: https://pollenx.eu/species.php?species=Rhododendron_ponticum

@@ -19,8 +19,8 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Latijn** | Phacelia tanacetifolia |
-| **Nederlands** | Phacelia tanacetifolia |
-| **Familie** |  |
+| **Nederlands** | phacelia, bijenvoer |
+| **Familie** | Boraginaceae (Ruwbladigenfamilie) |
 | **Grootte** | 20 µm |
 | **Vorm** | rond tot rozetvormig, tot gering oblaat |
 | **Sculptuur** | scabraat tot psylaat, aperturen met geringe korrelige ornamentatie |
@@ -28,9 +28,9 @@
 | **Ornamentatie** |  |
 | **Polariteit** | isopolair |
 | **P/E-ratio** | ca. 0.81 |
-| **Bloeitijd** |  |
-| **Nectarwaarde** |  |
-| **Pollenwaarde** |  |
+| **Bloeitijd** | 5-9 |
+| **Nectarwaarde** | 5 |
+| **Pollenwaarde** | 5 |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Phacelia_tanacetifolia)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_tanacetifolia)<br>[PalDat](https://www.paldat.org/pub/Phacelia_tanacetifolia) |
 

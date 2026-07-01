@@ -8,9 +8,17 @@
 |---|---|
 | Latijn | Calluna vulgaris |
 | Nederlands | struikheide |
+| Familie | Ericaceae (heidefamilie) |
 | Grootte | 32 µm-39 µm |
-| Vorm | tetrade |
-| Sculptuur | verrucaat |
+| Vorm | tetrade, sferoid |
+| Polariteit | heteropolair |
+| P/E | - |
+| Apertuur | korte brede colpi, tricolpaat of tricolporaat |
+| Sculptuur | psilaat |
+| Bloeitijd | 7-9 |
+| Nectarwaarde | 5 |
+| Pollenwaarde | 5 |
+| pollen_class | 4 |
 
 ### SoT (`data/pollen.yaml`)
 
@@ -18,46 +26,41 @@
 calluna_vulgaris:
   latin: Calluna vulgaris
   dutch: struikheide
-  family: null
+  family: Ericaceae (heidefamilie)
   size:
     smallest_size: 32 µm
     largest_size: 39 µm
     height_px: 98
-  shape: tetrade
-  sculpture: verrucaat
-  aperture: null
+  pollen_class: 4
+  shape: tetrade, sferoid
+  sculpture: psilaat
+  aperture: korte brede colpi, tricolpaat of tricolporaat
   ornamentation: null
-  polarity: null
-  pe_ratio: null
+  polarity: heteropolair
+  pe_ratio: '-'
+  pollen-note: null
   bloeitijd:
-    start: null
-    end: null
+    start: 7
+    end: 9
+  nectar_value: 5
+  pollen_value: 5
+  frequency_in_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris
+    paldat: https://www.paldat.org/pub/Calluna_vulgaris
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - source: monoflorale_md
+    path: pollenID/docs/monoflorale-honing-pollen/heidehoning.md
+  - source: nederlandse_md
+    path: pollenID/docs/nederlandse-honing-pollen/calluna_vulgaris.md
   images:
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
-    kind: paldat
-    source: paldat
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_5.png
-    kind: paldat
-    source: paldat
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png
-    kind: persano_oddo
-    source: persano_oddo
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
-    kind: persano_oddo
-    source: persano_oddo
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_8.png
-    kind: persano_oddo
-    source: persano_oddo
-  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
-    kind: persano_oddo
-    source: persano_oddo
   - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png
     kind: pollenwiki
     source: pollenwiki
   - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_3.png
@@ -66,22 +69,41 @@ calluna_vulgaris:
   - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_4.png
     kind: by_taxon
     source: by_taxon
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris
-    paldat: https://www.paldat.org/pub/Calluna_vulgaris
-    pollenx: https://pollenx.eu/species.php?species=Calluna_vulgaris
-  sources:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_5.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_6.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_7.png
+    kind: paldat
+    source: paldat
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_8.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
+    kind: persano_oddo
+    source: persano_oddo
 ```
 
 ## Determinatiesleutels
 
 ### Beug
+<details><summary>1. Pollenklasse (Beug)</summary>
+
+- Stap 1:
+  - <span class="pid-key-choice pid-key-choice--on">Pollenkorrels (pollenkorrel) per twee, vier of met velen verenigd (dyaden, tetraden, polyaden, pollinia).</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel enkelvoudig (monade).</span>
+- Stap 2:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met velen tezamen.</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel per vier of per twee verenigd.</span>
+- Stap 3:
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel per vier verenigd.</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel per twee verenigd.</span>
+- Eindpunt: [Tetradeae](beug04-tetradeae.md)
+
+</details>
+
 <details><summary>4. Tetradeae (Beug)</summary>
 
 - Stap 1:
@@ -102,6 +124,7 @@ calluna_vulgaris:
 - Stap 7:
   - <span class="pid-key-choice pid-key-choice--off">individuele pollenkorrel echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).</span>
   - <span class="pid-key-choice pid-key-choice--on">individuele pollenkorrel verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest &lt; 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).</span>
+- Eindpunt: 4.7 Ericaceae–Empetrum-groep (groenblijvende dwergstruiken uit de heidefamilie)(Beug)
 
 </details>
 
@@ -113,26 +136,7 @@ calluna_vulgaris:
 - Stap 4:
   - <span class="pid-key-choice pid-key-choice--on">individuele pollenkorrel in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; individuele pollenkorrel soms in één vlak of een rij (tabel 1: 7 en 10).</span>
   - <span class="pid-key-choice pid-key-choice--off">individuele pollenkorrel slechts met 3 colpi.</span>
-
-</details>
-
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
-
-- Stap 1:
-  - <span class="pid-key-choice pid-key-choice--on">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--off">Één losse pollenkorrel (monade)</span>
-- Stap 2:
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels los verbonden, triporaat</span>
-  - <span class="pid-key-choice pid-key-choice--on">individuele korrels stevig verbonden, tricolpaat of tricolporaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">Individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat [to be verified]</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Diversen
+- Eindpunt: 4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48
 
 </details>
 
@@ -141,4 +145,3 @@ calluna_vulgaris:
 - pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris
 - paldat: https://www.paldat.org/pub/Calluna_vulgaris
-- pollenx: https://pollenx.eu/species.php?species=Calluna_vulgaris

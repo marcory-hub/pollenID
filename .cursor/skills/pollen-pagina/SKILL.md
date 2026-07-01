@@ -86,17 +86,9 @@ Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and
 ```
 
 4. **`## Determinatiesleutels` (required)**
-   - Add subsections as applicable, each using HTML callouts:
-     - `### Kerkvliet-determinatietabel voor pollen in Nederlandse honing`
-       - One callout summarising the table row (fields exactly as in `calluna_vulgaris.md`):
-         `Nederlands`, `Vorm`, `Grootte (µm)`, `Oppervlak`, `Opmerkingen`
-     - `### Pollentabel van der Ham`
-       - One callout `Verwacht pad` with `<ol>` and an `Eindpunt` (family-level is fine; state it).
-     - `### Beug: <hoofdstuk/groep>`
-       - One callout tracing the main path.
-       - If a sub-key/group is needed for species: add a second callout titled `Beug: <subgroep>` with its path and endpoint.
-   - Source rule: trace paths by reading JSON; do not edit JSON.
-   - Replacement rule: if the page already contains a free-text `## Sleutels` section, replace it with this structured `## Determinatiesleutels` section.
+   - Follow **`.cursor/skills/trace-key-paths/SKILL.md`**: run `python scripts/extract_key_paths.py <pollen_key> --page-section` and merge into the page.
+   - Add manual bullets only when JSON has no match (see that skill for fallbacks).
+   - Legacy free-text `## Sleutels` → replace with structured `## Determinatiesleutels`.
 
 5. **`## Online databases`**
    - Optional internal pointer(s) first (as in calluna):

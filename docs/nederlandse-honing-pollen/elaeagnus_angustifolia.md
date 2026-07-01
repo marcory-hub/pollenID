@@ -19,12 +19,14 @@ elaeagnus_angustifolia:
     smallest_size: null
     largest_size: null
     height_px: null
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,7 +37,6 @@ elaeagnus_angustifolia:
     pollenX: https://pollenx.eu/species.php?species=Elaeagnus_angustifolia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Elaeagnus_angustifolia
     paldat: https://www.paldat.org/pub/Elaeagnus_angustifolia
-    pollenx: https://pollenx.eu/species.php?species=Elaeagnus_angustifolia
   sources:
   - source: kerkvliet
     path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
@@ -56,16 +57,10 @@ elaeagnus_angustifolia:
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Elaeagnus_angustifolia
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Elaeagnus_angustifolia
 - paldat: https://www.paldat.org/pub/Elaeagnus_angustifolia
-- pollenx: https://pollenx.eu/species.php?species=Elaeagnus_angustifolia

@@ -11,9 +11,10 @@
 | Familie | Poaceae (grassenfamilie) |
 | Grootte | 27 µm-31 µm |
 | Vorm | rond tot ovaal |
-| Apertuur | monoporaat, avena type (beug) |
+| Apertuur | monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm |
 | Sculptuur | ulceraat, scabraat |
 | Ornamentatie | pori vaak met kiemdeksel |
+| pollen_class | 08 |
 
 ### SoT (`data/pollen.yaml`)
 
@@ -26,12 +27,14 @@ alopecurus_pratensis:
     smallest_size: 27 µm
     largest_size: 31 µm
     height_px: 73
+  pollen_class: 08
   shape: rond tot ovaal
   sculpture: ulceraat, scabraat
-  aperture: monoporaat, avena type (beug)
+  aperture: monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm
   ornamentation: pori vaak met kiemdeksel
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -42,13 +45,9 @@ alopecurus_pratensis:
     pollenX: https://pollenx.eu/species.php?species=Alopecurus_pratensis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Alopecurus_pratensis
     paldat: https://www.paldat.org/pub/Alopecurus_pratensis
-    pollenx: https://pollenx.eu/species.php?species=Alopecurus_pratensis
   sources: []
   images:
   - path: assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_2.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -62,4 +61,3 @@ alopecurus_pratensis:
 - pollenX: https://pollenx.eu/species.php?species=Alopecurus_pratensis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Alopecurus_pratensis
 - paldat: https://www.paldat.org/pub/Alopecurus_pratensis
-- pollenx: https://pollenx.eu/species.php?species=Alopecurus_pratensis

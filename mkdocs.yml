@@ -72,7 +72,7 @@ nav:
       - Boekweit: monoflorale-honing-pollen/boekweithoning.md
   - Nederlands:
       - Overzicht: nederlandse-honing-pollen/_index.md
-      - acer-platanoides: nederlandse-honing-pollen/acer-platanoides.md
+      - acer-platanoides: nederlandse-honing-pollen/acer_platanoides.md
       - achillea-typ: nederlandse-honing-pollen/achillea-typ.md
       - ailanthus: nederlandse-honing-pollen/ailanthus.md
       - allium-typ: nederlandse-honing-pollen/allium-typ.md
@@ -94,6 +94,7 @@ nav:
       - echium: nederlandse-honing-pollen/echium.md
       - eleagnaceae: nederlandse-honing-pollen/eleagnaceae.md
       - epilobium: nederlandse-honing-pollen/epilobium.md
+      - fagopyrum_esculentum: nederlandse-honing-pollen/fagopyrum_esculentum.md
       - filipendula: nederlandse-honing-pollen/filipendula.md
       - fragaria: nederlandse-honing-pollen/fragaria.md
       - fraxinus: nederlandse-honing-pollen/fraxinus.md

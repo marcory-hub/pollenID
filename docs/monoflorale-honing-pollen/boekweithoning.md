@@ -28,8 +28,8 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Latijn** | Fagopyrum esculentum |
-| **Nederlands** |  |
-| **Familie** |  |
+| **Nederlands** | boekweit |
+| **Familie** | duizendknoopfamilie |
 | **Grootte** | 51 µm |
 | **Vorm** | rond, sferoid |
 | **Sculptuur** | reticulaat, aperturen met korrelige ornamentering |
@@ -37,9 +37,9 @@
 | **Ornamentatie** |  |
 | **Polariteit** | isopolair |
 | **P/E-ratio** | 1.1 |
-| **Bloeitijd** |  |
-| **Nectarwaarde** |  |
-| **Pollenwaarde** |  |
+| **Bloeitijd** | 6-8 |
+| **Nectarwaarde** | 5 |
+| **Pollenwaarde** | 5 |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Fagopyrum_esculentum)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Fagopyrum_esculentum)<br>[PalDat](https://www.paldat.org/pub/Fagopyrum_esculentum) |
 

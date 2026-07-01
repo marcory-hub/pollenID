@@ -19,12 +19,14 @@ lychnis_flos-cuculi:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,16 +37,9 @@ lychnis_flos-cuculi:
     pollenX: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lychnis_flos-cuculi
     paldat: https://www.paldat.org/pub/Lychnis_flos-cuculi
-    pollenx: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi
   sources: []
   images:
   - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_2.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_3.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -58,4 +53,3 @@ lychnis_flos-cuculi:
 - pollenX: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lychnis_flos-cuculi
 - paldat: https://www.paldat.org/pub/Lychnis_flos-cuculi
-- pollenx: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi

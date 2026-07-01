@@ -1,4 +1,4 @@
-# *Artemisia Vulgaris*
+# *Artemisia vulgaris* (bijvoet)
 
 {{ pollen_gallery("artemisia_vulgaris") }}
 
@@ -6,25 +6,37 @@
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Artemisia Vulgaris |
+| Latijn | Artemisia vulgaris |
+| Nederlands | bijvoet |
+| Familie | Asteraceae (composietenfamilie) |
+| Grootte | 20 µm-23 µm |
+| Vorm | rond tot gering rosetvormig/lobaat, sferoid tot gering oblaat |
+| Polariteit | 0.9 |
+| P/E | 0.3 |
+| Apertuur | tricolporaat (pw), echinaat (pd) |
+| Sculptuur | reticulaat |
+| Ornamentatie | geen |
+| pollen_class | 14 |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 artemisia_vulgaris:
-  latin: Artemisia Vulgaris
-  dutch: null
-  family: null
+  latin: Artemisia vulgaris
+  dutch: bijvoet
+  family: Asteraceae (composietenfamilie)
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
+    smallest_size: 20 µm
+    largest_size: 23 µm
+    height_px: 54
+  pollen_class: 14
+  shape: rond tot gering rosetvormig/lobaat, sferoid tot gering oblaat
+  sculpture: reticulaat
+  aperture: tricolporaat (pw), echinaat (pd)
+  ornamentation: geen
+  polarity: 0.9
+  pe_ratio: 0.3
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,7 +47,6 @@ artemisia_vulgaris:
     pollenX: https://pollenx.eu/species.php?species=Artemisia_vulgaris
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Artemisia_vulgaris
     paldat: https://www.paldat.org/pub/Artemisia_vulgaris
-    pollenx: https://pollenx.eu/species.php?species=Artemisia_vulgaris
   sources: []
   images:
   - path: assets/images/by-taxon/artemisia_vulgaris/artemisia_vulgaris_1.png
@@ -57,61 +68,10 @@ artemisia_vulgaris:
 
 ## Determinatiesleutels
 
-### Vanderham
-<details><summary>Pollentabel (van der Ham)</summary>
-
-- Stap 1:
-  - <span class="pid-key-choice pid-key-choice--off">Vier pollenkorrels bij elkaar (tetrade)</span>
-  - <span class="pid-key-choice pid-key-choice--on">Één losse pollenkorrel (monade)</span>
-- Stap 3:
-  - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel met twee luchtzakken (vesiculaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder luchtzakken</span>
-- Stap 4:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met ‘vensters’ (fenestraat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder ‘vensters’</span>
-- Stap 5:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder aperturen (inaperturaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met één of meer aperturen</span>
-- Stap 9:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met één apertuur</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met drie of meer aperturen</span>
-- Stap 12:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer langwerpige aperturen (colpi) zonder pori (colpaat)</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met drie of meer langwerpige aperturen (colpi) met pori (colporaat)</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met drie of meer ± ronde aperturen (pori; poraat)</span>
-- Stap 36:
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met meer dan drie colpi</span>
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met drie colpi (tricolporaat)</span>
-- Stap 39:
-  - <span class="pid-key-choice pid-key-choice--off">ornamentatie perforaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">ornamentatie psilaat of scabraat</span>
-  - <span class="pid-key-choice pid-key-choice--on">ornamentatie echinaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">ornamentatie striaat of rugulaat</span>
-  - <span class="pid-key-choice pid-key-choice--off">ornamentatie foveolaat (tectum met putjes) of suprareticulaat (netwerk op tectum)</span>
-  - <span class="pid-key-choice pid-key-choice--off">ornamentatie eureticulaat (netwerk is tectum)</span>
-- Stap 55:
-  - <span class="pid-key-choice pid-key-choice--off">stekels met cylindrische basis, zuiltjes in infratectum recht, niet vertakt</span>
-  - <span class="pid-key-choice pid-key-choice--on">stekels kegelvormig (soms erg klein), zuiltjes in infratectum vertakt of onduidelijk</span>
-- Stap 56:
-  - <span class="pid-key-choice pid-key-choice--on">stekels kleiner dan 1½ µm of onduidelijk</span>
-  - <span class="pid-key-choice pid-key-choice--off">stekels groter dan 1½ µm</span>
-- Stap 57:
-  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel klein (20–30 µm)</span>
-  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel groot (± 100 µm)</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met stekels echinaat fenestraat
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Artemisia_vulgaris
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Artemisia_vulgaris
 - paldat: https://www.paldat.org/pub/Artemisia_vulgaris
-- pollenx: https://pollenx.eu/species.php?species=Artemisia_vulgaris

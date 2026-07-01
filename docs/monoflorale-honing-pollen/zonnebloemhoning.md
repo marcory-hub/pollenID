@@ -36,7 +36,7 @@
 | **Grootte** | 35 µm |
 | **Vorm** | rond |
 | **Sculptuur** | echinaat H |
-| **Apertuur** | 3-colporaat |
+| **Apertuur** | tricolporaat |
 | **Ornamentatie** |  |
 | **Polariteit** | isopolair |
 | **P/E-ratio** |  |

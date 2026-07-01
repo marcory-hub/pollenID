@@ -20,22 +20,17 @@ rosmarinus_officinalis:
     smallest_size: 36 µm
     largest_size: 40 µm
     height_px: 100
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
-  images:
-  - path: assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png
-    kind: persano_oddo
-    source: persano_oddo
-  - path: assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_2.png
-    kind: persano_oddo
-    source: persano_oddo
   nectar_value: null
   pollen_value: null
   frequency_in_honey: null
@@ -43,10 +38,16 @@ rosmarinus_officinalis:
     pollenX: https://pollenx.eu/species.php?species=Rosmarinus_officinalis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosmarinus_officinalis
     paldat: https://www.paldat.org/pub/Rosmarinus_officinalis
-    pollenx: https://pollenx.eu/species.php?species=Rosmarinus_officinalis
   sources:
   - source: monoflorale_md
     path: pollenID/docs/monoflorale-honing-pollen/rosemarijnhoning.md
+  images:
+  - path: assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_1.png
+    kind: persano_oddo
+    source: persano_oddo
+  - path: assets/images/by-taxon/rosmarinus_officinalis/rosmarinus_officinalis_2.png
+    kind: persano_oddo
+    source: persano_oddo
 ```
 
 ## Determinatiesleutels
@@ -58,4 +59,3 @@ rosmarinus_officinalis:
 - pollenX: https://pollenx.eu/species.php?species=Rosmarinus_officinalis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosmarinus_officinalis
 - paldat: https://www.paldat.org/pub/Rosmarinus_officinalis
-- pollenx: https://pollenx.eu/species.php?species=Rosmarinus_officinalis

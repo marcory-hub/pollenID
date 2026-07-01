@@ -10,7 +10,7 @@
 | Nederlands | rode kornoelje |
 | Grootte | 50 µm |
 | Vorm | O/∆/ovaal |
-| Apertuur | 3-colporaat |
+| Apertuur | tricolporaat |
 | Sculptuur | scabraat/reticulaat |
 
 ### SoT (`data/pollen.yaml`)
@@ -24,15 +24,27 @@ cornus_sanguinea:
     smallest_size: 50 µm
     largest_size: 50 µm
     height_px: 125
+  pollen_class: null
   shape: O/∆/ovaal
   sculpture: scabraat/reticulaat
-  aperture: 3-colporaat
+  aperture: tricolporaat
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Cornus_sanguinea
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea
+    paldat: https://www.paldat.org/pub/Cornus_sanguinea
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
   - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_1.png
     kind: pollenwiki
@@ -43,17 +55,6 @@ cornus_sanguinea:
   - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_3.png
     kind: pollenwiki
     source: pollenwiki
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Cornus_sanguinea
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea
-    paldat: https://www.paldat.org/pub/Cornus_sanguinea
-    pollenx: https://pollenx.eu/species.php?species=Cornus_sanguinea
-  sources:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 ```
 
 ## Determinatiesleutels
@@ -108,6 +109,7 @@ cornus_sanguinea:
 - Stap 49:
   - <span class="pid-key-choice pid-key-choice--on">PK microverrucat, über 50 µm groot (Tafel 31: 9-13)</span>
   - <span class="pid-key-choice pid-key-choice--off">PK kleiner, psilaat of scabraat, aber niet ausgesprochen microverrucat</span>
+- Eindpunt: Cornus sanguinea (S. 203)
 
 </details>
 
@@ -158,6 +160,7 @@ cornus_sanguinea:
 - Stap 49:
   - <span class="pid-key-choice pid-key-choice--on">PK microverrucat, über 50 µm groot (Tafel 31: 9-13)</span>
   - <span class="pid-key-choice pid-key-choice--off">PK kleiner, psilaat of scabraat, aber niet ausgesprochen microverrucat</span>
+- Eindpunt: Cornus sanguinea (S. 203)
 
 </details>
 
@@ -168,13 +171,7 @@ cornus_sanguinea:
 - Stap 1:
   - <span class="pid-key-choice pid-key-choice--on">PK ca. 55-80 µm groot, prolaat bis perprolaat</span>
   - <span class="pid-key-choice pid-key-choice--off">PK &lt; 40 µm</span>
-
-</details>
-
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+- Eindpunt: 15.1.1 Cornus sanguinea
 
 </details>
 
@@ -183,4 +180,3 @@ cornus_sanguinea:
 - pollenX: https://pollenx.eu/species.php?species=Cornus_sanguinea
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea
 - paldat: https://www.paldat.org/pub/Cornus_sanguinea
-- pollenx: https://pollenx.eu/species.php?species=Cornus_sanguinea

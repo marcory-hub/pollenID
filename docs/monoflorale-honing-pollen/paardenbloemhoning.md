@@ -5,8 +5,8 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Latijn** | Taraxacum officinale |
-| **Nederlands** |  |
-| **Familie** |  |
+| **Nederlands** | paardenbloem |
+| **Familie** | Asteraceae (composietenfamilie) |
 | **Grootte** | 28 µm |
 | **Vorm** | rond tot driehoekig, sferoid |
 | **Sculptuur** | fenestraat, echinaat |
@@ -19,8 +19,6 @@
 | **Pollenwaarde** |  |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Taraxacum_officinale)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale)<br>[PalDat](https://www.paldat.org/pub/Taraxacum_officinale) |
-
-{{ pollen_gallery("taraxacum_officinale") }}
 
 ## Kenmerken
 

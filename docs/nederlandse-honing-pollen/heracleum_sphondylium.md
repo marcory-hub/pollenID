@@ -19,12 +19,14 @@ heracleum_sphondylium:
     smallest_size: null
     largest_size: null
     height_px: 112
+  pollen_class: null
   shape: null
   sculpture: null
   aperture: null
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
@@ -35,19 +37,9 @@ heracleum_sphondylium:
     pollenX: https://pollenx.eu/species.php?species=Heracleum_sphondylium
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Heracleum_sphondylium
     paldat: https://www.paldat.org/pub/Heracleum_sphondylium
-    pollenx: https://pollenx.eu/species.php?species=Heracleum_sphondylium
   sources: []
   images:
   - path: assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_2.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_3.png
-    kind: by_taxon
-    source: by_taxon
-  - path: assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_4.png
     kind: by_taxon
     source: by_taxon
 ```
@@ -61,4 +53,3 @@ heracleum_sphondylium:
 - pollenX: https://pollenx.eu/species.php?species=Heracleum_sphondylium
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Heracleum_sphondylium
 - paldat: https://www.paldat.org/pub/Heracleum_sphondylium
-- pollenx: https://pollenx.eu/species.php?species=Heracleum_sphondylium

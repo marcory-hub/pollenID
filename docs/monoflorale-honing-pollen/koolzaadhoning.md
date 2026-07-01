@@ -31,18 +31,18 @@
 | Kenmerk | Waarde |
 | --- | --- |
 | **Latijn** | Brassica napus (koolzaad |
-| **Nederlands** |  |
-| **Familie** |  |
+| **Nederlands** | koolzaad |
+| **Familie** | Brassicaceae (Kruisbloemenfamilie) |
 | **Grootte** | 22.3-28.2 µm |
 | **Vorm** | rond, sferoid to optisch gering prolaat |
-| **Sculptuur** | apertuurmembranen bevatten deels gering korrelig ornamentering |
-| **Apertuur** | tricolpaat |
+| **Sculptuur** | reticulaat |
+| **Apertuur** | tricolpaat, apertuurmembranen bevatten deels gering korrelig ornamentering |
 | **Ornamentatie** |  |
-| **Polariteit** | isopolair |
-| **P/E-ratio** | PoFormI ca. 1.01; 0.96-1.12 |
-| **Bloeitijd** |  |
-| **Nectarwaarde** |  |
-| **Pollenwaarde** |  |
+| **Polariteit** | 1.01 |
+| **P/E-ratio** | 0.21 |
+| **Bloeitijd** | 4-8 |
+| **Nectarwaarde** | 5 |
+| **Pollenwaarde** | 5 |
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Brassica_napus)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Brassica_napus)<br>[PalDat](https://www.paldat.org/pub/Brassica_napus) |
 

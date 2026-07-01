@@ -24,15 +24,27 @@ viola_tricolor:
     smallest_size: 70 µm
     largest_size: 70 µm
     height_px: 175
+  pollen_class: null
   shape: 4-5-hoekig
   sculpture: glad
   aperture: 5-colporaat
   ornamentation: null
   polarity: null
   pe_ratio: null
+  pollen-note: null
   bloeitijd:
     start: null
     end: null
+  nectar_value: null
+  pollen_value: null
+  frequency_in_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Viola_tricolor
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Viola_tricolor
+    paldat: https://www.paldat.org/pub/Viola_tricolor
+  sources:
+  - source: kerkvliet
+    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
   - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_1.png
     kind: pollenwiki
@@ -46,31 +58,14 @@ viola_tricolor:
   - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_4.png
     kind: pollenwiki
     source: pollenwiki
-  nectar_value: null
-  pollen_value: null
-  frequency_in_honey: null
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Viola_tricolor
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Viola_tricolor
-    paldat: https://www.paldat.org/pub/Viola_tricolor
-    pollenx: https://pollenx.eu/species.php?species=Viola_tricolor
-  sources:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
 ```
 
 ## Determinatiesleutels
 
-### Kerkvliet
-<details><summary>kerkvliet_determinatietabel</summary>
-
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
-
-</details>
+[to be verified]
 
 ## Online databases
 
 - pollenX: https://pollenx.eu/species.php?species=Viola_tricolor
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Viola_tricolor
 - paldat: https://www.paldat.org/pub/Viola_tricolor
-- pollenx: https://pollenx.eu/species.php?species=Viola_tricolor

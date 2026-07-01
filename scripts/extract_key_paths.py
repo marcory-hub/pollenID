@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""Trace pollen_key through Beug, van der Ham, and Kerkvliet key JSON; render page-ready Markdown."""
+
 from __future__ import annotations
 
 import json
@@ -341,7 +344,13 @@ def extract_paths_for_taxon(taxon_key: str) -> Dict[str, List[PathRender]]:
     return out
 
 
-def render_paths_markdown(taxon_key: str) -> str:
+_SUMMARY_BY_SYSTEM = {
+    "vanderham": "Pollentabel (van der Ham)",
+    "kerkvliet": "kerkvliet_determinatietabel",
+}
+
+
+def render_paths_markdown(taxon_key: str, *, page_section: bool = False) -> str:
     paths = extract_paths_for_taxon(taxon_key)
     blocks: List[str] = []
 
@@ -361,6 +370,9 @@ def render_paths_markdown(taxon_key: str) -> str:
                 )
                 safe = lbl.replace("<", "&lt;").replace(">", "&gt;")
                 step_lines.append(f'  - <span class="{cls}">{safe}</span>')
+        if pr.outcome_label and pr.outcome_label.strip() != taxon_key:
+            safe_out = pr.outcome_label.replace("<", "&lt;").replace(">", "&gt;")
+            step_lines.append(f"- Eindpunt: {safe_out}")
         return "\n".join(step_lines)
 
     for system in ["beug", "vanderham", "kerkvliet"]:
@@ -372,7 +384,8 @@ def render_paths_markdown(taxon_key: str) -> str:
         for pr in sys_paths:
             grouped.setdefault(pr.key_id, []).append(pr)
 
-        blocks.append(f"### {system.capitalize()}")
+        heading = {"beug": "Beug", "vanderham": "Vanderham", "kerkvliet": "Kerkvliet"}[system]
+        blocks.append(f"### {heading}")
         def sort_key(item: tuple[str, List[PathRender]]) -> tuple[int, str]:
             key_id, _prs = item
             if system == "beug":
@@ -383,7 +396,9 @@ def render_paths_markdown(taxon_key: str) -> str:
             return (0, key_id)
 
         for _, prs in sorted(grouped.items(), key=sort_key):
-            title = prs[0].key_title
+            title = _SUMMARY_BY_SYSTEM.get(system) or prs[0].key_title
+            if system == "beug":
+                title = prs[0].key_title
             blocks.append(f"<details><summary>{title}</summary>\n")
             for idx, pr in enumerate(prs, start=1):
                 if len(prs) > 1:
@@ -394,13 +409,39 @@ def render_paths_markdown(taxon_key: str) -> str:
                 blocks.append("")
             blocks.append("</details>\n")
 
-    return "\n".join(blocks).strip() + "\n"
+    body = "\n".join(blocks).strip()
+    if not body:
+        return ""
+    if page_section:
+        return f"## Determinatiesleutels\n\n{body}\n"
+    return body + "\n"
 
 
 if __name__ == "__main__":
     import argparse
 
-    ap = argparse.ArgumentParser()
-    ap.add_argument("taxon_key")
+    ap = argparse.ArgumentParser(
+        description="Trace pollen_key through Beug, van der Ham, and Kerkvliet key JSON."
+    )
+    ap.add_argument("taxon_key", help="pollen_key slug from data/pollen.yaml")
+    ap.add_argument(
+        "--page-section",
+        action="store_true",
+        help="Wrap output in ## Determinatiesleutels (for taxon pages).",
+    )
+    ap.add_argument(
+        "--status",
+        action="store_true",
+        help="Print which key systems matched (stderr).",
+    )
     args = ap.parse_args()
-    print(render_paths_markdown(args.taxon_key))
+    paths = extract_paths_for_taxon(args.taxon_key)
+    if args.status:
+        for system in ("beug", "vanderham", "kerkvliet"):
+            count = len(paths.get(system, []))
+            print(f"{system}: {count} path(s)", file=__import__("sys").stderr)
+    rendered = render_paths_markdown(args.taxon_key, page_section=args.page_section)
+    if rendered:
+        print(rendered, end="")
+    elif args.status:
+        print("no paths found in key JSON", file=__import__("sys").stderr)

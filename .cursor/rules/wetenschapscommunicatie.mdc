@@ -1,0 +1,48 @@
+---
+description: Science-communication style while drafting and editing the article
+globs: paper/draft.md,paper/main.md
+alwaysApply: false
+---
+
+# Writing process (popular science style)
+
+Companion while you **write or revise** files in `docs/`. Full checklists: `docs/naslag/wetenschapscommunicatie-digest.md`.
+
+**Digest is craft/style only: never a factual source.**
+
+This rule keeps style during the writing process. For a separate editor read-through on finished prose, use `@editorial-review`.
+
+## Before you write
+
+- Audience and word budget: melisopalynology learners.
+- Text blocks in this repo should be short and easy to read. 
+
+## Structure
+
+- Open with curiosity, not background ("Reeds de oude Grieken…" = afhaker).
+- Front-load the main point (omgekeerde piramide / not zandloper).
+- Use: **pakkend begin → onderhoudend midden → helder einde**.
+- One idea per section (~400 words max per block).
+
+## Style
+
+- Cut **afhakers** (anything that stops a tired reader).
+- Prefer active verbs; avoid passives, nominalizations, filler (*door middel van*).
+- **Lekkere woorden**: strong word at sentence end; fix tangled Dutch word order.
+- **Lakmoesproef**: sentences must read smoothly aloud.
+- Explain jargon once on first use; drop terms a plain word can replace.
+- Watch double meanings (*significant*, *model*, *experiment*, *theorie*).
+
+## Metaphors
+
+- Use when abstract → tangible (e.g. luchtalarm/parfum is good *if* it clarifies faster than it confuses).
+- Drop metaphors that need more explanation than the science itself.
+
+## Graphs (PubMed figure)
+
+- One clear message; labeled axes; honest scale (no truncated y-axis = lieggrafiek).
+- Prefer counts over naked percentages when scale matters.
+
+## After a writing session
+
+- Run the digest "Quick pre-publish" checklist before you call a section done.

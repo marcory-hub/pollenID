@@ -1,11 +1,11 @@
 {
   "meta": {
     "key": "vanderham_pollentabel_scans",
-    "title": "Pollentabel (van der Ham)",
+    "title": "Pollentabel (van der Ham) — interactieve structuur uit scans",
     "locale": "nl",
-    "source": "pollentabel van der Ham 1999",
+    "source": "Handgetypte transcriptie van door de gebruiker aangeleverde paginascans (april 2026). Geen koppeling met docs/keys/vanderham/*.md.",
+    "note": "Druk-cijfers tussen haakjes in het boek zijn weggelaten. Stap 11: tweede optie is op de eerste scan afgekapt.",
     "stepCount": 82,
-    "hide_images": false,
     "start": "1"
   },
   "start": "1",
@@ -15,14 +15,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "Vier pollenkorrels bij elkaar (tetrade)",
-          "next": "2",
-          "pollen_key": "calluna_vulgaris"
+          "label": "vier pollenkorrels bij elkaar (tetrade)",
+          "next": "2"
         },
         {
-          "label": "Één losse pollenkorrel (monade)",
-          "next": "3",
-          "pollen_key": "brassica_napus"
+          "label": "één losse pollenkorrel (monade)",
+          "next": "3"
         }
       ]
     },
@@ -31,33 +29,21 @@
       "type": "step",
       "choices": [
         {
-          "label": "Individuele korrels los verbonden, triporaat",
-          "id": {
-            "name": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Epilobium (basterdwederik soorten)",
-            "pollen_key": "epilobium_angustifolium"
+          "label": "individuele korrels los verbonden, triporaat",
+          "outcome": {
+            "text": "Onagraceae (*Epilobium*)"
           }
         },
         {
           "label": "individuele korrels stevig verbonden, tricolpaat of tricolporaat",
-          "id": {
-            "name": "Ericaceae (Calluna, Erica, Rhododendron, Vaccinium)",
-            "pollen_keys": [
-              "calluna_vulgaris",
-              "erica_tetralix",
-              "rhododendron_ponticum",
-              "vaccinium_vitis_idaea"
-            ]
+          "outcome": {
+            "text": "Ericaceae (*Calluna, Erica, Rhododendron, Vaccinium*)"
           }
         },
         {
-          "label": "Individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat [to be verified]",
-          "id": {
-            "name": "[Juncaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juncaceae) (Juncus (rus), Luzula (veldbies))",
-            "pollen_key": "pollen_key_placeholder_luzula_veldbies",
-            "pollen_keys": [
-              "luzula_sylvatica",
-              "juncus_jacquinii"
-            ]
+          "label": "individuele korrels stevig verbonden, zeer dunwandig (dunner dan 1 µm), inaperturaat",
+          "outcome": {
+            "text": "Juncaceae (*Juncus, Luzula*)"
           }
         }
       ]
@@ -67,21 +53,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel met twee luchtzakken (vesiculaat)",
-          "id": {
-            "name": "[Pinaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Pinaceae) (Picea, Pinus)",
-            "pollen_key": "pollen_key_placeholder_onbekend",
-            "pollen_keys": [
-              "picea_omorika",
-              "pinus_sylvestris",
-              "pinus_nigra"
-            ]
+          "label": "pollenkorrel met twee luchtzakken (vesiculaat)",
+          "outcome": {
+            "text": "Pinaceae (*Picea, Pinus*)"
           }
         },
         {
           "label": "pollenkorrel zonder luchtzakken",
-          "next": "4",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_luchtzakken"
+          "next": "4"
         }
       ]
     },
@@ -91,22 +70,13 @@
       "choices": [
         {
           "label": "pollenkorrel met ‘vensters’ (fenestraat)",
-          "id": {
-            "name": "Asteraceae (Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum)",
-            "pollen_key": "pollen_key_placeholder_asteraceae_cichorium_hieracium_lactuca_sonchus_taraxacum",
-            "pollen_keys": [
-              "cichorium_intybus",
-              "hieracium_austriacum",
-              "lactuca_sativa",
-              "sonchus_arvensis",
-              "taraxacum_officinale"
-            ]
+          "outcome": {
+            "text": "Asteraceae (*Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum*)"
           }
         },
         {
           "label": "pollenkorrel zonder ‘vensters’",
-          "next": "5",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_vensters"
+          "next": "5"
         }
       ]
     },
@@ -116,13 +86,11 @@
       "choices": [
         {
           "label": "pollenkorrel zonder aperturen (inaperturaat)",
-          "next": "6",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_aperturen_inaperturaat"
+          "next": "6"
         },
         {
           "label": "pollenkorrel met één of meer aperturen",
-          "next": "9",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_een_of_meer_aperturen"
+          "next": "9"
         }
       ]
     },
@@ -132,19 +100,13 @@
       "choices": [
         {
           "label": "pollenkorrel peervormig",
-          "id": {
-            "name": "Cyperaceae (Carex, Scirpus)",
-            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_scirpus",
-            "pollen_keys": [
-              "carex_pendula",
-              "scirpus_sylvaticus"
-            ]
+          "outcome": {
+            "text": "Cyperaceae (*Carex, Scirpus*)"
           }
         },
         {
           "label": "pollenkorrel ± rond",
-          "next": "7",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond"
+          "next": "7"
         }
       ]
     },
@@ -154,22 +116,19 @@
       "choices": [
         {
           "label": "ornamentatie perforaat tot fijn reticulaat, pollenkorrel niet gespleten",
-          "id": {
-            "name": "Thymelaeaceae (Daphne)",
-            "pollen_key": "daphne_mezereum"
+          "outcome": {
+            "text": "Thymelaeaceae (*Daphne*)"
           }
         },
         {
           "label": "ornamentatie dicht scabraat, pollenkorrel niet gespleten",
-          "id": {
-            "name": "Salicaceae (Populus)",
-            "pollen_key": "populus_nigra"
+          "outcome": {
+            "text": "Salicaceae (*Populus*)"
           }
         },
         {
           "label": "ornamentatie meer of minder dicht verrucaat, pollenkorrel vaak gespleten",
-          "next": "8",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_meer_of_minder_dicht_verrucaat_pollenkorrel_vaak_gespleten"
+          "next": "8"
         }
       ]
     },
@@ -179,16 +138,14 @@
       "choices": [
         {
           "label": "wratten onregelmatig verspreid (oppervlak met kale plekken)",
-          "id": {
-            "name": "Cupressaceae (Juniperus)",
-            "pollen_key": "juniperus_communis"
+          "outcome": {
+            "text": "Cupressaceae (*Juniperus*)"
           }
         },
         {
           "label": "wratten regelmatig verspreid (geen kale plekken)",
-          "id": {
-            "pollen_key": "taxus_baccata",
-            "note": "Taxaceae (Taxus baccata)"
+          "outcome": {
+            "text": "Taxaceae (*Taxus baccata*)"
           }
         }
       ]
@@ -199,13 +156,11 @@
       "choices": [
         {
           "label": "pollenkorrel met één apertuur",
-          "next": "10",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_een_apertuur"
+          "next": "10"
         },
         {
           "label": "pollenkorrel met drie of meer aperturen",
-          "next": "12",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_aperturen"
+          "next": "12"
         }
       ]
     },
@@ -215,26 +170,19 @@
       "choices": [
         {
           "label": "apertuur spiraal- of lusvormig: ‘tennisbal-patroon’ (syncolpaat)",
-          "id": {
-            "name": "Berberidaceae (Berberis)",
-            "pollen_key": "berberis_vulgaris"
+          "outcome": {
+            "text": "Berberidaceae (*Berberis*)"
           }
         },
         {
           "label": "apertuur langwerpig, groot (monocolpaat)",
-          "id": {
-            "name": "Veel monocotylen (o.m. Iridaceae, Liliaceae), enkele dicotylen (o.m. Magnolia)",
-            "pollen_keys": [
-              "iris_pseudacorus",
-              "lilium_regale",
-              "magnolia_kobus"
-            ]
+          "outcome": {
+            "text": "Veel monocotylen (o.m. Iridaceae, Liliaceae), enkele dicotylen (o.m. *Magnolia*)"
           }
         },
         {
           "label": "apertuur ± rond, klein (monoporaat)",
-          "next": "11",
-          "pollen_key": "pollen_key_placeholder_apertuur_rond_klein_monoporaat"
+          "next": "11"
         }
       ]
     },
@@ -244,23 +192,19 @@
       "choices": [
         {
           "label": "porus duidelijk, met verdikte rand (annulus), pollenkorrel ± rond",
-          "id": {
-            "name": "Poaceae (alle geslachten)",
-            "pollen_key": "pollen_key_placeholder_poaceae_alle_geslachten"
+          "outcome": {
+            "text": "Poaceae (alle geslachten)"
           }
         },
         {
           "label": "porus onduidelijk, zonder verdikte rand, aan de stompe zijde van een peervormige korrel",
-          "id": {
-            "name": "Cyperaceae (Carex, Scirpus)",
-            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_scirpus",
-            "pollen_keys": [
-              "carex_pendula",
-              "scirpus_sylvaticus"
-            ]
+          "outcome": {
+            "text": "[Bronscan eindigt hier; vervolgstap niet op deze pagina — zie drukwerk van der Ham.]",
+            "incomplete": true
           }
         }
-      ]
+      ],
+      "note": "Tweede optie afgekapt op eerste pagina-scan."
     },
     "12": {
       "id": "12",
@@ -268,23 +212,19 @@
       "choices": [
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) zonder pori (colpaat)",
-          "next": "16",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_langwerpige_aperturen_colpi_zonder_pori_colpaat"
+          "next": "16"
         },
         {
           "label": "pollenkorrel met drie of meer langwerpige aperturen (colpi) met pori (colporaat)",
-          "next": "36",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_langwerpige_aperturen_colpi_met_pori_colporaat"
+          "next": "36"
         },
         {
           "label": "pollenkorrel met drie colpi met pori afgewisseld door drie colpi zonder pori, of colpi op een andere manier verschillend (heterocolpaat)",
-          "next": "13",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_colpi_met_pori_afgewisseld_door_drie_colpi_zonder_pori_of_colpi_op_een_andere_manier_verschillend_heterocolpaat"
+          "next": "13"
         },
         {
           "label": "pollenkorrel met drie of meer ± ronde aperturen (pori; poraat)",
-          "next": "72",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_of_meer_ronde_aperturen_pori_poraat"
+          "next": "72"
         }
       ]
     },
@@ -294,13 +234,11 @@
       "choices": [
         {
           "label": "pollenkorrel kleiner dan 15 µm",
-          "next": "14",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_15_m"
+          "next": "14"
         },
         {
           "label": "pollenkorrel groter dan 15 µm",
-          "next": "15",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_15_m"
+          "next": "15"
         }
       ]
     },
@@ -310,16 +248,14 @@
       "choices": [
         {
           "label": "colpi kruisvormig (met equatoriale ‘takken’)",
-          "id": {
-            "pollen_key": "cynoglossum_officinale",
-            "note": "Boraginaceae (Cynoglossum officinale)"
+          "outcome": {
+            "text": "Boraginaceae (*Cynoglossum officinale*)"
           }
         },
         {
           "label": "colpi recht (niet ‘vertakt’)",
-          "id": {
-            "name": "Boraginaceae (Myosotis)",
-            "pollen_key": "myosotis_scorpioides"
+          "outcome": {
+            "text": "Boraginaceae (*Myosotis*)"
           }
         }
       ]
@@ -330,16 +266,14 @@
       "choices": [
         {
           "label": "ornamentatie striaat",
-          "id": {
-            "pollen_key": "lythrum_salicaria",
-            "note": "Lythraceae (Lythrum salicaria)"
+          "outcome": {
+            "text": "Lythraceae (*Lythrum salicaria*)"
           }
         },
         {
           "label": "ornamentatie fijn reticulaat (mazen kleiner dan 1 µm)",
-          "id": {
-            "pollen_key": "phacelia_tanacetifolia",
-            "note": "Hydrophyllaceae (Phacelia tanacetifolia)"
+          "outcome": {
+            "text": "Hydrophyllaceae (*Phacelia tanacetifolia*)"
           }
         }
       ]
@@ -350,22 +284,19 @@
       "choices": [
         {
           "label": "pollenkorrel met zes lange colpi (stephanocolpaat)",
-          "id": {
-            "name": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) (vele geslachten)",
-            "pollen_key": "lamium_album"
+          "outcome": {
+            "text": "Lamiaceae (vele geslachten)"
           }
         },
         {
           "label": "pollenkorrel stomp rechthoekig, met vier korte colpi op de hoekpunten (stephanocolpaat)",
-          "id": {
-            "name": "Balsaminaceae (Impatiens)",
-            "pollen_key": "impatiens_balsamina"
+          "outcome": {
+            "text": "Balsaminaceae (*Impatiens*)"
           }
         },
         {
           "label": "pollenkorrel met drie korte of lange colpi (tricolpaat)",
-          "next": "17",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_korte_of_lange_colpi_tricolpaat"
+          "next": "17"
         }
       ]
     },
@@ -375,13 +306,11 @@
       "choices": [
         {
           "label": "tectum afwezig (intectaat) of aanwezig als een netwerk (eureticulaat)",
-          "next": "18",
-          "pollen_key": "pollen_key_placeholder_tectum_afwezig_intectaat_of_aanwezig_als_een_netwerk_eureticulaat"
+          "next": "18"
         },
         {
           "label": "tectum aanwezig (tectaat)",
-          "next": "26",
-          "pollen_key": "pollen_key_placeholder_tectum_aanwezig_tectaat"
+          "next": "26"
         }
       ]
     },
@@ -391,13 +320,11 @@
       "choices": [
         {
           "label": "tectum afwezig",
-          "next": "19",
-          "pollen_key": "pollen_key_placeholder_tectum_afwezig"
+          "next": "19"
         },
         {
           "label": "tectum netvormig",
-          "next": "20",
-          "pollen_key": "pollen_key_placeholder_tectum_netvormig"
+          "next": "20"
         }
       ]
     },
@@ -407,16 +334,14 @@
       "choices": [
         {
           "label": "ornamentatie-elementen variabel van grootte",
-          "id": {
-            "name": "Aquifoliaceae (Ilex)",
-            "pollen_key": "ilex_aquifolium"
+          "outcome": {
+            "text": "Aquifoliaceae (*Ilex*)"
           }
         },
         {
           "label": "ornamentatie-elementen uniform of in twee duidelijk gescheiden formaten aanwezig",
-          "id": {
-            "name": "Linaceae (Linum)",
-            "pollen_key": "linum_usitatissimum"
+          "outcome": {
+            "text": "Linaceae (*Linum*)"
           }
         }
       ]
@@ -427,13 +352,11 @@
       "choices": [
         {
           "label": "colpi in het midden niet versmald",
-          "next": "21",
-          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_niet_versmald"
+          "next": "21"
         },
         {
           "label": "colpi in het midden versmald",
-          "next": "25",
-          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_versmald"
+          "next": "25"
         }
       ]
     },
@@ -443,13 +366,11 @@
       "choices": [
         {
           "label": "pollenkorrel groter dan 50 µm",
-          "next": "22",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_50_m"
+          "next": "22"
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
-          "next": "23",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_50_m"
+          "next": "23"
         }
       ]
     },
@@ -459,20 +380,14 @@
       "choices": [
         {
           "label": "netwerk met duidelijke knotsvormige ornamentatie-elementen",
-          "id": {
-            "name": "Geraniaceae (Geranium)",
-            "pollen_key": "geranium_robertianum"
+          "outcome": {
+            "text": "Geraniaceae (*Geranium*)"
           }
         },
         {
           "label": "netwerk met stekeltjes (kleiner dan 1 µm)",
-          "id": {
-            "pollen_key": "armeria_maritima",
-            "pollen_keys": [
-              "armeria_maritima",
-              "limonium_vulgare"
-            ],
-            "note": "Plumbaginaceae (Armeria maritima, Limonium vulgare)"
+          "outcome": {
+            "text": "Plumbaginaceae (*Armeria maritima, Limonium vulgare*)"
           }
         }
       ]
@@ -483,15 +398,13 @@
       "choices": [
         {
           "label": "mazen van het netwerk kleiner dan 1 µm",
-          "id": {
-            "name": "Saxifragaceae (Saxifraga)",
-            "pollen_key": "saxifraga_rotundifolia"
+          "outcome": {
+            "text": "Saxifragaceae (*Saxifraga*)"
           }
         },
         {
           "label": "tenminste een deel van de mazen groter dan 1 µm",
-          "next": "24",
-          "pollen_key": "pollen_key_placeholder_tenminste_een_deel_van_de_mazen_groter_dan_1_m"
+          "next": "24"
         }
       ]
     },
@@ -501,25 +414,14 @@
       "choices": [
         {
           "label": "mazen duidelijk kleiner naar de colpi toe, colpusranden meestal naar binnen gevouwen",
-          "id": {
-            "name": "Salicaceae (Salix)",
-            "pollen_key": "pollen_key_placeholder_salicaceae_salix",
-            "pollen_keys": [
-              "salix_alba_var_tristis",
-              "salix_caprea"
-            ]
+          "outcome": {
+            "text": "Salicaceae (*Salix*)"
           }
         },
         {
           "label": "mazen niet duidelijk kleiner naar de colpi toe, colpusranden reticulaat",
-          "id": {
-            "name": "Brassicaceae (Brassica, Raphanus, Sinapis)",
-            "pollen_key": "brassica_napus",
-            "pollen_keys": [
-              "brassica_napus",
-              "raphanus_raphanistrum",
-              "sinapis_arvensis"
-            ]
+          "outcome": {
+            "text": "Brassicaceae (*Brassica, Raphanus, Sinapis*)"
           }
         }
       ]
@@ -530,16 +432,14 @@
       "choices": [
         {
           "label": "pollenkorrel kleiner dan 25 µm",
-          "id": {
-            "pollen_key": "sambucus_nigra",
-            "note": "Caprifoliaceae (Sambucus nigra)"
+          "outcome": {
+            "text": "Caprifoliaceae (*Sambucus nigra*)"
           }
         },
         {
           "label": "pollenkorrel groter dan 25 µm",
-          "id": {
-            "name": "Oleaceae (Ligustrum)",
-            "pollen_key": "liguster_vulgare"
+          "outcome": {
+            "text": "Oleaceae (*Ligustrum*)"
           }
         }
       ]
@@ -550,30 +450,25 @@
       "choices": [
         {
           "label": "ornamentatie perforaat",
-          "id": {
-            "name": "Saxifragaceae (Saxifraga)",
-            "pollen_key": "pollen_key_placeholder_saxifragaceae_saxifraga"
+          "outcome": {
+            "text": "Saxifragaceae (*Saxifraga*)"
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
-          "next": "27",
-          "pollen_key": "saxifraga_rotundifolia"
+          "next": "27"
         },
         {
           "label": "ornamentatie echinaat",
-          "next": "28",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_echinaat"
+          "next": "28"
         },
         {
           "label": "ornamentatie striaat of rugulaat",
-          "next": "31",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_striaat_of_rugulaat"
+          "next": "31"
         },
         {
           "label": "ornamentatie suprareticulaat (netwerk op het tectum)",
-          "next": "34",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_suprareticulaat_netwerk_op_het_tectum"
+          "next": "34"
         }
       ]
     },
@@ -583,23 +478,20 @@
       "choices": [
         {
           "label": "nexine onduidelijk, zeer dun",
-          "id": {
-            "name": "Saxifragaceae (Saxifraga)",
-            "pollen_key": "pollen_key_placeholder_saxifragaceae_saxifraga"
+          "outcome": {
+            "text": "Saxifragaceae (*Saxifraga*)"
           }
         },
         {
           "label": "nexine duidelijk, scabrae verspreid",
-          "id": {
-            "name": "Ranunculaceae (Ranunculus)",
-            "pollen_key": "ranunculus_acris"
+          "outcome": {
+            "text": "Ranunculaceae (*Ranunculus*)"
           }
         },
         {
-          "label": "nexine duidelijk, scabrae dicht op elkaar",
-          "id": {
-            "pollen_key": "chelidonium_majus",
-            "note": "Papaveraceae (Chelidonium majus)"
+          "label": "nexine duidelijk, scabrae dicht opeen",
+          "outcome": {
+            "text": "Papaveraceae (*Chelidonium majus*)"
           }
         }
       ]
@@ -610,13 +502,11 @@
       "choices": [
         {
           "label": "pollenkorrel kleiner dan 40 µm",
-          "next": "29",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_40_m"
+          "next": "29"
         },
         {
           "label": "pollenkorrel groter dan 40 µm",
-          "next": "30",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_groter_dan_40_m"
+          "next": "30"
         }
       ]
     },
@@ -626,16 +516,14 @@
       "choices": [
         {
           "label": "colpi met duidelijke wratten op de membraan (= nexine in/onder colpi)",
-          "id": {
-            "name": "Ranunculaceae (Ranunculus)",
-            "pollen_key": "ranunculus_acris"
+          "outcome": {
+            "text": "Ranunculaceae (*Ranunculus*)"
           }
         },
         {
           "label": "colpi zonder wratten op de membraan (of membraan gescheurd)",
-          "id": {
-            "name": "Fagaceae (Quercus)",
-            "pollen_key": "quercus_robor"
+          "outcome": {
+            "text": "Fagaceae (*Quercus*)"
           }
         }
       ]
@@ -646,21 +534,14 @@
       "choices": [
         {
           "label": "colpi lang, stekels duidelijk, op een verbrede basis",
-          "id": {
-            "pollen_key": "valeriana_officinalis",
-            "note": "Valerianaceae (Valeriana officinalis)"
+          "outcome": {
+            "text": "Valerianaceae (*Valeriana officinalis*)"
           }
         },
         {
           "label": "colpi kort, stekels klein, niet op een verbrede basis",
-          "id": {
-            "name": "Dipsacaceae (Dipsacus, Scabiosa, Succisa)",
-            "pollen_key": "pollen_key_placeholder_dipsacaceae_dipsacus_scabiosa_succisa",
-            "pollen_keys": [
-              "dipsacus_sylvester",
-              "scabiosa_columbar",
-              "succisa_pratensis"
-            ]
+          "outcome": {
+            "text": "Dipsacaceae (*Dipsacus, Scabiosa, Succisa*)"
           }
         }
       ]
@@ -671,15 +552,13 @@
       "choices": [
         {
           "label": "pollenkorrel groter dan 50 µm",
-          "id": {
-            "name": "Geraniaceae (Geranium)",
-            "pollen_key": "geranium_robertianum"
+          "outcome": {
+            "text": "Geraniaceae (*Geranium*)"
           }
         },
         {
           "label": "pollenkorrel kleiner dan 50 µm",
-          "next": "32",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_50_m"
+          "next": "32"
         }
       ]
     },
@@ -689,22 +568,13 @@
       "choices": [
         {
           "label": "colpusranden niet recht",
-          "id": {
-            "name": "Rosaceae (o.m. Cotoneaster, Malus, Prunus, Rubus, Spiraea)",
-            "pollen_key": "pollen_key_placeholder_rosaceae_o_m_cotoneaster_malus_prunus_rubus_spiraea",
-            "pollen_keys": [
-              "cotoneaster_intergerrimus",
-              "malus_domestica",
-              "prunus_avium",
-              "rubus_idaeus",
-              "spiraea_japonica"
-            ]
+          "outcome": {
+            "text": "Rosaceae (o.m. *Cotoneaster, Malus, Prunus, Rubus, Spiraea*)"
           }
         },
         {
           "label": "colpusranden recht",
-          "next": "33",
-          "pollen_key": "pollen_key_placeholder_colpusranden_recht"
+          "next": "33"
         }
       ]
     },
@@ -714,23 +584,14 @@
       "choices": [
         {
           "label": "ornamentatie-elementen (muri) vooral meridionaal (± loodrecht op equatoriale vlak)",
-          "id": {
-            "name": "Aceraceae (Acer)",
-            "pollen_key": "pollen_key_placeholder_aceraceae_acer",
-            "pollen_keys": [  
-              "acer_campestre",
-              "acer_japonicum",
-              "acer_palmatum",
-              "acer_platanoides",
-              "acer_pseudoplatanoides"
-            ]
+          "outcome": {
+            "text": "Aceraceae (*Acer*)"
           }
         },
         {
           "label": "ornamentatie-elementen (muri) meestal dwars (± parallel aan equatoriale vlak)",
-          "id": {
-            "name": "Saxifragaceae (Saxifraga)",
-            "pollen_key": "saxifraga_rotundifolia"
+          "outcome": {
+            "text": "Saxifragaceae (*Saxifraga*)"
           }
         }
       ]
@@ -741,20 +602,13 @@
       "choices": [
         {
           "label": "colpi in het midden versmald of met onderbroken randen",
-          "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Cytisus - Genista - Ulex",
-            "pollen_key": "pollen_key_placeholder_cytisus_genista_ulex",
-            "pollen_keys": [
-              "cytisus_scoparius",
-              "genista_anglica",
-              "ulex_europaeus"
-            ]
+          "outcome": {
+            "text": "Fabaceae (*Cytisus, Genista, Ulex*)"
           }
         },
         {
           "label": "colpi in het midden niet versmald of met onderbroken randen",
-          "next": "35",
-          "pollen_key": "pollen_key_placeholder_colpi_in_het_midden_niet_versmald_of_met_onderbroken_randen"
+          "next": "35"
         }
       ]
     },
@@ -764,16 +618,14 @@
       "choices": [
         {
           "label": "pollenkorrel prolaat (P duidelijk groter dan E)",
-          "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (verschillende geslachten)",
-            "pollen_key": "pollen_key_placeholder_verschillende_geslachten"
+          "outcome": {
+            "text": "Fabaceae (verschillende geslachten)"
           }
         },
         {
           "label": "pollenkorrel ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
-          "id": {
-            "name": "[Lamiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Lamiaceae) (lipbloemenfamilie) - Ajuga - Scutellaria - Stachys",
-            "pollen_key": "pollen_key_placeholder_ajuga_scutellaria_stachys"
+          "outcome": {
+            "text": "Lamiaceae (*Ajuga, Scutellaria, Stachys*)"
           }
         }
       ]
@@ -784,13 +636,11 @@
       "choices": [
         {
           "label": "pollenkorrel met meer dan drie colpi",
-          "next": "37",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_colpi"
+          "next": "37"
         },
         {
           "label": "pollenkorrel met drie colpi (tricolporaat)",
-          "next": "39",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_colpi_tricolporaat"
+          "next": "39"
         }
       ]
     },
@@ -800,15 +650,13 @@
       "choices": [
         {
           "label": "colpi niet alle meridionaal (pericolporaat)",
-          "id": {
-            "name": "Polygonaceae (Rumex)",
-            "pollen_key": "pollen_key_placeholder_polygonaceae_rumex"
+          "outcome": {
+            "text": "Polygonaceae (*Rumex*)"
           }
         },
         {
           "label": "colpi alle meridionaal (stephanocolporaat)",
-          "next": "38",
-          "pollen_key": "pollen_key_placeholder_colpi_alle_meridionaal_stephanocolporaat"
+          "next": "38"
         }
       ]
     },
@@ -818,16 +666,14 @@
       "choices": [
         {
           "label": "pollenkorrel groter dan 40 µm, met vier colpi",
-          "id": {
-            "name": "Violaceae (Viola)",
-            "pollen_key": "pollen_key_placeholder_violaceae_viola"
+          "outcome": {
+            "text": "Violaceae (*Viola*)"
           }
         },
         {
           "label": "pollenkorrel kleiner dan 40 µm, met zes colpi",
-          "id": {
-            "pollen_key": "cynoglossum_officinale",
-            "note": "Boraginaceae (Cynoglossum officinale)"
+          "outcome": {
+            "text": "Boraginaceae (*Cynoglossum officinale*)"
           }
         }
       ]
@@ -838,35 +684,29 @@
       "choices": [
         {
           "label": "ornamentatie perforaat",
-          "id": {
-            "name": "Polygonaceae (Rumex)",
-            "pollen_key": "pollen_key_placeholder_polygonaceae_rumex"
+          "outcome": {
+            "text": "Polygonaceae (*Rumex*)"
           }
         },
         {
           "label": "ornamentatie psilaat of scabraat",
-          "next": "40",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_of_scabraat"
+          "next": "40"
         },
         {
           "label": "ornamentatie echinaat",
-          "next": "55",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_echinaat"
+          "next": "55"
         },
         {
           "label": "ornamentatie striaat of rugulaat",
-          "next": "61",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_striaat_of_rugulaat"
+          "next": "61"
         },
         {
           "label": "ornamentatie foveolaat (tectum met putjes) of suprareticulaat (netwerk op tectum)",
-          "next": "63",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_foveolaat_tectum_met_putjes_of_suprareticulaat_netwerk_op_tectum"
+          "next": "63"
         },
         {
           "label": "ornamentatie eureticulaat (netwerk is tectum)",
-          "next": "68",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_eureticulaat_netwerk_is_tectum"
+          "next": "68"
         }
       ]
     },
@@ -875,16 +715,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel vanbinnen met twee equatoriale ringvormige verdikkingen",
-          "id": {
-            "pollen_key": "centaurea_cyanus",
-            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Centaurea - Centaurea cyanus"
+          "label": "pollenkorrel vanbinnen met twee equatoriale ringvormige verdikkingen",
+          "outcome": {
+            "text": "Asteraceae (*Centaurea cyanus*)"
           }
         },
         {
           "label": "pollenkorrel zonder equatoriale verdikkingen",
-          "next": "41",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_zonder_equatoriale_verdikkingen"
+          "next": "41"
         }
       ]
     },
@@ -894,20 +732,17 @@
       "choices": [
         {
           "label": "pollenkorrel in zijaanzicht oblaat (P kleiner dan E), in bovenaanzicht sterk driehoekig",
-          "id": {
-            "name": "Elaeagnaceae (Elaeagnus)",
-            "pollen_key": "pollen_key_placeholder_elaeagnaceae_elaeagnus"
+          "outcome": {
+            "text": "Elaeagnaceae (*Elaeagnus*)"
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E), met rechte of holle zijden",
-          "next": "42",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_prolaat_p_duidelijk_groter_dan_e_met_rechte_of_holle_zijden"
+          "next": "42"
         },
         {
           "label": "pollenkorrel in zijaanzicht ± rond tot iets prolaat (P gelijk aan of iets groter dan E)",
-          "next": "44",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_rond_tot_iets_prolaat_p_gelijk_aan_of_iets_groter_dan_e"
+          "next": "44"
         }
       ]
     },
@@ -917,15 +752,13 @@
       "choices": [
         {
           "label": "pollenkorrel groter dan 35 µm",
-          "id": {
-            "name": "Apiaceae (Heracleum)",
-            "pollen_key": "pollen_key_placeholder_apiaceae_heracleum"
+          "outcome": {
+            "text": "Apiaceae (*Heracleum*)"
           }
         },
         {
           "label": "pollenkorrel kleiner dan 35 µm",
-          "next": "43",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_35_m"
+          "next": "43"
         }
       ]
     },
@@ -935,16 +768,14 @@
       "choices": [
         {
           "label": "colpusranden vormen iets uitstekende kapjes over de pori",
-          "id": {
-            "pollen_key": "carum_carvi",
-            "note": "Apiaceae (Carum carvi)"
+          "outcome": {
+            "text": "Apiaceae (*Carum carvi*)"
           }
         },
         {
           "label": "colpusranden vormen geen uitstekende kapjes over de pori",
-          "id": {
-            "pollen_key": "anthriscus_sylvestris",
-            "note": "Apiaceae (Anthriscus sylvestris)"
+          "outcome": {
+            "text": "Apiaceae (*Anthriscus sylvestris*)"
           }
         }
       ]
@@ -955,13 +786,11 @@
       "choices": [
         {
           "label": "pollenkorrel in zijaanzicht ± rond (P = E)",
-          "next": "45",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_rond_p_e"
+          "next": "45"
         },
         {
           "label": "pollenkorrel in zijaanzicht prolaat (P duidelijk groter dan E)",
-          "next": "51",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_prolaat_p_duidelijk_groter_dan_e"
+          "next": "51"
         }
       ]
     },
@@ -971,13 +800,11 @@
       "choices": [
         {
           "label": "wandgedeelten tussen de colpi recht tot hol (in bovenaanzicht van de pollenkorrel)",
-          "next": "46",
-          "pollen_key": "pollen_key_placeholder_wandgedeelten_tussen_de_colpi_recht_tot_hol_in_bovenaanzicht_van_de_pollenkorrel"
+          "next": "46"
         },
         {
           "label": "wandgedeelten tussen de colpi bol (in bovenaanzicht van de pollenkorrel)",
-          "next": "49",
-          "pollen_key": "pollen_key_placeholder_wandgedeelten_tussen_de_colpi_bol_in_bovenaanzicht_van_de_pollenkorrel"
+          "next": "49"
         }
       ]
     },
@@ -987,13 +814,11 @@
       "choices": [
         {
           "label": "pori duidelijk",
-          "next": "47",
-          "pollen_key": "pollen_key_placeholder_pori_duidelijk"
+          "next": "47"
         },
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
-          "next": "48",
-          "pollen_key": "pollen_key_placeholder_pori_onduidelijk_soms_h_vormig"
+          "next": "48"
         }
       ]
     },
@@ -1003,20 +828,14 @@
       "choices": [
         {
           "label": "pori smal (dwars), met spitse uiteinden",
-          "id": {
-            "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat",
-            "pollen_keys": [
-              "solanum_dulcamara",
-              "solanum_lycopersicum"
-            ]
+          "outcome": {
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
           }
         },
         {
           "label": "pori rond tot elliptisch (dwars)",
-          "id": {
-            "pollen_key": "frangula_alnus",
-            "note": "Rhamnaceae (Rhamnus frangula)"
+          "outcome": {
+            "text": "Rhamnaceae (*Rhamnus frangula*)"
           }
         }
       ]
@@ -1027,16 +846,14 @@
       "choices": [
         {
           "label": "colpi naar binnen gevouwen of smal, pori soms ‘H’-vormig",
-          "id": {
-            "pollen_key": "cornus_mas",
-            "note": "Cornaceae (Cornus mas)"
+          "outcome": {
+            "text": "Cornaceae (*Cornus mas*)"
           }
         },
         {
           "label": "colpi niet naar binnen gevouwen, colpusmembranen (= nexine in/onder colpi) met wratjes",
-          "id": {
-            "pollen_key": "robinia_pseudoacacia",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Robinia pseudoacacia)"
+          "outcome": {
+            "text": "Fabaceae (*Robinia pseudoacacia*)"
           }
         }
       ]
@@ -1047,25 +864,19 @@
       "choices": [
         {
           "label": "pori onduidelijk (soms ‘H’-vormig), colpi lang",
-          "id": {
-            "pollen_key": "cornus_mas",
-            "note": "Cornaceae (Cornus mas)"
+          "outcome": {
+            "text": "Cornaceae (*Cornus mas*)"
           }
         },
         {
           "label": "pori groot, elliptisch (dwars), colpi kort",
-          "id": {
-            "name": "Caprifoliaceae (Symphoricarpos)",
-            "pollen_key": "pollen_key_placeholder_caprifoliaceae_symphoricarpos",
-            "pollen_keys": [
-              "symphoricarpos_albus"
-            ]
+          "outcome": {
+            "text": "Caprifoliaceae (*Symphoricarpos*)"
           }
         },
         {
           "label": "pori smal (dwars), colpi lang",
-          "next": "50",
-          "pollen_key": "pollen_key_placeholder_pori_smal_dwars_colpi_lang"
+          "next": "50"
         }
       ]
     },
@@ -1075,20 +886,14 @@
       "choices": [
         {
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
-          "id": {
-            "name": "Rosaceae (Filipendula)",
-            "pollen_key": "filipendula_ulmaria"
+          "outcome": {
+            "text": "Rosaceae (*Filipendula*)"
           }
         },
         {
           "label": "ornamentatie ± psilaat",
-          "id": {
-            "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat",
-            "pollen_keys": [
-              "solanum_dulcamara",
-              "solanum_lycopersicum"
-            ]
+          "outcome": {
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
           }
         }
       ]
@@ -1099,15 +904,13 @@
       "choices": [
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp rechthoekig",
-          "id": {
-            "pollen_key": "lotus_corniculatus",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) (Lotus corniculatus)"
+          "outcome": {
+            "text": "Fabaceae (*Lotus corniculatus*)"
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht elliptisch tot stomp ruitvormig",
-          "next": "52",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_in_zijaanzicht_elliptisch_tot_stomp_ruitvormig"
+          "next": "52"
         }
       ]
     },
@@ -1117,15 +920,13 @@
       "choices": [
         {
           "label": "pori onduidelijk (soms ‘H’-vormig)",
-          "id": {
-            "pollen_key": "cornus_mas",
-            "note": "Cornaceae (Cornus mas)"
+          "outcome": {
+            "text": "Cornaceae (*Cornus mas*)"
           }
         },
         {
           "label": "pori duidelijk, rond tot langwerpig (dwars)",
-          "next": "53",
-          "pollen_key": "pollen_key_placeholder_pori_duidelijk_rond_tot_langwerpig_dwars"
+          "next": "53"
         }
       ]
     },
@@ -1135,15 +936,13 @@
       "choices": [
         {
           "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
-          "id": {
-            "name": "Rosaceae (Filipendula)",
-            "pollen_key": "filipendula_ulmaria"
+          "outcome": {
+            "text": "Rosaceae (*Filipendula*)"
           }
         },
         {
           "label": "ornamentatie ± psilaat of onduidelijk rugulaat",
-          "next": "54",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_of_onduidelijk_rugulaat"
+          "next": "54"
         }
       ]
     },
@@ -1153,20 +952,14 @@
       "choices": [
         {
           "label": "pollenkorrel in zijaanzicht stomp ruitvormig, pori in bovenaanzicht op de hoekpunten",
-          "id": {
-            "name": "Solanaceae (Capsicum, Solanum incl. tomaat)",
-            "pollen_key": "pollen_key_placeholder_solanaceae_capsicum_solanum_incl_tomaat",
-            "pollen_keys": [
-              "solanum_dulcamara",
-              "solanum_lycopersicum"
-            ]
+          "outcome": {
+            "text": "Solanaceae (*Capsicum, Solanum* incl. tomaat)"
           }
         },
         {
           "label": "pollenkorrel in zijaanzicht smal elliptisch, pori in bovenaanzicht tussen de hoekpunten",
-          "id": {
-            "pollen_key": "castanea_sativa",
-            "note": "Fagaceae (Castanea sativa)"
+          "outcome": {
+            "text": "Fagaceae (*Castanea sativa*)"
           }
         }
       ]
@@ -1177,20 +970,13 @@
       "choices": [
         {
           "label": "stekels met cylindrische basis, zuiltjes in infratectum recht, niet vertakt",
-          "id": {
-            "name": "Caprifoliaceae (Lonicera)",
-            "pollen_key": "pollen_key_placeholder_caprifoliaceae_lonicera",
-            "pollen_keys": [
-              "lonicera_caprifolium_caprifolium",
-              "lonicera_caprifolium_japonica",
-              "lonicera_caprifolium_fragrantissima"
-            ]
+          "outcome": {
+            "text": "Caprifoliaceae (*Lonicera*)"
           }
         },
         {
           "label": "stekels kegelvormig (soms erg klein), zuiltjes in infratectum vertakt of onduidelijk",
-          "next": "56",
-          "pollen_key": "pollen_key_placeholder_stekels_kegelvormig_soms_erg_klein_zuiltjes_in_infratectum_vertakt_of_onduidelijk"
+          "next": "56"
         }
       ]
     },
@@ -1200,13 +986,11 @@
       "choices": [
         {
           "label": "stekels kleiner dan 1½ µm of onduidelijk",
-          "next": "57",
-          "pollen_key": "pollen_key_placeholder_stekels_kleiner_dan_11_2_m_of_onduidelijk"
+          "next": "57"
         },
         {
           "label": "stekels groter dan 1½ µm",
-          "next": "58",
-          "pollen_key": "pollen_key_placeholder_stekels_groter_dan_11_2_m"
+          "next": "58"
         }
       ]
     },
@@ -1216,16 +1000,14 @@
       "choices": [
         {
           "label": "pollenkorrel klein (20–30 µm)",
-          "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Artemisia)",
-            "pollen_key": "artemisia_vulgaris"
+          "outcome": {
+            "text": "Asteraceae (*Artemisia*)"
           }
         },
         {
           "label": "pollenkorrel groot (± 100 µm)",
-          "id": {
-            "pollen_key": "echinops_sphaerocephalus",
-            "note": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Echinops sphaerocephalus)"
+          "outcome": {
+            "text": "Asteraceae (*Echinops sphaerocephalus*)"
           }
         }
       ]
@@ -1236,24 +1018,13 @@
       "choices": [
         {
           "label": "zuiltjes in infratectum onduidelijk",
-          "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) (Aster, Helianthus, Senecio, Solidago)",
-            "pollen_key": "pollen_key_placeholder_aster_helianthus_senecio_solidago",
-            "pollen_keys": [
-              "aster_amellus",
-              "aster_lanceolatus",
-              "aster_tripolium",
-              "helianthus_annuus",
-              "senecio_cineraria",
-              "senecio_jacobaea",
-              "solidago_virgaurea"
-            ]
+          "outcome": {
+            "text": "Asteraceae (*Aster, Helianthus, Senecio, Solidago*)"
           }
         },
         {
           "label": "zuiltjes in infratectum duidelijk",
-          "next": "59",
-          "pollen_key": "pollen_key_placeholder_zuiltjes_in_infratectum_duidelijk"
+          "next": "59"
         }
       ]
     },
@@ -1263,15 +1034,13 @@
       "choices": [
         {
           "label": "zuiltjes onder de stekels langer en ten dele scheef (stervorm in bovenaanzicht)",
-          "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Carduus - Cirsium*",
-            "pollen_key": "carduus_nutans"
+          "outcome": {
+            "text": "Asteraceae (*Carduus, Cirsium*)"
           }
         },
         {
-          "label": "Zuiltjes loodrecht onder de stekels (geen stervorm in bovenaanzicht)",
-          "next": "60",
-          "pollen_key": "pollen_key_placeholder_zuiltjes_loodrecht_onder_de_stekels_geen_stervorm_in_bovenaanzicht"
+          "label": "zuiltjes loodrecht onder de stekels (geen stervorm in bovenaanzicht)",
+          "next": "60"
         }
       ]
     },
@@ -1280,21 +1049,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel meestal groter dan 40 µm",
-          "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Arctium",
-            "pollen_key": "arctium_lappa"
+          "label": "pollenkorrel meestal groter dan 40 µm",
+          "outcome": {
+            "text": "Asteraceae (*Arctium*)"
           }
         },
         {
-          "label": "Pollenkorrel meestal kleiner dan 40 µm",
-          "id": {
-            "name": "[Asteraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Asteraceae) (composieten) - Matricaria",
-            "pollen_key": "matricaria_chamomilla",
-            "pollen_keys": [
-              "matricaria_chamomilla",
-              "matricaria_recutita"
-            ]
+          "label": "pollenkorrel meestal kleiner dan 40 µm",
+          "outcome": {
+            "text": "Asteraceae (*Matricaria*)"
           }
         }
       ]
@@ -1304,16 +1067,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Colpusmembranen (= nexine in/onder colpi) met duidelijke stekels",
-          "id": {
-            "pollen_key": "aesculus_hippocastanum",
-            "note": "[Hippocastanaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hippocastanaceae) (paardenkastanjefamilie) - Aesculus hippocastanum"
+          "label": "colpusmembranen (= nexine in/onder colpi) met duidelijke stekels",
+          "outcome": {
+            "text": "Hippocastanaceae (*Aesculus hippocastanum*)"
           }
         },
         {
-          "label": "Colpusmembranen zonder stekels",
-          "next": "62",
-          "pollen_key": "pollen_key_placeholder_colpusmembranen_zonder_stekels"
+          "label": "colpusmembranen zonder stekels",
+          "next": "62"
         }
       ]
     },
@@ -1322,24 +1083,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Colpi in het midden niet versmald, ornamentatie striaat-reticulaat",
-          "id": {
-            "name": "[Simarubaceae](hemelboomfamilie) Ailanthus altissima",
-            "pollen_key": "ailanthus_altissima"
+          "label": "colpi in het midden niet versmald, ornamentatie striaat-reticulaat",
+          "outcome": {
+            "text": "Simarubaceae (*Ailanthus altissima*)"
           }
         },
         {
-          "label": "Colpi in het midden versmald, ornamentatie striaat-rugulaat",
-          "id": {
-            "name": "Rosaceae (rozenfamilie) Cotoneaster - Malus - Prunus - Rubus - Spiraea",
-            "pollen_key": "cotoneaster_intergerrimus",
-            "pollen_keys": [
-              "cotoneaster_intergerrimus",
-              "malus_domestica",
-              "prunus_avium",
-              "rubus_idaeus",
-              "spiraea_japonica"
-            ]
+          "label": "colpi in het midden versmald, ornamentatie striaat-rugulaat",
+          "outcome": {
+            "text": "Rosaceae (o.m. *Cotoneaster, Malus, Prunus, Rubus, Spiraea*)"
           }
         }
       ]
@@ -1350,15 +1102,13 @@
       "choices": [
         {
           "label": "pollenkorrel peervormig",
-          "id": {
-            "pollen_key": "echium_vulgare",
-            "note": "[Boraginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Boraginaceae) (ruwbladigenfamilie) - Echium vulgare"
+          "outcome": {
+            "text": "Boraginaceae (*Echium vulgare*)"
           }
         },
         {
-          "label": "Pollenkorrel ± rond tot ellipsvormig",
-          "next": "64",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_ellipsvormig"
+          "label": "pollenkorrel ± rond tot ellipsvormig",
+          "next": "64"
         }
       ]
     },
@@ -1367,16 +1117,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel oblaat (P duidelijk kleiner dan E), colpi zeer kort, pori met sterk verdikte rand",
-          "id": {
-            "name": "[Tiliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Tiliaceae) (`lindes`) - Tilia",
-            "pollen_key": "tilia_platyphyllos"
+          "label": "pollenkorrel oblaat (P duidelijk kleiner dan E), colpi zeer kort, pori met sterk verdikte rand",
+          "outcome": {
+            "text": "Tiliaceae (*Tilia*)"
           }
         },
         {
-          "label": "Pollenkorrel ± rond tot prolaat (P groter of gelijk aan E), colpi vrij lang, pori zonder sterk verdikte rand",
-          "next": "65",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_prolaat_p_groter_of_gelijk_aan_e_colpi_vrij_lang_pori_zonder_sterk_verdikte_rand"
+          "label": "pollenkorrel ± rond tot prolaat (P groter of gelijk aan E), colpi vrij lang, pori zonder sterk verdikte rand",
+          "next": "65"
         }
       ]
     },
@@ -1385,16 +1133,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Wand dikker dan 2 µm, zuiltjes in infratectum zeer duidelijk, vertakt",
-          "id": {
-            "pollen_key": "fagopyrum_esculentum",
-            "note": "[Polygonaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polygonaceae) (duizendknoopfamilie) - Fagopyrum esculentum"
+          "label": "wand dikker dan 2 µm, zuiltjes in infratectum zeer duidelijk, vertakt",
+          "outcome": {
+            "text": "Polygonaceae (*Fagopyrum esculentum*)"
           }
         },
         {
-          "label": "Wand dunner dan 2 µm, zuiltjes in infratectum klein of onduidelijk",
-          "next": "66",
-          "pollen_key": "pollen_key_placeholder_wand_dunner_dan_2_m_zuiltjes_in_infratectum_klein_of_onduidelijk"
+          "label": "wand dunner dan 2 µm, zuiltjes in infratectum klein of onduidelijk",
+          "next": "66"
         }
       ]
     },
@@ -1403,16 +1149,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Netwerk onduidelijk",
-          "id": {
-            "pollen_key": "vicia_cracca",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Medicago - Melilotus - Vicia cracca - Vicia sepium"
+          "label": "netwerk onduidelijk",
+          "outcome": {
+            "text": "Fabaceae (*Medicago, Melilotus, Vicia cracca, Vicia sepium*)"
           }
         },
         {
-          "label": "Netwerk duidelijk",
-          "next": "67",
-          "pollen_key": "pollen_key_placeholder_netwerk_duidelijk"
+          "label": "netwerk duidelijk",
+          "next": "67"
         }
       ]
     },
@@ -1421,25 +1165,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel kleiner dan 40 µm",
-          "id": {
-            "name": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Trifolium - Vicia",
-            "pollen_key": "trifolium_pratense",
-            "pollen_keys": [
-              "trifolium_pratense",
-              "trifolium_repens"
-            ]
+          "label": "pollenkorrel kleiner dan 40 µm",
+          "outcome": {
+            "text": "Fabaceae (*Trifolium, Vicia*)"
           }
         },
         {
-          "label": "Pollenkorrel groter dan 40 µm",
-          "id": {
-            "pollen_key": "pisum_sativum",
-            "note": "[Fabaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Fabaceae) (vlinderbloemenfamilie) - Pisum sativum - Trifolium incarnatum - Vicia faba",
-            "pollen_keys": [
-              "pisum_sativum",
-              "vicia_faba"
-            ]
+          "label": "pollenkorrel groter dan 40 µm",
+          "outcome": {
+            "text": "Fabaceae (*Pisum sativum, Trifolium incarnatum, Vicia faba*)"
           }
         }
       ]
@@ -1449,16 +1183,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Netwerk onduidelijk, naar de polen toe grover en vaak incompleet",
-          "id": {
-            "pollen_key": "vitis_vinifera",
-            "note": "[Vitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Vitaceae) (wijnstokfamilie) - (Vitis vinifera)"
+          "label": "netwerk onduidelijk, naar de polen toe grover en vaak incompleet",
+          "outcome": {
+            "text": "Vitaceae (*Vitis vinifera*)"
           }
         },
         {
-          "label": "Netwerk duidelijk",
-          "next": "69",
-          "pollen_key": "pollen_key_placeholder_netwerk_duidelijk"
+          "label": "netwerk duidelijk",
+          "next": "69"
         }
       ]
     },
@@ -1467,16 +1199,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Mazen kleiner dan 1 µm",
-          "id": {
-            "name": "[Clusiaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Hypericaceae) (clusiafamilie) - (Hypericum)",
-            "pollen_key": "hypericum_perforatum"
+          "label": "mazen kleiner dan 1 µm",
+          "outcome": {
+            "text": "Clusiaceae (*Hypericum*)"
           }
         },
         {
-          "label": "Mazen groter dan 1 µm",
-          "next": "70",
-          "pollen_key": "pollen_key_placeholder_mazen_groter_dan_1_m"
+          "label": "mazen groter dan 1 µm",
+          "next": "70"
         }
       ]
     },
@@ -1485,16 +1215,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel groter dan 40 µm",
-          "id": {
-            "pollen_key": "bryonia_dioica",
-            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Bryonia dioica)"
+          "label": "pollenkorrel groter dan 40 µm",
+          "outcome": {
+            "text": "Cucurbitaceae (*Bryonia dioica*)"
           }
         },
         {
-          "label": "Pollenkorrel kleiner dan 40 µm",
-          "next": "71",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_kleiner_dan_40_m"
+          "label": "pollenkorrel kleiner dan 40 µm",
+          "next": "71"
         }
       ]
     },
@@ -1503,17 +1231,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Wand meestal dikker dan 2 µm, pori hoger dan breed",
-          "id": {
-            "name": "[Celastraceae](kardinaalsmutsfamilie) - Euonymus (kardinaalsmuts)",
-            "pollen_key": "euonymus_europaeus"
+          "label": "wand meestal dikker dan 2 µm, pori hoger dan breed",
+          "outcome": {
+            "text": "Celastraceae (*Euonymus*)"
           }
         },
         {
-          "label": "Wand meestal dunner dan 2 µm, pori breder dan hoog of onduidelijk",
-          "id": {
-            "pollen_key": "sambucus_nigra",
-            "note": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Sambucus nigra)"
+          "label": "wand meestal dunner dan 2 µm, pori breder dan hoog of onduidelijk",
+          "outcome": {
+            "text": "Caprifoliaceae (*Sambucus nigra*)"
           }
         }
       ]
@@ -1523,19 +1249,16 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel met drie equatoriale pori (triporaat)",
-          "next": "73",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_drie_equatoriale_pori_triporaat"
+          "label": "pollenkorrel met drie equatoriale pori (triporaat)",
+          "next": "73"
         },
         {
-          "label": "Pollenkorrel met meer dan drie equatoriale pori (stephanoporaat)",
-          "next": "75",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_equatoriale_pori_stephanoporaat"
+          "label": "pollenkorrel met meer dan drie equatoriale pori (stephanoporaat)",
+          "next": "75"
         },
         {
-          "label": "Pollenkorrel met meer dan drie verspreide (niet-equatoriale) pori (periporaat)",
-          "next": "76",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_met_meer_dan_drie_verspreide_niet_equatoriale_pori_periporaat"
+          "label": "pollenkorrel met meer dan drie verspreide (niet-equatoriale) pori (periporaat)",
+          "next": "76"
         }
       ]
     },
@@ -1544,27 +1267,20 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)",
-          "id": {
-            "pollen_key": "chamerion_angustifolium",
-            "note": "[Onagraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Onagraceae) (teunisbloemfamilie) - Chamerion angustifolium (wilgenroosje) - Epilobium (basterdwederik) - Oenothera (teunisbloem)",
-            "pollen_keys": [
-              "epilobium_angustifolium",
-              "oenothera_biennis"
-            ]
+          "label": "pori groot, duidelijk uitstekend (pollenkorrels soms met elkaar verbonden)",
+          "outcome": {
+            "text": "Onagraceae (*Chamerion angustifolium, Epilobium, Oenothera*)"
           }
         },
         {
-          "label": "Pori iets uitstekend, ornamentatie echinaat (stekels groter dan 1 µm)",
-          "id": {
-            "name": "[Caprifoliaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caprifoliaceae) (kamperfoeliefamilie) - (Weigelia)",
-            "pollen_key": "weigela_florida"
+          "label": "pori iets uitstekend, ornamentatie echinaat (stekels groter dan 1 µm)",
+          "outcome": {
+            "text": "Caprifoliaceae (*Weigelia*)"
           }
         },
         {
-          "label": "Pori niet uitstekend, indien ornamentatie echinaat dan stekels kleiner dan 1 µm",
-          "next": "74",
-          "pollen_key": "pollen_key_placeholder_pori_niet_uitstekend_indien_ornamentatie_echinaat_dan_stekels_kleiner_dan_1_m"
+          "label": "pori niet uitstekend, indien ornamentatie echinaat dan stekels kleiner dan 1 µm",
+          "next": "74"
         }
       ]
     },
@@ -1573,32 +1289,21 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel kleiner dan 50 µm, ornamentatie echinaat",
-          "id": {
-            "name": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) (klokjesfamilie) - (Campanula)",
-            "pollen_key": "campanula_latifolia",
-            "pollen_keys": [
-              "campanula_latifolia",
-              "campanula_rotundifolia"
-            ]
+          "label": "pollenkorrel kleiner dan 50 µm, ornamentatie echinaat",
+          "outcome": {
+            "text": "Campanulaceae (*Campanula*)"
           }
         },
         {
-          "label": "Pollenkorrel ± 50 µm, ornamentatie reticulaat",
-          "id": {
-            "pollen_key": "cucumis_sativus",
-            "note": "[Cucurbitaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Cucurbitaceae) (komkommerfamilie) - (Cucumis sativus)"
+          "label": "pollenkorrel ± 50 µm, ornamentatie reticulaat",
+          "outcome": {
+            "text": "Cucurbitaceae (*Cucumis sativus*)"
           }
         },
         {
           "label": "pollenkorrel groter dan 60 µm, ornamentatie echinaat",
-          "id": {
-            "name": "[Dipsacaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_pilosus) (kaardenbolfamilie) - (Dipsacus, Knautia)",
-            "pollen_key": "dipsacus_sylvester",
-            "pollen_keys": [
-              "dipsacus_sylvester",
-              "knautia_arvensis"
-            ]
+          "outcome": {
+            "text": "Dipsacaceae (*Dipsacus, Knautia*)"
           }
         }
       ]
@@ -1608,21 +1313,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel met vier pori, ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
-          "id": {
-            "name": "[Campanulaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Campanulaceae) - (Campanula)",
-            "pollen_key": "campanula_latifolia",
-            "pollen_keys": [
-              "campanula_latifolia",
-              "campanula_rotundifolia"
-            ]
+          "label": "pollenkorrel met vier pori, ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
+          "outcome": {
+            "text": "Campanulaceae (*Campanula*)"
           }
         },
         {
-          "label": "Pollenkorrel met vier tot elf pori, ornamentatie striaat of perforaat",
-          "id": {
-            "name": "[Polemoniaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Polemoniaceae) (vlambloemfamilie) - (Gilia)",
-            "pollen_key": "gilia_capitata"
+          "label": "pollenkorrel met vier tot elf pori, ornamentatie striaat of perforaat",
+          "outcome": {
+            "text": "Polemoniaceae (*Gilia*)"
           }
         }
       ]
@@ -1632,28 +1331,24 @@
       "type": "step",
       "choices": [
         {
-          "label": "Ornamentatie verrucaat of onregelmatig golvend",
-          "id": {
-            "name": "[Plantaginaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Plantaginaceae) (weegbreefamilie) (Plantago)",
-            "pollen_key": "plantago_lanceolata"
+          "label": "ornamentatie verrucaat of onregelmatig golvend",
+          "outcome": {
+            "text": "Plantaginaceae (*Plantago*)"
           }
         },
         {
-          "label": "Ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm) [to be verified] ",
-          "id": {
-            "name": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae) (anjerfamilie) (diverse geslachten)",
-            "pollen_key": "dianthus_deltoides"
+          "label": "ornamentatie fijn echinaat (stekeltjes kleiner dan 1 µm)",
+          "outcome": {
+            "text": "Caryophyllaceae (diverse geslachten)"
           }
         },
         {
-          "label": "Ornamentatie reticulaat",
-          "next": "77",
-          "pollen_key": "brassica_napus"
+          "label": "ornamentatie reticulaat",
+          "next": "77"
         },
         {
-          "label": "Ornamentatie psilaat, perforaat of scabraat",
-          "next": "78",
-          "pollen_key": "pollen_key_placeholder_ornamentatie_psilaat_perforaat_of_scabraat"
+          "label": "ornamentatie psilaat, perforaat of scabraat",
+          "next": "78"
         }
       ]
     },
@@ -1663,23 +1358,20 @@
       "choices": [
         {
           "label": "pori ± even groot als de mazen van het netwerk (mazen groter dan 3 µm)",
-          "id": {
-            "name": "Polemoniaceae (vlambloemfamilie) - (Phlox)",
-            "pollen_key": "phlox_paniculata"
+          "outcome": {
+            "text": "Polemoniaceae (*Phlox*)"
           }
         },
         {
-          "label": "Pori ± even groot als de mazen van het netwerk (mazen kleiner dan 3 µm)",
-          "id": {
-            "name": "[Thymelaeaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Thymelaeaceae) (peperboompjesfamilie) - (Daphne)",
-            "pollen_key": "daphne_mezereum"
+          "label": "pori ± even groot als de mazen van het netwerk (mazen kleiner dan 3 µm)",
+          "outcome": {
+            "text": "Thymelaeaceae (*Daphne*)"
           }
         },
         {
-          "label": "Pori duidelijk groter dan de mazen van het netwerk",
-          "id": {
-            "name": "Caryophyllaceae (Silene)",
-            "pollen_key": "silene_cucubalis"
+          "label": "pori duidelijk groter dan de mazen van het netwerk",
+          "outcome": {
+            "text": "Caryophyllaceae (*Silene*)"
           }
         }
       ]
@@ -1689,20 +1381,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pollenkorrel peervormig",
-          "id": {
-            "name": "Cyperaceae (Carex (zegge), Scirpus)",
-            "pollen_key": "pollen_key_placeholder_cyperaceae_carex_zegge_scirpus",
-            "pollen_keys": [
-              "carex_pendula",
-              "scirpus_sylvaticus"
-            ]
+          "label": "pollenkorrel peervormig",
+          "outcome": {
+            "text": "Cyperaceae (*Carex, Scirpus*)"
           }
         },
         {
-          "label": "Pollenkorrel ± rond tot ellipsvormig",
-          "next": "79",
-          "pollen_key": "pollen_key_placeholder_pollenkorrel_rond_tot_ellipsvormig"
+          "label": "pollenkorrel ± rond tot ellipsvormig",
+          "next": "79"
         }
       ]
     },
@@ -1711,16 +1397,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pori vooral op één helft van de pollenkorrel",
-          "id": {
-            "pollen_key": "juglans_regia",
-            "note": "[Juglandaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Juglandaceae) - Juglans regia (walnootboom)"
+          "label": "pori vooral op één helft van de pollenkorrel",
+          "outcome": {
+            "text": "Juglandaceae (*Juglans regia*)"
           }
         },
         {
-          "label": "Pori over de hele pollenkorrel verspreid",
-          "next": "80",
-          "pollen_key": "ribes_rubrum"
+          "label": "pori over de hele pollenkorrel verspreid",
+          "next": "80"
         }
       ]
     },
@@ -1729,16 +1413,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones",
-          "id": {
-            "pollen_key": "ribes_rubrum",
-            "note": "[Grossulariaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Grossulariaceae) - Ribes rubrum (aalbes)"
+          "label": "pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones",
+          "outcome": {
+            "text": "Grossulariaceae (*Ribes*)"
           }
         },
         {
-          "label": "Pori niet omgeven of verbonden door tectum-loze (scabrate) zones",
-          "next": "81",
-          "pollen_key": "thalictrum_flavum"
+          "label": "pori niet omgeven of verbonden door tectum-loze (scabrate) zones",
+          "next": "81"
         }
       ]
     },
@@ -1747,16 +1429,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Vier tot twaalf pori, pori zonder massieve rand",
-          "id": {
-            "pollen_key": "thalictrum_flavum",
-            "note": "[Ranunculaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Ranunculaceae) - Thalictrum flavum (poelruit)"
+          "label": "vier tot twaalf pori, pori zonder massieve rand",
+          "outcome": {
+            "text": "Ranunculaceae (*Thalictrum*)"
           }
         },
         {
-          "label": "Meestal meer dan tien pori, pori met massieve rand (annulus)",
-          "next": "82",
-          "pollen_key": "silene_cucubalis"
+          "label": "meestal meer dan tien pori, pori met massieve rand (annulus)",
+          "next": "82"
         }
       ]
     },
@@ -1765,17 +1445,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Meestal meer dan 50 pori, tectum zonder perforaties",
-          "id": {
-            "pollen_key": "amaranthus_caudatus",
-            "note": "Amaranthaceae (diverse geslachten), Chenopodiaceae (diverse geslachten) - Amaranthus caudatus (kattenstaartamarant)"
+          "label": "meestal meer dan 50 pori, tectum zonder perforaties",
+          "outcome": {
+            "text": "Amaranthaceae (diverse geslachten), Chenopodiaceae (diverse geslachten)"
           }
         },
         {
-          "label": "Minder dan 50 pori, tectum met perforaties",
-          "id": {
-            "pollen_key": "silene_cucubalis",
-            "note": "[Caryophyllaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Caryophyllaceae) (diverse geslachten) - [Silene vulgaris](https://pollen.tstebler.ch/MediaWiki/index.php?title=Silene_cucubalus) (blaassilene)"
+          "label": "minder dan 50 pori, tectum met perforaties",
+          "outcome": {
+            "text": "Caryophyllaceae (diverse geslachten)"
           }
         }
       ]
