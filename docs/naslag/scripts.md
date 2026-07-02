@@ -7,7 +7,7 @@ source .venv/bin/activate
 python scripts/<script>.py …
 ```
 
-Laatste controle: 2026-06-28.
+Laatste controle: 2026-07-02.
 
 ---
 
@@ -133,6 +133,22 @@ python scripts/sync_placeholder_taxa_from_keys.py --dry-run
 python scripts/sync_placeholder_taxa_from_keys.py
 ```
 
+**sync_pollen_placeholders.py**: Voegt placeholder-taxa toe en markeert bestaande taxa vanuit meerdere bronnen (`sources[].source`): prio-lijst (`notes/pollenID/prio pollen.md`), `by-taxon/`-mappen, NL/secundair/sporadisch-md, en sleutels (Beug, Kerkvliet, van der Ham, Reitsma, Eide, Feagri-Iversen). Daarna `build_docs_data.py`.
+
+```bash
+python scripts/sync_pollen_placeholders.py --dry-run
+python scripts/sync_pollen_placeholders.py
+```
+
+| Bron-marker | Herkomst |
+| --- | --- |
+| `prio pollen` | `notes/pollenID/prio pollen.md` |
+| `image` | `docs/assets/images/by-taxon/<slug>/` |
+| `nederlandse-honing-pollen` | `docs/nederlandse-honing-pollen/*.md` |
+| `secundaire-inbreng` | `docs/secundaire-inbreng/*.md` |
+| `sporadische-eu-pollen` | `docs/sporadische-eu-pollen/*.md` |
+| `beug`, `kerkvliet`, `vanderham`, … | `docs/keys/**/*.json` |
+
 **apply_merge_into_markers.py**: Past `merge_into` / `merge_note` in YAML toe en werkt docs-verwijzingen bij.
 
 ```bash
@@ -234,4 +250,5 @@ python scripts/rewrite_pollenwiki_taxon_refs.py --apply
 | Sleutelpaden op taxonpagina | `python scripts/extract_key_paths.py <slug> --page-section` |
 | Image-gat inventariseren | `python scripts/audit_pollen_assets.py` |
 | Ontbrekende foto-mappen | `python scripts/bootstrap_by_taxon_task.py --apply` |
+| Placeholders uit prio/docs/keys | `python scripts/sync_pollen_placeholders.py --dry-run` |
 | Sleutel-endpoints koppelen | `python scripts/inject_pollen_keys_into_key_json.py` |
