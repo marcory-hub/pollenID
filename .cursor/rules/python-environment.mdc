@@ -1,0 +1,18 @@
+---
+description: Python tooling runs only inside the project virtualenv
+globs: scripts/**,requirements/**
+alwaysApply: true
+---
+
+# Python environment
+
+- Use **`.venv/` only** for Python in this repo. Do not install packages with system `python3` or `pip`.
+- **Homebrew:** optional for `python@3.x` to create the venv (`brew install python@3.12`). Docling, PyYAML, and other project libs are **not** Homebrew formulae; install them with `.venv/bin/pip` only.
+- Create once: `python3 -m venv .venv`
+- Install deps (no extra args after the requirements file):
+  - `.venv/bin/pip install -r requirements/validate_schemas.txt`
+  - `.venv/bin/pip install -r requirements/extract.txt`
+  - `.venv/bin/pip install -r requirements/dev.txt` (tests)
+- Run scripts: `.venv/bin/python scripts/validate/validate_schemas.py` (or `source .venv/bin/activate` first).
+- Run tests: `.venv/bin/pytest tests/`
+- Add new dependencies to a file under `requirements/`, not ad hoc installs.

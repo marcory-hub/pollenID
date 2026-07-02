@@ -1,0 +1,46 @@
+---
+description: Boundary between .cursor/rules and notes/; keeps rules short and avoids duplication.
+alwaysApply: true
+---
+
+# Rules vs notes (scope and hygiene)
+
+## Rule stack (apply in this order)
+
+1. **Actor:** `agent-persona.mdc` when present. Persona, tone, and agent-specific behavior.
+2. **Law:** `interaction-style.mdc`. Editing protocols, response style, user-edit respect, formatting.
+3. **Map:** `project-context.mdc` when present. Pipeline, directory layout, file types, canonical stores.
+4. **Simplicity:** `compose-simplicity.mdc`. Minimal compose surface; no extra warmup or selection config files.
+5. **Guardrails:** `anti-hallucination-verification.mdc`. Verification, traceability, provenance, zero invention.
+6. **Domain:** File-scoped rules (e.g. `sports-communication.mdc` for `program/**`).
+7. **Hygiene:** This file. Rules vs `notes/` boundary; short rules; no duplication.
+
+Add agent-specific and project-map rules during the project. Link paths; do not restate their content here.
+
+## notes/ (read-only for agents)
+
+- **Obsidian is the sole editor** for `notes/`. Content syncs from the Obsidian vault (`notes/_tp/tp cli commands.md`). Agents **read only** when needed.
+- **Never** create, modify, rename, or delete anything under `notes/`.
+- Treat frontmatter `Agent:` markers as scope hints (`SoT`, `NO SoT`), not permission to write.
+- Planning, schemas-in-draft, and indexes live in `notes/`. Executable rules, skills, code, and approved knowledge objects live outside `notes/`.
+- If the user asks to change note content, say edits belong in Obsidian (or ask them to sync and re-run rsync), unless they explicitly override this rule for a one-off task.
+
+## Boundary
+
+- **Rules (`.mdc`)**: Stable *how*: process, triggers, safety, invariants.
+- **Skills (`SKILL.md`)**: On-demand *workflows*: multi-step tasks invoked by the user.
+- **notes/**: Stable *what we are building*: plans, schemas, agent designs, timeline. Not agent-writable.
+- **Commands:** Add commands when the same CLI scripts are needed repeatedly for validation, rendering, generation, or other frequent operations. Reference only canonical scripts and usage; do not list custom examples unless standardized.
+
+## When to add a rule
+
+- Only when the user asks for it.
+- Never paste large tables or schema bodies from `notes/` into rules. Link the path instead.
+
+## Hygiene
+
+- One concern per rule file. Under ~50 lines when possible.
+- No duplication across rules or skills. Link sibling paths.
+- Facts and draft designs stay in `notes/` or canonical data files; rules hold behavior only.
+- File and knowledge ids: human-readable; name for **why** (role) and **how** (use). See `compose-simplicity.mdc`.
+- **No agent cruft:** Do not add audit reports, one-off scripts, or scratch files under `local/` unless the user asks. Put durable results in the canonical store (`knowledge/`, `program/`, `schemas/`). Extend existing `scripts/` only when the workflow will run again.

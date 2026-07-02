@@ -1,0 +1,68 @@
+---
+description: Anti-hallucination, verification, traceability, and provenance enforcement for trainingPRG. Complements interaction-style.mdc.
+alwaysApply: true
+---
+
+# Anti-Hallucination and Verification
+
+## 1. Core Mandate
+
+- **Zero hallucinations:** Never invent movements, methods, scaling, sets, reps, loads, change equipement if something is not in the list, file paths, or configuration values.
+- **Answer only from:** the current conversation, files you have actually opened and read this session, or verified validator/script output from this repo.
+- If something cannot be verified with full provenance, mark it `[to be verified]` or state "I don't know" and refuse to proceed.
+- **Neutrality:** If a user claim conflicts with file contents, verify against source material before agreeing.
+
+## 2. Source of truth (this project)
+
+Apply in this order. Directory detail: `project-context.mdc`. `notes/` boundary: `rules-notes-boundary.mdc`.
+
+| Layer | Path | Role for agents |
+| :--- | :--- | :--- |
+| Design SoT | `notes/` | Plans, draft schemas, workout examples. **Read only.** Cite `(path)` in chat when KB lacks the item. |
+| Generation facts | `knowledge/` (not `knowledge/draft/`) | Approved movements, methods, WODs, populations. Warmup and cooldown are `session_part` on movements. |
+| Contracts | `schemas/`, `knowledge/vocabulary.json` | JSON shapes and closed taxonomy; do not invent fields or enum values. |
+| Approved output | `program/{group_id}/sessions/` | Approved session plans (`.json` + `.md`). Compose drafts in chat until explicit user **approve**. |
+| Ingest inputs | `local/`, `docs/` | Raw mirrors and extracts. Reference through ingest; do not copy submodule or local code into root. |
+| Verification gate | `scripts/validate/` | Schema and plan validators. A session plan is not valid until `validate_plan.py` exits 0. |
+
+**Ingest lineage (do not skip):** `local/` or `docs/` → `scripts/ingest/` → `knowledge/draft/` → promote → `knowledge/`. Promote only content the coach has approved from source material.
+
+**Not factual sources:** `knowledge/draft/` (unpromoted), `docs/sports-communication-digest.md` (coach voice only), general fitness knowledge not present in the layers above.
+
+## 3. Whitelist (treat as fact only)
+
+- Exact content from the current conversation.
+- Exact content of files you have read during this session.
+- Direct output from terminal commands or tools executed this session.
+- `knowledge/`, `schemas/`, approved `program/` JSON, and cited `notes/` paths you have read (with reference).
+
+## 4. Strict prohibitions
+
+- Never invent or alter session or knowledge content without a KB entry, cited `notes/` path, or coach confirmation.
+- Do not use `knowledge/draft/` in generation.
+- Do not assume ingest corrections, loads, units, or exercise semantics without KB entry, cited `notes/` example, or validator pass.
+- Do not invent file paths, slugs, dependencies, or values not in the codebase or `knowledge/`.
+- Movement JSON: use `sets_min`, `sets_max`, `reps`; `inclusion_rate` on `pairing_before` / `pairing_after` only. `pairing_before.movement_ids` lists canonical ids that trigger the pairing, not aliases.
+- New files and ids: human-readable names that convey **why** the file exists and **how** it is used (`compose-simplicity.mdc`).
+- **Environment:** Do not assume packages or tooling beyond `requirements/`.
+- **notes/:** Never create, modify, or delete anything under `notes/`.
+
+## 5. Traceability
+
+- Cite data as `(path)` when describing provenance in chat.
+- Low-confidence ingest, OCR, or bilingual (English/Dutch) items: flag for human review; do not guess.
+- Approved sessions: write under `program/{group_id}/sessions/` only after user **approve** (`knowledge/session-rules/strength.json` notes).
+
+## 6. Destructive commands
+
+Never suggest `git push --force`, `rm -rf`, or wholesale schema drops without a clear, bold warning:
+
+**WARNING: Irreversible operation. This risks data loss, broken lineage, or loss of auditability.**
+
+## 7. Tool and read failures
+
+If you cannot read a required file or run the validator:
+
+- Report the failure plainly in English.
+- Do not substitute generic or guessed information.
+- Ask the user for the correct path or clarification before proceeding.
