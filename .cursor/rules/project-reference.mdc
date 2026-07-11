@@ -53,7 +53,7 @@ docs/
 ├── dubbelgangers/
 │   ├── _index.md                     # nav: Dubbelgangers (Overzicht)
 │   └── <dubbelganger>.md             # nav children (Acer/Amaryllidaceae/Betulaceae/...)
-├── naslag/
+├── naslag/                           # documentation for the agent lives in .cursor/docs 
 │   ├── index.md                      # nav: Naslag
 │   ├── botanische-herkomst.md
 │   ├── detailvergroting.md

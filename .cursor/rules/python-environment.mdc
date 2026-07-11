@@ -16,3 +16,6 @@ alwaysApply: true
 - Run scripts: `.venv/bin/python scripts/validate/validate_schemas.py` (or `source .venv/bin/activate` first).
 - Run tests: `.venv/bin/pytest tests/`
 - Add new dependencies to a file under `requirements/`, not ad hoc installs.
+
+# pollenID specific
+- Always add scripts to docs/naslag/scripts.md
