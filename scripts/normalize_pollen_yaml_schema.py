@@ -26,6 +26,7 @@ CANONICAL_FIELDS: Tuple[str, ...] = (
     "latin",
     "dutch",
     "family",
+    "note",
     "size",
     "pollen_class",
     "shape",

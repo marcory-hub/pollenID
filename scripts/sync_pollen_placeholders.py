@@ -255,6 +255,7 @@ def format_canonical_block(ref: TaxonRef) -> str:
         f"  latin: {latin}\n"
         f"  dutch: {dutch}\n"
         f"  family:\n"
+        f"  note:\n"
         f"  size:\n"
         f"    smallest_size:\n"
         f"    largest_size:\n"

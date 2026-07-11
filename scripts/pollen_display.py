@@ -83,10 +83,15 @@ def merge_links_yaml_defaults(latin: str, links_yaml: Any) -> Dict[str, Optional
     }
     if not isinstance(links_yaml, dict):
         return out
+    yaml_by_canonical = {
+        "pollenx": links_yaml.get("pollenx", links_yaml.get("pollenX")),
+        "tstebler": links_yaml.get("tstebler"),
+        "paldat": links_yaml.get("paldat"),
+    }
     for k in ("pollenx", "tstebler", "paldat"):
-        if k not in links_yaml:
+        if k not in yaml_by_canonical:
             continue
-        v = links_yaml.get(k)
+        v = yaml_by_canonical.get(k)
         if v is False or v is None or v == "":
             out[k] = None
         elif isinstance(v, str) and v.strip():
