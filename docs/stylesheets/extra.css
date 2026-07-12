@@ -442,10 +442,24 @@
 }
 
 /* Material for MkDocs hides top navigation tabs below ~76em.
-   Force them visible so the "Home / monoflorale honing / ..." tabs stay accessible. */
+   Force them visible so the "Home / monoflorale honing / ..." tabs stay accessible.
+   Enable horizontal scroll: 10 tabs overflow on narrow viewports without this. */
 @media screen and (max-width: 76.234375em) {
   .md-tabs {
     display: block !important;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .md-tabs__inner {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .md-tabs__list {
+    flex-wrap: nowrap;
+    width: max-content;
+    max-width: none;
   }
 }
 
