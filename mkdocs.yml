@@ -180,6 +180,8 @@ nav:
       - Saxifraga Teucrium: dubbelgangers/saxifraga-teucrium.md
       - Umbelliferae Vicia: dubbelgangers/umbelliferae-vicia.md
       - Valeriana Dipsaceae: dubbelgangers/valeriana-dipsaceae.md
-  - Naslag: naslag/_index.md
+  - Naslag:
+      - Overzicht: naslag/_index.md
+      - Pollen kleurprotocollen: naslag/pollen-staining-protocols.md
 
 
