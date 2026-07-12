@@ -15,7 +15,7 @@
 
 1. **Basische fuchsine:** veel gebruikt (geïntegreerd in gelatine-glycerine insluitmiddel of kleuring voor insluiten)
 2. **Safranin O + Astra Blue:** ([Novikov](https://www.researchgate.net/publication/352463294_Modified_staining_protocol_with_Safranin_O_and_Astra_Blue_for_the_plant_histology#fullTextFileContent))
-  - Eerste test:
+  - Eerste test 2026-04-
     ![Safranin O + Astra Blue, Taraxacum officinale](../assets/images/non-pollen/safranineO-AstraBlue-Taraxacum-officinale.PNG)
   - Novikov afbeelding:
     ![Astra Blue + Safranin O (Novikov)](../assets/images/non-pollen/astra-blue-safraninO-novikov.png)
