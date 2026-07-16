@@ -366,22 +366,6 @@ acer_pseudoplatanus:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: 
-        assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_1.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_2.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_3.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_4.png
-      kind: by_taxon
-      source: by_taxon
     - path: assets/images/by-taxon/acer_pseudoplatanus/acer_pseudoplatanus_1.png
       kind: by_taxon
       source: by_taxon
@@ -3634,18 +3618,6 @@ carlina_acaulis:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/carlina-acaulis.md
   images:
-    - path: assets/images/by-taxon/carlina_aucalis/carlina_aucalis_1.png
-      kind: by_taxon
-      source: by_taxon
-    - path: assets/images/by-taxon/carlina_aucalis/carlina_aucalis_2.png
-      kind: by_taxon
-      source: by_taxon
-    - path: assets/images/by-taxon/carlina_aucalis/carlina_aucalis_3.png
-      kind: by_taxon
-      source: by_taxon
-    - path: assets/images/by-taxon/carlina_aucalis/carlina_aucalis_4.png
-      kind: by_taxon
-      source: by_taxon
 carpinus_betulus:
   latin: Carpinus betulus
   dutch: haagbeuk
@@ -4375,19 +4347,7 @@ chamerion_angustifolium:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/chamerion-angustifolium.md
-  images:
-    - path: 
-        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_2.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_3.png
-      kind: by_taxon
-      source: by_taxon
+  images: []
 chelidonium_majus:
   latin: Chelidonium majus
   dutch: Chelidonium majus
@@ -7007,21 +6967,6 @@ erigeron_canaden:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_3.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
-      kind: pollenwiki
-      source: pollenwiki
 erodium_cicutarium:
   latin: Erodium cicutarium
   dutch: gew. Reigersbek
@@ -8723,21 +8668,6 @@ helenium_autumn:
     - source: image
       path: assets/images/by-taxon/helenium_autumn/
   images:
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_3.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_7.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/helianthus_annuus/helianthus_annuus_4.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/helenium_autumn/helenium_autumn_1.png
       kind: by_taxon
       source: by_taxon
@@ -8944,23 +8874,7 @@ hieracium_austriacum:
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Hieracium_austriacum
     paldat: https://www.paldat.org/pub/Hieracium_austriacum
   sources: []
-  images:
-    - path: 
-        assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_2.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_3.png
-      kind: by_taxon
-      source: by_taxon
-    - path: 
-        assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_4.png
-      kind: by_taxon
-      source: by_taxon
+  images: []
 hippophae_rhamnoides:
   latin: Hippophae rhamnoides
   dutch:
@@ -14606,18 +14520,6 @@ rubus_idaeus:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/rubus-idaeus.md
   images:
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_2.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/rubus_idaeus/rubus_idaeus_1.png
       kind: by_taxon
       source: by_taxon
@@ -16181,18 +16083,6 @@ sorbus_arranensis:
     - source: eide
       path: /Users/md/Developer/pollenID/docs/keys/eide/rosaceae-eide.json
   images:
-    - path: assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_4.png
-      kind: pollenwiki
-      source: pollenwiki
 sorbus_aucuparia:
   latin: Sorbus aucuparia
   dutch: wilde lijsterbes
@@ -16461,18 +16351,6 @@ sulla_coronaria:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images:
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_3.png
-      kind: pollenwiki
-      source: pollenwiki
 sylibum_marianum:
   latin: Sylibum marianum
   dutch: Mariadistel
@@ -17791,18 +17669,6 @@ verbascum_nigrum:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/verbascum-nigrum.md
   images:
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_4.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/vicia_faba/vicia_faba_3.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/verbascum_nigrum/verbascum_nigrum_1.png
       kind: pollenwiki
       source: pollenwiki
@@ -17855,18 +17721,6 @@ verbena_officinalis:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/verbena-officinalis.md
   images:
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: assets/images/by-taxon/viola_tricolor/viola_tricolor_4.png
-      kind: pollenwiki
-      source: pollenwiki
     - path: assets/images/by-taxon/verbena_officinalis/verbena_officinalis_1.png
       kind: pollenwiki
       source: pollenwiki
