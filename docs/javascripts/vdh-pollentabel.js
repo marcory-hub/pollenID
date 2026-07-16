@@ -710,38 +710,28 @@
       if (repsPk.length > 0) return imgsFromChoice.concat(repsPk);
     }
     var pollenSlug = endpoint ? normalizePollenSlug(endpoint.pollen_key) : "";
-    if (pollenSlug && pollenIndex[pollenSlug]) {
-      var entryPS = pollenIndex[pollenSlug];
-      if (isMultiTaxonPollenEndpoint(endpoint)) {
-        var repMT = pickRepresentativeIndexImage(pollenSlug, entryPS);
-        imgsFromEndpoint = repMT ? [repMT] : [];
-      } else {
-        imgsFromEndpoint = imagesFromIndexEntry(entryPS);
+    if (endpoint && isMultiTaxonPollenEndpoint(endpoint)) {
+      // Meerdere taxa: één representatieve tegel per pollen_keys-item.
+      const reps = [];
+      for (var i = 0; i < endpoint.pollen_keys.length; i++) {
+        var k = normalizePollenSlug(endpoint.pollen_keys[i]);
+        if (k && pollenIndex[k]) {
+          const rep2 = pickRepresentativeIndexImage(k, pollenIndex[k]);
+          if (rep2) reps.push(rep2);
+        }
       }
+      imgsFromEndpoint = reps;
+    } else if (pollenSlug && pollenIndex[pollenSlug]) {
+      imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[pollenSlug]);
     } else if (
       (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
       endpoint &&
       Array.isArray(endpoint.pollen_keys) &&
-      endpoint.pollen_keys.length > 0
+      endpoint.pollen_keys.length === 1
     ) {
-      if (endpoint.pollen_keys.length === 1) {
-        var kOne = normalizePollenSlug(endpoint.pollen_keys[0]);
-        if (kOne && pollenIndex[kOne]) {
-          imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[kOne]);
-        }
-      } else {
-        // Meerdere taxa: één representatieve tegel per suggestie.
-        const reps = [];
-        for (var i = 0; i < endpoint.pollen_keys.length; i++) {
-          var k = normalizePollenSlug(endpoint.pollen_keys[i]);
-          if (k && pollenIndex[k]) {
-            const rep2 = pickRepresentativeIndexImage(k, pollenIndex[k]);
-            if (rep2) reps.push(rep2);
-          } else if (k) {
-            reps.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
-          }
-        }
-        imgsFromEndpoint = reps;
+      var kOne = normalizePollenSlug(endpoint.pollen_keys[0]);
+      if (kOne && pollenIndex[kOne]) {
+        imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[kOne]);
       }
     }
     if (
@@ -754,7 +744,9 @@
     }
     const imgs = imgsFromChoice.concat(imgsFromEndpoint);
     if (imgs.length > 0) return imgs;
-    // Nothing resolvable from pollen.json: show a stable placeholder tile.
+    // Branching choices have no taxon yet: do not show a grey placeholder tile.
+    if (ch && ch.next) return [];
+    // Endpoint with nothing resolvable from pollen.json: stable placeholder.
     return [{ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 }];
   }
 
