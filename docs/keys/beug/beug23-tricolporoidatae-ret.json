@@ -388,7 +388,8 @@
         {
           "label": "Brochi maximal 4-5 µm groot, columella's altijd enkelrijig (Tafel 73: 18-25).",
           "id": {
-            "name": "Viburnum lantana (Blz. 336)"
+            "name": "Viburnum lantana (Blz. 336)",
+            "pollen_key": "viburnum_lantana"
           }
         }
       ]
@@ -400,7 +401,8 @@
         {
           "label": "PK 32-42 µm groot, prolaat, Lumina kleiner als die breedte der Muri, columella's meerrijig (Tafel 83: 20-23).",
           "id": {
-            "name": "Paeonia officinalis"
+            "name": "Paeonia officinalis",
+            "pollen_key": "paeonia_officinalis"
           }
         },
         {

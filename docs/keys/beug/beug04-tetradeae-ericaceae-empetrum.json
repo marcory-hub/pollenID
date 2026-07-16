@@ -30,7 +30,8 @@
         {
           "label": "Binnenwanden van de tetraden dicht geperforeerd.",
           "id": {
-            "name": "4.7.1 Arctostaphylos alpina (L.) Spreng. (3). 47,3–54"
+            "name": "4.7.1 Arctostaphylos alpina (L.) Spreng. (3). 47,3–54",
+            "pollen_key": "arctostaphylos_alpina"
           }
         },
         {
@@ -52,7 +53,8 @@
         {
           "label": "Sculptuur psilaat; binnenwanden niet geperforeerd.",
           "id": {
-            "name": "4.7.3 Arbutus. Arbutus unedo (aardbeiboom)"
+            "name": "4.7.3 Arbutus. Arbutus unedo (aardbeiboom)",
+            "pollen_key": "arbutus_unedo"
           }
         }
       ]
@@ -97,7 +99,8 @@
         {
           "label": "Colpi zeer kort; colpus-index groter dan 3,3. Tetraden duidelijk scabraat tot zwak verrucaat, niet dikkewandig. Colpus-index 3,3(3,6)–4,5, MiW 4,1, 10 T (tabel 2: 12–13).",
           "id": {
-            "name": "4.7.6 Moneses uniflora (Eenbloemig wintergroen)"
+            "name": "4.7.6 Moneses uniflora (Eenbloemig wintergroen)",
+            "pollen_key": "moneses_uniflora"
           }
         },
         {

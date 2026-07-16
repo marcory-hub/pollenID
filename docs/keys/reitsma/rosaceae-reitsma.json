@@ -110,7 +110,8 @@
                 "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
-            ]
+            ],
+            "pollen_key": "rosa_gallica"
           }
         }
       ]
@@ -639,7 +640,8 @@
                 "image": "../../assets/images/non-pollen/placeholder.png",
                 "imageWidthPx": 1
               }
-            ]
+            ],
+            "pollen_key": "fragaria_moschata"
           }
         },
         {

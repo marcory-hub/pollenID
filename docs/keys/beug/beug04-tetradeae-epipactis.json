@@ -16,7 +16,8 @@
         {
           "label": "Sculptuur striaat(-reticulaat).",
           "id": {
-            "name": "4.10.1 [Listera cordata](https://www.paldat.org/pub/Listera_cordata)"
+            "name": "4.10.1 [Listera cordata](https://www.paldat.org/pub/Listera_cordata)",
+            "pollen_key": "listera_cordata"
           }
         },
         {

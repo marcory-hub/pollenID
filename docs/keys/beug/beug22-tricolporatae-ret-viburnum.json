@@ -22,7 +22,8 @@
         {
           "label": "brochi maximaal 4-5 µm groot, columellae dik (ca. 1 µm), Margines zijn nauwelijks ontwikkeld of ontbreken, Poriën vaak onduidelijk, vaak is alleen een equatoriale vernauwing van de colpi herkenbaar.",
           "id": {
-            "name": "Viburnum lantana"
+            "name": "Viburnum lantana",
+            "pollen_key": "viburnum_lantana"
           }
         }
       ]

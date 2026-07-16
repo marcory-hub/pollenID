@@ -206,7 +206,8 @@
         {
           "label": "Intercolpium-randen glad, colpi breed, colpus-membranen dicht korrelig gesculpteerd (wanneer PK met tectum perforatum, vgl. *Helleborus niger*, Blz... 134) (Tafel 60: 24-28).",
           "id": {
-            "name": "21.11 Helleborus foetidus (Blz... 294)"
+            "name": "21.11 Helleborus foetidus (Blz... 294)",
+            "pollen_key": "helleborus_foetidus"
           }
         },
         {
@@ -287,7 +288,8 @@
         {
           "label": "Exine tot 1,5 µm dik (Tafel 61: 12-17).",
           "id": {
-            "name": "21.16 Vitex agnus-castus (Blz... 298)"
+            "name": "21.16 Vitex agnus-castus (Blz... 298)",
+            "pollen_key": "vitex_agnus_castus"
           }
         },
         {

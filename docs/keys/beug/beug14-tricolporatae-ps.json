@@ -48,7 +48,8 @@
         {
           "label": "intercolpia subpolair met je zwei 10-15µm großen indrukken (Tafel 21: 12-14). PK scabraat bzw. microverrucat, sferoïdisch, met großen Polarfeldern en deutlichen colpen transversales (Tafel 21: 12-15)",
           "id": {
-            "name": "14.3 Nicandra physalodes (S. 162)"
+            "name": "14.3 Nicandra physalodes (S. 162)",
+            "pollen_key": "nicandra_physalodes"
           }
         },
         {
@@ -504,7 +505,8 @@
         {
           "label": "PK ca. 35-52 µm groot, relatief dunwandig en daardoor von geringer vormvastheid, in equatoriaal aanzicht rechthoekig (Tafel 29: 11-15)",
           "id": {
-            "name": "14.19 Anthyllis vulneraria (S. 191)"
+            "name": "14.19 Anthyllis vulneraria (S. 191)",
+            "pollen_key": "anthyllis_vulneraria"
           }
         },
         {
@@ -818,7 +820,8 @@
         {
           "label": "columella's onduidelijk, poriën 2-3 µm groot, colpen niet marginat (Tafel 30: 40-44)",
           "id": {
-            "name": "14.31 Frangula alnus (S. 198)"
+            "name": "14.31 Frangula alnus (S. 198)",
+            "pollen_key": "frangula_alnus"
           }
         }
       ]

@@ -46,7 +46,8 @@
         {
           "label": "PK kugelig, 50-70 µm groot, met 30 schmalen Colpi (Tafel 91: 11-13).",
           "id": {
-            "name": "26.2 Persicaria amphibia (Blz. 405)"
+            "name": "26.2 Persicaria amphibia (Blz. 405)",
+            "pollen_key": "persicaria_amphibia"
           }
         },
         {
@@ -150,7 +151,8 @@
         {
           "label": "PK met Tectum perforatum, met 12 Colpi in regelmäßiger Anordnung, Exine 1,5-2,0 µm dik, columella's ca. 0,7 µm dik (Tafel 93: 1-5).",
           "id": {
-            "name": "26.9 Spergula arvensis (Blz. 408)"
+            "name": "26.9 Spergula arvensis (Blz. 408)",
+            "pollen_key": "spergula_arvensis"
           }
         }
       ]

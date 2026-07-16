@@ -380,7 +380,8 @@
         {
           "label": "Margo ca. 10 µm breed, met tot 1 µm grote brochi.",
           "id": {
-            "name": "9.22 Butomus umbellatus (Blz... 106)"
+            "name": "9.22 Butomus umbellatus (Blz... 106)",
+            "pollen_key": "butomus_umbellatus"
           }
         },
         {

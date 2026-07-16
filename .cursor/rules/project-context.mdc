@@ -27,6 +27,7 @@ Before architectural or roadmap answers:
 | **CI/CD** | `.github/workflows/deploy.yml` |
 | **Knowledge capture** | `notes/` (general) |
 | **Taxon page key paths** | `.cursor/skills/trace-key-paths/SKILL.md`, `scripts/extract_key_paths.py` |
+| **Add Kerkvliet images** | `.cursor/skills/add-kerkvliet-images/SKILL.md` |
 
 ## 3. Knowledge sync
 - Use `[to be verified]` for any assumption not grounded in files read this session.

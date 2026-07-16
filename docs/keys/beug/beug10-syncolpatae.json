@@ -34,7 +34,8 @@
         {
           "label": "PK psilaat of scabraat, endo-microreticulaat (tabel 11: 4–5, fig. 19c–d).",
           "id": {
-            "name": "10.1 Berberis vulgaris (Blz... 114)"
+            "name": "10.1 Berberis vulgaris (Blz... 114)",
+            "pollen_key": "berberis_vulgaris"
           }
         }
       ]
@@ -176,7 +177,8 @@
         {
           "label": "PK rugulaat (tabel 11: 11–12).",
           "id": {
-            "name": "10.10 Nymphoides peltata (Blz... 116)"
+            "name": "10.10 Nymphoides peltata (Blz... 116)",
+            "pollen_key": "nymphoides_peltata"
           }
         },
         {

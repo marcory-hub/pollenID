@@ -141,7 +141,8 @@
         {
           "label": "PK met 6 Colpi, in equatoriaal aanzicht rond tot elliptisch, columella's duidelijk (Tafel 84: 26-28, Tafel 85: 1-3).",
           "id": {
-            "name": "24.5 Lavandula angustifolia (Blz. 384)"
+            "name": "24.5 Lavandula angustifolia (Blz. 384)",
+            "pollen_key": "lavandula_angustifolia"
           }
         },
         {
@@ -223,13 +224,15 @@
         {
           "label": "Brochi tot 1,5 µm groot, Lumina met weinige microbrochi (2-4), PK ca. 20-30 µm groot (Tafel 86: 1-4).",
           "id": {
-            "name": "24.9 Salvia verticillata (Blz. 387)"
+            "name": "24.9 Salvia verticillata (Blz. 387)",
+            "pollen_key": "salvia_verticillata"
           }
         },
         {
           "label": "Brochi altijd over 2 µm groot, grootste Brochi tot 4 µm, Lumina met talrijke microbrochi, PK ca. 27-72 µm groot (Tafel 86: 5-13).",
           "id": {
-            "name": "Salvia pratensis gruppe"
+            "name": "Salvia pratensis gruppe",
+            "pollen_key": "salvia_pratensis"
           }
         }
       ]
@@ -279,7 +282,8 @@
         {
           "label": "PK intectaat, Brochi steeds duidelijk, Exine meestal tot 1 µm dik, zelden dikker. Colpi nur zwak ingezonken, intercolpiumranden in poolaanzicht meestal niet sterker gekromd als der Umriß der PK (Tafel 87: 7-22).",
           "id": {
-            "name": "Primula veris gruppe"
+            "name": "Primula veris gruppe",
+            "pollen_key": "primula_veris"
           }
         }
       ]
