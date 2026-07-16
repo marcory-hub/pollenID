@@ -355,19 +355,6 @@
       return resolveSiteRelativeMarkdownHref(relativeMd);
     }
 
-    /** Tab-separated tail aligned with Kerkvliet kolommen vorm / grootte / oppervlak / opmerkingen. */
-    function morphTailTabsFromPollenEntry(ent) {
-      if (!ent || typeof ent !== "object") return "\t\t\t\t";
-      const vorm = ent.shape != null ? String(ent.shape).trim() : "";
-      const grootte = formatSizeFromPollen(
-        typeof ent.size === "object" && ent.size !== null ? /** @type {object} */ (ent.size) : null
-      );
-      const ornament = ent.ornamentation != null ? String(ent.ornamentation).trim() : "";
-      const oppervlak = ornament;
-      const opm = ent.aperture != null ? String(ent.aperture).trim() : "";
-      return "\t" + vorm + "\t" + grootte + "\t" + oppervlak + "\t" + opm;
-    }
-
     function primaryTaxonDocHrefFromPollenEntry(ent, pollenKey) {
       if (!pollenKey) return "";
       const mono =
@@ -384,14 +371,13 @@
       if (!latinPlain) return "";
       const hrefRaw = primaryTaxonDocHrefFromPollenEntry(ent, pollenKey);
       const href = resolveMdHref(hrefRaw);
-      const tail = morphTailTabsFromPollenEntry(ent || {});
-      const link =
+      return (
         '<a class="pid-pollen-latin-link" href="' +
         escAttr(href) +
         '"><strong>' +
         esc(String(latinPlain)) +
-        "</strong></a>";
-      return link + '<span class="pid-pollen-morph-tail">' + esc(tail) + "</span>";
+        "</strong></a>"
+      );
     }
 
     /** MkDocs site root (…/pollenID/) for resolving docs-relative assets/… under GitHub Pages + instant nav. */
