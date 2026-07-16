@@ -659,23 +659,11 @@
             : Array.isArray(r.images)
               ? r.images
               : [];
-        // Optional full-width image row above the data row.
+        // Optional full-width image row above the data row (thumbnails only; name stays in the data row).
         if (Array.isArray(rowImages) && rowImages.length > 0) {
           const trImg = document.createElement("tr");
           const tdImg = document.createElement("td");
           tdImg.colSpan = 6;
-          const label = document.createElement("div");
-          label.className = "kerkvliet-row-label";
-          label.innerHTML =
-            '<div class="kerkvliet-row-label-latin">' +
-            (latinHay && pkResolved
-              ? latinHeadHtmlFromPollenEntry(entryFull, latinHay, pkResolved)
-              : esc(latinHay)) +
-            "</div>" +
-            (dutchHay
-              ? '<div class="kerkvliet-row-label-dutch">' + esc(dutchHay) + "</div>"
-              : "");
-          tdImg.appendChild(label);
           renderImagesTd(tdImg, rowImages);
           trImg.appendChild(tdImg);
           tbody.appendChild(trImg);
