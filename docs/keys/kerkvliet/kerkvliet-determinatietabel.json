@@ -17,132 +17,54 @@
   "rows": [
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Myosotis",
-      "dutch": "vergeet-me-nietje",
-      "vorm": "halter",
-      "grootte": "7x5",
-      "oppervlak": "glad",
-      "opmerkingen": "6-colpaat, maar niet goed zichtbaar",
       "pollen_key": "myosotis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Hydrangea sp",
-      "dutch": "-",
-      "vorm": "O/onregelm",
-      "grootte": "10-12,5",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, zie ook onder reticulaat",
       "pollen_key": "hydrangea_sp"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Cynoglossum",
-      "dutch": "hondstong",
-      "vorm": "ovaal",
-      "grootte": "11x8",
-      "oppervlak": "glad",
-      "opmerkingen": "n-colpaat",
       "pollen_key": "cynoglossum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Castanea",
-      "dutch": "tamme kastanje",
-      "vorm": "ovaal",
-      "grootte": "12-14",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, zwak geel",
-      "pollen_key": "castanea"
+      "pollen_key": "castanea_sativa"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Solanum dulcamara",
-      "dutch": "bitterzoet",
-      "vorm": "O",
-      "grootte": "12",
-      "oppervlak": "glad",
-      "opmerkingen": "3-col(po)raat, hof?",
       "pollen_key": "solanum_dulcamara"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Spiraea",
-      "dutch": "spirea",
-      "vorm": "onregelm.",
-      "grootte": "12-16",
-      "oppervlak": "glad",
-      "opmerkingen": "3-col(po)raat, soms vouwen",
       "pollen_key": "spiraea"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Spiraea japonica",
-      "dutch": "spirea",
-      "vorm": "О ⁄ ∆",
-      "grootte": "12,5",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat; relatief grote porieën, geen vouwen",
       "pollen_key": "spiraea_japonica"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Lotus ulginosis",
-      "dutch": "moerasrolklaver",
-      "vorm": "ovaal",
-      "grootte": "14x10",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colp(or)aat",
       "pollen_key": "lotus_ulginosis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Philadelphus",
-      "dutch": "boerenjasmijn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "14-16",
-      "oppervlak": "zeer fijn reticulaat",
-      "opmerkingen": "3-colporaat, lange colpi met spits coronarium einde, bijna syncolpoaat, porie □, dubbele rand",
-      "pollen_key": "philadelphus_coronarius"
+      "pollen_key": "philadelphus"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Buddleiea",
-      "dutch": "vlinderstruik",
-      "vorm": "O",
-      "grootte": "15",
-      "oppervlak": "glad",
-      "opmerkingen": "4-colporaat",
       "pollen_key": "buddleiea"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Urtica",
-      "dutch": "brandnetel",
-      "vorm": "O",
-      "grootte": "16",
-      "oppervlak": "glad",
-      "opmerkingen": "3-poraat, dikke intine van ca 3 µm",
       "pollen_key": "urtica"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Filipendula ulmaria",
-      "dutch": "moerasspirea",
-      "vorm": "O",
-      "grootte": "17",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-colporaat, cyto gran, lange colpi",
       "pollen_key": "filipendula_ulmaria"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Nemophila menzi",
-      "dutch": "bosliefje",
-      "vorm": "О ⁄ ∆",
-      "grootte": "17",
-      "oppervlak": "glad",
-      "opmerkingen": "3-syncolpaat",
       "pollen_key": "nemophila_menzi"
     },
     {
@@ -156,72 +78,30 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Robinia pseudoac",
-      "dutch": "-",
-      "vorm": "О ⁄ ∆",
-      "grootte": "18",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colp(or)aat, re.l brede colpi; cv semperflorens NB: bloeit juli/sept",
       "pollen_key": "robinia_pseudoac"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Lotus corniculatus",
-      "dutch": "rolklaver",
-      "vorm": "ovaal",
-      "grootte": "18x13",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "lotus_corniculatus"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Echium",
-      "dutch": "slangekruid",
-      "vorm": "eivormig",
-      "grootte": "18x16",
-      "oppervlak": "glad/zw reticul",
-      "opmerkingen": "3-colporaat, zwak reticulaat",
       "pollen_key": "echium"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Escallonia sp",
-      "dutch": "Escallonia",
-      "vorm": "O tot О ⁄ ∆ tot ∆",
-      "grootte": "18-20",
-      "oppervlak": "glad (evt scabr?)",
-      "opmerkingen": "3-colporaat, hof rond pore bij o.a. ∆",
       "pollen_key": "escallonia_sp"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Morus alba",
-      "dutch": "witte moerbei",
-      "vorm": "O",
-      "grootte": "19",
-      "oppervlak": "vrijwel glad",
-      "opmerkingen": "2-3 poraat",
       "pollen_key": "morus_alba"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Solanum lycopers",
-      "dutch": "tomaat",
-      "vorm": "О ⁄ ∆",
-      "grootte": "20",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, lange niet brede colpi met rond einde, bijna syncolpaat, pore iets lolongaat; vestib. ca als Betula",
       "pollen_key": "solanum_lycopers"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Rhamnus frangula",
-      "dutch": "vuilboom",
-      "vorm": "∆",
-      "grootte": "20",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "rhamnus_frangula"
     },
     {
@@ -235,12 +115,6 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Onosis spinoza",
-      "dutch": "kattendoorn",
-      "vorm": "ovaal",
-      "grootte": "20x25",
-      "oppervlak": "glad/f.reticuaat",
-      "opmerkingen": "3-colporaat; lijkt op Trif. repens en",
       "pollen_key": "onosis_spinoza"
     },
     {
@@ -254,22 +128,10 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Hypericum polyph",
-      "dutch": "hertshooi",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, wsl zwak reticul.",
       "pollen_key": "hypericum_polyph"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Phacelia",
-      "dutch": "phacelia_tanacetifolia",
-      "vorm": "O/zeskantig",
-      "grootte": "22",
-      "oppervlak": "glad",
-      "opmerkingen": "6-colpaat, (3 pseudocolpi)",
       "pollen_key": "phacelia"
     },
     {
@@ -283,42 +145,18 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Vitis vinifera",
-      "dutch": "druif",
-      "vorm": "О ⁄ ∆",
-      "grootte": "22",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-colporaat,lange smalle colpi, kleine (striaat?) pore, rel. dikke intine;nectarloos, vouwen,hof;geel",
       "pollen_key": "vitis_vinifera"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Prunus serotina",
-      "dutch": "Am. vogelkers",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, lange colpi, grote poren",
       "pollen_key": "prunus_serotina"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Aesculus hippocas",
-      "dutch": "paardekastanje",
-      "vorm": "ovaal",
-      "grootte": "24",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, stippels op colpi, gelig",
-      "pollen_key": "aesculus_hippocastanum"
+      "pollen_key": "aesculus_hippocas"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Prunus padus",
-      "dutch": "vogelkers",
-      "vorm": "О ⁄ ∆",
-      "grootte": "25",
-      "oppervlak": "glad/zw.striaat",
-      "opmerkingen": "3-colporaat,middellange colpi poren 12-15 μm",
       "pollen_key": "prunus_padus"
     },
     {
@@ -341,42 +179,18 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Alnus glutinosa",
-      "dutch": "els",
-      "vorm": "vijfkantig",
-      "grootte": "26",
-      "oppervlak": "glad",
-      "opmerkingen": "4-5-poraat, cyto: gran",
       "pollen_key": "alnus_glutinosa"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Coryllus avelana",
-      "dutch": "hazelaar",
-      "vorm": "О ⁄ ∆",
-      "grootte": "27",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-poraat, zwak geel",
       "pollen_key": "coryllus_avelana"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Symphytum off",
-      "dutch": "smeerwortel",
-      "vorm": "ovaal",
-      "grootte": "27-33",
-      "oppervlak": "glad/ruw opp.",
-      "opmerkingen": "8-10-colporaat, lalongaat, colpi ca 15µm, spits einde",
       "pollen_key": "symphytum_off"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Verbena officinalis",
-      "dutch": "ijzerhard",
-      "vorm": "О ⁄ ∆",
-      "grootte": "27",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colpaat, cyto: gran",
       "pollen_key": "verbena_officinalis"
     },
     {
@@ -390,32 +204,14 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Robinia pseudo-",
-      "dutch": "acacia",
-      "vorm": "∆/O",
-      "grootte": "27-31",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, smalle colpi met rond acacia einde, soms spits, dunne exine, intine dikker dan exine",
       "pollen_key": "robinia_pseudo"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Allium schoenoprasum",
-      "dutch": "bieslook",
-      "vorm": "half ovaal",
-      "grootte": "27",
-      "oppervlak": "glad/zw. rugulaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "allium_schoenoprasum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Aesculus carnea",
-      "dutch": "rode paardekast",
-      "vorm": "ovaal",
-      "grootte": "28",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, stippels op colpi, rode olie",
       "pollen_key": "aesculus_carnea"
     },
     {
@@ -438,222 +234,90 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Sarothamnus sco",
-      "dutch": "gewone brem",
-      "vorm": "ca O",
-      "grootte": "30",
-      "oppervlak": "wsl glad of scabr",
-      "opmerkingen": "3-colporaat, l s colpi, grote pore of f reticulaat Prunus-achtig; Syn: Cytisus",
       "pollen_key": "sarothamnus_sco"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Allium ursinum",
-      "dutch": "daslook",
-      "vorm": "half ovaal",
-      "grootte": "31(-35)",
-      "oppervlak": "glad/ zw. rugulaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "allium_ursinum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Medicago sativa",
-      "dutch": "luzerne",
-      "vorm": "О ⁄ ∆-ovaal",
-      "grootte": "32-37",
-      "oppervlak": "glad/fijn reticulaat",
-      "opmerkingen": "3-colporaat, rel.dikke exine,cyto: gran, lange colpi, ora 8µm, ondervertegenwoordigd in honing",
       "pollen_key": "medicago_sativa"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Ribes sanguineum",
-      "dutch": "rode ribes",
-      "vorm": "O",
-      "grootte": "33",
-      "oppervlak": "glad",
-      "opmerkingen": "6-8-poraat",
       "pollen_key": "ribes_sanguineum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Carpinus betulus",
-      "dutch": "haagbeuk",
-      "vorm": "О ⁄ ∆",
-      "grootte": "33-37",
-      "oppervlak": "ca glad",
-      "opmerkingen": "3-4-5-poraat, hof. Cyto: zetmeel",
       "pollen_key": "carpinus_betulus"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Lathyrus sylvestris",
-      "dutch": "boslathyrus",
-      "vorm": "ovaal",
-      "grootte": "37",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat, Z-Limburg",
       "pollen_key": "lathyrus_sylvestris"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Anchusa officinalis",
-      "dutch": "ossetong",
-      "vorm": "ovaal",
-      "grootte": "37x26",
-      "oppervlak": "glad/foveolaat",
-      "opmerkingen": "4-colporaat korte colpi",
       "pollen_key": "anchusa_officinalis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Berberis sp",
-      "dutch": "zuurbes",
-      "vorm": "O/onregelmatig",
-      "grootte": "37-45",
-      "oppervlak": "glad",
-      "opmerkingen": "1-6 colpaat, syncolpaat, dikke intine, cyto. gran",
-      "pollen_key": "berberis_sp"
+      "pollen_key": "mahonia_aquifolium"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Allium cepa",
-      "dutch": "ui",
-      "vorm": "half ovaal",
-      "grootte": "39",
-      "oppervlak": "glad/zw rugulaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "allium_cepa"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Fumaria officinalis",
-      "dutch": "duivekervel",
-      "vorm": "□",
-      "grootte": "39",
-      "oppervlak": "glad",
-      "opmerkingen": "6-8-poraat, nectarloos",
       "pollen_key": "fumaria_officinalis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Gramineae",
-      "dutch": "grassen",
-      "vorm": "O",
-      "grootte": "ca 40",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "1-poraat, cyto gran",
       "pollen_key": "gramineae"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Phaseolus coccin",
-      "dutch": "pronkboon",
-      "vorm": "О ⁄ ∆",
-      "grootte": "ca 40",
-      "oppervlak": "glad/scabraat",
-      "opmerkingen": "3-poraat, hof, cyto gran, dikke intine P. vulgaris(spercieboon) is meer scabraat",
       "pollen_key": "phaseolus_coccin"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Mahonia aquifolia",
-      "dutch": "mahonia",
-      "vorm": "O/onregelmatig",
-      "grootte": "40-50",
-      "oppervlak": "glad",
-      "opmerkingen": ">6 colpaat, syncolpaat, dikke intine, cyto. gran.",
-      "pollen_key": "mahonia_aquifolia"
+      "pollen_key": "mahonia_aquifolium"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Eschscholtzia calif",
-      "dutch": "slaapmutsje",
-      "vorm": "O/4-6 kantig",
-      "grootte": "40(30-47)",
-      "oppervlak": "scabraat/reticulaat",
-      "opmerkingen": "4-6-colpaat of 5-8-colpaat",
       "pollen_key": "eschscholtzia_calif"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Eleagnus angustif",
-      "dutch": "olijfwilg",
-      "vorm": "О ⁄ ∆",
-      "grootte": "45",
-      "oppervlak": "psilaat",
-      "opmerkingen": "3-colporaat,vestibule,cyto: fijn granu",
       "pollen_key": "eleagnus_angustif"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Anchusa arvensis",
-      "dutch": "kromhals",
-      "vorm": "ovaal",
-      "grootte": "48",
-      "oppervlak": "glad",
-      "opmerkingen": "3-(4)-colporaat, lijkt niet op A. off!",
       "pollen_key": "anchusa_arvensis"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Viola",
-      "dutch": "viool",
-      "vorm": "vijfkantig",
-      "grootte": "ca 60",
-      "oppervlak": "glad/zwak scabr.",
-      "opmerkingen": "4-6-colporaat, dikke ex, cyto:gran (30) er zijn ook soorten van 30 µm",
       "pollen_key": "viola"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Chamerion angust",
-      "dutch": "wilgeroosje",
-      "vorm": "О ⁄ ∆",
-      "grootte": "62-80",
-      "oppervlak": "glad",
-      "opmerkingen": "3-poraat, (Epilobium angu), draden",
       "pollen_key": "chamerion_angust"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Viola tricolor",
-      "dutch": "driekl. viooltje",
-      "vorm": "4-5-hoekig",
-      "grootte": "70",
-      "oppervlak": "glad",
-      "opmerkingen": "4-5-colporaat",
       "pollen_key": "viola_tricolor"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Zea",
-      "dutch": "maïs",
-      "vorm": "O",
-      "grootte": "80",
-      "oppervlak": "glad",
-      "opmerkingen": "1-poraat, cyto gran",
       "pollen_key": "zea"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Vinca sp.",
-      "dutch": "maagdenpalm",
-      "vorm": "O",
-      "grootte": "80",
-      "oppervlak": "glad",
-      "opmerkingen": "3-colporaat;intine 6µm;korte colpi",
       "pollen_key": "vinca_sp"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Larix decidua",
-      "dutch": "larix",
-      "vorm": "O",
-      "grootte": "92(80-104)",
-      "oppervlak": "glad",
-      "opmerkingen": "0; intine 5-17 µm, cyto gran met kernen",
       "pollen_key": "larix_decidua"
     },
     {
@@ -667,42 +331,18 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Philadelphus",
-      "dutch": "boerenjasmijn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "14-16",
-      "oppervlak": "zeer fijn reticulaat",
-      "opmerkingen": "3-colporaat, lange colpi met spits coronarium einde, bijna syncolpoaat, pore □, dubbele rand",
-      "pollen_key": "philadelphus_coronarius"
+      "pollen_key": "philadelphus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Deutzia sp.",
-      "dutch": "Deutzia",
-      "vorm": "О ⁄ ∆",
-      "grootte": "17",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat;geel; lange colpi spits einde; soms hof",
       "pollen_key": "deutzia_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Filipendula",
-      "dutch": "moerasspirea",
-      "vorm": "ca O",
-      "grootte": "15-20",
-      "oppervlak": "reticulaat/scabraat",
-      "opmerkingen": "3-colporaat , cyto: gran; nectarloos; geel",
       "pollen_key": "filipendula"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Tamarix",
-      "dutch": "Tamarix",
-      "vorm": "ca O",
-      "grootte": "15",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat, Mediterrane ho",
       "pollen_key": "tamarix"
     },
     {
@@ -716,33 +356,15 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Linaria cymbalaria",
-      "dutch": "muurleeuwenbek",
-      "vorm": "O",
-      "grootte": "17",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat, l colpi scherp met punt",
       "pollen_key": "linaria_cymbalaria"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Anthirrhinum",
-      "dutch": "leeuwebek",
-      "vorm": "O",
-      "grootte": "16-18",
-      "oppervlak": "fijn reticulaat?",
-      "opmerkingen": "3-colporaat",
-      "pollen_key": "antirrhinum_majus"
+      "pollen_key": "anthirrhinum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Galium sylvatica",
-      "dutch": "lieve vrouwe beds",
-      "vorm": "ca O",
-      "grootte": "17",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "7-9-colpaat",
-      "pollen_key": "galium_sylvatica"
+      "pollen_key": "galium_odoratum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -773,12 +395,6 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Linaria vulg",
-      "dutch": "vlasleeuwenbek",
-      "vorm": "ca O",
-      "grootte": "18",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, oranje olie, lange colpi met puntig einde",
       "pollen_key": "linaria_vulg"
     },
     {
@@ -792,152 +408,62 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Sambucus nigra",
-      "dutch": "vlier",
-      "vorm": "ca O",
-      "grootte": "18",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, hof, lalongaat",
       "pollen_key": "sambucus_nigra"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Sambucus ebulus",
-      "dutch": "bergvlier",
-      "vorm": "ca O",
-      "grootte": "18-24",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, met hof",
       "pollen_key": "sambucus_ebulus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Sophora japonica",
-      "dutch": "honingboom",
-      "vorm": "О ⁄ ∆/iets ovaal",
-      "grootte": "ca.18(x15)reticulaat",
-      "oppervlak": "3-4-colporaat, omtrek soms",
-      "opmerkingen": "onregelmatig;cyto:pl: granul;vouwen?; soms gele olie",
       "pollen_key": "sophora_japonica"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Mercurialis annua",
-      "dutch": "bingelkruid",
-      "vorm": "ca O",
-      "grootte": "18-23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, Z en M Europa",
       "pollen_key": "mercurialis_annua"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Primula vulgaris",
-      "dutch": "sleutelbloem",
-      "vorm": "O",
-      "grootte": "18-19",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "6-8-colpaat",
       "pollen_key": "primula_vulgaris"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Fallopia baldschur",
-      "dutch": "Chin. Bruidssluier",
-      "vorm": "ca O",
-      "grootte": "19",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; syn:Polygonum aubertii",
       "pollen_key": "fallopia_baldschur"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Asperula odorata",
-      "dutch": "lievevrouwebedstro",
-      "vorm": "O",
-      "grootte": "20",
-      "oppervlak": "scabraat",
-      "opmerkingen": "7-9colpaat, lijkt fijn reticulaat",
-      "pollen_key": "asperula_odorata"
+      "pollen_key": "galium_odoratum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Humulus",
-      "dutch": "hop",
-      "vorm": "O",
-      "grootte": "20",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat, nectarl, hof, aambeeld",
       "pollen_key": "humulus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Diplotaxis tenuifolia",
-      "dutch": "rucola",
-      "vorm": "О ⁄ ∆",
-      "grootte": "20",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "diplotaxis_tenuifolia"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Verbascum nigrum",
-      "dutch": "koningskaars",
-      "vorm": "О ⁄ ∆",
-      "grootte": "20-23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, oranje olie",
       "pollen_key": "verbascum_nigrum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Hypericum perfo-",
-      "dutch": "St. Janskruid",
-      "vorm": "ca O",
-      "grootte": "20- 22",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat, ook glad; ook groter; (17-25) soms hof/ vouwen; lange colpi(bijna syncolpaat), duidelijke pore",
       "pollen_key": "hypericum_perfo"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Clematis vitalba",
-      "dutch": "bosrank",
-      "vorm": "ca O",
-      "grootte": "20-22",
-      "oppervlak": "reliëf, scabraat",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "clematis_vitalba"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Asperula odorata",
-      "dutch": "lieve vr. bedstro",
-      "vorm": "O",
-      "grootte": "20-24",
-      "oppervlak": "scabraat/foveolaat",
-      "opmerkingen": "ca. 9 colpaat",
-      "pollen_key": "asperula_odorata"
+      "pollen_key": "galium_odoratum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Limnanthes dougl",
-      "dutch": "moerasbloem",
-      "vorm": "onregelm. ovaal",
-      "grootte": "20x16",
-      "oppervlak": "scabraat?/striaat",
-      "opmerkingen": "1-colpaat; (syncolpaat?) striaat bij colpus",
       "pollen_key": "limnanthes_dougl"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Fraxinus ornus",
-      "dutch": "es",
-      "vorm": "O/vierkantig",
-      "grootte": "21-23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-4-colporaat, hof, vouwen, lijkt op",
       "pollen_key": "fraxinus_ornus"
     },
     {
@@ -951,162 +477,66 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Betula",
-      "dutch": "berk",
-      "vorm": "О ⁄ ∆",
-      "grootte": "21",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat, geel, vestibulum",
-      "pollen_key": "betula"
+      "pollen_key": "betula_pendula"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Melampyrum",
-      "dutch": "hengel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "21",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colpaat , scherpe colpi",
       "pollen_key": "melampyrum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Ornithopus perpus",
-      "dutch": "Serradella",
-      "vorm": "O/ovaal",
-      "grootte": "21",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat(?); lijkt op Trif. hyb.",
       "pollen_key": "ornithopus_perpus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Platanus hybr",
-      "dutch": "plataan",
-      "vorm": "O/onregelmatig",
-      "grootte": "21-24",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat, vouwen",
       "pollen_key": "platanus_hybr"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Deutzia sp.",
-      "dutch": "Deutzia",
-      "vorm": "ca O",
-      "grootte": "22",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, hof en vouwen (Ohe)",
       "pollen_key": "deutzia_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Eruca sativa",
-      "dutch": "Eruca",
-      "vorm": "ca О ⁄ ovaal",
-      "grootte": "22-25",
-      "oppervlak": "reticulaat (<Bn)",
-      "opmerkingen": "3-4-colpaat",
       "pollen_key": "eruca_sativa"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Reseda lutea",
-      "dutch": "wilde reseda",
-      "vorm": "О ⁄ ∆",
-      "grootte": "22-23",
-      "oppervlak": "fijn reticulaat (<Bn)",
-      "opmerkingen": "3-colpaat , dunne ex; colpi l, breed, scherpe punt aan einde, soms exineresten op colpi; cyto: iets granulair",
       "pollen_key": "reseda_lutea"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Lysimachia",
-      "dutch": "bastaardwederik",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, margo",
       "pollen_key": "lysimachia"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Raphanus raph",
-      "dutch": "bladrammenas",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat , geel",
       "pollen_key": "raphanus_raph"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Xanthium italicum",
-      "dutch": "stekelnoot sp.",
-      "vorm": "O",
-      "grootte": "23",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colpaat, lijkt op Ambrosia",
       "pollen_key": "xanthium_italicum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Genista anglica",
-      "dutch": "stekelbrem",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23",
-      "oppervlak": "zeer fijn reticulaat",
-      "opmerkingen": "3-colpaat (?)",
       "pollen_key": "genista_anglica"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Clethra alnifolia",
-      "dutch": "Clethra",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23-25",
-      "oppervlak": "verrucaat (?)",
-      "opmerkingen": "3-colporaat, s l colpi, grote pore",
       "pollen_key": "clethra_alnifolia"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Viburnum opulus",
-      "dutch": "Gelderse roos",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23-25",
-      "oppervlak": "reticulaat(als Sinap)",
-      "opmerkingen": "3-colporaat, onregelm netwerk, hof, licht geel, ( struik algemeen in bos) smalle colpi, grote pore",
       "pollen_key": "viburnum_opulus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Pyracantha coccin",
-      "dutch": "vuurdoorn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23-27",
-      "oppervlak": "reticulaat (?)",
-      "opmerkingen": "3-colporaat, geel, Prunusvorm, zie onder rugulaat",
       "pollen_key": "pyracantha_coccin"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Verbascum nigrum",
-      "dutch": "zwarte toorts",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23-28",
-      "oppervlak": "reticulaat (als Salix)",
-      "opmerkingen": "3-colporaat, soms oranje olie",
       "pollen_key": "verbascum_nigrum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Populus sp",
-      "dutch": "populier",
-      "vorm": "onregelmatig O",
-      "grootte": "23-31",
-      "oppervlak": "scabraat/tectaat",
-      "opmerkingen": "0, nectarloos,intine 2µm; cyto:",
       "pollen_key": "populus_sp"
     },
     {
@@ -1120,232 +550,94 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Digitalis purpurea",
-      "dutch": "vingerhoedskruid",
-      "vorm": "О ⁄ ∆",
-      "grootte": "24",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat; l smalle, s colpi, ;pore vaak onduidelijk",
       "pollen_key": "digitalis_purpurea"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Euodia hupehensis",
-      "dutch": "honingboom",
-      "vorm": "ca O",
-      "grootte": "24(-27)",
-      "oppervlak": "grof reticulaat",
-      "opmerkingen": "3-colporaat; syn: Tetradium daniella; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm",
       "pollen_key": "euodia_hupehensis"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Rumex obtusifolius",
-      "dutch": "zuring",
-      "vorm": "O",
-      "grootte": "24",
-      "oppervlak": "reliëf",
-      "opmerkingen": "3-colporaat, cyto: gran",
       "pollen_key": "rumex_obtusifolius"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Polygonum convol",
-      "dutch": "zwaluwtong",
-      "vorm": "O",
-      "grootte": "24",
-      "oppervlak": "foveolaat",
-      "opmerkingen": "3-colporaat, lange vouwen;cyto: gran",
       "pollen_key": "polygonum_convol"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Rhus chinensis",
-      "dutch": "Chinese sumac",
-      "vorm": "О ⁄ ∆",
-      "grootte": "24-25",
-      "oppervlak": "reticulaat (<Bn)",
-      "opmerkingen": "3-colporaat, rel. dikke exine, grote pore, colpi puntig einde, lolongaat",
       "pollen_key": "rhus_chinensis"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Ailanthus",
-      "dutch": "hemelboom",
-      "vorm": "∆/O",
-      "grootte": "25",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "(ca als 3-colporaat Salix)+striaat (ret < Viburnum opulus)",
-      "pollen_key": "ailanthus_altissima"
+      "pollen_key": "ailanthus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Daucus carota",
-      "dutch": "wilde wortel",
-      "vorm": "ovaal",
-      "grootte": "25x12",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colporaat, lalongaat",
       "pollen_key": "daucus_carota"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Anethum graveole",
-      "dutch": "dille",
-      "vorm": "ovaal",
-      "grootte": "25x13",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat",
-      "pollen_key": "anethum_graveolens"
+      "pollen_key": "anethum_graveole"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Foeniculum vulga",
-      "dutch": "venkel",
-      "vorm": "ovaal/iets onregelm",
-      "grootte": "25x14",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colporaat; gelig, lalongaat",
       "pollen_key": "foeniculum_vulga"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Asparagus",
-      "dutch": "asperge",
-      "vorm": "onregelmatig",
-      "grootte": "25",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "1-colpaat,soms oranje olie,half ovaal",
-      "pollen_key": "asparagus_officinalis"
+      "pollen_key": "asparagus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cardamine praten",
-      "dutch": "pinksterbloem",
-      "vorm": "ca O",
-      "grootte": "25",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat , netwerk iets gro- ver dan koolzaad",
       "pollen_key": "cardamine_praten"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Ajuga reptans",
-      "dutch": "zenegroen",
-      "vorm": "∆/O",
-      "grootte": "25",
-      "oppervlak": "reticulaat(<Bn)",
-      "opmerkingen": "3-colpaat, brede lange colpi",
       "pollen_key": "ajuga_reptans"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cornus mas",
-      "dutch": "gele kornoelje",
-      "vorm": "О ⁄ ∆",
-      "grootte": "25",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colporaat, lijkt glad, cyto: gran.",
       "pollen_key": "cornus_mas"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cercis siliquastrum",
-      "dutch": "Judasboom",
-      "vorm": "О ⁄ ∆",
-      "grootte": "25(-28)",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colporaat, l colpi, einde puntig, bijna syncolpaat, vrij grote pore",
       "pollen_key": "cercis_siliquastrum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Taxus baccata",
-      "dutch": "taxus",
-      "vorm": "onregelmatig O",
-      "grootte": "25-29",
-      "oppervlak": "scabraat",
-      "opmerkingen": "0, intine 2-9µm, stervorm in centrum",
       "pollen_key": "taxus_baccata"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Hippophaë rhamn",
-      "dutch": "duindoorn",
-      "vorm": "ca. O",
-      "grootte": "25",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colporaat, ‘portaal’, hof, cyto: gran",
       "pollen_key": "hippopha_rhamn"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Parnassia palustris",
-      "dutch": "Parnassia",
-      "vorm": "iets ovaal",
-      "grootte": "25-27x23",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "(alsBn) 3-colporaat, l, smalle, spleetvormige colpi, lolongaat; vouwen",
       "pollen_key": "parnassia_palustris"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Fallopia japonica",
-      "dutch": "japanse duizendkn",
-      "vorm": "ca O",
-      "grootte": "25-27",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, l s colpi met kleine pore. Cyto:. zetmeel. Syn:Polygonum jap.",
       "pollen_key": "fallopia_japonica"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cakile maritima",
-      "dutch": "zeeraket",
-      "vorm": "O",
-      "grootte": "25-30",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3colporaat? (prep. Zeeland)",
       "pollen_key": "cakile_maritima"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Corylopsis parcifl",
-      "dutch": "schijnhazelaar",
-      "vorm": "ca O",
-      "grootte": "25-32",
-      "oppervlak": "reticulaat (als salix)",
-      "opmerkingen": "3-colpaar, l colpi met spits einde",
       "pollen_key": "corylopsis_parcifl"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Juniperus commu",
-      "dutch": "jeneverbes",
-      "vorm": "O",
-      "grootte": "26",
-      "oppervlak": "scabraat",
-      "opmerkingen": "0, intine 5-10µm, stervorm in centrum",
       "pollen_key": "juniperus_commu"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Staphylea pinnata",
-      "dutch": "pimpernoot",
-      "vorm": "Ο/∆/□",
-      "grootte": "45",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-4-colporaat",
       "pollen_key": "staphylea_pinnata"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Astrantia major",
-      "dutch": "Zeeuws knoopje",
-      "vorm": "ovaal",
-      "grootte": "45x20",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat, iets onregelm. van vorm",
       "pollen_key": "astrantia_major"
     },
     {
@@ -1359,182 +651,74 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Vicia faba",
-      "dutch": "tuinboon",
-      "vorm": "ovaal",
-      "grootte": "47",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, cyto: gran ,lijkt reticulaat",
       "pollen_key": "vicia_faba"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Trifolium incarnat",
-      "dutch": "incarnaatklaver",
-      "vorm": "ovaal",
-      "grootte": "47",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "trifolium_incarnat"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Centaurea montan",
-      "dutch": "bergcentaurie",
-      "vorm": "ovaal",
-      "grootte": "47",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "centaurea_montan"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Nigella",
-      "dutch": "Nigelle",
-      "vorm": "∆",
-      "grootte": "47",
-      "oppervlak": "reticulaat/scabr",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "nigella"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Pisum",
-      "dutch": "erwt",
-      "vorm": "ovaal",
-      "grootte": "48",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "pisum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cornus sanguinea",
-      "dutch": "rode kornoelje",
-      "vorm": "O/∆/ovaal",
-      "grootte": "50",
-      "oppervlak": "scabraat/reticulaat",
-      "opmerkingen": "3-colporaat, cyto: zetmeel lijkt reticulaat",
       "pollen_key": "cornus_sanguinea"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Scilla nonscripta",
-      "dutch": "wilde hyacint",
-      "vorm": "ca ovaal",
-      "grootte": "50",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "scilla_nonscripta"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Colchicinum autu",
-      "dutch": "herfsttijloos",
-      "vorm": "halfovaal-ovaal",
-      "grootte": "52",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "colchicinum_autu"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Cucumis sativus",
-      "dutch": "komkommer/aug",
-      "vorm": "О ⁄ ∆",
-      "grootte": "50-60",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-poraat;’portaal’(hof), zwak geel; cyto: gran",
       "pollen_key": "cucumis_sativus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Limonium vulgare",
-      "dutch": "lamsoor",
-      "vorm": "O",
-      "grootte": "55",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "limonium_vulgare"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Liriodendron tulip",
-      "dutch": "tulpeboom",
-      "vorm": "ca. halfovaal",
-      "grootte": "57",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "1-colpaat; intine 4µm;cyto: gran",
       "pollen_key": "liriodendron_tulip"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Colchicum autumnale",
-      "dutch": "herfsttijloos",
-      "vorm": "semi-ovaal",
-      "grootte": "58",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "2-poraat",
       "pollen_key": "colchicum_autumnale"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Linum usitatissimum",
-      "dutch": "vlas",
-      "vorm": "ca O",
-      "grootte": "60",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "3-colpaat , dikke exine,dikke intine, cytopl:granulair",
       "pollen_key": "linum_usitatissimum"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Lonicera sp",
-      "dutch": "kamperfoelie",
-      "vorm": "О ⁄ ∆",
-      "grootte": "ca 60",
-      "oppervlak": "reticulaat/stekels",
-      "opmerkingen": "3-colpaat , hof, korte colpi,",
       "pollen_key": "lonicera_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Geranium sp.",
-      "dutch": "ooievaarsbek e.a.",
-      "vorm": "О",
-      "grootte": "60-90",
-      "oppervlak": "grof reticulaat",
-      "opmerkingen": "3-colp(or)aat/3-poraat, dikke exine",
       "pollen_key": "geranium_sp"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Convolvulus arve",
-      "dutch": "akkerwinde",
-      "vorm": "О ⁄ ∆",
-      "grootte": "61",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "convolvulus_arve"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Centranthus ruber",
-      "dutch": "spoorbloem",
-      "vorm": "О ⁄ ∆",
-      "grootte": "ca 65",
-      "oppervlak": "clavaat?",
-      "opmerkingen": "3-(col)poraat, stippen/stekels",
       "pollen_key": "centranthus_ruber"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Armeria maritima",
-      "dutch": "strandkruid",
-      "vorm": "∆",
-      "grootte": "66",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, pollendimorfie",
       "pollen_key": "armeria_maritima"
     },
     {
@@ -1548,12 +732,6 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Calystegia sepium",
-      "dutch": "haagwinde",
-      "vorm": "O",
-      "grootte": "78",
-      "oppervlak": "scabraat",
-      "opmerkingen": ">20-poraat",
       "pollen_key": "calystegia_sepium"
     },
     {
@@ -1567,202 +745,82 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Portulacca oleacera",
-      "dutch": "postelein",
-      "vorm": "O",
-      "grootte": "ca. 80",
-      "oppervlak": "verrucaat/scabraat/",
-      "opmerkingen": "n-colpaat, grote colpi; cytopl.: echinaat granulair",
       "pollen_key": "portulacca_oleacera"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Oenothera tetrag",
-      "dutch": "teunisbloem",
-      "vorm": "∆(lobaat)",
-      "grootte": "125",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat [lobaat=driehoek met deuken in de zijden]",
       "pollen_key": "oenothera_tetrag"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Aruncus",
-      "dutch": "geitenbaard",
-      "vorm": "∆",
-      "grootte": "16",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat",
-      "pollen_key": "aruncus_dioicus"
+      "pollen_key": "aruncus"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Sedum acre",
-      "dutch": "muurpeper",
-      "vorm": "О ⁄ ∆",
-      "grootte": "18-20",
-      "oppervlak": "rugulaat/zw striaat",
-      "opmerkingen": "3-colporaat, brede l colpi spits eind; pore rond met rand ,exine rel dik; gelig",
       "pollen_key": "sedum_acre"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Fragaria vesca",
-      "dutch": "aardbei",
-      "vorm": "∆",
-      "grootte": "21",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat, geel",
       "pollen_key": "fragaria_vesca"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Lythrum salicaria",
-      "dutch": "kattenstaart",
-      "vorm": "ca O",
-      "grootte": "22(19-24)",
-      "oppervlak": "striaat",
-      "opmerkingen": "3(+3)-colpaat, pollendimorfie; 3 en 37 (30-40) schijncolpi. Striaat moeilijk te zien. Cyto: gran",
       "pollen_key": "lythrum_salicaria"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Pyracantha coccin",
-      "dutch": "vuurdoorn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "23-27",
-      "oppervlak": "rugulaat (reticul?)",
-      "opmerkingen": "3-colporaat, geel, Prunusvorm, colpi l en s, ora groot (tot 12 µm)",
       "pollen_key": "pyracantha_coccin"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Potentilla anserina",
-      "dutch": "zilverschoon",
-      "vorm": "О ⁄ ∆",
-      "grootte": "25",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat, grijs-l.geel, ora vierkant,nectarloo",
       "pollen_key": "potentilla_anserina"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Rubus fructicosus",
-      "dutch": "braam",
-      "vorm": "О ⁄ ∆ Prunus bouw",
-      "grootte": "21-25",
-      "oppervlak": "striaat/f reticulaat",
-      "opmerkingen": "3-colporaat, onregelm. vorm, lange colpi",
       "pollen_key": "rubus_fructicosus"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Rubus idaeus",
-      "dutch": "framboos",
-      "vorm": "О ⁄ ∆ Prunus bouw",
-      "grootte": "25",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat, colpi lang, duidelijker striaat meestal geen spleet op pore",
       "pollen_key": "rubus_idaeus"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Aesculus hippoca",
-      "dutch": "paardekastanje",
-      "vorm": "ovaal",
-      "grootte": "26",
-      "oppervlak": "zw striaat/glad",
-      "opmerkingen": "3-colporaat, colpi met stippen",
-      "pollen_key": "aesculus_hippocastanum"
+      "pollen_key": "aesculus_hippoca"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Ruta graveolens",
-      "dutch": "wijnruit",
-      "vorm": "ovaal, spits naar de top",
-      "grootte": "27-30-35",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat,pore, ex naar de top geel;iets hof;",
       "pollen_key": "ruta_graveolens"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer palmatum",
-      "dutch": "-",
-      "vorm": "O",
-      "grootte": "27-32",
-      "oppervlak": "reticulaat/rugulaat",
-      "opmerkingen": "3-4 colporaat; reticulaat<koolzaad; scherp begrensde lange colpi, la-longaat, ornamentatie “vingerafdruk”",
       "pollen_key": "acer_palmatum"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Nicotiana glauca",
-      "dutch": "siertabak",
-      "vorm": "O-О ⁄ ∆",
-      "grootte": "29 (27)",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colp(or)aat, onduidelijk rugu- laat, korte colpi niet duidelijk begrensd",
       "pollen_key": "nicotiana_glauca"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer japonicum",
-      "dutch": "Japanse esdoorn",
-      "vorm": "ca O",
-      "grootte": "(25-)29",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat, zwak geel, l s colpi",
       "pollen_key": "acer_japonicum"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer palmatum",
-      "dutch": "Italy red",
-      "vorm": "ca. O",
-      "grootte": "27-32",
-      "oppervlak": "rugulaat/reticulaat",
-      "opmerkingen": "3-soms 4 colporaat, lalongaat, scherp begrende l colpi, (vers: vingerafdruk)",
       "pollen_key": "acer_palmatum"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer negundo",
-      "dutch": "verderesdoorn",
-      "vorm": "ca O",
-      "grootte": "30",
-      "oppervlak": "reticulaat/striaat/",
-      "opmerkingen": "3-col(po)raat, beetje striaat, hof,",
       "pollen_key": "acer_negundo"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer platanoïdes",
-      "dutch": "Noorse esdoorn",
-      "vorm": "ca O",
-      "grootte": "30-34",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colpaat , scherpe colpi",
       "pollen_key": "acer_platanoides"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer campestre",
-      "dutch": "Spaanse aak",
-      "vorm": "О ⁄ ∆",
-      "grootte": "32-35",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colpaat, brede,lange colpi, hof, vouwen",
       "pollen_key": "acer_campestre"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Sanguisorba minor",
-      "dutch": "kleine pimpernel",
-      "vorm": "O",
-      "grootte": "30(-32)",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat, hof+vestibulum (lindebouw), smalle colpi, spits eindigend, cyto: soms gran",
       "pollen_key": "sanguisorba_minor"
     },
     {
@@ -1776,32 +834,14 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Nicotiana tabacum",
-      "dutch": "tabak",
-      "vorm": "O",
-      "grootte": "31",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "4-colporaat, lange colpi; siertabak vaak 3-colporaat",
       "pollen_key": "nicotiana_tabacum"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Skimmia",
-      "dutch": "Skimmia",
-      "vorm": "O/ovaal",
-      "grootte": "32-35",
-      "oppervlak": "striaat/reticulaat",
-      "opmerkingen": "5-colporaat, zwak bruin",
       "pollen_key": "skimmia"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Davidia involucrata",
-      "dutch": "vaantjesboom",
-      "vorm": "О ⁄ ∆",
-      "grootte": "33",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat;Nyssaceae. China,ook NL",
       "pollen_key": "davidia_involucrata"
     },
     {
@@ -1815,102 +855,42 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Acer pseudoplat.",
-      "dutch": "Esdoorn",
-      "vorm": "ca O",
-      "grootte": "37(35-47)",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colpaat , dikke intine",
       "pollen_key": "acer_pseudoplatanus"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Prunus avium",
-      "dutch": "zoete kers",
-      "vorm": "∆",
-      "grootte": "37",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colp(or)aat, soms onduidelijk striaat",
       "pollen_key": "prunus_avium"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Crataegus sp",
-      "dutch": "meidoorn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "40",
-      "oppervlak": "onduidelijk striaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "crataegus_sp"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Prunus laurocerasus",
-      "dutch": "laurierkers",
-      "vorm": "О ⁄ ∆",
-      "grootte": "40-45",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "prunus_laurocerasus"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Prunus spinoza",
-      "dutch": "sleedoorn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "41",
-      "oppervlak": "striaat,",
-      "opmerkingen": "3-colp(or)aat",
       "pollen_key": "prunus_spinoza"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Mespilus germani",
-      "dutch": "mispel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "45",
-      "oppervlak": "striaat?/scabraat?",
-      "opmerkingen": "3-colpaat, dikke exine, druppelvormige colpi",
       "pollen_key": "mespilus_germani"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Polemonium caeruleum",
-      "dutch": "Jacobs ladder",
-      "vorm": "ca O",
-      "grootte": "45",
-      "oppervlak": "striaat,",
-      "opmerkingen": "50-60-poraat",
       "pollen_key": "polemonium_caeruleum"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Astrantia major",
-      "dutch": "Zeeuws knoopje",
-      "vorm": "ovaal",
-      "grootte": "45x20",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat, iets onregelm. van vorm",
       "pollen_key": "astrantia_major"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Gilia tricolor",
-      "dutch": "Gilia",
-      "vorm": "O",
-      "grootte": "ca 45",
-      "oppervlak": "striaat",
-      "opmerkingen": "n-poraat",
       "pollen_key": "gilia_tricolor"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Datura stramonium",
-      "dutch": "doornappel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "50",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "datura_stramonium"
     },
     {
@@ -1924,42 +904,18 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Erodium cicutarium",
-      "dutch": "gew. Reigersbek",
-      "vorm": "О ⁄ ∆",
-      "grootte": "54",
-      "oppervlak": "striaat",
-      "opmerkingen": "3-colpaat, violette olie",
       "pollen_key": "erodium_cicutarium"
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Succisa pratensis",
-      "dutch": "blauwe knoop",
-      "vorm": "O",
-      "grootte": "80",
-      "oppervlak": "striaat/echinaat",
-      "opmerkingen": "3-colporaat, korte stekels",
       "pollen_key": "succisa_pratensis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Erigeron canaden",
-      "dutch": "Canad. fijnstraal",
-      "vorm": "О ⁄ ∆",
-      "grootte": "20",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat (?)",
       "pollen_key": "erigeron_canaden"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Helenium autumn",
-      "dutch": "Helenium",
-      "vorm": "O",
-      "grootte": "20-25",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, kleine stekels",
       "pollen_key": "helenium_autumn"
     },
     {
@@ -1982,22 +938,10 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Ambrosia artemis",
-      "dutch": "Ambrosia",
-      "vorm": "O",
-      "grootte": "23",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colp(or)aat, stompe stekels, vouwen",
-      "pollen_key": "ambrosia_artemisiifolia"
+      "pollen_key": "ambrosia_artemis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Bidens sp",
-      "dutch": "tandzaad",
-      "vorm": "O",
-      "grootte": "23",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "bidens_sp"
     },
     {
@@ -2011,12 +955,6 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Eupatorium cann",
-      "dutch": "leverkruid",
-      "vorm": "O",
-      "grootte": "25",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, stekels iets smaller dan Solidago",
       "pollen_key": "eupatorium_cann"
     },
     {
@@ -2030,22 +968,10 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Petasitis officinalis",
-      "dutch": "groot hoefblad",
-      "vorm": "O",
-      "grootte": "25",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "petasitis_officinalis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Chrysanthemum leuc",
-      "dutch": "margriet",
-      "vorm": "O",
-      "grootte": "ca. 25",
-      "oppervlak": "echinaat A",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "chrysanthemum_leuc"
     },
     {
@@ -2059,132 +985,54 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Senecio inaequalis",
-      "dutch": "bezemkruiskruid",
-      "vorm": "ca. O",
-      "grootte": "25-27",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat (Zeeland), stekels 2,5µm ca 18 stekels/rand",
       "pollen_key": "senecio_inaequalis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Lampsana commu",
-      "dutch": "akkerkool",
-      "vorm": "drie-/zeskantig",
-      "grootte": "25-28",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat",
       "pollen_key": "lampsana_commu"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Taraxacum",
-      "dutch": "paardebloem",
-      "vorm": "drie-/zeskantig",
-      "grootte": "25-41(32)",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-4 vensters, fenestraat, geel-oranje olie; kleinere tandjes dan Cichorium",
       "pollen_key": "taraxacum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Matricaria chamo",
-      "dutch": "echte kamille",
-      "vorm": "О ⁄ ∆",
-      "grootte": "26",
-      "oppervlak": "echinaat A",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "matricaria_chamo"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Aster sp",
-      "dutch": "aster",
-      "vorm": "O",
-      "grootte": "26",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "aster_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Galinsoga sp",
-      "dutch": "knopkruid",
-      "vorm": "O",
-      "grootte": "27",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colporaat, 21 stekels/rand, stekels 2,5µm, kleine pore,",
       "pollen_key": "galinsoga_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Senecio sp",
-      "dutch": "kruiskruid",
-      "vorm": "∆",
-      "grootte": "27",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, korte stekels",
       "pollen_key": "senecio_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Senecio jacobea",
-      "dutch": "Jacobs kruiskruid",
-      "vorm": "О ⁄ ∆",
-      "grootte": "27-30",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, lolongaat, smalle colpi, rel grote pore, rel dikke exine, 18 stekels/rand, stekels 1,5-2 µm; gelig",
       "pollen_key": "senecio_jacobea"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Anthemis nobilis",
-      "dutch": "roomse kamille",
-      "vorm": "O",
-      "grootte": "28",
-      "oppervlak": "echinaat A",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "anthemis_nobilis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Campanula",
-      "dutch": "klokje",
-      "vorm": "O",
-      "grootte": "29",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-4-poraat, hof",
       "pollen_key": "campanula"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Leontodon autum",
-      "dutch": "vert. leeuwentand",
-      "vorm": "drie-/zeskantig",
-      "grootte": "29",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat, exine 3µm, ca 35 stekels totaal van 2,5 µm, ca 18 stekels/rand",
       "pollen_key": "leontodon_autum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Achillea millefolium",
-      "dutch": "duizendblad",
-      "vorm": "О ⁄ ∆",
-      "grootte": "29",
-      "oppervlak": "echinaat A",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "achillea_millefolium"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Hieracium aurantiacum",
-      "dutch": "oranje havikskruid",
-      "vorm": "drie-/zeskantig",
-      "grootte": "(28-)30",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat,fenestraat, lijsten breed, vormen een soort schild, rel kleine vensters",
       "pollen_key": "hieracium_aurantiacum"
     },
     {
@@ -2198,12 +1046,6 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Tussilago farfara",
-      "dutch": "klein hoefblad",
-      "vorm": "О ⁄ ∆",
-      "grootte": "32",
-      "oppervlak": "echinaat H?",
-      "opmerkingen": "3-colporaat., stekels Cirsium type",
       "pollen_key": "tussilago_farfara"
     },
     {
@@ -2217,52 +1059,22 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Aster tripolium",
-      "dutch": "zeeaster",
-      "vorm": "O",
-      "grootte": "30-33",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, soms gele oliedr. brede stekels van 2,5 µm, vouwen; blauw 30, geel 32 µm (prep. Zeeland)",
       "pollen_key": "aster_tripolium"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Centaurea jacea",
-      "dutch": "knoopkruid",
-      "vorm": "О ⁄ ∆",
-      "grootte": "31-35",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat, korte stekels",
       "pollen_key": "centaurea_jacea"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Calendula officin",
-      "dutch": "goudsbloem",
-      "vorm": "O",
-      "grootte": "34",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3(-4)-colporaat",
       "pollen_key": "calendula_officin"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Tagetes erecta",
-      "dutch": "Groot Afrikaantje",
-      "vorm": "O",
-      "grootte": "34",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, dicht bestekeld",
       "pollen_key": "tagetes_erecta"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Helianthus annuus",
-      "dutch": "zonnebloem",
-      "vorm": "O",
-      "grootte": "ca. 35",
-      "oppervlak": "echinaat H",
-      "opmerkingen": "3-colporaat, geel",
       "pollen_key": "helianthus_annuus"
     },
     {
@@ -2276,252 +1088,102 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Nymphaea alba",
-      "dutch": "waterlelie",
-      "vorm": "ovaal/onregelmatig",
-      "grootte": "37",
-      "oppervlak": "ca echinaat",
-      "opmerkingen": "0 (of 1?)",
       "pollen_key": "nymphaea_alba"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Cichorium intybus",
-      "dutch": "cichorei",
-      "vorm": "drie-/zeskantig",
-      "grootte": "38",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat",
       "pollen_key": "cichorium_intybus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Sonchus arvensis",
-      "dutch": "akkermelkdistel",
-      "vorm": "drie-/zeskantig",
-      "grootte": "40(-45)",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat, stekels 2,5µm ca 35 stekles per rand",
       "pollen_key": "sonchus_arvensis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Tragopogon sp",
-      "dutch": "morgenster",
-      "vorm": "drie-/zeskantig",
-      "grootte": "44",
-      "oppervlak": "echinaat T",
-      "opmerkingen": "3-colporaat, fenestraat",
       "pollen_key": "tragopogon_sp"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Arcticum minus",
-      "dutch": "klit",
-      "vorm": "О ⁄ ∆",
-      "grootte": "40-45",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat, stompe stekels van 1 µm",
-      "pollen_key": "arctium_minus"
+      "pollen_key": "arcticum_minus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Weigelia/Diervilla",
-      "dutch": "Weigelia",
-      "vorm": "O",
-      "grootte": "45",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-(col?)poraat, hof",
       "pollen_key": "weigelia_diervilla"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Nuphar lutea",
-      "dutch": "gele plomp",
-      "vorm": "O",
-      "grootte": "47",
-      "oppervlak": "echinaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "nuphar_lutea"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Carduus nutans",
-      "dutch": "knikkende distel",
-      "vorm": "-",
-      "grootte": "47",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "carduus_nutans"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Onopordon acant",
-      "dutch": "wegdistel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "47",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "onopordon_acant"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Cirsium arvense",
-      "dutch": "akkerdistel",
-      "vorm": "O",
-      "grootte": "49",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "cirsium_arvense"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Cnicus benedict",
-      "dutch": "gezeg. distel",
-      "vorm": "ovaal",
-      "grootte": "49",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "cnicus_benedict"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Serrulata tinctoria",
-      "dutch": "zaagblad",
-      "vorm": "О ⁄ ∆",
-      "grootte": "49",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "serrulata_tinctoria"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Sylibum marianum",
-      "dutch": "Mariadistel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "50",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat; zeer korte stekels",
       "pollen_key": "sylibum_marianum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Arcticum majus",
-      "dutch": "grote klit",
-      "vorm": "O/ovaal",
-      "grootte": "50",
-      "oppervlak": "echinaat S/verruc",
-      "opmerkingen": "3-poraat, kleine stekels. Ook 40µm?",
-      "pollen_key": "arctium_lappa"
+      "pollen_key": "arcticum_majus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Cirsium vulgare",
-      "dutch": "speerdistel",
-      "vorm": "O",
-      "grootte": "50-52",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colporaat (Zeeland), stekels 4x3 µm ca 15 stekels per rand",
       "pollen_key": "cirsium_vulgare"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Lonicera",
-      "dutch": "kamperfoelie",
-      "vorm": "О ⁄ ∆",
-      "grootte": "50-65",
-      "oppervlak": "echinaat/reticulaat",
-      "opmerkingen": "3-colporaat, korte colpi; ook rugulaat? Valeriana off valeriaan О ⁄ ∆ 52 echinaat+rugulaat 3-poraat",
       "pollen_key": "lonicera"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Carlina aucalis",
-      "dutch": "zilverdistel",
-      "vorm": "О ⁄ ∆",
-      "grootte": "60",
-      "oppervlak": "echinaat S",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "carlina_aucalis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Carthamus tinctor",
-      "dutch": "saffloer",
-      "vorm": "?",
-      "grootte": "60",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
-      "pollen_key": "carthamus_tinctor"
+      "pollen_key": "carthamus_tinctorius"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Carthamus lanatuswollige",
-      "dutch": "saffloer",
-      "vorm": "O",
-      "grootte": "61",
-      "oppervlak": "echinaat J",
-      "opmerkingen": "3-colporaat",
-      "pollen_key": "carthamus_lanatuswollige"
+      "pollen_key": "carthamus_lanatus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Centranthus ruber",
-      "dutch": "rode spoorbloem",
-      "vorm": "O",
-      "grootte": "65-72",
-      "oppervlak": "zwak echinaat",
-      "opmerkingen": "3-colp(or)aat",
       "pollen_key": "centranthus_ruber"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Scabiosa columbar",
-      "dutch": "duifkruid",
-      "vorm": "О ⁄ ∆",
-      "grootte": "70",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat, korte stekels",
       "pollen_key": "scabiosa_columbar"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Echinops sphaer",
-      "dutch": "kogeldistel",
-      "vorm": "ovaal",
-      "grootte": "70",
-      "oppervlak": "echinaat C",
-      "opmerkingen": "3-colporaat, dikke exine, vouwen",
       "pollen_key": "echinops_sphaer"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Dipsacus",
-      "dutch": "kaardebol",
-      "vorm": "O",
-      "grootte": "71-90",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat",
       "pollen_key": "dipsacus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Succisa praten",
-      "dutch": "blauwe knoop",
-      "vorm": "O",
-      "grootte": "80",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colporaat, korte stekels",
       "pollen_key": "succisa_praten"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Knautia spp",
-      "dutch": "-",
-      "vorm": "O",
-      "grootte": "80-110",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-col(po)raat, ‘deksel’ op pore",
       "pollen_key": "knautia_spp"
     },
     {
@@ -2535,112 +1197,46 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Crocus ancyrensis",
-      "dutch": "crocus",
-      "vorm": "O",
-      "grootte": "70-110",
-      "oppervlak": "verrucaat/echinaat",
-      "opmerkingen": "syncolpaat",
       "pollen_key": "crocus_ancyrensis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Portulacca oleacera",
-      "dutch": "postelein",
-      "vorm": "O",
-      "grootte": "ca. 80",
-      "oppervlak": "verrucaat/scabraat/",
-      "opmerkingen": "n-colpaat, grote colpi; cytopl.: echinaat granulair",
       "pollen_key": "portulacca_oleacera"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Crocus albiflorus",
-      "dutch": "crocus",
-      "vorm": "O",
-      "grootte": "125",
-      "oppervlak": "echinaat+scabraat",
-      "opmerkingen": "0, geel/oranje olie",
       "pollen_key": "crocus_albiflorus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Diversen: Pinus",
-      "dutch": "den",
-      "vorm": "ovaal/luchtzakken",
-      "grootte": "44-75",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "0,dikke intine, cyto: granulair",
       "pollen_key": "diversen_pinus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Calluna vulgaris",
-      "dutch": "struikheide",
-      "vorm": "tetrade",
-      "grootte": "32-39",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat, wratten,gran",
       "pollen_key": "calluna_vulgaris"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Vaccinium vitis",
-      "dutch": "vossebes",
-      "vorm": "tetrade",
-      "grootte": "35(33-35)",
-      "oppervlak": "glad",
-      "opmerkingen": "(3-)colporaat, cyto: helder ideae (33-40) poren indien aanw: elliptisch",
       "pollen_key": "vaccinium_vitis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Rhododendron",
-      "dutch": "rhododendron",
-      "vorm": "tetrade",
-      "grootte": "36(-50?)",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat, cyto: helder",
       "pollen_key": "rhododendron"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Vaccinium corymb",
-      "dutch": "blauwe bes",
-      "vorm": "tetrade",
-      "grootte": "37-42",
-      "oppervlak": "glad",
-      "opmerkingen": "(3-)colporaat, colpi ± 17µm, lolongaat",
       "pollen_key": "vaccinium_corymb"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Erica tetralix",
-      "dutch": "dopheide",
-      "vorm": "tetrade",
-      "grootte": "39(37-40)",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "(3-)colporaat,lolongaat; cyto: gran (als E.cin.) gelig, poren zwak elliptisch",
       "pollen_key": "erica_tetralix"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Vaccinium myrtillus",
-      "dutch": "bosbes",
-      "vorm": "tetrade",
-      "grootte": "(40-)47",
-      "oppervlak": "verrucaat wsl",
-      "opmerkingen": "(3-)colporaat, scherpe colpi van",
       "pollen_key": "vaccinium_myrtillus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Astragalus sinicus",
-      "dutch": "milkvetch",
-      "vorm": "ovaal",
-      "grootte": "17",
-      "oppervlak": "glad?",
-      "opmerkingen": "3-colporaat. Mid.Zee gebied. Voor en",
       "pollen_key": "astragalus_sinicus"
     },
     {
@@ -2654,62 +1250,26 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Cannabis sativa",
-      "dutch": "cannabis",
-      "vorm": "O",
-      "grootte": "20",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-poraat; cyto: gran",
       "pollen_key": "cannabis_sativa"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Amorpha fructico",
-      "dutch": "valse indigo",
-      "vorm": "О ⁄ ∆",
-      "grootte": "21",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat; exine met orane/gele olie",
-      "pollen_key": "amorpha_fruticosa"
+      "pollen_key": "amorpha_fructico"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Punica granatum",
-      "dutch": "granaatappel",
-      "vorm": "O tot ovaal",
-      "grootte": "21",
-      "oppervlak": "glad/scabraat/",
-      "opmerkingen": "3-colporaat, ca lalongaat, l colpi,",
       "pollen_key": "punica_granatum"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Eucalyptus camal",
-      "dutch": "eucalyptus",
-      "vorm": "∆",
-      "grootte": "22",
-      "oppervlak": "glad/verrucaat",
-      "opmerkingen": "3-syncolpaat, dwz colpi raken elkaar",
       "pollen_key": "eucalyptus_camal"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Olea europaea",
-      "dutch": "olijf",
-      "vorm": "onregelmatig O",
-      "grootte": "22",
-      "oppervlak": "reticulaat (als Bn)",
-      "opmerkingen": "3-colporaat, onduidelijke colpi",
       "pollen_key": "olea_europaea"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Carragena arbores",
-      "dutch": "erwtenstruik",
-      "vorm": "ovaal/O",
-      "grootte": "23(20-25)",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-4-colpaat, soms syncolpaat; l s colpi z.o. Europa, voor Azië",
       "pollen_key": "carragena_arbores"
     },
     {
@@ -2732,32 +1292,14 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Hedysarum corona",
-      "dutch": "French honeysuc",
-      "vorm": "ovaal",
-      "grootte": "24",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; gele olie; It: sulla",
       "pollen_key": "hedysarum_corona"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Citrus sinensis",
-      "dutch": "sinaasappel",
-      "vorm": "□/O",
-      "grootte": "25",
-      "oppervlak": "foveolaat",
-      "opmerkingen": "4-colporaat; mid.zee, (sub)tropen",
       "pollen_key": "citrus_sinensis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Mangifera indica",
-      "dutch": "mango",
-      "vorm": "ovaal/O",
-      "grootte": "25(-27)",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat, vouwen, ca □ pore. A1741 Dom. rep. Tropen",
       "pollen_key": "mangifera_indica"
     },
     {
@@ -2771,52 +1313,22 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Ceratonia silqua",
-      "dutch": "Johannesbroodbo",
-      "vorm": "O",
-      "grootte": "25-27",
-      "oppervlak": "f reti",
-      "opmerkingen": "4-colporaat, exine open bij colpi en intine ingedeukt, l s colpi, lalongaat, vouwen",
       "pollen_key": "ceratonia_silqua"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Loranthus europaeus",
-      "dutch": "-",
-      "vorm": "∆",
-      "grootte": "26",
-      "oppervlak": "scabraat",
-      "opmerkingen": "3-syncolpaat(zie eucalyptus); ZO Eur",
       "pollen_key": "loranthus_europaeus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Ulex sp",
-      "dutch": "gaspeldoorn",
-      "vorm": "О ⁄ ∆",
-      "grootte": "27",
-      "oppervlak": "fijn reticulaat",
-      "opmerkingen": "3-colp(or)aat; Z Europa, Ierland; zie boven",
       "pollen_key": "ulex_sp"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Anacardium occid",
-      "dutch": "cashew",
-      "vorm": "onregelmatig ovaal",
-      "grootte": "28",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colpaat, l zeer s colpi, lolongaat",
       "pollen_key": "anacardium_occid"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Carpobrotis edulis",
-      "dutch": "hottentotvijg",
-      "vorm": "O",
-      "grootte": "28",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat; in europese kustgebieden",
       "pollen_key": "carpobrotis_edulis"
     },
     {
@@ -2830,162 +1342,66 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Erica arborea",
-      "dutch": "boomheide",
-      "vorm": "tetrade",
-      "grootte": "30",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "3-colp(or)aat; cyto: gran; mid.zee",
       "pollen_key": "erica_arborea"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Davidia involucrata",
-      "dutch": "vaantjesboom",
-      "vorm": "О ⁄ ∆",
-      "grootte": "33",
-      "oppervlak": "rugulaat",
-      "opmerkingen": "3-colporaat;Nyssaceae. China,ook NL",
       "pollen_key": "davidia_involucrata"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Ferula communis",
-      "dutch": "-",
-      "vorm": "ovaal",
-      "grootte": "33x20",
-      "oppervlak": "scabraat/rugulaat",
-      "opmerkingen": "3-colporaat, cytoplasma: granulair",
       "pollen_key": "ferula_communis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Teucrium chamae",
-      "dutch": "echte gamander",
-      "vorm": "ovaal",
-      "grootte": "29-33",
-      "oppervlak": "scabraat/ f reticul?",
-      "opmerkingen": "3-colpaat; midden Europa",
       "pollen_key": "teucrium_chamae"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Euphorbia spp",
-      "dutch": "euphorbia",
-      "vorm": "О ⁄ ∆",
-      "grootte": "35-46",
-      "oppervlak": "verrucaat/reticul?",
-      "opmerkingen": "3-colporaat; geel",
       "pollen_key": "euphorbia_spp"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Tordylium apulum",
-      "dutch": "-",
-      "vorm": "ovaal",
-      "grootte": "36x17",
-      "oppervlak": "scabraat/rugulaat",
-      "opmerkingen": "3-colporaat",
       "pollen_key": "tordylium_apulum"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Lavandula angisti",
-      "dutch": "lavendel",
-      "vorm": "zeskantig",
-      "grootte": "38",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "6-colpaat; midelland. zee gebied",
       "pollen_key": "lavandula_angisti"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Viscum album",
-      "dutch": "mistletoe",
-      "vorm": "О ⁄ ∆",
-      "grootte": "43",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat",
       "pollen_key": "viscum_album"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Cistus salviifolius",
-      "dutch": "-",
-      "vorm": "⁄ ∆",
-      "grootte": "49",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; middellandsezee gebied",
       "pollen_key": "cistus_salviifolius"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Citrullus lanatus",
-      "dutch": "watermeloen",
-      "vorm": "ca O",
-      "grootte": "56",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "3-colporaat; mid.zee, O-Europa, Azië,",
       "pollen_key": "citrullus_lanatus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Afrika Kolkwitzia amabilis",
-      "dutch": "kolkwitzia",
-      "vorm": "О ⁄ ∆",
-      "grootte": "56",
-      "oppervlak": "echinaat",
-      "opmerkingen": "3-colpaat; tuinheester (herk:China)",
       "pollen_key": "kolkwitzia_amabilis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Lirodendron tulipi",
-      "dutch": "tulpenboom",
-      "vorm": "half ovaal",
-      "grootte": "57",
-      "oppervlak": "verrucaat",
-      "opmerkingen": "1-colpaat",
       "pollen_key": "lirodendron_tulipi"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Asphodelus aestiv",
-      "dutch": "gewone daffodil",
-      "vorm": "half ovaal",
-      "grootte": "61",
-      "oppervlak": "scabraat",
-      "opmerkingen": "1-colpaat; lijkt fijn reticulaat",
-      "pollen_key": "asphodelus_aestivus"
+      "pollen_key": "asphodelus_aestiv"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Catalpa ovata",
-      "dutch": "trompetboom",
-      "vorm": "tetrade",
-      "grootte": "73",
-      "oppervlak": "reticulaat",
-      "opmerkingen": "0",
       "pollen_key": "catalpa_ovata"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Larix decidua",
-      "dutch": "larix",
-      "vorm": "O",
-      "grootte": "92",
-      "oppervlak": "glad",
-      "opmerkingen": "0; cyto: gran;nectarloos",
       "pollen_key": "larix_decidua"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "latin": "Hibiscus esculent",
-      "dutch": "okra",
-      "vorm": "O",
-      "grootte": "175",
-      "oppervlak": "echinaat",
-      "opmerkingen": ">20-poraat;geel;India, Afrika",
       "pollen_key": "hibiscus_esculent"
     }
   ]

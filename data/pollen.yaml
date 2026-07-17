@@ -567,7 +567,8 @@ asparagus_officinalis:
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Asparagus_officinalis
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_officinalis
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_officinalis
     paldat: https://www.paldat.org/pub/Asparagus_officinalis
   sources:
     - source: kerkvliet
@@ -3248,7 +3249,7 @@ calystegia_sepium:
       source: by_taxon
 campanula_latifolia:
   latin: Campanula latifolia
-  dutch: klokje
+  dutch: Breedbladig klokje
   family:
   note:
   size:
@@ -3264,10 +3265,10 @@ campanula_latifolia:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 7
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_latifolia
@@ -3297,7 +3298,7 @@ campanula_latifolia:
       source: by_taxon
 campanula_rotundifolia:
   latin: Campanula Rotundifolia
-  dutch: grasklokje
+  dutch: Grasklokje
   family: Campanulaceae (klokjesfamilie)
   note:
   size:
@@ -3717,7 +3718,7 @@ carpobrotus_edulis:
       source: by_taxon
 carthamus_lanatus:
   latin: Carthamus lanatus
-  dutch:
+  dutch: wollige saffloer
   family:
   note:
   size:
@@ -3799,6 +3800,14 @@ carthamus_tinctorius:
       source: by_taxon
     - path: 
         assets/images/by-taxon/carthamus_tinctorius/carthamus_tinctorius_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/carthamus_tinctorius/carthamus_tinctorius_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/carthamus_tinctorius/carthamus_tinctorius_6.png
       kind: by_taxon
       source: by_taxon
 carum_carvi:
@@ -10802,7 +10811,7 @@ mahonia_aquifolium:
   latin: Mahonia aquifolium
   dutch: mahonie
   family: Berberidaceae (Berberisfamilie)
-  note:
+  note: "synoniem: Berberis aquifolium"
   size:
     smallest_size: 45 µm
     largest_size: 45 µm
@@ -15074,7 +15083,8 @@ tamarix_parviflora:
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Tamarix_parviflora
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Tamarix_parviflora
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Tamarix_parviflora
     paldat: https://www.paldat.org/pub/Tamarix_parviflora
   sources:
     - source: kerkvliet
@@ -23354,12 +23364,27 @@ berberis_julianae:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/berberis-julianae.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/berberis_julianae/berberis_julianae_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_julianae/berberis_julianae_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_julianae/berberis_julianae_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_julianae/berberis_julianae_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/berberis_julianae/berberis_julianae_5.png
+      kind: by_taxon
+      source: by_taxon
 berberis_sp:
   latin: Berberis sp
   dutch:
   family:
-  note:
+  note: "Kerkvliet: Mahonia-typen; zie mahonia_aquifolium / mahonia_bealei"
   size:
     smallest_size:
     largest_size:
@@ -23582,7 +23607,7 @@ betula:
   images: []
 betula_pendula:
   latin: Betula pendula
-  dutch:
+  dutch: ruwe berk
   family:
   note:
   size:
@@ -23611,7 +23636,19 @@ betula_pendula:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/betula-pendula.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/betula_pendula/betula_pendula_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/betula_pendula/betula_pendula_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/betula_pendula/betula_pendula_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/betula_pendula/betula_pendula_4.png
+      kind: by_taxon
+      source: by_taxon
 bidens_aurea:
   latin: Bidens aurea
   dutch:
@@ -23673,7 +23710,40 @@ bidens_pilosa:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/bidens-pilosa.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_10.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_11.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/bidens_pilosa/bidens_pilosa_9.png
+      kind: by_taxon
+      source: by_taxon
 bidens_sp:
   latin: Bidens sp
   dutch:
@@ -24859,7 +24929,7 @@ campanula:
   images: []
 campanula_carpatica:
   latin: Campanula carpatica
-  dutch:
+  dutch: Karpatenklokje
   family:
   note:
   size:
@@ -24875,10 +24945,10 @@ campanula_carpatica:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 9
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_carpatica
@@ -24891,7 +24961,7 @@ campanula_carpatica:
   images: []
 campanula_cochleariifolia:
   latin: Campanula cochleariifolia
-  dutch:
+  dutch: Zodeklokje
   family:
   note:
   size:
@@ -24907,10 +24977,10 @@ campanula_cochleariifolia:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 7
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_cochleariifolia
@@ -24939,10 +25009,10 @@ campanula_fenestrellata:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 8
+  nectar_value: 1
+  pollen_value: 1
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_fenestrellata
@@ -24955,7 +25025,7 @@ campanula_fenestrellata:
   images: []
 campanula_glomerata:
   latin: Campanula glomerata
-  dutch:
+  dutch: Kluwenklokje
   family:
   note:
   size:
@@ -24971,10 +25041,10 @@ campanula_glomerata:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 8
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_glomerata
@@ -24984,10 +25054,25 @@ campanula_glomerata:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-glomerata.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/campanula_glomerata/campanula_glomerata_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_glomerata/campanula_glomerata_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_glomerata/campanula_glomerata_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_glomerata/campanula_glomerata_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_glomerata/campanula_glomerata_5.png
+      kind: by_taxon
+      source: by_taxon
 campanula_lactiflora:
   latin: Campanula lactiflora
-  dutch:
+  dutch: Celtisbladklokje
   family:
   note:
   size:
@@ -25003,10 +25088,10 @@ campanula_lactiflora:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 8
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_lactiflora
@@ -25016,12 +25101,36 @@ campanula_lactiflora:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-lactiflora.md
-  images: []
-campanula_media:
-  latin: Campanula media
-  dutch:
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_lactiflora/campanula_lactiflora_6.png
+      kind: by_taxon
+      source: by_taxon
+campanula_medium:
+  latin: Campanula medium
+  dutch: Mariëtteklokje
   family:
-  note:
+  note: "synoniem: Campanula media (C. media)"
   size:
     smallest_size:
     largest_size:
@@ -25035,10 +25144,10 @@ campanula_media:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 7
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_media
@@ -25048,10 +25157,46 @@ campanula_media:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-media.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_10.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_11.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_12.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_medium/campanula_medium_9.png
+      kind: by_taxon
+      source: by_taxon
 campanula_patula:
   latin: Campanula patula
-  dutch:
+  dutch: Weideklokje
   family:
   note:
   size:
@@ -25067,10 +25212,10 @@ campanula_patula:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 7
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_patula
@@ -25080,10 +25225,58 @@ campanula_patula:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-patula.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_10.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_11.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_12.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_13.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_14.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_15.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_16.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/campanula_patula/campanula_patula_9.png
+      kind: by_taxon
+      source: by_taxon
 campanula_persicifolia:
   latin: Campanula persicifolia
-  dutch:
+  dutch: Prachtklokje
   family:
   note:
   size:
@@ -25099,10 +25292,10 @@ campanula_persicifolia:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 8
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_persicifolia
@@ -25112,10 +25305,30 @@ campanula_persicifolia:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-persicifolia.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_persicifolia/campanula_persicifolia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_persicifolia/campanula_persicifolia_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_persicifolia/campanula_persicifolia_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_persicifolia/campanula_persicifolia_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_persicifolia/campanula_persicifolia_5.png
+      kind: by_taxon
+      source: by_taxon
 campanula_portenschlagiana:
   latin: Campanula portenschlagiana
-  dutch:
+  dutch: Dalmatiëklokje
   family:
   note:
   size:
@@ -25131,10 +25344,10 @@ campanula_portenschlagiana:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 9
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_portenschlagiana
@@ -25144,10 +25357,18 @@ campanula_portenschlagiana:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-portenschlagiana.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_portenschlagiana/campanula_portenschlagiana_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_portenschlagiana/campanula_portenschlagiana_2.png
+      kind: by_taxon
+      source: by_taxon
 campanula_poscharskyana:
   latin: Campanula poscharskyana
-  dutch:
+  dutch: Kruipklokje
   family:
   note:
   size:
@@ -25163,10 +25384,10 @@ campanula_poscharskyana:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 9
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_poscharskyana
@@ -25176,10 +25397,38 @@ campanula_poscharskyana:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-poscharskyana.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_poscharskyana/campanula_poscharskyana_7.png
+      kind: by_taxon
+      source: by_taxon
 campanula_rapunculoides:
   latin: Campanula rapunculoides
-  dutch:
+  dutch: Akkerklokje
   family:
   note:
   size:
@@ -25195,10 +25444,10 @@ campanula_rapunculoides:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 6
+    end: 8
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_rapunculoides
@@ -25208,10 +25457,34 @@ campanula_rapunculoides:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-rapunculoides.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_rapunculoides/campanula_rapunculoides_6.png
+      kind: by_taxon
+      source: by_taxon
 campanula_rapunculus:
   latin: Campanula rapunculus
-  dutch:
+  dutch: Rapunzelklokje
   family:
   note:
   size:
@@ -25227,10 +25500,10 @@ campanula_rapunculus:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 5
+    end: 9
+  nectar_value: 3
+  pollen_value: 3
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_rapunculus
@@ -25243,7 +25516,7 @@ campanula_rapunculus:
   images: []
 campanula_trachelium:
   latin: Campanula trachelium
-  dutch:
+  dutch: Ruig klokje
   family:
   note:
   size:
@@ -25259,10 +25532,10 @@ campanula_trachelium:
   pe_ratio:
   pollen-note:
   bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
+    start: 7
+    end: 8
+  nectar_value: 4
+  pollen_value: 4
   frequency_in_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_trachelium
@@ -25272,7 +25545,27 @@ campanula_trachelium:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/campanula-trachelium.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/campanula_trachelium/campanula_trachelium_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_trachelium/campanula_trachelium_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_trachelium/campanula_trachelium_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_trachelium/campanula_trachelium_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/campanula_trachelium/campanula_trachelium_5.png
+      kind: by_taxon
+      source: by_taxon
 campanulaceae:
   latin: Campanulaceae
   dutch:
@@ -25824,39 +26117,6 @@ carragena_arbores:
     tstebler: 
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Carragena_arbores
     paldat: https://www.paldat.org/pub/Carragena_arbores
-  sources:
-    - source: kerkvliet
-      path: 
-        /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-  images: []
-carthamus_lanatuswollige:
-  latin: Carthamus lanatuswollige
-  dutch:
-  family:
-  note:
-  size:
-    smallest_size:
-    largest_size:
-    height_px:
-  pollen_class:
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
-  pollen-note:
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Carthamus_lanatuswollige
-    tstebler: 
-      https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_lanatuswollige
-    paldat: https://www.paldat.org/pub/Carthamus_lanatuswollige
   sources:
     - source: kerkvliet
       path: 
@@ -41379,39 +41639,6 @@ magnoliaceae:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/magnoliaceae.md
-  images: []
-mahonia_aquifolia:
-  latin: Mahonia aquifolia
-  dutch:
-  family:
-  note:
-  size:
-    smallest_size:
-    largest_size:
-    height_px:
-  pollen_class:
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
-  pollen-note:
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Mahonia_aquifolia
-    tstebler: 
-      https://pollen.tstebler.ch/MediaWiki/index.php?title=Mahonia_aquifolia
-    paldat: https://www.paldat.org/pub/Mahonia_aquifolia
-  sources:
-    - source: kerkvliet
-      path: 
-        /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images: []
 majoranus_typ:
   latin: Majoranus typ
@@ -59333,4 +59560,80 @@ zinnia_haageana:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/zinnia-haageana.md
+  images: []
+mahonia_bealei:
+  latin: Mahonia bealei
+  dutch:
+  family: Berberidaceae (Berberisfamilie)
+  note: "synoniem: Berberis bealei"
+  size:
+    smallest_size:
+    largest_size:
+    height_px:
+  pollen_class:
+  shape:
+  sculpture:
+  aperture:
+  ornamentation:
+  polarity:
+  pe_ratio:
+  pollen-note:
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  links:
+  sources: []
+  images:
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/mahonia_bealei/mahonia_bealei_8.png
+      kind: by_taxon
+      source: by_taxon
+mahonia_japonica:
+  latin: Mahonia japonica
+  dutch:
+  family: Berberidaceae (Berberisfamilie)
+  note: "synoniem: Berberis japonica"
+  size:
+    smallest_size:
+    largest_size:
+    height_px:
+  pollen_class:
+  shape:
+  sculpture:
+  aperture:
+  ornamentation:
+  polarity:
+  pe_ratio:
+  pollen-note:
+  bloeitijd:
+    start:
+    end:
+  nectar_value:
+  pollen_value:
+  frequency_in_honey:
+  links:
+  sources: []
   images: []

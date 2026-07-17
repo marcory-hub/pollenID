@@ -70,7 +70,8 @@
         {
           "label": "Echini 3-4 µm lang (Tafel 105: 17-18).",
           "id": {
-            "name": "32.11.5 Campanula medium (Blz. 453)"
+            "name": "32.11.5 Campanula medium (Blz. 453)",
+            "pollen_key": "campanula_medium"
           }
         }
       ]
