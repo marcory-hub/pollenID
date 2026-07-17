@@ -4,7 +4,7 @@
     "title": "Determinatietabel (Kerkvliet) — interactieve tabel",
     "locale": "nl",
     "source": "Afgeleid uit docs/keys/kerkvliet/kerkvliet-determinatietabel.transcript.md (transcript).",
-    "rowCount": 301,
+    "rowCount": 312,
     "sectionCount": 5
   },
   "sections": [
@@ -266,6 +266,10 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
+      "pollen_key": "berberis_julianae"
+    },
+    {
+      "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "pollen_key": "allium_cepa"
     },
     {
@@ -282,7 +286,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "pollen_key": "mahonia_aquifolium"
+      "pollen_key": "mahonia_bealei"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -590,7 +594,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "cardamine_praten"
+      "pollen_key": "cardamine_pratensis"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -942,7 +946,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "bidens_sp"
+      "pollen_key": "bidens_pilosa"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1021,7 +1025,47 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "campanula"
+      "pollen_key": "campanula_glomerata"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_lactiflora"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_latifolia"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_medium"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_patula"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_persicifolia"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_portenschlagiana"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_poscharskyana"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_rapunculoides"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_rotundifolia"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "campanula_trachelium"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1270,7 +1314,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "pollen_key": "carragena_arbores"
+      "pollen_key": "caragana_arborescens"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
