@@ -4127,6 +4127,18 @@ centaurea_jacea:
     - path: assets/images/by-taxon/centaurea_jacea/centaurea_jacea_4.png
       kind: by_taxon
       source: by_taxon
+    - path: assets/images/by-taxon/centaurea_jacea/centaurea_jacea_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_jacea/centaurea_jacea_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_jacea/centaurea_jacea_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_jacea/centaurea_jacea_8.png
+      kind: by_taxon
+      source: by_taxon
 centaurea_montana:
   latin: Centaurea montana
   dutch: bergcentaurie
@@ -4174,6 +4186,18 @@ centaurea_montana:
       kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/centaurea_montana/centaurea_montana_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_montana/centaurea_montana_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_montana/centaurea_montana_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_montana/centaurea_montana_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/centaurea_montana/centaurea_montana_8.png
       kind: by_taxon
       source: by_taxon
 centranthus_ruber:
@@ -5050,6 +5074,21 @@ colchicum_autumnale:
     - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_4.png
       kind: by_taxon
       source: by_taxon
+    - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/colchicum_autumnale/colchicum_autumnale_9.png
+      kind: by_taxon
+      source: by_taxon
 comarum_palustre:
   latin: Comarum palustre
   dutch: wateraardbei
@@ -5142,6 +5181,22 @@ convolvulus_arvensis:
       source: by_taxon
     - path: 
         assets/images/by-taxon/convolvulus_arvensis/convolvulus_arvensis_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/convolvulus_arvensis/convolvulus_arvensis_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/convolvulus_arvensis/convolvulus_arvensis_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/convolvulus_arvensis/convolvulus_arvensis_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/convolvulus_arvensis/convolvulus_arvensis_8.png
       kind: by_taxon
       source: by_taxon
 cornus_mas:
@@ -5334,6 +5389,26 @@ corylopsis_pauciflora:
       source: by_taxon
     - path: 
         assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/corylopsis_pauciflora/corylopsis_pauciflora_9.png
       kind: by_taxon
       source: by_taxon
 corylus_avelana:
@@ -5627,7 +5702,43 @@ crataegus_monogyna:
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/crataegus-monogyna.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_10.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_11.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_12.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_4.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_5.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_6.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_7.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_8.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_9.png
+      kind: by_taxon
+      source: by_taxon
 crataegus_oxycantha:
   latin: Crataegus oxycantha
   dutch: tweestijlige meidoorn
@@ -29162,7 +29273,13 @@ cosmos_sulphureus:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/cosmos-sulphureus.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/cosmos_sulphureus/cosmos_sulphureus_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/cosmos_sulphureus/cosmos_sulphureus_2.png
+      kind: by_taxon
+      source: by_taxon
 cotinus_coggygria:
   latin: Cotinus coggygria
   dutch:
@@ -29609,7 +29726,19 @@ crataegus_laevigata:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/crataegus-laevigata.md
-  images: []
+  images:
+    - path: assets/images/by-taxon/crataegus_laevigata/crataegus_laevigata_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_laevigata/crataegus_laevigata_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_laevigata/crataegus_laevigata_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/crataegus_laevigata/crataegus_laevigata_4.png
+      kind: by_taxon
+      source: by_taxon
 crataegus_pinnatifida:
   latin: Crataegus pinnatifida
   dutch:
@@ -39760,7 +39889,23 @@ leucanthemum_vulgare:
   sources:
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/leucanthemum-vulgare.md
-  images: []
+  images:
+    - path: 
+        assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: 
+        assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_4.png
+      kind: by_taxon
+      source: by_taxon
 leucojum_aestivum:
   latin: Leucojum aestivum
   dutch:

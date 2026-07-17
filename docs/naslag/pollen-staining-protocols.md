@@ -167,4 +167,7 @@ Indicatief; raadpleeg altijd de SDS van het gebruikte product. LD50 waar niet an
 | Sucrose / maltose | Laag (voedingsstof) | Nee | >29.700 mg/kg | MTT, TTC, kiemmedia, calceïne-medium |
 | Xyleen | Hoog. Ontvlambaar; irriteert huid/ogen; chronisch: lever/nieren | [to be verified] | 3.520 mg/kg | Novikov dehydratatie |
 
+stainings van euromex
+https://www.euromex.com/en/products/branches/accessories-for-microscopy/dissolved-stains/
+
 

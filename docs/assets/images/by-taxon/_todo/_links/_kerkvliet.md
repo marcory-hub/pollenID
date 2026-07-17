@@ -615,21 +615,51 @@ LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation S
 
 ## centaurea_jacea_typ
 *Centaurea jacea-Typ*
-
-[PollenX](https://pollenx.eu/species.php?species=Centaurea_jacea-typ) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_jacea-typ) · [Paldat](https://www.paldat.org/pub/Centaurea_jacea-typ) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+jacea-typ)
+agent: rename to centaurea_jacea
+Familie:	Asteraceae (Korbblütler, Compositae)
+Deutscher Name:	Wiesen-Flockenblume
+Pollengrösse:	31 (25.6-35.4); 31 (28.7-34.1) μm (Medium)
+Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1 Asteraceae p.p., 17.1.10 Centaurea jacea-Typ
+Pollen:	Dreieckig konvex bis hexagonal, sphäroid bis optisch leicht prolat (PoFormI ca. 1.04; 0.98-1.18), isopolar, tricolporat, echinat bis verrucat. Die Aperturmembranen sind nicht ornamentiert. Die Echini (Länge etwa 1.7; 1.2-2.1 μm) haben eine sehr breite Basis. Mittelgrosses Polarfeld (PolFeldI ca. 0.33; 0.30-0.39).
+Knoopkruid - Centaurea jacea
+[PollenX](https://pollenx.eu/species.php?species=Centaurea_jacea-typ) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_jacea-typ) · [Paldat](https://www.paldat.org/pub/Centaurea_jacea-typ) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+jacea)
 
 ## centaurea_montan
 *Centaurea montan*
-
-[PollenX](https://pollenx.eu/species.php?species=Centaurea_montan) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_montan) · [Paldat](https://www.paldat.org/pub/Centaurea_montan) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+montan)
+agent: corect name to centaurea_montana
+Familie:	Asteraceae (Korbblütler)
+Deutscher Name:	Berg-Flockenblume
+Pollengrösse:	32 (30.4-33.5) μm (Medium)
+Pollenklasse:	14 Tricolporatae mit psilaten, scabraten, verrucaten oder microverrucaten Skulpturen, 14.15 Centaurea montana-Typ
+Pollen:	In Polansicht rund bis leicht dreieckig konvex, rund/isodiametrisch, sphäroid (PoFormI ca. 1.0), isopolar, tricolporat, verrucat bis echinat. Die Aperturmembranen sind nicht ornamentiert. Poren rund, hervorquellend, Durchmesser ca. 9.2-14.4 μm. Kleines bis mittelgrosses Polarfeld (PolFeldI ca. 0.28).
+Bergcentaurie - Centaurea montana
+[PollenX](https://pollenx.eu/species.php?species=Centaurea_montan) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_montan) · [Paldat](https://www.paldat.org/pub/Centaurea_montana) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+montana)
 
 ## chamerion_angust
 *Chamerion angust*
+agent: do not use this one, use Chamaenerion, the other is is synoniem, put that in the notes. 
+agent: rename this one in chamaenerion_angustifolium for waarnemingen.nl and Epilobium angustifolium for tstebler and paldat and pollenX. waarnemingen info Het (knikkend) wilgenroosje (Chamerion angustifolium (L.) Holub, synoniem: Chamaenerion angustifolium (L.) Scop., basioniem: Epilobium angustifolium L.) 
+
+Familie:	Onagraceae (Nachtkerzengewächse)
+Deutscher Name:	Wald-Weidenröschen
+Pollengrösse:	80 (74.6-89.5) μm (Large)
+Pollenklasse:	31 Triporatae, 31.7 Epilobium
+Pollen:	Dreieckig, sphäroid bis leicht oblat, isopolar, triporat, rugulat (gem. Beug psilat, mit welliger Oberfläche). Porenradius ca. 10 μm. Mit vielen Viscinfäden
+ images are in the database already
+
 
 [PollenX](https://pollenx.eu/species.php?species=Chamerion_angust) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chamerion_angust) · [Paldat](https://www.paldat.org/pub/Chamerion_angust) · [Waarneming.nl](https://waarneming.nl/search/?q=chamerion+angust)
 
 ## chrysanthemum_leuc
 *Chrysanthemum leuc*
+agent: vervang door leucanthemum_vulgare 
+Margriet - Leucanthemum vulgare
+Familie:	Asteraceae (Korbblütler, Compositae)
+Deutscher Name:	Wiesen-Margerite
+Pollengrösse:	28 μm (Medium)
+Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1 Asteraceae p.p., 17.1.6 Matricaria-Typ
+Pollen:	Rundlich bis leicht dreieckig, sphäroid, isopolar, echinat, dazwischen verrucat/gemmat(?). Colpi lang. Porendurchmesser ca. 7.4 µm.
+
 
 [PollenX](https://pollenx.eu/species.php?species=Chrysanthemum_leuc) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chrysanthemum_leuc) · [Paldat](https://www.paldat.org/pub/Chrysanthemum_leuc) · [Waarneming.nl](https://waarneming.nl/search/?q=chrysanthemum+leuc)
 
@@ -640,56 +670,120 @@ LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation S
 
 ## citrus_sinensis
 *Citrus sinensis*
-
+sinaasappel
+geen images gevonden
 [PollenX](https://pollenx.eu/species.php?species=Citrus_sinensis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_sinensis) · [Paldat](https://www.paldat.org/pub/Citrus_sinensis) · [Waarneming.nl](https://waarneming.nl/search/?q=citrus+sinensis)
 
 ## cnicus_benedict
 *Cnicus benedict*
+Gezegende distel
+agent hernoem naar centaurea_benedicta 
+Synoniem: Cnicus benedictus. Centaurea = Afgeleid van het Griekse kentaureion of kentiaurion. Een Centaur is een fabelwezen dat half mens half paard is. Cnicus = van het Griekse knekos: een distel met oranjekleurige bloem. Benedictus = gezegend.
 
-[PollenX](https://pollenx.eu/species.php?species=Cnicus_benedict) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cnicus_benedict) · [Paldat](https://www.paldat.org/pub/Cnicus_benedict) · [Waarneming.nl](https://waarneming.nl/search/?q=cnicus+benedict)
+[PollenX](https://pollenx.eu/species.php?species=Cnicus_benedict) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cnicus_benedict) · [Paldat](https://www.paldat.org/pub/Centaurea_benedicta) · [Waarneming.nl](https://waarneming.nl/search/?q=cnicus+benedict)
 
 ## colchicinum_autu
 *Colchicinum autu*
+agent: rename to colchicum_autumnale
+herfsttijloos (Colchicum autumnale, synoniem: Colchicum multiflorum) 
+Familie:	Colchicaceae (Zeitlosengewächse)
+Deutscher Name:	Herbstzeitlose
+Pollengrösse:	55 (50.2-59.0) μm (Large)
+Pollenklasse:	30 Diporatae, 30.1 Colchicum-Gruppe
+Pollen:	Oblat (PoFormI ca. 0.55), spindelförmig, reticulat bis rugulat. Zum Teil Operculi an den Poren (operculat),viel Pollenkitt. Monographie in PalDat.
+
 
 [PollenX](https://pollenx.eu/species.php?species=Colchicinum_autu) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicinum_autu) · [Paldat](https://www.paldat.org/pub/Colchicinum_autu) · [Waarneming.nl](https://waarneming.nl/search/?q=colchicinum+autu)
 
-## convolvulus_arve
-*Convolvulus arve*
+## convolvulus_arvensis
 
-[PollenX](https://pollenx.eu/species.php?species=Convolvulus_arve) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Convolvulus_arve) · [Paldat](https://www.paldat.org/pub/Convolvulus_arve) · [Waarneming.nl](https://waarneming.nl/search/?q=convolvulus+arve)
+Akkerwinde
+
+Familie:	Convolvulaceae (Windengewächse)
+Deutscher Name:	Acker-Winde
+Pollengrösse:	59 (54.6-62.3) μm (Large)
+Pollenklasse:	13 Tricolpatae mit psilaten, scabraten, verrucaten oder microverrucaten Skulpturen, 13.9 Covolvulus arvensis-Typ
+Pollen:	Leicht dreieckig konvex bis rundlich, sphäroid bis optisch leicht oblat, isopolar, tricolpat, verrucat. Die Aperturmembranen sind körnig ornamentiert. Kleines Polarfeld (PolFeldI ca. 0.20).
+re
+pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): large (51-100 µm),  size of hydrated pollen (LM): 51-100 µm,  shortest polar axis in equatorial view (LM): 51-100 µm,  longest polar axis in equatorial view (LM): 51-100 µm,  shortest diameter in equatorial or polar view (LM): 51-100 µm,  longest diameter in equatorial or polar view (LM): 51-100 µm,  pollen class: colpate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): prolate,  shape (dry pollen): -,  outline in polar view (dry pollen): lobate,  infoldings (dry pollen): aperture(s) sunken,  aperture number: 3,  aperture type: colpus,  aperture condition: tricolpate, colpate,  aperture peculiarities: aperture membrane ornamented
+
+Ornamentation and Structure
+LM  ornamentation LM: gemmate, scabrate, verrucate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: microechinate, perforate,  suprasculpture SEM: -,  TEM  tectum: eutectate,  infratectum: columellate,  foot layer: continuous,  endexine: absent,  intine: monolayered,  wall peculiarities: -,  supratectal element: -
+
+
+
+[PollenX](https://pollenx.eu/species.php?species=Convolvulus_arve) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Convolvulus_arvensis) · [Paldat](https://www.paldat.org/pub/Convolvulus_arvensis) · [Waarneming.nl](https://waarneming.nl/search/?q=convolvulus+arvensis)
 
 ## coryllus_avelana
 *Coryllus avelana*
+agent: rename to corylus_avellana
+Hazelaar
+Corylus avellana L.
+Familie:	Betulaceae (Birkengewächse)
+Deutscher Name:	Hasel, Haselstrauch
+Pollengrösse:	26 (24.2-28.1) μm (Medium)
+Pollenklasse:	31 Triporatae, 31.21 Corylus
+Pollen:	Dreieckig bis rundlich, sphäroid (PoFormI ca. 0.93; 0.85-0.96), isopolar, triporat, scabrat. Die Aperturmembranen sind nicht ornamentiert. Anulus um Pore. Kleine Porenöffnung, Durchmesser um 2 μm.
+[PollenX](https://pollenx.eu/species.php?species=Coryllus_avelana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylus_avellana) · [Paldat](https://www.paldat.org/pub/Corylus_avellana) · [Waarneming.nl](https://waarneming.nl/search/?q=corylus+avellana)
+waarnemingen url https://waarneming.nl/species/531982/
 
-[PollenX](https://pollenx.eu/species.php?species=Coryllus_avelana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Coryllus_avelana) · [Paldat](https://www.paldat.org/pub/Coryllus_avelana) · [Waarneming.nl](https://waarneming.nl/search/?q=coryllus+avelana)
 
-## corylopsis_parcifl
-*Corylopsis parcifl*
-
-[PollenX](https://pollenx.eu/species.php?species=Corylopsis_parcifl) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylopsis_parcifl) · [Paldat](https://www.paldat.org/pub/Corylopsis_parcifl) · [Waarneming.nl](https://waarneming.nl/search/?q=corylopsis+parcifl)
+## corylopsis_pauciflora
+*Corylopsis pauciflora*
+schijnhazelaar
+[PollenX](https://pollenx.eu/species.php?species=Corylopsis_parcifl) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylopsis_pauciflora) · [Paldat](https://www.paldat.org/pub/Corylopsis_pauciflora) · [Waarneming.nl](https://waarneming.nl/search/?q=corylopsis+pauciflora)
 
 ## cosmos_sulphureus
 *Cosmos sulphureus*
+Gele cosmos - Cosmos sulphureus
+
+Shape, Size and Aperture
+pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): -,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): -,  longest diameter in equatorial or polar view (LM): -,  pollen class: colporate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): -,  P/E-ratio (dry pollen): prolate,  shape (dry pollen): -,  outline in polar view (dry pollen): circular,  infoldings (dry pollen): aperture(s) sunken,  aperture number: 3,  aperture type: colporus,  aperture condition: tricolporate, colporate,  aperture peculiarities: -
+
+Ornamentation and Structure
+LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation SEM: perforate, echinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
+
+
+
+
+
 
 [PollenX](https://pollenx.eu/species.php?species=Cosmos_sulphureus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cosmos_sulphureus) · [Paldat](https://www.paldat.org/pub/Cosmos_sulphureus) · [Waarneming.nl](https://waarneming.nl/search/?q=cosmos+sulphureus)
 
 ## crataegus_crus_galli
 *Crataegus crus*
-
+Hanendoorn
+geen images
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_crus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_crus) · [Paldat](https://www.paldat.org/pub/Crataegus_crus) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+crus)
 
 ## crataegus_laciniata
 *Crataegus laciniata*
+soort meidoorn, geen images online van de pollen
+
 
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_laciniata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_laciniata) · [Paldat](https://www.paldat.org/pub/Crataegus_laciniata) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+laciniata)
 
 ## crataegus_laevigata
 *Crataegus laevigata*
+Tweestijlige meidoorn - Crataegus laevigata
 
+Familie:	Rosaceae (Rosengewächse)
+Deutscher Name:	Zweigriffliger Weissdorn
+Pollengrösse:	37 (34.5-41.6) μm (Medium)
+Pollenklasse:	20 Tricolporoidatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 20.12 Sorbus-Gruppe
+Pollen:	Dreieckig, oblat (PoFormI ca. 0.69; 0.63-0.74), isopolar, tricolporat, rugulat bis verrucat. Die Aperturmembranen sind nicht ornamentiert. Kleines bis mittelgrosses Polarfeld (PolFeldI ca. 0.25; 0.19-0.31). Weitere Informationen auf PalDat.
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_laevigata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_laevigata) · [Paldat](https://www.paldat.org/pub/Crataegus_laevigata) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+laevigata)
 
 ## crataegus_monogyna
 *Crataegus monogyna*
+Eenstijlige meidoorn - Crataegus monogyna
+
+Familie:	Rosaceae (Rosengewächse)
+Deutscher Name:	Eingriffliger Weissdorn
+Pollengrösse:	43 (39.2-46.2) μm (Medium)
+Pollenklasse:	20 Tricolporoidatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 20.12 Sorbus-Gruppe
+Pollen:	Dreieckig, oblat (PoFormI ca. 0.71), isopolar, tricolporat, rugulat bis striat, monad. Die Aperturmembranen sind nicht ornamentiert. Porendurchmesser quer ca. 17 μm. Kleines Polarfeld (PolFeldI ca. 0.21). Weitere Angaben in PalDat.
+
 
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_monogyna) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_monogyna) · [Paldat](https://www.paldat.org/pub/Crataegus_monogyna) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+monogyna)
 
