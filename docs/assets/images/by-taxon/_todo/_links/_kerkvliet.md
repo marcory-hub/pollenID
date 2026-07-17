@@ -3,132 +3,17 @@
 Kerkvliet taxa (from `docs/keys/kerkvliet/kerkvliet-determinatietabel.json`) that still lack image files under `docs/assets/images/by-taxon/<slug>/`.
 Curated from `_pollen-atlas-links.md`. Includes genus/`sp.` rows (all matching atlas members) and OCR/doubt matches.
 
-**386 taxa**
-
-
-agent: correct aesculus, aesculus_hippoca and aesculus_hippocas to aesculus_hippocastaneum. images are already collected. 
-
-## afrika_kolkwitzia
-*Afrika Kolkwitzia amabilis*
-agent: change it to kolkwitzia_mabilis
-nederlandse naam: koninginnenstruik
-[PollenX](https://pollenx.eu/species.php?species=Afrika_kolkwitzia) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Afrika_kolkwitzia) · [Paldat](https://www.paldat.org/pub/Afrika_kolkwitzia) · [Waarneming.nl](https://waarneming.nl/search/?q=afrika+kolkwitzia+amabilis)
-
-## ailanthus
-*Ailanthus*
-
-[Waarneming.nl](https://waarneming.nl/search/?q=ailanthus)
-agent: replace ailanthus with ailanthus_altissima
-nederlands: hemelboom
-
-
-## ajuga
-*Ajuga*
-
-[Waarneming.nl](https://waarneming.nl/search/?q=ajuga)
-agent: replace ajuga by Ajuga_reptans
-nederlands: kruipend zenegroen
-
-
-
-## alyssum_repens
-*Alyssum repens*
-agent: A new circumscription of Alyssum montanum ssp. montanum and A. montanum ssp. gmelinii (Brassicaceae) in Central Europe: molecular and morphological evidence. Botanical Journal of the Linnean Society 169: 378-402. Add this note and link to the alyssum montanum
-[PollenX](https://pollenx.eu/species.php?species=Alyssum_repens) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Alyssum_repens) · [Paldat](https://www.paldat.org/pub/Alyssum_repens) · [Waarneming.nl](https://waarneming.nl/search/?q=alyssum+repens)
-
-## ambrosia_artemis
-*Ambrosia artemis*
-agent: replace by Ambrosia artemisiifolia
-
-[PollenX](https://pollenx.eu/species.php?species=Ambrosia_artemis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ambrosia_artemis) · [Paldat](https://www.paldat.org/pub/Ambrosia_artemis) · [Waarneming.nl](https://waarneming.nl/search/?q=ambrosia+artemis)
-
-## amorpha_fructico
-*Amorpha fructico*
-agent: replace by amorpha_fruticosa
-[PollenX](https://pollenx.eu/species.php?species=Amorpha_fructico) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Amorpha_fructico) · [Paldat](https://www.paldat.org/pub/Amorpha_fructico) · [Waarneming.nl](https://waarneming.nl/search/?q=amorpha+fructico)
-
-## anacardium_occid
-*Anacardium occid*
-agent: replace by anacardium_occidentale
-[PollenX](https://pollenx.eu/species.php?species=Anacardium_occid) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anacardium_occid) · [Paldat](https://www.paldat.org/pub/Anacardium_occid) · [Waarneming.nl](https://waarneming.nl/search/?q=anacardium+occid)
-
-## anchusa
-*Anchusa*
-replace by anchusa_officinalis
-[Waarneming.nl](https://waarneming.nl/search/?q=anchusa)
-
-## anchusa_arvensis
-*Anchusa arvensis*
-nederlands: kromhals
-alleen em in paldat
-
-[PollenX](https://pollenx.eu/species.php?species=Anchusa_arvensis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_arvensis) · [Paldat](https://www.paldat.org/pub/Anchusa_arvensis) · [Waarneming.nl](https://waarneming.nl/search/?q=anchusa+arvensis)
+**328 taxa**
 
 ## anethum_graveole
 *Anethum graveole*
 agent: replace by   
 [PollenX](https://pollenx.eu/species.php?species=Anethum_graveole) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anethum_graveole) · [Paldat](https://www.paldat.org/pub/Anethum_graveole) · [Waarneming.nl](https://waarneming.nl/search/?q=anethum+graveole)
 
-## anthirrhinum
-*Anthirrhinum*
-agent: replace by Antirrhinum majus
-[Waarneming.nl](https://waarneming.nl/search/?q=anthirrhinum)
-
 ## arcticum_majus
 *Arcticum majus*
 
 [PollenX](https://pollenx.eu/species.php?species=Arcticum_majus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_majus) · [Paldat](https://www.paldat.org/pub/Arcticum_majus) · [Waarneming.nl](https://waarneming.nl/search/?q=arcticum+majus)
-
-## arcticum_minus
-*Arcticum minus*
-agent: change to artium_minus
-[PollenX](https://pollenx.eu/species.php?species=Arcticum_minus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Arcticum_minus) · [Paldat](https://www.paldat.org/pub/Arcticum_minus) · [Waarneming.nl](https://waarneming.nl/search/?q=arcticum+minus)
-
-## artemisia_dracunculus
-*Artemisia dracunculus*
-nederlands: dragon
-
-[PollenX](https://pollenx.eu/species.php?species=Artemisia_dracunculus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Artemisia_dracunculus) · [Paldat](https://www.paldat.org/pub/Artemisia_dracunculus) · [Waarneming.nl](https://waarneming.nl/search/?q=artemisia+dracunculus)
-
-## aruncus
-*Aruncus*
-agent: replace aruncus by aruncus_dioicus
-nederlands: geitenbaard
-
-[Waarneming.nl](https://waarneming.nl/search/?q=aruncus)
-
-## asparagus
-*Asparagus*
-agent: this should have been Asparagus setaceus
-[Waarneming.nl](https://waarneming.nl/search/?q=asparagus)
-
-## asparagus_officinalis_ssp_officinalis
-*Asparagus officinalis*
-Agent: merge asparagus_officinalis_ssp_officinalis and asparagus_officinalis_ssp_prostratus and asparagus_typ to asparagus_officinalis
-Nederlands: asperge
-
-[PollenX](https://pollenx.eu/species.php?species=Asparagus_officinalis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_officinalis) · [Paldat](https://www.paldat.org/pub/Asparagus_officinalis) · [Waarneming.nl](https://waarneming.nl/search/?q=asparagus+officinalis)
-
-## asparagus_officinalis_ssp_prostratus
-*Asparagus officinalis*
-
-[PollenX](https://pollenx.eu/species.php?species=Asparagus_officinalis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_officinalis) · [Paldat](https://www.paldat.org/pub/Asparagus_officinalis) · [Waarneming.nl](https://waarneming.nl/search/?q=asparagus+officinalis)
-
-## asparagus_typ
-*Asparagus typ*
-
-[PollenX](https://pollenx.eu/species.php?species=Asparagus_typ) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asparagus_typ) · [Paldat](https://www.paldat.org/pub/Asparagus_typ) · [Waarneming.nl](https://waarneming.nl/search/?q=asparagus+typ)
-
-## asperula_odorata
-*Asperula odorata*
-Agent: merge met galium odoratum, add to note basioniem asperula odorata
-[PollenX](https://pollenx.eu/species.php?species=Asperula_odorata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asperula_odorata) · [Paldat](https://www.paldat.org/pub/Asperula_odorata) · [Waarneming.nl](https://waarneming.nl/search/?q=asperula+odorata)
-
-## asphodelus_aestiv
-*Asphodelus aestiv*
-agent: correct name to asphodelus_aestivus
-nederlands: affodil
-[PollenX](https://pollenx.eu/species.php?species=Asphodelus_aestiv) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Asphodelus_aestiv) · [Paldat](https://www.paldat.org/pub/Asphodelus_aestiv) · [Waarneming.nl](https://waarneming.nl/search/?q=asphodelus+aestiv)
 
 ## aster_ageratoides
 *Aster ageratoides*
@@ -185,49 +70,10 @@ nederlands: melkvet
 
 [PollenX](https://pollenx.eu/species.php?species=Astragalus_sinicus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Astragalus_sinicus) · [Paldat](https://www.paldat.org/pub/Astragalus_sinicus) · [Waarneming.nl](https://waarneming.nl/search/?q=astragalus+sinicus)
 
-## berberis
-*Berberis*
-agent: remove this, pollen can be found under the correct species name
-[Waarneming.nl](https://waarneming.nl/search/?q=berberis)
-
-## berberis_aquifolium
-*Berberis aquifolium*
-agent: change this in mahonia_aquifolium and add note synoniem berberis_aquifolium
-nederlands Mahonie (Berberis aquifolium, synoniem: Mahonia aquifolium) i
-[PollenX](https://pollenx.eu/species.php?species=Berberis_aquifolium) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_aquifolium) · [Paldat](https://www.paldat.org/pub/Berberis_aquifolium) · [Waarneming.nl](https://waarneming.nl/search/?q=berberis+aquifolium)
-	Familie:	Berberidaceae (Sauerdorngewächse)
-Deutscher Name:	Mahonie, Stechdornblättrige
-Pollengrösse:	45 μm (Medium)
-Pollenklasse:	10 Syncolpatae, 10.6 Mahonia-Typ
-Pollen:	Rund, tennisballartig, sphäroid. Colpenbreite ca. 3.4-6.3 µm.
-Präparatenummer:	1-025
-
-## berberis_bealei 
-agent: rename to mahonia_bealei
-Familie:	Berberidaceae (Sauerdorngewächse)
-Deutscher Name:	Beales Mahonie
-Pollengrösse:	45 (37.4-54.6) μm (Medium)
-Pollenklasse:	10 Syncolpatae, 10.6 Mahonia-Typ
-Pollen:	Rund bis polygonal, tennisballartig, sphäroid, rugulat bis reticulat. Die Aperturmembranen sind körnig ornamentiert. Colpenbreite ca. 4.2 (2.9-7.2) µm. Viele PK sind bereits aufgeplatzt.
-Präparatenummer:	10-078
-
-[PollenX](https://pollenx.eu/species.php?species=Berberis_bealei) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_bealei) · [Paldat](https://www.paldat.org/pub/Berberis_bealei) · [Waarneming.nl](https://waarneming.nl/search/?q=berberis+bealei)
-
 ## berberis_japonica 
 agent: rename to mahonia_japonica and add *Berberis japonica* as synoniem
 geen online images
 [PollenX](https://pollenx.eu/species.php?species=Berberis_japonica) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_japonica) · [Paldat](https://www.paldat.org/pub/Berberis_japonica) · [Waarneming.nl](https://waarneming.nl/search/?q=berberis+japonica)
-
-## berberis_julianae
-*Berberis julianae*
-
-[PollenX](https://pollenx.eu/species.php?species=Berberis_julianae) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_julianae) · [Paldat](https://www.paldat.org/pub/Berberis_julianae) · [Waarneming.nl](https://waarneming.nl/search/?q=berberis+julianae)
-Familie:	Berberidaceae (Sauerdorngewächse)
-Deutscher Name:	Julianes Berberitze
-Pollengrösse:	55 (46.8-60.1) μm (Large)
-Pollenklasse:	10 Syncolpatae, 10.1 Berberis vulgaris
-Pollen:	Rund bis elliptisch, sphäroid, heteropolar, syncolpat, spiraperturat, Oberfläche deutlich strukturiert, aber schwierig einzuordnen: perforat, reticulat? Kolpenweite ca. 4-6 μm.
-Präparatenummer:	7-004
 
 ## berberis_sp
 *Berberis sp*
@@ -239,59 +85,15 @@ agent: vervang deze door de species met de volledige naam
 geen online images
 [PollenX](https://pollenx.eu/species.php?species=Berberis_thunbergii) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_thunbergii) · [Paldat](https://www.paldat.org/pub/Berberis_thunbergii) · [Waarneming.nl](https://waarneming.nl/search/?q=berberis+thunbergii)
 
-## betula
-*Betula*
-
-[Waarneming.nl](https://waarneming.nl/search/?q=betula)
-agent: replace by betula pendula
-
-## betula_pendula
-*Betula pendula*
-nederlands: ruwe berk
-[PollenX](https://pollenx.eu/species.php?species=Betula_pendula) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Betula_pendula) · [Paldat](https://www.paldat.org/pub/Betula_pendula) · [Waarneming.nl](https://waarneming.nl/search/?q=betula+pendula)
-
 ## bidens_aurea
 *Bidens aurea*
 geen online images
 [PollenX](https://pollenx.eu/species.php?species=Bidens_aurea) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Bidens_aurea) · [Paldat](https://www.paldat.org/pub/Bidens_aurea) · [Waarneming.nl](https://waarneming.nl/search/?q=bidens+aurea)
 
-## bidens_pilosa
-*Bidens pilosa*
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): small (10-25 µm),  size of hydrated pollen (LM): 21-25 µm,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): 21-25 µm,  longest diameter in equatorial or polar view (LM): 21-25 µm,  pollen class: colporate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): prolate,  shape (dry pollen): -,  outline in polar view (dry pollen): circular,  infoldings (dry pollen): aperture(s) sunken,  aperture number: 3,  aperture type: colporus,  aperture condition: tricolporate, colporate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: echinate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: perforate, echinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-
-[PollenX](https://pollenx.eu/species.php?species=Bidens_pilosa) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Bidens_pilosa) · [Paldat](https://www.paldat.org/pub/Bidens_pilosa) · [Waarneming.nl](https://waarneming.nl/search/?q=bidens+pilosa)
-
 ## bidens_sp
 *Bidens sp*
 
 [PollenX](https://pollenx.eu/species.php?species=Bidens_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Bidens_sp) · [Paldat](https://www.paldat.org/pub/Bidens_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=bidens+sp)
-
-## buddleiea
-*Buddleiea*
-agent: replace by Buddleja davidii
-Familie:	Buddlejaceae (Sommerfliedergewächse)
-Deutscher Name:	Schmetterlingsflieder
-Pollengrösse:	16 (14.3-17.9) μm (Small)
-Pollenklasse:	25 Stephanocolporatae
-Pollen:	Quadratisch bis pentagonal, sphäroid (PoFormI ca. 0.89), isopolar, stephanocolporat, tetracolporat, psilat evt. rugulat. Mittelgrosses Polarfeld (PolFeldI ca. 0.41). Die Aperturmembranen sind teilweise ornamentiert. Poren mit Anulus. Porendurchmesser ca. 4 μm. Nur PK mit 4 - (5) Aperturöffnungen gefunden. Eine gute Artbeschreibung (klassifiziert als tricolporat) findet man bei [1]
-
-[Waarneming.nl](https://waarneming.nl/search/?q=buddleiea)
-
-## calendula_officin
-*Calendula officin*
-agent: correct this name to Calendula officinalis
-Familie:	Asteraceae (Korbblütler)
-Deutscher Name:	Gartenringelblume, Calendula
-Pollengrösse:	31 μm (Medium)
-Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1. Asteraceae, 17.1.12 Senecio-Typ
-Pollen:	Rundlich bis leicht dreieckig konvex, sphäroid bis optisch leicht oblat, isopolar, tricolporat, echinat. Wenig PK. Aus getrockneter Blütendroge.
-
-[PollenX](https://pollenx.eu/species.php?species=Calendula_officin) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Calendula_officin) · [Paldat](https://www.paldat.org/pub/Calendula_officin) · [Waarneming.nl](https://waarneming.nl/search/?q=calendula+officin)
 
 ## campanula
 *Campanula*
@@ -313,209 +115,6 @@ agent: replace by the other campanula_*
 
 [PollenX](https://pollenx.eu/species.php?species=Campanula_fenestrellata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_fenestrellata) · [Paldat](https://www.paldat.org/pub/Campanula_fenestrellata) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+fenestrellata)
 
-## campanula_glomerata
-*Campanula glomerata*
-Familie:	Campanulaceae (Glockenblumengewächse)
-nl Name:	Kluwenklokje
-Pollengrösse:	27 (25.2-29.5) μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11 Campanulaceae, 32.11.3 Phyteuma-Typ
-Pollen:	Rundlich, sphäroid (PoFormI ca. 0.94; 0.89-1.00), heteropolar (aber auch isopolare PK vorhanden), echinat. Kurze Echini. Meist 3-(4) Poren mit Anulus. Viel Pollenkitt. Bei PalDat als triporat, isopolar gelistet.
-
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): 21-25 µm,  shortest polar axis in equatorial view (LM): 21-25 µm,  longest polar axis in equatorial view (LM): 21-25 µm,  shortest diameter in equatorial or polar view (LM): 21-25 µm,  longest diameter in equatorial or polar view (LM): 21-25 µm,  pollen class: porate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): -,  shape (dry pollen): spheroidal,  outline in polar view (dry pollen): circular,  infoldings (dry pollen): not infolded,  aperture number: 3,  aperture type: porus,  aperture condition: triporate, porate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: echinate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: striato-microreticulate, microechinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-[PollenX](https://pollenx.eu/species.php?species=Campanula_glomerata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_glomerata) · [Paldat](https://www.paldat.org/pub/Campanula_glomerata) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+glomerata)
-
-## campanula_lactiflora
-*Campanula lactiflora*
-
-[PollenX](https://pollenx.eu/species.php?species=Campanula_lactiflora) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_lactiflora) · [Paldat](https://www.paldat.org/pub/Campanula_lactiflora) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+lactiflora)
-Familie:	Campanulaceae (Glockenblumengewächse)
-Deutscher Name:	Riesen-Glockenblume
-nl: Celtisbladklokje
-Pollengrösse:	27 (25.3-29.2) μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11 Campanulaceae, 32.11.4 Campanula trechelium-Typ
-Pollen:	Rund bis leicht dreieckig, sphäroid (PoFormI ca. 0.89), stephanoporat, pantoporat, echinat. Meist nur 3-porig (triporat). Anulus um Poren, Porendurchmesser ca. 7.2 (6.0-8.2) μm. Echini kurz.
-
-Agent: voeg onderstaande nederlandse namen, bloeitijden en NP toe aan pollen.yaml
-Akkerklokje (Campanula rapunculoides):
-
-Bloeiperiode: juni - augustus
-Grootte: tot 100 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Breedbladig klokje (Campanula latifolia)
-
-Bloeiperiode: juni - juli
-Grootte: tot 80 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-(Campanula fenestrellata):
-
-Bloeiperiode: juni - augustus
-Grootte: tot 10 centimeter hoog
-Bevlieging door honingbijen: (np)1
-
-Celtisbladklokje (Campanula lactiflora)
-
-Bloeiperiode: juni - augustus
-Grootte: tot 125 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Dalmatiëklokje (Campanula portenschlagiana):
-
-Bloeiperiode: juni - september
-Grootte: tot 15 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Grasklokje (Campanula rotundifolia):
-
-Bloeiperiode: juni - oktober
-Grootte: tot 40 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Karpatenklokje (Campanula carpatica):
-
-Bloeiperiode: juni - september
-Grootte: tot 40 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Kluwenklokje (Campanula glomerata):
-
-Bloeiperiode: juni - augustus
-Grootte: tot 55 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Kruipklokje (Campanula poscharskyana):
-
-Bloeiperiode: juni - september
-Grootte: tot 50 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Mariëtteklokje (Campanula media):
-
-Bloeiperiode: mei - juli
-Grootte: tot 70 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Prachtklokje (Campanula persicifolia):
-
-Bloeiperiode: mei - augustus
-Grootte: tot 100 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Rapunzelklokje (Campanula rapunculus):
-
-Bloeiperiode: mei - september
-Grootte: tot 80 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Ruig klokje (Campanula trachelium):
-
-Bloeiperiode: juli - augustus
-Grootte: tot 80 centimeter hoog
-Bevlieging door honingbijen: (np)4
-
-Weideklokje (Campanula patula):
-
-Bloeiperiode: mei - juli
-Grootte: tot 50 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-Zodeklokje (Campanula cochleariifolia):
-
-Bloeiperiode: juni - juli
-Grootte: tot 10 centimeter hoog
-Bevlieging door honingbijen: (np)3
-
-
-## campanula_media
-*Campanula media*
-synoniem Mariëtteklokje - Campanula medium
-agent: hernoem deze naar campanula_medium en synoniem c media
-
-[PollenX](https://pollenx.eu/species.php?species=Campanula_media) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_media) · [Paldat](https://www.paldat.org/pub/Campanula_medium) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+medium)
-Taxonomy: Angiospermae, Asterales, Campanulaceae, Campanula
-
-Links: http://flora.nhm-wien.ac.at/Seiten-Arten/Campanula-medium.htm
-
-Published: 2020-12-16
-
-Pollen Description
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): 26-30 µm,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): 26-30 µm,  longest diameter in equatorial or polar view (LM): 26-30 µm,  pollen class: porate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): -,  shape (dry pollen): -,  outline in polar view (dry pollen): -,  infoldings (dry pollen): -,  aperture number: 3,  aperture type: porus,  aperture condition: tricolporate, porate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: echinate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: -,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-
-
-## campanula_patula
-*Campanula patula*
-
-[PollenX](https://pollenx.eu/species.php?species=Campanula_patula) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_patula) · [Paldat](https://www.paldat.org/pub/Campanula_patula) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+patula)
-Familie:	Campanulaceae (Glockenblumengewächse)
-nl: Weideklokje - Campanula patula
-Deutscher Name:	Ausgebreitete Glockenblume,Wiesenglockenblume
-Pollengrösse:	32 (29.8-34.8) μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11 Campanulaceae, 32.11.3 Phyteuma-Typ
-Pollen:	Rund, sphäroid, periporat, stephanoporat bis triporat, verrucat bis echinat. Meist 3-(4) Poren, Durchmesser ca. 3.7 (2.5-4.5) μm mit Anuli. Die Echini sind etwa 1.7 (1.2-2.2)  μm lang. Die Aperturmembranen sind nicht ornamentiert.
-
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): 26-30 µm,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): 26-30 µm,  longest diameter in equatorial or polar view (LM): 26-30 µm,  pollen class: porate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): -,  shape (dry pollen): irregular,  outline in polar view (dry pollen): irregular,  infoldings (dry pollen): irregularly infolded,  aperture number: 3,  aperture type: porus,  aperture condition: triporate, porate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: echinate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: striato-microreticulate, echinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-
-## campanula_persicifolia
-*Campanula persicifolia*
-Prachtklokje - Campanula persicifolia
-[PollenX](https://pollenx.eu/species.php?species=Campanula_persicifolia) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_persicifolia) · [Paldat](https://www.paldat.org/pub/Campanula_persicifolia) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+persicifolia)
-Familie:	Campanulaceae (Glockenblumengewächse)
-Deutscher Name:	Pfirsichblättrige Glockenblume
-Pollengrösse:	32 (29.2-35.7) μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11 Campanulaceae, 32.11.3 Phyteuma-Typ
-Pollen:	Rund, sphäroid, isopolar, stephanoporat, periporat, triporat bis tetraporat, echinat, monad. Meist 3-4 Poren, Porendurchmesser ca. 4.9 (3.7-6.6) μm. Verdickung um Porenöffnung (Anulus). Die Aperturmembranen sind nicht ornamentiert. Dominante Ansicht im LM: oblique.
-
-## campanula_portenschlagiana
-*Campanula portenschlagiana*
-Dalmatiëklokje - Campanula portenschlagiana
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): -,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): -,  longest diameter in equatorial or polar view (LM): -,  pollen class: porate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): -,  P/E-ratio (dry pollen): -,  shape (dry pollen): irregular,  outline in polar view (dry pollen): irregular,  infoldings (dry pollen): irregularly infolded,  aperture number: 4,  aperture type: porus,  aperture condition: porate, tetraporate, stephanoporate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation SEM: striato-microreticulate, microechinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-[PollenX](https://pollenx.eu/species.php?species=Campanula_portenschlagiana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_portenschlagiana) · [Paldat](https://www.paldat.org/pub/Campanula_portenschlagiana) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+portenschlagiana)
-
-## campanula_poscharskyana
-*Campanula poscharskyana*
-Kruipklokje - Campanula poscharskyana
-Familie:	Campanulaceae (Glockenblumengewächse)
-Deutscher Name:	Dalmatische Glockenblume
-Pollengrösse:	41 μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11 Campanulaceae
-Pollen:	Rund, sphäroid, echinat. Anzahl Poren meist 6. Anulus um die Poren. Die Aperturmembranen sind nicht ornamentiert.
-[PollenX](https://pollenx.eu/species.php?species=Campanula_poscharskyana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_poscharskyana) · [Paldat](https://www.paldat.org/pub/Campanula_poscharskyana) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+poscharskyana)
-
-## campanula_rapunculoides
-*Campanula rapunculoides*
-Akkerklokje - Campanula rapunculoides
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): 36-40 µm,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): 36-40 µm,  longest diameter in equatorial or polar view (LM): 36-40 µm,  pollen class: porate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): -,  shape (dry pollen): spheroidal,  outline in polar view (dry pollen): circular,  infoldings (dry pollen): not infolded,  aperture number: 4,  aperture type: porus,  aperture condition: porate, stephanoporate, tetraporate,  aperture peculiarities: stephanoaperturate
-
-Ornamentation and Structure
-LM  ornamentation LM: echinate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: striato-microreticulate, echinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-Miscellaneous
-pollen coatings: -,  reserves in cytoplasm: -,  cell number: -,  Ubisch bodies: -
-
-Annotations: aperture number 4-6, mostly 5.
-[PollenX](https://pollenx.eu/species.php?species=Campanula_rapunculoides) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rapunculoides) · [Paldat](https://www.paldat.org/pub/Campanula_rapunculoides) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+rapunculoides)
-
 ## campanula_rapunculus
 *Campanula rapunculus*
 Rapunzelklokje - Campanula rapunculus
@@ -528,80 +127,6 @@ no LM images
 
 [PollenX](https://pollenx.eu/species.php?species=Campanula_rapunculus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rapunculus) · [Paldat](https://www.paldat.org/pub/Campanula_rapunculus) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+rapunculus)
 
-## campanula_trachelium
-*Campanula trachelium*
-Ruig klokje - Campanula trachelium
-Familie:	Campanulaceae (Glockenblumengewächse)
-Deutscher Name:	Nesselblättrige Glockenblume
-Pollengrösse:	36 μm (Medium)
-Pollenklasse:	32 Stephanoporatae, 32.11.4 Campanula trachelium-Typ. (gem. PalDat triporat)
-Pollen:	Rund, sphäroid, isopolar, triporat bis tetraporat, echinat. Meist 3 aber auch vereinzelt 4 Poren beobachtet. Anulus um die Poren. Der Porendurchmesser liegt bei ca. 6.6 μm.
-Präparatenummer:	3-027
-[PollenX](https://pollenx.eu/species.php?species=Campanula_trachelium) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_trachelium) · [Paldat](https://www.paldat.org/pub/Campanula_trachelium) · [Waarneming.nl](https://waarneming.nl/search/?q=campanula+trachelium)
-
-## cardamine_pratensis
-*Cardamine praten*
-agent: correct name to cardamine_pratensis
-Pinksterbloem
-Familie:	Brassicaceae (Kreuzblütler, Cruciferae)
-Deutscher Name:	Wiesenschaumkraut
-Pollengrösse:	29 (27.6-31.2) μm (Medium)
-Pollenklasse:	21 Tricolpatae mit reticulaten oder microreticulaten Skulpturen, 21.27 Brassicaceae
-Pollen:	Rundlich bis leicht dreieckig, sphäroid, isopolar, tricolpat, reticulat. Dicke Exine. Kleines Polarfeld (PolFeldI ca. 0.27).
-
-[PollenX](https://pollenx.eu/species.php?species=Cardamine_praten) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cardamine_pratensis) · [Paldat](https://www.paldat.org/pub/Cardamine_praten) · [Waarneming.nl](https://waarneming.nl/search/?q=cardamine+praten)
-
-## carpobrotis_edulis
-*Carpobrotis edulis*
-agent: corrigeer naar carpobrotus_edulis
-https://en.wikipedia.org/wiki/Carpobrotus_edulis note: bloem is heel anders op pollenwiki
-Familie:	Aizoaceae (Eiskrautgewächse, Mittagsblumengewächse)
-Deutscher Name:	Hottentottenfeige
-Pollengrösse:	25 (22.5-26.6) μm (Small)
-Pollenklasse:	16 Tricolpatae, Tricolporoidatae oder Tricolporatae mit clavaten, baculaten, verrucaten oder gemmaten Skulpturen
-Pollen:	Rundlich, sphäroid (PoFormI ca. 0.91; 0.87-0.95), isopolar, tricolpat, verrucat bis gemmat. Die Aperturmembranen sind nicht ornamentiert. Grosses Polarfeld (PolFeldI ca. 0.61; 0.54-0.76).
-
-[PollenX](https://pollenx.eu/species.php?species=Carpobrotis_edulis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carpobrotus_edulis) · [Paldat](https://www.paldat.org/pub/Carpobrotis_edulis) · [Waarneming.nl](https://waarneming.nl/search/?q=carpobrotis+edulis)
-https://www.paldat.org/pub/Carpobrotus_edulis/300086
-
-## carragana_arbores
-*Carragena arbores*
-agent: fox this to caragana_arborescens
-Erwtenboompje erwtenstruik
-Familie:	Fabaceae (Schmetterlingsblütler)
-Deutscher Name:	Gewöhnlicher Erbsenstrauch
-Pollengrösse:	22 (20.4-24.7), 22 (20.2-23.0) μm (Small)
-Pollenklasse:	15 Tricolporoidatae mit psilaten, scabraten, verrucaten oder microverrucaten Skulpturen
-Pollen:	Dreieckig konvex, sphäroid (PoFormI ca. 0.98; 0.90-1.04), isopolar, tricolpat bis tricolporat, scabrat bis teilweise rugulat. Die Aperturmembranen sind meist in Form eines kleinkörnigen Mittelstreifen ornamentiert. Teilweise sind Poren sichtbar. Mittelgrosses bis grosses Polarfeld (PolFeldI ca. 0.47; 0.40-0.55). Sehr viel Pollenkitt.
-
-[PollenX](https://pollenx.eu/species.php?species=Carragena_arbores) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carragana_arborescens) · [Paldat](https://www.paldat.org/pub/Carragena_arborescens) · [Waarneming.nl](https://waarneming.nl/search/?q=carragena+arbores)
-
-## carthamus_lanatuswollige
-*Carthamus lanatuswollige*
-agent: corrigeer naar carthamus_lanatus
-nl: Wollige saffloer - Carthamus lanatus
-
-[PollenX](https://pollenx.eu/species.php?species=Carthamus_lanatus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_lanatus) · [Paldat](https://www.paldat.org/pub/Carthamus_lanatus) · [Waarneming.nl](https://waarneming.nl/search/?q=carthamus+lanatus)
-
-## carthamus_tinctor
-*Carthamus tinctor*
-nl:Saffloer - Carthamus tinctorius
-agent: corrigeer naar carthamus_tinctorius
-Familie:	Asteraceae (Korbblütler)
-Deutscher Name:	Echte Färberdistel
-Pollengrösse:	57 (55.0-58.3); 50 (44.8-56.9) μm (Large)
-Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1. Asteraceae, 17.1.3 Carthamus-Typ
-Pollen:	Dreieckig, leicht sphäroid bis prolat (PoFormI ca. 1.10-1.23), isopolar, tricolporat, echinat bis verrucat auf reticulat. Die Aperturmembranen sind meist nicht ornamentiert; vereinzelt sitzen verrucate Skulpturen (Opercel) auf den Poren. Kurze Colpi. Grosses Polarfeld. Viel Pollenkitt.
-
-[PollenX](https://pollenx.eu/species.php?species=Carthamus_tinctor) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Carthamus_tinctor) · [Paldat](https://www.paldat.org/pub/Carthamus_tinctorius) · [Waarneming.nl](https://waarneming.nl/search/?q=carthamus+tinctorius)
-
-## castanea
-*Castanea*
-agent: should be Tamme kastanje - Castanea sativa 
-
-
-[Waarneming.nl](https://waarneming.nl/search/?q=castanea)
-
 ## catalpa_ovata
 *Catalpa ovata*
 nl: Gele trompetboom - Catalpa ovata
@@ -612,56 +137,6 @@ Ornamentation and Structure
 LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation SEM: microreticulate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
 
 [PollenX](https://pollenx.eu/species.php?species=Catalpa_ovata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Catalpa_ovata) · [Paldat](https://www.paldat.org/pub/Catalpa_ovata) · [Waarneming.nl](https://waarneming.nl/search/?q=catalpa+ovata)
-
-## centaurea_jacea_typ
-*Centaurea jacea-Typ*
-agent: rename to centaurea_jacea
-Familie:	Asteraceae (Korbblütler, Compositae)
-Deutscher Name:	Wiesen-Flockenblume
-Pollengrösse:	31 (25.6-35.4); 31 (28.7-34.1) μm (Medium)
-Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1 Asteraceae p.p., 17.1.10 Centaurea jacea-Typ
-Pollen:	Dreieckig konvex bis hexagonal, sphäroid bis optisch leicht prolat (PoFormI ca. 1.04; 0.98-1.18), isopolar, tricolporat, echinat bis verrucat. Die Aperturmembranen sind nicht ornamentiert. Die Echini (Länge etwa 1.7; 1.2-2.1 μm) haben eine sehr breite Basis. Mittelgrosses Polarfeld (PolFeldI ca. 0.33; 0.30-0.39).
-Knoopkruid - Centaurea jacea
-[PollenX](https://pollenx.eu/species.php?species=Centaurea_jacea-typ) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_jacea-typ) · [Paldat](https://www.paldat.org/pub/Centaurea_jacea-typ) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+jacea)
-
-## centaurea_montan
-*Centaurea montan*
-agent: corect name to centaurea_montana
-Familie:	Asteraceae (Korbblütler)
-Deutscher Name:	Berg-Flockenblume
-Pollengrösse:	32 (30.4-33.5) μm (Medium)
-Pollenklasse:	14 Tricolporatae mit psilaten, scabraten, verrucaten oder microverrucaten Skulpturen, 14.15 Centaurea montana-Typ
-Pollen:	In Polansicht rund bis leicht dreieckig konvex, rund/isodiametrisch, sphäroid (PoFormI ca. 1.0), isopolar, tricolporat, verrucat bis echinat. Die Aperturmembranen sind nicht ornamentiert. Poren rund, hervorquellend, Durchmesser ca. 9.2-14.4 μm. Kleines bis mittelgrosses Polarfeld (PolFeldI ca. 0.28).
-Bergcentaurie - Centaurea montana
-[PollenX](https://pollenx.eu/species.php?species=Centaurea_montan) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_montan) · [Paldat](https://www.paldat.org/pub/Centaurea_montana) · [Waarneming.nl](https://waarneming.nl/search/?q=centaurea+montana)
-
-## chamerion_angust
-*Chamerion angust*
-agent: do not use this one, use Chamaenerion, the other is is synoniem, put that in the notes. 
-agent: rename this one in chamaenerion_angustifolium for waarnemingen.nl and Epilobium angustifolium for tstebler and paldat and pollenX. waarnemingen info Het (knikkend) wilgenroosje (Chamerion angustifolium (L.) Holub, synoniem: Chamaenerion angustifolium (L.) Scop., basioniem: Epilobium angustifolium L.) 
-
-Familie:	Onagraceae (Nachtkerzengewächse)
-Deutscher Name:	Wald-Weidenröschen
-Pollengrösse:	80 (74.6-89.5) μm (Large)
-Pollenklasse:	31 Triporatae, 31.7 Epilobium
-Pollen:	Dreieckig, sphäroid bis leicht oblat, isopolar, triporat, rugulat (gem. Beug psilat, mit welliger Oberfläche). Porenradius ca. 10 μm. Mit vielen Viscinfäden
- images are in the database already
-
-
-[PollenX](https://pollenx.eu/species.php?species=Chamerion_angust) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chamerion_angust) · [Paldat](https://www.paldat.org/pub/Chamerion_angust) · [Waarneming.nl](https://waarneming.nl/search/?q=chamerion+angust)
-
-## chrysanthemum_leuc
-*Chrysanthemum leuc*
-agent: vervang door leucanthemum_vulgare 
-Margriet - Leucanthemum vulgare
-Familie:	Asteraceae (Korbblütler, Compositae)
-Deutscher Name:	Wiesen-Margerite
-Pollengrösse:	28 μm (Medium)
-Pollenklasse:	17 Tricolpatae, Tricolporoidatae und Tricolporatae mit echinaten Skulpturen, 17.1 Asteraceae p.p., 17.1.6 Matricaria-Typ
-Pollen:	Rundlich bis leicht dreieckig, sphäroid, isopolar, echinat, dazwischen verrucat/gemmat(?). Colpi lang. Porendurchmesser ca. 7.4 µm.
-
-
-[PollenX](https://pollenx.eu/species.php?species=Chrysanthemum_leuc) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Chrysanthemum_leuc) · [Paldat](https://www.paldat.org/pub/Chrysanthemum_leuc) · [Waarneming.nl](https://waarneming.nl/search/?q=chrysanthemum+leuc)
 
 ## cichorium
 *Cichorium*
@@ -682,74 +157,6 @@ Synoniem: Cnicus benedictus. Centaurea = Afgeleid van het Griekse kentaureion of
 
 [PollenX](https://pollenx.eu/species.php?species=Cnicus_benedict) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cnicus_benedict) · [Paldat](https://www.paldat.org/pub/Centaurea_benedicta) · [Waarneming.nl](https://waarneming.nl/search/?q=cnicus+benedict)
 
-## colchicinum_autu
-*Colchicinum autu*
-agent: rename to colchicum_autumnale
-herfsttijloos (Colchicum autumnale, synoniem: Colchicum multiflorum) 
-Familie:	Colchicaceae (Zeitlosengewächse)
-Deutscher Name:	Herbstzeitlose
-Pollengrösse:	55 (50.2-59.0) μm (Large)
-Pollenklasse:	30 Diporatae, 30.1 Colchicum-Gruppe
-Pollen:	Oblat (PoFormI ca. 0.55), spindelförmig, reticulat bis rugulat. Zum Teil Operculi an den Poren (operculat),viel Pollenkitt. Monographie in PalDat.
-
-
-[PollenX](https://pollenx.eu/species.php?species=Colchicinum_autu) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Colchicinum_autu) · [Paldat](https://www.paldat.org/pub/Colchicinum_autu) · [Waarneming.nl](https://waarneming.nl/search/?q=colchicinum+autu)
-
-## convolvulus_arvensis
-
-Akkerwinde
-
-Familie:	Convolvulaceae (Windengewächse)
-Deutscher Name:	Acker-Winde
-Pollengrösse:	59 (54.6-62.3) μm (Large)
-Pollenklasse:	13 Tricolpatae mit psilaten, scabraten, verrucaten oder microverrucaten Skulpturen, 13.9 Covolvulus arvensis-Typ
-Pollen:	Leicht dreieckig konvex bis rundlich, sphäroid bis optisch leicht oblat, isopolar, tricolpat, verrucat. Die Aperturmembranen sind körnig ornamentiert. Kleines Polarfeld (PolFeldI ca. 0.20).
-re
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): large (51-100 µm),  size of hydrated pollen (LM): 51-100 µm,  shortest polar axis in equatorial view (LM): 51-100 µm,  longest polar axis in equatorial view (LM): 51-100 µm,  shortest diameter in equatorial or polar view (LM): 51-100 µm,  longest diameter in equatorial or polar view (LM): 51-100 µm,  pollen class: colpate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): oblique,  P/E-ratio (dry pollen): prolate,  shape (dry pollen): -,  outline in polar view (dry pollen): lobate,  infoldings (dry pollen): aperture(s) sunken,  aperture number: 3,  aperture type: colpus,  aperture condition: tricolpate, colpate,  aperture peculiarities: aperture membrane ornamented
-
-Ornamentation and Structure
-LM  ornamentation LM: gemmate, scabrate, verrucate,  nexine: -,  sexine: -,  SEM  ornamentation SEM: microechinate, perforate,  suprasculpture SEM: -,  TEM  tectum: eutectate,  infratectum: columellate,  foot layer: continuous,  endexine: absent,  intine: monolayered,  wall peculiarities: -,  supratectal element: -
-
-
-
-[PollenX](https://pollenx.eu/species.php?species=Convolvulus_arve) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Convolvulus_arvensis) · [Paldat](https://www.paldat.org/pub/Convolvulus_arvensis) · [Waarneming.nl](https://waarneming.nl/search/?q=convolvulus+arvensis)
-
-## coryllus_avelana
-*Coryllus avelana*
-agent: rename to corylus_avellana
-Hazelaar
-Corylus avellana L.
-Familie:	Betulaceae (Birkengewächse)
-Deutscher Name:	Hasel, Haselstrauch
-Pollengrösse:	26 (24.2-28.1) μm (Medium)
-Pollenklasse:	31 Triporatae, 31.21 Corylus
-Pollen:	Dreieckig bis rundlich, sphäroid (PoFormI ca. 0.93; 0.85-0.96), isopolar, triporat, scabrat. Die Aperturmembranen sind nicht ornamentiert. Anulus um Pore. Kleine Porenöffnung, Durchmesser um 2 μm.
-[PollenX](https://pollenx.eu/species.php?species=Coryllus_avelana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylus_avellana) · [Paldat](https://www.paldat.org/pub/Corylus_avellana) · [Waarneming.nl](https://waarneming.nl/search/?q=corylus+avellana)
-waarnemingen url https://waarneming.nl/species/531982/
-
-
-## corylopsis_pauciflora
-*Corylopsis pauciflora*
-schijnhazelaar
-[PollenX](https://pollenx.eu/species.php?species=Corylopsis_parcifl) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Corylopsis_pauciflora) · [Paldat](https://www.paldat.org/pub/Corylopsis_pauciflora) · [Waarneming.nl](https://waarneming.nl/search/?q=corylopsis+pauciflora)
-
-## cosmos_sulphureus
-*Cosmos sulphureus*
-Gele cosmos - Cosmos sulphureus
-
-Shape, Size and Aperture
-pollen unit: monad,  dispersal unit and peculiarities: monad,  size (pollen unit): medium-sized (26-50 µm),  size of hydrated pollen (LM): -,  shortest polar axis in equatorial view (LM): -,  longest polar axis in equatorial view (LM): -,  shortest diameter in equatorial or polar view (LM): -,  longest diameter in equatorial or polar view (LM): -,  pollen class: colporate,  polarity: isopolar,  P/E-ratio: -,  shape: spheroidal,  outline in polar view: circular,  dominant orientation (LM): -,  P/E-ratio (dry pollen): prolate,  shape (dry pollen): -,  outline in polar view (dry pollen): circular,  infoldings (dry pollen): aperture(s) sunken,  aperture number: 3,  aperture type: colporus,  aperture condition: tricolporate, colporate,  aperture peculiarities: -
-
-Ornamentation and Structure
-LM  ornamentation LM: -,  nexine: -,  sexine: -,  SEM  ornamentation SEM: perforate, echinate,  suprasculpture SEM: -,  TEM  tectum: -,  infratectum: -,  foot layer: -,  endexine: -,  intine: -,  wall peculiarities: -,  supratectal element: -
-
-
-
-
-
-
-[PollenX](https://pollenx.eu/species.php?species=Cosmos_sulphureus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Cosmos_sulphureus) · [Paldat](https://www.paldat.org/pub/Cosmos_sulphureus) · [Waarneming.nl](https://waarneming.nl/search/?q=cosmos+sulphureus)
-
 ## crataegus_crus_galli
 *Crataegus crus*
 Hanendoorn
@@ -762,30 +169,6 @@ soort meidoorn, geen images online van de pollen
 
 
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_laciniata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_laciniata) · [Paldat](https://www.paldat.org/pub/Crataegus_laciniata) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+laciniata)
-
-## crataegus_laevigata
-*Crataegus laevigata*
-Tweestijlige meidoorn - Crataegus laevigata
-
-Familie:	Rosaceae (Rosengewächse)
-Deutscher Name:	Zweigriffliger Weissdorn
-Pollengrösse:	37 (34.5-41.6) μm (Medium)
-Pollenklasse:	20 Tricolporoidatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 20.12 Sorbus-Gruppe
-Pollen:	Dreieckig, oblat (PoFormI ca. 0.69; 0.63-0.74), isopolar, tricolporat, rugulat bis verrucat. Die Aperturmembranen sind nicht ornamentiert. Kleines bis mittelgrosses Polarfeld (PolFeldI ca. 0.25; 0.19-0.31). Weitere Informationen auf PalDat.
-[PollenX](https://pollenx.eu/species.php?species=Crataegus_laevigata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_laevigata) · [Paldat](https://www.paldat.org/pub/Crataegus_laevigata) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+laevigata)
-
-## crataegus_monogyna
-*Crataegus monogyna*
-Eenstijlige meidoorn - Crataegus monogyna
-
-Familie:	Rosaceae (Rosengewächse)
-Deutscher Name:	Eingriffliger Weissdorn
-Pollengrösse:	43 (39.2-46.2) μm (Medium)
-Pollenklasse:	20 Tricolporoidatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 20.12 Sorbus-Gruppe
-Pollen:	Dreieckig, oblat (PoFormI ca. 0.71), isopolar, tricolporat, rugulat bis striat, monad. Die Aperturmembranen sind nicht ornamentiert. Porendurchmesser quer ca. 17 μm. Kleines Polarfeld (PolFeldI ca. 0.21). Weitere Angaben in PalDat.
-
-
-[PollenX](https://pollenx.eu/species.php?species=Crataegus_monogyna) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_monogyna) · [Paldat](https://www.paldat.org/pub/Crataegus_monogyna) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+monogyna)
 
 ## crataegus_oxycantha
 *Crataegus oxycantha*
@@ -1051,13 +434,6 @@ Pollen:	Dreieckig, oblat (PoFormI ca. 0.71), isopolar, tricolporat, rugulat bis 
 *Galinsoga sp*
 
 [PollenX](https://pollenx.eu/species.php?species=Galinsoga_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galinsoga_sp) · [Paldat](https://www.paldat.org/pub/Galinsoga_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=galinsoga+sp)
-
-## galium_sylvatica
-*Galium sylvatica*
-
-agent: in tabel van Kerkvliet staat hier Lievenvrouwenbedstro. Vervang deze door galium_odoratum. en Voeg dit als note toe aan de tabel van kerkvliet: Van boswalstro geen pollen images kunnen vinden online, geen waarnemingen in waarnemingen.nl dus onwaarschijnlijk dat deze in nl honing voorkomt.
-
-[PollenX](https://pollenx.eu/species.php?species=Galium_sylvatica) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Galium_sylvatica) · [Paldat](https://www.paldat.org/pub/Galium_sylvatica) · [Waarneming.nl](https://waarneming.nl/search/?q=galium+sylvatica)
 
 ## genista_anglica
 *Genista anglica*

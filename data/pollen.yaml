@@ -2414,11 +2414,11 @@ aster_amellus:
     - path: assets/images/by-taxon/aster_amellus/aster_amellus_4.png
       kind: by_taxon
       source: by_taxon
-aster_lanceolatus:
-  latin: Aster Lanceolatus
+symphyotrichum_lanceolatum:
+  latin: Symphyotrichum lanceolatum
   dutch: smalle aster
   family: Asteraceae (asterfamilie)
-  note:
+  note: "synoniem: Aster lanceolatus"
   size:
     smallest_size: 30 µm
     largest_size: 36 µm
@@ -2444,23 +2444,23 @@ aster_lanceolatus:
     paldat: https://www.paldat.org/pub/Aster_lanceolatus
   sources: []
   images:
-    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_1.png
+    - path: assets/images/by-taxon/symphyotrichum_lanceolatum/symphyotrichum_lanceolatum_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_2.png
+    - path: assets/images/by-taxon/symphyotrichum_lanceolatum/symphyotrichum_lanceolatum_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_3.png
+    - path: assets/images/by-taxon/symphyotrichum_lanceolatum/symphyotrichum_lanceolatum_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_lanceolatus/aster_lanceolatus_4.png
+    - path: assets/images/by-taxon/symphyotrichum_lanceolatum/symphyotrichum_lanceolatum_4.png
       kind: by_taxon
       source: by_taxon
-aster_tripolium:
-  latin: Aster tripolium
+tripolium_pannonicum:
+  latin: Tripolium pannonicum
   dutch: zeeaster
   family:
-  note:
+  note: "synoniem: Aster tripolium (zeeaster)"
   size:
     smallest_size: 30 µm
     largest_size: 33 µm
@@ -2489,20 +2489,20 @@ aster_tripolium:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
     - source: image
-      path: assets/images/by-taxon/aster_tripolium/
+      path: assets/images/by-taxon/tripolium_pannonicum/
     - source: sporadische-eu-pollen
       path: docs/sporadische-eu-pollen/aster-tripolium.md
   images:
-    - path: assets/images/by-taxon/aster_tripolium/aster_tripolium_1.png
+    - path: assets/images/by-taxon/tripolium_pannonicum/tripolium_pannonicum_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_tripolium/aster_tripolium_2.png
+    - path: assets/images/by-taxon/tripolium_pannonicum/tripolium_pannonicum_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_tripolium/aster_tripolium_3.png
+    - path: assets/images/by-taxon/tripolium_pannonicum/tripolium_pannonicum_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/aster_tripolium/aster_tripolium_4.png
+    - path: assets/images/by-taxon/tripolium_pannonicum/tripolium_pannonicum_4.png
       kind: by_taxon
       source: by_taxon
 astragalus_sinicus:
@@ -4929,11 +4929,11 @@ clethra_alnifolia:
     - path: assets/images/by-taxon/clethra_alnifolia/clethra_alnifolia_4.png
       kind: pollenwiki
       source: pollenwiki
-cnicus_benedictus:
-  latin: Cnicus benedictus
+centaurea_benedicta:
+  latin: Centaurea benedicta
   dutch:
   family:
-  note:
+  note: "synoniem: Cnicus benedictus"
   size:
     smallest_size:
     largest_size:
@@ -4962,18 +4962,18 @@ cnicus_benedictus:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
     - source: image
-      path: assets/images/by-taxon/cnicus_benedictus/
+      path: assets/images/by-taxon/centaurea_benedicta/
   images:
-    - path: assets/images/by-taxon/cnicus_benedictus/cnicus_benedictus_1.png
+    - path: assets/images/by-taxon/centaurea_benedicta/centaurea_benedicta_1.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/cnicus_benedictus/cnicus_benedictus_2.png
+    - path: assets/images/by-taxon/centaurea_benedicta/centaurea_benedicta_2.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/cnicus_benedictus/cnicus_benedictus_3.png
+    - path: assets/images/by-taxon/centaurea_benedicta/centaurea_benedicta_3.png
       kind: by_taxon
       source: by_taxon
-    - path: assets/images/by-taxon/cnicus_benedictus/cnicus_benedictus_4.png
+    - path: assets/images/by-taxon/centaurea_benedicta/centaurea_benedicta_4.png
       kind: by_taxon
       source: by_taxon
 coffea_arabica:
@@ -20906,37 +20906,6 @@ anacardium_occid:
       path: 
         /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
   images: []
-anchusa:
-  latin: Anchusa
-  dutch:
-  family:
-  note:
-  size:
-    smallest_size:
-    largest_size:
-    height_px:
-  pollen_class:
-  shape:
-  sculpture:
-  aperture:
-  ornamentation:
-  polarity:
-  pe_ratio:
-  pollen-note:
-  bloeitijd:
-    start:
-    end:
-  nectar_value:
-  pollen_value:
-  frequency_in_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-  sources:
-    - source: nederlandse-honing-pollen
-      path: docs/nederlandse-honing-pollen/anchusa.md
-  images: []
 anchusa_azurea:
   latin: Anchusa azurea
   dutch:
@@ -22187,7 +22156,7 @@ arnica_montana:
   images: []
 artemisia_dracunculus:
   latin: Artemisia dracunculus
-  dutch:
+  dutch: dragon
   family:
   note:
   size:

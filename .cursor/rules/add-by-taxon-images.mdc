@@ -1,0 +1,14 @@
+---
+description: >-
+  After new atlas screenshots are added under by-taxon, run the
+  add-by-taxon-images skill (rename, YAML sync, optional Kerkvliet inject,
+  validate). Also triggered by add kerkvliet images / @add-kerkvliet-images.
+alwaysApply: false
+---
+
+# Add by-taxon images
+
+When the user says **add by-taxon images**, **add kerkvliet images**,
+`@add-by-taxon-images`, `@add-kerkvliet-images`, or equivalent, follow
+`.cursor/skills/add-by-taxon-images/SKILL.md` end-to-end. Do not skip rename,
+YAML sync, or (when the batch touches Kerkvliet) `inject_pollen_keys_into_key_json.py`.

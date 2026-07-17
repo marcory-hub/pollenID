@@ -4,7 +4,7 @@
     "title": "Determinatietabel (Kerkvliet) — interactieve tabel",
     "locale": "nl",
     "source": "Afgeleid uit docs/keys/kerkvliet/kerkvliet-determinatietabel.transcript.md (transcript).",
-    "rowCount": 312,
+    "rowCount": 314,
     "sectionCount": 5
   },
   "sections": [
@@ -53,7 +53,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "pollen_key": "buddleiea"
+      "pollen_key": "buddleja_davidii"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -153,7 +153,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "pollen_key": "aesculus_hippocas"
+      "pollen_key": "aesculus_hippocastanum"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -183,7 +183,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "pollen_key": "coryllus_avelana"
+      "pollen_key": "corylus_avellana"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -306,7 +306,7 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "pollen_key": "chamerion_angust"
+      "pollen_key": "epilobium_angustifolium"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -364,7 +364,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "anthirrhinum"
+      "pollen_key": "antirrhinum_majus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -574,7 +574,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "ailanthus"
+      "pollen_key": "ailanthus_altissima"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -582,7 +582,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "anethum_graveole"
+      "pollen_key": "anethum_graveolens"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -590,7 +590,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "asparagus"
+      "pollen_key": "asparagus_setaceus"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -663,7 +663,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "centaurea_montan"
+      "pollen_key": "centaurea_montana"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -683,7 +683,7 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "colchicinum_autu"
+      "pollen_key": "colchicum_autumnale"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -696,10 +696,6 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "pollen_key": "liriodendron_tulip"
-    },
-    {
-      "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "pollen_key": "colchicum_autumnale"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -757,7 +753,7 @@
     },
     {
       "section": "Pollen met groeven",
-      "pollen_key": "aruncus"
+      "pollen_key": "aruncus_dioicus"
     },
     {
       "section": "Pollen met groeven",
@@ -786,10 +782,6 @@
     {
       "section": "Pollen met groeven",
       "pollen_key": "rubus_idaeus"
-    },
-    {
-      "section": "Pollen met groeven",
-      "pollen_key": "aesculus_hippoca"
     },
     {
       "section": "Pollen met groeven",
@@ -942,7 +934,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "ambrosia_artemis"
+      "pollen_key": "ambrosia_artemisiifolia"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -976,7 +968,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "chrysanthemum_leuc"
+      "pollen_key": "leucanthemum_vulgare"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1005,7 +997,23 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "aster_sp"
+      "pollen_key": "symphyotrichum_laeve"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "symphyotrichum_novae_angliae"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "symphyotrichum_novi_belgii"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "symphyotrichum_lanceolatum"
+    },
+    {
+      "section": "Pollen met stekels echinaat fenestraat",
+      "pollen_key": "galatella_linosyris"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1103,7 +1111,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "aster_tripolium"
+      "pollen_key": "tripolium_pannonicum"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1111,7 +1119,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "calendula_officin"
+      "pollen_key": "calendula_officinalis"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1148,7 +1156,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "arcticum_minus"
+      "pollen_key": "arctium_minus"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1172,7 +1180,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "cnicus_benedict"
+      "pollen_key": "centaurea_benedicta"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1184,7 +1192,7 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "pollen_key": "arcticum_majus"
+      "pollen_key": "arctium_lappa"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -1298,7 +1306,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "pollen_key": "amorpha_fructico"
+      "pollen_key": "amorpha_fruticosa"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
@@ -1369,11 +1377,11 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "pollen_key": "anacardium_occid"
+      "pollen_key": "anacardium_occidentale"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "pollen_key": "carpobrotis_edulis"
+      "pollen_key": "carpobrotus_edulis"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
@@ -1434,7 +1442,7 @@
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
-      "pollen_key": "asphodelus_aestiv"
+      "pollen_key": "asphodelus_aestivus"
     },
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",

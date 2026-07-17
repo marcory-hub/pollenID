@@ -34,15 +34,15 @@ Bronnen: `data/pollen.yaml`, `docs/assets/images/by-taxon/_todo/_links/_kerkvlie
 
 | pollen_key (site / beoogd) | T Stebler (indien anders) | Synoniem / basioniem / oude naam | Relatie | Bron |
 |---|---|---|---|---|
-| `galium_odoratum` | *Asperula odorata* | *Asperula odorata* | basioniem; merge beoogd | kerkvliet; YAML `latin`: Galium odoratum (syn Asperula odorata) |
+| `galium_odoratum` | *Asperula odorata* | *Asperula odorata* | basioniem; merge gedaan in YAML `latin` | kerkvliet; YAML `latin`: Galium odoratum (syn Asperula odorata) |
 | `mahonia_aquifolium` | *Berberis aquifolium* | *Berberis aquifolium* | synoniem; nieuwe conventie *Mahonia* | kerkvliet; YAML `note` |
 | `mahonia_bealei` | *Berberis bealei* | *Berberis bealei* | synoniem; nieuwe conventie *Mahonia* | kerkvliet; YAML `note` |
-| `mahonia_japonica` | *Berberis japonica* | *Berberis japonica* | synoniem; nieuwe conventie *Mahonia* | kerkvliet; YAML `note` |
+| `mahonia_japonica` | *Berberis japonica* | *Berberis japonica* | synoniem; nieuwe conventie *Mahonia* (nog zonder images) | kerkvliet; YAML `note` |
 | `campanula_medium` | *Campanula media* | *Campanula media* (*C. media*) | synoniem / spelling | kerkvliet; YAML `note` |
-| `chamerion_angustifolium` | *Epilobium angustifolium* (ook *Chamerion* in links) | *Epilobium angustifolium* (basioniem); *Chamaenerion angustifolium* (synoniem) | nieuwe conventie / spelling | kerkvliet; YAML `latin` |
-| `centaurea_benedicta` (beoogd) | *Cnicus benedict* | *Cnicus benedictus* | synoniem; YAML heeft nog `cnicus_benedictus` | kerkvliet |
-| `colchicum_autumnale` | *Colchicinum autu* (typo in wiki-slug) | *Colchicum multiflorum* | synoniem | kerkvliet |
-| `leucanthemum_vulgare` | *Chrysanthemum leuc* | *Chrysanthemum leucanthemum* / *Chrysanthemum leuc* | oude naam; YAML heeft nog `chrysanthemum_leuc` | kerkvliet |
+| `epilobium_angustifolium` | *Epilobium angustifolium* (wiki) | *Chamerion angustifolium*; *Chamaenerion angustifolium* | basioniem/synoniemen in YAML; aparte `chamerion_angustifolium`-stub bestaat nog | kerkvliet; YAML `note` / `latin` |
+| `centaurea_benedicta` | *Cnicus benedictus* | *Cnicus benedictus* | synoniem; oude key verwijderd | kerkvliet; YAML `note` |
+| `colchicum_autumnale` | *Colchicinum autu* (OCR-slug) | *Colchicum multiflorum* | synoniem | kerkvliet |
+| `leucanthemum_vulgare` | *Chrysanthemum leuc* | *Chrysanthemum leucanthemum* / *Chrysanthemum leuc* | oude naam; YAML-stub `chrysanthemum_leuc` bestaat nog (zonder images) | kerkvliet |
 | `robinia_pseudoacacia` | *Acacia robinia* | *Acacia robinia* (verdere synoniemenlijst nog open) | oude / foutieve atlasnaam | pollen-atlas-links; YAML heeft beide keys |
 | `frangula_alnus` | *Frangula alnus* | *Rhamnus frangula* | synoniem; projectregel: niet *Rhamnus* | projectcontext; YAML heeft ook `rhamnus_frangula` |
 | `rosa_pimpinellifolia` | | *Rosa spinosissima* | synoniem | eide rosaceae-sleutel |
@@ -50,10 +50,10 @@ Bronnen: `data/pollen.yaml`, `docs/assets/images/by-taxon/_todo/_links/_kerkvlie
 | `symphyotrichum_laeve` (beoogd) | *Aster laevis* e.d. | *Aster laevis* | nieuwe conventie (*Symphyotrichum*) | kerkvliet (`aster_sp`) |
 | `symphyotrichum_novae_angliae` | *Aster novae-angliae* | *Aster novae-angliae* | nieuwe conventie | kerkvliet |
 | `symphyotrichum_novi_belgii` | *Aster novi-belgii* | *Aster novi-belgii* | nieuwe conventie | kerkvliet |
-| `symphyotrichum_lanceolatum` (beoogd) | *Aster lanceolatus* | *Aster lanceolatus*; *Aster tradescantii* = synoniem van smalle aster | nieuwe conventie + synoniem | kerkvliet |
-| `tripolium_pannonicum` (beoogd) | *Aster tripolium* | *Aster tripolium* | nieuwe conventie; YAML heeft nog `aster_tripolium` | kerkvliet |
+| `symphyotrichum_lanceolatum` | *Aster lanceolatus* | *Aster lanceolatus*; *Aster tradescantii* = synoniem van smalle aster | nieuwe conventie + synoniem | kerkvliet; YAML `note` |
+| `tripolium_pannonicum` | *Aster tripolium* | *Aster tripolium* | nieuwe conventie; oude key verwijderd | kerkvliet; YAML `note` |
 | `galatella_linosyris` (beoogd) | *Aster linosyris* | *Aster linosyris* | nieuwe conventie | kerkvliet |
-| `centaurea_jacea` (beoogd i.p.v. type) | *Centaurea jacea-Typ* | type-naam → soortnaam | uitzondering: type | kerkvliet |
+| `centaurea_jacea` | *Centaurea jacea-Typ* | type-naam → soortnaam | uitzondering: type | kerkvliet |
 
 ## Leeswijzer in bronnen
 
