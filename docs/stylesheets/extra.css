@@ -53,6 +53,13 @@
   box-shadow: var(--md-shadow-z1);
 }
 
+/* True-scale pollen thumbs (e.g. Pollentypen table): do not let table cells squash µm×2.5 width. */
+.md-typeset img.pid-true-scale {
+  max-width: none;
+  height: auto;
+  vertical-align: middle;
+}
+
 .pid-scale-caption {
   font-size: 0.72rem;
   line-height: 1.15;

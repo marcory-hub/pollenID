@@ -107,9 +107,12 @@ def define_env(env) -> None:
         safe_alt = escape(alt or lat or key, quote=True)
 
         if height_px is None:
-            return f'<img src="{safe_src}" alt="{safe_alt}">'
+            return f'<img class="pid-true-scale" src="{safe_src}" alt="{safe_alt}">'
 
-        return f'<img src="{safe_src}" style="width: {height_px}px; height: auto;" alt="{safe_alt}">'
+        return (
+            f'<img class="pid-true-scale" src="{safe_src}" '
+            f'style="width: {height_px}px; height: auto;" alt="{safe_alt}">'
+        )
 
     @env.macro
     def pollen_gallery(key: str) -> str:
