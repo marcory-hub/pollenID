@@ -1,4 +1,4 @@
-# PollenGalerie
+# Gallerie
 
 | Reeks | Inhoud |
 | :--- | :--- |

@@ -3,8 +3,8 @@
 ## Keys
 - [Identificatiesleutels](Identificatiesleutels/_index.md)
 
-## PollenGalerie
-- [PollenGalerie](pollen-gallery/_index.md)
+## Gallerie
+- [Gallerie](gallerie/_index.md)
 
 ## Pollenbeschrijvingen
 - [Monoflorale honing](monoflorale-honing-pollen/_index.md)

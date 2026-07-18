@@ -48,16 +48,16 @@ extra_javascript:
 nav:
   - Home: index.md
   - Keys: Identificatiesleutels/_index.md
-  - PollenGalerie:
-      - Overzicht: pollen-gallery/_index.md
-      - "Veel voorkomend (NL)": pollen-gallery/gallery-nl-common.md
-      - "Makkelijk herkenbaar (NL)": pollen-gallery/gallery-nl-easy.md
-      - Pollentypen: pollen-gallery/gallery-nl-pollen-types.md
-      - "Secundaire inbreng (NL)": pollen-gallery/gallery-nl-secondary.md
-      - "Minder algemeen (NL)": pollen-gallery/gallery-nl-less-common.md
-      - "EU buiten NL": pollen-gallery/gallery-eu-non-nl.md
-      - "Buiten EU": pollen-gallery/gallery-non-eu.md
-      - "Non-pollen": pollen-gallery/gallery-non-pollen.md
+  - Gallerie:
+      - Overzicht: gallerie/_index.md
+      - "Veel voorkomend (NL)": gallerie/gallery-nl-common.md
+      - "Makkelijk herkenbaar (NL)": gallerie/gallery-nl-easy.md
+      - Pollentypen: gallerie/gallery-nl-pollen-types.md
+      - "Secundaire inbreng (NL)": gallerie/gallery-nl-secondary.md
+      - "Minder algemeen (NL)": gallerie/gallery-nl-less-common.md
+      - "EU buiten NL": gallerie/gallery-eu-non-nl.md
+      - "Buiten EU": gallerie/gallery-non-eu.md
+      - "Non-pollen": gallerie/gallery-non-pollen.md
       - Lookalikes: lookalikes/_index.md
   - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
