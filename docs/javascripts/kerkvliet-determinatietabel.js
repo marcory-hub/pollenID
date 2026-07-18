@@ -417,8 +417,14 @@
         }
       }
       let rel = h.replace(/^\.\/+/, "");
-      while (rel.startsWith("../")) {
-        rel = rel.slice(3);
+      // Bare filename: sibling section page (directory URLs → resolve via parent).
+      // Explicit ../ : current page. Other paths with / : docs site root.
+      const isBareFilename = !rel.includes("/");
+      const isDotDot = rel.startsWith("../");
+      if (!isBareFilename && !isDotDot) {
+        while (rel.startsWith("../")) {
+          rel = rel.slice(3);
+        }
       }
       if (/\.md$/i.test(rel)) {
         rel = rel.slice(0, -3);
@@ -426,8 +432,16 @@
       if (rel && !rel.endsWith("/")) {
         rel += "/";
       }
+      let base;
       try {
-        return new URL(rel, resolveDocsSiteRoot()).href;
+        if (isBareFilename) {
+          base = new URL("../", document.baseURI).href;
+        } else if (isDotDot) {
+          base = document.baseURI;
+        } else {
+          base = resolveDocsSiteRoot();
+        }
+        return new URL(rel, base).href;
       } catch (e) {
         try {
           return new URL(hrefRaw, document.baseURI).href;

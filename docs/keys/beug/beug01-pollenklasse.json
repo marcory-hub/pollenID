@@ -67,7 +67,7 @@
         {
           "label": "pollenkorrel per twee verenigd.",
           "id": {
-            "name": "[Dyadeae](beug02-dyadeae.md)",
+            "name": "[Dyadeae](beug05-dyade.md)",
             "pollen_keys": "acacia_dealbata"
           }
         }
@@ -80,7 +80,7 @@
         {
           "label": "Pollenkorrel met 2 afzonderlijke luchtzakken of met een ringvormige luchtzak.",
           "id": {
-            "name": "[Vesiculatae](beug05-vesiculatae.md). Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)",
+            "name": "[Vesiculatae](beug06-vesiculatae.md). Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)",
             "pollen_keys": [
               "pinus_sylvestris",
               "pinus_nigra",
@@ -121,7 +121,7 @@
         {
           "label": "Pollenkorrel met ronde of hoekige zones (lacunae, vensters) waarin de extexine ontbreekt en die door ribben zijn omzoomd. Vooral bekend van de vele vertegenwoordigers van de Composietenfamilie (Asteraceae)",
           "id": {
-            "name": "[Fenestratae](beug06-fenestratae.md)",
+            "name": "[Fenestratae](beug29-fenestratae.md)",
             "pollen_keys": [
               "taraxacum_officinale",
               "cichorium_intybus"
@@ -236,7 +236,7 @@
         {
           "label": "Pollenkorrel met 2 pori.",
           "id": {
-            "name": "[Diporatae](beug13-diporatae.md)"
+            "name": "[Diporatae](beug30-diporatae.md)"
           }
         }
       ]
@@ -248,7 +248,7 @@
         {
           "label": "Pollenkorrel met 3 pori.",
           "id": {
-            "name": "[Triporatae](beug14-triporatae.md)",
+            "name": "[Triporatae](beug31-triporatae.md)",
             "pollen_keys": [
               "corylus_avellana",
               "betula_nigra",
@@ -284,7 +284,7 @@
         {
           "label": "Pollenkorrel met 3 colpi, of 3 colpi met in het midden een porus of porusachtige structuur.",
           "id": {
-            "name": "[Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolporatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)",
+            "name": "[Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolpatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)",
             "pollen_keys": [
               "brassica_napus",
               "valerianella_officinalis",
@@ -365,7 +365,7 @@
         {
           "label": "Pollenkorrel alleen met colpi (hier niet *Ephedra*; vergelijk p. 64).",
           "id": {
-            "name": "[Stephanocolpatae](beug17-stephanocolpatae.md)",
+            "name": "[Stephanocolpatae](beug24-stephanocolpatae.md)",
             "pollen_keys": [
               "phacelia_tanacetifolia",
               "borago_officinalis",
@@ -376,7 +376,7 @@
         {
           "label": "pollenkorrel alleen met pori.",
           "id": {
-            "name": "[Stephanoporatae](beug18-stephanoporatae.md)",
+            "name": "[Stephanoporatae](beug32-stephanoporatae.md)",
             "pollen_keys": [
               "alnus_glutinosa",
               "campanula_rotundifolia"
@@ -393,7 +393,7 @@
         {
           "label": "Elke colpus heeft een pori (geen patroon ‘slechts om de andere’ colpus met pori).",
           "id": {
-            "name": "[Stephanocolporatae](beug19-stephanocolporatae.md)",
+            "name": "[Stephanocolporatae](beug25-stephanocolporatae.md)",
             "pollen_keys": [
               "buddleja_davidii",
               "borago_officinalis"
@@ -403,7 +403,7 @@
         {
           "label": "Slechts elke tweede colpus met een pori.",
           "id": {
-            "name": "[Heterocolpatae](beug20-heterocolpatae.md)",
+            "name": "[Heterocolpatae](beug28-heterocolpatae.md)",
             "pollen_keys": [
               "myosotis_scorpioides"
             ]
@@ -418,7 +418,7 @@
         {
           "label": "pollenkorrel alleen met pori.",
           "id": {
-            "name": "[Periporatae](beug21-periporatae.md)",
+            "name": "[Periporatae](beug33-periporatae.md)",
             "pollen_keys": [
               "amarantus_caudatus",
               "phlox_paniculata",
@@ -439,13 +439,13 @@
         {
           "label": "pollenkorrel colpaat.",
           "id": {
-            "name": "[Pericolpatae](beug22-pericolpatae.md)"
+            "name": "[Pericolpatae](beug26-pericolpatae.md)"
           }
         },
         {
           "label": "pollenkorrel colporaat.",
           "id": {
-            "name": "[Pericolporatae](beug23-pericolporatae.md)"
+            "name": "[Pericolporatae](beug27-pericolporatae.md)"
           }
         }
       ]

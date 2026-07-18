@@ -73,8 +73,16 @@
       }
     }
     let rel = h.replace(/^\.\/+/, "");
-    while (rel.startsWith("../")) {
-      rel = rel.slice(3);
+    // Bare filename: sibling under the same MkDocs section (Identificatiesleutels/).
+    // With directory URLs, document.baseURI is …/page-slug/, so resolve via parent.
+    // Paths with / that are not ../ : docs-root relative (nederlandse-honing-pollen/foo.md).
+    // Explicit ../ : resolve against current page baseURI.
+    const isBareFilename = !rel.includes("/");
+    const isDotDot = rel.startsWith("../");
+    if (!isBareFilename && !isDotDot) {
+      while (rel.startsWith("../")) {
+        rel = rel.slice(3);
+      }
     }
     if (/\.md$/i.test(rel)) {
       rel = rel.slice(0, -3);
@@ -82,8 +90,16 @@
     if (rel && !rel.endsWith("/")) {
       rel += "/";
     }
+    let base;
     try {
-      return new URL(rel, resolveDocsSiteRoot()).href;
+      if (isBareFilename) {
+        base = new URL("../", document.baseURI).href;
+      } else if (isDotDot) {
+        base = document.baseURI;
+      } else {
+        base = resolveDocsSiteRoot();
+      }
+      return new URL(rel, base).href;
     } catch (e) {
       try {
         return new URL(hrefRaw, document.baseURI).href;
@@ -91,6 +107,11 @@
         return hrefRaw;
       }
     }
+  }
+
+  /** True when endpoint.name carries Markdown links to continue a key (family/class pages). */
+  function nameHasMarkdownLink(name) {
+    return typeof name === "string" && /\[[^\]]*\]\([^)]+\)/.test(name);
   }
 
   /**
@@ -1103,6 +1124,31 @@
               outcomeEl.appendChild(p);
               altLabel = String(endpoint.text);
               imgs = Array.isArray(endpoint.images) ? endpoint.images : [];
+            } else if (nameHasMarkdownLink(endpoint.name)) {
+              const p = document.createElement("p");
+              p.innerHTML = formatOutcomeRichText(String(endpoint.name));
+              outcomeEl.appendChild(p);
+              altLabel = String(endpoint.name);
+              if (resolved && resolved.images && resolved.images.length) {
+                imgs = resolved.images;
+              } else if (Array.isArray(endpoint.pollen_keys) && endpoint.pollen_keys.length > 0) {
+                const reps = [];
+                for (var gi = 0; gi < endpoint.pollen_keys.length; gi++) {
+                  var gk = normalizePollenSlug(endpoint.pollen_keys[gi]);
+                  if (gk && pollenIndex[gk]) {
+                    const entryImgs = imagesFromIndexEntry(pollenIndex[gk]);
+                    if (entryImgs && entryImgs.length > 0) reps.push(entryImgs[0]);
+                  } else if (gk) {
+                    reps.push({
+                      image: "../../assets/images/non-pollen/placeholder.png",
+                      imageHeightPx: 1,
+                    });
+                  }
+                }
+                imgs = reps;
+              } else {
+                imgs = Array.isArray(endpoint.images) ? endpoint.images : [];
+              }
             } else if (resolved) {
               outcomeEl.appendChild(renderEndpointTable(resolved));
               altLabel = resolved.latin || resolved.dutch || "Eindpunt";
@@ -1114,12 +1160,12 @@
               outcomeEl.appendChild(p);
               altLabel = String(endpoint.name || "Eindpunt");
               const reps = [];
-              for (var gi = 0; gi < endpoint.pollen_keys.length; gi++) {
-                var gk = normalizePollenSlug(endpoint.pollen_keys[gi]);
-                if (gk && pollenIndex[gk]) {
-                  const entryImgs = imagesFromIndexEntry(pollenIndex[gk]);
-                  if (entryImgs && entryImgs.length > 0) reps.push(entryImgs[0]);
-                } else if (gk) {
+              for (var gi2 = 0; gi2 < endpoint.pollen_keys.length; gi2++) {
+                var gk2 = normalizePollenSlug(endpoint.pollen_keys[gi2]);
+                if (gk2 && pollenIndex[gk2]) {
+                  const entryImgs2 = imagesFromIndexEntry(pollenIndex[gk2]);
+                  if (entryImgs2 && entryImgs2.length > 0) reps.push(entryImgs2[0]);
+                } else if (gk2) {
                   reps.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
                 }
               }
@@ -1305,6 +1351,9 @@
           const resolvedRow = resolveEndpointFromIndex(ch.id, pollenIndex);
           if (ch.id.text) {
             result = ch.id.text;
+          } else if (nameHasMarkdownLink(ch.id.name)) {
+            // Family/class page links in name take priority over pollen_key exemplar.
+            result = ch.id.name;
           } else if (resolvedRow) {
             const pk = normalizePollenSlug(ch.id.pollen_key);
             const faux = fauxPollenEntryFromResolved(resolvedRow);
