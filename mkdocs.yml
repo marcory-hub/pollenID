@@ -48,11 +48,16 @@ extra_javascript:
 nav:
   - Home: index.md
   - Keys: Identificatiesleutels/_index.md
-  - Leerpad:
-      - Overzicht: leerpad/_index.md
-      - "Niveau 1": leerpad/niveau-1.md
-      - "Niveau 2": leerpad/niveau-2.md
-      - "Niveau 3-5": leerpad/niveau-3-5.md
+  - PollenGalerie:
+      - Overzicht: pollen-gallery/_index.md
+      - "Veel voorkomend (NL)": pollen-gallery/gallery-nl-common.md
+      - "Makkelijk herkenbaar (NL)": pollen-gallery/gallery-nl-easy.md
+      - "Clusters (NL)": pollen-gallery/gallery-nl-clusters.md
+      - "Secundaire inbreng (NL)": pollen-gallery/gallery-nl-secondary.md
+      - "Minder algemeen (NL)": pollen-gallery/gallery-nl-less-common.md
+      - "EU buiten NL": pollen-gallery/gallery-eu-non-nl.md
+      - "Buiten EU": pollen-gallery/gallery-non-eu.md
+      - "Non-pollen": pollen-gallery/gallery-non-pollen.md
   - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md
