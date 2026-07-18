@@ -66,7 +66,23 @@ rubus_fruticosus:
 
 ## Determinatiesleutels
 
-[to be verified]
+Kerkvliet gebruikt de spelling `rubus_fructicosus`. Beug/van der Ham: geen match in JSON voor dit taxon.
+
+
+### Beug
+Geen pad in Beug-JSON voor deze `pollen_key`.
+
+### Vanderham
+Geen pad in van der Ham-JSON voor deze `pollen_key`.
+
+
+### Kerkvliet
+<details><summary>kerkvliet_determinatietabel</summary>
+
+- Sectie: Pollen met groeven
+
+</details>
+
 
 ## Online databases
 

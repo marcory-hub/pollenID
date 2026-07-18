@@ -91,9 +91,30 @@ taraxacum_officinale:
 - Stap 6:
   - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met ronde of hoekige zones (lacunae, vensters) waarin de extexine ontbreekt en die door ribben zijn omzoomd. Vooral bekend van de vele vertegenwoordigers van de Composietenfamilie (Asteraceae)</span>
   - <span class="pid-key-choice pid-key-choice--off">Pollenkorrel zonder dergelijke lacunae.</span>
-- Eindpunt: [Fenestratae](beug06-fenestratae.md)
+- Eindpunt: [Fenestratae](beug29-fenestratae.md)
 
 </details>
+
+### Vanderham
+<details><summary>Pollentabel (van der Ham)</summary>
+
+- Stap 1:
+  - <span class="pid-key-choice pid-key-choice--off">vier pollenkorrels bij elkaar (tetrade)</span>
+  - <span class="pid-key-choice pid-key-choice--on">één losse pollenkorrel (monade)</span>
+- Stap 3:
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met twee luchtzakken (vesiculaat)</span>
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel zonder luchtzakken</span>
+- Stap 4:
+  - <span class="pid-key-choice pid-key-choice--on">pollenkorrel met ‘vensters’ (fenestraat)</span>
+  - <span class="pid-key-choice pid-key-choice--off">pollenkorrel zonder ‘vensters’</span>
+- Eindpunt: Asteraceae (*Cichorium, Hieracium, Lactuca, Sonchus, Taraxacum*)
+
+</details>
+
+### Kerkvliet
+Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
+
+
 
 ## Online databases
 

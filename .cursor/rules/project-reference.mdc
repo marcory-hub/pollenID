@@ -40,35 +40,35 @@ docs/
 │   └── <uniflorale_honing>.md        # nav children (Zonnebloem, ...)
 ├── nederlandse-honing-pollen/
 │   ├── _index.md                     # nav: Nederlands (Overzicht)
-│   └── <taxon>.md                    # nav children (A–Z-lijst)
+│   ├── beug-klassen/                 # category-first learning path (pilot)
+│   │   ├── klasse-*.md               # Beug-class landings
+│   │   └── <family-or-type>.md       # family/type landings → existing taxon pages
+│   └── <taxon>.md                    # taxon pages (slugs unchanged)
+│       # nav: Beug-class > family/type (pilot); Overige (A-Z) for the rest
 ├── secundaire-inbreng/
 │   ├── _index.md                     # nav: Secundair (Overzicht)
 │   └── <taxon>.md
-├── sporadische-pollen/
+├── sporadische-eu-pollen/
 │   ├── _index.md                     # nav: Sporadisch (Overzicht)
-│   └── <taxon>.md
+│   └── bepalingshulp-pollenklassen.md
 ├── niet-eu-pollen/
 │   ├── _index.md                     # nav: niet-EU
 │   └── <taxon>.md
 ├── dubbelgangers/
 │   ├── _index.md                     # nav: Dubbelgangers (Overzicht)
 │   └── <dubbelganger>.md             # nav children (Acer/Amaryllidaceae/Betulaceae/...)
-├── naslag/                           # documentation for the agent lives in .cursor/docs 
-│   ├── index.md                      # nav: Naslag
-│   ├── botanische-herkomst.md
-│   ├── detailvergroting.md
-│   ├── honingdauwhoning.md
-│   ├── kristallen-in-honing.md
-│   ├── monofloraal-groepsindeling.md
-│   ├── monofloraal-naslag.md
-│   ├── opvallende-kenmerken.md
-│   ├── overzichtsvergroting.md
-│   ├── palynoquest.md
-│   ├── referenties.md
-│   └── secundaire-inbreng.md
-├── assets/                            # shared media (gebruik: relative paths assets/images/…)
+├── naslag/
+│   ├── _index.md                     # nav: Naslag
+│   ├── synoniemen-en-basioniemen.md
+│   ├── pollen-staining-protocols.md
+│   └── palynoquest.md                # also nav: Willekeurig
+├── assets/                            # shared media (relative paths assets/images/…)
 ├── stylesheets/
-│   └── extra.css                      # opgenomen in mkdocs.yml
+│   └── extra.css                      # in mkdocs.yml
 ├── javascripts/
-│   └── vdh-pollentabel.js             # opgenomen in mkdocs.yml
+│   ├── vdh-pollentabel.js
+│   ├── kerkvliet-determinatietabel.js
+│   └── palynoquest.js
 └── tags.md
+
+Note: `notes/pollenID/_project_layout_pid.md` still mentions stale folders (`palynologie-paginas/`, `pollen-determineren/`, `verdiepingsset/`); do not treat those as current layout. Agent docs for scripts live under `.cursor/docs/`, not `docs/naslag/`.

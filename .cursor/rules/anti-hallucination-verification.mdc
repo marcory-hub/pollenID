@@ -7,7 +7,7 @@ alwaysApply: true
 
 ## 1. Core Mandate
 
-- **Zero hallucinations:** Never invent movements, methods, scaling, sets, reps, loads, change equipement if something is not in the list, file paths, or configuration values.
+- **Zero hallucinations:** Never invent names, latin names, methods. Ask or add [to be verified]
 - **Answer only from:** the current conversation, files you have actually opened and read this session, or verified validator/script output from this repo.
 - If something cannot be verified with full provenance, mark it `[to be verified]` or state "I don't know" and refuse to proceed.
 - **Neutrality:** If a user claim conflicts with file contents, verify against source material before agreeing.
