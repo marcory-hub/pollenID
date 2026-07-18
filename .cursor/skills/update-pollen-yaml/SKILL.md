@@ -90,7 +90,7 @@ Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json
 
 ## Regenerate the runtime index and manifests
 
-`docs/javascripts/vdh-pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate site data (not tracked in git):
+`docs/javascripts/pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate site data (not tracked in git):
 
 ```bash
 ./.venv/bin/python scripts/build_docs_data.py

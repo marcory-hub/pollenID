@@ -61,7 +61,7 @@
 }
 
 /* Pollentabel (van der Ham) interactief */
-.vdh-pollentabel {
+.pollentabel {
   margin: 1rem 0 1.5rem;
   padding: 1rem;
   border-radius: 0.2rem;
@@ -69,11 +69,11 @@
   background-color: var(--md-code-bg-color);
 }
 
-.vdh-pollentabel-step h4 {
+.pollentabel-step h4 {
   margin-top: 0;
 }
 
-.vdh-pollentabel-prev-fork {
+.pollentabel-prev-fork {
   margin: 0 0 0.75rem;
   padding: 0.65rem 0.85rem;
   border-radius: 0.2rem;
@@ -81,37 +81,37 @@
   background: color-mix(in srgb, var(--md-default-fg-color) 4%, transparent);
 }
 
-.vdh-pollentabel-prev-fork h5 {
+.pollentabel-prev-fork h5 {
   margin: 0 0 0.45rem;
   font-size: 0.82rem;
   font-weight: 600;
 }
 
-.vdh-pollentabel-prev-fork-groups {
+.pollentabel-prev-fork-groups {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
   align-items: flex-end;
 }
 
-.vdh-pollentabel-prev-fork-group {
+.pollentabel-prev-fork-group {
   flex: 1 1 12rem;
   min-width: 10rem;
 }
 
-.vdh-pollentabel-prev-fork-label {
+.pollentabel-prev-fork-label {
   font-size: 0.76rem;
   line-height: 1.35;
   margin-bottom: 0.2rem;
 }
 
-.vdh-pollentabel-prev-fork-empty {
+.pollentabel-prev-fork-empty {
   margin: 0;
   font-size: 0.76rem;
   color: var(--md-default-fg-color--lighter);
 }
 
-.vdh-pollentabel-img-with-hint {
+.pollentabel-img-with-hint {
   display: inline-flex;
   flex-direction: column;
   align-items: center;
@@ -119,7 +119,7 @@
   vertical-align: top;
 }
 
-.vdh-pollentabel-ph-hint {
+.pollentabel-ph-hint {
   font-size: 0.68rem;
   font-weight: 600;
   line-height: 1;
@@ -127,7 +127,7 @@
 }
 
 /* Geen theme .md-button: die gaf laag contrast (blauw op grijs). */
-.vdh-pollentabel-btn {
+.pollentabel-btn {
   display: inline-block;
   margin: 0.35rem 0.5rem 0.35rem 0;
   padding: 0.5em 0.85em;
@@ -140,7 +140,7 @@
 }
 
 /* Keuzes: rustige rand (grijs), tekst helder */
-.vdh-pollentabel-btn--choice {
+.pollentabel-btn--choice {
   display: block;
   width: 100%;
   max-width: 48rem;
@@ -151,71 +151,71 @@
   text-align: left;
 }
 
-.vdh-pollentabel-btn--choice:hover {
+.pollentabel-btn--choice:hover {
   background: color-mix(in srgb, var(--md-default-fg-color) 6%, transparent);
   color: var(--md-default-fg-color);
   border-color: var(--md-default-fg-color--lighter);
 }
 
-.vdh-pollentabel-btn--choice:focus-visible {
+.pollentabel-btn--choice:focus-visible {
   outline: 2px solid var(--md-default-fg-color--light);
   outline-offset: 2px;
 }
 
-.vdh-pollentabel-btn--nav {
+.pollentabel-btn--nav {
   background: transparent;
   color: var(--md-typeset-a-color, var(--md-primary-bg-color));
   border: 1.5px solid var(--md-default-fg-color--light);
   text-align: center;
 }
 
-.vdh-pollentabel-btn--nav:hover {
+.pollentabel-btn--nav:hover {
   background: color-mix(in srgb, var(--md-default-fg-color) 6%, transparent);
   color: var(--md-typeset-a-color, var(--md-primary-bg-color));
   border-color: var(--md-default-fg-color--lighter);
 }
 
-.vdh-pollentabel-btn--nav:focus-visible {
+.pollentabel-btn--nav:focus-visible {
   outline: 2px solid var(--md-default-fg-color--light);
   outline-offset: 2px;
 }
 
-.vdh-pollentabel-nav {
+.pollentabel-nav {
   margin-top: 0.75rem;
   padding-top: 0.75rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.vdh-pollentabel-outcome {
+.pollentabel-outcome {
   margin-top: 1rem;
 }
 
-.vdh-pollentabel-outcome h4 {
+.pollentabel-outcome h4 {
   margin-top: 0;
 }
 
-.vdh-pollentabel-outcome p em,
-.vdh-pollentabel-table-grid td em,
-.vdh-pollentabel-btn--choice em {
+.pollentabel-outcome p em,
+.pollentabel-table-grid td em,
+.pollentabel-btn--choice em {
   font-style: italic;
 }
 
-.vdh-pollentabel-outcome-table {
+.pollentabel-outcome-table {
   width: auto;
   margin: 0.25rem 0 0.5rem;
   border-collapse: collapse;
   font-size: 0.9rem;
 }
 
-.vdh-pollentabel-outcome-table th,
-.vdh-pollentabel-outcome-table td {
+.pollentabel-outcome-table th,
+.pollentabel-outcome-table td {
   padding: 0.25rem 0.6rem;
   vertical-align: top;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
   text-align: left;
 }
 
-.vdh-pollentabel-outcome-table th {
+.pollentabel-outcome-table th {
   font-weight: 600;
   color: var(--md-default-fg-color--light);
   white-space: nowrap;
@@ -243,11 +243,11 @@
 }
 
 /* Platte pollentabel (JSON → filterbare tabel) */
-.vdh-pollentabel-table {
+.pollentabel-table {
   margin: 1rem 0 1.5rem;
 }
 
-.vdh-pollentabel-table-toolbar {
+.pollentabel-table-toolbar {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -255,13 +255,13 @@
   margin-bottom: 0.75rem;
 }
 
-.vdh-pollentabel-table-filter-label {
+.pollentabel-table-filter-label {
   font-size: 0.85rem;
   font-weight: 600;
   color: var(--md-default-fg-color--light);
 }
 
-.vdh-pollentabel-table-filter {
+.pollentabel-table-filter {
   flex: 1 1 12rem;
   min-width: 10rem;
   max-width: 28rem;
@@ -273,25 +273,25 @@
   color: var(--md-default-fg-color);
 }
 
-.vdh-pollentabel-table-count {
+.pollentabel-table-count {
   margin: 0;
   font-size: 0.8rem;
   color: var(--md-default-fg-color--light);
 }
 
-.vdh-pollentabel-table-scroll {
+.pollentabel-table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   border-radius: 0.2rem;
   border: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.vdh-pollentabel-table-fork {
+.pollentabel-table-fork {
   margin: 0 0 0.45rem;
   max-width: 100%;
 }
 
-.vdh-pollentabel-table-fork-caption {
+.pollentabel-table-fork-caption {
   font-size: 0.72rem;
   font-weight: 600;
   color: var(--md-default-fg-color--lighter);
@@ -299,14 +299,14 @@
   white-space: nowrap;
 }
 
-.vdh-pollentabel-table-fork-scroll {
+.pollentabel-table-fork-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   max-width: 100%;
   padding-bottom: 0.2rem;
 }
 
-.vdh-pollentabel-table-fork-strip {
+.pollentabel-table-fork-strip {
   display: flex;
   flex-wrap: nowrap;
   align-items: flex-end;
@@ -314,14 +314,14 @@
   width: max-content;
 }
 
-.vdh-pollentabel-table-fork-choice-chunk {
+.pollentabel-table-fork-choice-chunk {
   flex: 0 0 auto;
   display: inline-flex;
   flex-direction: column;
   justify-content: flex-end;
 }
 
-.vdh-pollentabel-table-fork-sep {
+.pollentabel-table-fork-sep {
   flex: 0 0 auto;
   width: 1px;
   min-height: 2rem;
@@ -330,7 +330,7 @@
   background: var(--md-default-fg-color--lightest);
 }
 
-.vdh-pollentabel-table-fork-empty {
+.pollentabel-table-fork-empty {
   flex: 0 0 auto;
   font-size: 0.72rem;
   color: var(--md-default-fg-color--lighter);
@@ -338,47 +338,47 @@
   align-self: center;
 }
 
-.vdh-pollentabel-table-td-result {
+.pollentabel-table-td-result {
   max-width: none;
 }
 
-.vdh-pollentabel-table-grid {
+.pollentabel-table-grid {
   width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
   font-size: 0.82rem;
 }
 
-.vdh-pollentabel-table-grid th,
-.vdh-pollentabel-table-grid td {
+.pollentabel-table-grid th,
+.pollentabel-table-grid td {
   padding: 0.45rem 0.55rem;
   text-align: left;
   vertical-align: top;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 
-.vdh-pollentabel-table-grid th:first-child,
-.vdh-pollentabel-table-grid td:first-child {
+.pollentabel-table-grid th:first-child,
+.pollentabel-table-grid td:first-child {
   width: 3.75rem;
   white-space: nowrap;
 }
 
-.vdh-pollentabel-table-grid th:nth-child(2),
-.vdh-pollentabel-table-grid td:nth-child(2) {
+.pollentabel-table-grid th:nth-child(2),
+.pollentabel-table-grid td:nth-child(2) {
   width: 32%;
 }
 
-.vdh-pollentabel-table-grid th:last-child,
-.vdh-pollentabel-table-grid td:last-child {
+.pollentabel-table-grid th:last-child,
+.pollentabel-table-grid td:last-child {
   width: auto;
   min-width: 0;
 }
 
-.vdh-pollentabel-table-grid td:last-child {
+.pollentabel-table-grid td:last-child {
   overflow-x: auto;
 }
 
-.vdh-pollentabel-table-grid th {
+.pollentabel-table-grid th {
   position: sticky;
   top: 0;
   z-index: 1;
@@ -437,7 +437,7 @@
   white-space: pre;
 }
 
-.vdh-pollentabel-table-td-result .pid-pollen-morph-tail {
+.pollentabel-table-td-result .pid-pollen-morph-tail {
   white-space: pre;
 }
 
@@ -485,7 +485,7 @@
   }
 }
 
-.vdh-pollentabel-td-step {
+.pollentabel-td-step {
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
   width: 3rem;
@@ -504,11 +504,11 @@ article.md-content__inner.md-typeset h3 {
 }
 
 /* Interactieve sleutel: stap-/eindpunt-koppen niet sticky. */
-article.md-content__inner.md-typeset .vdh-pollentabel h2,
-article.md-content__inner.md-typeset .vdh-pollentabel h3,
-article.md-content__inner.md-typeset .vdh-pollentabel h4,
-article.md-content__inner.md-typeset .vdh-pollentabel h5,
-article.md-content__inner.md-typeset .vdh-pollentabel h6 {
+article.md-content__inner.md-typeset .pollentabel h2,
+article.md-content__inner.md-typeset .pollentabel h3,
+article.md-content__inner.md-typeset .pollentabel h4,
+article.md-content__inner.md-typeset .pollentabel h5,
+article.md-content__inner.md-typeset .pollentabel h6 {
   position: static;
   z-index: auto;
   padding: revert;

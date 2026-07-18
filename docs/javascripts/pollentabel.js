@@ -1,5 +1,5 @@
 /**
- * Pollentabel (van der Ham): wizard + platte tabel uit vanderham-pollentabel.json.
+ * Pollentabel: shared dichotomous-key wizard + overview table (Beug, van der Ham, …).
  * Werkt met MkDocs Material instant navigation wanneer document$ beschikbaar is.
  * data-json-url: relatief pad; wordt opgelost met document.baseURI (directory URLs + instant nav).
  * Eindpunttekst: *cursief* + Markdown-links [label](https://…) alleen voor http(s); regelwit in JSON (\n) → <br />.
@@ -7,8 +7,8 @@
 (function () {
   "use strict";
 
-  const ROOT_KEY = "vdh-pollentabel-root";
-  const ROOT_TABLE = "vdh-pollentabel-table-root";
+  const ROOT_KEY = "pollentabel-root";
+  const ROOT_TABLE = "pollentabel-table-root";
 
   /** @type {Map<string, Promise<unknown>>} */
   const jsonCache = new Map();
@@ -192,7 +192,7 @@
         out +=
           '<a href="' +
           escAttr(href) +
-          '" class="vdh-pollentabel-outcome-link" rel="noopener noreferrer" target="_blank">' +
+          '" class="pollentabel-outcome-link" rel="noopener noreferrer" target="_blank">' +
           formatEmphasisAst(m[1]) +
           "</a>";
       } else if (/\.md$/i.test(href) || /^\.\.\//.test(href) || /^\.\//.test(href)) {
@@ -201,7 +201,7 @@
           out +=
             '<a href="' +
             escAttr(abs) +
-            '" class="vdh-pollentabel-outcome-link-internal">' +
+            '" class="pollentabel-outcome-link-internal">' +
             formatEmphasisAst(m[1]) +
             "</a>";
         } catch (e) {
@@ -568,7 +568,7 @@
 
   function renderEndpointTable(resolved) {
     const table = document.createElement("table");
-    table.className = "vdh-pollentabel-outcome-table";
+    table.className = "pollentabel-outcome-table";
     const tbody = document.createElement("tbody");
     const rows = [];
     if (!isMissingValue(resolved.latin)) {
@@ -872,10 +872,10 @@
 
       if (ph && branchHint) {
         const cell = document.createElement("span");
-        cell.className = "vdh-pollentabel-img-with-hint";
+        cell.className = "pollentabel-img-with-hint";
         cell.appendChild(img);
         const hintEl = document.createElement("span");
-        hintEl.className = "vdh-pollentabel-ph-hint";
+        hintEl.className = "pollentabel-ph-hint";
         hintEl.textContent = branchHint;
         cell.appendChild(hintEl);
         flexRow.appendChild(cell);
@@ -892,7 +892,7 @@
     renderOpts = renderOpts || {};
     if (!Array.isArray(images) || images.length === 0) return;
     const row = document.createElement("div");
-    row.className = "vdh-pollentabel-images-row";
+    row.className = "pollentabel-images-row";
     row.style.display = "flex";
     row.style.flexWrap = "nowrap";
     row.style.gap = "6px";
@@ -941,21 +941,21 @@
     if (!forkStep.choices || forkStep.choices.length === 0) return;
 
     var wrap = document.createElement("div");
-    wrap.className = "vdh-pollentabel-table-fork";
+    wrap.className = "pollentabel-table-fork";
     var cap = document.createElement("div");
-    cap.className = "vdh-pollentabel-table-fork-caption";
+    cap.className = "pollentabel-table-fork-caption";
     cap.textContent = "Splitsing bij stap " + String(forkStepId);
     wrap.appendChild(cap);
 
     var sc = document.createElement("div");
-    sc.className = "vdh-pollentabel-table-fork-scroll";
+    sc.className = "pollentabel-table-fork-scroll";
     var strip = document.createElement("div");
-    strip.className = "vdh-pollentabel-table-fork-strip";
+    strip.className = "pollentabel-table-fork-strip";
 
     forkStep.choices.forEach(function (ch, idx) {
       if (idx > 0) {
         var sep = document.createElement("span");
-        sep.className = "vdh-pollentabel-table-fork-sep";
+        sep.className = "pollentabel-table-fork-sep";
         sep.setAttribute("aria-hidden", "true");
         strip.appendChild(sep);
       }
@@ -968,12 +968,12 @@
         ", afbeelding)";
       if (imgs.length === 0) {
         var emp = document.createElement("span");
-        emp.className = "vdh-pollentabel-table-fork-empty";
+        emp.className = "pollentabel-table-fork-empty";
         emp.textContent = "(geen afbeelding)";
         strip.appendChild(emp);
       } else {
         var chunk = document.createElement("div");
-        chunk.className = "vdh-pollentabel-table-fork-choice-chunk";
+        chunk.className = "pollentabel-table-fork-choice-chunk";
         renderImagesRow(chunk, imgs, baseUrl || document.baseURI, altP, {
           placeholderBranchHint: hint,
           compactRow: true,
@@ -995,19 +995,19 @@
     if (!forkStep || !Array.isArray(forkStep.choices) || forkStep.choices.length === 0) return;
 
     var box = document.createElement("div");
-    box.className = "vdh-pollentabel-prev-fork";
+    box.className = "pollentabel-prev-fork";
     var h = document.createElement("h5");
     h.textContent = "Voorgaande splitsing (stap " + String(forkStepId) + ")";
     box.appendChild(h);
 
     var groups = document.createElement("div");
-    groups.className = "vdh-pollentabel-prev-fork-groups";
+    groups.className = "pollentabel-prev-fork-groups";
 
     forkStep.choices.forEach(function (ch, idx) {
       var grp = document.createElement("div");
-      grp.className = "vdh-pollentabel-prev-fork-group";
+      grp.className = "pollentabel-prev-fork-group";
       var cap = document.createElement("div");
-      cap.className = "vdh-pollentabel-prev-fork-label";
+      cap.className = "pollentabel-prev-fork-label";
       cap.innerHTML = formatEmphasisAst(String(ch.label || "Optie " + (idx + 1)));
       grp.appendChild(cap);
 
@@ -1015,7 +1015,7 @@
       var hint = choicePlaceholderHint(ch);
       if (imgs.length === 0) {
         var empty = document.createElement("p");
-        empty.className = "vdh-pollentabel-prev-fork-empty";
+        empty.className = "pollentabel-prev-fork-empty";
         empty.textContent = "(Geen afbeelding)";
         grp.appendChild(empty);
       } else {
@@ -1042,14 +1042,14 @@
     let currentStepId = String(start);
 
     const wrap = document.createElement("div");
-    wrap.className = "vdh-pollentabel md-typeset";
+    wrap.className = "pollentabel md-typeset";
 
     const stepEl = document.createElement("div");
-    stepEl.className = "vdh-pollentabel-step";
+    stepEl.className = "pollentabel-step";
     const actionsEl = document.createElement("div");
-    actionsEl.className = "vdh-pollentabel-actions";
+    actionsEl.className = "pollentabel-actions";
     const outcomeEl = document.createElement("div");
-    outcomeEl.className = "vdh-pollentabel-outcome";
+    outcomeEl.className = "pollentabel-outcome";
     outcomeEl.hidden = true;
 
     wrap.appendChild(stepEl);
@@ -1109,7 +1109,7 @@
       choices.forEach(function (ch, idx) {
         const btn = document.createElement("button");
         btn.type = "button";
-        btn.className = "vdh-pollentabel-btn vdh-pollentabel-btn--choice";
+        btn.className = "pollentabel-btn pollentabel-btn--choice";
         const labelSpan = document.createElement("span");
         const labelText = ch.label || "Optie " + (idx + 1);
         labelSpan.innerHTML = formatEmphasisAst(labelText);
@@ -1271,12 +1271,12 @@
 
     function addNavRow() {
       const row = document.createElement("div");
-      row.className = "vdh-pollentabel-nav";
+      row.className = "pollentabel-nav";
 
       if (stack.length > 0) {
         const back = document.createElement("button");
         back.type = "button";
-        back.className = "vdh-pollentabel-btn vdh-pollentabel-btn--nav";
+        back.className = "pollentabel-btn pollentabel-btn--nav";
         back.textContent = "Eén stap terug";
         back.addEventListener("click", function () {
           const prev = stack.pop();
@@ -1287,7 +1287,7 @@
 
       const reset = document.createElement("button");
       reset.type = "button";
-      reset.className = "vdh-pollentabel-btn vdh-pollentabel-btn--nav";
+      reset.className = "pollentabel-btn pollentabel-btn--nav";
       reset.textContent = "Opnieuw beginnen";
       reset.addEventListener("click", function () {
         stack.length = 0;
@@ -1300,10 +1300,10 @@
 
     function addResetRow() {
       const row = document.createElement("div");
-      row.className = "vdh-pollentabel-nav";
+      row.className = "pollentabel-nav";
       const reset = document.createElement("button");
       reset.type = "button";
-      reset.className = "vdh-pollentabel-btn vdh-pollentabel-btn--nav";
+      reset.className = "pollentabel-btn pollentabel-btn--nav";
       reset.textContent = "Opnieuw beginnen";
       reset.addEventListener("click", function () {
         stack.length = 0;
@@ -1316,11 +1316,11 @@
     /** Eén rij: terug + opnieuw na eindpunt */
     function addOutcomeNavRow() {
       const row = document.createElement("div");
-      row.className = "vdh-pollentabel-nav";
+      row.className = "pollentabel-nav";
       if (stack.length > 0) {
         const back = document.createElement("button");
         back.type = "button";
-        back.className = "vdh-pollentabel-btn vdh-pollentabel-btn--nav";
+        back.className = "pollentabel-btn pollentabel-btn--nav";
         back.textContent = "Eén stap terug";
         back.addEventListener("click", function () {
           outcomeEl.hidden = true;
@@ -1332,7 +1332,7 @@
       }
       const reset = document.createElement("button");
       reset.type = "button";
-      reset.className = "vdh-pollentabel-btn vdh-pollentabel-btn--nav";
+      reset.className = "pollentabel-btn pollentabel-btn--nav";
       reset.textContent = "Opnieuw beginnen";
       reset.addEventListener("click", function () {
         stack.length = 0;
@@ -1359,7 +1359,7 @@
       chooseByIndex: function (choiceIdx) {
         const idx = Number(choiceIdx);
         if (!Number.isFinite(idx)) return false;
-        const buttons = actionsEl.querySelectorAll(".vdh-pollentabel-btn--choice");
+        const buttons = actionsEl.querySelectorAll(".pollentabel-btn--choice");
         const btn = buttons && buttons[idx];
         if (btn && typeof btn.click === "function") {
           btn.click();
@@ -1439,25 +1439,25 @@
     const steps = data.steps || {};
     const incomingParent = computeIncomingParentStepIds(steps);
     const wrap = document.createElement("div");
-    wrap.className = "vdh-pollentabel-table md-typeset";
+    wrap.className = "pollentabel-table md-typeset";
 
     const toolbar = document.createElement("div");
-    toolbar.className = "vdh-pollentabel-table-toolbar";
+    toolbar.className = "pollentabel-table-toolbar";
 
     const label = document.createElement("label");
-    label.className = "vdh-pollentabel-table-filter-label";
-    label.setAttribute("for", "vdh-pollentabel-filter");
+    label.className = "pollentabel-table-filter-label";
+    label.setAttribute("for", "pollentabel-filter");
     label.textContent = "Filter (stap, keuze, eindpunt)";
 
     const input = document.createElement("input");
-    input.id = "vdh-pollentabel-filter";
+    input.id = "pollentabel-filter";
     input.type = "search";
-    input.className = "vdh-pollentabel-table-filter";
+    input.className = "pollentabel-table-filter";
     input.setAttribute("autocomplete", "off");
     input.setAttribute("placeholder", "Typ om rijen te verbergen…");
 
     const count = document.createElement("p");
-    count.className = "vdh-pollentabel-table-count";
+    count.className = "pollentabel-table-count";
     count.setAttribute("aria-live", "polite");
 
     toolbar.appendChild(label);
@@ -1465,10 +1465,10 @@
     toolbar.appendChild(count);
 
     const scroll = document.createElement("div");
-    scroll.className = "vdh-pollentabel-table-scroll";
+    scroll.className = "pollentabel-table-scroll";
 
     const table = document.createElement("table");
-    table.className = "vdh-pollentabel-table-grid";
+    table.className = "pollentabel-table-grid";
 
     const thead = document.createElement("thead");
     const hr = document.createElement("tr");
@@ -1491,7 +1491,7 @@
 
       const tdS = document.createElement("td");
       tdS.textContent = row.sid;
-      tdS.className = "vdh-pollentabel-td-step";
+      tdS.className = "pollentabel-td-step";
 
       const tdL = document.createElement("td");
       if (row.label.indexOf("*") !== -1) {
@@ -1503,12 +1503,12 @@
       const tdR = document.createElement("td");
       if (row.kind.indexOf("eindpunt") === 0) {
         const outP = document.createElement("div");
-        outP.className = "vdh-pollentabel-table-td-result";
+        outP.className = "pollentabel-table-td-result";
         outP.innerHTML = formatOutcomeRichText(row.result);
         tdR.appendChild(outP);
       } else {
         const outP = document.createElement("div");
-        outP.className = "vdh-pollentabel-table-td-result";
+        outP.className = "pollentabel-table-td-result";
         outP.textContent = row.result;
         tdR.appendChild(outP);
       }
@@ -1570,14 +1570,14 @@
 
     root.replaceChildren();
     root.innerHTML =
-      '<p class="vdh-pollentabel-status">' + esc("Laden…") + "</p>";
+      '<p class="pollentabel-status">' + esc("Laden…") + "</p>";
 
     Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndex(dataAbsUrl)])
       .then(function (res) {
         const data = res[0];
         const pollenIndex = res[1] || {};
         root.replaceChildren();
-        root.__vdhPollentabelController = runKey(root, data, dataAbsUrl, pollenIndex);
+        root.__pollentabelController = runKey(root, data, dataAbsUrl, pollenIndex);
       })
       .catch(function (e) {
         root.innerHTML =
@@ -1596,7 +1596,7 @@
 
     root.replaceChildren();
     root.innerHTML =
-      '<p class="vdh-pollentabel-status">' + esc("Tabel laden…") + "</p>";
+      '<p class="pollentabel-status">' + esc("Tabel laden…") + "</p>";
 
     Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndex(dataAbsUrl)])
       .then(function (res) {

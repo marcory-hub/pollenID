@@ -57,7 +57,7 @@ docs/
 ├── stylesheets/
 │   └── extra.css                      # in mkdocs.yml
 ├── javascripts/
-│   ├── vdh-pollentabel.js
+│   ├── pollentabel.js
 │   ├── kerkvliet-determinatietabel.js
 │   └── palynoquest.js
 └── tags.md

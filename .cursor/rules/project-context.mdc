@@ -53,8 +53,8 @@ Before architectural or roadmap answers:
 
 ### Keys (`docs/keys/`)
 - **Gated edits**: Do not **create, modify, delete, rename, or add placeholder** files under **`docs/keys/`** unless the user **explicitly** asks for a keys change. A concrete keys task (named file, JSON fix, new sleutel) counts; general doc or JS work does **not** authorize touching **`docs/keys/`**.
-- **Layout**: Interactive dichotomous keys live in **`docs/keys/beug/`** (Beug), **`docs/keys/vanderham/`** (van der Ham pollentabel), and **`docs/keys/kerkvliet/`** (Kerkvliet determinatietabel). Paired MkDocs pages under **`docs/Identificatiesleutels/`** load JSON via **`data-json-url`**; behaviour is implemented in **`docs/javascripts/vdh-pollentabel.js`**. Pedagogy and wiring details: **`.cursor/skills/interactive-pollen-key/SKILL.md`**.
-- **JSON structure** (contract for `vdh-pollentabel.js`; do not invent sibling keys the script does not use):
+- **Layout**: Interactive dichotomous keys live in **`docs/keys/beug/`** (Beug), **`docs/keys/vanderham/`** (van der Ham pollentabel), and **`docs/keys/kerkvliet/`** (Kerkvliet determinatietabel). Paired MkDocs pages under **`docs/Identificatiesleutels/`** load JSON via **`data-json-url`**; behaviour is implemented in **`docs/javascripts/pollentabel.js`**. Pedagogy and wiring details: **`.cursor/skills/interactive-pollen-key/SKILL.md`**.
+- **JSON structure** (contract for `pollentabel.js`; do not invent sibling keys the script does not use):
   - **`meta`**: `key` (string; project convention: basename of the JSON file), `title`, `locale`, `source`, `start` (step id string), `stepCount` (number). Some files may include optional fields such as `note`; follow neighbouring keys unless the user specifies otherwise.
   - **Top-level `start`**: step id string; wizard entry (same id as `meta.start`).
   - **`steps`**: object keyed by step id strings. Each step: `id`, `type` (`"step"`), `choices` (array). Optional: step `note`.
@@ -65,7 +65,7 @@ Before architectural or roadmap answers:
     - Optional endpoint images:
       - **`outcome.images`**: array of `{ image, imageWidthPx }` shown at the endpoint and in the overzicht.
       - Backward compatible: `outcome.image` + `outcome.imageWidthPx` (single image) is supported, but prefer `outcome.images`.
-  - **Markup in strings**: paired `*…*` for emphasis in labels and outcomes; in outcomes, `[label](url)` is turned into a link **only** for `http:` / `https:` URLs (see **`docs/javascripts/vdh-pollentabel.js`**).
+  - **Markup in strings**: paired `*…*` for emphasis in labels and outcomes; in outcomes, `[label](url)` is turned into a link **only** for `http:` / `https:` URLs (see **`docs/javascripts/pollentabel.js`**).
 Note:  beug03-polyadeae.md and beug05-dyade.md do NOT contain links to json file! Do not change these files or invent JSON files
 
 ## 6. Conflict handling

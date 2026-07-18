@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Export data/pollen.yaml to docs/data/pollen.json for runtime use.
 
-Writes a deterministic JSON index so `docs/javascripts/vdh-pollentabel.js`
+Writes a deterministic JSON index so `docs/javascripts/pollentabel.js`
 and MkDocs macros can resolve taxon info from the SoT.
 
 Each exported taxon includes:
@@ -189,7 +189,7 @@ def main() -> int:
         mf = monofloral_pages.get(str(key))
         if mf:
             built["monofloral_honey_page"] = mf
-        # Runtime taxon-page link resolution (vdh-pollentabel.js, kerkvliet-determinatietabel.js)
+        # Runtime taxon-page link resolution (pollentabel.js, kerkvliet-determinatietabel.js)
         # defaults to pollen/species/<pollen_key>.md when no monofloral page is set.
         # Flag entries with neither so the JS can skip the link instead of pointing at a 404.
         built["has_taxon_page"] = bool(mf) or str(key) in species_slugs

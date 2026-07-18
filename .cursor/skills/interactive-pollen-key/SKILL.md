@@ -1,7 +1,7 @@
 ---
 name: interactive-pollen-key
 description: >-
-  Dichotomous pollen keys as JSON + MkDocs page using vdh-pollentabel.js. German source, Dutch in docs/ and JSON strings. Use for Beug/van der Ham style keys and branches from docs/Identificatiesleutels/_index.md.
+  Dichotomous pollen keys as JSON + MkDocs page using pollentabel.js. German source, Dutch in docs/ and JSON strings. Use for Beug/van der Ham style keys and branches from docs/Identificatiesleutels/_index.md.
 ---
 
 # Interactive pollen / honey key (JSON + MkDocs)
@@ -17,7 +17,7 @@ description: >-
 
 ## Before you start
 
-Read **one** existing JSON under `docs/keys/vanderham/` or `docs/keys/beug/` and its paired `.md` under `docs/Identificatiesleutels/`. Implementation details: `docs/javascripts/vdh-pollentabel.js`, italics via `docs/stylesheets/extra.css` (`.vdh-pollentabel-btn--choice em`).
+Read **one** existing JSON under `docs/keys/vanderham/` or `docs/keys/beug/` and its paired `.md` under `docs/Identificatiesleutels/`. Implementation details: `docs/javascripts/pollentabel.js`, italics via `docs/stylesheets/extra.css` (`.pollentabel-btn--choice em`).
 
 ## JSON contract
 
@@ -41,11 +41,11 @@ Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 ```markdown
 # <Nederlandse titel>
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/<map>/<bestandsnaam>.json"></div>
+<div id="pollentabel-root" data-json-url="../../keys/<map>/<bestandsnaam>.json"></div>
 
 ### Tabel-overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/<map>/<bestandsnaam>.json"></div>
+<div id="pollentabel-table-root" data-json-url="../../keys/<map>/<bestandsnaam>.json"></div>
 ```
 
 `data-json-url` relative to the `.md` (often `../../keys/...` from `docs/Identificatiesleutels/`). No extra page JS; `mkdocs.yml` loads the script.

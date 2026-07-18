@@ -1,4 +1,4 @@
-/* PalynoQuest: image-first quiz that can embed a JSON key (vdh-pollentabel.js). */
+/* PalynoQuest: image-first quiz that can embed a JSON key (pollentabel.js). */
 (function () {
   "use strict";
 
@@ -681,7 +681,7 @@
         return;
       }
       var rootEl = document.createElement("div");
-      rootEl.id = "vdh-pollentabel-root";
+      rootEl.id = "pollentabel-root";
       rootEl.setAttribute("data-json-url", "../../" + normUrl);
       keyWrapEl.appendChild(rootEl);
       if (window.PID_VDH_POLLENTABEL && typeof window.PID_VDH_POLLENTABEL.boot === "function") {
@@ -715,9 +715,9 @@
     }
 
     function tryJumpNow() {
-      var keyRoot = keyWrapEl ? keyWrapEl.querySelector("#vdh-pollentabel-root") : null;
+      var keyRoot = keyWrapEl ? keyWrapEl.querySelector("#pollentabel-root") : null;
       if (!keyRoot) return false;
-      var ctl = keyRoot.__vdhPollentabelController;
+      var ctl = keyRoot.__pollentabelController;
       if (!ctl || !state.expectedPath || state.expectedPath.length === 0) return false;
 
       ctl.reset();

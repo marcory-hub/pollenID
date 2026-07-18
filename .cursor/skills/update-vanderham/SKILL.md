@@ -21,7 +21,7 @@ The file must parse as strict JSON. Watch for missing commas between object prop
 
 ## Markdown in strings
 
-Endpoint `id.name` may use `[label](https://…)` links; **`docs/javascripts/vdh-pollentabel.js`** only turns `http:`/`https:` into links. Keep paired `*…*` for genus emphasis per project rules.
+Endpoint `id.name` may use `[label](https://…)` links; **`docs/javascripts/pollentabel.js`** only turns `http:`/`https:` into links. Keep paired `*…*` for genus emphasis per project rules.
 
 ## Images → `data/pollen.yaml`
 
@@ -51,6 +51,6 @@ After substantive doc/data changes, run **`mkdocs build`** (or rely on local ser
 
 ## References
 
-- **`docs/javascripts/vdh-pollentabel.js`** — `pollen_key` / `pollen_keys` → **`pollen.json`** images
+- **`docs/javascripts/pollentabel.js`** — `pollen_key` / `pollen_keys` → **`pollen.json`** images
 - **`.cursor/skills/update-pollen-yaml/SKILL.md`**
 - **`.cursor/skills/interactive-pollen-key/SKILL.md`**

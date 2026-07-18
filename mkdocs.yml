@@ -41,7 +41,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/vdh-pollentabel.js?v=2026-05-07-2028
+  - javascripts/pollentabel.js?v=2026-07-18-rename
   - javascripts/kerkvliet-determinatietabel.js?v=2026-05-07-2028
   - javascripts/palynoquest.js?v=2026-07-12
 

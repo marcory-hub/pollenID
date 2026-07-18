@@ -323,7 +323,7 @@ def _extract_latin_and_dutch_from_name(name: str) -> Tuple[Optional[str], Option
 
 def merge_vdh_style_key(path: Path, out: Dict[str, Dict[str, Any]], conflicts: List[str], *, source_label: str) -> None:
     """
-    vdh-pollentabel style JSON: steps -> choices -> either 'next' or endpoint 'id' object.
+    pollentabel style JSON: steps -> choices -> either 'next' or endpoint 'id' object.
     We only merge endpoints where a Latin binomial can be extracted.
     """
     data = json.loads(path.read_text(encoding="utf-8"))

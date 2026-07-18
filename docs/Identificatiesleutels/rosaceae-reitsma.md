@@ -1,10 +1,10 @@
 # Sleutel voor Rosaceae-pollen (Reitsma) [te verifiëren]
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/reitsma/rosaceae-reitsma.json"></div>
+<div id="pollentabel-root" data-json-url="../../keys/reitsma/rosaceae-reitsma.json"></div>
 
 ### Tabel-overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/reitsma/rosaceae-reitsma.json"></div>
+<div id="pollentabel-table-root" data-json-url="../../keys/reitsma/rosaceae-reitsma.json"></div>
 
 ## Brontekst
 

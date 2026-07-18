@@ -1,6 +1,6 @@
 # 1. Determinatiesleutel voor pollenklasse (Beug)
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug01-pollenklasse.json"></div>
+<div id="pollentabel-root" data-json-url="../../keys/beug/beug01-pollenklasse.json"></div>
 
 - Beug heeft de grote groep van tricolpate en tricolporaten uitgebreid met **tricolporoidaten**
     - Dit omdat de tricolpaten en tricolporaten onder de microscoop in een aantal gevallen moeilijk te onderscheiden zijn (zit daar nu een porus of niet?)
@@ -10,5 +10,5 @@
 
 ### Overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug01-pollenklasse.json"></div>
+<div id="pollentabel-table-root" data-json-url="../../keys/beug/beug01-pollenklasse.json"></div>
 

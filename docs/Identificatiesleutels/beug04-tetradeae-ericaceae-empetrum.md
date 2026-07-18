@@ -6,8 +6,8 @@ Onderdeel van de tetradensleutel. Omvat Ericaceae, Empetraceae en alle Pyrolacea
 
 Referenties in de sleutel: tabel 1–2, figuren 4a–b (zie Beug).
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>
+<div id="pollentabel-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>
 
 ### Overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>
+<div id="pollentabel-table-root" data-json-url="../../keys/beug/beug04-tetradeae-ericaceae-empetrum.json"></div>

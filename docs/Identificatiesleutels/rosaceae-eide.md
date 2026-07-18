@@ -1,10 +1,10 @@
 # Sleutel voor Noordwest-Europese Rosaceae-pollen (Eide 1981)
 
-<div id="vdh-pollentabel-root" data-json-url="../../keys/eide/rosaceae-eide.json"></div>
+<div id="pollentabel-root" data-json-url="../../keys/eide/rosaceae-eide.json"></div>
 
 ### Tabel-overzicht
 
-<div id="vdh-pollentabel-table-root" data-json-url="../../keys/eide/rosaceae-eide.json"></div>
+<div id="pollentabel-table-root" data-json-url="../../keys/eide/rosaceae-eide.json"></div>
 
 ## Brontekst (Eide 1981)
 
