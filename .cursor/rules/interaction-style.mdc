@@ -24,7 +24,15 @@ alwaysApply: true
 
 - **No em dashes or emojis:** Do not use em dashes or emojis in any file the agent writes or edits. Use a colon, comma, hyphen, or a separate sentence instead.
 - **Clarity:** Prefer concrete nouns and direct verbs. Avoid vague filler, invented metaphors, and overlong sentences.
-- **No agent scaffolding in docs:** Do not insert meta-lines that describe the page structure, field inventory, or how to read the section (e.g. "Per type: pollenklasse, vorm…", "Deze sectie behandelt…", "as follows"). Write only reader content. No self-narrating schema prose in `docs/`.
+- **No agent scaffolding in docs (hard ban):** In `docs/` write only reader content. Forbidden: WIP/status lines, "volgt later", "inhoud volgt", roadmap asides, process notes, schema inventories, "deze sectie behandelt…", "as follows", or any meta about what the page will become. Empty page = title only until real content exists.
+
+# Agent style for MkDocs (`docs/`)
+
+Applies to new MkDocs page content the agent writes under `docs/`. Do not rewrite existing pages to this style unless the user asks.
+
+- **Default: slide sheet.** Prefer short lines, tables, and flat bullets (handout / slide density). One idea per line. No essay paragraphs by default.
+- **Full text:** Anything longer than a slide bullet (multi-sentence paragraphs, narrative explanation). Only the user may introduce full text, or the agent may write it when the user **explicitly** asks (e.g. "full text", "uitleg in prose", "schrijf een alinea").
+- **Hard ban:** Do not expand tables or bullets into prose "for clarity" without that ask.
 
 # Public documentation (GitHub)
 

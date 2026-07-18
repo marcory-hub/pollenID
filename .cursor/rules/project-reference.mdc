@@ -45,9 +45,11 @@ docs/
 │   └── species/
 │       ├── _index.md                 # nav: Pollen > Species (overview only)
 │       └── <pollen_key>.md           # one canonical page per species/type
-├── dubbelgangers/
-│   ├── _index.md                     # nav: Dubbelgangers (Overzicht)
-│   └── <dubbelganger>.md             # nav children (Acer/Amaryllidaceae/Betulaceae/...)
+├── lookalikes/
+│   ├── _index.md                     # nav: Lookalikes (Overzicht)
+│   └── <lookalike>.md                # nav children (Acer/Amaryllidaceae/Betulaceae/...)
+├── pollen-gallery/
+│   └── gallery-nl-pollen-types.md    # nav: Pollentypen
 ├── naslag/
 │   ├── _index.md                     # nav: Naslag
 │   ├── synoniemen-en-basioniemen.md
