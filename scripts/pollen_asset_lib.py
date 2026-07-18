@@ -127,7 +127,9 @@ def build_pollen_indexes(
         for st in stems_from_pollen_key(sk):
             stem_to_keys.setdefault(st, []).append(sk)
 
-        lat = entry.get("latin")
+        from pollen_display import entry_latin
+
+        lat = entry_latin(entry)
         if isinstance(lat, str) and lat.strip():
             slug = latin_to_pollen_slug(lat)
             if slug:

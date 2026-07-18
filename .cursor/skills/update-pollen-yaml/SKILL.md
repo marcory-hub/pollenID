@@ -8,6 +8,52 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
 ## Goal
 - Keep `data/pollen.yaml` as the SoT, with minimal diffs and no invented taxa/paths.
 
+## Canonical entry shape
+```yaml
+slug:
+  name:
+    latin_name:
+    dutch_name:
+  classification:
+    order:
+    family:
+    tribe:
+    genus:
+  size:
+    size_smallest:
+    size_largest:
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape:
+    sculpture:
+    sculpture_visibility:   # optional: lm_clear | lm_poor | em_only
+    aperture:
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note:
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links: { pollenX, tstebler, paldat, waarneming }
+  images: [...]
+```
+Normalize structure with `./.venv/bin/python scripts/normalize_pollen_yaml_schema.py`.
+MkDocs macros still accept legacy paths (`latin`, `size.smallest_size`, …) via aliases in `scripts/pollen_display.py`.
+
 ## Workflow (token-efficient)
 - Read only what you need: use targeted search, then small `Read` windows around the relevant key.
 - When adding images, use files under `docs/assets/images/` and write docs-relative paths like `assets/images/...`.
@@ -40,7 +86,7 @@ Use:
 
 Use **numeric** filenames (`foo_bar_1.png`, …). `kind` and `source` record the image corpus (e.g. `pollenwiki`, `paldat`, `beug`, `kerkvliet`).
 
-Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json` (`pollenx`, `tstebler`, `paldat`); use explicit `null` when a default URL would be wrong.
+Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json` (`pollenx`, `tstebler`, `paldat`, `waarneming`); use explicit `null` when a default URL would be wrong.
 
 ## Regenerate the runtime index and manifests
 
@@ -53,6 +99,19 @@ Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json
 Rules:
 - Do not edit `docs/data/pollen.json` or `docs/assets/manifests/*.json` by hand; they are generated.
 - The exporter emits `latin`, `dutch`, `family`, `shape`, `ornamentation`, `aperture`, `size`, `display_width_px`, `links`, and `images` (with per-image `width_px` when derivable; see `scripts/export_pollen_json.py`).
+
+Optional LM/EM visibility (parallel to morphology strings; omit or leave null when unknown):
+
+```yaml
+  sculpture: striaat
+  sculpture_visibility: lm_clear   # lm_clear | lm_poor | em_only
+  aperture: tricolpaat
+  aperture_visibility:
+  ornamentation:
+  ornamentation_visibility:
+```
+
+Codes: `lm_clear` (goed zichtbaar met LM), `lm_poor` (matig zichtbaar met LM), `em_only` (alleen zichtbaar met EM). Exported to `pollen.json` only when set.
 
 ## Validation
 

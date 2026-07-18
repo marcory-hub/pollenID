@@ -10,7 +10,7 @@ description: >-
 
 ## When to use
 
-- Fill or refresh `## Determinatiesleutels` on `docs/nederlandse-honing-pollen/<pollen_key>.md`
+- Fill or refresh `## Determinatiesleutels` on `docs/pollen/species/<pollen_key>.md`
 - User asks to trace a species through identification keys
 - After adding `pollen_key` to key JSON endpoints (`inject_pollen_keys_into_key_json.py`)
 
@@ -54,7 +54,7 @@ Script: `scripts/extract_key_paths.py` (read-only on `docs/keys/`).
 | :--- | :--- |
 | **Beug** | `docs/monoflorale-honing-pollen/<honing>.md` `## Sleutels` / `### Beug`; or Beug book OCR in notes (read-only). Many taxa are not yet in `beug*.json`. |
 | **Vanderham** | Run `inject_pollen_keys_into_key_json.py` if endpoint exists but lacks `pollen_key`; re-run extract. |
-| **Kerkvliet** | No row: state that explicitly; add nearest `section` from a related taxon only if morphologically justified; optional `(k)` frequency from `docs/nederlandse-honing-pollen/_index.md`. |
+| **Kerkvliet** | No row: state that explicitly; add nearest `section` from a related taxon only if morphologically justified; optional `(k)` frequency from `data/pollen.yaml` `frequency_in_dutch_honey`. |
 
 Mark manual Beug paths with endpoint reference (e.g. `22.28 Fagopyrum (tabel 76:7-10)`).
 
@@ -93,5 +93,5 @@ If the page was edited: `mkdocs build` only when `mkdocs.yml` or broad links cha
 ## Canonical examples
 
 - Generated: `python scripts/extract_key_paths.py calluna_vulgaris`
-- Page: `docs/nederlandse-honing-pollen/calluna_vulgaris.md`
+- Page: `docs/pollen/species/calluna_vulgaris.md`
 - Manual Beug fallback: `docs/monoflorale-honing-pollen/boekweithoning.md`

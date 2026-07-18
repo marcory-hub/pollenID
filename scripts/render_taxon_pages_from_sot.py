@@ -7,11 +7,21 @@ from typing import Any, Dict, Iterable, List, Tuple
 import yaml
 
 from extract_key_paths import render_paths_markdown
+from pollen_display import (
+    entry_dutch,
+    entry_family,
+    entry_feature,
+    entry_latin,
+    entry_size_strings,
+    entry_visibility,
+    format_morph_with_visibility,
+    resolve_pollen_field,
+)
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS_DIR = REPO_ROOT / "docs"
-NL_DIR = DOCS_DIR / "nederlandse-honing-pollen"
+NL_DIR = DOCS_DIR / "pollen" / "species"
 POLLEN_YAML = REPO_ROOT / "data" / "pollen.yaml"
 INDEX_MD = NL_DIR / "_index.md"
 
@@ -40,8 +50,8 @@ def _extract_gallery_keys(index_text: str) -> List[str]:
 
 
 def _title(entry: Dict[str, Any], key: str) -> str:
-    latin = str(entry.get("latin") or "").strip()
-    dutch = str(entry.get("dutch") or "").strip()
+    latin = entry_latin(entry) or ""
+    dutch = entry_dutch(entry) or ""
     latin_txt = f"*{latin}*" if latin else f"*{key}*"
     if dutch:
         return f"# {latin_txt} ({dutch})"
@@ -49,7 +59,7 @@ def _title(entry: Dict[str, Any], key: str) -> str:
 
 
 def _iter_scalar_fields(entry: Dict[str, Any]) -> Iterable[Tuple[str, str]]:
-    skip_top = {"images", "sources"}
+    skip_top = {"images", "name", "classification", "pollen_features", "value", "note", "size", "links", "flowering_time"}
     for k, v in entry.items():
         if k in skip_top:
             continue
@@ -58,11 +68,9 @@ def _iter_scalar_fields(entry: Dict[str, Any]) -> Iterable[Tuple[str, str]]:
 
 
 def _format_size(entry: Dict[str, Any]) -> str:
-    size = entry.get("size")
-    if not isinstance(size, dict):
-        return ""
-    a = str(size.get("smallest_size") or "").strip()
-    b = str(size.get("largest_size") or "").strip()
+    a, b = entry_size_strings(entry)
+    a = (a or "").strip()
+    b = (b or "").strip()
     if a and b and a != b:
         return f"{a}-{b}"
     return a or b
@@ -71,14 +79,14 @@ def _format_size(entry: Dict[str, Any]) -> str:
 def _yaml_overview_table(entry: Dict[str, Any], key: str) -> str:
     rows: List[Tuple[str, str]] = []
 
-    latin = str(entry.get("latin") or "").strip()
-    dutch = str(entry.get("dutch") or "").strip()
+    latin = entry_latin(entry) or ""
+    dutch = entry_dutch(entry) or ""
     if latin:
         rows.append(("Latijn", latin))
     if dutch:
         rows.append(("Nederlands", dutch))
 
-    fam = str(entry.get("family") or "").strip()
+    fam = entry_family(entry) or ""
     if fam:
         rows.append(("Familie", fam))
 
@@ -94,26 +102,47 @@ def _yaml_overview_table(entry: Dict[str, Any], key: str) -> str:
         ("sculpture", "Sculptuur"),
         ("ornamentation", "Ornamentatie"),
     ]:
-        val = str(entry.get(fld) or "").strip()
+        if fld in ("aperture", "sculpture", "ornamentation"):
+            val = format_morph_with_visibility(
+                entry_feature(entry, fld), entry_visibility(entry, fld)
+            )
+        else:
+            val = str(entry_feature(entry, fld) or "").strip()
         if val:
             rows.append((label, val))
 
-    bloei = entry.get("bloeitijd")
+    bloei = entry.get("flowering_time")
     if isinstance(bloei, dict):
         s = str(bloei.get("start") or "").strip()
         e = str(bloei.get("end") or "").strip()
         if s or e:
             rows.append(("Bloeitijd", f"{s}-{e}".strip("-")))
 
-    nv = str(entry.get("nectar_value") or "").strip()
+    nv = str(resolve_pollen_field(entry, "nectar_value") or "").strip()
     if nv:
         rows.append(("Nectarwaarde", nv))
-    pv = str(entry.get("pollen_value") or "").strip()
+    pv = str(resolve_pollen_field(entry, "pollen_value") or "").strip()
     if pv:
         rows.append(("Pollenwaarde", pv))
-    fr = str(entry.get("frequency_in_honey") or "").strip()
-    if fr:
-        rows.append(("In honing", fr))
+    for freq_fld, freq_label in [
+        ("frequency_in_dutch_honey", "Frequentie in NL-honing"),
+        ("frequency_in_eu_honey", "Frequentie in EU-honing"),
+        ("frequency_in_non_eu_honey", "Frequentie in niet-EU-honing"),
+    ]:
+        fr = str(entry.get(freq_fld) or "").strip()
+        if fr:
+            rows.append((freq_label, fr))
+
+    note = entry.get("note")
+    if isinstance(note, dict):
+        for nk, nlbl in [
+            ("note_plant", "Plantnotitie"),
+            ("note_honey", "Honingnotitie"),
+            ("note_pollen", "Pollennotitie"),
+        ]:
+            nv2 = str(note.get(nk) or "").strip()
+            if nv2:
+                rows.append((nlbl, nv2))
 
     # Append any remaining scalar fields not covered above
     covered = {
@@ -125,13 +154,24 @@ def _yaml_overview_table(entry: Dict[str, Any], key: str) -> str:
         "polarity",
         "pe_ratio",
         "aperture",
+        "aperture_visibility",
         "sculpture",
+        "sculpture_visibility",
         "ornamentation",
-        "bloeitijd",
+        "ornamentation_visibility",
+        "flowering_time",
         "nectar_value",
         "pollen_value",
-        "frequency_in_honey",
+        "frequency_in_dutch_honey",
+        "frequency_in_eu_honey",
+        "frequency_in_non_eu_honey",
         "links",
+        "pollen_class_beug",
+        "name",
+        "classification",
+        "pollen_features",
+        "value",
+        "note",
     }
     for k2, v2 in _iter_scalar_fields(entry):
         if k2 in covered:

@@ -36,7 +36,7 @@ Run after atlas PNGs land in `docs/assets/images/by-taxon/<slug>/` (or a filled
      duplicate stubs. Prefer Pollen Wiki spelling when the note says so; other
      spellings in `note` / `latin` (see
      `docs/naslag/synoniemen-en-basioniemen.md`).
-   - **YAML fields** when supplied: `dutch`, `bloeitijd.start` / `.end` (1–12),
+   - **YAML fields** when supplied: `dutch`, `flowering_time.start` / `.end` (1–12),
      `nectar_value` / `pollen_value`, `note`. Map `(np)N` to both values = N
      unless told otherwise.
    - **Merge** stubs; **remove** genus/`sp.` rows when species keys exist.

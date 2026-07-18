@@ -6,10 +6,12 @@ and MkDocs macros can resolve taxon info from the SoT.
 
 Each exported taxon includes:
   - pollen_key, latin, dutch, family, shape, sculpture, ornamentation, aperture, size
+  - optional sculpture_visibility / aperture_visibility / ornamentation_visibility
+    (lm_clear | lm_poor | em_only) when set in YAML
   - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
   - has_taxon_page — true when monofloral_honey_page is set or a page exists under
-    docs/nederlandse-honing-pollen/<pollen_key>.md; false otherwise. Consumers use it to skip
-    linking the Latin name to the (non-existent) default nederlandse-honing-pollen page.
+    docs/pollen/species/<pollen_key>.md; false otherwise. Consumers use it to skip
+    linking the Latin name to a non-existent default taxon page.
   - display_width_px — round(max_um * 2.5) from YAML size strings, else 125 (50 µm default)
   - links — optional pollenx, tstebler, paldat URLs (YAML `links` overrides)
   - images[] — path, optional kind/source, width_px (per-image override or display_width_px)
@@ -26,13 +28,23 @@ from typing import Any, Dict, List, Optional
 
 import yaml
 
-from pollen_display import display_width_px_for_yaml_entry, merge_links_yaml_defaults, per_image_width_px
+from pollen_display import (
+    display_width_px_for_yaml_entry,
+    entry_dutch,
+    entry_family,
+    entry_feature,
+    entry_latin,
+    entry_size_strings,
+    entry_visibility,
+    merge_links_yaml_defaults,
+    per_image_width_px,
+)
 
 REPO = Path(__file__).resolve().parents[1]
 YAML_PATH = REPO / "data" / "pollen.yaml"
 JSON_PATH = REPO / "docs" / "data" / "pollen.json"
 MONOFLORAL_MD_DIR = REPO / "docs" / "monoflorale-honing-pollen"
-NEDERLANDS_MD_DIR = REPO / "docs" / "nederlandse-honing-pollen"
+SPECIES_MD_DIR = REPO / "docs" / "pollen" / "species"
 BY_TAXON_REF_RE = re.compile(r"by-taxon/([a-z0-9_]+)/", re.I)
 
 
@@ -59,13 +71,13 @@ def _build_monofloral_primary_slug_map() -> Dict[str, str]:
     return out
 
 
-def _nederlandse_honing_pollen_slugs() -> set[str]:
-    """pollen_key slugs with an existing page under docs/nederlandse-honing-pollen/."""
-    if not NEDERLANDS_MD_DIR.is_dir():
+def _species_page_slugs() -> set[str]:
+    """pollen_key slugs with an existing page under docs/pollen/species/."""
+    if not SPECIES_MD_DIR.is_dir():
         return set()
     return {
         p.stem
-        for p in NEDERLANDS_MD_DIR.glob("*.md")
+        for p in SPECIES_MD_DIR.glob("*.md")
         if p.name != "_index.md"
     }
 
@@ -82,14 +94,14 @@ def _clean_scalar(v: Any) -> Any:
 
 
 def _build_entry(
-    pollen_key_slug: str, src: Dict[str, Any], nederlands_slugs: set[str]
+    pollen_key_slug: str, src: Dict[str, Any], species_slugs: set[str]
 ) -> Dict[str, Any]:
     """Build one JSON object keyed by pollen_key_slug elsewhere."""
     out: Dict[str, Any] = {}
 
-    latin = _clean_scalar(src.get("latin"))
-    dutch = _clean_scalar(src.get("dutch"))
-    family = _clean_scalar(src.get("family"))
+    latin = _clean_scalar(entry_latin(src))
+    dutch = _clean_scalar(entry_dutch(src))
+    family = _clean_scalar(entry_family(src))
 
     out["pollen_key"] = pollen_key_slug
 
@@ -101,19 +113,27 @@ def _build_entry(
         out["family"] = family
 
     for morph in ("shape", "sculpture", "ornamentation", "aperture"):
-        mv = _clean_scalar(src.get(morph))
+        mv = _clean_scalar(entry_feature(src, morph))
         if mv is not None:
             out[morph] = mv
 
-    size_src = src.get("size") or {}
-    if isinstance(size_src, dict):
-        size_out: Dict[str, Any] = {}
-        for key in ("smallest_size", "largest_size"):
-            val = _clean_scalar(size_src.get(key))
-            if val is not None:
-                size_out[key] = val
-        if size_out:
-            out["size"] = size_out
+    for vis in (
+        "sculpture_visibility",
+        "aperture_visibility",
+        "ornamentation_visibility",
+    ):
+        vv = _clean_scalar(entry_visibility(src, vis.replace("_visibility", "")))
+        if vv is not None:
+            out[vis] = vv
+
+    ss, ls = entry_size_strings(src)
+    size_out: Dict[str, Any] = {}
+    if _clean_scalar(ss) is not None:
+        size_out["smallest_size"] = _clean_scalar(ss)
+    if _clean_scalar(ls) is not None:
+        size_out["largest_size"] = _clean_scalar(ls)
+    if size_out:
+        out["size"] = size_out
 
     display_w = display_width_px_for_yaml_entry(src)
     out["display_width_px"] = display_w
@@ -159,21 +179,20 @@ def main() -> int:
         raise SystemExit(f"Unexpected top-level YAML type: {type(data).__name__}")
 
     monofloral_pages = _build_monofloral_primary_slug_map()
-    nederlands_slugs = _nederlandse_honing_pollen_slugs()
+    species_slugs = _species_page_slugs()
     exported: Dict[str, Dict[str, Any]] = {}
     for key in sorted(data.keys()):
         entry = data.get(key)
         if not isinstance(entry, dict):
             continue
-        built = _build_entry(str(key), entry, nederlands_slugs)
+        built = _build_entry(str(key), entry, species_slugs)
         mf = monofloral_pages.get(str(key))
         if mf:
             built["monofloral_honey_page"] = mf
         # Runtime taxon-page link resolution (vdh-pollentabel.js, kerkvliet-determinatietabel.js)
-        # defaults to nederlandse-honing-pollen/<pollen_key>.md when no monofloral page is set.
-        # Flag entries with neither so the JS can skip the link instead of pointing at a 404
-        # (e.g. Beug-key exemplar taxa such as Acacia dealbata with no Nederlandse taxonpagina).
-        built["has_taxon_page"] = bool(mf) or str(key) in nederlands_slugs
+        # defaults to pollen/species/<pollen_key>.md when no monofloral page is set.
+        # Flag entries with neither so the JS can skip the link instead of pointing at a 404.
+        built["has_taxon_page"] = bool(mf) or str(key) in species_slugs
         exported[key] = built
 
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)

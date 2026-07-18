@@ -57,7 +57,7 @@
   </div>
 </div>
 
-#### [Vergeet-mij-nietje](../nederlandse-honing-pollen/myosotis_scorpioides.md) (III/IV)
+#### [Vergeet-mij-nietje](../pollen/species/myosotis_scorpioides.md) (III/IV)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

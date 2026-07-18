@@ -36,6 +36,29 @@
     return v == null || String(v).trim() === "" || String(v).trim() === "-";
   }
 
+  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
+  var VISIBILITY_LABELS_NL = {
+    lm_clear: "goed zichtbaar met LM",
+    lm_poor: "matig zichtbaar met LM",
+    em_only: "alleen zichtbaar met EM",
+  };
+
+  function visibilityLabelNl(code) {
+    if (code == null) return "";
+    var s = String(code).trim();
+    if (!s || s === "-" || s === "null" || s === "None") return "";
+    return VISIBILITY_LABELS_NL[s] || "";
+  }
+
+  function morphWithVisibility(text, visibilityCode) {
+    var t = text != null ? String(text).trim() : "";
+    var label = visibilityLabelNl(visibilityCode);
+    if (t && label) return t + " (" + label + ")";
+    if (t) return t;
+    if (label) return "(" + label + ")";
+    return "";
+  }
+
   function resolveUrl(rel) {
     try {
       return new URL(rel, document.baseURI).href;
@@ -329,6 +352,7 @@
       if (k === "pollenx") return "PollenX";
       if (k === "tstebler") return "Tstebler";
       if (k === "paldat") return "PalDat";
+      if (k === "waarneming") return "Waarneming.nl";
       return esc(key);
     }
 
@@ -373,11 +397,20 @@
       if (!isMissingValue(rec.shape)) {
         addRow(dl, "Vorm", esc(rec.shape));
       }
-      if (!isMissingValue(rec.ornamentation)) {
-        addRow(dl, "Ornamentatie", esc(rec.ornamentation));
+      var sculptureShown = morphWithVisibility(rec.sculpture, rec.sculpture_visibility);
+      if (sculptureShown) {
+        addRow(dl, "Sculptuur", esc(sculptureShown));
       }
-      if (!isMissingValue(rec.aperture)) {
-        addRow(dl, "Apertuur", esc(rec.aperture));
+      var ornamentShown = morphWithVisibility(
+        rec.ornamentation,
+        rec.ornamentation_visibility
+      );
+      if (ornamentShown) {
+        addRow(dl, "Ornamentatie", esc(ornamentShown));
+      }
+      var apertureShown = morphWithVisibility(rec.aperture, rec.aperture_visibility);
+      if (apertureShown) {
+        addRow(dl, "Apertuur", esc(apertureShown));
       }
       var sz = rec.size;
       if (sz && typeof sz === "object") {

@@ -46,22 +46,19 @@ MONTHS_NL = {
 
 
 FIELD_ORDER = [
-    "latin",
-    "dutch",
-    "family",
+    "name",
+    "classification",
     "size",
-    "shape",
-    "polarity",
-    "pe_ratio",
-    "aperture",
-    "ornamentation",
+    "pollen_class_beug",
+    "pollen_features",
+    "flowering_time",
+    "value",
+    "note",
+    "frequency_in_dutch_honey",
+    "frequency_in_eu_honey",
+    "frequency_in_non_eu_honey",
+    "links",
     "images",
-    "image",
-    "bloeitijd",
-    "nectar_value",
-    "pollen_value",
-    "frequency_in_honey",
-    "sources",
 ]
 
 
@@ -199,24 +196,36 @@ def _set_if_better(
 
 def _init_entry() -> Dict[str, Any]:
     return {
-        "latin": None,
-        "dutch": None,
-        "family": None,
-        "size": {"smallest_size": None, "largest_size": None},
-        "shape": None,
-        "polarity": None,
-        "pe_ratio": None,
-        "aperture": None,
-        "ornamentation": None,
-        # Optional: explicit image list (single source of truth for paths and provenance).
-        # Kept separate from 'image.height_px' for backward compatibility with existing templates.
+        "name": {"latin_name": None, "dutch_name": None},
+        "classification": {
+            "order": None,
+            "family_latin": None,
+            "family_dutch": None,
+            "tribe": None,
+            "genus": None,
+        },
+        "size": {"size_smallest": None, "size_largest": None, "height_px": None},
+        "pollen_class_beug": None,
+        "pollen_features": {
+            "shape": None,
+            "sculpture": None,
+            "sculpture_visibility": None,
+            "aperture": None,
+            "aperture_visibility": None,
+            "ornamentation": None,
+            "ornamentation_visibility": None,
+            "polarity": None,
+            "pe_ratio": None,
+            "pollen-note": None,
+        },
+        "flowering_time": {"start": None, "end": None},
+        "value": {"nectar_value": None, "pollen_value": None},
+        "note": {"note_plant": None, "note_honey": None, "note_pollen": None},
+        "frequency_in_dutch_honey": None,
+        "frequency_in_eu_honey": None,
+        "frequency_in_non_eu_honey": None,
+        "links": {},
         "images": [],
-        "image": {"height_px": None},
-        "bloeitijd": {"start": None, "end": None},
-        "nectar_value": None,
-        "pollen_value": None,
-        "frequency_in_honey": None,
-        "sources": [],
     }
 
 
@@ -225,6 +234,14 @@ def _ordered_entry(entry: Dict[str, Any]) -> Dict[str, Any]:
     for k in FIELD_ORDER:
         ordered[k] = entry.get(k)
     return ordered
+
+
+def _feat(entry: Dict[str, Any]) -> Dict[str, Any]:
+    feats = entry.setdefault("pollen_features", {})
+    if not isinstance(feats, dict):
+        feats = {}
+        entry["pollen_features"] = feats
+    return feats
 
 
 def merge_kerkvliet(path: Path, out: Dict[str, Dict[str, Any]], conflicts: List[str]) -> None:
@@ -237,28 +254,39 @@ def merge_kerkvliet(path: Path, out: Dict[str, Dict[str, Any]], conflicts: List[
         latin = _normalize_spaces(_strip_md_links(str(latin_raw)))
         key = latin_to_id(latin)
         entry = out.setdefault(key, _init_entry())
-        entry["sources"].append({"source": "kerkvliet", "path": str(path)})
 
-        _set_if_better(entry, "latin", latin, conflicts, source_label="kerkvliet")
+        _set_if_better(entry["name"], "latin_name", latin, conflicts, source_label="kerkvliet")
         dutch = row.get("dutch")
         if dutch:
-            _set_if_better(entry, "dutch", _normalize_spaces(_strip_md_links(str(dutch))), conflicts, source_label="kerkvliet")
+            _set_if_better(
+                entry["name"],
+                "dutch_name",
+                _normalize_spaces(_strip_md_links(str(dutch))),
+                conflicts,
+                source_label="kerkvliet",
+            )
 
         size_raw = row.get("grootte")
         if size_raw:
             smallest, largest, largest_um = parse_size_to_small_large(str(size_raw))
-            _set_if_better(entry["size"], "smallest_size", smallest, conflicts, source_label="kerkvliet")
-            _set_if_better(entry["size"], "largest_size", largest, conflicts, source_label="kerkvliet")
-            if entry["image"].get("height_px") in (None, ""):
-                entry["image"]["height_px"] = compute_height_px(largest_um)
+            _set_if_better(entry["size"], "size_smallest", smallest, conflicts, source_label="kerkvliet")
+            _set_if_better(entry["size"], "size_largest", largest, conflicts, source_label="kerkvliet")
+            if entry["size"].get("height_px") in (None, ""):
+                entry["size"]["height_px"] = compute_height_px(largest_um)
 
         vorm = row.get("vorm")
         if vorm:
-            _set_if_better(entry, "shape", _normalize_spaces(str(vorm)), conflicts, source_label="kerkvliet")
+            _set_if_better(_feat(entry), "shape", _normalize_spaces(str(vorm)), conflicts, source_label="kerkvliet")
 
         oppervlak = row.get("oppervlak")
         if oppervlak:
-            _set_if_better(entry, "ornamentation", _normalize_spaces(str(oppervlak)), conflicts, source_label="kerkvliet")
+            _set_if_better(
+                _feat(entry),
+                "ornamentation",
+                _normalize_spaces(str(oppervlak)),
+                conflicts,
+                source_label="kerkvliet",
+            )
 
         opmerkingen = row.get("opmerkingen")
         if opmerkingen:
@@ -266,7 +294,7 @@ def merge_kerkvliet(path: Path, out: Dict[str, Dict[str, Any]], conflicts: List[
             opm = _normalize_spaces(str(opmerkingen))
             m = re.search(r"\b(\d+)\s*-\s*(colporaat|colpaat|por(a|)aat|inaperturaat|tricolpaat|tricolporaat)\b", opm, re.IGNORECASE)
             if m:
-                _set_if_better(entry, "aperture", m.group(0), conflicts, source_label="kerkvliet")
+                _set_if_better(_feat(entry), "aperture", m.group(0), conflicts, source_label="kerkvliet")
 
 
 RE_LATIN_BINOMIAL = re.compile(r"\b([A-Z][a-z]+)\s+([a-z][a-z-]+)\b")
@@ -315,32 +343,32 @@ def merge_vdh_style_key(path: Path, out: Dict[str, Dict[str, Any]], conflicts: L
 
             key = latin_to_id(latin)
             entry = out.setdefault(key, _init_entry())
-            entry["sources"].append({"source": source_label, "path": str(path)})
 
-            _set_if_better(entry, "latin", latin, conflicts, source_label=source_label)
-            _set_if_better(entry, "dutch", dutch, conflicts, source_label=source_label)
+            _set_if_better(entry["name"], "latin_name", latin, conflicts, source_label=source_label)
+            _set_if_better(entry["name"], "dutch_name", dutch, conflicts, source_label=source_label)
 
             size_raw = endpoint.get("size")
             if size_raw and str(size_raw).strip() not in {"-", ""}:
                 smallest, largest, largest_um = parse_size_to_small_large(str(size_raw))
-                _set_if_better(entry["size"], "smallest_size", smallest, conflicts, source_label=source_label)
-                _set_if_better(entry["size"], "largest_size", largest, conflicts, source_label=source_label)
-                if entry["image"].get("height_px") in (None, ""):
-                    entry["image"]["height_px"] = compute_height_px(largest_um)
+                _set_if_better(entry["size"], "size_smallest", smallest, conflicts, source_label=source_label)
+                _set_if_better(entry["size"], "size_largest", largest, conflicts, source_label=source_label)
+                if entry["size"].get("height_px") in (None, ""):
+                    entry["size"]["height_px"] = compute_height_px(largest_um)
 
             # Best-effort: use the choice label as a morphological hint if entry lacks it.
             label = choice.get("label")
             if isinstance(label, str):
                 lab = label.lower()
-                if entry.get("aperture") in (None, ""):
+                feats = _feat(entry)
+                if feats.get("aperture") in (None, ""):
                     if any(k in lab for k in ["tricolpaat", "tricolporaat", "triporaat", "inaperturaat", "por"]):
-                        _set_if_better(entry, "aperture", _normalize_spaces(label), conflicts, source_label=source_label)
-                if entry.get("ornamentation") in (None, ""):
+                        _set_if_better(feats, "aperture", _normalize_spaces(label), conflicts, source_label=source_label)
+                if feats.get("ornamentation") in (None, ""):
                     if any(k in lab for k in ["psilaat", "scabraat", "echinaat", "striaat", "reticulaat", "rugulaat"]):
-                        _set_if_better(entry, "ornamentation", _normalize_spaces(label), conflicts, source_label=source_label)
-                if entry.get("shape") in (None, ""):
+                        _set_if_better(feats, "ornamentation", _normalize_spaces(label), conflicts, source_label=source_label)
+                if feats.get("shape") in (None, ""):
                     if any(k in lab for k in ["oblaat", "prolaat", "globulair", "sferoid", "rond"]):
-                        _set_if_better(entry, "shape", _normalize_spaces(label), conflicts, source_label=source_label)
+                        _set_if_better(feats, "shape", _normalize_spaces(label), conflicts, source_label=source_label)
 
 
 def _extract_md_tables(md: str) -> Dict[str, str]:
@@ -397,9 +425,8 @@ def merge_markdown_pages(base_dir: Path, pattern: str, out: Dict[str, Dict[str, 
         latin = _normalize_spaces(latin)
         key = latin_to_id(latin)
         entry = out.setdefault(key, _init_entry())
-        entry["sources"].append({"source": source, "path": str(path.relative_to(base_dir.parents[2]))})
 
-        _set_if_better(entry, "latin", latin, conflicts, source_label=source)
+        _set_if_better(entry["name"], "latin_name", latin, conflicts, source_label=source)
 
         kv = _extract_md_tables(md)
 
@@ -409,40 +436,47 @@ def merge_markdown_pages(base_dir: Path, pattern: str, out: Dict[str, Dict[str, 
         size_val = kv.get("pollenkorrelgrootte") or kv.get("grootte (µm)") or kv.get("grootte (um)")
         if size_val:
             smallest, largest, largest_um = parse_size_to_small_large(size_val)
-            _set_if_better(entry["size"], "smallest_size", smallest, conflicts, source_label=source)
-            _set_if_better(entry["size"], "largest_size", largest, conflicts, source_label=source)
-            if entry["image"].get("height_px") in (None, ""):
-                entry["image"]["height_px"] = compute_height_px(largest_um)
+            _set_if_better(entry["size"], "size_smallest", smallest, conflicts, source_label=source)
+            _set_if_better(entry["size"], "size_largest", largest, conflicts, source_label=source)
+            if entry["size"].get("height_px") in (None, ""):
+                entry["size"]["height_px"] = compute_height_px(largest_um)
 
+        feats = _feat(entry)
         shape_val = kv.get("vorm")
         if shape_val:
-            _set_if_better(entry, "shape", shape_val, conflicts, source_label=source)
+            _set_if_better(feats, "shape", shape_val, conflicts, source_label=source)
 
         pol_val = kv.get("polariteit")
         if pol_val:
-            _set_if_better(entry, "polarity", pol_val, conflicts, source_label=source)
+            _set_if_better(feats, "polarity", pol_val, conflicts, source_label=source)
 
         pe_val = kv.get("p/e-ratio") or kv.get("p/e ratio")
         if pe_val:
-            _set_if_better(entry, "pe_ratio", pe_val, conflicts, source_label=source)
+            _set_if_better(feats, "pe_ratio", pe_val, conflicts, source_label=source)
 
         ap_val = kv.get("aperturen") or kv.get("aperturen ")
         if ap_val:
-            _set_if_better(entry, "aperture", ap_val, conflicts, source_label=source)
+            _set_if_better(feats, "aperture", ap_val, conflicts, source_label=source)
 
         orn_val = kv.get("ornamentatie") or kv.get("oppervlak")
         if orn_val:
-            _set_if_better(entry, "ornamentation", orn_val, conflicts, source_label=source)
+            _set_if_better(feats, "ornamentation", orn_val, conflicts, source_label=source)
 
-        bloom_val = kv.get("bloeitijd")
+        bloom_val = kv.get("bloeitijd")  # Dutch source label from page tables
         if bloom_val:
             start, end = parse_bloom_months(bloom_val)
-            _set_if_better(entry["bloeitijd"], "start", start, conflicts, source_label=source)
-            _set_if_better(entry["bloeitijd"], "end", end, conflicts, source_label=source)
+            _set_if_better(
+                entry["flowering_time"], "start", start, conflicts, source_label=source
+            )
+            _set_if_better(
+                entry["flowering_time"], "end", end, conflicts, source_label=source
+            )
 
         freq = _extract_frequency_in_honey(md)
         if freq:
-            _set_if_better(entry, "frequency_in_honey", freq, conflicts, source_label=source)
+            _set_if_better(
+                entry, "frequency_in_dutch_honey", freq, conflicts, source_label=source
+            )
 
 
 def write_yaml(path: Path, data: Dict[str, Dict[str, Any]]) -> None:
@@ -486,7 +520,7 @@ def main(argv: Optional[List[str]] = None) -> int:
         conflicts.append(f"missing source: {kerkvliet}")
 
     merge_markdown_pages(repo_root / "docs/monoflorale-honing-pollen", "*.md", merged, conflicts, source="monoflorale_md")
-    merge_markdown_pages(repo_root / "docs/nederlandse-honing-pollen", "*.md", merged, conflicts, source="nederlandse_md")
+    merge_markdown_pages(repo_root / "docs/pollen/species", "*.md", merged, conflicts, source="pollen_species_md")
 
     other_keys = [
         (repo_root / "docs/keys/eide/rosaceae-eide.json", "eide"),

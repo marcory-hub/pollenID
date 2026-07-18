@@ -10,6 +10,8 @@ from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 import yaml
 
+from pollen_display import entry_dutch, entry_latin
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DOCS_DIR = REPO_ROOT / "docs"
@@ -182,10 +184,10 @@ def load_pollen_key_labels(path: Path) -> Dict[str, str]:
         if not isinstance(rec, dict):
             continue
         sk = str(slug)
-        latin = rec.get("latin")
+        latin = entry_latin(rec)
         if not isinstance(latin, str) or not latin.strip():
             continue
-        dutch = rec.get("dutch")
+        dutch = entry_dutch(rec)
         d = dutch.strip() if isinstance(dutch, str) else ""
         if d and d not in ("-", "–", "—", "…"):
             out[sk] = f"{latin.strip()} ({d})"

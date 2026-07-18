@@ -10,6 +10,17 @@ from typing import Any
 
 import yaml
 
+from pollen_display import (
+    entry_dutch,
+    entry_family,
+    entry_feature,
+    entry_latin,
+    entry_size_strings,
+    entry_visibility,
+    format_morph_with_visibility,
+    resolve_pollen_field,
+)
+
 REPO = Path(__file__).resolve().parents[1]
 MONOFLORAL_MD_DIR = REPO / "docs" / "monoflorale-honing-pollen"
 POLLEN_YAML_PATH = REPO / "data" / "pollen.yaml"
@@ -46,10 +57,12 @@ FIELDS = [
     ("Ornamentatie", "ornamentation"),
     ("Polariteit", "polarity"),
     ("P/E-ratio", "pe_ratio"),
-    ("Bloeitijd", "bloeitijd"),
+    ("Bloeitijd", "flowering_time"),
     ("Nectarwaarde", "nectar_value"),
     ("Pollenwaarde", "pollen_value"),
-    ("Frequentie in honing", "frequency_in_honey"),
+    ("Frequentie in NL-honing", "frequency_in_dutch_honey"),
+    ("Frequentie in EU-honing", "frequency_in_eu_honey"),
+    ("Frequentie in niet-EU-honing", "frequency_in_non_eu_honey"),
     ("Links", "links"),
 ]
 
@@ -66,8 +79,8 @@ def _clean(value: Any) -> str:
 def _format_size(size: Any) -> str:
     if not isinstance(size, dict):
         return ""
-    small = _clean(size.get("smallest_size"))
-    large = _clean(size.get("largest_size"))
+    small = _clean(size.get("size_smallest", size.get("smallest_size")))
+    large = _clean(size.get("size_largest", size.get("largest_size")))
     if small and large:
         if small == large:
             return small
@@ -77,7 +90,7 @@ def _format_size(size: Any) -> str:
     return small or large
 
 
-def _format_bloeitijd(value: Any) -> str:
+def _format_flowering_time(value: Any) -> str:
     if not isinstance(value, dict):
         return ""
     start = _clean(value.get("start"))
@@ -95,10 +108,11 @@ def _format_links(value: Any) -> str:
         "pollenX": "PollenX",
         "tstebler": "Pollen-Wiki",
         "paldat": "PalDat",
+        "waarneming": "Waarneming.nl",
     }
     parts: list[str] = []
     seen: set[str] = set()
-    for key in ("pollenx", "pollenX", "tstebler", "paldat"):
+    for key in ("pollenx", "pollenX", "tstebler", "paldat", "waarneming"):
         url = _clean(value.get(key))
         if not url or url in seen:
             continue
@@ -108,12 +122,26 @@ def _format_links(value: Any) -> str:
 
 
 def _format_value(entry: dict[str, Any], field: str) -> str:
+    if field == "latin":
+        return _clean(entry_latin(entry))
+    if field == "dutch":
+        return _clean(entry_dutch(entry))
+    if field == "family":
+        return _clean(entry_family(entry))
     if field == "size":
         return _format_size(entry.get("size"))
-    if field == "bloeitijd":
-        return _format_bloeitijd(entry.get("bloeitijd"))
+    if field == "flowering_time":
+        return _format_flowering_time(entry.get("flowering_time"))
     if field == "links":
         return _format_links(entry.get("links"))
+    if field in ("sculpture", "aperture", "ornamentation"):
+        return format_morph_with_visibility(
+            entry_feature(entry, field), entry_visibility(entry, field)
+        )
+    if field in ("shape", "polarity", "pe_ratio"):
+        return _clean(entry_feature(entry, field))
+    if field in ("nectar_value", "pollen_value"):
+        return _clean(resolve_pollen_field(entry, field))
     return _clean(entry.get(field))
 
 

@@ -138,7 +138,7 @@ def main() -> int:
         wanted.add(t)
     for t in collect_slugs_from_md(DOCS_DIR / "monoflorale-honing-pollen", "monoflorale-honing"):
         wanted.add(t)
-    for t in collect_slugs_from_md(DOCS_DIR / "nederlandse-honing-pollen", "nederlandse-honing"):
+    for t in collect_slugs_from_md(DOCS_DIR / "pollen" / "species", "pollen-species"):
         wanted.add(t)
 
     to_create: List[Tuple[str, str]] = []

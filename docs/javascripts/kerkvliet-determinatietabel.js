@@ -18,6 +18,29 @@
     return d.innerHTML;
   }
 
+  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
+  const VISIBILITY_LABELS_NL = {
+    lm_clear: "goed zichtbaar met LM",
+    lm_poor: "matig zichtbaar met LM",
+    em_only: "alleen zichtbaar met EM",
+  };
+
+  function visibilityLabelNl(code) {
+    if (code == null) return "";
+    const s = String(code).trim();
+    if (!s || s === "-" || s === "null" || s === "None") return "";
+    return VISIBILITY_LABELS_NL[s] || "";
+  }
+
+  function morphWithVisibility(text, visibilityCode) {
+    const t = text != null ? String(text).trim() : "";
+    const label = visibilityLabelNl(visibilityCode);
+    if (t && label) return t + " (" + label + ")";
+    if (t) return t;
+    if (label) return "(" + label + ")";
+    return "";
+  }
+
   function fetchJsonCached(url) {
     if (!jsonCache.has(url)) {
       jsonCache.set(
@@ -234,7 +257,7 @@
     const pk = normalizePollenKey(r.pollen_key);
     if (!pk || !pollenIndex[pk]) return null;
     const e = /** @type {Record<string, unknown>} */ (pollenIndex[pk]);
-    const oppervlak = e.ornamentation != null ? String(e.ornamentation).trim() : "";
+    const oppervlak = morphWithVisibility(e.ornamentation, e.ornamentation_visibility);
     return {
       latin: e.latin != null ? String(e.latin) : "",
       dutch: e.dutch != null ? String(e.dutch) : "",
@@ -243,7 +266,7 @@
         typeof e.size === "object" && e.size !== null ? /** @type {object} */ (e.size) : null
       ),
       oppervlak: oppervlak,
-      opmerkingen: e.aperture != null ? String(e.aperture) : "",
+      opmerkingen: morphWithVisibility(e.aperture, e.aperture_visibility),
       images: pollenRowImagesFromIndex(e),
       pollen_key: pk,
     };
@@ -362,11 +385,11 @@
           ? String(ent.monofloral_honey_page).trim()
           : "";
       // has_taxon_page === false (pollen.json, export_pollen_json.py): no monofloral page and no
-      // nederlandse-honing-pollen/<key>.md page exists; skip linking to avoid a 404.
+      // pollen/species/<key>.md page exists; skip linking to avoid a 404.
       if (!mono && ent && ent.has_taxon_page === false) return "";
       const rel = mono
         ? mono.replace(/^\/*/, "")
-        : "nederlandse-honing-pollen/" + pollenKey + ".md";
+        : "pollen/species/" + pollenKey + ".md";
       return resolveSiteRelativeMarkdownHref(rel);
     }
 

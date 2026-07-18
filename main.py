@@ -12,7 +12,14 @@ _SCRIPTS = Path(__file__).resolve().parent / "scripts"
 if str(_SCRIPTS) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS))
 
-from pollen_display import display_width_px_for_yaml_entry, per_image_width_px  # noqa: E402
+from pollen_display import (  # noqa: E402
+    display_width_px_for_yaml_entry,
+    entry_latin,
+    entry_visibility,
+    per_image_width_px,
+    resolve_pollen_field,
+    visibility_label_nl,
+)
 
 
 def _load_pollen_data() -> Dict[str, Any]:
@@ -21,15 +28,6 @@ def _load_pollen_data() -> Dict[str, Any]:
     if not path.exists():
         return {}
     return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
-
-
-def _get_dotted(obj: Any, dotted: str) -> Any:
-    cur = obj
-    for part in dotted.split("."):
-        if not isinstance(cur, dict):
-            return None
-        cur = cur.get(part)
-    return cur
 
 
 def _canonical_assets_uri(src: str) -> Optional[str]:
@@ -65,12 +63,23 @@ def define_env(env) -> None:
         entry = pollen_data.get(key)
         if not isinstance(entry, dict):
             return ""
-        value = _get_dotted(entry, field)
+        value = resolve_pollen_field(entry, field)
         if value is None:
             return ""
         if isinstance(value, (dict, list)):
             return ""
         return str(value)
+
+    @env.macro
+    def pollen_vis_suffix(key: str, morph_field: str) -> str:
+        """Return ' (Dutch LM/EM label)' when <morph>_visibility is set, else ''."""
+        entry = pollen_data.get(key)
+        if not isinstance(entry, dict):
+            return ""
+        label = visibility_label_nl(entry_visibility(entry, morph_field))
+        if not label:
+            return ""
+        return f" ({label})"
 
     @env.macro
     def pollen_img(
@@ -94,9 +103,7 @@ def define_env(env) -> None:
         resolved_src = _resolve_assets_href(canonical, env) if canonical else src
 
         safe_src = escape(resolved_src or "", quote=True)
-        lat = ""
-        if isinstance(entry, dict) and isinstance(entry.get("latin"), str):
-            lat = entry["latin"].strip()
+        lat = entry_latin(entry) if isinstance(entry, dict) else ""
         safe_alt = escape(alt or lat or key, quote=True)
 
         if height_px is None:
@@ -111,9 +118,7 @@ def define_env(env) -> None:
         if not isinstance(entry, dict):
             return ""
 
-        latin = ""
-        if isinstance(entry.get("latin"), str):
-            latin = entry["latin"].strip()
+        latin = entry_latin(entry) or ""
 
         default_w = display_width_px_for_yaml_entry(entry)
 

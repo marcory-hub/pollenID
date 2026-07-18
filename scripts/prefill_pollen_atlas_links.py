@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fill empty pollenX / tstebler / paldat slots in data/pollen.yaml from latin binomial.
+"""Fill empty pollenX / tstebler / paldat / waarneming slots in data/pollen.yaml from latin binomial.
 
 Only writes URLs into empty (null/blank) link fields; does not overwrite custom URLs.
 Use explicit null in YAML to suppress a default atlas link (see update-pollen-yaml skill).
@@ -22,10 +22,15 @@ ROOT = Path(__file__).resolve().parents[1]
 YAML_PATH = ROOT / "data" / "pollen.yaml"
 
 sys.path.insert(0, str(ROOT / "scripts"))
-from pollen_display import default_external_links  # noqa: E402
+from pollen_display import default_external_links, entry_latin  # noqa: E402
 
-YAML_LINK_KEYS = ("pollenX", "tstebler", "paldat")
-JSON_TO_YAML = {"pollenx": "pollenX", "tstebler": "tstebler", "paldat": "paldat"}
+YAML_LINK_KEYS = ("pollenX", "tstebler", "paldat", "waarneming")
+JSON_TO_YAML = {
+    "pollenx": "pollenX",
+    "tstebler": "tstebler",
+    "paldat": "paldat",
+    "waarneming": "waarneming",
+}
 
 
 def _link_empty(v: Any) -> bool:
@@ -38,7 +43,7 @@ def _link_empty(v: Any) -> bool:
 
 def prefill_entry(entry: Dict[str, Any]) -> Tuple[int, bool]:
     """Return (slots_filled, changed)."""
-    latin = entry.get("latin")
+    latin = entry_latin(entry)
     if not isinstance(latin, str) or not latin.strip():
         return 0, False
     defaults = default_external_links(latin.strip())
@@ -84,7 +89,7 @@ def main() -> int:
     for slug, entry in data.items():
         if not isinstance(entry, dict):
             continue
-        latin = entry.get("latin")
+        latin = entry_latin(entry)
         if not isinstance(latin, str) or not latin.strip():
             no_latin += 1
             continue

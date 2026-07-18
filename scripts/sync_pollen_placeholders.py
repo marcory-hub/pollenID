@@ -17,9 +17,8 @@ BY_TAXON = ROOT / "docs" / "assets" / "images" / "by-taxon"
 KEYS_DIR = ROOT / "docs" / "keys"
 
 DOC_DIRS = (
-    "docs/nederlandse-honing-pollen",
-    "docs/secundaire-inbreng",
-    "docs/sporadische-eu-pollen",
+    "docs/pollen/species",
+    "docs/pollen/families",
 )
 
 sys.path.insert(0, str(ROOT / "scripts"))
@@ -230,11 +229,6 @@ def yaml_scalar(s: str) -> str:
 def format_canonical_block(ref: TaxonRef) -> str:
     latin = yaml_scalar(ref.latin or latin_from_slug(ref.slug))
     dutch = yaml_scalar(ref.dutch)
-    sources_lines = [
-        f"    - source: {marker}\n      path: {path}"
-        for marker, path in sorted(ref.markers.items())
-    ]
-    sources_block = "\n".join(sources_lines)
     slug = ref.slug
     by_taxon = BY_TAXON / slug
     image_lines: List[str] = []
@@ -252,34 +246,48 @@ def format_canonical_block(ref: TaxonRef) -> str:
 
     return (
         f"{slug}:\n"
-        f"  latin: {latin}\n"
-        f"  dutch: {dutch}\n"
-        f"  family:\n"
-        f"  note:\n"
+        f"  name:\n"
+        f"    latin_name: {latin}\n"
+        f"    dutch_name: {dutch}\n"
+        f"  classification:\n"
+        f"    order:\n"
+        f"    family:\n"
+        f"    tribe:\n"
+        f"    genus:\n"
         f"  size:\n"
-        f"    smallest_size:\n"
-        f"    largest_size:\n"
+        f"    size_smallest:\n"
+        f"    size_largest:\n"
         f"    height_px:\n"
-        f"  pollen_class:\n"
-        f"  shape:\n"
-        f"  sculpture:\n"
-        f"  aperture:\n"
-        f"  ornamentation:\n"
-        f"  polarity:\n"
-        f"  pe_ratio:\n"
-        f"  pollen-note:\n"
-        f"  bloeitijd:\n"
+        f"  pollen_class_beug:\n"
+        f"  pollen_features:\n"
+        f"    shape:\n"
+        f"    sculpture:\n"
+        f"    sculpture_visibility:\n"
+        f"    aperture:\n"
+        f"    aperture_visibility:\n"
+        f"    ornamentation:\n"
+        f"    ornamentation_visibility:\n"
+        f"    polarity:\n"
+        f"    pe_ratio:\n"
+        f"    pollen-note:\n"
+        f"  flowering_time:\n"
         f"    start:\n"
         f"    end:\n"
-        f"  nectar_value:\n"
-        f"  pollen_value:\n"
-        f"  frequency_in_honey:\n"
+        f"  value:\n"
+        f"    nectar_value:\n"
+        f"    pollen_value:\n"
+        f"  note:\n"
+        f"    note_plant:\n"
+        f"    note_honey:\n"
+        f"    note_pollen:\n"
+        f"  frequency_in_dutch_honey:\n"
+        f"  frequency_in_eu_honey:\n"
+        f"  frequency_in_non_eu_honey:\n"
         f"  links:\n"
         f"    pollenX:\n"
         f"    tstebler:\n"
         f"    paldat:\n"
-        f"  sources:\n"
-        f"{sources_block}\n"
+        f"    waarneming:\n"
         f"{images_block}\n"
     )
 
@@ -292,30 +300,8 @@ def source_entry_exists(block: str, marker: str, path: str) -> bool:
 
 
 def patch_existing_block(block: str, ref: TaxonRef) -> str:
-    changed = False
-    for marker, path in sorted(ref.markers.items()):
-        if source_entry_exists(block, marker, path):
-            continue
-        entry = f"    - source: {marker}\n      path: {path}\n"
-        if re.search(r"^  sources:\n", block, re.M):
-            block = re.sub(
-                r"(^  sources:\n(?:    - source:.*\n      path:.*\n)*)",
-                lambda m: m.group(1) + entry,
-                block,
-                count=1,
-                flags=re.M,
-            )
-        else:
-            block = re.sub(
-                r"(^  images:)",
-                f"  sources:\n{entry}\\1",
-                block,
-                count=1,
-                flags=re.M,
-            )
-        changed = True
-    return block if changed else ""
-
+    # sources: removed from pollen.yaml schema; keep block text otherwise unchanged.
+    return ""
 
 def split_yaml_blocks(text: str) -> List[Tuple[str, str]]:
     lines = text.splitlines(keepends=True)

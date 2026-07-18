@@ -19,6 +19,29 @@
     return d.innerHTML;
   }
 
+  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
+  const VISIBILITY_LABELS_NL = {
+    lm_clear: "goed zichtbaar met LM",
+    lm_poor: "matig zichtbaar met LM",
+    em_only: "alleen zichtbaar met EM",
+  };
+
+  function visibilityLabelNl(code) {
+    if (code == null) return "";
+    const s = String(code).trim();
+    if (!s || s === "-" || s === "null" || s === "None") return "";
+    return VISIBILITY_LABELS_NL[s] || "";
+  }
+
+  function morphWithVisibility(text, visibilityCode) {
+    const t = text != null ? String(text).trim() : "";
+    const label = visibilityLabelNl(visibilityCode);
+    if (t && label) return t + " (" + label + ")";
+    if (t) return t;
+    if (label) return "(" + label + ")";
+    return "";
+  }
+
   function escAttr(s) {
     return String(s)
       .replace(/&/g, "&amp;")
@@ -75,7 +98,7 @@
     let rel = h.replace(/^\.\/+/, "");
     // Bare filename: sibling under the same MkDocs section (Identificatiesleutels/).
     // With directory URLs, document.baseURI is …/page-slug/, so resolve via parent.
-    // Paths with / that are not ../ : docs-root relative (nederlandse-honing-pollen/foo.md).
+    // Paths with / that are not ../ : docs-root relative (pollen/species/foo.md).
     // Explicit ../ : resolve against current page baseURI.
     const isBareFilename = !rel.includes("/");
     const isDotDot = rel.startsWith("../");
@@ -291,10 +314,10 @@
         ? String(entry.monofloral_honey_page).trim()
         : "";
     // has_taxon_page === false (pollen.json, export_pollen_json.py): no monofloral page and no
-    // nederlandse-honing-pollen/<key>.md page exists; skip linking to avoid a 404 (e.g. Beug-key
-    // exemplar taxa without a Nederlandse taxonpagina, such as Acacia dealbata).
+    // pollen/species/<key>.md page exists; skip linking to avoid a 404 (e.g. Beug-key
+    // exemplar taxa without a taxon page, such as Acacia dealbata).
     if (!mono && entry && entry.has_taxon_page === false) return "";
-    const rel = mono ? mono.replace(/^\/*/, "") : "nederlandse-honing-pollen/" + pollenKey + ".md";
+    const rel = mono ? mono.replace(/^\/*/, "") : "pollen/species/" + pollenKey + ".md";
     return resolveSiteRelativeMarkdownHref(rel);
   }
 
@@ -307,9 +330,8 @@
         typeof entry.size === "object" && entry.size !== null ? entry.size : null
       ) || "";
     const grootteStr = grootte ? String(grootte).trim() : "";
-    const ornament = entry.ornamentation != null ? String(entry.ornamentation).trim() : "";
-    const oppervlak = ornament;
-    const opm = entry.aperture != null ? String(entry.aperture).trim() : "";
+    const oppervlak = morphWithVisibility(entry.ornamentation, entry.ornamentation_visibility);
+    const opm = morphWithVisibility(entry.aperture, entry.aperture_visibility);
     return "\t" + vorm + "\t" + grootteStr + "\t" + oppervlak + "\t" + opm;
   }
 
@@ -317,8 +339,11 @@
     return {
       shape: resolved.shape,
       sculpture: resolved.sculpture,
+      sculpture_visibility: resolved.sculpture_visibility,
       ornamentation: resolved.ornamentation,
+      ornamentation_visibility: resolved.ornamentation_visibility,
       aperture: resolved.aperture,
+      aperture_visibility: resolved.aperture_visibility,
       size: resolved.sizeRecord,
       monofloral_honey_page: resolved.monofloral_honey_page,
       has_taxon_page: resolved.has_taxon_page,
@@ -523,8 +548,14 @@
         entry.size && typeof entry.size === "object" ? /** @type {object} */ (entry.size) : null,
       shape: entry.shape != null ? entry.shape : null,
       sculpture: entry.sculpture != null ? entry.sculpture : null,
+      sculpture_visibility:
+        entry.sculpture_visibility != null ? entry.sculpture_visibility : null,
       ornamentation: entry.ornamentation != null ? entry.ornamentation : null,
+      ornamentation_visibility:
+        entry.ornamentation_visibility != null ? entry.ornamentation_visibility : null,
       aperture: entry.aperture != null ? entry.aperture : null,
+      aperture_visibility:
+        entry.aperture_visibility != null ? entry.aperture_visibility : null,
       monofloral_honey_page:
         entry.monofloral_honey_page != null ? entry.monofloral_honey_page : null,
       has_taxon_page: entry.has_taxon_page !== false,
@@ -571,6 +602,13 @@
           '<a rel="noopener" target="_blank" href="' +
             esc(String(resolved.links.paldat)) +
             '">PalDat</a>'
+        );
+      }
+      if (resolved.links.waarneming) {
+        parts.push(
+          '<a rel="noopener" target="_blank" href="' +
+            esc(String(resolved.links.waarneming)) +
+            '">Waarneming.nl</a>'
         );
       }
       if (parts.length) {

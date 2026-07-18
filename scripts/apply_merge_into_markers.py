@@ -244,13 +244,18 @@ _FIELDS = (
     "family",
     "shape",
     "sculpture",
+    "sculpture_visibility",
     "aperture",
+    "aperture_visibility",
     "ornamentation",
+    "ornamentation_visibility",
     "polarity",
     "pe_ratio",
     "nectar_value",
     "pollen_value",
-    "frequency_in_honey",
+    "frequency_in_dutch_honey",
+    "frequency_in_eu_honey",
+    "frequency_in_non_eu_honey",
 )
 
 
@@ -269,9 +274,9 @@ def absorb(tgt: str, base_body: str, donors: OrderedDict[str, str]) -> str:
             if dv and not scl(b, f):
                 b = set_blank(b, f, dv)
         for f in ("start", "end"):
-            v = nes(d, "bloeitijd", f)
+            v = nes(d, "flowering_time", f)
             if v:
-                b = fill_nes(b, "bloeitijd", f, v)
+                b = fill_nes(b, "flowering_time", f, v)
         b = merge_sources(b, d)
         b = merge_imgs(b, d, old, tgt)
     b = strip_mark(b)

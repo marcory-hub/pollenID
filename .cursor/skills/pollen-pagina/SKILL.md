@@ -1,14 +1,14 @@
 ---
 name: pollen-pagina
 description: >-
-  Create/update a Dutch taxon page under docs/nederlandse-honing-pollen/ following calluna_vulgaris.md.
+  Create/update a Dutch taxon page under docs/pollen/species/ following calluna_vulgaris.md.
 ---
 
-# Pollen taxon page (Nederlandse honing)
+# Pollen taxon page
 
 ## When to use
 
-- Create or revise a taxon page in `docs/nederlandse-honing-pollen/` (or another pollen page the user points to) using the current macro-first standard:
+- Create or revise a taxon page in `docs/pollen/species/` (or another pollen page the user points to) using the current macro-first standard:
   - `pollen(key, field)` for facts
   - `pollen_img(key, src, alt="")` for images with YAML-driven height
   - one top-of-page gallery with all available images
@@ -43,7 +43,7 @@ Patterns used in `calluna_vulgaris.md`:
 
 ## Output template (match calluna_vulgaris.md)
 
-Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and order:
+Create/update `docs/pollen/species/<slug>.md` with these sections and order:
 
 1. **H1**
    - `# *Genus species* (Nederlandse naam)`
@@ -70,19 +70,23 @@ Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Latijn** | {{ pollen("<taxon_id>", "latin") }} |
-| **Nederlands** | {{ pollen("<taxon_id>", "dutch") }} |
-| **Familie** | {{ pollen("<taxon_id>", "family") }} |
-| **Grootte (klein-groot)** | {{ pollen("<taxon_id>", "size.smallest_size") }} - {{ pollen("<taxon_id>", "size.largest_size") }} |
-| **Vorm** | {{ pollen("<taxon_id>", "shape") }} |
-| **Polariteit** | {{ pollen("<taxon_id>", "polarity") }} |
-| **P/E-ratio** | {{ pollen("<taxon_id>", "pe_ratio") }} |
-| **Apertuur** | {{ pollen("<taxon_id>", "aperture") }} |
-| **Ornamentatie** | {{ pollen("<taxon_id>", "ornamentation") }} |
-| **Bloeitijd (maand)** | {{ pollen("<taxon_id>", "bloeitijd.start") }} - {{ pollen("<taxon_id>", "bloeitijd.end") }} |
-| **Nectarwaarde** | {{ pollen("<taxon_id>", "nectar_value") }} |
-| **Pollenwaarde** | {{ pollen("<taxon_id>", "pollen_value") }} |
-| **Frequentie in honing** | {{ pollen("<taxon_id>", "frequency_in_honey") }} |
+| **Latijn** | {{ pollen("<taxon_id>", "name.latin_name") }} |
+| **Nederlands** | {{ pollen("<taxon_id>", "name.dutch_name") }} |
+| **Familie** | {{ pollen("<taxon_id>", "classification.family_latin") }} |
+| **Familie (NL)** | {{ pollen("<taxon_id>", "classification.family_dutch") }} |
+| **Grootte (klein-groot)** | {{ pollen("<taxon_id>", "size.size_smallest") }} - {{ pollen("<taxon_id>", "size.size_largest") }} |
+| **Vorm** | {{ pollen("<taxon_id>", "pollen_features.shape") }} |
+| **Polariteit** | {{ pollen("<taxon_id>", "pollen_features.polarity") }} |
+| **P/E-ratio** | {{ pollen("<taxon_id>", "pollen_features.pe_ratio") }} |
+| **Apertuur** | {{ pollen("<taxon_id>", "pollen_features.aperture") }} |
+| **Ornamentatie** | {{ pollen("<taxon_id>", "pollen_features.ornamentation") }} |
+| **Bloeitijd (maand)** | {{ pollen("<taxon_id>", "flowering_time.start") }} - {{ pollen("<taxon_id>", "flowering_time.end") }} |
+| **Nectarwaarde** | {{ pollen("<taxon_id>", "value.nectar_value") }} |
+| **Pollenwaarde** | {{ pollen("<taxon_id>", "value.pollen_value") }} |
+| **Frequentie in NL-honing** | {{ pollen("<taxon_id>", "frequency_in_dutch_honey") }} |
+| **Frequentie in EU-honing** | {{ pollen("<taxon_id>", "frequency_in_eu_honey") }} |
+| **Frequentie in niet-EU-honing** | {{ pollen("<taxon_id>", "frequency_in_non_eu_honey") }} |
+| **Bijdrage (primair/secundair)** | {{ pollen("<taxon_id>", "is_secondary_contributor") }} |
 ```
 
 4. **`## Determinatiesleutels` (required)**
@@ -103,7 +107,7 @@ Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and
 
 ## Navigation (`mkdocs.yml`)
 
-- If the page is new and the user asked for nav updates: add under `Nederlands` in alphabetical order.
+- If the page is new and the user asked for nav updates: prefer linking from the matching family page under `docs/pollen/families/`; do not hand-list every species in nav.
 - Do not change nav unless the user explicitly asks (broken-links/SEO risk when renaming/moving pages).
 
 ## Verification
@@ -112,4 +116,4 @@ Create/update `docs/nederlandse-honing-pollen/<slug>.md` with these sections and
 
 ## Canonical example
 
-`docs/nederlandse-honing-pollen/calluna_vulgaris.md`
+`docs/pollen/species/calluna_vulgaris.md`

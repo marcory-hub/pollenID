@@ -71,122 +71,80 @@ nav:
       - Citrus: monoflorale-honing-pollen/citrushoning.md
       - Braam: monoflorale-honing-pollen/braamhoning.md
       - Boekweit: monoflorale-honing-pollen/boekweithoning.md
-  # SEO / broken-links note: Nederlands nav regrouped (Beug-class > family/type for
-  # pilot; rest under Overige A-Z). Existing page slugs and file paths are unchanged;
-  # only nav hierarchy / breadcrumbs / next-prev order change.
-  - Nederlands:
-      - Overzicht: nederlandse-honing-pollen/_index.md
-      - "14. Tricolporaat-psilaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-14.md
-          - Centaurea cyanus: nederlandse-honing-pollen/beug-klassen/centaurea-cyanus.md
-          - Rhamnus: nederlandse-honing-pollen/beug-klassen/rhamnus.md
-          - Anthriscus-Typ: nederlandse-honing-pollen/beug-klassen/anthriscus-typ.md
-      - "19. Tricolporaat-striaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-19.md
-          - Aesculus: nederlandse-honing-pollen/beug-klassen/aesculus.md
-      - "20. Tricolporoidaat-striaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-20.md
-          - Prunus-/Pirus-Typ: nederlandse-honing-pollen/beug-klassen/prunus-pirus-typ.md
-          - Rubus-Typ: nederlandse-honing-pollen/beug-klassen/rubus-typ.md
-          - Acer platanoides: nederlandse-honing-pollen/beug-klassen/acer-platanoides.md
-      - "21. Tricolpaat-reticulaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-21.md
-          - Brassica-Typ: nederlandse-honing-pollen/beug-klassen/brassica-typ.md
-          - Salix: nederlandse-honing-pollen/beug-klassen/salix.md
-      - "22. Tricolporaat-reticulaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-22.md
-          - Trifolium repens: nederlandse-honing-pollen/beug-klassen/trifolium-repens.md
-          - Vicia-Typ: nederlandse-honing-pollen/beug-klassen/vicia-typ.md
-          - Echium: nederlandse-honing-pollen/beug-klassen/echium.md
-          - Tilia: nederlandse-honing-pollen/beug-klassen/tilia.md
-      - "23. Tricolporoidaat-reticulaat":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-23.md
-          - Robinia: nederlandse-honing-pollen/beug-klassen/robinia.md
-      - "29. Fenestratae":
-          - Overzicht: nederlandse-honing-pollen/beug-klassen/klasse-29.md
-          - Taraxacum-Typ: nederlandse-honing-pollen/beug-klassen/taraxacum-typ.md
-      - Overige (A-Z):
-          - achillea-typ: nederlandse-honing-pollen/achillea-typ.md
-          - ailanthus: nederlandse-honing-pollen/ailanthus.md
-          - allium-typ: nederlandse-honing-pollen/allium-typ.md
-          - amorpha-fruticosa: nederlandse-honing-pollen/amorpha-fruticosa.md
-          - anchusa: nederlandse-honing-pollen/anchusa.md
-          - asparagus-typ: nederlandse-honing-pollen/asparagus-typ.md
-          - aster-solidago-typ: nederlandse-honing-pollen/aster-solidago-typ.md
-          - brassicaceae: nederlandse-honing-pollen/brassicaceae.md
-          - buddlejaceae: nederlandse-honing-pollen/buddlejaceae.md
-          - calluna-vulgaris: nederlandse-honing-pollen/calluna_vulgaris.md
-          - centaurea-jacea-typ: nederlandse-honing-pollen/centaurea-jacea-typ.md
-          - centaurea-typ: nederlandse-honing-pollen/centaurea-typ.md
-          - cornus-mas: nederlandse-honing-pollen/cornus-mas.md
-          - cornus-sanguinea: nederlandse-honing-pollen/cornus-sanguinea.md
-          - crataegus-typ: nederlandse-honing-pollen/crataegus-typ.md
-          - cynoglossum: nederlandse-honing-pollen/cynoglossum.md
-          - eleagnaceae: nederlandse-honing-pollen/eleagnaceae.md
-          - epilobium: nederlandse-honing-pollen/epilobium.md
-          - fagopyrum_esculentum: nederlandse-honing-pollen/fagopyrum_esculentum.md
-          - filipendula: nederlandse-honing-pollen/filipendula.md
-          - fragaria: nederlandse-honing-pollen/fragaria.md
-          - fraxinus: nederlandse-honing-pollen/fraxinus.md
-          - genista-typ: nederlandse-honing-pollen/genista-typ.md
-          - hedera: nederlandse-honing-pollen/hedera.md
-          - helianthus-typ: nederlandse-honing-pollen/helianthus-typ.md
-          - heracleum-typ: nederlandse-honing-pollen/heracleum-typ.md
-          - hydrangeaceae: nederlandse-honing-pollen/hydrangeaceae.md
-          - impatiens-glandulifera: nederlandse-honing-pollen/impatiens-glandulifera.md
-          - impatiens-parviflora: nederlandse-honing-pollen/impatiens-parviflora.md
-          - jasione: nederlandse-honing-pollen/jasione.md
-          - lamium-typ: nederlandse-honing-pollen/lamium-typ.md
-          - lotus: nederlandse-honing-pollen/lotus.md
-          - lychnis-flos-cuculi: nederlandse-honing-pollen/lychnis-flos-cuculi.md
-          - majoranus-typ: nederlandse-honing-pollen/majoranus-typ.md
-          - melilotus: nederlandse-honing-pollen/melilotus.md
-          - myosotis-scorpioides: nederlandse-honing-pollen/myosotis_scorpioides.md
-          - ononis: nederlandse-honing-pollen/ononis.md
-          - parthenocissus: nederlandse-honing-pollen/parthenocissus.md
-          - polygonum-aviculare: nederlandse-honing-pollen/polygonum-aviculare.md
-          - polygonum-persicaria: nederlandse-honing-pollen/polygonum-persicaria.md
-          - polygonum-typ: nederlandse-honing-pollen/polygonum-typ.md
-          - potentilla: nederlandse-honing-pollen/potentilla.md
-          - ranunculus-typ: nederlandse-honing-pollen/ranunculus-typ.md
-          - raphanus-typ: nederlandse-honing-pollen/raphanus-typ.md
-          - rhus: nederlandse-honing-pollen/rhus.md
-          - ribes: nederlandse-honing-pollen/ribes.md
-          - rosaceae: nederlandse-honing-pollen/rosaceae.md
-          - serratula-typ: nederlandse-honing-pollen/serratula-typ.md
-          - sinapis-typ: nederlandse-honing-pollen/sinapis-typ.md
-          - spiraea: nederlandse-honing-pollen/spiraea.md
-          - symphoricarpus: nederlandse-honing-pollen/symphoricarpus.md
-          - symphytum: nederlandse-honing-pollen/symphytum.md
-          - tradescantia: nederlandse-honing-pollen/tradescantia.md
-          - vaccinium: nederlandse-honing-pollen/vaccinium.md
-          - verbascum: nederlandse-honing-pollen/verbascum.md
-          - violaceae: nederlandse-honing-pollen/violaceae.md
-  - Secundair:
-      - Overzicht: secundaire-inbreng/_index.md
-      - Alnus glutinosa: secundaire-inbreng/alnus-glutinosa.md
-      - Amaranthaceae: secundaire-inbreng/amaranthaceae.md
-      - Chenopodium bonus-henricus: secundaire-inbreng/chenopodium-bonus-henricus.md
-      - Corylus avellana: secundaire-inbreng/corylus-avellana.md
-      - Fagaceae: secundaire-inbreng/fagaceae.md
-      - Papaver argemone: secundaire-inbreng/papaver-argemone.md
-      - Papaver croceum: secundaire-inbreng/papaver-croceum.md
-      - Papaver dubium: secundaire-inbreng/papaver-dubium.md
-      - Papaver orientale: secundaire-inbreng/papaver-orientale.md
-      - Papaver somniferum: secundaire-inbreng/papaver-somniferum.md
-      - Papaveraceae: secundaire-inbreng/papaveraceae.md
-      - Pinaceae: secundaire-inbreng/pinaceae.md
-      - Plantago: secundaire-inbreng/plantago.md
-      - Plantago major: secundaire-inbreng/plantago-major.md
-      - Plantago arenaria: secundaire-inbreng/plantago-arenaria.md
-      - Poaceae: secundaire-inbreng/poaceae.md
-      - Populus: secundaire-inbreng/populus.md
-      - Quercus petraea: secundaire-inbreng/quercus-petraea.md
-      - Rumex: secundaire-inbreng/rumex.md
-  - Sporadisch:
-      - Overzicht: sporadische-eu-pollen/_index.md
-      - Bestimmungshulp pollenklassen: sporadische-eu-pollen/bestimmungshulp-pollenklassen.md
-  - niet-EU: niet-eu-pollen/_index.md
+  # Taxonomy axis: families + species under docs/pollen/. Geography/frequency live in
+  # data/pollen.yaml (not separate browse folders). Species pages are not all listed in
+  # nav (1300+); browse via Families or site search.
+  - Pollen:
+      - Families:
+          - Overzicht: pollen/families/_index.md
+          - Aceraceae: pollen/families/aceraceae.md
+          - Adoxaceae: pollen/families/adoxaceae.md
+          - Amaranthaceae: pollen/families/amaranthaceae.md
+          - Amaryllidaceae: pollen/families/amaryllidaceae.md
+          - Anacardiaceae: pollen/families/anacardiaceae.md
+          - Apiaceae: pollen/families/apiaceae.md
+          - Asparagaceae: pollen/families/asparagaceae.md
+          - Asphodelaceae: pollen/families/asphodelaceae.md
+          - Asteraceae: pollen/families/asteraceae.md
+          - Balsaminaceae: pollen/families/balsaminaceae.md
+          - Berberidaceae: pollen/families/berberidaceae.md
+          - Betulaceae: pollen/families/betulaceae.md
+          - Boraginaceae: pollen/families/boraginaceae.md
+          - Brassicaceae: pollen/families/brassicaceae.md
+          - Buddlejaceae: pollen/families/buddlejaceae.md
+          - Campanulaceae: pollen/families/campanulaceae.md
+          - Caprifoliaceae: pollen/families/caprifoliaceae.md
+          - Caryophyllaceae: pollen/families/caryophyllaceae.md
+          - Celastraceae: pollen/families/celastraceae.md
+          - Convolvulaceae: pollen/families/convolvulaceae.md
+          - Cornaceae: pollen/families/cornaceae.md
+          - Cucurbitaceae: pollen/families/cucurbitaceae.md
+          - Cupressaceae: pollen/families/cupressaceae.md
+          - Cyperaceae: pollen/families/cyperaceae.md
+          - Dipsacaceae: pollen/families/dipsacaceae.md
+          - Ephedraceae: pollen/families/ephedraceae.md
+          - Ericaceae: pollen/families/ericaceae.md
+          - Fabaceae: pollen/families/fabaceae.md
+          - Fagaceae: pollen/families/fagaceae.md
+          - Geraniaceae: pollen/families/geraniaceae.md
+          - Grossulariaceae: pollen/families/grossulariaceae.md
+          - Hippocastanaceae: pollen/families/hippocastanaceae.md
+          - Hydrangeaceae: pollen/families/hydrangeaceae.md
+          - Hypericaceae: pollen/families/hypericaceae.md
+          - Iridaceae: pollen/families/iridaceae.md
+          - Juglandaceae: pollen/families/juglandaceae.md
+          - Juncaceae: pollen/families/juncaceae.md
+          - Lamiaceae: pollen/families/lamiaceae.md
+          - Liliaceae: pollen/families/liliaceae.md
+          - Linaceae: pollen/families/linaceae.md
+          - Lythraceae: pollen/families/lythraceae.md
+          - Magnoliaceae: pollen/families/magnoliaceae.md
+          - Malvaceae: pollen/families/malvaceae.md
+          - Oleaceae: pollen/families/oleaceae.md
+          - Onagraceae: pollen/families/onagraceae.md
+          - Papaveraceae: pollen/families/papaveraceae.md
+          - Pinaceae: pollen/families/pinaceae.md
+          - Plantaginaceae: pollen/families/plantaginaceae.md
+          - Plumbaginaceae: pollen/families/plumbaginaceae.md
+          - Poaceae: pollen/families/poaceae.md
+          - Polemoniaceae: pollen/families/polemoniaceae.md
+          - Polygonaceae: pollen/families/polygonaceae.md
+          - Ranunculaceae: pollen/families/ranunculaceae.md
+          - Rhamnaceae: pollen/families/rhamnaceae.md
+          - Rosaceae: pollen/families/rosaceae.md
+          - Salicaceae: pollen/families/salicaceae.md
+          - Sapindaceae: pollen/families/sapindaceae.md
+          - Saxifragaceae: pollen/families/saxifragaceae.md
+          - Simaroubaceae: pollen/families/simaroubaceae.md
+          - Solanaceae: pollen/families/solanaceae.md
+          - Taxaceae: pollen/families/taxaceae.md
+          - Thymelaeaceae: pollen/families/thymelaeaceae.md
+          - Urticaceae: pollen/families/urticaceae.md
+          - Valerianaceae: pollen/families/valerianaceae.md
+          - Violaceae: pollen/families/violaceae.md
+          - Vitaceae: pollen/families/vitaceae.md
+      - Species:
+          - Overzicht: pollen/species/_index.md
   - Dubbelgangers:
       - Overzicht: dubbelgangers/_index.md
       - Acer prunus pyrus: dubbelgangers/acer-prunus-pyrus.md
