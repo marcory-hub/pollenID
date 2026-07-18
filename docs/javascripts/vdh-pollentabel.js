@@ -290,9 +290,11 @@
       entry && typeof entry.monofloral_honey_page === "string"
         ? String(entry.monofloral_honey_page).trim()
         : "";
-    const rel = mono
-      ? mono.replace(/^\/*/, "")
-      : "nederlandse-honing-pollen/" + pollenKey + ".md";
+    // has_taxon_page === false (pollen.json, export_pollen_json.py): no monofloral page and no
+    // nederlandse-honing-pollen/<key>.md page exists; skip linking to avoid a 404 (e.g. Beug-key
+    // exemplar taxa without a Nederlandse taxonpagina, such as Acacia dealbata).
+    if (!mono && entry && entry.has_taxon_page === false) return "";
+    const rel = mono ? mono.replace(/^\/*/, "") : "nederlandse-honing-pollen/" + pollenKey + ".md";
     return resolveSiteRelativeMarkdownHref(rel);
   }
 
@@ -319,6 +321,7 @@
       aperture: resolved.aperture,
       size: resolved.sizeRecord,
       monofloral_honey_page: resolved.monofloral_honey_page,
+      has_taxon_page: resolved.has_taxon_page,
     };
   }
 
@@ -327,15 +330,15 @@
     const pk = normalizePollenSlug(resolved.pollen_key);
     const faux = fauxPollenEntryFromResolved(resolved);
     const hrefRaw = primaryTaxonDocHrefFromPollenEntry(faux, pk);
-    const href = resolveInternalMdHref(hrefRaw);
     const tail = morphTailTabsFromPollenEntry(faux);
-    const link =
-      '<a class="pid-pollen-latin-link" href="' +
-      escAttr(href) +
-      '"><em>' +
-      esc(String(resolved.latin)) +
-      "</em></a>";
-    return link + '<span class="pid-pollen-morph-tail">' + esc(tail) + "</span>";
+    const latinHtml = hrefRaw
+      ? '<a class="pid-pollen-latin-link" href="' +
+        escAttr(resolveInternalMdHref(hrefRaw)) +
+        '"><em>' +
+        esc(String(resolved.latin)) +
+        "</em></a>"
+      : "<em>" + esc(String(resolved.latin)) + "</em>";
+    return latinHtml + '<span class="pid-pollen-morph-tail">' + esc(tail) + "</span>";
   }
 
   /** Parse a free-form size string (µm) and return the largest numeric token (matches Kerkvliet parseMaxUm). */
@@ -524,6 +527,7 @@
       aperture: entry.aperture != null ? entry.aperture : null,
       monofloral_honey_page:
         entry.monofloral_honey_page != null ? entry.monofloral_honey_page : null,
+      has_taxon_page: entry.has_taxon_page !== false,
       pollen_key: key,
       images: images,
       note: typeof endpoint.note === "string" && endpoint.note.trim() ? endpoint.note : null,

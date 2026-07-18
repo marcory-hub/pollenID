@@ -361,6 +361,9 @@
         ent && typeof ent.monofloral_honey_page === "string"
           ? String(ent.monofloral_honey_page).trim()
           : "";
+      // has_taxon_page === false (pollen.json, export_pollen_json.py): no monofloral page and no
+      // nederlandse-honing-pollen/<key>.md page exists; skip linking to avoid a 404.
+      if (!mono && ent && ent.has_taxon_page === false) return "";
       const rel = mono
         ? mono.replace(/^\/*/, "")
         : "nederlandse-honing-pollen/" + pollenKey + ".md";
@@ -370,6 +373,9 @@
     function latinHeadHtmlFromPollenEntry(ent, latinPlain, pollenKey) {
       if (!latinPlain) return "";
       const hrefRaw = primaryTaxonDocHrefFromPollenEntry(ent, pollenKey);
+      if (!hrefRaw) {
+        return "<strong>" + esc(String(latinPlain)) + "</strong>";
+      }
       const href = resolveMdHref(hrefRaw);
       return (
         '<a class="pid-pollen-latin-link" href="' +
