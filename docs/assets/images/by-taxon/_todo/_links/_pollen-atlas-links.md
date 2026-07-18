@@ -6,7 +6,7 @@ Taxa in `docs/assets/images/by-taxon/_todo/` with PollenX, T Stebler, and Paldat
 
 ## abelia_schumannii
 *Abelia schumannii*
-
+This is a synonym for: Abelia parviflora
 [PollenX]-
 [T Stebler]-
 [Paldat]-
@@ -15,7 +15,7 @@ https://powo.1science.kew.org/taxon/urn:lsid:ipni.org:names:148223-1
 
 ## abutilon_x_hybridum
 *Abutilon x*
-
+Chinese lantaarn
 [PollenX]-
 [T Stebler]-
 [Paldat]-

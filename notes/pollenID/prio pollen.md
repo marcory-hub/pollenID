@@ -48,7 +48,7 @@
 40. Polygonum aviculare (Zwaluwtong)
 41. Polygonum persicaria (Zonnerus)
 42. Amorpha fruticosa (Indigobosje)
-43. Serratula-Typ (Zaagblad)
+43. Serratula-Typ (Zaagblad) ZEER ZELDZAAM, not a priority
 44. Crataegus-Typ (Meidoorn)
 45. Trifolium pratense (Rode klaver)
 46. Hedera (Klimop)

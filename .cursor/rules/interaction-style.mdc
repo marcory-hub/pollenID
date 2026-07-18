@@ -24,6 +24,7 @@ alwaysApply: true
 
 - **No em dashes or emojis:** Do not use em dashes or emojis in any file the agent writes or edits. Use a colon, comma, hyphen, or a separate sentence instead.
 - **Clarity:** Prefer concrete nouns and direct verbs. Avoid vague filler, invented metaphors, and overlong sentences.
+- **No agent scaffolding in docs:** Do not insert meta-lines that describe the page structure, field inventory, or how to read the section (e.g. "Per type: pollenklasse, vorm…", "Deze sectie behandelt…", "as follows"). Write only reader content. No self-narrating schema prose in `docs/`.
 
 # Public documentation (GitHub)
 

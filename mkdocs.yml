@@ -48,6 +48,11 @@ extra_javascript:
 nav:
   - Home: index.md
   - Keys: Identificatiesleutels/_index.md
+  - Leerpad:
+      - Overzicht: leerpad/_index.md
+      - "Niveau 1": leerpad/niveau-1.md
+      - "Niveau 2": leerpad/niveau-2.md
+      - "Niveau 3-5": leerpad/niveau-3-5.md
   - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md

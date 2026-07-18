@@ -477,23 +477,23 @@ achillea_millefolium:
     family_latin: Asteraceae
     family_dutch: composietenfamilie
     tribe:
-    genus:
+    genus: Achillea
   size:
-    size_smallest: 29 µm
-    size_largest: 29 µm
-    height_px: 72
+    size_smallest: 32 µm
+    size_largest: 32 µm
+    height_px: 80
   pollen_class_beug: 17
   pollen_features:
-    shape: rond tot driekantig convex, sferoid
-    sculpture: echinaat, lengte van de echini 3.3 µm, veel pollenkit
+    shape: rondachtig tot licht driehoekig convex, sferoid
+    sculpture: echinaat; echini ca. 3.3 µm; exine ca. 3 µm dik
     sculpture_visibility:
-    aperture: tricolporaat
+    aperture: tricolporaat; porenradius ca. 2.8 µm
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio: 0.33
-    pollen-note: 'exine: dik (3 µm), pori-radius 2.8 µm, veel pollenkit'
+    polarity: isopolair
+    pe_ratio:
+    pollen-note: Beug 17.1.6 Matricaria-type; middelgroot polair veld (PolFeldI ca. 0.33); veel pollenkitt
   flowering_time:
     start: 6
     end: 10
@@ -645,29 +645,29 @@ aesculus_hippocastanum:
 asparagus_officinalis:
   name:
     latin_name: Asparagus officinalis
-    dutch_name:
+    dutch_name: asperge
   classification:
-    order:
-    family_latin:
-    family_dutch:
+    order: Asparagales
+    family_latin: Asparagaceae
+    family_dutch: aspergefamilie
     tribe:
-    genus:
+    genus: Asparagus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 21 µm
+    size_largest: 25 µm
+    height_px: 62
+  pollen_class_beug: '09'
   pollen_features:
-    shape:
-    sculpture:
+    shape: sferoid (gehydrateerd); droog bootvormig; polair aanzicht circulair
+    sculpture: scabraat (LM); perforaat, microreticulaat (SEM)
     sculpture_visibility:
-    aperture:
+    aperture: monocolpaat, sulcaat
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: heteropolair
     pe_ratio:
-    pollen-note:
+    pollen-note: monad
   flowering_time:
     start:
     end:
@@ -1795,23 +1795,23 @@ amorpha_fruticosa:
     family_latin: Fabaceae
     family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Amorpha
   size:
-    size_smallest: 21 µm
-    size_largest: 21 µm
-    height_px: 52
+    size_smallest: 19.8 µm
+    size_largest: 21.9 µm
+    height_px: 55
   pollen_class_beug: 22
   pollen_features:
-    shape: rond tot gering driekantig, sferoid tot gering oblaat
-    sculpture: reticulaat en deels verrucaat
+    shape: rond tot licht driehoekig, sferoid tot optisch licht oblaat
+    sculpture: reticulaat, deels verrucaat
     sculpture_visibility:
-    aperture: tricolpaat
+    aperture: tricolporaat
     aperture_visibility:
-    ornamentation: middenstreep van apertuurmembraan
+    ornamentation: apertuurmembranen als middellijnstreep geornamenteerd
     ornamentation_visibility:
-    polarity: 0.84
-    pe_ratio: 0.25
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.84)
+    pollen-note: middelgroot polair veld (PolFeldI ca. 0.25); zeer veel pollenkitt
   flowering_time:
     start: 6
     end: 8
@@ -2192,23 +2192,23 @@ anthriscus_sylvestris:
     family_latin: Apiaceae
     family_dutch: schermbloemenfamilie
     tribe:
-    genus:
+    genus: Anthriscus
   size:
-    size_smallest: 24 µm
-    size_largest: 27 µm
-    height_px: 65
+    size_smallest: 13.1 µm
+    size_largest: 27.2 µm
+    height_px: 68
   pollen_class_beug: 14
   pollen_features:
-    shape: rond to licht driehoekig convex, prolaat
-    sculpture: verrucaat, scabraat, gemmaat
+    shape: rond tot licht driehoekig convex, prolaat
+    sculpture: verrucaat
     sculpture_visibility:
-    aperture: smalle colpi
+    aperture: tricolporaat; smalle colpi; porendiameter ca. 3.2 (2.5-4.6) µm
     aperture_visibility:
-    ornamentation: geen
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
     polarity: isopolair
-    pe_ratio:
-    pollen-note:
+    pe_ratio: prolaat (PoFormI ca. 1.67-1.90)
+    pollen-note: Beug 14.11.11 Apiaceae-verzamelgroep; maten 26 (24.2-27.2) en 15 (13.1-15.5) µm
   flowering_time:
     start: 5
     end: 6
@@ -3601,26 +3601,26 @@ buddleja_davidii:
     dutch_name: vlinderstruik
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Buddlejaceae
+    family_dutch: vlinderstruikfamilie
     tribe:
-    genus:
+    genus: Buddleja
   size:
-    size_smallest: 15 µm
-    size_largest: 15 µm
-    height_px: 38
+    size_smallest: 14.3 µm
+    size_largest: 17.9 µm
+    height_px: 45
   pollen_class_beug: 25
   pollen_features:
-    shape: rond
-    sculpture: psilaat, soms rugulaat
+    shape: vierkant tot vijfhoekig, sferoid
+    sculpture: psilaat, evt. rugulaat
     sculpture_visibility:
-    aperture: 4-colporaat
+    aperture: stephanocolporaat, 4-(5)-colporaat; porendiameter ca. 4 µm; poren met anulus
     aperture_visibility:
-    ornamentation: apertuurmembranen zijn deels geornamenteerd
+    ornamentation: apertuurmembranen deels geornamenteerd
     ornamentation_visibility:
-    polarity: 0.85
-    pe_ratio: 0.41
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid (PoFormI ca. 0.89)
+    pollen-note: middelgroot polair veld (PolFeldI ca. 0.41); alleen PK met 4-(5) aperturen
   flowering_time:
     start:
     end:
@@ -4834,29 +4834,29 @@ catalpa_ovata:
 centaurea_cyanus:
   name:
     latin_name: Centaurea cyanus
-    dutch_name:
+    dutch_name: korenbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
     tribe:
-    genus:
+    genus: Centaurea
   size:
-    size_smallest: 34 µm
-    size_largest: 41 µm
-    height_px:
-  pollen_class_beug:
+    size_smallest: 30.9 µm
+    size_largest: 45.3 µm
+    height_px: 113
+  pollen_class_beug: 14
   pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
+    shape: driehoekig convex tot rozetachtig, prolaat
+    sculpture: striaat; volgens PalDat LM echinaat
+    sculpture_visibility: lm_clear
+    aperture: tricolporaat; apertuurmembranen niet geornamenteerd; poriën equatorward gestrekt (meer rechthoekig); equatoriale gordelgroef
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: 1.22
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Beug 14.14 Centaurea cyanus. Monad, isopolair. Twee maatreeksen: 41 µm (38.2-45.3) en 34 µm (30.9-40.8). PoFormI ca. 1.22 (1.19-1.25). Middelgroot tot klein polarveld. Dominantie LM: schuin.'
   flowering_time:
     start:
     end:
@@ -5214,21 +5214,21 @@ chamerion_angustifolium:
     tribe:
     genus:
   size:
-    size_smallest: 62 µm
-    size_largest: 80 µm
-    height_px: 200
-  pollen_class_beug:
+    size_smallest: 74.6 µm
+    size_largest: 89.5 µm
+    height_px: 224
+  pollen_class_beug: 31
   pollen_features:
-    shape: rond tot driekantig, afhankelijk van de ligging
+    shape: driehoekig, sferoid tot licht oblaat
     sculpture: 'glad (Tstebler: rugulaat, Beug: psilaat met golvend oppervlak)'
     sculpture_visibility:
-    aperture: 3-poraat, pori radius 10 µm, vele viscinedraden
+    aperture: triporaat, pori radius 10 µm, vele viscinedraden
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 31.7 Epilobium
   flowering_time:
     start: 6
     end: 8
@@ -5236,7 +5236,7 @@ chamerion_angustifolium:
     nectar_value: 5
     pollen_value: 5
   note:
-    note_plant:
+    note_plant: syn. Chamaenerion angustifolium (L.) Scop.; basioniem Epilobium angustifolium L.
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
@@ -6782,29 +6782,29 @@ crataegus_leavigata:
 crataegus_monogyna:
   name:
     latin_name: Crataegus monogyna
-    dutch_name: https://www.jstor.org/stable/i25027808
+    dutch_name: eenstijlige meidoorn
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Crataegus
   size:
-    size_smallest: 39 µm
-    size_largest: 46 µm
-    height_px: 100
-  pollen_class_beug:
+    size_smallest: 39.2 µm
+    size_largest: 46.2 µm
+    height_px: 116
+  pollen_class_beug: 20
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, oblaat
+    sculpture: rugulaat tot striaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.71
+    pe_ratio: 0.21
+    pollen-note: Beug 20.12 Sorbus-groep. Monad, isopolair. Porendiameter dwars ca. 17 µm. Klein polarveld (PolFeldI ca. 0.21). Middelgrootte ca. 43 µm.
   flowering_time:
     start:
     end:
@@ -7185,29 +7185,29 @@ cynoglossum_creticum:
 cynoglossum_officinale:
   name:
     latin_name: Cynoglossum officinale
-    dutch_name: Cynoglossum officinale
+    dutch_name: echte hondstong
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
-    genus:
+    genus: Cynoglossum
   size:
     size_smallest: 11 µm
     size_largest: 15 µm
-    height_px:
+    height_px: 38
   pollen_class_beug:
   pollen_features:
-    shape:
-    sculpture:
+    shape: prolaat; droog driehoekig in polair aanzicht
+    sculpture: psilaat (LM); perforaat, psilaat (SEM)
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; heteroaperturaat; margo; pseudocolpus; lalongaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembraan geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: prolaat
+    pollen-note: klein pollen (10-25 µm klasse); hydraat LM 11-15 µm
   flowering_time:
     start:
     end:
@@ -8138,29 +8138,29 @@ echinops_sphaerocephalus:
 echium_vulgare:
   name:
     latin_name: Echium vulgare
-    dutch_name:
+    dutch_name: slangenkruid
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
-    genus:
+    genus: Echium
   size:
     size_smallest: 17 µm
     size_largest: 17 µm
-    height_px:
-  pollen_class_beug:
+    height_px: 42
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, ei- tot maiskorrelvormig, duidelijk prolaat
+    sculpture: fijn reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; poren dichter bij de bredere pool
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: heteropolair
+    pe_ratio: duidelijk prolaat
+    pollen-note: Beug 22.20 Echium; dunne exine
   flowering_time:
     start:
     end:
@@ -8199,29 +8199,29 @@ echium_vulgare:
 elaeagnus_angustifolia:
   name:
     latin_name: Elaeagnus angustifolia
-    dutch_name:
+    dutch_name: smalbladige olijfwilg
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Elaeagnaceae
+    family_dutch: duindoornfamilie
     tribe:
-    genus:
+    genus: Elaeagnus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 34.8 µm
+    size_largest: 50.4 µm
+    height_px: 126
+  pollen_class_beug: 14
   pollen_features:
-    shape:
-    sculpture:
+    shape: rondachtig tot licht driehoekig convex, sferoid
+    sculpture: scabraat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat, angulaperturaat, brevicolpaat; colpi kort en niet symmetrisch over de evenaar
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen vaak fijnkorrelig geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: heteropolair
+    pe_ratio: sferoid (PoFormI ca. 0.91; 0.88-0.97)
+    pollen-note: Beug 14.7 Elaeagnus; op het eerste gezicht isopolair, triporaat; maten 44 (39.5-50.4) en 39 (34.8-40.7) µm
   flowering_time:
     start:
     end:
@@ -8309,26 +8309,26 @@ epilobium_angustifolium:
     dutch_name: wilgenroosje
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Onagraceae
+    family_dutch: teunisbloemfamilie
     tribe:
-    genus:
+    genus: Epilobium
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 74.6 µm
+    size_largest: 89.5 µm
+    height_px: 224
+  pollen_class_beug: 31
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, sferoid tot licht oblaat
+    sculpture: 'rugulaat (Beug: psilaat met golvend oppervlak)'
     sculpture_visibility:
-    aperture:
+    aperture: triporaat; porenradius ca. 10 µm
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: vele viscinedraden; Beug 31.7 Epilobium
   flowering_time:
     start:
     end:
@@ -8336,7 +8336,7 @@ epilobium_angustifolium:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: geaccepteerd Chamerion angustifolium (L.) Holub; syn. Chamaenerion angustifolium (L.) Scop.; basioniem Epilobium angustifolium L.
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -9629,20 +9629,20 @@ foeniculum_vulgaris:
 fragaria_vesca:
   name:
     latin_name: Fragaria vesca
-    dutch_name: aardbei
+    dutch_name: bosaardbei
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Fragaria
   size:
     size_smallest: 21 µm
     size_largest: 21 µm
     height_px: 52
   pollen_class_beug:
   pollen_features:
-    shape: ∆
+    shape: driehoekig
     sculpture: striaat
     sculpture_visibility:
     aperture: tricolporaat
@@ -10594,29 +10594,29 @@ helianthus_annuus:
 heracleum_sphondylium:
   name:
     latin_name: Heracleum sphondylium
-    dutch_name:
+    dutch_name: gewone berenklauw
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Apiaceae
+    family_dutch: schermbloemenfamilie
     tribe:
-    genus:
+    genus: Heracleum
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 35.4 µm
+    size_largest: 41.6 µm
+    height_px: 104
+  pollen_class_beug: 14
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, prolaat
+    sculpture: verrucaat tot scabraat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; porendiameter ca. 5.5 µm; colpi vaak onduidelijk (lijkt triporaat)
     aperture_visibility:
-    ornamentation:
+    ornamentation: poren deels licht geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: prolaat (PoFormI ca. 1.64)
+    pollen-note: Beug 14.11.2 Heracleum sphondylium
   flowering_time:
     start:
     end:
@@ -11617,26 +11617,26 @@ lamium_album:
     dutch_name: witte dovenetel
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Lamiaceae
+    family_dutch: lipbloemenfamilie
     tribe:
-    genus:
+    genus: Lamium
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 26.3 µm
+    size_largest: 29.2 µm
+    height_px: 73
+  pollen_class_beug: 13
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, sferoid tot optisch licht oblaat
+    sculpture: psilaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen fijn korrelig geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.83-0.92)
+    pollen-note: Beug 13.22 Lamium album-type; klein polair veld (PolFeldI ca. 0.21); pollenkitt; monad
   flowering_time:
     start:
     end:
@@ -12732,26 +12732,26 @@ lotus_corniculatus:
     dutch_name: rolklaver
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Lotus
   size:
-    size_smallest: 13 µm
-    size_largest: 18 µm
-    height_px: 45
-  pollen_class_beug:
+    size_smallest: 17.4 µm
+    size_largest: 20.5 µm
+    height_px: 51
+  pollen_class_beug: 14
   pollen_features:
-    shape: ovaal
-    sculpture: glad
+    shape: licht driehoekig convex, elliptisch, prolaat
+    sculpture: psilaat tot licht scabraat
     sculpture_visibility:
-    aperture: tricolporaat
+    aperture: tricolporaat; endoapertuur ovaal, lalongaat onder de colpi
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen schijnen niet geornamenteerd; margo langs colpi om poren
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: prolaat (PoFormI ca. 1.31)
+    pollen-note: Beug 14.29.1 Lotus-type; groot polair veld
   flowering_time:
     start:
     end:
@@ -12890,30 +12890,30 @@ luzula_sylvatica:
   is_secondary_contributor:
 lychnis_flos-cuculi:
   name:
-    latin_name: Lychnis flos-cuculi
-    dutch_name:
+    latin_name: Silene flos-cuculi
+    dutch_name: echte koekoeksbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Caryophyllaceae
+    family_dutch: anjerfamilie
     tribe:
-    genus:
+    genus: Silene
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 32.9 µm
+    size_largest: 36.7 µm
+    height_px: 92
+  pollen_class_beug: 33
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, sferoid
+    sculpture: baculaat/verrucaat tot optisch reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: pantoaperturaat, periporaat, veel poren; porendiameter ca. 6 (4.6-7.3) µm
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen geornamenteerd, operculaat
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 33.8.9 Silene-type; syn. Lychnis flos-cuculi
   flowering_time:
     start:
     end:
@@ -12921,7 +12921,7 @@ lychnis_flos-cuculi:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: syn. Lychnis flos-cuculi
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -14000,25 +14000,25 @@ myosotis_scorpioides:
   classification:
     order:
     family_latin: Boraginaceae
-    family_dutch: Ruwbladigenfamilie
+    family_dutch: ruwbladigenfamilie
     tribe:
-    genus:
+    genus: Myosotis
   size:
-    size_smallest: 5 µm
-    size_largest: 7 µm
-    height_px: 18
-  pollen_class_beug:
+    size_smallest: 4.6 µm
+    size_largest: 8.7 µm
+    height_px: 22
+  pollen_class_beug: 28
   pollen_features:
-    shape: halter, tonvormig bij equator ingesnoerd, prolaat
+    shape: tonvormig, bij evenaar ingesnoerd, prolaat
     sculpture: psilaat
     sculpture_visibility:
-    aperture: 6-colpaat, iedere tweede colpus met een porus
+    aperture: heterocolpaat; 6 colpi; elke 2e colpus met porus
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity: hetropolair
-    pe_ratio:
-    pollen-note:
+    polarity: heteropolair
+    pe_ratio: prolaat (PoFormI ca. 1.71; 1.63-1.77)
+    pollen-note: Beug 28.8 Myosotis sylvatica-type; maten 8 (8.0-8.7) en 5 (4.6-5.3) µm
   flowering_time:
     start: 5
     end: 8
@@ -15021,25 +15021,25 @@ phacelia_tanacetifolia:
   classification:
     order:
     family_latin: Boraginaceae
-    family_dutch: Ruwbladigenfamilie
+    family_dutch: ruwbladigenfamilie
     tribe:
-    genus:
+    genus: Phacelia
   size:
-    size_smallest: 20 µm
-    size_largest: 20 µm
-    height_px: 50
-  pollen_class_beug:
+    size_smallest: 18.8 µm
+    size_largest: 23.1 µm
+    height_px: 58
+  pollen_class_beug: 24
   pollen_features:
-    shape: rond tot rozetvormig, tot gering oblaat
-    sculpture: scabraat tot psylaat, aperturen met geringe korrelige ornamentatie
+    shape: rond tot rozetvormig, sferoid tot optisch licht oblaat
+    sculpture: scabraat tot psilaat
     sculpture_visibility:
-    aperture: stephanocolpaat, afwisselend breed en smal
+    aperture: stephanocolpaat tot heterocolpaat; 6 colpi, afwisselend breed en smal
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen licht korrelig geornamenteerd
     ornamentation_visibility:
     polarity: isopolair
-    pe_ratio: ca. 0.81
-    pollen-note:
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.81)
+    pollen-note: Beug 24.3 Phacelia tanacetifolia; monad
   flowering_time:
     start: 5
     end: 9
@@ -16064,29 +16064,29 @@ potentilla_crantzii:
 potentilla_erecta:
   name:
     latin_name: Potentilla erecta
-    dutch_name:
+    dutch_name: tormentil
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Potentilla
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 24.8 µm
+    size_largest: 27.2 µm
+    height_px: 68
+  pollen_class_beug: 20
   pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
+    shape: driehoekig, sferoid tot optisch licht oblaat
+    sculpture: striaat (LM zwak zichtbaar; lijkt granulaat)
+    sculpture_visibility: lm_poor
+    aperture: tricolporaat; porus-/colpusmidden met mittige sculptuur
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.87
+    pe_ratio: 0.2
+    pollen-note: Beug 20.5 Potentilla-type. Monad, isopolair. Enig pollenkit. Klein polarveld (PolFeldI ca. 0.20). Middelgrootte ca. 26 µm.
   flowering_time:
     start:
     end:
@@ -16901,26 +16901,26 @@ ribes_rubrum:
     dutch_name: aalbes
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Grossulariaceae
+    family_dutch: ribesfamilie
     tribe:
-    genus:
+    genus: Ribes
   size:
-    size_smallest: 25 µm
-    size_largest: 33 µm
-    height_px:
-  pollen_class_beug:
+    size_smallest: 24.6 µm
+    size_largest: 32.5 µm
+    height_px: 81
+  pollen_class_beug: 33
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, sferoid
+    sculpture: scabraat
     sculpture_visibility:
-    aperture: Pori omgeven (en soms verbonden) door tectum-loze (scabrate) zones
+    aperture: periporaat; lacuna (brede verdieping) rond de poriën
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 33.10 Ribes. Monad. Ca. 10 poriën per PK; porendiameter ca. 2-5.5 µm. Zeer veel gedroogde of gekrompen PK. Middelgrootte ca. 29 µm.
   flowering_time:
     start:
     end:
@@ -17005,29 +17005,29 @@ ribes_sanguineum:
 robinia_pseudoacacia:
   name:
     latin_name: Robinia pseudoacacia
-    dutch_name: Robinia pseudoacacia
+    dutch_name: robinia
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Robinia
   size:
     size_smallest: 30 µm
     size_largest: 30 µm
     height_px: 75
-  pollen_class_beug:
+  pollen_class_beug: 23
   pollen_features:
-    shape: driehoekig tot rond, sferoid tot optisch gering oblaat
-    sculpture: scabraat, aperturen zonder ornamentatie
+    shape: driehoekig tot rondachtig, sferoid tot optisch licht oblaat
+    sculpture: scabraat
     sculpture_visibility:
-    aperture: tricolpaat, enkele pollen tetracolporoidaat
+    aperture: tricolpaat; colpi aan de rand uitgefranst
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
     polarity: isopolair
-    pe_ratio: '0.89'
-    pollen-note:
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.89)
+    pollen-note: Beug 23.5 Robinia pseudoacacia; middelgroot polair veld
   flowering_time:
     start:
     end:
@@ -17075,26 +17075,26 @@ rosa_canina:
     dutch_name: hondsroos
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Rosa
   size:
     size_smallest: 30.4 µm
     size_largest: 36.4 µm
     height_px: 91
-  pollen_class_beug:
+  pollen_class_beug: 20
   pollen_features:
-    shape:
-    sculpture:
+    shape: licht driehoekig tot rondachtig, sferoid
+    sculpture: striaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; apertuurmembranen mittig korrelig geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.99
+    pe_ratio: 0.29
+    pollen-note: Beug 20.6 Rosa. Monad, isopolair. Middelgroot polarveld (PolFeldI ca. 0.29). Middelgrootte ca. 33 µm. Veel gedroogde PK aanwezig.
   flowering_time:
     start:
     end:
@@ -17881,26 +17881,26 @@ salix_caprea:
     dutch_name: boswilg
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Salicaceae
+    family_dutch: wilgenfamilie
     tribe:
-    genus:
+    genus: Salix
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
+    size_smallest: 17 µm
+    size_largest: 26 µm
+    height_px: 65
   pollen_class_beug:
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig
+    sculpture: reticulaat (mazes kleiner naar de colpi)
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat (soms met duidelijke porie)
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: Ook waterwilg. Morphologie uit leerpad-referentie.
   flowering_time:
     start:
     end:
@@ -18176,30 +18176,30 @@ sanguisorba_officinalis:
   is_secondary_contributor:
 jasione_montana:
   name:
-    latin_name: Santolina Jasione montana
+    latin_name: Jasione montana
     dutch_name: zandblauwtje
   classification:
-    order:
-    family_latin:
-    family_dutch:
+    order: Asterales
+    family_latin: Campanulaceae
+    family_dutch: klokjesfamilie
     tribe:
-    genus:
+    genus: Jasione
   size:
-    size_smallest: 22 µm
-    size_largest: 22 µm
-    height_px: 55
+    size_smallest: 16 µm
+    size_largest: 25 µm
+    height_px: 62
   pollen_class_beug:
   pollen_features:
-    shape: rond
-    sculpture: echinaat
+    shape: sferoid; polair aanzicht circulair
+    sculpture: echinaat (LM); perforaat, microechinaat (SEM)
     sculpture_visibility:
-    aperture: 3-poraat
+    aperture: triporaat; apertuurmembraan geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: monad; hydraat LM ca. 21-25 µm; droog onregelmatig
   flowering_time:
     start:
     end:
@@ -19011,32 +19011,87 @@ silene_cucubalis:
       kind: pollenwiki
       source: pollenwiki
   is_secondary_contributor:
-sinapis_arvensis:
+silene_flos_cuculi:
   name:
-    latin_name: Sinapis arvensis
-    dutch_name: wilde mosterd
+    latin_name: Silene flos-cuculi
+    dutch_name: echte koekoeksbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Caryophyllaceae
+    family_dutch: anjerfamilie
     tribe:
-    genus:
+    genus: Silene
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 32.9 µm
+    size_largest: 36.7 µm
+    height_px: 92
+  pollen_class_beug: 33
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, sferoid
+    sculpture: baculaat/verrucaat tot optisch reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: pantoaperturaat, periporaat, veel poren; porendiameter ca. 6 (4.6-7.3) µm
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen geornamenteerd, operculaat
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 33.8.9 Silene-type; syn. Lychnis flos-cuculi
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant: syn. Lychnis flos-cuculi
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Silene_flos-cuculi
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Silene_flos-cuculi
+    paldat: https://www.paldat.org/pub/Silene_flos-cuculi
+    waarneming: https://waarneming.nl/search/?q=silene+flos-cuculi
+  images:
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_3.png
+      kind: by_taxon
+      source: by_taxon
+  is_secondary_contributor:
+sinapis_arvensis:
+  name:
+    latin_name: Sinapis arvensis
+    dutch_name: herik
+  classification:
+    order:
+    family_latin: Brassicaceae
+    family_dutch: kruisbloemenfamilie
+    tribe:
+    genus: Sinapis
+  size:
+    size_smallest: 31 µm
+    size_largest: 35 µm
+    height_px: 88
+  pollen_class_beug:
+  pollen_features:
+    shape: rond, sferoid (polair aanzicht cirkelvormig)
+    sculpture: reticulaat
+    sculpture_visibility: lm_clear
+    aperture: tricolpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio:
+    pollen-note: "Monad. PalDat LM: 31-35 µm; dominantie schuin. SEM/TEM niet gegeven."
   flowering_time:
     start:
     end:
@@ -19573,13 +19628,13 @@ sorbus_aucuparia:
 spiraea_japonica:
   name:
     latin_name: Spiraea japonica
-    dutch_name: spirea
+    dutch_name: Japanse spirea
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Spiraea
   size:
     size_smallest: 12.5 µm
     size_largest: 12.5 µm
@@ -19890,30 +19945,30 @@ sylibum_marianum:
   is_secondary_contributor:
 symphoricarpos_albus:
   name:
-    latin_name: Symphoricarpos Albus
-    dutch_name:
+    latin_name: Symphoricarpos albus
+    dutch_name: gewone sneeuwbes
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Caprifoliaceae
+    family_dutch: kamperfoeliefamilie
     tribe:
-    genus:
+    genus: Symphoricarpos
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
-  pollen_class_beug:
+    size_smallest: 40 µm
+    size_largest: 40 µm
+    height_px: 100
+  pollen_class_beug: 14
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig tot rondachtig, sferoid tot optisch licht oblaat
+    sculpture: psilaat tot scabraat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: margo om poren
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: dunne exine
   flowering_time:
     start:
     end:
@@ -19952,26 +20007,26 @@ symphytum_officinale:
     dutch_name: smeerwortel
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
-    genus:
+    genus: Symphytum
   size:
-    size_smallest: 27 µm
+    size_smallest: 33 µm
     size_largest: 33 µm
     height_px: 82
-  pollen_class_beug:
+  pollen_class_beug: 25
   pollen_features:
-    shape:
-    sculpture: glad/ruw opp.
+    shape: rond, prolaat
+    sculpture: psilaat
     sculpture_visibility:
-    aperture: tricolporaat
+    aperture: stephanocolporaat; meestal 9-12 korte colpi
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: prolaat (PoFormI ca. 1.31)
+    pollen-note: Beug 25.16 Symphytum; dunne exine en intine
   flowering_time:
     start:
     end:
@@ -20820,29 +20875,29 @@ trifolium_incarnatum:
 trifolium_pratense:
   name:
     latin_name: Trifolium pratense
-    dutch_name:
+    dutch_name: rode klaver
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Trifolium
   size:
     size_smallest: 35.9 µm
     size_largest: 41.5 µm
     height_px: 104
-  pollen_class_beug:
+  pollen_class_beug: 22
   pollen_features:
-    shape: gering driehoekig convex
-    sculpture: grof reticulair
+    shape: licht driehoekig convex, sferoid tot optisch licht prolaat
+    sculpture: grof reticulaat
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen korrelig geornamenteerd
     ornamentation_visibility:
     polarity: isopolair
-    pe_ratio: ca. 1.07
-    pollen-note:
+    pe_ratio: sferoid tot optisch licht prolaat (PoFormI ca. 1.07)
+    pollen-note: Beug 22.31.4.2 Trifolium pratense-type; groot polair veld (PolFeldI ca. 0.51); pollenkitt
   flowering_time:
     start:
     end:
@@ -20851,7 +20906,7 @@ trifolium_pratense:
     pollen_value:
   note:
     note_plant:
-    note_honey:
+    note_honey: Honingbijen bezoeken rode klaver vooral voor stuifmeel (eiwitrijk, goed bereikbaar). Bij warm droog weer kan de bloembuis zoveel nectar bevatten dat ook bijen met een kortere tong nectar kunnen bereiken.
     note_pollen:
   frequency_in_dutch_honey: rare
   frequency_in_eu_honey: rare
@@ -21201,27 +21256,27 @@ vaccinium_myrtillus:
     latin_name: Vaccinium myrtillus
     dutch_name: bosbes
   classification:
-    order:
-    family_latin:
-    family_dutch:
+    order: Ericales
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
     tribe:
-    genus:
+    genus: Vaccinium
   size:
-    size_smallest: 40 µm
-    size_largest: 47 µm
-    height_px: 118
+    size_smallest: 26 µm
+    size_largest: 40 µm
+    height_px: 100
   pollen_class_beug:
   pollen_features:
-    shape: tetrade
-    sculpture: verrucaat wsl
+    shape: tetrade (tetraëdrisch; ook onregelmatig of planair)
+    sculpture: psilaat (LM); fossulaat, psilaat (SEM)
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat (per monade in tetrade)
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: heteropolair
+    pe_ratio: oblaat
+    pollen-note: dispersie-eenheid tetrade; hydraat LM ca. 26-40 µm
   flowering_time:
     start:
     end:
@@ -21639,29 +21694,29 @@ viburnum_opulus:
 vicia_cracca:
   name:
     latin_name: Vicia cracca
-    dutch_name:
+    dutch_name: vogelwikke
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Vicia
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 35.1 µm
+    size_largest: 38.3 µm
+    height_px: 96
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig, prolaat
+    sculpture: scabraat tot psilaat (LM geen reticulaat)
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; colpi toegespitst met margo; poren ovaal, equatorgericht; porendiameter ca. 7.8 (5.2-9.2) µm
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: prolaat (PoFormI ca. 1.49)
+    pollen-note: Beug 22.31.5.2 Vicia-type s.str.; dunne exine; groot polair veld
   flowering_time:
     start:
     end:
@@ -21801,29 +21856,29 @@ vinca_sp:
 viola_tricolor:
   name:
     latin_name: Viola tricolor
-    dutch_name: driekl. viooltje
+    dutch_name: driekleurig viooltje
   classification:
-    order:
-    family_latin:
-    family_dutch:
+    order: Malpighiales
+    family_latin: Violaceae
+    family_dutch: viooltjesfamilie
     tribe:
-    genus:
+    genus: Viola
   size:
-    size_smallest: 70 µm
-    size_largest: 70 µm
-    height_px: 175
+    size_smallest: 51 µm
+    size_largest: 100 µm
+    height_px: 250
   pollen_class_beug:
   pollen_features:
-    shape: 4-5-hoekig
-    sculpture: glad
+    shape: 4-5-hoekig; oblaat (gehydrateerd), droog prolater
+    sculpture: gemmaat, scabraat, verrucaat (LM); perforaat (SEM)
     sculpture_visibility:
-    aperture: 5-colporaat
+    aperture: 4-5-colporaat
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: oblaat
+    pollen-note: vaak 5-colporaat; monad
   flowering_time:
     start:
     end:
@@ -43443,29 +43498,29 @@ fraxinus:
 fraxinus_excelsior:
   name:
     latin_name: Fraxinus excelsior
-    dutch_name: Es
+    dutch_name: es
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Oleaceae
+    family_dutch: olijffamilie
     tribe:
-    genus:
+    genus: Fraxinus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 22.7 µm
+    size_largest: 28.4 µm
+    height_px: 71
+  pollen_class_beug: 21
   pollen_features:
-    shape:
-    sculpture:
+    shape: rondachtig tot driehoekig convex, sferoid tot optisch licht oblaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat, zelden tetracolpaat; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.84
+    pe_ratio: 0.53
+    pollen-note: Beug 21.31 Fraxinus excelsior-type. Monad, isopolair. Onci onder de colpi. PolFeldI ca. 0.53 (0.49-0.61). PoFormI ca. 0.84 (0.76-0.89). Middelgrootte ca. 26 µm. PK vaak al licht uitgedroogd.
   flowering_time:
     start:
     end:
@@ -44133,29 +44188,29 @@ genista_pilosa:
 genista_tinctoria:
   name:
     latin_name: Genista tinctoria
-    dutch_name:
+    dutch_name: verfbrem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Genista
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 31.0 µm
+    size_largest: 35.1 µm
+    height_px: 88
+  pollen_class_beug: 23
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, oblaat
+    sculpture: scabraat tot verrucaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporoidaat tot tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd; operkelachtige lip
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: oblaat (PoFormI ca. 0.70; 0.68-0.73)
+    pollen-note: Beug 23.12.5 Genista-type; klein polair veld (PolFeldI ca. 0.17)
   flowering_time:
     start:
     end:
@@ -46249,29 +46304,29 @@ hedera:
 hedera_helix:
   name:
     latin_name: Hedera helix
-    dutch_name: Klimop
+    dutch_name: klimop
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Araliaceae
+    family_dutch: klimopfamilie
     tribe:
-    genus:
+    genus: Hedera
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 26.2 µm
+    size_largest: 31.0 µm
+    height_px: 78
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig convex, sferoid
+    sculpture: reticulaat, heterobrochaat (brochi kleiner naar de colpi)
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; colpi smal met margo; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: 0.96
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 22.6 Hedera helix. Monad, isopolair. Porendiameter ca. 5.7 µm (5.2-6.4). Middelgroot tot groot polarveld. Middelgrootte ca. 28 µm.
   flowering_time:
     start:
     end:
@@ -49837,29 +49892,29 @@ impatiens_noli_tangere:
 impatiens_parviflora:
   name:
     latin_name: Impatiens parviflora
-    dutch_name: Kleine balsamine
+    dutch_name: klein springzaad
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Balsaminaceae
+    family_dutch: balsemienfamilie
     tribe:
-    genus:
+    genus: Impatiens
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 36.4 µm
+    size_largest: 41.4 µm
+    height_px: 104
+  pollen_class_beug: 24
   pollen_features:
-    shape:
-    sculpture:
+    shape: elliptisch tot licht rechthoekig, oblaat
+    sculpture: grof reticulaat met grote brochi
     sculpture_visibility:
-    aperture:
+    aperture: stephanocolpaat, tetracolpaat; meestal 4 smalle, korte colpi
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: oblaat (PoFormI ca. 0.60)
+    pollen-note: Beug 24.11 Impatiens; dunne exine; vaak dunne kristalnaalden in preparaat
   flowering_time:
     start:
     end:
@@ -53207,29 +53262,29 @@ ligustrum_ovalifolium:
 ligustrum_vulgare:
   name:
     latin_name: Ligustrum vulgare
-    dutch_name: Liguster
+    dutch_name: liguster
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Oleaceae
+    family_dutch: olijffamilie
     tribe:
-    genus:
+    genus: Ligustrum
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 24.1 µm
+    size_largest: 33.7 µm
+    height_px: 84
+  pollen_class_beug: 21
   pollen_features:
-    shape:
-    sculpture:
+    shape: rondachtig, sferoid tot optisch licht oblaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat tot tricolporaat; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.88
+    pe_ratio: 0.66
+    pollen-note: Beug 21.22 Ligustrum-type. Isopolair. Dikke exine. Groot polarveld (PolFeldI ca. 0.66; 0.59-0.70). PoFormI ca. 0.88 (0.83-0.95). Middelgrootte ca. 29 µm.
   flowering_time:
     start:
     end:
@@ -55000,30 +55055,30 @@ lychnis_coronaria:
   is_secondary_contributor:
 lychnis_flos_cuculi:
   name:
-    latin_name: Lychnis flos-cuculi
-    dutch_name: Koekoeksbloem
+    latin_name: Silene flos-cuculi
+    dutch_name: echte koekoeksbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Caryophyllaceae
+    family_dutch: anjerfamilie
     tribe:
-    genus:
+    genus: Silene
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 32.9 µm
+    size_largest: 36.7 µm
+    height_px: 92
+  pollen_class_beug: 33
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, sferoid
+    sculpture: baculaat/verrucaat tot optisch reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: pantoaperturaat, periporaat, veel poren; porendiameter ca. 6 (4.6-7.3) µm
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen geornamenteerd, operculaat
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 33.8.9 Silene-type; syn. Lychnis flos-cuculi
   flowering_time:
     start:
     end:
@@ -55031,7 +55086,7 @@ lychnis_flos_cuculi:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: syn. Lychnis flos-cuculi
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -55042,7 +55097,16 @@ lychnis_flos_cuculi:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lychnis_flos-cuculi
     paldat: https://www.paldat.org/pub/Lychnis_flos-cuculi
     waarneming: https://waarneming.nl/search/?q=lychnis+flos-cuculi
-  images: []
+  images:
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_3.png
+      kind: by_taxon
+      source: by_taxon
   is_secondary_contributor:
 lycianthes_rantonnetii:
   name:
@@ -56335,29 +56399,29 @@ melilotus:
 melilotus_albus:
   name:
     latin_name: Melilotus albus
-    dutch_name:
+    dutch_name: witte honingklaver
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Melilotus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 19.1 µm
+    size_largest: 24.5 µm
+    height_px: 61
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: licht driehoekig convex tot rondachtig, elliptisch tot licht rechthoekig, sferoid tot optisch licht prolaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; poren rond
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht prolaat (PoFormI ca. 1.18; 1.12-1.24)
+    pollen-note: Beug 22.31.3 Astragalus-type; middelgroot polair veld (PolFeldI ca. 0.41); maten 20 (19.1-20.8) en 23 (22.7-24.5) µm
   flowering_time:
     start:
     end:
@@ -58864,30 +58928,76 @@ onobrychis_viciifolia:
   is_secondary_contributor:
 ononis:
   name:
-    latin_name: Ononis
-    dutch_name:
+    latin_name: Ononis natrix
+    dutch_name: geel stalkruid
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
     tribe:
-    genus:
+    genus: Ononis
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 16.4 µm
+    size_largest: 20.5 µm
+    height_px: 51
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: licht driehoekig tot rondachtig, sferoid tot optisch licht prolaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen korrelig als middellijnstreep geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht prolaat (PoFormI ca. 1.09; 1.01-1.15)
+    pollen-note: Beug 22.31.3 Astragalus-type / Ononis; middelgroot polair veld (PolFeldI ca. 0.41); maten 19 (18.1-20.5) en 18 (16.4-19.0) µm
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+ononis_natrix:
+  name:
+    latin_name: Ononis natrix
+    dutch_name: geel stalkruid
+  classification:
+    order:
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
+    tribe:
+    genus: Ononis
+  size:
+    size_smallest: 16.4 µm
+    size_largest: 20.5 µm
+    height_px: 51
+  pollen_class_beug: 22
+  pollen_features:
+    shape: licht driehoekig tot rondachtig, sferoid tot optisch licht prolaat
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation: apertuurmembranen korrelig als middellijnstreep geornamenteerd
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht prolaat (PoFormI ca. 1.09; 1.01-1.15)
+    pollen-note: Beug 22.31.3 Astragalus-type / Ononis; middelgroot polair veld (PolFeldI ca. 0.41); maten 19 (18.1-20.5) en 18 (16.4-19.0) µm
   flowering_time:
     start:
     end:
@@ -59141,29 +59251,29 @@ origanum_laevigatum:
 origanum_majorana:
   name:
     latin_name: Origanum majorana
-    dutch_name:
+    dutch_name: marjolein
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Lamiaceae
+    family_dutch: lipbloemenfamilie
     tribe:
-    genus:
+    genus: Origanum
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 28.3 µm
+    size_largest: 43.0 µm
+    height_px: 108
+  pollen_class_beug: 24
   pollen_features:
-    shape:
-    sculpture:
+    shape: hexagonaal tot elliptisch/rondachtig, sferoid tot optisch licht oblaat
+    sculpture: reticulaat tot rugulaat
     sculpture_visibility:
-    aperture:
+    aperture: stephanocolpaat; 6 colpi (Mentha-type)
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen meestal licht korrelig geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.80)
+    pollen-note: Beug 24.7 Mentha-type; maten 39 (36.2-43.0) en 31 (28.3-33.9) µm
   flowering_time:
     start:
     end:
@@ -60245,29 +60355,29 @@ parthenocissus_inserta:
 parthenocissus_quinquefolia:
   name:
     latin_name: Parthenocissus quinquefolia
-    dutch_name:
+    dutch_name: vijfbladige wingerd
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Vitaceae
+    family_dutch: wijnstokfamilie
     tribe:
-    genus:
+    genus: Parthenocissus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 32.7 µm
+    size_largest: 38.1 µm
+    height_px: 95
+  pollen_class_beug: 22
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond, optisch licht prolaat
+    sculpture: reticulaat tot rugulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; colpi met margo
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd; poren deels geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: optisch licht prolaat (PoFormI ca. 1.12)
+    pollen-note: Beug 22.6; klein polair veld (PolFeldI ca. 0.24); brochi veel kleiner dan Hedera; veel pollenkitt; monad
   flowering_time:
     start:
     end:
@@ -64115,29 +64225,29 @@ prunus_cerasus:
 prunus_domestica:
   name:
     latin_name: Prunus domestica
-    dutch_name:
+    dutch_name: pruim
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Prunus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 38.9 µm
+    size_largest: 48.6 µm
+    height_px: 122
+  pollen_class_beug: 20
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, licht oblaat
+    sculpture: duidelijk striaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporoidaat, tetracolporoidaat; PK met en zonder poriën; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: 0.73-0.83
+    pollen-note: "Beug 20.12 Sorbus-groep. Klein tot middelgroot polair veld (PolFeldI ca. 0.24). Veel pollenkit. Verschil met Malus: Prunus altijd duidelijk striaat en groter."
   flowering_time:
     start:
     end:
@@ -64147,7 +64257,7 @@ prunus_domestica:
   note:
     note_plant:
     note_honey:
-    note_pollen:
+    note_pollen: Bron pollen.tstebler.ch; representatieve grootte 44 µm (medium).
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
   frequency_in_non_eu_honey:
@@ -65510,29 +65620,29 @@ pyrus_calleryana:
 pyrus_communis:
   name:
     latin_name: Pyrus communis
-    dutch_name:
+    dutch_name: peer
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Pyrus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 29.2 µm
+    size_largest: 36.0 µm
+    height_px: 90
+  pollen_class_beug: 20
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, sferoid tot optisch licht oblaat
+    sculpture: striaat/rugulaat tot verrucaat/scabraat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; apertuurmembranen niet geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: 0.75-0.91
+    pollen-note: "Beug 20.12 Sorbus-groep. Middelgroot polair veld (PolFeldI ca. 0.32). Representatieve grootte 32 µm (medium)."
   flowering_time:
     start:
     end:
@@ -65542,7 +65652,7 @@ pyrus_communis:
   note:
     note_plant:
     note_honey:
-    note_pollen:
+    note_pollen: Bron pollen.tstebler.ch Pyrus communis.
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
   frequency_in_non_eu_honey:
@@ -66062,29 +66172,29 @@ raphanus_raph:
 raphanus_sativus:
   name:
     latin_name: Raphanus sativus
-    dutch_name:
+    dutch_name: radijs
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Brassicaceae
+    family_dutch: kruisbloemenfamilie
     tribe:
-    genus:
+    genus: Raphanus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 21.1 µm
+    size_largest: 24.3 µm
+    height_px: 61
+  pollen_class_beug: 21
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig, sferoid tot optisch licht oblaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat; apertuurmembranen geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.87
+    pe_ratio: 0.19
+    pollen-note: "Beug 21.27 Brassicaceae. Monad, isopolair. Dikke exine. Klein polarveld (PolFeldI ca. 0.19). PoFormI ca. 0.87. Middelgrootte ca. 23 µm."
   flowering_time:
     start:
     end:
@@ -66384,29 +66494,29 @@ rhamnus:
 rhamnus_cathartica:
   name:
     latin_name: Rhamnus cathartica
-    dutch_name:
+    dutch_name: wegedoorn
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rhamnaceae
+    family_dutch: wegedoornfamilie
     tribe:
-    genus:
+    genus: Rhamnus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
+    size_smallest: 16 µm
+    size_largest: 25 µm
+    height_px: 62
   pollen_class_beug:
   pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
+    shape: driehoekig (polair aanzicht); P/E oblaat (hydrated), droog prolaat
+    sculpture: 'reticulaat (LM); SEM: reticulaat, rugulaat, perforaat'
+    sculpture_visibility: lm_clear
+    aperture: tricolporaat; margo; angulaperturaat
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Monad. PalDat: hydrated 16-20 µm (polaire as) en 21-25 µm (diameter). Dominantie LM schuin. Droog: interaperturale zone ingezonken.'
   flowering_time:
     start:
     end:
@@ -66752,29 +66862,29 @@ rhus:
 rhus_typhina:
   name:
     latin_name: Rhus typhina
-    dutch_name: Sumak
+    dutch_name: fluweelboom
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Anacardiaceae
+    family_dutch: pruikenboomfamilie
     tribe:
-    genus:
+    genus: Rhus
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 30.7 µm
+    size_largest: 34.0 µm
+    height_px: 85
+  pollen_class_beug: 19
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig, sferoid
+    sculpture: striaat tot reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; apertuurmembranen deels licht korrelig geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 1.05
+    pe_ratio: 0.23
+    pollen-note: Beug 19.4 Rhus-groep, 19.4.2 Rhus coriaria-type. Monad, isopolair. Porendiameter ca. 5.5 µm. Klein polarveld (PolFeldI ca. 0.23). Middelgrootte ca. 32 µm.
   flowering_time:
     start:
     end:
@@ -72639,30 +72749,76 @@ senecio_vulgaris:
   is_secondary_contributor:
 serratula_typ:
   name:
-    latin_name: Serratula typ
-    dutch_name: Zaagblad
+    latin_name: Serratula tinctoria
+    dutch_name: zaagblad
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
     tribe:
-    genus:
+    genus: Serratula
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 40.3 µm
+    size_largest: 54.2 µm
+    height_px: 136
+  pollen_class_beug: 17
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig-convex, sferoid tot optisch licht oblaat
+    sculpture: echinaat op verrucaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; poren licht uitpuilend
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen deels operculaat geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.86; 0.82-0.89)
+    pollen-note: Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Serratula_typ
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Serratula_typ
+    paldat: https://www.paldat.org/pub/Serratula_typ
+    waarneming: https://waarneming.nl/search/?q=serratula+typ
+  images: []
+  is_secondary_contributor:
+serratula_tinctoria:
+  name:
+    latin_name: Serratula tinctoria
+    dutch_name: zaagblad
+  classification:
+    order:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+    tribe:
+    genus: Serratula
+  size:
+    size_smallest: 40.3 µm
+    size_largest: 54.2 µm
+    height_px: 136
+  pollen_class_beug: 17
+  pollen_features:
+    shape: driehoekig-convex, sferoid tot optisch licht oblaat
+    sculpture: echinaat op verrucaat
+    sculpture_visibility:
+    aperture: tricolporaat; poren licht uitpuilend
+    aperture_visibility:
+    ornamentation: apertuurmembranen deels operculaat geornamenteerd
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.86; 0.82-0.89)
+    pollen-note: Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm
   flowering_time:
     start:
     end:
@@ -73422,29 +73578,29 @@ solidago_caesia:
 solidago_canadensis:
   name:
     latin_name: Solidago canadensis
-    dutch_name:
+    dutch_name: Canadese guldenroede
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
     tribe:
-    genus:
+    genus: Solidago
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 17 µm
+    size_largest: 17 µm
+    height_px: 42
+  pollen_class_beug: 17
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig, sferoid
+    sculpture: echinaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolporaat; porenradius ca. 2.6-2.8 µm
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: isopolair
     pe_ratio:
-    pollen-note:
+    pollen-note: Beug 17.1.12 Senecio-type
   flowering_time:
     start:
     end:
@@ -77749,29 +77905,29 @@ tradescantia:
 tradescantia_andersoniana:
   name:
     latin_name: Tradescantia andersoniana
-    dutch_name: Driekleurig bloemzegge
+    dutch_name: eendagsbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Commelinaceae
+    family_dutch: eendagsbloemfamilie
     tribe:
-    genus:
+    genus: Tradescantia
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 44 µm
+    size_largest: 44 µm
+    height_px: 110
+  pollen_class_beug: '09'
   pollen_features:
-    shape:
-    sculpture:
+    shape: elliptisch tot broodvormig, oblaat, sulcaat
+    sculpture: rugulaat tot verrucaat
     sculpture_visibility:
-    aperture:
+    aperture: monocolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembraan is verrucaat geornamenteerd
     ornamentation_visibility:
     polarity:
-    pe_ratio:
-    pollen-note:
+    pe_ratio: oblaat
+    pollen-note: monad
   flowering_time:
     start:
     end:
@@ -79175,29 +79331,29 @@ verbascum_phlomoides:
 verbascum_thapsus:
   name:
     latin_name: Verbascum thapsus
-    dutch_name:
+    dutch_name: koningskaars
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Scrophulariaceae
+    family_dutch: helmkruidfamilie
     tribe:
-    genus:
+    genus: Verbascum
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 20.4 µm
+    size_largest: 30.9 µm
+    height_px: 77
+  pollen_class_beug: 23
   pollen_features:
-    shape:
-    sculpture:
+    shape: driehoekig, sferoid
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat tot tricolporaat; poren meestal niet duidelijk zichtbaar
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: sferoid (PoFormI ca. 0.88; 0.80-1.06)
+    pollen-note: Beug 23.8.3 Verbascum; klein polair veld (PolFeldI ca. 0.13); veel pollenkitt; vaak gedeformeerde PK
   flowering_time:
     start:
     end:

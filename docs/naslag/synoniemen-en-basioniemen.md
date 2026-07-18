@@ -46,6 +46,7 @@ Bronnen: `data/pollen.yaml`, `docs/assets/images/by-taxon/_todo/_links/_kerkvlie
 | `robinia_pseudoacacia` | *Acacia robinia* | *Acacia robinia* (verdere synoniemenlijst nog open) | oude / foutieve atlasnaam | pollen-atlas-links; YAML heeft beide keys |
 | `frangula_alnus` | *Frangula alnus* | *Rhamnus frangula* | synoniem; projectregel: niet *Rhamnus* | projectcontext; YAML heeft ook `rhamnus_frangula` |
 | `rosa_pimpinellifolia` | | *Rosa spinosissima* | synoniem | eide rosaceae-sleutel |
+| `silene_flos_cuculi` | *Lychnis flos-cuculi* | *Lychnis flos-cuculi* | synoniem; nieuwe conventie *Silene*; YAML-keys `lychnis_flos-cuculi` / `lychnis_flos_cuculi` bestaan nog | YAML `note_plant` / `latin_name` |
 | `fragaria_vesca` | | *Potentilla palustris* | genoteerd als synoniem in sleutel [to be verified] | eide rosaceae-sleutel |
 | `symphyotrichum_laeve` (beoogd) | *Aster laevis* e.d. | *Aster laevis* | nieuwe conventie (*Symphyotrichum*) | kerkvliet (`aster_sp`) |
 | `symphyotrichum_novae_angliae` | *Aster novae-angliae* | *Aster novae-angliae* | nieuwe conventie | kerkvliet |
