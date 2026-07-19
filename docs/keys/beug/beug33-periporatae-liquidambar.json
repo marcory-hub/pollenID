@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-liquidambar",
+    "title": "33.16 *Liquidambar* (Tafel 116: 5–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 5–10 µm; brochi 1,0–1,5 µm.",
+          "outcome": {
+            "text": "33.16 *Liquidambar*\n\nExine 1,5–2,0 µm; muri deels duplicolumellaat.\n\n*Liquidambar orientalis* MILLER (1)\n37,5–52,5 µm, MiW 44,6 µm; 50 PK, 6a\n\n*Liquidambar styraciflua* L. (1)\n34,5–46,8 µm, MiW 41,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

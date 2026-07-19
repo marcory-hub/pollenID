@@ -1,6 +1,6 @@
 # *Ranunculus Acris*
 
-{{ pollen_gallery("ranunculus_acris") }}
+{{ gallery("ranunculus_acris") }}
 
 ## Kenmerken
 

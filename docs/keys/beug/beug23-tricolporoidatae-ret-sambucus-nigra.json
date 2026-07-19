@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-sambucus-nigra",
+    "title": "23.1 *Sambucus nigra*-type (Tafel 79: 11–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Homobrochaat; brochi tot ca. 1,2 µm; polarvelden met kleinere lumina of tectaat-psilaat.",
+          "outcome": {
+            "text": "23.1 *Sambucus nigra*-type\n\nPK prolaat tot sferoïdisch (PForml 1,24–1,62). Polarvelden klein (PFeldI 0,11–0,26). Colpi met brede psilate margines en meestal eenvoudige equatoriale vernauwing. Exine 1,2 µm (polar vaak ca. 1 µm). Brochi meestal 0,8–1(1,2) µm, incidenteel tot 1,8 µm. Polar/subpolar lumina ≤0,5 µm of tectaat-psilaat. Columellae buiten polargebied goed herkenbaar.\n\n*Sambucus nigra* L. (4)\n17,7–24,4 µm, MiW 21,2 µm; 50 PK, 0a\n\n*Sambucus racemosa* L. (6)\n20,3–26,8 µm, MiW 24,0 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

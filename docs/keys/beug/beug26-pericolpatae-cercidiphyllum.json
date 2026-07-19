@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-cercidiphyllum",
+    "title": "26.4 *Cercidiphyllum* (Tafel 92: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 1,0–1,2 µm; 6–8 brede, ingezonken, korrelig beklede colpi.",
+          "outcome": {
+            "text": "26.4 *Cercidiphyllum*\n\nPK rondachtig tot elliptisch, ook afgerond hoekig; 6–8 min of meer onregelmatig geplaatste, iets ingezonken colpi (1,6–3,5 × 4,5–8,0 µm). Incidenteel 1 porie buiten een colpus. Colpusmembranen duidelijk korrelig. Reticulaat; brochi 1,0–1,2 µm. Exine 1,0–1,2 µm; columellae duidelijk; endexine meestal dikker dan tectum.\n\n*Cercidiphyllum japonicum* SIEB. & Zucc. (1)\n32,0–42,8 µm, MiW 37,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

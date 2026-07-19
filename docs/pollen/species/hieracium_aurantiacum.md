@@ -1,6 +1,6 @@
 # *Hieracium aurantiacum* (oranje havikskruid)
 
-{{ pollen_gallery("hieracium_aurantiacum") }}
+{{ gallery("hieracium_aurantiacum") }}
 
 ## Kenmerken
 

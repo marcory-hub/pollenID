@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-tamarix",
+    "title": "21.17 *Tamarix* (Tafel 61: 18–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK marginat, microreticulaat; columellae in bovenaanzicht goed herkenbaar; tectum dunner dan columellae-laag.",
+          "outcome": {
+            "text": "21.17 *Tamarix*\n\nPForml 1,0–1,5. Exine 1,5–1,8 µm. Brochi buiten margines 0,5–2,0 µm; margines microreticulaat (0,5–0,7 µm). *T. africana* en *T. tetrandra* hebben microreticulate PK.\n\n*Tamarix gallica* L. (2)\n15,0–20,0 µm, MiW 18,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

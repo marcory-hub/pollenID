@@ -1,6 +1,6 @@
 # *Castanea sativa* (tamme kastanje)
 
-{{ pollen_gallery("castanea_sativa") }}
+{{ gallery("castanea_sativa") }}
 
 ## Kenmerken
 

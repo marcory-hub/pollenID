@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-fagopyrum",
+    "title": "22.28 *Fagopyrum* (Tafel 76: 7–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zonder margines; exine 3,2–4,5 µm; prolaat.",
+          "outcome": {
+            "text": "22.28 *Fagopyrum*\n\nPK prolaat (PForml 1,35–1,69). Poriën meestal contrastarm, 7–8 × 5–7 µm. Exine 3,2–4,5 µm; tectum dik; endexine dun (0,8 µm). Contrastarm reticulum met brochi ca. 2,0–2,5 µm (trechterstructuur).\n\n*Fagopyrum esculentum* MOENCH (8)\nlangstijlig: 33,4–45,1 µm, MiW 39,2 µm; 50 PK, 0a\nkortstijlig: 41,5–60,2 µm, MiW 50,9 µm; 50 PK, 0a\n\n*Fagopyrum tataricum* (L.) P. GAERTN. (4)\n36,8–54,3 µm, MiW 48,9 µm; 50 PK, 4a"
+          }
+        }
+      ]
+    }
+  }
+}

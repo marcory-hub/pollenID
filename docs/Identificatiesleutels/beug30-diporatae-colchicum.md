@@ -1,4 +1,4 @@
-# 30.1 Colchicum-familie (Beug)
+# 30.1 *Colchicum*-groep (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug30-diporatae-colchicum.json"></div>
 

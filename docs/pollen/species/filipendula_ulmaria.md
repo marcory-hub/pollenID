@@ -1,6 +1,6 @@
 # *Filipendula ulmaria* (moerasspirea)
 
-{{ pollen_gallery("filipendula_ulmaria") }}
+{{ gallery("filipendula_ulmaria") }}
 
 ## Kenmerken
 

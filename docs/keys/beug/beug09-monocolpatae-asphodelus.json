@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "key": "beug09-monocolpatae-asphodelus",
+    "title": "9.1 *Asphodelus*-groep (Tafel 8: 7–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 4–5 µm dik, PK reticulaat, Brochi tot 3 µm groot. Muri 1–1,5 µm breed, Columellae 1–1,5 µm dik (Tafel 8: 9–10). Sculptuur aan beide zijden van de PK gelijk.",
+          "outcome": {
+            "text": "9.1.1 *Asphodelus fistulosus*\n\n*Asphodelus fistulosus* L. (2)\n77,6–109,4 µm, MiW 94,2 µm; 50 PK, 1a\nBreedte: 70,2–88,2 µm, MiW 81,3 µm; 10 PK\nÄFormI: 1,06–1,29; 10 PK"
+          }
+        },
+        {
+          "label": "Exine 2–3 µm dik, Brochi tot 2 µm groot, Muri relatief breed (boven 1 µm), Columellae dunner dan 1 µm. Overgang van reticulum naar Tectum perforatum; ook PK met echt Tectum perforatum. Oppervlak proximaal glad, distaal in optische doorsnede golvend.",
+          "outcome": {
+            "text": "9.1.2 *Asphodeline lutea*\n\n*Asphodeline lutea* (L.) RCHB. (1)\n70,8–76,8 µm, MiW 78,3 µm; 50 PK, 0a\nBreedte: 65,5–88,0 µm, MiW 70,9 µm; 10 PK\nÄFormI: 1,06–1,12; 10 PK"
+          }
+        },
+        {
+          "label": "Exine 1,5–2 µm dik, met gesloten Tectum, niet reticulaat. Distaal talrijke verschillend gevormde zones zonder structuur (Tafel 8: 7–8). Soms perforaties in het Tectum aangeduid. Columellae ca. 1 µm dik.",
+          "outcome": {
+            "text": "9.1.3 *Asphodelus albus*-type\n\n*Asphodelus albus* MILL. (2)\n52,6–73,1 µm, MiW 62,6 µm; 50 PK, 0a\nBreedte: 60,8–66,6 µm, MiW 63,7 µm; 10 PK\nÄFormI: 0,92–1,11; 10 PK\n\n*Asphodelus cerasifer* GAY (1)\n45,0–81,7 µm, MiW 63,9 µm; 50 PK, 1a\nBreedte: 55,8–77,4 µm, MiW 66,9 µm; 10 PK\nÄFormI: 0,89–0,99; 10 PK"
+          }
+        }
+      ]
+    }
+  }
+}

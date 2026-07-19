@@ -1,6 +1,6 @@
 # *Sinapis arvensis* (wilde mosterd)
 
-{{ pollen_gallery("sinapis_arvensis") }}
+{{ gallery("sinapis_arvensis") }}
 
 ## Kenmerken
 

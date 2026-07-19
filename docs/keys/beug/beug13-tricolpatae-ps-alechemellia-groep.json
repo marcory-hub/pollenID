@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug13-tricolpatae-ps-alechemellia-groep.json",
-    "title": "13.11 Alchemilla-groep (Beug)",
+    "key": "beug13-tricolpatae-ps-alechemellia-groep",
+    "title": "13.11 *Alchemilla*-groep (Tafel 14: 7–20)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine äquatorial bis subpolar 3-4 µm dick (Tafel 14: 9-12)",
-          "id": {
-            "name": "13.11.1 Aphanes arvensis-type"
+          "label": "Exine equatoriaal tot subpolair 3–4 µm dik (Tafel 14: 9–12).",
+          "outcome": {
+            "text": "13.11.1 *Aphanes arvensis*-type (Tafel 14: 7–12)\n\nPK psilaat, interangulair, in polair aanzicht driehoekig met iets ingezonken Colpen. Exinedikte neemt naar de Intercolpium-randen duidelijk af. Polarvelden klein; Colpen equatoriaal vaak verbreed met dunne, onopvallende Opercula. In equatoriaal aanzicht karakteristiek rechthoekig tot langgerekt zeshoekig omtrek; equatoriaal tot subpolair 3–4,5 µm, polair 1,5–2 µm.\n\n*Aphanes arvensis* L. (1)\n21,5–29,7 µm, MiW 24,3 µm; 50 PK, 0a\n\n*Aphanes inexpectata* W.LIPPERT (1)\n22,0–28,0 µm, MiW 24,3 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Exine äquatorial bis subpolar dunner als 3 µm (Tafel 14: 13-20)",
-          "id": {
-            "name": "13.11.2 Alchemilla pentaphyllea-type"
+          "label": "Exine equatoriaal tot subpolair dunner dan 3 µm (Tafel 14: 13–20).",
+          "outcome": {
+            "text": "13.11.2 *Alchemilla pentaphyllea*-type (Tafel 14: 13–20)\n\nOndergeslacht *Eualchemilla*; vaak verknoeide PK. Goed ontwikkelde pollen vooral bij *A. pentaphyllea* en deels *A. alpina*. Bij *A. pentaphyllea* bouw als *Aphanes arvensis*-type, maar Exine 2–3 µm, Tectum ca. 1 µm. Daarnaast operculate vormen (mogelijk degeneratie) bij *A. alpina*, soms *A. vulgaris* en *A. fissa*.\n\n*Alchemilla pentaphyllea* L. (1)\n23,1–27,3 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Alchemilla alpina* L. (1)\n18,2–29,7 µm, MiW 23,4 µm; 50 PK, 0a\n25,1–35,4 µm, MiW 30,8 µm; 50 PK, 0a\n\n*Alchemilla vulgaris* L. (1)\n19,8–27,1 µm, MiW 23,3 µm; 50 PK, 0a"
           }
         }
       ]

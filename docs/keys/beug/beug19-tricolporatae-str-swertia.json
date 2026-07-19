@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-swertia",
+    "title": "19.9 *Swertia perennis* (Tafel 50: 5–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK in omtrek elliptisch tot ruitvormig, sferoïdisch, PForml 1,07–1,27. Polarvelden klein tot middelgroot (PFeldI 0,15–0,27). Exine 2,7–3,0 µm, endexine 1,0–1,1 µm.",
+          "outcome": {
+            "text": "19.9 *Swertia perennis*\n\nSculptuur zeer variabel; steeds in fasecontrast controleren. Valla vaak kort (tot ca. 3 µm), soms tot minstens 7 µm (dan *Gentiana pneumonanthe*-type). Ook microreticulate PK of tectum perforatum komen voor.\n\n*Swertia perennis* L. (3)\n32,0–40,5 µm, MiW 36,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

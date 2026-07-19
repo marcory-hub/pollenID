@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-sagittaria",
+    "title": "33.4 *Sagittaria sagittifolia* (Tafel 108: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "26–31 µm; echini 1–1,5 µm; poriën ca. 3 µm.",
+          "outcome": {
+            "text": "33.4 *Sagittaria sagittifolia*\n\nPK rond, echinaat. Echini tot 1,5 µm; afstanden 2–3(4) µm. Poriën ca. 3 µm, contrastarm; afstanden 10–12 µm. Exine 1,2–1,5 µm.\n\n*Sagittaria sagittifolia* L. (3)\n26,5–30,5 µm, MiW 28,8 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

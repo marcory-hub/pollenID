@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-primula-veris",
+    "title": "24.13 *Primula veris*-groep (Tafel 87: 7–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Intectaat; exine meestal ≤1 µm; brochi 0,8–1,5 µm. Heterostylie: grotere PK (brevistyl) vs kleinere (longistyl).",
+      "choices": [
+        {
+          "label": "Colpi recht, zonder of zonder noemenswaardige equatoriale vernauwing; PK sferoïdisch (Tafel 87: 7–15).",
+          "outcome": {
+            "text": "24.13.1 *Primula veris*-type\n\n*Primula elatior* (L.) HILL. (3)\nfo. brevistyla 21,8–26,0 µm, MiW 24,1 µm; 50 PK, 1a, 6–8 colpi\nfo. longistyla 13,3–16,8 µm; 25 PK, 11a, 5–7 colpi\n\n*Primula sibirica* JACQ. (1)\nfo. brevistyla non vidi\nfo. longistyla 13,0–15,8 µm; 25 PK, 1a, 4–5 colpi\n\n*Primula veris* L. (2)\nfo. brevistyla 22,3–27,8 µm; 25 PK, 12a, 8 colpi\nfo. longistyla 10,0–16,5 µm; 25 PK, 1a, 5–7 colpi\n\n*Primula vulgaris* HUDS. (3)\nfo. brevistyla 25,0–28,0 µm; 25 PK, 1a, 7–9 colpi\nfo. longistyla 16,5–20,5 µm; 25 PK, 1a, 7–9 colpi"
+          }
+        },
+        {
+          "label": "Colpi equatoriaal vernauwd of s-vormig gebogen; PK sferoïdisch tot prolaat (PForml 1,11–1,53); met 4 colpi (Tafel 87: 16–22).",
+          "outcome": {
+            "text": "24.13.2 *Primula halleri*\n\n*Primula halleri* J.F. GMELIN (1)\n18,0–24,8 µm, MiW 22,3 µm; 50 PK, 1a, (3)4 colpi"
+          }
+        }
+      ]
+    }
+  }
+}

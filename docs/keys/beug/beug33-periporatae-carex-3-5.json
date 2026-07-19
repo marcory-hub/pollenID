@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-carex-3-5",
+    "title": "33.18 *Carex* groepen 3–5",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpaat+poraat / vlakke zones / onduidelijke aperturen.",
+          "outcome": {
+            "text": "33.18 *Carex* groepen 3–5\n\n**Groep 3 — colpaat én poraat**\n\n*Carex aquatilis* WAHLENB. (1) 32,5–47,3 µm, MiW 38,6 µm; 50 PK, 0a\n*Carex atrata* L. (1) 35,3–49,0 µm, MiW 42,6 µm; 50 PK, Oa\n*Carex chordorrhiza* L. f. (2) 38,8–50,5 µm, MiW 44,9 µm; 50 PK, Oa\n*Carex demissa* HORNEM. (1) 32,5–42,0 µm, MiW 38,6 µm; 50 PK, Oa\n*Carex dioica* L. (1) 33,0–52,5 µm, MiW 40,3 µm; 50 PK, 0a\n*Carex echinata* MURRAY (1) 34,5–49,0 µm, MiW 39,9 µm; 50 PK, 0a\n*Carex firma* HOST (2) 40,3–55,3 µm, MiW 48,7 µm; 52 PK, Oa\n*Carex frigida* ALL. (2) 35,0–47,5 µm, MiW 42,0 µm; 50 PK, Oa\n*Carex lasiocarpa* EHRH. (1) 40,0–54,8 µm, MiW 46,8 µm; 50 PK, Oa\n*Carex lyngbyei* HORNEM. (2) 38,0–50,0 µm, MiW 43,5 µm; 50 PK, 0a\n*Carex muricata* L. (1) 33,0–44,5 µm, MiW 38,5 µm; 50 PK, 0a\n*Carex nigra* (L.) REICHARD (1) 34,0–54,0 µm, MiW 42,5 µm; 50 PK, 0a\n*Carex norvegica* RETZ. (1) 38,0–54,0 µm, MiW 46,0 µm; 50 PK, 0a\n*Carex otrubae* PODP. (1) 37,5–47,5 µm, MiW 42,4 µm; 50 PK, 0a\n*Carex ovalis* GOOD. (1) 34,5–48,8 µm, MiW 41,4 µm; 50 PK, Oa\n*Carex paniculata* L. (1) 35,5–49,3 µm, MiW 44,1 µm; 50 PK, 0a\n*Carex pediformis* C.A. MEYER (1) 47,0–73,0 µm, MiW 57,2 µm; 50 PK, 0a\n*Carex pilulifera* L. (2) 32,0–43,8 µm, MiW 39,2 µm; 50 PK, 0a\n*Carex praecox* SCHREB. (1) 36,8–49,5 µm, MiW 41,4 µm; 50 PK, 0a\n*Carex pseudocyperus* L. (2) 33,0–45,5 µm, MiW 39,8 µm; 50 PK, 0a\n*Carex rariflora* (WAHLENB.) SM. (1) 39,8–54,5 µm, MiW 46,0 µm; 50 PK, 0a\n*Carex rostrata* STOKES (3) 42,5–58,0 µm, MiW 50,6 µm; 50 PK, 0a\n*Carex rotundata* WAHLENB. (1) 37,0–49,8 µm, MiW 43,0 µm; 50 PK, 0a\n*Carex rupestris* ALL. (1) 36,5–48,8 µm, MiW 41,8 µm; 50 PK, 0a\n*Carex salina* WAHLENB. (1) 37,0–56,8 µm, MiW 44,9 µm; 50 PK, 0a\n*Carex saxatilis* L. (1) 37,5–57,5 µm, MiW 46,2 µm; 50 PK, 0a\n*Carex sempervirens* VILL. (2) 37,6–48,0 µm, MiW 43,0 µm; 50 PK, 0a\n*Carex strigosa* HUDS. (1) 39,8–51,8 µm, MiW 44,8 µm; 51 PK, 0a\n*Carex sylvatica* HUDS. (1) 38,0–57,5 µm, MiW 46,2 µm; 50 PK, 0a\n*Carex tomentosa* L. (1) 32,5–45,8 µm, MiW 40,0 µm; 50 PK, 0a\n*Carex umbrosa* HOST (1) 29,5–43,8 µm, MiW 38,1 µm; 50 PK, 0a\n*Carex vaginata* TAUSCH (2) 42,5–55,0 µm, MiW 49,3 µm; 50 PK, 0a\n*Carex vesicaria* L. (1) 38,0–50,0 µm, MiW 45,0 µm; 50 PK, 0a\n\n**Groep 4 — vlakke aperturale zones**\n\n*Carex appropinquata* SCHUMACH. (1) 36,0–48,0 µm, MiW 42,4 µm; 50 PK, 0a\n*Carex baldensis* L. (1) 31,3–42,0 µm, MiW 37,7 µm; 50 PK, Oa\n*Carex bigelowii* TORR. (2) 32,5–48,0 µm, MiW 40,4 µm; 50 PK, 0a\n\n**Groep 5 — aperturen zeer onduidelijk / evt. inaperturaat**\n\n[te verifiëren: in OCR geen soortnamen onder groep 5]\n\nNon vidi: *Carex arenaria* L., *C. bicolor* ALL., *C. brizoides* L., *C. buxbaumii* WAHLENB., *C. capillaris* L., *C. digitata* L., *C. heleonastes* EHRH., *C. loliacea* L., *C. magellanica* LAM., *C. mucronata* ALL., *C. ornithopoda* WILLD., *C. vulpina* L."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-ruta",
+    "title": "22.24 *Ruta graveolens* (Tafel 75: 21–28)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apiculaat tot ruitvormig; poriën equatoriaal verlengd met afgeronde einden; meridionale porieranden verdikt.",
+          "outcome": {
+            "text": "22.24 *Ruta graveolens*\n\nPK ruitvormig tot apiculaat (PForml 1,07–1,31). Polarvelden klein tot middelgroot (PFeldI 0,18–0,30). Microreticulaat of tectum perforatum. Poriën equatoriaal verlengd 7–10 × 2–4 µm, einden afgerond. Exine ca. 2,5 µm (polar tot 3 µm).\n\n*Ruta graveolens* L. (4)\n20,0–36,5 µm, MiW 31,1 µm; 50 PK, 0a\n(Beug: normaalgrote PK ca. 28–36 µm; onderzochte herkomst had veel kleine maar goed ontwikkelde PK.)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Papaver somnoliferum*
 
-{{ pollen_gallery("papaver_somnoliferum") }}
+{{ gallery("papaver_somnoliferum") }}
 
 ## Kenmerken
 

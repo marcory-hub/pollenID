@@ -1,6 +1,6 @@
 # *Limonium vulgare* (lamsoor)
 
-{{ pollen_gallery("limonium_vulgare") }}
+{{ gallery("limonium_vulgare") }}
 
 ## Kenmerken
 

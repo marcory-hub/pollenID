@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-sorbus",
+    "title": "20.12 *Sorbus*-groep (Tafel 56–57, Tafel 58: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "13 Rosaceae-geslachten plus *Lycium*. Striate sculptuur contrastrijk of contrastarm; met of zonder perforaties. Psilate/scabrate PK → «Rosaceae indet.».",
+      "choices": [
+        {
+          "label": "Valla relatief krachtig; tectum tussen de valla zonder perforaties (hoogstens polair). O.a. *Prunus*, *Amelanchier*, *Crataegus*, *Malus*, *Pyrus* e.a. (Tafel 56).",
+          "outcome": {
+            "text": "*Prunus* e.a. (zonder perforaties)\n\nPForml 0,77–1,34. Exine 2,0–3,0 µm, striaat.\n\n*Amelanchier ovalis* MEDIK. (2)\n21,1–30,7 µm, MiW 25,7 µm; 50 PK, 0a\n\n*Crataegus monogyna* JACQ. (3) p.p.\n29,5–41,5 µm, MiW 34,0 µm; 50 PK, Oa\n\n*Crataegus laevigata* (POIR.) DC. (4) p.p.\n29,4–42,2 µm, MiW 35,2 µm; 104 PK, 0a\n\n*Cydonia oblonga* MILL. (2) p.p.\n36,5–54,5 µm, MiW 45,1 µm; 50 PK, 0a\n\n*Eriobotrya japonica* (THUNB.) LINDLEY (2)\n21,1–29,0 µm, MiW 23,9 µm; 50 PK, 0a\n\n*Malus pumila* MILL. (2)\n25,7–33,0 µm, MiW 28,1 µm; 50 PK, 0a\n\n*Malus sylvestris* MILL. (4)\n21,5–29,7 µm, MiW 26,1 µm; 50 PK, 0a\n\n*Mespilus germanica* L. (3)\n34,8–53,5 µm, MiW 45,8 µm; 50 PK, 0a\n\n*Prunus avium* L. (3)\n31,5–43,5 µm, MiW 37,7 µm; 51 PK, 0a\n\n*Prunus cerasifera* EHRH. (2)\n28,5–43,3 µm, MiW 34,5 µm; 50 PK, 0a\n\n*Prunus cerasus* L. (2)\n31,3–49,5 µm, MiW 38,9 µm; 51 PK, 0a\n\n*Prunus domestica* L. (2)\n32,5–45,8 µm, MiW 39,0 µm; 50 PK, Oa\n\n*Prunus domestica* L. subsp. *insititia* (L.) BONNIER & LAYENS (1)\n39,6–56,1 µm, MiW 46,7 µm; 50 PK, 1a\n\n*Prunus dulcis* (MILLER) D.A. WEBB (2)\n31,0–51,8 µm, MiW 38,6 µm; 50 PK, 0a\n\n*Prunus fruticosa* PALL. (2)\n26,4–35,6 µm, MiW 30,1 µm; 50 PK, Oa\n\n*Prunus laurocerasus* L. (1)\n39,6–56,1 µm, MiW 41,3 µm; 50 PK, Oa\n\n*Prunus mahaleb* L. (3)\n26,3–39,8 µm, MiW 31,1 µm; 50 PK, 0a\n\n*Prunus padus* L. (4)\n24,5–30,5 µm, MiW 27,6 µm; 55 PK, 0a\n\n*Prunus persica* (L.) BATSCH (1)\n[te verifiëren: maten]\n\n[te verifiëren: soortnaam ontbreekt in OCR vóór *P. tenella*] 31,4–47,9 µm, MiW 37,0 µm; 50 PK, 0a (Beug S. 282)\n\n*Prunus spinosa* L. (3)\n32,3–43,8 µm, MiW 36,8 µm; 50 PK, Oa\n\n*Prunus tenella* BATSCH (2)\n34,8–45,0 µm, MiW 40,0 µm; 50 PK, Oa\n\n*Pyracantha coccinea* M.J. ROEMER (2)\n25,5–38,0 µm, MiW 31,9 µm; 50 PK, Oa\n\n*Pyrus communis* L. (5)\n26,4–36,3 µm, MiW 30,4 µm; 50 PK, 0a\n\n*Pyrus elacagrifolia* PALLAS (2)\n21,5–37,0 µm, MiW 32,9 µm; 50 PK, 4a\n\nNon vidi: *Prunus armeniaca* L."
+          }
+        },
+        {
+          "label": "Valla zeer contrastarm; perforaties tussen de valla (helderveld/fasecontrast). *Sorbus*, *Cotoneaster* (Tafel 57: 1–10).",
+          "outcome": {
+            "text": "*Sorbus*, *Cotoneaster*\n\nPFormI 0,82–1,40. Exine 1,3–1,8 µm; endexine bijna steeds dikker dan tectum. Equatoriale intercolpium-randen over 8–12(15) µm opgelost/golvend/rissig.\n\n*Cotoneaster niger* (THUNB.) FRIES (2)\n27,4–36,3 µm, MiW 32,0 µm; 56 PK, Oa\n\n*Cotoneaster tomentosus* LINDLEY (3)\n28,1–42,3 µm, MiW 34,8 µm; 64 PK, Oa\n\n*Sorbus aria* (L.) CRANTZ (4)\n28,1–40,3 µm, MiW 32,9 µm; 50 PK, Oa\n\n*Sorbus aucuparia* L. (8)\n23,3–31,0 µm, MiW 28,1 µm; 50 PK, 0a\n\n*Sorbus chamaemespilus* (L.) CRANTZ (2)\n27,5–42,0 µm, MiW 33,8 µm; 50 PK, Oa\n\n*Sorbus domestica* L. (2)\n24,8–33,7 µm, MiW 29,6 µm; 50 PK, 0a\n\n*Sorbus intermedia* (EHRH.) PERS. (2)\n34,0–49,3 µm, MiW 41,3 µm; 50 PK, 0a\n\n*Sorbus latifolia* (LAM.) PERS. (2)\n25,4–33,0 µm, MiW 28,9 µm; 50 PK, Oa\n\n*Sorbus mougeotii* SOY.-WILL. & GODR. (2)\n26,4–38,9 µm, MiW 32,7 µm; 50 PK, Oa\n\n*Sorbus torminalis* (L.) CRANTZ (3)\n32,0–40,0 µm, MiW 35,3 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "*Rubus* (excl. *R. chamaemorus*): valla/perforaties zeer contrastarm; perforaties bij goed ontwikkelde PK (Tafel 57: 11–21).",
+          "outcome": {
+            "text": "*Rubus*\n\nPFormI 1,03–1,30. PFeldI vaak 0,13–0,31 (bij *R. arcticus* groter). Niet-gesculpteerde PK → Rosaceae indet.\n\n*Rubus arcticus* L. (4)\n15,5–23,1 µm, MiW 19,4 µm; 50 PK, 0a\n\n*Rubus caesius* L. (3)\n22,4–28,1 µm, MiW 24,0 µm; 50 PK, Oa\n\n*Rubus candicans* WEIHE (1)\n19,8–28,4 µm, MiW 24,2 µm; 50 PK, Oa\n\n*Rubus canescens* DC. (1)\n21,5–25,7 µm, MiW 23,1 µm; 50 PK, Oa\n\n*Rubus hirtus* WALDST. & KIT. (1)\n24,8–31,7 µm, MiW 26,9 µm; 50 PK, Oa\n\n*Rubus idaeus* L. (4)\n22,4–27,1 µm, MiW 23,4 µm; 50 PK, Oa\n\n*Rubus saxatilis* L. (2)\n24,3–30,8 µm, MiW 27,1 µm; 50 PK, Oa\n\n*Rubus ulmifolius* SCHOTT (1)\n18,2–24,8 µm, MiW 20,6 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "*Dryas octopetala*: valla meestal al in helderveld duidelijk; perforaties bij goede acetolyse beter dan bij *Rubus* (Tafel 57: 22–30).",
+          "outcome": {
+            "text": "*Dryas octopetala*\n\nPForml 0,89–1,08. Endexine vaak zeer dun (omstreeks 0,3 µm), dunner dan tectum. Equatoriale veranderingen relatief zwak.\n\n*Dryas octopetala* L. (7)\n22,8–28,8 µm, MiW 26,0 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Rosaceae indet.: vorm/aperturen als *Prunus*/*Sorbus*, maar zonder herkenbare striate sculptuur en zonder perforaties (psilaat of scabraat).",
+          "outcome": {
+            "text": "Rosaceae indet.\n\n*Cotoneaster integerrimus* MEDIK. (3)\n30,0–41,8 µm, MiW 34,8 µm; 51 PK, 0a\n\n*Crataegus monogyna* JACQ. (3) p.p.\n29,5–41,5 µm, MiW 34,0 µm; 50 PK, 0a\n\n*Crataegus laevigata* (POIR.) DC. (4) p.p.\n29,4–42,2 µm, MiW 35,2 µm; 104 PK, Oa\n\n*Cydonia oblonga* MILL. (2) p.p.\n36,5–54,5 µm, MiW 45,1 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "*Lycium*: polarvelden zeer klein (PFeldI 0,08–0,19); valla breed, meestal meridionaal; perforaties meestal ontbrekend (Tafel 57: 31–35, Tafel 58: 1–5).",
+          "outcome": {
+            "text": "*Lycium*\n\nExine ca. 1,0–1,5 µm. Endexine dikker dan tectum. Colpi equatoriaal meestal eenvoudig vernauwd.\n\n*Lycium barbarum* L. (3)\n24,8–31,5 µm, MiW 28,2 µm; 50 PK, Oa\n\n*Lycium chinense* MILLER (1)\n25,5–34,0 µm, MiW 30,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

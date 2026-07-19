@@ -1,6 +1,6 @@
 # *Echium vulgare*
 
-{{ pollen_gallery("echium_vulgare") }}
+{{ gallery("echium_vulgare") }}
 
 ## Kenmerken
 

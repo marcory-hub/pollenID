@@ -1,6 +1,6 @@
 # *Crocus ancyrensis* (crocus)
 
-{{ pollen_gallery("crocus_ancyrensis") }}
+{{ gallery("crocus_ancyrensis") }}
 
 ## Kenmerken
 

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-urticaceae-moraceae",
+    "title": "31.16 Urticaceae, Moraceae (Tafel 101: 17–29, Tabel 10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus-achtig hoogstens door zwak opbuigen van porieranden.",
+          "outcome": {
+            "text": "31.16 Urticaceae, Moraceae\n\nPK bolvormig tot ellipsoïdisch. Exine 0,8–1,0 µm (meestal ca. 0,8 µm); endexine en tectum ongeveer even dik. Sculpture (fasecontrast) scabraat, puntsvormig (ca. 0,5–0,8 µm). *Ficus carica* overwegend diporaat (S. 424).\n\n*Morus alba*: anulus schijnbaar afwezig. *Morus nigra*: anulus zwak tot duidelijk. *Parietaria*: smalle anulus. *Urtica dioica*: verdikking binnen- en buitenzijde. *U. urens*: anulus ontbreekt of zwak.\n\n*Urtica dioica* L. (4)\n17,0–21,1 µm, MiW 19,2 µm; 50 PK, 0a, Ä\nPoriën: 39× 3-porig, 11× 4-porig; 1,8–2,2 µm; anulus 0,8–1,0 µm.\n\n*Urtica urens* L. (1)\n15,2–19,8 µm, MiW 17,5 µm; 50 PK, 0a, Ä\nPoriën: 50× 3-porig; 1,6–2,0 µm; anulus meestal afwezig.\n\n*Parietaria officinalis* L. (2)\n11,0–18,0 µm, MiW 14,6 µm; 50 PK, 0a, Ä\nPoriën: 50× 3-porig; 1,0–1,3 µm; anulus 0,4–1,0 µm.\n\n*Parietaria judaica* L. (2)\n14,7–18,6 µm, MiW 16,8 µm; 50 PK, 0a, Ä\nPoriën: 43× 3-porig, 7× 4-porig; 1,0–1,3 µm; anulus 0,4–1,0 µm.\n\n*Morus alba* L. (2)\n20,0–30,0 µm, MiW 25,0 µm; 50 PK, 0a, Ä\nPoriën: 11× 2-porig, 39× 3-porig; 2,5–4,0 µm; anulus afwezig.\n\n*Morus nigra* L. (1)\n28,0–37,5 µm, MiW 32,1 µm; 50 PK, 0a, Ä\nPoriën: 1× 2-porig, 19× 3-porig, 27× 4-porig, 3× 5-porig; 3,5–5,0 µm; anulus 1,0–1,5 µm."
+          }
+        }
+      ]
+    }
+  }
+}

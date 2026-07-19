@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-sideritis",
+    "title": "24.6 *Sideritis hyssopifolia* (Tafel 85: 4–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "4(5) colpi; equatoriaal aanzicht vierkant; columellae niet herkenbaar; exine tot 3 µm.",
+          "outcome": {
+            "text": "24.6 *Sideritis hyssopifolia*\n\nPK sferoïdisch, zelden prolaat; planaperturaat met 4, zelden 5 colpi (PForml 1,05–1,27(1,37)). Equatoriaal/polar aanzicht vier- of vijfhoekig. Polarvelden groot. Exine tot 3 µm (endexine ca. 1 µm), reticulaat; brochi tot iets >1 µm. Muri meestal relatief breed (tot bijna 1 µm). Columellae niet herkenbaar. Margines ontbreken (vgl. tricolpate *S. montana*, S. 290).\n\n*Sideritis hyssopifolia* L. (1)\n[te verifiëren: matenregel ontbreekt in bijlage]"
+          }
+        }
+      ]
+    }
+  }
+}

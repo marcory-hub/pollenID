@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-ostrya",
+    "title": "31.11 *Ostrya*-type (Tafel 99: 17–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endexine eindigt aan vestibulum-basis; tectum niet verdikt.",
+          "outcome": {
+            "text": "31.11 *Ostrya*-type\n\nPK sphaeroïdisch, zwak scabraat; polair rond; equatoriaal breed elliptisch. P/E 0,76–0,90; polaire as ca. 25–30 µm. Vestibula 6,5–9,0 µm breed, 1,8–2,0 µm hoog. Poriediameter 2,2–3,0 µm. Exine ca. 1,2–1,7 µm. Endexine eindigt onder de buitenrand van de vestibula.\n\n*Ostrya carpinifolia* SCOP. (3)\n29,3–34,3 µm, MiW 32,1 µm; 50 PK, 0a, Ä\n\n*Carpinus orientalis* MILLER (3)\n29,5–36,5 µm, MiW 33,2 µm; 50 PK, 0a, Ä\n\n[te verifiëren: OCR-regel 20,5–27,5 µm, MiW 24,8 µm; 50 PK, Oa — taxonnaam ontbreekt]"
+          }
+        }
+      ]
+    }
+  }
+}

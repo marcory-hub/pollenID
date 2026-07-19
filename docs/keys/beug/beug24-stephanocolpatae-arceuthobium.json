@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-arceuthobium",
+    "title": "24.2 *Arceuthobium oxycedri* (Tafel 84: 7–11)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echinaat; 3 lange + 3 korte meridionale colpi.",
+          "outcome": {
+            "text": "24.2 *Arceuthobium oxycedri*\n\nPK echinaat, sferoïdisch tot prolaat (PForml 0,95–1,50). Langere colpi minstens 15–20 µm × tot 1 µm; kortere 6–10 × 2–3 µm. Polarvelden via langere colpi meestal middelgroot (PFeldI 0,4–0,5). Echini 1,5–1,8 µm × ca. 1 µm. Exine 1,0–1,2 µm, zonder columellae-laag.\n\n*Arceuthobium oxycedri* (DC.) BILB. (2)\n17,5–27,5 µm, MiW 24,4 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

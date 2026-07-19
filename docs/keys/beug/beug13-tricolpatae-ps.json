@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug13-tricolpatae-ps.json",
+    "key": "beug13-tricolpatae-ps",
     "title": "13. Tricolpatae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 46,
-    "start": "1"
+    "stepCount": 47,
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "PK boven 200 µm groot, met 3 trechtervormige equatoriale uitstulpingen, waaraan zich telkens een ca. 15–17 µm lange colpus bevindt (tabel 12: 9–10).",
-          "id": {
-            "name": "13.1 Morina persica (Blz... 126)"
+          "outcome": {
+            "text": "13.1 *Morina persica* (S. 126)\n\n*Morina persica* L. (1)\n205-250 µm; 10 PK, 0a"
           }
         },
         {
@@ -31,8 +32,8 @@
       "choices": [
         {
           "label": "PK met 3 meridionale, vesiculate zwellingen, die polair verenigen en equatoriaal de colpi in zich insluiten (tabel 13: 1).",
-          "id": {
-            "name": "13.2 Trapa natans (Blz... 126)"
+          "outcome": {
+            "text": "13.2 *Trapa natans* (S. 126)\n\n*Trapa natans* L. (4)\n53,5–86,3 µm, MiW 68,3 µm; 50 PK, 1a"
           }
         },
         {
@@ -89,12 +90,12 @@
       "choices": [
         {
           "label": "Endexine van de intercolpium-randen grof schollig opgelost, Exine polair tot 5,5 µm dik, equatoriaal (2,0)2,5–3,0 µm (tabel 13: 2–3).",
-          "id": {
-            "name": "13.3 Adonis aestivalis-type (Blz... 128)"
+          "outcome": {
+            "text": "13.3 *Adonis aestivalis*-type (S. 128)\n\n*Adonis aestivalis* L. (2)\n37,1–49,0 µm, MiW 42,2 µm; 50 PK, 1a\n\n*Adonis annua* L. (2)\n34,6–41,4 µm, MiW 37,4 µm; 50 PK, 1a\n\n*Adonis flammea* JACQ. (3)\n35,5–40,5 µm, MiW 38,6 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Colpus-membraan grof korrelig sculptuur. Endexine van de intercolpium-randen kan grof schollig opgelost zijn. Exine polair 1,8–3,2 µm dik, equatoriaal 0,9–1,8 µm. Wanneer tectum dubbel zo dik is als endexine, vergelijk *Saxifraga hirculus*-type (Blz... 143).",
+          "label": "Colpus-membraan grof korrelig sculptuur. Endexine van de intercolpium-randen kan grof schollig opgelost zijn. Exine polair 1,8–3,2 µm dik, equatoriaal 0,9–1,8 µm. Wanneer tectum dubbel zo dik is als endexine, vergelijk *Saxifraga hirculus*-type (S. 143).",
           "next": "7"
         }
       ]
@@ -105,14 +106,14 @@
       "choices": [
         {
           "label": "PK 17–50 µm groot, columellae in opzicht equatoriaal onduidelijk en onregelmatig verdeeld, wanneer herkenbaar, dan PK > 20 µm (*Consolida*) (tabel 13: 4–6, 10).",
-          "id": {
-            "name": "Beug-tricolpatae-psilate-134-aconitum"
+          "outcome": {
+            "text": "13.4 *Aconitum*-groep (S. 128) — zie deelsleutel."
           }
         },
         {
           "label": "PK 14–18 µm groot, columellae ook equatoriaal herkenbaar (tabel 13: 7–9).",
-          "id": {
-            "name": "13.5 Polygonum tetraphyllum (Blz... 129)"
+          "outcome": {
+            "text": "13.5 *Polycarpon tetraphyllum* (S. 129)\n\nPK ca. 14–18 µm groot. Exine equatoriaal 1,0–1,5 µm dik; columellae in opzicht duidelijk en relatief kontrastrijk, ook equatoriaal. Columellae-laag polair verdikt (exine hier 1,5–2,5 µm). Endexine dikker dan het tectum. Colpusmembranen meestal korrelig bezet. (Tafel 13: 7–9)\n\n*Polycarpon tetraphyllum* (L.) L. (2)\n14,0–18,0 µm, MiW 16,2 µm; 39 PK, 0a"
           }
         }
       ]
@@ -123,8 +124,8 @@
       "choices": [
         {
           "label": "PK oblaat tot sferoïdisch, pollenvormindex (0,70–0,83), PK in polair aanzicht driehoekig; heteropolair: distale en proximale zijde verschillend sterk gewelfd (tabel 13: 11–15).",
-          "id": {
-            "name": "13.6 Comandra elegans (Blz... 129)"
+          "outcome": {
+            "text": "13.6 *Comandra elegans* (S. 129)\n\nPK oblaat tot zwak sferoïdisch, PForml 0,70–0,83. PK in polair aanzicht dreieckig met colpi in de Ecken. poolvelden groot, PFeldI 0,62–0,66. PK heteropolar, met een stärker en een schwächer gekrümmten Seite. PK psilaat, z.T. microreticulaat, columellae niet herkenbaar. exine µm 1,5 µm dik, endexine dicker als de Ektexine.\n\n*Comandra elegans* (ROCHEL) REICHENB. f. (1)\n21,0–27,3 µm, MiW 23,9 µm; 50 PK, 0a"
           }
         },
         {
@@ -152,15 +153,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK kugelig, pollenvormindex 0,94–1,05, Exine 1,4–2,6 µm dik (tabel 13: 16–17; fig. 29).",
-          "id": {
-            "name": "13.7 Sanguisorba minor-type (Blz... 130)"
+          "label": "PK bolrond, pollenvormindex 0,94–1,05, exine 1,4–2,6 µm dik (tabel 13: 16–17; fig. 29).",
+          "outcome": {
+            "text": "13.7 *Sanguisorba minor*-type (S. 130)\n\nUmfaßt Sanguisorba minor en Sarcopoterium spinosum.\n\n*Sanguisorba minor* Scop. (5)\n27,5–38,0 µm, MiW 33,8 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK rhomboïdisch, pollenvormindex 1,11–1,40. Exine 3,3–4,8 µm dik (tabel 13: 18–19).",
-          "id": {
-            "name": "13.8 Sanguisorba dodecandra (Blz... 130)"
+          "outcome": {
+            "text": "13.8 *Sanguisorba dodecandra* (S. 130)\n\n*Sanguisorba dodecandra* MORETTI (3)\n36,8–52,0 µm, MiW 41,2 µm; 50 PK, 0a\n\n*Sarcopoterium spinosum* (L.) SPACH (1)\n24,8–32,0 µm, MiW 27,9 µm; 50 PK, 4a"
           }
         }
       ]
@@ -185,8 +186,8 @@
       "choices": [
         {
           "label": "columellae in het distale derde deel vertakt, PK 40–80 µm groot, met tectum perforatum (tabel 14: 1–4).",
-          "id": {
-            "name": "13.9 Convolvulus arvensis-type (Blz... 130)"
+          "outcome": {
+            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a"
           }
         },
         {
@@ -201,8 +202,8 @@
       "choices": [
         {
           "label": "Endexine 1,5–2,0 µm dik, wanneer equatoriaal iets dunner, dan minstens polair duidelijk boven 1,5 µm dik (tabel 14: 5–6).",
-          "id": {
-            "name": "13.10 Valerianella (Blz... 131)"
+          "outcome": {
+            "text": "13.10 *Valerianella* (S. 131)\n\n*Valerianella coronata* (L.) DC. (2)\n33,0–42,5 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Valerianella dentata* (L.) POLLICH (1)\n31,0–39,0 µm, MiW 34,0 µm; 50 PK, 0a\n\n*Valerianella eriocarpa* DESV. (2)\n29,0–39,7 µm, MiW 35,1 µm; 50 PK, 6a Valerianella locusta (L.) LATERR. (2) 32,0–40,0 µm, MiW 34,9 µm; 50 PK, 0a Valerianella rimosa BATSARD (3) 30,5–40,0 µm, MiW 35,8 µm; 50 PK, 0a"
           }
         },
         {
@@ -216,15 +217,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine overal gelijkmatig dik, colpi zonder opercula. PK kugelig (tabel 14: 2–23).",
-          "id": {
-            "name": "Beug-tricolpatae-psilate-1311-alchemilla"
+          "label": "Exine overal gelijkmatig dik, colpi zonder opercula. PK bolrond (tabel 14: 2–23).",
+          "outcome": {
+            "text": "13.12 *Polygonum alpinum* (S. 132)\n\nPK psilaat, sferoïdisch, pollenvormindex 0,88–1,17. Exine 2,5–3,5 µm, endexine 0,5–1,0 µm dik. Poolvelden middelgroot (PFeldI 0,32–0,36). Colpi smal; colpusmembranen onregelmatig korrelig bekleed. Columellae duidelijk, tot ca. 0,8 µm dik, afzonderlijk of in kleine groepen. (Tafel 14: 21–23)\n\n*Polygonum alpinum* ALL. (3)\n25,1–35,4 µm, MiW 30,8 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Exine ongelijkmatig dikker als tectum, wanneer in polair gebied duidelijker dikker. PK in polair aanzicht driehoekig en planapertuurt of PK met sterk verdikte opercula (tabel 14: 7–20).",
-          "id": {
-            "name": "13.12 Polygonum alpinum (Blz... 132)"
+          "outcome": {
+            "text": "13.11 *Alchemilla*-groep (S. 131) — zie deelsleutel."
           }
         }
       ]
@@ -235,8 +236,8 @@
       "choices": [
         {
           "label": "PK op de intercolpia met telkens een cirkelvormige afplatting, deze vaak met wulstig verdikte rand. PK < 25 µm (*Melampyrum*) (tabel 16: 1–3).",
-          "id": {
-            "name": "13.13 Melampyrum (Blz... 132)"
+          "outcome": {
+            "text": "13.13 *Melampyrum* (S. 132)\n\n*Melampyrum arvense* L. (4)\n19,5–24,8 µm, MiW 23,2 µm; 50 PK, 1a Melampyrum barbatum WALDST. & KIT. (1) 15,9–23,4 µm, MiW 20,0 µm; 50 PK, 1a Melampyrum cristatum L. (4) 16,6–23,4 µm, MiW 20,9 µm; 50 PK, 1a\n\n*Melampyrum nemorosum* L. (3)\n15,2–29,8 µm, MiW 17,8 µm; 50 PK, 1a"
           }
         },
         {
@@ -255,7 +256,7 @@
         },
         {
           "label": "PK zonder columellae of columellae in opzicht niet herkenbaar.",
-          "next": "20"
+          "next": "22"
         }
       ]
     },
@@ -264,12 +265,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae ca. 0,5–1,0 µm dik, tamelijk contrastarm.",
+          "label": "columellae ca. 0,5–1,0 µm dik, kontrastrijk.",
           "next": "18"
         },
         {
-          "label": "columellae onder 0,5 µm dik, zeer dicht en kunnen netjes gestapeld of netachtig verscholen zijn (brochi onder 1 µm). De sculptuurelementen staan meestal in afstanden van 1–2 µm en zijn regelmatig verdeeld.",
-          "next": "19"
+          "label": "columellae onder 0,5 µm dik, tamelijk contrastarm.",
+          "next": "20"
         }
       ]
     },
@@ -279,16 +280,13 @@
       "choices": [
         {
           "label": "PK 36–41 µm groot, met brede en dicht beklede colpi (tabel 15: 21–24).",
-          "id": {
-            "name": "13.14 Helleborus niger (Blz... 134)",
-            "pollen_key": "helleborus_niger"
+          "outcome": {
+            "text": "13.14 *Helleborus niger* (S. 134)\n\nPK sferoïdisch tot zwak prolaat, PForml 1,01–1,34. Poolvelden klein (PFeldI 0,21–0,18). Colpi tot ca. 6 µm breed, met afgeronde einden; colpusmembranen dicht grofkorrelig bekleed. Exine 1,8–2,5 µm dik, soms polair zwak verdikt. Tectum geperforeerd; columellae ca. 0,6 µm dik, duidelijk, onregelmatig verdeeld. Endexine ongeveer zo dik als het tectum. Vgl. ook het reticulate *Helleborus viridis*-type (S. 292). (Tafel 15: 21–24)\n\n*Helleborus niger* L. (2)\n36,5–49,3 µm, MiW 41,9 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK 17–32 µm groot, met korrelig, maar niet dicht korrelig beklede colpi.",
-          "id": {
-            "name": "13.15 Spergularia-type (Blz... 134)"
-          }
+          "next": "19"
         }
       ]
     },
@@ -298,14 +296,14 @@
       "choices": [
         {
           "label": "columellae onregelmatig verdeeld, endexine dikker als het tectum (tabel 15: 1–10, tabel 16: 4–6).",
-          "id": {
-            "name": "13.16 Cuscuta europaea-type (Blz... 136)"
+          "outcome": {
+            "text": "13.15 *Spergularia*-type (S. 134)\n\nOmvat de geslachten *Spergularia*, *Telephium* en *Spergula* (zonder de pericolpate *Spergula arvensis*). PK sferoïdisch, PForml 0,90–1,13, psilaat of zwak scabraat. Poolvelden middelgroot, zelden klein. Colpi 1,5–2,0 µm breed, korrelig tot schollig bekleed. Exine met tectum perforatum; endexine ca. 1 µm dik, duidelijk dikker dan het tectum. Columellae onregelmatig verdeeld, 0,3–0,5 µm dik. (Tafel 15: 1–10, Tafel 16: 4–6)\n\n*Spergula pentandra* L. (2)\n20,9–31,2 µm, MiW 25,2 µm; 50 PK, 2a\n\n*Spergula morisonii* BOREAU (2)\n19,3–24,5 µm, MiW 21,5 µm; 50 PK, 0a\n\n*Spergularia echinosperma* (CELAK.) ASCH. & GRAEB. (1)\n20,5–27,0 µm, MiW 23,4 µm; 50 PK, 0a\n\n*Spergularia media* (L.) C. PRESL. (1)\n18,5–24,3 µm, MiW 20,9 µm; 50 PK, 0a\n\n*Spergularia salina* J. PRESL & C. PRESL (3)\n20,3–26,8 µm; MiW 24,4 µm; 50 PK, 0a\n\n*Spergularia rubra* (L.) J. PRESL. & C. PRESL (3)\n19,8–25,5 µm, MiW 22,9 µm; 50 PK, 0a\n\n*Spergularia segetalis* (L.) G. DON (1)\n17,0–22,8 µm, MiW 20,2 µm; 50 PK, 0a\n\n*Telephium imperati* L. (1)\n20,2–28,0 µm, MiW 24,6 µm; 50 PK, 0a"
           }
         },
         {
           "label": "columellae staan afzonderlijk en zijn tamelijk regelmatig verdeeld. tectum zonder of slechts met afzonderlijke, scherp herkenbare perforaties. Endexine dikker als tectum (tabel 15: 11–20, tabel 16: 7–9).",
-          "id": {
-            "name": "13.17 Myricaria germanica (Blz... 136)"
+          "outcome": {
+            "text": "13.16 *Cuscuta europaea*-type (S. 136)\n\nPK sferoïdisch; poolvelden middelgroot (PFeldI 0,26–0,41). Exine 1,9–2,2(2,5) µm dik. Endexine ca. 1,0 µm dik, dikker dan het tectum. Tectum met afzonderlijke, vaak onduidelijke perforaties. Columellae duidelijk, 0,5–1,0 µm dik, afstanden ca. 1 µm; in tegenstelling tot het *Spergularia*-type steeds afzonderlijk staand, tamelijk regelmatig verdeeld en kontrastrijk. (Tafel 15: 11–20, Tafel 16: 7–9)\n\n*Cuscuta campestris* YUNCKER (3)\n25,5–34,8 µm, MiW 30,3 µm; 50 PK\n\n*Cuscuta europaea* L. (4)\n22,5–29,5 µm, MiW 25,6 µm; 50 PK, 1a\n\n*Cuscuta epithymum* (L.) L. (3)\n21,3–28,5 µm, MiW 24,7 µm; 50 PK, 1a\n\n*Cuscuta suaveolens* SER. (2)\n21,2–29,6 µm, MiW 26,9 µm; 50 PK, 2a"
           }
         }
       ]
@@ -316,8 +314,8 @@
       "choices": [
         {
           "label": "Exine met perforaties (fasecontrastbeeld).",
-          "id": {
-            "name": "Endexine: moeilijker pollentype (Blz... 17)."
+          "outcome": {
+            "text": "13.17 *Myricaria germanica* (S. 136)\n\nPK psilaat, sferoïdisch, PForml 0,86–1,12. Poolvelden middelgroot (PFeldI 0,33–0,41). Intercolpiumranden meestal glad. Exine 1,8 µm, endexine 1,2 µm dik. Columellae wisselend duidelijk, meestal in fasecontrast in opzicht zichtbaar. Tectum dun, met vaak onduidelijke perforaties. Moeilijk pollentype. (Tafel 17: 1–5)\n\n*Myricaria germanica* (L.) DESV. (2)\n20,0–27,5 µm, MiW 23,9 µm; 50 PK, 0a"
           }
         },
         {
@@ -332,14 +330,14 @@
       "choices": [
         {
           "label": "PK microreticulaat en in fasecontrastbeeld niet of nauwelijks herkenbaar. colpi ingeschokt, intercolpium-randen in equatoriaal gebied korrelig opgelost. colpi gelegen equatoriaal, vaak voorgebogen of met equatoriale bruggen respectievelijk equatoriaal verengt. PK prolaat of sferoïdisch. Exine 1,0–1,5 µm dik, endexine dikker als tectum (tabel 16: 10–12).",
-          "id": {
-            "name": "13.18 Viola odorata-type (Blz... 138)"
+          "outcome": {
+            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a"
           }
         },
         {
           "label": "columellae minstens in fasecontrastbeeld duidelijk herkenbaar. colpi niet of slechts zwak ingeschokt. Intercolpium-randen helemaal niet in equatoriaal gebied korrelig opgelost. PK echter vaak met brede colpi, deren membraan korrelig sculptuur heeft. Endexine dunner als tectum, gelijk dik of dikker. Exine meestal boven 1,5 µm dik (tabel 16: 13–19).",
-          "id": {
-            "name": "13.19 Rhinanthus-groep (Blz... 138)"
+          "outcome": {
+            "text": "13.19 *Rhinanthus*-groep (S. 138) — zie deelsleutel."
           }
         }
       ]
@@ -364,14 +362,14 @@
       "choices": [
         {
           "label": "PK ca. 15–20 µm groot, columellae niet herkenbaar (tabel 32: 19–24).",
-          "id": {
-            "name": "Gratiola officinalis (Blz... 204)"
+          "outcome": {
+            "text": "15.3 *Gratiola officinalis* (S. 204)"
           }
         },
         {
           "label": "PK (22)25–50 µm groot, columellae in opzicht meestal zeer contrastarm (tabel 16: 10–12).",
-          "id": {
-            "name": "13.18 Viola odorata-type (Blz... 140)"
+          "outcome": {
+            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a"
           }
         }
       ]
@@ -382,8 +380,8 @@
       "choices": [
         {
           "label": "PK groter als 60–80 µm (tabel 120: 8–9).",
-          "id": {
-            "name": "13.20 Vinca minor (Blz... 140)"
+          "outcome": {
+            "text": "13.20 *Vinca minor* (S. 140)\n\nPK sferoïdisch, dunwandig, weinig vormvast. Pollenvormindex ca. 1,0; PFeldI ca. 0,45–0,50. Exine psilaat, 1 µm dik (kleurt niet bij acetolyse). Colpi 7–12 µm breed; intercolpium-randen onregelmatig tot korrelig opgelost. Columellae-laag niet herkenbaar. (Tafel 120: 8–9)\n\n*Vinca minor* L. (1)\n83,5–93,0 µm; 13 PK, 0a"
           }
         },
         {
@@ -398,8 +396,8 @@
       "choices": [
         {
           "label": "Poolfelder groot, pollenvormindex < 1,0, PK 22–27 µm groot (tabel 17: 6–10).",
-          "id": {
-            "name": "13.21 Monotropa hypopitys (Blz... 142)"
+          "outcome": {
+            "text": "13.21 *Monotropa hypopitys* (S. 142)\n\nPK psilaat, sferoïdisch, PForml 0,82–0,90, Polachse 19,5–22,5 µm. PK in polair aanzicht zwak dreieckig. poolvelden groot, PFeldI 0,59–0,69. colpi ca. 5,5–8,5 µm lang, µm 1 µm breed, equatoriaal gelegentlich met een porenähnlichen, tot ongeveer 3x5 µm grote Struktur. exine 1,5–1,7 µm dik, zonder erkennbare columellae-Schicht. endexine µm 1,0 µm. Gelegentlich findet men bij Monotropa ook pericolpate PK.\n\n*Monotropa hypopitys* L. (3)\n22,5–27,0 µm, MiW 25,3 µm; 50 PK, 0a, Ä"
           }
         },
         {
@@ -414,13 +412,15 @@
       "choices": [
         {
           "label": "Exine 0,8 µm dik, PK prolaat tot perprolaat, 26–34 µm groot, pollenvormindex 1,57–2,17, poolvelden klein. Colpus-membranen niet korrelig bekleed, colpi vaak met aangeduide poriën (tabel 33: 20–23, zie Tricolporoidatae).",
-          "id": {
-            "name": "Erihropus alpinus (Blz... 208)"
+          "outcome": {
+            "text": "*Erinus alpinus* (S. 208) — vgl. Tricolporoidatae."
           }
         },
         {
           "label": "Exine dikker, PK met korrelig beklede colpus-membranen, poolvelden klein.",
-          "next": "27"
+          "outcome": {
+            "text": "13.22 *Lamium album*-type (S. 142)\n\nPK langgerekt, sferoïdisch tot prolaat (PForml 1,05–1,55); poolvelden klein. Exine 1,5–2 µm dik, oppervlak volledig glad. Columellae niet herkenbaar. Intercolpiumranden kunnen iets korrelig opgelost of uitgeveerd zijn; colpusmembranen korrelig gesculpteerd. PK kleuren bij acetolyse niet of nauwelijks.\n\n*Lamium album* L. (4)\n22,5–30,3 µm, MiW 27,1 µm; 50 PK, 0a\n\n*Lamium galeobdolon* (L.) L. (3)\n31,5–38,9 µm, MiW 35,2 µm; 35 PK, 0a\n\n*Lamium maculatum* L. (4)\n24,8–32,6 µm, MiW 29,1 µm; 50 PK, 0a\n\n*Lamium orvala* L. (2)\n32,6–45,7 µm, MiW 39,4 µm; 50 PK, 0a"
+          }
         }
       ]
     },
@@ -444,14 +444,14 @@
       "choices": [
         {
           "label": "tectum polair 2–3 maal zo dik als in het equatoriaal gebied, bovendien aan de intercolpium-randen dunner dan in het midden van de intercolpia. columellae-laag dun, columellae in het equatoriaal gebied in opzicht meestal zeer dun tot niet herkenbaar (tabel 16: 20–22).",
-          "id": {
-            "name": "Beug-tricolpatae-psilate-1323-teucrium"
+          "outcome": {
+            "text": "13.23 *Teucrium* (S. 142) — zie deelsleutel."
           }
         },
         {
           "label": "tectum polair niet zo sterk verdikt en aan de intercolpium-randen niet dunner dan in het midden van de intercolpia. columellae overal gelijk goed zichtbaar (tabel 17: 11–16).",
-          "id": {
-            "name": "13.24 Saxifraga hirculus-type (Blz... 143)"
+          "outcome": {
+            "text": "13.24 *Saxifraga hirculus*-type (S. 143)\n\n*Saxifraga aphylla* STERNB. (1)\n23,8–33,1 µm, MiW 27,3 µm; 50 PK, 1a\n\n*Saxifraga arachnoidea* STERNB. (1)\n19,1–32,4 µm, MiW 27,2 µm; 50 PK, 1a\n\n*Saxifraga bulbifera* L. (1)\n21,6–32,4 µm, MiW 27,3 µm; 50 PK, 0a Saxifraga cernua L. (3) 33,0–45,3 µm, MiW 38,7 µm; 50 PK, 0a\n\n*Saxifraga granulata* L. (3)\n37,4–59,4 µm, MiW 46,9 µm; 50 PK, 1a\n\n*Saxifraga hirculus* L. (2)\n23,8–32,4 µm, MiW 28,6 µm; 50 PK, 1a\n\n*Saxifraga hypnoides* L. (2)\n25,5–34,0 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Saxifraga moschata* WULFEN (4)\n22,0–34,5 µm, MiW 28,3 µm; 50 PK, 0a\n\n*Saxifraga paradoxa* STERNB. (1)\n17,3–26,6 µm, MiW 22,7 µm; 50 PK, 1a\n\n*Saxifraga pedemontana* ALL. (1)\n25,9–34,9 µm, MiW 30,6 µm; 50 PK, 1a\n\n*Saxifraga petraea* L. (2)\n19,8–24,8 µm, MiW 22,2 µm; 50 PK, 0a Saxifraga rosacea MOENCH L. (3) 20,2–35,3 µm, MiW 26,0 µm; 50 PK, 1a Saxifraga rivularis L. (2)\n\n*Saxifraga sedoides* L. (1)\n18,4–31,7 µm, MiW 25,1 µm; 50 PK, 1a Saxifraga tenella WULF. (1)"
           }
         }
       ]
@@ -476,14 +476,14 @@
       "choices": [
         {
           "label": "tectum zonder sterk lichtbrekende laag. Exine tot 2,2 µm, columellae onder 1 µm dik (tabel 17: 11–16).",
-          "id": {
-            "name": "13.24 Saxifraga hirculus-type (Blz... 143)"
+          "outcome": {
+            "text": "13.24 *Saxifraga hirculus*-type (S. 143)\n\n*Saxifraga aphylla* STERNB. (1)\n23,8–33,1 µm, MiW 27,3 µm; 50 PK, 1a\n\n*Saxifraga arachnoidea* STERNB. (1)\n19,1–32,4 µm, MiW 27,2 µm; 50 PK, 1a\n\n*Saxifraga bulbifera* L. (1)\n21,6–32,4 µm, MiW 27,3 µm; 50 PK, 0a Saxifraga cernua L. (3) 33,0–45,3 µm, MiW 38,7 µm; 50 PK, 0a\n\n*Saxifraga granulata* L. (3)\n37,4–59,4 µm, MiW 46,9 µm; 50 PK, 1a\n\n*Saxifraga hirculus* L. (2)\n23,8–32,4 µm, MiW 28,6 µm; 50 PK, 1a\n\n*Saxifraga hypnoides* L. (2)\n25,5–34,0 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Saxifraga moschata* WULFEN (4)\n22,0–34,5 µm, MiW 28,3 µm; 50 PK, 0a\n\n*Saxifraga paradoxa* STERNB. (1)\n17,3–26,6 µm, MiW 22,7 µm; 50 PK, 1a\n\n*Saxifraga pedemontana* ALL. (1)\n25,9–34,9 µm, MiW 30,6 µm; 50 PK, 1a\n\n*Saxifraga petraea* L. (2)\n19,8–24,8 µm, MiW 22,2 µm; 50 PK, 0a Saxifraga rosacea MOENCH L. (3) 20,2–35,3 µm, MiW 26,0 µm; 50 PK, 1a Saxifraga rivularis L. (2)\n\n*Saxifraga sedoides* L. (1)\n18,4–31,7 µm, MiW 25,1 µm; 50 PK, 1a Saxifraga tenella WULF. (1)"
           }
         },
         {
           "label": "tectum met sterk lichtbrekende middenlaag, columellae duidelijk en dik, PK sferoïdisch, vaak iets gestrekt, regelmatig scabraat-microechinaat sculptuur, zeer variabel, vaak met poroid gebied (tabel 28: 1–12).",
-          "id": {
-            "name": "Artemisia (Blz... 188)"
+          "outcome": {
+            "text": "*Artemisia* (S. 188)"
           }
         }
       ]
@@ -493,9 +493,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "Sculptuurelementen in opzicht 0,5–1,5 µm groot, onregelmatig gevormd en verdeeld, tectum grover vlakte dan in optische snede meestal zeer onregelmatig (wanneer PK dunwandig en weinig vormbestendig, kugelig tot oblaat, met grote poolvelden en heel contrastarm begrensde colpi vergelijk *Datura stramonium*, Blz... 270) (tabel 17: 17–29).",
-          "id": {
-            "name": "13.25 Quercus (Blz... 143)"
+          "label": "Sculptuurelementen in opzicht 0,5–1,5 µm groot, onregelmatig gevormd en verdeeld; tectum in optische snede meestal zeer onregelmatig (wanneer PK dunwandig en weinig vormbestendig, bolrond tot oblaat, met grote poolvelden en heel contrastarm begrensde colpi: vergelijk *Datura stramonium*, S. 270) (tabel 17: 17–29).",
+          "outcome": {
+            "text": "13.25 *Quercus* (S. 143) — zie deelsleutel."
           }
         },
         {
@@ -524,14 +524,14 @@
       "choices": [
         {
           "label": "Exine tot 1 µm dik, wanneer dikker, dan PK > 40 µm. PK met ± onduidelijke poriën. intercolpia sterk afgeplat tot konkaaf (tabel 31: 13–23).",
-          "id": {
-            "name": "Cornus (Blz... 203)"
+          "outcome": {
+            "text": "15.1 *Cornus* (S. 203) — zie deelsleutel."
           }
         },
         {
           "label": "Exine 1,5–2,0 µm dik. PK tot 30 µm groot. colpi equatoriaal hoogstens verengd. intercolpia afgeplat, niet konkaaf (tabel 17: 17–29).",
-          "id": {
-            "name": "13.25 Quercus (Blz... 143)"
+          "outcome": {
+            "text": "13.25 *Quercus* (S. 143) — zie deelsleutel."
           }
         }
       ]
@@ -555,15 +555,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae in fasecontrastbeeld aanwezig, niet-gerangschikt. Scabraat-microechinaat sculptuur.",
-          "id": {
-            "name": "13.26 Solidago-type (Blz... 144)"
+          "label": "PK 20–30 µm groot (Tafel 18: 1–5).",
+          "outcome": {
+            "text": "13.26 *Cimicifuga foetida* (S. 145)\n\nPK scabraat, sferoïdisch, pollenvormindex > 1,0. Poolvelden klein tot middelgroot. Exine 1,5–2,0 µm, endexine 0,8–1,0 µm dik, tectum met perforaties. Grote columellae talrijk, ca. 1 µm dik; kleine columellae sterk gereduceerd. Sculptuurelementen klein. (Tafel 18: 1–5)\n\n*Cimicifuga europaea* SCHIPCZ. (2)\n21,6–29,5 µm, MiW 26,2 µm; 50 PK, 1a"
           }
         },
         {
-          "label": "columellae in fasecontrastbeeld zeer zwak herkenbaar of afwezig, niet-gerangschikt. Scabraat-microechinaat sculptuur.",
-          "id": {
-            "name": "13.27 Senecio-type (Blz... 144)"
+          "label": "PK 35–50 µm groot (Tafel 18: 6–8).",
+          "outcome": {
+            "text": "13.27 *Oxalis acetosella* (S. 145)\n\nPK scabraat, breed elliptisch, sferoïdisch, pollenvormindex 1,08–1,33; poolvelden middelgroot (PFeldI 0,33–0,44). Colpusmembranen korrelig of met fragmentarisch operculum. Sculptuurelementen vlak en vaak contrastarm; tectum met talrijke perforaties. Exine ca. 2 µm, endexine 0,7–0,9 µm dik. Columellae duidelijk, vaak in groepen. (Tafel 18: 6–8)\n\n*Oxalis acetosella* L. (4)\n37,8–51,5 µm, MiW 45,5 µm; 50 PK, 1a"
           }
         }
       ]
@@ -574,13 +574,13 @@
       "choices": [
         {
           "label": "PK prolaat, pollenvormindex 1,4–1,6, 30–40 µm groot, met 2,7–3,2 µm dikke Exine (tabel 18: 11–14).",
-          "id": {
-            "name": "13.28 Garidella nigellastrum (Blz... 146)"
+          "outcome": {
+            "text": "13.28 *Garidella nigellastrum* (S. 146)\n\n*Garidella nigellastrum* L. (1)\n32,0–40,5 µm, MiW 36,5 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK met eenvoudige columellae-laag, met hoofd- en nevencolumellae.",
-          "next": "38"
+          "label": "PK met andere kenmerkcombinatie.",
+          "next": "37"
         }
       ]
     },
@@ -589,14 +589,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Hoofdcolumellae 0,9–1,3 µm dik, nevencolumellae 0,4–0,8 µm. Exine 2,0–2,6 µm dik, columellae-laag slechts ca. 0,6–0,8 µm dik (tabel 18: 9–10).",
-          "id": {
-            "name": "13.30 Eranthis hiemalis (Blz... 144)"
+          "label": "PK met dubbele columellae-laag. Buitencolumellae goed herkenbaar, zeer dun en dicht staand. Binnencolumellae 0,8–1,2 µm dik (tabel 18: 15–18).",
+          "outcome": {
+            "text": "13.29 *Nigella* (Tafel 18: 15–18)\n\nPK scabraat (fijn microechinaat), overwegend sferoïdisch, pollenvormindex 0,99–1,24(1,34), alleen tricolpaat, met meestal kleine poolvelden (PFeldI 0,21–0,25). Colpi 7–10 µm breed, grof korrelig bekleed. Exine 3,2–5,0 µm, soms polair dikker dan equatoriaal, met dubbele columellae-laag.\n\n*Nigella arvensis* L. (2)\n35,8–45,0 µm, MiW 40,1 µm; 50 PK, 0a\n\n*Nigella damascena* L. (1)\n40,0–53,3 µm, MiW 44,8 µm; 50 PK, 2a\n\n*Nigella hispanica* L. (1)\n39,6–51,5 µm, MiW 45,1 µm; 50 PK, 1a\n\n*Nigella sativa* L. (2)\n41,3–45,0 µm, MiW 42,7 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "columellae dunner en columellae-laag dikker.",
-          "next": "39"
+          "label": "PK met enkele columellae-laag, vaak met hoofd- en nevencolumella.",
+          "next": "38"
         }
       ]
     },
@@ -605,14 +605,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Endexine met opvallende riss (fasecontrastbeeld) (tabel 18: 19–23).",
-          "id": {
-            "name": "13.31 Hepatica nobilis (Blz... 148)"
+          "label": "Hoofdcolumellae 0,9–1,3 µm dik, nevencolumellae 0,4–0,8 µm. Exine 2,0–2,6 µm dik, columellae-laag slechts ca. 0,6–0,8 µm dik (tabel 18: 9–10).",
+          "outcome": {
+            "text": "13.30 *Eranthis hyemalis* (Tafel 18: 9–10)\n\nPK sferoïdisch tot prolaat, pollenvormindex 1,04–1,56. Poolvelden meestal klein. Exine 2,0–2,6 µm dik. Columellae-laag 0,6–0,8 µm dik. Hoofdcolumellae 1,0–1,5 µm, nevencolumellae 0,4–0,6 µm dik.\n\n*Eranthis hyemalis* (L.) SALISB. (3)\n37,5–47,5 µm, MiW 42,3 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Endexine niet met opvallende riss.",
-          "next": "40"
+          "label": "columellae dunner en columellae-laag dikker.",
+          "next": "39"
         }
       ]
     },
@@ -621,19 +621,35 @@
       "type": "step",
       "choices": [
         {
-          "label": "De sculptuurelementen (microechini) staan uitsluitend op ca. 0,9–1,2 µm dikke columellae en zijn van deze ongelijkmatig geordend. Daarbij kunnen de microechini met mamillose voorwendingen van het tectum staan; het tectum is dan in het optische snede onopvallend, soms glad. Tussen de dikkere hoofdcolumellae kunnen dunnere nevencolumellae herkenbaar zijn, die in het fasecontrastbeeld (phako) in de cirkelvormige \"holte\" om de hoofdcolumellae heen of onregelmatige (mamillose) voorwendingen vormen. PK sferoïdisch, pollenvormindex tot 1,0, in vrijwel gelijke grootte. Exine meestal 2,0–2,2 µm dik. Endexine dikker als het tectum of bijna gelijk dik (tabel 19: 1–30).",
-          "id": {
-            "name": "13.32 Ranunculus acris-type (Blz... 148)"
+          "label": "Endexine met opvallende riss (fasecontrastbeeld) (tabel 18: 19–23).",
+          "outcome": {
+            "text": "13.31 *Hepatica nobilis* (Tafel 18: 19–23)\n\nPK scabraat (microechinaat), sferoïdisch, pollenvormindex 0,90–0,97, meestal tricolpaat, zelden pericolpaat met 6 colpi. Poolvelden klein (PFeldI 0,15–0,22). Exine 2,5–3,0 µm dik.\n\n*Hepatica nobilis* SCHREB. (5)\n27,8–33,5 µm, MiW 31,2 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "De sculptuurelementen staan niet bij bepaalde columellae. De columellae zijn eenheid 0,5 µm dik, staan zeer dicht en kunnen netjes gestapeld of netachtig verscholen zijn (brochi onder 1 µm). De sculptuurelementen staan meestal in afstanden van 1–2 µm en zijn regelmatig verdeeld.",
-          "next": "41"
+          "label": "Endexine niet met opvallende riss.",
+          "next": "40"
         }
       ]
     },
     "40": {
       "id": "40",
+      "type": "step",
+      "choices": [
+        {
+          "label": "De sculptuurelementen (microechini) staan uitsluitend op ca. 0,9–1,2 µm dikke columellae en zijn van deze ongelijkmatig geordend (tabel 19: 1–30).",
+          "outcome": {
+            "text": "13.32 *Ranunculus acris*-type (S. 148) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "De sculptuurelementen staan niet bij bepaalde columellae. De columellae zijn eenheid 0,5 µm dik, staan zeer dicht (brochi onder 1 µm).",
+          "next": "41"
+        }
+      ]
+    },
+    "41": {
+      "id": "41",
       "type": "step",
       "choices": [
         {
@@ -646,35 +662,21 @@
         }
       ]
     },
-    "41": {
-      "id": "41",
-      "type": "step",
-      "choices": [
-        {
-          "label": "PK sferoïdisch (kugelig), tot 45 µm groot (tabel 14: 5–6).",
-          "id": {
-            "name": "13.10 Valerianella (Blz... 131)"
-          }
-        },
-        {
-          "label": "PK sferoïdisch, maar langer als breed, > 50 µm (tabel 43: 7–10).",
-          "id": {
-            "name": "Centranthus (Blz... 242)"
-          }
-        }
-      ]
-    },
     "42": {
       "id": "42",
       "type": "step",
       "choices": [
         {
-          "label": "Poolfelder met duidelijk verdikte columellae-laag.",
-          "next": "43"
+          "label": "PK sferoïdisch (kogelvormig), tot 45 µm groot (tabel 14: 5–6).",
+          "outcome": {
+            "text": "13.10 *Valerianella* (S. 131)\n\n*Valerianella coronata* (L.) DC. (2)\n33,0–42,5 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Valerianella dentata* (L.) POLLICH (1)\n31,0–39,0 µm, MiW 34,0 µm; 50 PK, 0a\n\n*Valerianella eriocarpa* DESV. (2)\n29,0–39,7 µm, MiW 35,1 µm; 50 PK, 6a Valerianella locusta (L.) LATERR. (2) 32,0–40,0 µm, MiW 34,9 µm; 50 PK, 0a Valerianella rimosa BATSARD (3) 30,5–40,0 µm, MiW 35,8 µm; 50 PK, 0a"
+          }
         },
         {
-          "label": "columellae-laag polair niet verdikt of columellae in het bereik van de polaire exineverdikking niet verder met elkaar verbonden en niet dikker.",
-          "next": "44"
+          "label": "PK sferoïdisch, maar langer als breed, > 50 µm (tabel 43: 7–10).",
+          "outcome": {
+            "text": "*Centranthus* (S. 242)"
+          }
         }
       ]
     },
@@ -683,13 +685,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met tectum perforatum. columellae helemaal niet verbonden.",
-          "id": {
-            "name": "13.9 Convolvulus arvensis-type (Blz... 130)"
-          }
+          "label": "Poolfelder met duidelijk verdikte columellae-laag.",
+          "next": "44"
         },
         {
-          "label": "tectum zonder perforaties of columellae niet verbonden respectievelijk niet geordend; moeilijk te onderscheiden pollentypen.",
+          "label": "columellae-laag polair niet verdikt of columellae in het bereik van de polaire exineverdikking niet verder met elkaar verbonden en niet dikker.",
           "next": "45"
         }
       ]
@@ -699,13 +699,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Endexine duidelijk dikker dan het tectum (indien met onduidelijke colpi en middelgrote poolvelden vergelijk *Scopolia*, Blz... 204).",
-          "id": {
-            "name": "13.33 Globularia (Blz... 151)"
+          "label": "PK met tectum perforatum. columellae helemaal niet verbonden.",
+          "outcome": {
+            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a"
           }
         },
         {
-          "label": "Endexine zo dik als het tectum of dunner; wanneer endexine dikker is dan het tectum, dan Exine boven 1,5 µm dik.",
+          "label": "tectum zonder perforaties of columellae niet verbonden respectievelijk niet geordend; moeilijk te onderscheiden pollentypen.",
           "next": "46"
         }
       ]
@@ -715,16 +715,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine 1,5–2,0 µm dik. PK 19–32 µm groot, scabraat, met endo-microreticulum, columellae zeer dun en scherp herkenbaar (tabel 20: 1–3).",
-          "id": {
-            "name": "13.34 Adonis vernalis (Blz... 152)"
+          "label": "Endexine duidelijk dikker dan het tectum (indien met onduidelijke colpi en middelgrote poolvelden: vergelijk *Scopolia*, S. 204).",
+          "outcome": {
+            "text": "13.33 *Globularia* (S. 151)\n\n*Globularia cordifolia* L. (2)\n18,8–28,3 µm, MiW 23,6 µm; 50 PK, 0a\n\n*Globularia nudicaulis* L. (2)\n19,1–31,9 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Globularia punctata* LAPEYR. (3)\n19,1–28,0 µm, MiW 24,1 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Exine 2,0–2,2 µm dik. PK 27–35 µm groot, scabraat, met microreticulaat sculptuur. columellae duidelijk herkenbaar (tabel 20: 4–7).",
-          "id": {
-            "name": "13.35 Caltha-type (Blz... 152)"
-          }
+          "label": "Endexine zo dik als het tectum of dunner; wanneer endexine dikker is dan het tectum, dan Exine boven 1,5 µm dik.",
+          "next": "47"
         }
       ]
     },
@@ -733,15 +731,33 @@
       "type": "step",
       "choices": [
         {
+          "label": "Exine 1,5–2,0 µm dik. PK 19–32 µm groot, scabraat, met endo-microreticulum, columellae zeer dun en scherp herkenbaar (tabel 20: 1–3).",
+          "outcome": {
+            "text": "13.34 *Adonis vernalis* (S. 152)\n\nPK duidelijk scabraat (microechinaat), sferoïdisch, pollenvormindex 1,01–1,14; overwegend tricolpaat, zelden pericolpaat. Poolvelden middelgroot tot klein. Colpi tot 4 µm breed; colpusmembranen dicht grof korrelig bekleed. Columellae dun (ca. 0,5 µm of minder), onregelmatig. Exine 2,0–2,2 µm, endexine 0,9–1,0 µm dik. (Tafel 20: 4–7)\n\n*Adonis vernalis* L. (5)\n27,0–35,3 µm, MiW 31,3 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Exine 2,0–2,2 µm dik. PK 27–35 µm groot, scabraat, met microreticulaat sculptuur. columellae duidelijk herkenbaar (tabel 20: 4–7).",
+          "outcome": {
+            "text": "13.35 *Caltha*-type (S. 152)\n\n*Caltha*: PK scabraat, kogelvormig tot zwak elliptisch/ruitvormig, pollenvormindex 0,99–1,26. Sculptuurelementen in opzicht 0,8–1,1 µm, hoekig. Columellae zeer fijn; deels of geheel vervangen door endo-microreticulum. Exine 1,5–1,8 µm. (Tafel 20: 8–11)\n\n*Caltha palustris* L. (3)\n25,8–32,5 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Isopyrum thalictroides* L. (3)\n19,8–26,5 µm, MiW 23,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    },
+    "47": {
+      "id": "47",
+      "type": "step",
+      "choices": [
+        {
           "label": "Sculptuurelementen in opzicht hoekig, columellae (in opzicht) zeer dun en talrijk, PK vaak met een endo-microreticulaat structuur. Afgrenzing van het *Papaver rhoeas*-groep en van *Globularia* vaak moeilijk (tabel 20: 8–11).",
-          "id": {
-            "name": "Beug-tricolpatae-psilate-1336-papaver"
+          "outcome": {
+            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel."
           }
         },
         {
           "label": "Sculptuurelementen in opzicht rondachtig, columellae in opzicht meestal moeilijk herkenbaar, PK vaak met endo-microreticulaat structuur (daarbij ook endo-microbrochi naast geïsoleerde columellae). Afgrenzing van het *Caltha*-type vaak moeilijk (tabel 20: 12–23).",
-          "id": {
-            "name": "13.37 Papaver rhoeas-groep (Blz... 154)"
+          "outcome": {
+            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel.\n\n(In Beug is dit 13.36; geen aparte 13.37 in de bron.)"
           }
         }
       ]

@@ -1,6 +1,6 @@
 # *Vicia faba* (tuinboon)
 
-{{ pollen_gallery("vicia_faba") }}
+{{ gallery("vicia_faba") }}
 
 ## Kenmerken
 

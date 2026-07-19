@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-cyperaceae",
+    "title": "33.18 Cyperaceae (Tafel 116–118)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 3
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "*Carex* — overwegend of uitsluitend colpaat.",
+          "outcome": {
+            "text": "33.18 *Carex* groep 1 (colpaat) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "*Carex* — poraat (deels ook colpaat aandeel).",
+          "next": "2"
+        }
+      ],
+      "note": "Cryptotetraden; kegel-/zakvormig. Exine 0,9–1,3 µm. Bepaling binnen familie meestal beperkt; *Cladium mariscus* deels herkenbaar."
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "*Carex* groep 2: poraat, deels ook colpaat.",
+          "outcome": {
+            "text": "33.18 *Carex* groep 2 — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Andere *Carex*-groepen of overige Cyperaceae-genera.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "*Carex* groep 3 (colpaat én poraat) / 4 (vlakke aperturale zones) / 5 (zeer onduidelijk).",
+          "outcome": {
+            "text": "33.18 *Carex* groepen 3–5 — zie deelsleutel."
+          }
+        },
+        {
+          "label": "*Cladium*, *Cobresia*, *Cyperus*, *Eleocharis*, *Eriophorum*, *Rhynchospora*, *Scirpus* s.l., *Schoenus*.",
+          "outcome": {
+            "text": "33.18 Overige Cyperaceae — zie deelsleutel."
+          }
+        }
+      ]
+    }
+  }
+}

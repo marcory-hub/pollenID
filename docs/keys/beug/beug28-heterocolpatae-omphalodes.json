@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-omphalodes",
+    "title": "28.10 *Omphalodes*-type",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 7–12(13) µm; porate colpi korter; polar afgerond (soms zwak).",
+          "outcome": {
+            "text": "28.10 *Omphalodes*-type\n\nPK prolaat tot perprolaat (PForml 1,4–2,1); equatoriaal haltervormig. Kleiner dan *Mertensia*; niet-porate colpi langer dan porate. Poriën 1,5–2,0 × 1,0–1,2 µm; exine 0,7–0,8 µm. Bij *Myosotis arvensis* en *M. ramosissima* vaak tot overwegend 8 colpi.\n\n*Omphalodes scorpioides* (HAENKE) SCHRANK (2)\n7,5–10,5 µm, MiW 9,1 µm; 50 PK, 0a\n\n*Omphalodes verna* MOENCH (2)\n9,5–12,0 µm, MiW 11,1 µm; 50 PK, 0a\n\n*Myosotis sparsiflora* J.C. MIKAN ex POHL (2)\n7,8–11,3 µm, MiW 10,1 µm; 50 PK, 0a\n\n*Myosotis stricta* LINK EX ROEM. & SCHULT. (2)\n9,5–12,5 µm, MiW 11,3 µm; 50 PK, 0a\n\n*Myosotis arvensis* (L.) HILL. (2)\n9,8–12,3 µm, MiW 11,1 µm; 50 PK, 0a\n\n*Myosotis ramosissima* ROCHEL ex SCHULT. (2)\n10,3–13,0 µm, MiW 11,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

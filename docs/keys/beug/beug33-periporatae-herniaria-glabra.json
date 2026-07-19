@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-herniaria-glabra",
+    "title": "33.19.4 *Herniaria glabra*-Typ (Tafel 118: 21–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zonder anulus; 4–8 poriën.",
+          "outcome": {
+            "text": "33.19.4 *Herniaria glabra*-Typ\n\n*Herniaria glabra* L.\n11,3–16,0 µm, MiW 13,6 µm; 50 PK, 0a\n[te verifiëren: herkomsttelling ontbreekt]\n\n*Herniaria hirsuta* L.\n14,0–18,8 µm, MiW 16,8 µm; 50 PK, 0a\n[te verifiëren: herkomsttelling ontbreekt]\n\n*Herniaria incana* LAM.\n14,5–19,5 µm, MiW 16,6 µm; 50 PK, Oa\n[te verifiëren: herkomsttelling ontbreekt]"
+          }
+        }
+      ]
+    }
+  }
+}

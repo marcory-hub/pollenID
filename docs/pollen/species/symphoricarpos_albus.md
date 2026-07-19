@@ -1,6 +1,6 @@
 # *Symphoricarpos Albus*
 
-{{ pollen_gallery("symphoricarpos_albus") }}
+{{ gallery("symphoricarpos_albus") }}
 
 ## Kenmerken
 

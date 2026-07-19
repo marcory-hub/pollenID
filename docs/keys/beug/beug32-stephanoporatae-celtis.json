@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-celtis",
+    "title": "32.4 *Celtis* (Tafel 103: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 1,7–1,9 µm; dik tectum; poriën 3,5–4,5 µm met anulus.",
+          "outcome": {
+            "text": "32.4 *Celtis*\n\nPK psilaat; P/E 0,81–0,97; 3–5 poriën (vooral tetraporaat; ca. 10 % triporaat, ca. 5 % vijfporig). Poriën 3,5–4,5 µm met 1,0–1,5(2,0) µm brede anulus. Exine 1,7–1,9 µm; tectum 0,8–1,0 µm; columellae dun en kort maar herkenbaar. Vergelijk *Cannabis*/*Humulus*.\n\n*Celtis australis* L. (2)\n28,8–40,0 µm, MiW 34,5 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

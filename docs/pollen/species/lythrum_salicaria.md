@@ -1,6 +1,6 @@
 # *Lythrum salicaria* (kattenstaart)
 
-{{ pollen_gallery("lythrum_salicaria") }}
+{{ gallery("lythrum_salicaria") }}
 
 ## Kenmerken
 

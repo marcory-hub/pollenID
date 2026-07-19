@@ -1,6 +1,6 @@
 # *Carum carvi* (Carum carvi)
 
-{{ pollen_gallery("carum_carvi") }}
+{{ gallery("carum_carvi") }}
 
 ## Kenmerken
 

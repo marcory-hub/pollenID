@@ -1,6 +1,6 @@
 {
   "meta": {
-    "key": "beug04-tetradeae.json",
+    "key": "beug04-tetradeae",
     "title": "4. Tetradeae (Beug)",
     "locale": "nl",
     "source": "Beug",
@@ -16,8 +16,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel reticulaat-areolaat (tabel 1: 1–2), ca. 60–80 µm groot.",
-          "id": {
-            "name": "4.1 Catalpa (Blz... 43)"
+          "outcome": {
+            "text": "4.1 *Catalpa* (Tafel 1: 1–2)\n\nTetraden groot, zonder aperturen. Exine reticulaat-areolaat. Brochi ca. 1–2 µm.\n\n*Catalpa bignonioides* WALT. (1)\n61,5–80,5 µm, MiW 67,6 µm; 50 T, 1a"
           }
         },
         {
@@ -32,8 +32,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel echinaat (tabel 2: 1–2).",
-          "id": {
-            "name": "4.2 Drosera (zonnedauw)"
+          "outcome": {
+            "text": "4.2 *Drosera* (S. 43) — zie `beug04-tetradeae-drosera.md`."
           }
         },
         {
@@ -48,8 +48,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel inaperturaat, zeer dunwandig, niet gesculpteerd (indien reticulaat, vergelijk Orchidaceae: Epipactis-type en *Spiranthes*, Blz... 44 en 50).",
-          "id": {
-            "name": "4.3 Juncaceae (russenfamilie)"
+          "outcome": {
+            "text": "4.3 Juncaceae\n\nWegens de onkarakteristieke, zeer tere exine in fossiele toestand nauwelijks herkenbaar. EPK laten makkelijk los.\n\nVidi: *Juncus effusus* L., *J. squarrosus* L., *Luzula campestris* (L.) DC., *L. luzuloides* (LAM.) DANDY & WILM., *L. pilosa* (L.) WILLD., *L. silvatica* (HUDS.) GAUD."
           }
         },
         {
@@ -92,14 +92,14 @@
       "choices": [
         {
           "label": "Tetraden met 16–24 poriën. Telkens 2 poriën van aangrenzende individuele pollenkorrel zijn coaperturaat met elkaar verbonden (tabel 1: 6; fig. 2a).",
-          "id": {
-            "name": "4.4 Periploca (Blz... 43)"
+          "outcome": {
+            "text": "4.4 *Periploca* (Tafel 1: 6)\n\nTetraden meestal langgerekt. Elk EPK heeft 4–6 kleine poriën. Binnenwanden duidelijk geperforeerd.\n\n*Periploca graeca* L. (1)\n46,5–65,3 µm, MiW 55,7 µm; 50 T, 0a"
           }
         },
         {
           "label": "Tetraden met 8 poriën. Per 4 poriën zijn coaperturaat met elkaar verbonden (fig. 3b).",
-          "id": {
-            "name": "4.5 Spiranthes (Schroeforchis)"
+          "outcome": {
+            "text": "4.5 *Spiranthes*\n\nTetraden reticulaat; EPK in één vlak. Brochi (1,5)2,0–4,0(5,0) µm; exine 1,5–2,0 µm.\n\n*Spiranthes aestivalis* (POIR.) RICH. (2)\n41,5–72,5 µm, MiW 52,3 µm; 50 T, 0a\n\n*Spiranthes spiralis* (L.) CHEVALL. (2)\n35,0–63,0 µm, MiW 48,3 µm; 50 T, 0a"
           }
         }
       ]
@@ -110,14 +110,14 @@
       "choices": [
         {
           "label": "individuele pollenkorrel echinaat en tricolpaat, tetraden 70–90 µm groot (tabel 1: 5).",
-          "id": {
-            "name": "4.6 Aldrovanda vesiculosa (watervliegenval)"
+          "outcome": {
+            "text": "4.6 *Aldrovanda vesiculosa* (Tafel 1: 5)\n\nGrote tetraden met tricolpate EPK; echini ca. 2 µm; colpi tot 12,5 µm breed.\n\n*Aldrovanda vesiculosa* L. (1)\n71,0–91,1 µm, MiW 79,8 µm; 50 T, 0a"
           }
         },
         {
           "label": "individuele pollenkorrel verrucaat, scabraat of psilaat en tricolpaat (evt. tricolporaat of tetracolpaat). Tetraden meest < 60 µm, zelden tot ca. 75 µm. Vergelijk ook *Chimaphila umbellata* (Blz... 49).",
-          "id": {
-            "name": "4.7 Ericaceae — Empetrum-groep (dwergstruiken uit de heidefamilie)"
+          "outcome": {
+            "text": "4.7 Ericaceae–*Empetrum*-groep (S. 44) — zie `beug04-tetradeae-ericaceae-empetrum.md`."
           }
         }
       ]
@@ -128,8 +128,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel tricolpaat, meestal met dwarsplooien. individuele pollenkorrel slechts weinig onderling vergroeid; vaak zit in het midden van de tetrade een kleine holte (tabel 3: 1–3).",
-          "id": {
-            "name": "4.8 Chimaphila umbellata (Blz... 49)"
+          "outcome": {
+            "text": "4.8 *Chimaphila umbellata* (Tafel 3: 1–3)\n\nSculptuur fijn scabraat. Colpi meestal met colpi transversales.\n\n*Chimaphila umbellata* (L.) BARTON. (3)\n33,3–46,0 µm, MiW 38,6 µm; 50 T, 0a"
           }
         },
         {
@@ -144,8 +144,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel oblaat tot peroblaat, triporaat, poriën uitgetrokken. De individuele pollenkorrel zitten slechts aan de porieranden losjes aan elkaar vast (tabel 98: 11–12).",
-          "id": {
-            "name": "Epilobium (basterdwederik)"
+          "outcome": {
+            "text": "Epilobium (S. 432) — zie Triporatae 31.7 / `beug31-triporatae` (indien aanwezig)."
           }
         },
         {
@@ -160,14 +160,14 @@
       "choices": [
         {
           "label": "Poriën tot 4 µm groot, individuele pollenkorrel steeds monoporaat (tabel 2: 10–11; fig. 2c).",
-          "id": {
-            "name": "4.9 Typha latifolia-type (grote lisdodde)"
+          "outcome": {
+            "text": "4.9 *Typha latifolia*-type (Tafel 2: 10–11)\n\nMonoporate EPK in één vlak, reticulaat; poriën tot 6 µm; exine ca. 2 µm.\n\n*Typha latifolia* L. (5)\n41,3–57,3 µm, MiW 47,8 µm; 50 T, 0a\n\n*Typha laxmanni* LEPECH. (2)\n46,3–62,8 µm, MiW 53,2 µm; 51 T, 0a\n\n*Typha minima* FUNK (3)\n45,0–57,5 µm, MiW 51,4 µm; 50 T, 0a\n\n*Typha shuttleworthii* W.D.J. KOCH & SOND. (2)\n35,7–48,5 µm, MiW 42,2 µm; 30 T, 0a"
           }
         },
         {
           "label": "Poriën tot 8–15 µm groot, individuele pollenkorrel monoporaat of diporaat. Poriën evt. niet herkenbaar (fig. 3; tabel 1: 3–4).",
-          "id": {
-            "name": "Beug-tetradeae-410-epipactis"
+          "outcome": {
+            "text": "4.10 *Epipactis*-groep (S. 50) — zie `beug04-tetradeae-epipactis.md`."
           }
         }
       ]

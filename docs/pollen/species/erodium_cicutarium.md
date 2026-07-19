@@ -1,6 +1,6 @@
 # *Erodium cicutarium* (gew. Reigersbek)
 
-{{ pollen_gallery("erodium_cicutarium") }}
+{{ gallery("erodium_cicutarium") }}
 
 ## Kenmerken
 

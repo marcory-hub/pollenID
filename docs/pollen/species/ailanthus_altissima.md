@@ -1,6 +1,6 @@
 # *Ailanthus_altissima* (hemelboom)
 
-{{ pollen_gallery("ailanthus_altissima") }}
+{{ gallery("ailanthus_altissima") }}
 
 ## Kenmerken
 

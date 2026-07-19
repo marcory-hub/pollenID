@@ -1,6 +1,6 @@
 # *Rhododendron ponticum* (rhododendron)
 
-{{ pollen_gallery("rhododendron_ponticum") }}
+{{ gallery("rhododendron_ponticum") }}
 
 ## Kenmerken
 

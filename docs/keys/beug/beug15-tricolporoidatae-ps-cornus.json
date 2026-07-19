@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug15-tricolporoidatae-ps-cornus.json",
+    "key": "beug15-tricolporoidatae-ps-cornus",
     "title": "15.1 Cornus (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,15 +16,16 @@
       "choices": [
         {
           "label": "PK ca. 55-80 µm groot, prolaat bis perprolaat",
-          "id": {
-            "pollen_key": "cornus_sanguinea",
-            "note": "15.1.1 Cornus sanguinea"
-          }
+          "outcome": {
+            "text": "15.1.1 *Cornus sanguinea* (Tafel 31: 9–13)\n\nDoor grootte en langgerekte vorm gemakkelijk van de andere Midden-Europese soorten te scheiden. Exine ca. 1,3–1,6 µm; endexine iets dikker dan het tectum. Columellae-laag in helderveld in optische snede slechts matig zichtbaar. Tectum met rondachtige microverrucae/verrucae, meestal tot ca. 1 µm. In bovenaanzicht dikke en dunne columellae naast elkaar; dikke iets langer en veroorzaken kleine welvingen van het tectum met elk een sculptuurelement. Op polarvelden staan columellae dichter en meer eenvormig middelmatig dik.\n\n*Cornus sanguinea* L. (5)\n57,7–77,9 µm, MiW 62,8 µm; 50 PK, 2a\n\nVoorts tot *C. sanguinea*-type (Tafel 31: 14):\n\n*Cornus alba* L. (1)\n35,4–48,9 µm, MiW 42,1 µm; 50 PK, 0a\n\n*Cornus amomum* MILL. (1)\n51,0–58,8 µm, MiW 53,5 µm; 10 PK, 0a\n\n*Cornus candidissima* MILL. (1)\n34,3–45,7 µm, MiW 38,9 µm; 50 PK, 0a\n\n*Cornus circinata* L'HÉRIT. (1)\n42,8–55,9 µm, MiW 48,1 µm; 50 PK, 0a\n\n[te verifiëren: OCR-koppeling *C. candidissima* / maatregelregel; Beug S. 203]",
+            "pollen_key": "cornus_sanguinea"
+          },
+          "pollen_key": "cornus_sanguinea"
         },
         {
           "label": "PK < 40 µm",
-          "id": {
-            "name": "15.1.2 Cornus mas-type"
+          "outcome": {
+            "text": "15.1.2 *Cornus mas*-type (Tafel 31: 15–23)\n\nDoor geringere grootte zijn exinedetails minder goed te volgen dan bij *C. sanguinea*. Differentiatie in kleine/grote columellae niet significant. Meestal microverrucae (zelden verrucae); sculptuur/structuur vaak zwak. Perforaties lijken te ontbreken. *C. mas* neigt tot duidelijker colpus transversalis en vormvastere gestalte (vaak parallelle zijranden, vanaf subpolair apiculaat) dan *C. suecica*.\n\n*Cornus mas* L. (3)\n20,5–26,9 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Cornus suecica* L. (3)\n21,6–38,9 µm, MiW 28,7 µm; 50 PK, 0a\n\n*Cornus canadensis* L. (1)\n19,1–28,0 µm, MiW 23,4 µm; 50 PK, 0a\n\n*C. florida* en *C. nuttallii*: afwijkend type, dicht bij *C. mas*, vrijwel ruitvormig en groter.\n\n*Cornus florida* L. (1)\n25,8–34,7 µm, MiW 30,2 µm; 50 PK, 0a\n\n*Cornus nuttallii* AUD. (1)\n22,3–31,5 µm, MiW 27,6 µm; 50 PK, 0a"
           }
         }
       ]

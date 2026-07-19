@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-corylus",
+    "title": "31.21 *Corylus* (Tafel 102: 5–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porieregio niet conisch; fasecontrast meer vlekvormig/langgerekt.",
+          "outcome": {
+            "text": "31.21 *Corylus*\n\nAfgeplat; P/E 0,76–0,90; polaire as 22,5–25,0 µm. Polair driehoekig met tot aan de porieranden gelijkmatig gebogen interporia. Endexine tot aan of kort vóór porieranden. Exine 1,5–1,8 µm. Onduidelijk scabraat (fasecontrast); elementen rondachtig tot langgerekt.\n\n*Corylus avellana* L. (4)\n28,0–33,0 µm, MiW 30,6 µm; 50 PK, 0a, Ä\n\n*Corylus colurna* L. (2)\n29,5–40,8 µm, MiW 35,1 µm; 50 PK, 0a, Ä\n\n*Corylus maxima* MILL. (1)\n26,3–35,0 µm, MiW 32,3 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

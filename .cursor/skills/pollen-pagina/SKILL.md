@@ -57,7 +57,7 @@ Create/update `docs/pollen/species/<slug>.md` with these sections and order:
    - Image source rule:
      - include **all available pollen images** for the taxon at the top of the page, in **`data/pollen.yaml`** order under `images:` (SoT).
      - on-disk canonical paths: `assets/images/by-taxon/<pollen_key>/<pollen_key>_N.png` (numeric suffix). Do **not** add new pollen bitmaps under legacy corpus folders (`pollenwiki`, `paldat`, etc.).
-     - where a full **`{{ pollen_gallery("pollen_key") }}`** macro covers the taxon, prefer that over hand-built HTML for new pages.
+     - where a full **`{{ gallery("pollen_key") }}`** macro covers the taxon, prefer that over hand-built HTML for new pages.
    - Path rule (important):
      - pass page-relative paths (usually `../../assets/images/by-taxon/<slug>/...`) to `pollen_img(...)`, matching how images already work in this repo.
    - `alt`: short and correct (no placeholders).

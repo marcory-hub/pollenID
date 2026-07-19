@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-alisma.json",
-    "title": "33.7 Alisma-groep (Beug)",
+    "key": "beug33-periporatae-alisma",
+    "title": "33.7 *Alisma*-groep",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Microechini ontbreken of zwak herkenbaar (fasecontrast!) (Tafel 109: 5-11).",
-          "id": {
-            "name": "33.7.1 Alisma-type"
+          "label": "Microechini ontbreken of zwak herkenbaar (fasecontrast!) (Tafel 109: 5–11).",
+          "outcome": {
+            "text": "33.7.1 *Alisma*-Typ — zie deelsleutel."
           }
         },
         {
-          "label": "Microechini duidelijk, zumindest im Phasenkontrastbild in Aufsicht. Diameter der Microechini basal 0,6-0,8 µm (Tafel 109: 12-14).",
-          "id": {
-            "name": "33.7.2 Luronium natans"
+          "label": "Microechini duidelijk, ten minste in fasecontrast in aanzicht; basale diameter 0,6–0,8 µm (Tafel 109: 12–14).",
+          "outcome": {
+            "text": "33.7.2 *Luronium natans* — zie deelsleutel."
           }
         }
       ]

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-lathyrus",
+    "title": "22.31.6 *Lathyrus*-type (Tafel 79: 3–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi meestal (1,0)1,5–3,0 µm; polarvelden niet gesculpteerd; costae aanwezig.",
+          "outcome": {
+            "text": "22.31.6 *Lathyrus*-type\n\nOmvat *Lathyrus* p.p., *Lens*, *Trigonella foenum-graecum*, *Vicia sepium*. PForml 1,23–1,91; PFeldI 0,44–0,70. Brochi (1,0)1,5–3,0 µm (uitz. groter bij o.a. *L. cicera*).\n\n*Lathyrus aphaca* L. (3)\n40,5–49,5 µm, MiW 44,4 µm; 50 PK, 0a\n\n*Lathyrus cicera* L. (2)\n46,5–57,0 µm, MiW 52,1 µm; 50 PK, 0a\n\n*Lathyrus hirsutus* L. (3)\n37,0–48,0 µm, MiW 42,7 µm; 50 PK, 0a\n\n*Lathyrus laevigatus* (WALDST. & KIT.) GREN. (2)\n32,8–41,5 µm, MiW 38,2 µm; 50 PK, 0a\n\n*Lathyrus linifolius* (REICHARD) BÄSSLER (3)\n31,5–40,7 µm, MiW 36,0 µm; 50 PK, Oa\n\n*Lathyrus maritimus* (L.) BIGELOW (3)\n33,0–43,5 µm, MiW 39,3 µm; 50 PK, 0a\n\n*Lathyrus niger* (L.) BERNH. (3)\n30,5–38,5 µm, MiW 35,4 µm; 50 PK, Oa\n\n*Lathyrus nissolia* L. (2)\n34,5–39,8 µm, MiW 37,6 µm; 50 PK, Oa\n\n*Lathyrus palustris* L. (5)\n38,0–47,0 µm, MiW 42,5 µm; 50 PK, 0a\n\n*Lathyrus pannonicus* (JACQ.) GARCKE (3)\n31,0–39,0 µm, MiW 35,0 µm; 50 PK, Oa\n\n*Lathyrus pratensis* L. (3)\n38,3–44,8 µm, MiW 41,5 µm; 50 PK, Oa\n\n*Lathyrus pisiformis* L. (2)\n28,5–34,5 µm, MiW 32,2 µm; 50 PK, Oa\n\n*Lathyrus sativus* L. (3)\n40,0–53,0 µm, MiW 45,5 µm; 50 PK, Oa\n\n*Lathyrus setiformis* L. (1)\n32,2–38,9 µm, MiW 36,1 µm; 50 PK, Oa\n\n*Lathyrus sylvestris* L. (3)\n33,5–41,8 µm, MiW 37,5 µm; 50 PK, 0a\n\n*Lathyrus sphaericus* RETZ. (1)\n35,4–42,8 µm, MiW 39,2 µm; 50 PK, 0a\n\n*Lathyrus tuberosus* L. (2)\n37,5–45,8 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Lathyrus venetus* (MILL.) WOHLF. (2)\n31,9–38,9 µm, MiW 35,8 µm; 50 PK, 0a\n\n*Lathyrus vernus* (L.) BERNH. (3)\n35,8–40,5 µm, MiW 38,9 µm; 50 PK, 0a\n\n*Lens culinaris* MEDICUS (3)\n32,8–40,0 µm, MiW 36,8 µm; 50 PK, 0a\n\n*Trigonella foenum-graecum* L. (2)\n31,9–42,5 µm, MiW 37,4 µm; 50 PK, 3a\n\n*Vicia sepium* L. (3)\n30,3–37,3 µm, MiW 35,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

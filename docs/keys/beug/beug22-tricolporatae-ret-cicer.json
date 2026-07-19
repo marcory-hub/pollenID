@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-cicer",
+    "title": "22.31.2 *Cicer arietinum* (Tafel 77: 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën meridionaal verlengd; PK groter dan 20–28 µm.",
+          "outcome": {
+            "text": "22.31.2 *Cicer arietinum*\n\nPoriën meridionaal verlengd (samen met *Galega* typisch). PK groter dan 20–28 µm.\n\n*Cicer arietinum* — [te verifiëren: soortregel met MiW ontbreekt in bijlage; alleen in sleuteltekst]"
+          }
+        }
+      ]
+    }
+  }
+}

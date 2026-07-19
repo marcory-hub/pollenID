@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-plantaginaceae.json",
-    "title": "33.2 Plantaginaceae (Beug)",
+    "key": "beug33-periporatae-plantaginaceae",
+    "title": "33.2 Plantaginaceae (Tafel 106: 4–16, Tafel 107: 1–18)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 6,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 6
   },
   "start": "1",
   "steps": {
@@ -14,29 +15,30 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën contrastscherp begrenzt (lichtveld), met of zonder annulus.",
+          "label": "Poriën in lichtveld contrastrijk begrensd, met of zonder anulus.",
           "next": "3"
         },
         {
-          "label": "Poriën kontrastarm (lichtveld) begrenzt.",
+          "label": "Poriën in lichtveld contrastarm begrensd.",
           "next": "2"
         }
-      ]
+      ],
+      "note": "PK bolvormig tot ellipsoïdisch; (5)6–17 poriën; verrucaat. Exine 0,8–1,2 µm. Fasecontrast vaak noodzakelijk."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK (32)33-44 µm (Tafel 106: 4-6).",
-          "id": {
-            "name": "33.2.1 Litorelly-type (Blz. 458)"
+          "label": "PK (32)33–44 µm (Tafel 106: 4–6).",
+          "outcome": {
+            "text": "33.2.1 *Litorella*-type (S. 458) — zie deelsleutel."
           }
         },
         {
-          "label": "PK 21-32(34) µm (Tafel 106: 7-13).",
-          "id": {
-            "name": "33.2.2 Plantago major-media-type (Blz. 458)"
+          "label": "PK 21–32(34) µm (Tafel 106: 7–13).",
+          "outcome": {
+            "text": "33.2.2 *Plantago major-media*-type (S. 458) — zie deelsleutel."
           }
         }
       ]
@@ -46,11 +48,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën met annulus, annulus als geschlossener Ring met glattem of gelobde buitenrand of als eine duidelijk verdicktete Zone von Verrucae gevormd.",
+          "label": "Poriën met anulus: gesloten ring met gladde of gelobde buitenrand, of als duidelijk verdichte zone van verrucae.",
           "next": "5"
         },
         {
-          "label": "Poriën zonder annulus; im Phasenkontrastbild kann um die Poriën herum eine Zone met etwas dickeren of verdichteten Verrucae sichtbar sein.",
+          "label": "Poriën zonder anulus; in fasecontrast kan rond de poriën een zone met iets dikkere of verdichte verrucae zichtbaar zijn.",
           "next": "4"
         }
       ]
@@ -60,15 +62,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 32-45 µm groot, Opercula meestal scheibenförmig (Tafel 106: 14-16).",
-          "id": {
-            "name": "33.2.3 Plantago albicans (Blz. 460)"
+          "label": "PK 32–45 µm; opercula meestal schijfvormig (Tafel 106: 14–16).",
+          "outcome": {
+            "text": "33.2.3 *Plantago albicans* (S. 460) — zie deelsleutel."
           }
         },
         {
-          "label": "PK 20-26 µm groot, Opercula körnig gevormd (Tafel 107: 1-4).",
-          "id": {
-            "name": "33.2.4 Plantago tenuiflora-type (Blz. 460)"
+          "label": "PK 20–26 µm; opercula korrelig (Tafel 107: 1–4).",
+          "outcome": {
+            "text": "33.2.4 *Plantago tenuiflora*-type (S. 460) — zie deelsleutel."
           }
         }
       ]
@@ -78,13 +80,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Opercula scheibenförmig, glad (Tafel 107: 4-9).",
-          "id": {
-            "name": "33.2.5 Plantago lanceolata-type (Blz. 460)"
+          "label": "Opercula schijfvormig, glad (Tafel 107: 4–9).",
+          "outcome": {
+            "text": "33.2.5 *Plantago lanceolata*-type (S. 460) — zie deelsleutel."
           }
         },
         {
-          "label": "Opercula bzw. Porenmembranen körnig gevormd.",
+          "label": "Opercula of poriemembranen korrelig.",
           "next": "6"
         }
       ]
@@ -94,15 +96,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "annulus als geschlossener, glatter of außen etwas gelappter, im optischen Schnitt meestal als deutliche verdikking der Exine herkenbaar (Tafel 107: 10-14).",
-          "id": {
-            "name": "33.2.6 Plantago coronopus-type (Blz. 462)"
+          "label": "Anulus gesloten, glad of buiten iets gelobd; in optische doorsnede meestal als duidelijke exineverdikking (Tafel 107: 10–14).",
+          "outcome": {
+            "text": "33.2.6 *Plantago coronopus*-type (S. 462) — zie deelsleutel."
           }
         },
         {
-          "label": "annulus flach, z.T. erst im Phasenkontrastbild duidelijk herkenbaar, buitenrand duidelijk gelappt en/of aus größeren en dickeren Verrucae zusammengesetzt en daardoor plaatselijk unterbrochen (Tafel 107: 15-18).",
-          "id": {
-            "name": "33.2.7 Plantago maritima-type (Blz. 462)"
+          "label": "Anulus vlak, deels pas in fasecontrast duidelijk; buitenrand duidelijk gelobd en/of uit grotere, dikkere verrucae opgebouwd en daardoor plaatselijk onderbroken (Tafel 107: 15–18).",
+          "outcome": {
+            "text": "33.2.7 *Plantago maritima*-type (S. 462) — zie deelsleutel."
           }
         }
       ]

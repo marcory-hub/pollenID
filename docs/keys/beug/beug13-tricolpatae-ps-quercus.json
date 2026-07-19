@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "key": "beug13-tricolpatae-ps-quercus",
+    "title": "13.25 *Quercus* (Tafel 17: 17–29)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK geheel rond; zeer smalle Colpen, meestal equatoriaal niet vooruitstekend, randen vaak equatoriaal onderbroken (kan een porie nabootsen). *Q. cerris*, *Q. suber*, *Q. crenata* (Tafel 17: 21–24).",
+          "outcome": {
+            "text": "13.25.2 *Quercus cerris*-type (Tafel 17: 21–24)\n\n*Quercus cerris* L. (1)\nPoolas: 24,8–36,7 µm, MiW 32,5 µm; 50 PK, 1a\nEquatoriaaldiameter: 27,5–34,0 µm, MiW 31,2 µm; 20 PK, 1a\nPFormI: 0,92–1,19, MiW 1,03; 20 PK, 1a\n\n*Quercus crenata* LAM. (1)\nPoolas: 27,4–41,4 µm, MiW 33,1 µm; 50 PK, 1a\nEquatoriaaldiameter: 25,3–35,0 µm, MiW 30,4 µm; 20 PK, 1a\nPFormI: 0,91–1,26, MiW 1,09; 20 PK, 1a\n\n*Quercus suber* L. (1)\nPoolas: 24,5–37,4 µm, MiW 32,5 µm; 50 PK, 1a\nEquatoriaaldiameter: 24,5–33,5 µm, MiW 32,5 µm; 20 PK, 1a\nPFormI: 0,99–1,41, MiW 1,16; 20 PK, 1a"
+          }
+        },
+        {
+          "label": "*Q. robur-pubescens*-type: polen vaak afgeplat (tonvormig tot bijna rechthoekig in equatoriaal aanzicht); sculptuur grover; equatoriaaldiameter meestal groter (kritische overlap met ilex ca. 21–25 µm) (Tafel 17: 17–20).",
+          "outcome": {
+            "text": "13.25.1 *Quercus robur-pubescens*-type (Tafel 17: 17–20)\n\nExine 1–2 µm dik, duidelijk scabraat. Sculptuurelementen meestal verschillend groot (ca. 0,5–1,2 µm), onregelmatig. Columellae-laag aanwezig. Polen vaak afgeplat (tonvormig). Polarvelden 5–10 µm.\n\n*Quercus robur* L. (3)\nPoolas: 31,0–40,0 µm, MiW 36,0 µm; 50 PK, 0a\nEquatoriaaldiameter: 26,3–32,0 µm, MiW 28,9 µm; 20 PK, 0a\nPFormI: 1,02–1,36, MiW 1,21; 20 PK, 0a\n\n*Quercus petraea* LIEBL. (4)\nPoolas: 29,2–41,0 µm, MiW 33,8 µm; 50 PK, 1a\nEquatoriaaldiameter: 21,3–33,5 µm, MiW 26,7 µm; 30 PK, 1a\nPFormI: 1,05–1,51, MiW 1,25; 30 PK, 1a\n\n*Quercus pubescens* WILLD. (2)\nPoolas: 27,4–35,6 µm, MiW 31,8 µm; 50 PK, 1a\nEquatoriaaldiameter: 22,0–32,5 µm, MiW 27,3 µm; 20 PK, 1a\nPFormI: 1,09–1,49, MiW 1,25; 20 PK, 1a\n\n*Quercus frainetto* TEN. (1)\nPoolas: 26,3–38,2 µm, MiW 32,7 µm; 50 PK, 1a\nEquatoriaaldiameter: 22,3–27,5 µm, MiW 24,9 µm; 20 PK, 1a\nPFormI: 1,25–1,46, MiW 1,35; 20 PK, 1a\n\n*Quercus palustris* MÜNCHH. (1)\n26,3–39,2 µm, MiW 34,6 µm; 50 PK, 1a\n\n*Quercus rubra* L. (1)\n27,0–43,6 µm, MiW 36,7 µm; 50 PK, 12a\n\n*Quercus macrolepis* KOTSCHY (1)\n23,4–37,5 µm, MiW 30,5 µm; 50 PK, 1a\n\nVoorts *Q. toza* (naar VAN CAMPO & ELHAI 1956)."
+          }
+        },
+        {
+          "label": "*Q. ilex*-type: kleinere equatoriaaldiameter; zwakkere sculptuur; smalle, equatoriaal vernauwde Colpen; vaak ruitvormig omtrek of toegespitste einden; polarvelden 3–6 µm (Tafel 17: 25–29).",
+          "outcome": {
+            "text": "13.25.3 *Quercus ilex*-type (Tafel 17: 25–29)\n\nVorm zeer variabel: duidelijk prolate PK meestal met toegespitste einden; ± sferoïdische PK vaak ruitvormig in equatoriaal aanzicht. Ten opzichte van *Q. robur-pubescens*-type: kleinere grootte, kleiner polarveld (3–6 µm), smalle equatoriaal vernauwde Colpen met vaak onderbroken randen, zwakkere sculptuur. Kritische equatoriaaldiameter ca. 21–25 µm.\n\n*Quercus ilex* L. (2)\nPoolas: 21,2–30,2 µm, MiW 26,4 µm; 50 PK, 1a\nEquatoriaaldiameter: 15,2–24,7 µm, MiW 19,9 µm; 50 PK, 1a\nPFormI: 1,00–1,65, MiW 1,27; 50 PK, 1a\n\n*Quercus coccifera* L. (3)\nPoolas: 20,2–31,0 µm, MiW 25,8 µm; 50 PK, 1a\nEquatoriaaldiameter: 16,4–22,8 µm, MiW 19,1 µm; 50 PK, 1a\nPFormI: 1,05–1,58, MiW 1,30; 50 PK, 1a"
+          }
+        }
+      ]
+    }
+  }
+}

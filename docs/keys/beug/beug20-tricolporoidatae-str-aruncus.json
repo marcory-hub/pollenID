@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-aruncus",
+    "title": "20.10 *Aruncus*-type (Tafel 55: 10–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Omvat *Aruncus* en *Spiraea*. Aansluitend de Noord-Amerikaanse *Physocarpus* (PK groter).",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, bolvormig, slechts 11–21 µm; PFormI 0,95–1,04. Exine 0,6–1,1 µm, striaat tot striaat-microreticulaat.",
+          "outcome": {
+            "text": "20.10 *Aruncus*-type\n\nEndexine duidelijk dikker dan het tectum. Colpi equatoriaal vernauwd.\n\n*Aruncus dioicus* (WALTER) FERNALD (4)\n11,9–15,9 µm, MiW 13,9 µm; 56 PK, 0a\n\n*Spiraea cana* WALDST. & KIT. (1)\n13,2–17,2 µm, MiW 15,6 µm; 59 PK, 0a\n\n*Spiraea decumbens* KOCH (1)\n14,5–18,5 µm, MiW 15,9 µm; 55 PK, Oa\n\n*Spiraea media* F. SCHMIDT (1)\n14,9–18,8 µm, MiW 16,0 µm; 56 PK, Oa\n\n*Spiraea billardii* HERINCQ (2)\n15,5–21,0 µm, MiW 18,8 µm; 50 PK, 0a\n\n*Spiraea chamaedryfolia* L. (1)\n15,5–20,1 µm, MiW 18,1 µm; 55 PK, Oa\n\n*Physocarpus opulifolia* (L.) MAXIM (1)\n21,5–29,7 µm, MiW 26,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

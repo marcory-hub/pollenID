@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-alnus",
+    "title": "32.3 *Alnus* (Tafel 102: 8–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Arcus of knik in de exine in plaats van arcus; poriën met vestibula.",
+          "outcome": {
+            "text": "32.3 *Alnus*\n\nAfgeplat; oblaat tot sphaeroïdisch; overwegend 4–5 poriën (zelden 6, uitzonderlijk 3). Poriën met vestibula. Scabraat.\n\n*Alnus glutinosa* / *A. incana*: P/E 0,62–0,82; polaire as 18,8–23,0 µm. Vestibula 7,0–8,5 × 3,0–3,5 µm. Poriën meridionaal 1,5–2,5 × 3–4 µm. Duidelijke arcus (3–4 µm brede boogvormige tectumbanden van anulus tot anulus); heteropolair.\n\n*Alnus alnobetula* (syn. *A. viridis*): iets kleiner; P/E 0,70–0,96; polaire as 17,8–25,0 µm. Meer 6-porige PK (2–14 %). Arcus meestal afwezig; in plaats daarvan scherpe knik polarveld/interporium (kan arcus nabootsen).\n\n*Alnus alnobetula* (EHRH.) K. KOCH (5)\n22,5–27,8 µm, MiW 25,6 µm; 50 PK, 0a, Ä\n\n*Alnus glutinosa* (L.) GAERTN. (2)\n24,3–33,5 µm, MiW 29,0 µm; 50 PK, 0a, Ä\n\n*Alnus incana* (L.) MOENCH (5)\n24,5–32,0 µm, MiW 28,2 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

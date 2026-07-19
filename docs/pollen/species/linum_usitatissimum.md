@@ -1,6 +1,6 @@
 # *Linum usitatissimum* (vlas)
 
-{{ pollen_gallery("linum_usitatissimum") }}
+{{ gallery("linum_usitatissimum") }}
 
 ## Kenmerken
 

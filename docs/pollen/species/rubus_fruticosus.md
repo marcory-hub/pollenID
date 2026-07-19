@@ -1,6 +1,6 @@
 # *Rubus fruticosus*
 
-{{ pollen_gallery("rubus_fruticosus") }}
+{{ gallery("rubus_fruticosus") }}
 
 ## Kenmerken
 

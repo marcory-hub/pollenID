@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-anagallis",
+    "title": "22.26 *Anagallis*-type (Tafel 76: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën sterk equatoriaal verlengd, toegespitst; randen vaak met lange scheuren / ringvoor.",
+          "outcome": {
+            "text": "22.26 *Anagallis*-type\n\nPK elliptisch, sferoïdisch tot prolaat (PForml 1,06–1,51; *Glaux* 1,22–1,77). Brochi ca. 1 µm. Columellae niet herkenbaar. Poriën equatoriaal sterk verlengd, tot 2–4 µm breed, toegespitst; vaak tot ringvoor. Exine 1,5–2 µm.\n\n*Anagallis arvensis* L. (4)\n19,8–26,6 µm, MiW 23,6 µm; 50 PK, Oa\n\n*Anagallis foemina* MILL. (4)\n20,5–25,9 µm, MiW 24,7 µm; 50 PK, 2a\n\n*Anagallis minima* (L.) E.H.L.KRAUSE (3)\n17,0–23,0 µm, MiW 20,1 µm; 50 PK, 2a\n\n*Anagallis tenella* (L.) L. (2)\n18,0–25,8 µm, MiW 21,8 µm; 50 PK, Oa\n\n*Glaux maritima* L. (6)\n22,5–34,5 µm, MiW 28,5 µm; 50 PK, 0a\n\n*Lysimachia nemorum* L. (4)\n16,1–28,0 µm, MiW 22,3 µm; 50 PK, Oa\n\n*Lysimachia thyrsiflora* L. (4)\n18,2–28,0 µm, MiW 22,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

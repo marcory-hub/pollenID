@@ -189,8 +189,8 @@ def _parse_index_honey_pcts(index_path: Path) -> Dict[str, float]:
     text = index_path.read_text(encoding="utf-8")
     out: Dict[str, float] = {}
     # Lines like: #### [Lotus corniculatus](...) ... or with "In honing: 16.3%"
-    # Capture nearby pollen_gallery("key") or markdown links to local .md
-    gallery_re = re.compile(r'pollen_gallery\("([a-z0-9_]+)"\)')
+    # Capture nearby gallery("key") or markdown links to local .md
+    gallery_re = re.compile(r'gallery\("([a-z0-9_]+)"\)')
     local_link_re = re.compile(r"\]\(([a-z0-9_-]+)\.md\)", re.I)
     pct_re = re.compile(r"In honing:\s*([\d]+(?:\.\d+)?)\s*%", re.I)
 
@@ -235,7 +235,7 @@ def _secundaire_mentions(index_path: Path, yaml_keys: Set[str]) -> Set[str]:
     for line in text.splitlines():
         if "secundaire inbreng" not in line.lower():
             continue
-        for m in re.finditer(r'pollen_gallery\("([a-z0-9_]+)"\)', line):
+        for m in re.finditer(r'gallery\("([a-z0-9_]+)"\)', line):
             found.add(m.group(1))
         for m in re.finditer(r"\*([A-Z][a-z]+ [a-z\-]+)\*", line):
             slug = re.sub(r"[^a-z0-9]+", "_", m.group(1).lower()).strip("_")

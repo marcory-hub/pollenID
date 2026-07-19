@@ -1,6 +1,6 @@
 # *Vaccinium vitis idaea* (vossebes)
 
-{{ pollen_gallery("vaccinium_vitis_idaea") }}
+{{ gallery("vaccinium_vitis_idaea") }}
 
 ## Kenmerken
 

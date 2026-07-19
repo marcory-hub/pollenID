@@ -1,6 +1,6 @@
 # *Salix alba var. tristis* (treurwilg)
 
-{{ pollen_gallery("salix_alba_var_tristis") }}
+{{ gallery("salix_alba_var_tristis") }}
 
 ## Kenmerken
 

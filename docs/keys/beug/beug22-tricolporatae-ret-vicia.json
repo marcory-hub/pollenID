@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug22-tricolporatae-ret-vicia.json",
-    "title": "22.31.5 Vicia-type (Beug)",
+    "key": "beug22-tricolporatae-ret-vicia",
+    "title": "22.31.5 *Vicia*-type (Tafel 78: 15–19, Tafel 79: 8–10)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriediameter 9-10 µm, PK 53-59 µm groot, pollenvormindex 1,8-2,1 (Tafel 78: 15-19).",
-          "id": {
-            "pollen_key": "pisum_sativum"
+          "label": "Poriediameter 9–10 µm; PK 53–59 µm; PForml 1,8–2,1 (Tafel 78: 15–19).",
+          "outcome": {
+            "text": "22.31.5.1 *Pisum sativum*\n\n*Pisum sativum* L. (2)\n53,0–59,8 µm, MiW 55,8 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Poriediameter tot 8 µm, PK tussen 32 en 54 µm groot, pollenvormindex tussen 1,3 en 2,5 (Tafel 79: 8-10).",
-          "id": {
-            "name": "Vicia-type s. str."
+          "label": "Poriediameter tot 8 µm; PK 32–54 µm; PForml 1,3–2,5 (Tafel 79: 8–10).",
+          "outcome": {
+            "text": "22.31.5.2 *Vicia*-type s.str.\n\nBrochi gemiddeld groter dan bij *Lathyrus*; tot 4,0–4,5(5,0) µm; vaak onregelmatig/open. Polarvelden zonder sculptuur of met zeer platte kleine brochi.\n\n*Vicia angustifolia* L. (3)\n31,9–43,2 µm, MiW 36,2 µm; 50 PK, 0a\n\n*Vicia articulata* HORNEM. (1)\n35,4–44,6 µm, MiW 40,5 µm; 50 PK, 0a\n\n*Vicia cassubica* L. (3)\n36,0–45,4 µm, MiW 41,5 µm; 50 PK, 0a\n\n*Vicia cracca* L. (3)\n35,5–44,5 µm, MiW 40,9 µm; 50 PK, 0a\n\n*Vicia dumetorum* L. (2)\n45,3–52,0 µm, MiW 48,2 µm; 50 PK, 0a\n\n*Vicia ervilia* (L.) WILLD. (2)\n35,3–42,8 µm, MiW 39,9 µm; 50 PK, 0a\n\n*Vicia faba* L. (3)\n45,0–54,5 µm, MiW 49,9 µm; 50 PK, 0a\n\n*Vicia grandiflora* Scop. (1)\n38,9–43,9 µm, MiW 39,9 µm; 50 PK, 0a\n\n*Vicia hirsuta* (L.) GRAY (3)\n28,3–33,0 µm, MiW 31,0 µm; 50 PK, Oa\n\n*Vicia johannis* TAMAMSCH. (1)\n41,1–49,6 µm, MiW 45,0 µm; 50 PK, Oa\n\n*Vicia lutea* L. (3)\n44,3–50,0 µm, MiW 47,3 µm; 50 PK, 0a\n\n*Vicia onobrychoides* L. (2)\n35,4–49,2 µm, MiW 42,3 µm; 50 PK, Oa\n\n*Vicia oroboides* WULFEN (2)\n34,7–42,5 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Vicia orobus* DC. (2)\n36,1–45,7 µm, MiW 41,6 µm; 50 PK, 0a\n\n*Vicia pannonica* CRANTZ (4)\n40,0–45,0 µm, MiW 43,8 µm; 50 PK, 0a\n\n*Vicia peregrina* L. (2)\n42,1–51,7 µm, MiW 44,6 µm; 45 PK, Oa\n\n*Vicia pisiformis* L. (3)\n39,3–46,8 µm, MiW 43,5 µm; 50 PK, 0a\n\n*Vicia sativa* L. (2)\n35,4–47,8 µm, MiW 39,8 µm; 50 PK, 0a\n\n*Vicia sylvatica* L. (3)\n33,0–41,5 µm, MiW 37,2 µm; 50 PK, 0a\n\n*Vicia tetrasperma* (L.) SCHREB. (3)\n27,5–33,0 µm, MiW 30,3 µm; 50 PK, 0a\n\n*Vicia villosa* ROTH (3)\n36,5–40,8 µm, MiW 37,0 µm; 60 PK, 3a"
           }
         }
       ]

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug27-pericolporatae-rumex-aquaticus",
+    "title": "27.1 *Rumex aquaticus*-type (Tafel 93: 6–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Exine en poriën als *Rumex acetosa*-type (S. 340), maar groter (33–50 µm), pericolporaat. Overlap met *R. acetosa*-type vooral bij *R. palustris*, minder bij *R. crispus*.",
+      "choices": [
+        {
+          "label": "Pericolporaat (of stephanocolporaat); 33–50 µm; poriën tot 3 µm; colpi 12 of 6 regelmatig, of onregelmatig, of meestal tetracolporaat (vaak schuin).",
+          "outcome": {
+            "text": "27.1 *Rumex aquaticus*-type\n\nExine en poriën als bij het *Rumex acetosa*-type (S. 340), PK echter groter (33–50 µm), pericolporaat. Wisselende aandelen met 12 of 6 regelmatig geplaatste colpi, of met onregelmatige colpi, of stephanocolporaat (meestal tetracolporaat; colpi vaak schuin). Poriën tot 3 µm.\n\nBij *R. patientia* naast overwegend pericolporate PK ook tricolporate en tetracolporate vormen.\n\n*Rumex aquaticus* L. (5)\n33,0–42,0 µm, MiW 37,8 µm; 50 PK, Oa\n\n*Rumex hydrolapathum* HUDS. (6)\n39,3–49,5 µm, MiW 43,6 µm; 50 PK, 0a\n\n*Rumex longifolius* DC. (3)\n40,5–48,0 µm, MiW 44,6 µm; 50 PK, Oa\n\n*Rumex palustris* SM. (3)\n34,3–39,3 µm, MiW 36,6 µm; 50 PK, 0a\n\n*Rumex patientia* L. (3)\n30,5–38,3 µm, MiW 33,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

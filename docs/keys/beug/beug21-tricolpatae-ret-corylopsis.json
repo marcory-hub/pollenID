@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-corylopsis",
+    "title": "21.30 *Corylopsis*-type (Tafel 68: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PFeldI 0,23–0,33; colpi 2–6 µm breed met rudimentair operculum; columellae in helderveld goed herkenbaar.",
+          "outcome": {
+            "text": "21.30 *Corylopsis*-type\n\nPForml 0,94–1,21. Brochi 2,1–2,3 µm. Onderscheid van *Phillyrea* kritisch.\n\n*Corylopsis spicata* SIEB. & ZUCC. (1)\n28,3–35,0 µm, MiW 32,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

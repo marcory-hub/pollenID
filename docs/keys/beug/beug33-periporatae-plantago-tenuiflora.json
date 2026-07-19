@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-plantago-tenuiflora",
+    "title": "33.2.4 *Plantago tenuiflora*-Typ (Tafel 107: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "20–26 µm; korrelige opercula; zonder anulus.",
+          "outcome": {
+            "text": "33.2.4 *Plantago tenuiflora*-Typ\n\n9–12 poriën; 2,8–3,3 µm; korrelige opercula; zonder anulus. Verrucae 0,8–1,8 µm. Exine 0,8 µm.\n\n*Plantago tenuiflora* WALDST. & KIT. (2)\n20,8–25,3 µm, MiW 23,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

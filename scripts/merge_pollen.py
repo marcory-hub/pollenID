@@ -8,7 +8,7 @@ Usage (after running this script):
   {{ pollen("taraxacum_officinale", "size.largest_size") }}
 
 - YAML-backed gallery:
-  {{ pollen_gallery("taraxacum_officinale") }}
+  {{ gallery("taraxacum_officinale") }}
 - Height-scaled single image in Markdown:
   {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_4.png", alt="Taraxacum officinale") }}
 """

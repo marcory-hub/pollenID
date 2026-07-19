@@ -1,4 +1,4 @@
-# 33.11 Polemonium (Beug)
+# 33.11 *Polemonium* (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-polemonium.json"></div>
 

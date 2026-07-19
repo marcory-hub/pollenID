@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug22-tricolporatae-ret-viburnum.json",
-    "title": "22.17 Viburnum (Beug)",
+    "key": "beug22-tricolporatae-ret-viburnum",
+    "title": "22.17 *Viburnum* (Tafel 73: 18–25, Tafel 74: 1–8)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,16 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "brochi max. 2-2,5 µm groot, columellae dun (ca. 0,5 µm), kleinreticulate Margines meestal aanwezig, Poriën meestal goed herkenbaar.",
-          "id": {
-            "name": "Viburnum opulus-type"
+          "label": "Brochi max. 2–2,5 µm; columellae dun (ca. 0,5 µm); kleinreticulate margines meestal aanwezig; poriën meestal goed herkenbaar.",
+          "outcome": {
+            "text": "22.17.1 *Viburnum opulus*-type (Tafel 74: 1–8)\n\nPK sferoïdisch (PForml 1,09–1,31). Polarvelden klein (PFeldI 0,09–0,29). Brochi max. 2,0–2,5 µm; margo 2–3 µm breed met brochi 1–1,5 µm. Columellae ca. 0,5 µm. Poriën rondachtig 3–5 µm of gestrekt. Exine midden intercolpia 2,5 µm.\n\n*Viburnum opulus* L. (3)\n23,4–31,5 µm, MiW 27,6 µm; 50 PK, 0a\n\n*Viburnum tinus* L. (2)\n26,2–35,0 µm, MiW 30,7 µm; 50 PK, 6a"
           }
         },
         {
-          "label": "brochi maximaal 4-5 µm groot, columellae dik (ca. 1 µm), Margines zijn nauwelijks ontwikkeld of ontbreken, Poriën vaak onduidelijk, vaak is alleen een equatoriale vernauwing van de colpi herkenbaar.",
-          "id": {
-            "name": "Viburnum lantana",
-            "pollen_key": "viburnum_lantana"
+          "label": "Brochi max. 4–5 µm; columellae dik (ca. 1 µm); margines zwak of ontbrekend; poriën vaak onduidelijk (vaak alleen equatoriale vernauwing).",
+          "outcome": {
+            "text": "22.17.2 *Viburnum lantana* (Tafel 73: 18–25)\n\nBrochi max. 4–5 µm; columellae ca. 1 µm. Overigens als *V. opulus*-type.\n\n*Viburnum lantana* L. (3)\n25,1–33,3 µm, MiW 28,5 µm; 50 PK, Oa"
           }
         }
       ]

@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug14-tricolpatae-ps-lotus.json",
+    "key": "beug14-tricolpatae-ps-lotus",
     "title": "14.29 Lotus, Tetragonolobus (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "PK meestal sferoïdisch en in equatoriaal aanzicht elliptisch tot vierhoekig. exine overal gelijk dik. PK 19-36 µm groot (Tafel 30: 36-37)",
-          "id": {
-            "name": "14.29.1 Dorcyium"
+          "outcome": {
+            "text": "14.28 *Dorycnium* (Tafel 30: 36–37)\n\nPK elliptisch of met iets afgeplatte polargebieden (*D. hirsutum*), sferoïdisch, PFormI 1,08–1,31; polarvelden middelgroot (PFeldI 0,33–0,45). Exine psilaat, 1,1–1,4 µm. Columellae als fijn OL-patroon. Poriën 6 × 8–10 µm (vlinderporiën); bij kleinere PK ca. 3,5 × 7 µm. Colpi buiten porieregio met costae.\n\n*Dorycnium herbaceum* VILL. (3)\n20,8–29,3 µm, MiW 24,7 µm; 50 PK, 0a\n\n*Dorycnium hirsutum* (L.) SER. (2)\n27,6–35,8 µm, MiW 32,0 µm; 50 PK, 0a\n\n*Dorycnium germanicum* (GREMLI) RIKLI (2)\n24,8–34,0 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Dorycnium pentaphyllum* SCOP. (2)\n20,2–29,7 µm, MiW 22,3 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK in equatoriaal aanzicht met ± parallelle zijranden, vrijwel uitsluitend prolaat, 13-21(29) µm groot. Vooral bij PK, die over 20 µm groot zijn, is de exine polair en subpolair duidelijk dunner dan equatoriaal en subequatoriaal (indien PK in fasecontrastbeeld rugulaat of scabraat, vergelijk Coronilla, Blz... 254) (Tafel 30: 30-35)",
-          "id": {
-            "name": "14.29.2 Lotus, Tetragonolobus"
+          "outcome": {
+            "text": "14.29 *Lotus*, *Tetragonolobus* (Tafel 30: 30–35)\n\nPK elliptisch, vaak met parallelle zijden, prolaat tot sferoïdisch, PFormI 1,22–1,63. Polarvelden meestal middelgroot. Colpi en deels poriën door costae vrij contrastrijk. Poriën 2–3,5 × 3–7 µm, ovaal of spoelvormig, vaak als vlinderporie, zelden rondachtig. PK psilaat; exine 0,5–1 µm. Bij grote PK (*Tetragonolobus*) exine ca. 1 µm en poriën tot 10 × 15 µm; endexine in brede equatoriale zone iets dikker dan polair/subpolair.\n\n14.29.1 *Lotus*-type\nPK tot 22 µm (Tafel 30: 30–32).\n\n*Lotus angustissimus* L. (1)\n13,1–18,1 µm, MiW 15,2 µm; 50 PK, 0a\n\n*Lotus corniculatus* L. (2)\n15,9–21,2 µm, MiW 19,4 µm; 50 PK, 0a\n\n*Lotus subbiflorus* LAG. (1)\n13,8–18,1 µm, MiW 16,4 µm; 50 PK, 0a\n\n*Lotus pedunculatus* CAV. (3)\n13,1–16,6 µm, MiW 14,7 µm; 50 PK, 0a\n\n14.29.2 *Tetragonolobus*-type\nPK 21–28 µm, vaak onduidelijk microreticulaat (Tafel 30: 33–35).\n\n*Tetragonolobus maritimus* (L.) ROTH (4)\n21,0–27,5 µm, MiW 25,0 µm; 50 PK, 0a"
           }
         }
       ]

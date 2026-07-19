@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-laburnum",
+    "title": "23.4 *Laburnum* (Tafel 80: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fossulaat/rugulaat; PK 24–33 µm; rugulate elementen los.",
+          "outcome": {
+            "text": "23.4 *Laburnum*\n\nPK sferoïdisch tot zwak prolaat (PForml 1,11–1,44). Polarvelden middelgroot (PFeldI 0,30–0,45). Meestal rugulaat met fossulate overgangen naar microreticulaat. Columellae meestal alleen polar herkenbaar. Colpi met tot 12 × 4 µm dunwandige uitstulping of onregelmatige intercolpiumranden. Exine 1–1,2 µm. Ook tricolpate PK komen voor.\n\n*Laburnum anagyroides* MED. (3)\n24,5–32,5 µm, MiW 28,3 µm; 50 PK, Oa\n\n*Laburnum alpinum* (MILLER) BERCHT. & J. PRESL. (3)\n24,3–32,5 µm, MiW 28,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

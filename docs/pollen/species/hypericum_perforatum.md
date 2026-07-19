@@ -1,6 +1,6 @@
 # *Hypericum perforatum* (St. Janskruid)
 
-{{ pollen_gallery("hypericum_perforatum") }}
+{{ gallery("hypericum_perforatum") }}
 
 ## Kenmerken
 

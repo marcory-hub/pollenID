@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-caryophyllaceae.json",
-    "title": "33.8 Caryophyllaceae p.p. (Beug)",
+    "key": "beug33-periporatae-caryophyllaceae",
+    "title": "33.8 Caryophyllaceae p.p. (Tafel 110–112, Tafel 113: 1–2)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 11,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 11
   },
   "start": "1",
   "steps": {
@@ -14,27 +15,28 @@
       "type": "step",
       "choices": [
         {
-          "label": "Anulus (1,)1,2–4 µm breed, fijn scabraat, microechinaat en microreticulaat of met perforaat tectum, PK meestal 8-hoekig met 12 poriën.",
+          "label": "Anulus (1,1)1,2–4 µm breed; fijn scabraat, microechinaat en microreticulaat of tectum perforatum; PK meestal 8-hoekig met 12 poriën.",
           "next": "2"
         },
         {
-          "label": "Anulus 0,6–1,0 µm breed; indien tot 1,1 µm breed, PK niet 8-hoekig met meer dan 12 poriën; anuli glad of poriën zonder anulus.",
+          "label": "Anulus 0,6–1,0 µm breed; indien tot 1,1 µm dan PK niet 8-hoekig en met >12 poriën; anuli glad of poriën zonder anulus.",
           "next": "4"
         }
-      ]
+      ],
+      "note": "Caryophyllaceae p.p. zonder o.a. Spergula, Spergularia, Corrigiola, Herniaria, Paronychia, Illecebrum. Poriegrootte zonder anulusbreedte."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "Anuli 1,2–2,0 µm breed, fijn scabraat (bij intrareticulum of intramicroreticulum, vgl. Alisma-groep, biz. 464) (tabel 110: 1–6).",
-          "id": {
-            "name": "33.8.1 Gypsophila repens-type (Blz. 469)"
+          "label": "Anuli 1,2–2,0 µm; fijn scabraat (Tafel 110: 1–6).",
+          "outcome": {
+            "text": "33.8.1 *Gypsophila repens*-type (S. 469) — zie deelsleutel."
           }
         },
         {
-          "label": "Anuli 2–4 µm breed, microreticulaat of met duidelijk perforaat tectum, met 0,6–1,0 µm brede gladde binnenring.",
+          "label": "Anuli 2–4 µm; microreticulaat of duidelijk tectum perforatum, met 0,6–1,0 µm brede gladde binnenring.",
           "next": "3"
         }
       ]
@@ -44,16 +46,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae op het smalste gedeelte van de interporiesleuf slechts 1–2 rijen, columellae tot 2,0 (2,5) µm dik (tabel 110: 7–10).",
-          "id": {
-            "name": "33.8.2 Scleranthus (Blz. 470)"
+          "label": "Columellae op smalste interporium slechts 1–2-rijig; columellae tot 2,0(2,5) µm dik (Tafel 110: 7–10).",
+          "outcome": {
+            "text": "33.8.2 *Scleranthus* (S. 470) — zie deelsleutel."
           }
         },
         {
-          "label": "Columellae op het smalste gedeelte van de interporiesleuf meer dan tweerijig; PK microreticulaat en microechinaat; columellae 1,0–1,2 µm dik (tabel 110: 11–16).",
-          "id": {
-            "name": "33.8.3 Stellaria holostea (Blz. 470)",
-            "pollen_key": "stellaria_holostea"
+          "label": "Columellae op smalste interporium meer dan tweerijig; microreticulaat én microechinaat; columellae 1,0–1,2 µm (Tafel 110: 11–16).",
+          "outcome": {
+            "text": "33.8.3 *Stellaria holostea* (S. 470) — zie deelsleutel."
           }
         }
       ]
@@ -63,12 +64,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën zonder annulus.",
-          "next": "5"
+          "label": "Poriën zonder anulus.",
+          "outcome": {
+            "text": "33.8.4 *Sagina apetala*-type (S. 470) — zie deelsleutel."
+          }
         },
         {
-          "label": "Poriën met annulus.",
-          "next": "6"
+          "label": "Poriën met anulus.",
+          "next": "5"
         }
       ]
     },
@@ -77,13 +80,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Aantal perforaties respectievelijk microbrochi duidelijk groter dan het aantal columellae (tabel 110: 17–20).",
-          "id": {
-            "name": "33.8.5 Cerastium-type (Blz. 472)"
+          "label": "Aantal perforaties/microbrochi duidelijk groter dan aantal columellae (Tafel 110: 17–20).",
+          "outcome": {
+            "text": "33.8.5 *Cerastium*-type (S. 472) — zie deelsleutel."
           }
         },
         {
-          "label": "Aantal perforaties, microbrochi respectievelijk brochi of networmen in de columella-laag ongeveer gelijk aan het aantal columellae of duidelijk kleiner.",
+          "label": "Aantal perforaties/microbrochi/brochi of netmazigen ongeveer gelijk aan of kleiner dan aantal columellae.",
           "next": "6"
         }
       ]
@@ -93,13 +96,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat; brochi 1,5–4,0 µm groot (tabel 110: 21–22).",
-          "id": {
-            "name": "33.8.6 Melandrium (Blz. 474)"
+          "label": "PK reticulaat; brochi 1,5–4,0 µm (Tafel 110: 21–22).",
+          "outcome": {
+            "text": "33.8.6 *Melandrium* (S. 474) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met perforaat tectum of microreticulaat.",
+          "label": "PK met tectum perforatum of microreticulaat.",
           "next": "7"
         }
       ]
@@ -109,13 +112,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK microreticulaat: lumina regelmatig gerangschikt; afstand tussen lumina zo groot als hun diameter of nauwelijks groter; bij brochi duidelijk boven 1,0 µm (*Honckenya* max. 1,8 µm) zijn poriën kleiner dan bij *Melandrium* (tabel 111: 1–4).",
-          "id": {
-            "name": "33.8.7 Minuartia verna-type (Blz. 474)"
+          "label": "PK microreticulaat: lumina regelmatig; afstanden ≈ diameter; bij brochi >1,0 µm (*Honckenya* max. 1,8 µm) poriën kleiner dan bij *Melandrium* (Tafel 111: 1–4).",
+          "outcome": {
+            "text": "33.8.7 *Minuartia verna*-type (S. 474) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met perforaat tectum.",
+          "label": "PK met tectum perforatum.",
           "next": "8"
         }
       ]
@@ -125,9 +128,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK groter dan 54 µm met 30–40 poriën (tabel 111: 5–10).",
-          "id": {
-            "name": "33.8.8 Agrostemma githago (Blz. 476)"
+          "label": "PK > 54 µm, met 30–40 poriën (Tafel 111: 5–10).",
+          "outcome": {
+            "text": "33.8.8 *Agrostemma githago* (S. 476) — zie deelsleutel."
           }
         },
         {
@@ -141,13 +144,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Columellae duidelijk netvormig gerangschikt met telkens een perforatie in het midden van de endobrochi; networmen doorgaans 2–3 (5) µm groot.",
+          "label": "Columellae duidelijk netvormig; één perforatie midden in endobrochi; netmazigen meestal 2–3(5) µm.",
           "next": "10"
         },
         {
-          "label": "Columellae niet of nauwelijks netvormig gerangschikt; perforaties alleen over de grotere openingen tussen de columellae (tabel 111: 11–13).",
-          "id": {
-            "name": "33.8.9 Silene-type (Blz. 476)"
+          "label": "Columellae niet of slechts onduidelijk netvormig; perforaties alleen boven grotere tussenruimten (Tafel 111: 11–13).",
+          "outcome": {
+            "text": "33.8.9 *Silene*-type (S. 476) — zie deelsleutel."
           }
         }
       ]
@@ -157,13 +160,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 38–48 µm groot; in omtrek 8-hoekig met 20–26 poriën (tabel 112: 1–5).",
-          "id": {
-            "name": "33.8.10 Petrorhagia prolifera (Blz. 480)"
+          "label": "PK 38–48 µm; omtrek 6-hoekig; 20–26 poriën (Tafel 112: 1–5).",
+          "outcome": {
+            "text": "33.8.10 *Petrorhagia prolifera* (S. 480) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met minder dan 20 poriën; in omtrek rond.",
+          "label": "PK met minder dan 20 poriën; omtrek rondachtig.",
           "next": "11"
         }
       ]
@@ -173,15 +176,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Opercula kroonvormig of met verdikte gesloten of onderbroken rand; PK 35–67 µm groot met 8–19 poriën (tabel 112: 6–12).",
-          "id": {
-            "name": "33.8.11 Dianthus (Blz. 480)"
+          "label": "Opercula kroonvormig of met verdikte gesloten/onderbroken rand; PK 35–67 µm; 8–19 poriën (Tafel 112: 6–12).",
+          "outcome": {
+            "text": "33.8.11 *Dianthus* (S. 480) — zie deelsleutel."
           }
         },
         {
-          "label": "Opercula korrelig bedekt; PK 42–49 µm groot met 12–14 poriën (tabel 113: 1–2).",
-          "id": {
-            "name": "33.8.12 Vaccaria hispanica (Blz. 482)"
+          "label": "Opercula korrelig; PK 42–49 µm; 12–14 poriën (Tafel 113: 1–2).",
+          "outcome": {
+            "text": "33.8.12 *Vaccaria hispanica* (S. 482) — zie deelsleutel."
           }
         }
       ]

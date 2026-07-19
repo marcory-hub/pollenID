@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-cucumis-melo",
+    "title": "31.5 *Cucumis melo* (Tafel 98: 4–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,2–1,8 µm; poriën met krachtige costae; exine 1,5 µm.",
+          "outcome": {
+            "text": "31.5 *Cucumis melo*\n\nPK perreticulaat; brochi (0,8)1,0–1,2(1,8) µm. Poriën 6–8 µm met 3–4 µm brede en 1,5–2,0 µm dikke costae. Exine 1,5 µm; endexine 0,8 µm; columellae-laag duidelijk.\n\n*Cucumis melo* L. (1)\n49,0–59,5 µm, MiW 53,9 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

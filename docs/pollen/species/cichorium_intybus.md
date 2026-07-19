@@ -1,6 +1,6 @@
 # *Cichorium intybus* (cichorei)
 
-{{ pollen_gallery("cichorium_intybus") }}
+{{ gallery("cichorium_intybus") }}
 
 ## Kenmerken
 

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-spartium",
+    "title": "23.12.1 *Spartium junceum* (Tafel 82: 8–11)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Bolvormig; muri breder dan lumina; columellae overal in fasecontrast.",
+          "outcome": {
+            "text": "23.12.1 *Spartium junceum*\n\nPK bolvormig (PForml 0,93–1,11). Polarvelden middelgroot tot groot (PFeldI 0,29–0,55). Exine 2–2,5 µm (randen ca. 1,5 µm). Lumina 0,8–1,0 µm; muri 0,8–1,2 µm.\n\n*Spartium junceum* L. (2)\n33,6–44,6 µm, MiW 39,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug07-inaperturatae-callitriche-stagnalis",
+    "title": "7.19 *Callitriche stagnalis* (Tafel 5: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "*Callitriche stagnalis* is door ontbrekende aperturen meestal bepaalbaar. Bij *C. palustris* en verwante soorten (*Callitriche palustris*-type) zijn de aperturen vaak moeilijk herkenbaar; onderzoek in fasecontrast is vereist.",
+      "choices": [
+        {
+          "label": "PK inaperturaat of met enkele gebieden met gereduceerde sculptuur.",
+          "outcome": {
+            "text": "*Callitriche stagnalis*. PK rondachtig tot zwak langwerpig of eivormig. Exine ca. 1 µm dik. Columellae duidelijk, tot 1 µm dik, netvormig geplaatst, brochi tot 2 µm groot. Een deel van de columellae staat vrij (retipilaat), andere lijken door contrastarme muri (?basaal) met elkaar verbonden te zijn. Grotere elementen kunnen door distale versmelting van 2–3 columellae ontstaan zijn. Er zijn 2 of (?) 3 apertuur-achtige, langwerpige gebieden, waarop de columellae en hun netvormige ordening iets gereduceerd zijn.\n\n*Callitriche stagnalis* Scop. (2)\n15,5–25,5 µm, MiW 19,8 µm; 50 PK, Oa\n\nNon vidi: *C. hermaphrodita* L., *C. hamulata* Kütz. ex W.D.J. KOCH."
+          }
+        },
+        {
+          "label": "PK met 2, zelden 3 of 4 brede, onregelmatig gevormde en begrensde, langwerpige tot ronde aperturen (Tafel 96: 1–4).",
+          "outcome": {
+            "text": "*Callitriche palustris*-type (S. 424)"
+          }
+        }
+      ]
+    }
+  }
+}

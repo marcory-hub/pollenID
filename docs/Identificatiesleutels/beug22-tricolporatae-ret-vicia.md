@@ -1,4 +1,4 @@
-# 22.31.5 Vicia-type (Beug)
+# 22.31.5 *Vicia*-type (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-vicia.json"></div>
 

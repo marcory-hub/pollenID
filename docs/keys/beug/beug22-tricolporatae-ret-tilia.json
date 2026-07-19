@@ -1,28 +1,30 @@
 {
   "meta": {
-    "key": "beug22-tricolporatae-ret-tilia.json",
-    "title": "22.1 Tilia (Beug)",
+    "key": "beug22-tricolporatae-ret-tilia",
+    "title": "22.1 *Tilia* (Tafel 67: 1–14)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
     "1": {
       "id": "1",
       "type": "step",
+      "note": "Tel trechtermondingen op 10 µm op beide polarvelden (olie-immersie); n2 = grovere zijde.",
       "choices": [
         {
-          "label": "PK oblaat tot peroblaat, colpi kort, poriën groot, met zakvormige inwendige welvingen van de endexine (Tafel 67: 1-14).",
-          "id": {
-            "name": "22.1 Tilia (Blz... 321)"
+          "label": "Op de grover gesculpteerde zijde 4–8(9) trechtermondingen per 10 µm; heteropolariteit meestal zeer duidelijk; zakvormige verdikkingen onder de colpi in polar aanzicht 14–18 µm (Tafel 67: 1–5).",
+          "outcome": {
+            "text": "22.1.1 *Tilia platyphyllos*-type\n\n*Tilia platyphyllos* Scop. (7)\n29,1–45,5 µm, MiW 38,4 µm; 50 PK, 0a, Ä\n\n*Tilia × vulgaris* HAYNE (1)\n37,5–49,2 µm, MiW 43,3 µm; 50 PK, 0a, Ä"
           }
         },
         {
-          "label": "PK sferoïdisch, prolaat of perprolaat.",
-          "id": {
-            "name": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          "label": "Op de grover gesculpteerde zijde (7)8–14 sculptuurelementen per 10 µm; heteropolariteit in wandbouw vaak gering; zakvormige verdikkingen 12–15,5 µm (Tafel 67: 6–14).",
+          "outcome": {
+            "text": "22.1.2 *Tilia cordata*-type\n\n*Tilia cordata* MILL. (8)\n29,0–39,0 µm, MiW 33,5 µm; 50 PK, 0a, Ä\n\nVerder onderzocht (heteropolariteit gering; tubuli relatief klein; steekproeven: geen *T. platyphyllos*-type):\n\n*Tilia alba* Arr. (1)\n33,3–42,1 µm, MiW 37,9 µm; 50 PK, 0a, Ä\n\n*Tilia americana* L. (1)\n31,9–43,9 µm, MiW 37,6 µm; 50 PK, 0a, Ä\n\n*Tilia tomentosa* MOENCH (1)\n32,2–41,4 µm, MiW 36,3 µm; 50 PK, 0a, Ä\n\n*Tilia rubra* DC. (1)\n33,3–42,1 µm, MiW 37,8 µm; 50 PK, 0a, Ä\n\n*Tilia rubra* DC. subsp. *caucasica* (RUPR.) V. ENGLER (1)\n38,2–49,4 µm, MiW 43,4 µm; 50 PK, 0a, Ä\n\nBij *T. americana* en *T. alba* waarschijnlijk *T. cordata*-type; bij *T. rubra* / subsp. *caucasica* nog onvoldoende metingen. Bij *T. tomentosa* lijkt heteropolariteit groter dan bij *T. cordata*; verdere onderzoek nodig."
           }
         }
       ]

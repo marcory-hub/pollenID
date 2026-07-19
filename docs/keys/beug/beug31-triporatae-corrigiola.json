@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-corrigiola",
+    "title": "31.12 *Corrigiola litoralis* (Tafel 101: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 9–13 µm, psilaat; interangulair.",
+          "outcome": {
+            "text": "31.12 *Corrigiola litoralis*\n\nPK psilaat, rondachtig tot iets langwerpig; polair rondachtig-driehoekig. Poriën rondachtig tot langwerpig, meestal ca. 2 µm (max. 3 × 4 µm). Exine 1,2–1,5 µm, polar iets verdikt. Endexine ca. 0,6 µm (dikker dan tectum). Columellae dun, alleen in polar verdikt gebied herkenbaar.\n\n*Corrigiola litoralis* L. (2)\n9,3–12,5 µm, MiW 10,8 µm; 50 PK, 0a, Ä\n[te verifiëren: maten in OCR los van soortnaam, bij *Ostrya*-blok]"
+          }
+        }
+      ]
+    }
+  }
+}

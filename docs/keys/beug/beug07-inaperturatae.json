@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug07-inaperturatae.json",
+    "key": "beug07-inaperturatae",
     "title": "7. Inaperturatae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 21,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "PK gevormd als driezijdige piramide, (15)18-27(32) µm groot, zijden en hoeken van de piramide psilaat, vlakken reticulaat met tot 5(6) µm grote brochi (Tafel 5: 12-17)",
-          "id": {
-            "name": "7.1 Thesium(geslacht uit sandelhoutfamilie)(Blz. 62) in paldat duidelijk tricolpaat"
+          "outcome": {
+            "text": "7.1 *Thesium* (S. 62)\n\nPK als tetraëder (driezijdige piramide), reticulaat en heteropolair. Proximale top breed afgerond, psilaat; overige vlakken reticulaat met brochi 1,5–5,0(6) µm. Columellae niet herkenbaar. (Tafel 5: 12–17)\n\n*Thesium alpinum* L. (2)\n17,8–27,0 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Thesium bavarum* Schr. (2)\n18,5–23,3 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Thesium divaricatum* JAN (1)\n15,0–22,5 µm, MiW 18,2 µm; 50 PK, 0a\n\n*Thesium dollineri* MURB. (1)\n17,5–25,8 µm, MiW 22,5 µm; 50 PK, 0a\n\n*Thesium ebracteatum* HAYNE (1)\n20,0–27,0 µm, MiW 23,9 µm; 50 PK, 0a\n\n*Thesium humifusum* Dc. (1)\n18,0–23,0 µm, MiW 20,9 µm; 50 PK, 0a\n\n*Thesium linophyllon* L. (1)\n17,5–22,5 µm, MiW 20,4 µm; 50 PK, 0a\n\n*Thesium pyrenaicum* POURR. (1)\n17,5–25,0 µm, MiW 22,5 µm; 50 PK, 0a\n\n*Thesium ramosum* HAYNE (1)\n17,5–25,0 µm, MiW 22,3 µm; 50 PK, 0a\n\n*Thesium rostratum* MERT. & KOCH (1)\n24,5–32,0 µm, MiW 28,5 µm; 50 PK, 0a"
           }
         },
         {
@@ -31,8 +32,8 @@
       "choices": [
         {
           "label": "PK oblaat tot sferoïd, heteropolair: distale zijde clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en eventueel met enkele clavae, proximale zijde verrucaat of aan de rand verrucaat en in het midden psilaat, van het proximale deel gescheiden door een soort ringvormige groeve (Tafel 2: 5-7)",
-          "id": {
-            "name": "Nymphaea (Blz. 73)"
+          "outcome": {
+            "text": "*Nymphaea* (S. 73)"
           }
         },
         {
@@ -47,8 +48,8 @@
       "choices": [
         {
           "label": "PK prolaat. In omtrek elliptisch tot spoelvormig, met lengteribben (polyplicate PK). Tussen elke twee lengteribben loopt een onvertakte, rechte (Afb. 9e) of een vertakte, zigzagvormige (Afb. 9d) lengtegroef (>pseudocolpus<)",
-          "id": {
-            "name": "7.2 Ephedra (Blz... 64)"
+          "outcome": {
+            "text": "7.2 *Ephedra* (S. 64) — zie deelsleutel."
           }
         },
         {
@@ -63,8 +64,8 @@
       "choices": [
         {
           "label": "PK dikwandig met papil (Tafel 4: 8-9)",
-          "id": {
-            "name": "7.3 Cryptomeria-type (Blz... 65)"
+          "outcome": {
+            "text": "7.3 *Cryptomeria*-type (S. 65)\n\nPK dikwandig; exine tot 5 µm dik, met dunwandige, slangvormig verlengde kiempapil (bij *Cryptomeria japonica* tot 10 µm lang). Sculptuur zoals bij het *Juniperus*-type. Volgens UENO (1951) ook *Sequoia*, *Metasequoia* en *Glyptostrobus*. (Tafel 4: 8–9)\n\n*Cryptomeria japonica* DON (2)\n26,3–33,8 µm, MiW 27,3 µm; 50 PK, 1a"
           }
         },
         {
@@ -79,8 +80,8 @@
       "choices": [
         {
           "label": "PK microgemmaat (verkorte bacula en clavae bij *Asarum* kunnen lijken op gemmae). De gemmae vallen gemakkelijk af, ze zijn daarom in sterk wisselende aantallen aanwezig en meestal onregelmatig verdeeld. Bij *Cephalotaxus* en *Cunninghamia* zijn ze alleen aanwezig in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) microgemmae of met microclavae. PK sferoïdisch, dunwandig. Ze barsten bij bevochtiging meestal in twee nog met elkaar verbonden, spoelvormige helften uiteen (Tafel 4: 1-7; vergelijk ook *Taxus*, Tafel 4: 10-13). In zeldzame gevallen kan men een porie waarnemen",
-          "id": {
-            "name": "7.4 Juniperus-type (Blz... 66)"
+          "outcome": {
+            "text": "7.4 *Juniperus*-type (S. 66) — zie deelsleutel."
           }
         },
         {
@@ -123,8 +124,8 @@
       "choices": [
         {
           "label": "PK ca. 60-100 µm groot, Exine met een plooivormige, vaak tweedelig opensplijtende incisie (Afb. 9a-c)",
-          "id": {
-            "name": "7.5 Larix, Pseudotsuga (Blz... 69)"
+          "outcome": {
+            "text": "7.5 *Larix*, *Pseudotsuga* (S. 68) — zie deelsleutel."
           }
         },
         {
@@ -139,14 +140,14 @@
       "choices": [
         {
           "label": "PK zonder structuurelementen (Afb. 9f)",
-          "id": {
-            "name": "7.6 Arum (Blz... 68)"
+          "outcome": {
+            "text": "7.6 *Arum* (S. 68)\n\nKleine, zeer onopvallende PK, noch gestructureerd noch gesculpteerd. Exine 1,0–1,5 µm dik, tweelaags; buitenste laag dikker dan de binnenste (Afb. 9f). De PK splijten licht in de lengte. Vergelijkbaar met *Acorus calamus* (S. 107), maar zonder (of met moeilijk herkenbare) colpus.\n\n*Arum maculatum* L. s.l. (2)\n19,3–40,0 µm, MiW 24,2 µm; 50 PK, 1a\n\n*Arum italicum* MILL. (1)\n22,7–36,7 µm, MiW 26,4 µm; 50 PK, 1a"
           }
         },
         {
           "label": "PK met duidelijke columella-laag, deels in optische doorsnede met golvend oppervlak (Afb. 9g).",
-          "id": {
-            "name": "7.7 Aristolochia (Blz... 68)"
+          "outcome": {
+            "text": "7.7 *Aristolochia* (S. 68)\n\nPK tectat, met gut ausgebildeter columellae-Schicht. Skulpturelemente fehlen, exine meestal 1,0–1,5 µm dik. Bei A. sipho is de Oberfläche schollig gevormd en de exine boven 2 µm dik.\n\n*Aristolochia clematitis* L. (2)\n29,8–54,2 µm, MiW 43,7 µm; 50 PK, 1a Aristolochia rotunda L. (1) 29,8–61,3 µm, MiW 44,5 µm; 50 PK, 1a\n\n*Juniperus foetidissima* WILLD. (1)\n28,8–43,8 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Aristolochia sipho* L'HERIT. (1)\n33,3–50,8 µm, MiW 42,2 µm; 50 PK, 1a"
           }
         }
       ]
@@ -157,15 +158,14 @@
       "choices": [
         {
           "label": "Sculptuur scabraat-microechinaat. PK sferoïdisch, vaak verbogen en barstig-veldig, Exine zeer dunwandig (ca. 0,5 µm). De sculptuurelementen staan vaak op de muri van een vlak microreticulum (fasecontrastbeeld).",
-          "id": {
-            "pollen_key": "populus_nigra",
-            "note": "*Populus sp.* (populier)"
+          "outcome": {
+            "text": "7.8 *Populus* (S. 69)\n\n*Populus alba* L. (1)\n15,8–29,7 µm, MiW 21,2 µm; 50 PK, 1a Populus nigra L. (2) 24,8–37,8 µm, MiW 29,8 µm; 50 PK, 0a\n\n*Populus tremula* L. (4)\n29,0–35,3 µm, MiW 32,3 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Sculptuurelementen niet toegespitst, microclavaat (microgemmaat?). PK dikwandiger dan bij Populus (ca. 1 µm), steeds hoekig-eivormig, meestal met lengtespleet (Tafel 4: 10-13).",
-          "id": {
-            "name": "7.9 Taxus (Blz... 69)"
+          "outcome": {
+            "text": "7.9 *Taxus* (S. 69)\n\nPK meestal eiförmig-eckig, intectat. Die Skulpturelemente zijn distal etwas verdikt en hebben daher een gewisse Ähnlichkeit met denen de Cupressaceae en Taxodiaceae. Sie staan jedoch zeer dicht nebeneinander en fallen vor allem niet ab. Frische PK platzen bij Anfeuchtung durch Quellung de Intine op.\n\n*Taxus baccata* L. (3)\n19,3–29,8 µm, MiW 23,5 µm; 50 PK, 1a"
           }
         }
       ]
@@ -176,8 +176,8 @@
       "choices": [
         {
           "label": "PK baculaat en clavaat (Afb. 9h)",
-          "id": {
-            "name": "7.10 Asarum europaeum (Blz... 69)"
+          "outcome": {
+            "text": "7.10 *Asarum europaeum* (S. 69)\n\nEin einheitlicher Skulpturtyp läßt zich voor Asarum offenbar niet angeben. Die exine trägt gestauchte Clavae en Bacula, waarvan extrem verkürzte Formen Gemmae of Verrucae darstellen. Eine duidelijk erkennbare columellae-Schicht is aanwezig.\n\n*Asarum europaeum* L. (2)\n35,8–50,8 µm, MiW 43,6 µm; 50 PK, 1a"
           }
         },
         {
@@ -206,8 +206,8 @@
       "choices": [
         {
           "label": "Columella-laag aanwezig, PK 40-150 µm groot",
-          "id": {
-            "name": "7.11 Crocus vernus-type (Blz... 69)"
+          "outcome": {
+            "text": "7.11 *Crocus vernus*-type (S. 69)\n\n*Crocus vernus* (L.) HILL. (4)\n70,8–107,5 µm, MiW 90,4 µm; 54 PK, 0a\n\n*Crocus nudiflorus* SM. (2)\n93,8–125,5 µm, MiW 110,7 µm; 50 PK, 0a\n\n*Elodea densa* MICHX. (1)\n50,0–66,0 µm, MiW 57,4 µm; 50 PK, 1a"
           }
         },
         {
@@ -222,8 +222,8 @@
       "choices": [
         {
           "label": "PK 50-70 µm groot",
-          "id": {
-            "name": "7.12 Elodea (Blz... 70)"
+          "outcome": {
+            "text": "7.12 *Elodea* (S. 70)\n\nEchini vanaf de basis scherp toegespitst. Columellae-laag zeer dun. Tectum schijnbaar alleen als dunne, moeilijk herkenbare hyaliene lamel; columellae lijken daardoor op afzonderlijke microbacula van ca. 0,5 µm. (Afb. 9k)\n\n*Elodea densa* MICHX. (1)\n50,0–66,0 µm, MiW 57,4 µm; 50 PK, 1a"
           }
         },
         {
@@ -238,8 +238,8 @@
       "choices": [
         {
           "label": "De echini zitten op minuscule wandverdikkingen (Afb. 9l), die – zwak aangeduid – onderling verbonden zijn tot een onvolledig reticulum",
-          "id": {
-            "name": "7.13 Hydrocharis (Blz... 70)"
+          "outcome": {
+            "text": "7.13 *Hydrocharis morsus-ranae* (S. 70)\n\n*Die* Echini sitzen auf kleinen Verdickungen der Exine, die z.T. miteinander verbunden sind, so daß ein Reticulum angedeutet wird. Exine ca. 0,5 µm dick, Echini ca. 1 µm lang. Hydrocharis morsus-ranae L. (2)\n18,0–34,0 µm, MiW 25,5 µm; 50 PK, 1a"
           }
         },
         {
@@ -254,14 +254,14 @@
       "choices": [
         {
           "label": "Exine ca. 1 µm dik, echini ca. 1 µm lang en zeer dun (Afb. 9m)",
-          "id": {
-            "name": "7.14 Smilax (Blz... 70)"
+          "outcome": {
+            "text": "7.14 *Smilax* (S. 70)\n\n*Echini sehr* dünn, Exine ca. 1 µm dick. PK meist mit Rissen und Löchern in der Exine. Smilax aspera L. (1)\n18,0–23,8 µm, MiW 21,3 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Exine onder 0,5 µm dik, hyaliene, dicht bezet met stomp-kegelvormige, korte echini, meestal slechts fragmentarisch bewaard (Afb. 9n)",
-          "id": {
-            "name": "7.15 Laurus, Cinnamomum (Blz... 70)"
+          "outcome": {
+            "text": "7.15 *Laurus*, *Cinnamomum* (S. 70)\n\n*Exine sehr* dünn (dünner als 0,5 µm), hyalin, dicht mit kurzen kegeligen Echini besetzt (Dicke basal ca. 1 µm, Länge ca. 1 µm). PK meist nur in kleinen Fetzen erhalten. Laurus nobilis L. (2)\n22,0–38,0 µm, MiW 29,8 µm; 17 PK, 1a Cinnamomum camphora NEES (1) 22,0–34,0 µm, MiW 27,2 µm; 50 PK, 1a\n\n*Ruppia maritima* L. (1)\n38,0–74,0 µm, MiW 52,0 µm; 44 PK, 9a"
           }
         }
       ]
@@ -286,14 +286,14 @@
       "choices": [
         {
           "label": "PK meestal iets gebogen (Afb. 10). Reticulum heterobrochaat, op drie plaatsen met onduidelijk gevormd reticulum (Tafel 4: 14; Afb. 10)",
-          "id": {
-            "name": "7.16 Ruppia maritima (Blz... 70)"
+          "outcome": {
+            "text": "7.16 *Ruppia maritima* (S. 70)\n\n*Ruppia maritima* L. var. rostellata KOCH (1)\n38,0–62,0 µm, MiW 50,0 µm; 42 PK, 9a"
           }
         },
         {
           "label": "PK niet gebogen, reticulum gelijkmatig gevormd (Tafel 4: 15)",
-          "id": {
-            "name": "7.17 Callitriche obtusangula (Blz... 71)"
+          "outcome": {
+            "text": "7.17 *Callitriche obtusangula* (S. 71)\n\nPK ausgeprägt elliptisch, fijn reticulaat. Brochi± einheitlich, ca. 1 µm groot.\n\n*Callitriche obtusangula* LE GALL (1)\n19,2–36,8 µm, 29,2 µm; 50 PK, 1a"
           }
         }
       ]
@@ -304,8 +304,8 @@
       "choices": [
         {
           "label": "Reticulum zonder columellae of columellae slechts verspreid herkenbaar (Phako) (Tafel 4: 16)",
-          "id": {
-            "name": "7.18 Triglochin (Blz... 71)"
+          "outcome": {
+            "text": "7.18 *Triglochin* (S. 71)\n\nPK kogelvormig tot eivormig, reticulaat. Reticulum zonder of met slechts enkele, moeilijk herkenbare columellae (onderscheid vs *Potamogeton natans*-type alleen in fasecontrast). Brochi 1,0–2,5 µm. Exine ca. 1,5 µm dik, endexine zeer dun. (Tafel 4: 16)\n\n*Triglochin maritimum* L. (2)\n25,0–32,8 µm, MiW 29,0 µm; 50 PK, 0a\n\n*Triglochin palustre* L. (2)\n23,3–31,3 µm, MiW 27,7 µm; 50 PK, 0a"
           }
         },
         {
@@ -320,8 +320,8 @@
       "choices": [
         {
           "label": "Reticulum hoofdzakelijk bestaande uit krachtige, eventueel iets verdikte columellae. muri slechts zwak aangeduid of pas bij een dieper optisch niveau zichtbaar. Vaak staan columellae ook zonder verbinding in een netvormige opstelling (Tafel 5: 1-5)",
-          "id": {
-            "name": "7.19 Callitriche stagnalis (Blz... 71)"
+          "outcome": {
+            "text": "7.19 *Callitriche stagnalis* (S. 71) — zie deelsleutel."
           }
         },
         {
@@ -336,14 +336,14 @@
       "choices": [
         {
           "label": "columellae ongeveer even breed als de muri, daardoor weinig opvallend (Tafel 4: 17)",
-          "id": {
-            "name": "7.20 Potamogeton natans-type (Blz... 72)"
+          "outcome": {
+            "text": "7.20 *Potamogeton natans*-type (S. 72)\n\n*Reticulum deutlich* mit Columellae (Unterschied gegenüber Trichlochin, s. S. 71, möglichst nur im Phasenkontrastbild entscheiden). Brochi meist ca. 1 µm groß, die einzelnen Muri meist mit mehreren Columellae. Groenlandia densa (L.) FOURR. (1)\n23,8–38,7 µm, MiW 31,6 µm; 50 PK, 9a Potamogeton acutifolius LINK (1) 21,3–33,7 µm, MiW 25,3 µm; 50PK, 9a Potamogeton alpinus BALB. (1) 21,2–33,8 µm, MiW 27,8 µm; 50 PK, 9a Potamogeton x angustifolius J. PRESL. (1) 19,3–29,8 µm, MiW 23,2 µm; 50 PK, 1a Potamogeton coloratus HORNEM. (1) 21,3–28,8 µm, MiW 23,5 µm; 50 PK, 9a Potamogeton compressus L. (1) 18,7–28,7 µm, MiW 23,9 µm; 50 PK, 9a Potamogeton crispus L. (2) 23,8–41,4 µm, MiW 31,3 µm; 50 PK, 9a Potamogeton friesii RUPR. (1) 18,0–26,0 µm, MiW 21,5 µm; 50 PK, 9a Potamogeton gramineus L. (1) 16,2–26,2 µm, MiW 21,2 µm; 50 PK, 9a Potamogeton lucens L. (1) 18,0–30,0 µm, MiW 25,1 µm; 50 PK, 9a Potamogeton natans L. (2) 18,0–30,0 µm, MiW 24,4 µm; 50 PK, 9a Potamogeton x nitens WEBER (1) 18,0–26,0 µm, MiW 23,4 µm; 50 PK, 9a Potamogeton nodosus POIR. (1) 18,8–26,2 µm, MiW 22,8 µm; 50 PK, 9a Potamogeton obtusifolius MERT. & W.D.J. KOCH (1) 20,3–30,5 µm, MiW 25,0 µm; 50 PK, 9a Potamogeton perfoliatus L. (1) 18,0–30,0 µm, MiW 24,5 µm; 50 PK, 9a Potamogeton polygonifolius POURR. (2) 18,0–26,0 µm, MiW 21,6 µm; 50 PK, 9a Potamogeton praelongus WULFEN (2) 22,0–38,0 µm, MiW 29,0 µm; 50 PK, 1a Potamogeton pusillus L. (1) 19,3–33,1 µm, MiW 26,7 µm; 50 PK, 1a Potamogeton rutilus WOLFG. (1) 15,7–26,1 µm, MiW 21,0 µm; 50 PK, 1a Potamogeton trichoides CHAM. & SCHLTDL. (1) 19,3–29,8 µm, MiW 23,4 µm; 50 PK, 1a"
           }
         },
         {
           "label": "columellae dikker dan de muri, daardoor duidelijk zichtbaar (Tafel 4: 18)",
-          "id": {
-            "name": "7.21 Potamogeton pectinatus-type (Blz... 72)"
+          "outcome": {
+            "text": "7.21 *Potamogeton pectinatus*-type (S. 72)\n\nGesamtes Reticulum ähnlich zoals bij Ruppia in de dortigen 3 Bereichen met schmalen Muri. mellae überall duidelijk dicker als de Muri. Brochi tot 4 µm groot. Normales Hellfeldbild genügt de Bestimmung.\n\n*Potamogeton filiformis* PERS. (2)\n33,0–53,8 µm, MiW 40,4 µm, 50 PK, 0a\n\n*Potamogeton pectinatus* L. s.str. (3)\n26,2–43,7 µm, MiW 35,5 µm; 50 PK, 9a"
           }
         }
       ]

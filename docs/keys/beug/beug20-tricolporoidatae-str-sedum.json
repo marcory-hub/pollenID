@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-sedum",
+    "title": "20.1 *Sedum*-type (Tafel 52: 11–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omvat *Sedum*, *Rhodiola*, *Crassula*, *Sempervivum* en *Cotyledon*. PK prolaat of sferoïdisch (PForml 0,91–1,43), rugulaat; valla deels stralend.",
+          "outcome": {
+            "text": "20.1 *Sedum*-type\n\nExine bij *Sedum* 1,1–1,6 µm, bij *Sempervivum* soms tot 2,0 µm (polair tot 2,5 µm). Endexine 0,5–0,8 µm, dikker dan het tectum. Equatoriaal gebied van de colpi sterk variabel; vaak extra apertuur (porie).\n\n*Cotyledon umbilicus* L. (1)\n17,7–24,8 µm, MiW 21,8 µm; 50 PK, 3a\n\n*Crassula aquatica* (L.) SCHOENLAND (1)\n10–14 µm\n\n*Crassula tillaea* LEST.-GARL. (2)\n19,5–18,1 µm, MiW 14,8 µm; 50 PK, 1a\n\n*Crassula rubens* L. (1)\n19,5–27,6 µm, MiW 23,3 µm; 50 PK, 1a\n\n*Rhodiola rosea* L. (2)\n17,5–27,0 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Sedum acre* L. (2)\n20,8–28,0 µm, MiW 24,8 µm; 50 PK, 0a\n\n*Sedum album* L. (2)\n17,7–23,0 µm, MiW 20,2 µm; 52 PK, 1a\n\n*Sedum alpestre* VILL. (2)\n19,3–30,0 µm, MiW 23,7 µm; 50 PK, 0a\n\n*Sedum annuum* L. (1)\n17,0–23,4 µm, MiW 19,2 µm; 50 PK, 1a\n\n*Sedum anacampseros* L. (1)\n13,8–18,4 µm, MiW 16,1 µm; 50 PK, 1a\n\n*Sedum atratum* L. (2)\n18,8–23,0 µm, MiW 21,1 µm; 50 PK, 0a\n\n*Sedum cepaea* L. (2)\n23,0–27,5 µm, MiW 25,5 µm; 50 PK, 0a\n\n*Sedum dasyphyllum* L. (2)\n21,5–32,0 µm, MiW 27,1 µm; 52 PK, 0a\n\n*Sedum hispanicum* L. (1)\n15,6–21,2 µm, MiW 18,9 µm; 50 PK, 1a\n\n*Sedum maximum* (L.) HOFFM. (2)\n17,3–22,0 µm, MiW 19,6 µm; 50 PK, 0a\n\n*Sedum ochroleucum* CHAIX (1)\n17,5–24,6 µm, MiW 21,0 µm; 50 PK, 1a\n\n*Sedum rupestre* L. (1)\n19,1–26,9 µm, MiW 23,3 µm; 50 PK, 1a\n\n*Sedum sexangulare* L. (1)\n19,7–25,5 µm, MiW 21,0 µm; 50 PK, 1a\n\n*Sedum spurium* M. BIEB. (1)\n17,7–24,4 µm, MiW 20,4 µm; 50 PK, 1a\n\n*Sedum telephium* L. (3)\n19,5–25,0 µm, MiW 23,5 µm; 50 PK, 0a\n\n*Sedum villosum* L. (2)\n23,3–36,3 µm, MiW 28,4 µm; 50 PK, 0a\n\n*Sempervivum alpinum* GRIS. & SCHENK (2)\n22,0–28,0 µm, MiW 24,3 µm; 50 PK, 0a\n\n*Sempervivum arachnoideum* L. (2)\n18,3–26,3 µm, MiW 22,8 µm; 50 PK, 0a\n\n*Sempervivum arenarium* KOCH (1)\n21,4–28,0 µm, MiW 25,1 µm; 50 PK, 1a\n\n*Sempervivum dolomiticum* FACCH. (1)\n20,9–25,1 µm, MiW 22,3 µm; 51 PK, 1a\n\n*Sempervivum montanum* L. (1)\n18,1–28,3 µm, MiW 22,4 µm; 50 PK, 1a\n\n*Sempervivum pittonii* SCHOTT (1)\n20,9–31,2 µm, MiW 25,8 µm; 50 PK, 1a\n\n*Sempervivum schottii* BAKER (1)\n17,7–28,7 µm, MiW 24,1 µm; 50 PK, 1a\n\n*Sempervivum soboliferum* SIMS (2)\n26,3–36,3 µm, MiW 30,4 µm; 50 PK, Oa\n\n*Sempervivum tectorum* L. (2)\n19,8–28,3 µm, MiW 24,3 µm; 51 PK, 1a\n\n*Sempervivum wulfenii* HOPPE (1)\n17,7–28,0 µm, MiW 23,9 µm; 50 PK, 1a\n\nNon vidi: *Sempervivum grandiflorum* HAW., *S. allionii* NYM."
+          }
+        }
+      ],
+      "note": "PK rugulaat; sculptuurelementen vaak pas met olie-immersie zichtbaar. Valla op de intercolpia in typische, deels stralende rangschikking."
+    }
+  }
+}

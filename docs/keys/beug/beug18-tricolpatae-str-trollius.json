@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug18-tricolpatae-str-trollius",
+    "title": "18.2 *Trollius europaeus* (Tafel 46: 5–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK tricolpaat, prolaat, PForml overwegend omstreeks 1,4–1,5. Exine 1,0–1,5 µm dik, polair tot 2,0 µm. Endexine dikker dan het tectum, zeldener even dik (minstens 0,5 µm).",
+          "outcome": {
+            "text": "18.2 *Trollius europaeus*\n\nColumellae-laag duidelijk. Intercolpium-randen korrelig opgelost, colpi zonder extra equatoriale aperturen of onregelmatigheden. Valla lang, contrastarm, overwegend transversaal (ook schuin) gerangschikt, soms onduidelijk.\n\n*Trollius europaeus* L. (5)\n17,5–25,2 µm, MiW 21,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

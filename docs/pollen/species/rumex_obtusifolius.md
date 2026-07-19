@@ -1,6 +1,6 @@
 # *Rumex obtusifolius* (zuring)
 
-{{ pollen_gallery("rumex_obtusifolius") }}
+{{ gallery("rumex_obtusifolius") }}
 
 ## Kenmerken
 

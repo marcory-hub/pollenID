@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-betula",
+    "title": "31.10 *Betula* (Tafel 99: 13–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tectum en endexine scheiden aan vestibulum-basis; tectum daar verdikt.",
+          "outcome": {
+            "text": "31.10 *Betula*\n\nFijn scabraat; equatoriaal hoekig; polaire as 17,5–25,0 µm; P/E 0,69–0,86. Vestibula 6,5–10,5 µm breed, 1,7–2,9 µm hoog; tectum in vestibulum tot 2,0 µm verdikt. Poriën rond tot ovaal, 2,0–3,8 µm. Exine 1,1–1,6 µm. Aan vestibulum-basis scheiden ektexine (tectum) en endexine; endexine vernauwt vaak de binnendiameter.\n\nStruikvormige soorten (*B. nana*, *B. humilis*) iets kleiner dan boomsoorten (*B. pendula*, *B. pubescens*); vestibulum-breedte ca. 6,5–7,5 µm vs. 7,0–8,5 µm.\n\n*Betula humilis* SCHRANK (3)\n22,0–29,5 µm, MiW 25,1 µm; 50 PK, 0a, Ä\n\n*Betula nana* L. (4)\n21,8–27,0 µm, MiW 24,5 µm; 50 PK, 0a, Ä\n\n*Betula pendula* ROTH (3)\n25,5–31,8 µm, MiW 28,9 µm; 50 PK, 0a, Ä\n\n*Betula pubescens* EHRH. (3)\n28,8–33,0 µm, MiW 30,8 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

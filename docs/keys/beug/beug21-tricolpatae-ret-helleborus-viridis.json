@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-helleborus-viridis",
+    "title": "21.8 *Helleborus viridis*-type (Tafel 59: 17–20, Tafel 60: 1–2)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi max. (2,5)3–4 µm; perreticulaat; colpus-membranen dicht gesculpteerd; intercolpium-randen glad.",
+          "outcome": {
+            "text": "21.8 *Helleborus viridis*-type\n\nPForml 0,9–1,12. Exine (1,8)2,0–2,5 µm. Ook pericolpate PK. Vgl. *H. foetidus* (S. 296) en *H. niger* (S. 134).\n\n*Helleborus dumetorum* WALDST. & KIT. (2)\n34,3–40,5 µm, MiW 37,6 µm; 50 PK, 0a\n\n*Helleborus dumetorum* WALDST. & KIT. subsp. *atrorubens* MERXM. & PODL. (1)\n36,0–46,1 µm, MiW 40,4 µm; 50 PK, 1a\n\n*Helleborus multifidus* Vis. (2)\n32,0–42,8 µm, MiW 37,5 µm; 50 PK, 1a\n\n*Helleborus odorus* WALDST. & KIT. (2)\n31,0–39,2 µm, MiW 36,3 µm; 50 PK, 1a\n\n*Helleborus viridis* L. (2)\n30,5–40,5 µm, MiW 36,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

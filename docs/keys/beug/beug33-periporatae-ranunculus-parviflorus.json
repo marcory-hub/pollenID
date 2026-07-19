@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-ranunculus-parviflorus",
+    "title": "33.3.2 *Ranunculus parviflorus* (Tafel 107: 23–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "35–50 µm; platte papillen; microechini ca. 0,5 µm.",
+          "outcome": {
+            "text": "33.3.2 *Ranunculus parviflorus*\n\nPapillen plat, 2–3 µm breed; microechini ca. 0,5 µm. Columellae diameter 1 µm. Poriën ca. 7 µm, afstand ca. 12 µm. Exine 2–2,5 µm.\n\n*Ranunculus parviflorus* L. (2)\n35,0–50,8 µm, MiW 42,0 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

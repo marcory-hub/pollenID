@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-myriophyllum-verticillatum",
+    "title": "32.10 *Myriophyllum verticillatum* (Tafel 104: 17–18)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulusverdikking geleidelijk; poriën equatoriaal geplaatst.",
+          "outcome": {
+            "text": "32.10 *Myriophyllum verticillatum*\n\nPK psilaat; afgeplat; sphaeroïdisch tot zwak oblaat; P/E 0,73–0,94; polaire as 24,5–29,5 µm; meestal 4 poriën. Anulus 4,0–4,5 µm breed, ca. 2 µm dik; verdikking geleidelijk. Poriën meridionaal, meestal spleetvormig, 3,5–5,0 × 1,0–2,0 µm. Exine 1,2–1,8 µm.\n\n*Myriophyllum verticillatum* L. (3)\n24,5–34,5 µm, MiW 30,0 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-helianthemum-oelandicum",
+    "title": "19.6 *Helianthemum oelandicum*-type (Tafel 49: 2, 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK apiculaat, elliptisch of ruitvormig, prolaat tot sferoïdisch, PForml 1,21–1,63. Polarvelden klein (PFeldI 0,13–0,29). Exine 1,5–2,0 µm. Sculptuur zeer contrastarm; valla uitsluitend meridionaal; tectum tussen de valla niet of hoogstens spaarzaam geperforeerd.",
+          "outcome": {
+            "text": "19.6 *Helianthemum oelandicum*-type\n\nPoriën 4–6 µm (meridionaal gemeten). Endexine 0,5–1,0 µm. Columellae 0,5–1,0 µm dik, overwegend onder de valla.\n\n*Helianthemum canum* (L.) BAUMG. (5)\n37,3–53,3 µm, MiW 47,1 µm; 50 PK, Oa\n\n*Helianthemum oelandicum* (L.) DC. (2)\n38,6–52,8 µm, MiW 45,8 µm; 50 PK, Oa\n\n*Helianthemum oelandicum* (L.) DC. subsp. *alpestre* (JACQ.) BREISTR. (1)\n40,7–59,8 µm, MiW 49,8 µm; 55 PK, 10a\n\n*Helianthemum oelandicum* (L.) DC. subsp. *italicum* (L.) FONT QUER & ROTHM. (1)\n31,9–52,8 µm, MiW 42,6 µm; 50 PK, Oa\n\n*Helianthemum oelandicum* (L.) DC. subsp. *rupifragum* (A. KERN.) BREISTR. (1)\n38,6–52,8 µm, MiW 45,4 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

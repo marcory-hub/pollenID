@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-saxifraga-stellaris",
+    "title": "21.25 *Saxifraga stellaris*-type (Tafel 62: 12–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat, polair toegespitst; columellae niet herkenbaar; geen margo.",
+          "outcome": {
+            "text": "21.25 *Saxifraga stellaris*-type\n\nPForml 1,4–1,7. Exine (1,0)1,2–1,8 µm. Ook *S. groenlandica*; *S. foliolosa* tot *S. stellaris*.\n\n*Saxifraga stellaris* L. (4)\n14,2–18,8 µm, MiW 16,8 µm; 50 PK, 0a\n\n*Saxifraga nivalis* L. (2)\n16,8–23,3 µm, MiW 19,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

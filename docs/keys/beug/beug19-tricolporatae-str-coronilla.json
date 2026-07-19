@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-coronilla",
+    "title": "19.1 *Coronilla*-type (Tafel 47: 19–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "De PK van de 6 onderzochte Midden-Europese *Coronilla*-soorten incl. *Securigera* en *Hippocrepis* verschillen sterk in sculptuur. Polarvelden middelgroot tot groot. In equatoriaal aanzicht elliptisch, afgeronde poolgebieden. Exine omstreeks 1,0 µm dik, bij grote PK 1,2–1,5 µm. Angulaperturaat; colpi buiten het equatoriale gebied ingezonken en met costae. Poriën transversaal verlengd, meestal als «vlinderporiën».",
+      "choices": [
+        {
+          "label": "19.1 *Coronilla* s.l. (incl. *Securigera*, *Hippocrepis*).",
+          "outcome": {
+            "text": "Tabel 8 (hoofdkenmerken): *C. coronata* C3P3 rugulaat PForml 1,25–1,44 PFeldI 0,40–0,53; *Hippocrepis emerus* C3P(3) microreticulaat 0,91–1,12 / 0,42–0,57; *C. minima* C3P3 psilaat 1,21–1,52 / 0,37–0,45; *C. scorpioides* C3P3 psilaat 1,35–1,80 / 0,52–0,53; *C. vaginalis* C3P3 psilaat-scabraat 1,04–1,44 / 0,38–0,41; *Securigera varia* C3P3 rugulaat 1,02–1,24 / 0,46–0,53.\n\n*Coronilla coronata* L. (3)\n21,0–27,5 µm, MiW 25,3 µm; 50 PK, Oa\n\n*Coronilla minima* L. (2)\n18,0–26,3 µm, MiW 22,4 µm; 50 PK, Oa\n\n*Coronilla scorpioides* (L.) KOCH (2)\n17,5–24,3 µm, MiW 21,6 µm; 50 PK, 0a\n\n*Coronilla vaginalis* LAM. (3)\n17,8–25,5 µm, MiW 21,2 µm; 50 PK, Oa\n\n*Hippocrepis emerus* (L.) LASSEN (2)\n22,3–29,0 µm, MiW 26,1 µm; 55 PK, Oa\n\n*Securigera varia* (L.) LASSEN (3)\n27,5–35,0 µm, MiW 31,8 µm; 50 PK, Oa\n\nAansluitend psilaat-scabrate PK van *Hippocrepis comosa*:\n*Hippocrepis comosa* L. (3)\n23,3–29,3 µm, MiW 26,0 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

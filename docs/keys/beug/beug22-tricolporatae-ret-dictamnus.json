@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-dictamnus",
+    "title": "22.10 *Dictamnus albus* (Tafel 71: 6–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,0–1,5 µm; polar/subpolar ca. 1 µm; ruitvormig; spleetporie zonder margo.",
+          "outcome": {
+            "text": "22.10 *Dictamnus albus*\n\nPK ruitvormig, prolaat tot zwak sferoïdisch (PForml 1,29–1,45). Polarvelden klein (PFeldI ca. 0,16). Perreticulaat; brochi 1–1,5 µm, polar/subpolar kleiner (ca. 1,0 µm); aangeduid reticulaat-striaat mogelijk. Exine 2 µm; endexine aanzienlijk dikker dan tectum. Poriën spleetvormig, ca. 9 × 2 µm, randen vaak onregelmatig.\n\n*Dictamnus albus* L. (4)\n34,7–40,7 µm, MiW 36,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

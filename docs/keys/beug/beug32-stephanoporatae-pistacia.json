@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-pistacia",
+    "title": "32.12 *Pistacia* (Tafel 104: 19–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Sphaeroïdisch; perreticulaat; met columellae-laag.",
+          "outcome": {
+            "text": "32.12 *Pistacia*\n\nPK sphaeroïdisch; P/E 0,83–0,96; polaire as 25,5–29,5 µm; reticulaat tot microreticulaat; brochi 0,8–1,4(1,8) µm. Meestal 4 of 5 poriën (soms extra op polarvelden; 6–8 poriën → periporaat). Poriën onscherp, meridionaal ovaal tot spleetvormig. Exine ca. 1,5 µm met columellae-laag.\n\n*Pistacia lentiscus* L. (3)\n29,0–37,0 µm, MiW 32,7 µm; 50 PK, 0a, Ä\n\n*Pistacia terebinthus* L. (3)\n28,0–35,5 µm, MiW 31,7 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-echium",
+    "title": "22.20 *Echium* (Tafel 75: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Heteropolair; peervormig; 15–21 µm; contrastarm microreticulaat.",
+          "outcome": {
+            "text": "22.20 *Echium*\n\nPK sferoïdisch tot prolaat; equatoriaal aanzicht driehoekig-peervormig; heteropolair. PFeldI 0,4–0,5. Exine ca. 0,8–1,0 µm, microreticulaat (brochi 0,7–0,8(1,0) µm). Columellae in bovenaanzicht niet herkenbaar. Poriën 3–4 µm, naar de bredere pool verschoven.\n\n*Echium italicum* L. (2)\n15,4–17,5 µm, MiW 16,4 µm; 50 PK, 0a\n\n*Echium russicum* J.F. GMELIN (2)\n18,2–21,0 µm, MiW 19,4 µm; 50 PK, 0a\n\n*Echium vulgare* L. (3)\n14,8–20,0 µm, MiW 17,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

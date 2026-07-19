@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug02-sculptuurtype.json",
+    "key": "beug02-sculptuurtype",
     "title": "2. Sculptuurtype",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 13,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "Exine zonder sculptuur. Tectum, indien aanwezig, zonder perforaties of met perforaties (tectum perforatum).",
-          "id": {
-            "name": "psilaat"
+          "outcome": {
+            "text": "psilaat"
           }
         },
         {
@@ -45,8 +46,8 @@
       "choices": [
         {
           "label": "Oppervlak van het exine met ronde onderbrekingen.",
-          "id": {
-            "name": "foveolaat"
+          "outcome": {
+            "text": "foveolaat"
           }
         },
         {
@@ -61,14 +62,14 @@
       "choices": [
         {
           "label": "De langgerekte onderbrekingen liggen los van elkaar.",
-          "id": {
-            "name": "fossulaat"
+          "outcome": {
+            "text": "fossulaat"
           }
         },
         {
           "label": "De onderbrekingen sluiten aaneen tot een netwerk.",
-          "id": {
-            "name": "frustillaat of areolaat"
+          "outcome": {
+            "text": "frustillaat of areolaat"
           }
         }
       ]
@@ -93,8 +94,8 @@
       "choices": [
         {
           "label": "Diameter of lengte van de sculptuurelementen tot 1 µm (verzamelbegrip: omvat micro-echinaat, micro-gemmaat, micro-clavaat, micro-verrucaat, micro-baculaat en micro-reticulaat; in tectate of in intectate positie).",
-          "id": {
-            "name": "scabraat"
+          "outcome": {
+            "text": "scabraat"
           }
         },
         {
@@ -109,8 +110,8 @@
       "choices": [
         {
           "label": "Sculptuurelementen toegespitst (in tectate of in intectate positie).",
-          "id": {
-            "name": "echinaat"
+          "outcome": {
+            "text": "echinaat"
           }
         },
         {
@@ -139,14 +140,14 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "id": {
-            "name": "gemmaat"
+          "outcome": {
+            "text": "gemmaat"
           }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "id": {
-            "name": "verrucaat"
+          "outcome": {
+            "text": "verrucaat"
           }
         }
       ]
@@ -157,14 +158,14 @@
       "choices": [
         {
           "label": "Sculptuurelementen proximaal vernauwd.",
-          "id": {
-            "name": "clavaat"
+          "outcome": {
+            "text": "clavaat"
           }
         },
         {
           "label": "Sculptuurelementen proximaal niet vernauwd.",
-          "id": {
-            "name": "baculaat"
+          "outcome": {
+            "text": "baculaat"
           }
         }
       ]
@@ -189,14 +190,14 @@
       "choices": [
         {
           "label": "Netvormige sculpturering met gesloten brochi, perreticulaat (semitectaat) of suprareticulaat (tectaat).",
-          "id": {
-            "name": "reticulaat"
+          "outcome": {
+            "text": "reticulaat"
           }
         },
         {
           "label": "Sculpturering bestaat uit netvormig geplaatste bacula of clavae.",
-          "id": {
-            "name": "retipilaat"
+          "outcome": {
+            "text": "retipilaat"
           }
         }
       ]
@@ -207,14 +208,14 @@
       "choices": [
         {
           "label": "Sculptuurelementen in ± parallelle rangschikking, ten minste in bundels parallel.",
-          "id": {
-            "name": "striaat"
+          "outcome": {
+            "text": "striaat"
           }
         },
         {
           "label": "Sculptuurelementen onregelmatig (niet netvormig en niet parallel) gerangschikt.",
-          "id": {
-            "name": "rugulaat"
+          "outcome": {
+            "text": "rugulaat"
           }
         }
       ]

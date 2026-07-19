@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug05-dyade",
+    "title": "5. Dyadeae",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Enige vertegenwoordiger met dyaden in het onderzoeksgebied: *Scheuchzeria palustris* (Tafel 2: 8–9).",
+          "outcome": {
+            "text": "5.1 *Scheuchzeria palustris*\n\nPK inaperturaat en bolvormig. Brochi 1,0–2,5 µm groot, muri smal, vaak onderbroken, columellae niet altijd herkenbaar. Exine 1,2–1,5 µm dik, endexine dun.\n\n*Scheuchzeria palustris* L. (2)\n36,3–50,0 µm, MiW 44,4 µm; 51 D, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

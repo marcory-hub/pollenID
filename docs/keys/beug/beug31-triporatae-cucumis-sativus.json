@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-cucumis-sativus",
+    "title": "31.14 *Cucumis sativus* (Tafel 100: 1–2)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 8–10 µm met krachtige anulus/costae.",
+          "outcome": {
+            "text": "31.14 *Cucumis sativus*\n\nPK psilaat, oblaat tot zwak sphaeroïdisch; P/E ca. 0,7–0,9. Poriën 8–10 µm met brede costae (3–4 µm breed, max. 5–6 µm dik). Exine 1,5–2,0 µm; endexine ca. 1 µm (duidelijk dikker dan tectum).\n\n*Cucumis sativus* L. (2)\n48,0–67,0 µm, MiW 60,0 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

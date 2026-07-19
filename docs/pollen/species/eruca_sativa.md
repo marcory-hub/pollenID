@@ -1,6 +1,6 @@
 # *Eruca sativa* (Eruca)
 
-{{ pollen_gallery("eruca_sativa") }}
+{{ gallery("eruca_sativa") }}
 
 ## Kenmerken
 

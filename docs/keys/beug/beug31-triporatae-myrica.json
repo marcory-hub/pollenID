@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-myrica",
+    "title": "31.20 *Myrica gale* (Tafel 102: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porieregio zwak breed conisch; fasecontrast met ronde eenheden.",
+          "outcome": {
+            "text": "31.20 *Myrica gale*\n\nAfgeplat; P/E 0,72–0,83; polaire as 21,0–24,5 µm. Polair driehoekig met gebogen interporia en vlak-conische poriegebieden (9,5–12,0 × 3,3–4,0 µm). Endexine eindigt onder rand van conisch gebied ca. 3,0–5,0 µm vóór porierand. Poriën 2,0–2,7 µm. Exine 1,8 µm. Scabraat met dichte ronde elementen ca. 0,4 µm (Juglandaceae-type; fasecontrast).\n\n*Myrica gale* L. (5)\n28,5–33,5 µm, MiW 31,0 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

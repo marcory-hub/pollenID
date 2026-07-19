@@ -1,6 +1,6 @@
 # *Lonicera Caprifolium*
 
-{{ pollen_gallery("lonicera_caprifolium_caprifolium") }}
+{{ gallery("lonicera_caprifolium_caprifolium") }}
 
 ## Kenmerken
 

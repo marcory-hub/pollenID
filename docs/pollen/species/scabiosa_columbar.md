@@ -1,6 +1,6 @@
 # *Scabiosa columbar* (duifkruid)
 
-{{ pollen_gallery("scabiosa_columbar") }}
+{{ gallery("scabiosa_columbar") }}
 
 ## Kenmerken
 

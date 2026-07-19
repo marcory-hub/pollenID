@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "key": "beug08-monoporatae-panicum",
+    "title": "8.2.7 *Panicum*-type / het gierst-probleem (Tafel 8: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fasecontrastpatroon geveld: velden ± polygonale, meestal >1 µm; langwerpige elementen ontbreken grotendeels, evenzo afzonderlijke punten; velden relatief dicht en onveranderd tot aan de porie (Tafel 8: 1).",
+          "outcome": {
+            "text": "Sorghum-type\n\nHoofdvertegenwoordiger: *Sorghum halepense*. *Sorghum vulgare* (syn. *S. bicolor*) behoort deels tot het Sorghum-type en deels tot het *Avena*-type.\n\n*Sorghum halepense* (L.) PERS.\n39,5–48,3 µm, MiW 43,2 µm; porie 2,0–4,0 µm; annulus-breedte 2,0–2,7 µm; annulus-dikte 2,0–2,4 µm\n\n*Sorghum bicolor* (L.) MOENCH s.l.\n43,0–54,0 µm, MiW 47,2 µm; porie 2,0–4,7 µm; annulus-breedte 2,0–2,7 µm; annulus-dikte 2,0–2,7 µm"
+          }
+        },
+        {
+          "label": "Puntgroepen omvatten max. 5–6 punten; daarnaast kleinere puntgroepen; plaatselijk kunnen zoals bij het *Hordeum*-type alleen afzonderlijke punten aanwezig zijn. Punten overwegend iets groter en contrastrijker dan bij het *Triticum*-type.",
+          "outcome": {
+            "text": "8.2.7 *Panicum*-type\n\nMoeilijk te herkennen en van het *Triticum*-type niet licht te scheiden. Voor zekere identificatie van fossiele PK is studie van vergelijkingsmateriaal dringend vereist.\n\n*Panicum miliaceum* L.\n35,0–47,3 µm, MiW 41,0 µm; porie 2,4–4,7 µm; annulus-breedte 2,7–4,0 µm; annulus-dikte 2,7–3,3 µm\n\nVoorts (deels): *Triticum monococcum* p.p., *Triticum aegilopoides* p.p., *Hordeum* div. spec., *Agropyron*? , *Leymus arenarius*"
+          }
+        },
+        {
+          "label": "Elementen van het patroon alle of overwegend max. tot 1 µm groot; vele gestrekt; relatief grote grootteverschillen. *Setaria*-soorten.",
+          "outcome": {
+            "text": "*Setaria* → *Avena*-type / *Avena*-typeW\n\nAlle *Setaria*-soorten moeten tot het *Avena*-type respectievelijk *Avena*-typeW worden gesteld.\n\n*Setaria glauca* (L.) P.BEAUV. (1) p.p.\n40,0–54,0 µm, MiW 46,9 µm; 50 PK, 0a\n\n*Setaria italica* (L.) P.BEAUV. (1)\n27,5–36,5 µm, MiW 33,2 µm; 50 PK, 0a\n\n*Setaria pumila* (POIR.) SCHULT. (1) p.p.\n38,0–50,3 µm, MiW 44,1 µm; 50 PK, 0a\n\n*Setaria verticillata* (L.) P.BEAUV. s.l. (1)\n32,0–43,5 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Setaria viridis* (L.) P.BEAUV. (1)\n30,5–40,5 µm, MiW 34,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

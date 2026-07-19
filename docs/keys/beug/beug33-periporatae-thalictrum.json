@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-thalictrum",
+    "title": "33.25 *Thalictrum* (Tafel 119: 20–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Scabraat; 6–14 poriën 2,5–6 µm; endexine ≥ ektexine.",
+          "outcome": {
+            "text": "33.25 *Thalictrum*\n\nPK scabraat; sculptuurelementen vrij regelmatig, rond, ca. 0,5 µm. Exine ca. 1,5 µm; columellae dun, onregelmatig, soms zwak netvormig. Tectum relatief dik. Poriën 6–14, grootte 2,5–6,0 µm, ingezonken, rondachtig tot elliptisch, meestal onregelmatig begrensd; poriemembranen scabraat. Endexine even dik als ektexine of dikker.\n\nPoriën (3)4,0–6,0 µm bij *Th. alpinum*, *Th. minus*, *Th. aquilegiifolium* (meestal 6–9(10) poriën). Poriën 2,5–4,5 µm bij *Th. exaltatum* (meestal 10–12(14) poriën). [te verifiëren: geen matenregel voor *Th. exaltatum* in scan]\nBij *Th. flavum* en *Th. lucidum* (en sommige herkomsten van *Th. simplex*) sculptuurelementen tot ca. 0,8 µm. Vgl. *Caldesia parnassifolia* (S. 504) en *Sagina apetala* (S. 472).\n\n*Thalictrum alpinum* L. (2)\n17,5–24,5 µm, MiW 20,5 µm; 50 PK, 0a\n\n*Thalictrum aquilegiifolium* L. (2)\n19,0–24,5 µm, MiW 20,9 µm; 22 PK, 0a\n\n*Thalictrum morisonii* C.C. GMEL. (2)\n18,5–24,5 µm, MiW 22,5 µm; 50 PK, 0a\n\n*Thalictrum flavum* L. (3)\n15,0–19,0 µm, MiW 17,3 µm; 50 PK, 0a\n\n*Thalictrum foetidum* L. (1)\n18,5–23,3 µm, MiW 20,8 µm; 50 PK, 0a\n\n*Thalictrum lucidum* L. (2)\n18,3–24,3 µm, MiW 20,8 µm; 50 PK, 0a\n\n*Thalictrum minus* L. (2)\n21,5–26,0 µm, MiW 23,7 µm; 50 PK, 0a\n\n*Thalictrum simplex* L. (4)\n17,5–24,8 µm, MiW 21,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Allium cepa* (ui of tuinui)
 
-{{ pollen_gallery("allium_cepa") }}
+{{ gallery("allium_cepa") }}
 
 ## Kenmerken
 

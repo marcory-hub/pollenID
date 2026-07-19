@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-legousia",
+    "title": "32.11.2 *Legousia*-type (Tafel 105: 4–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microechini/scabraat ≤ ca. 0,5 µm; overwegend 4–6 poriën; 24–33 µm.",
+          "outcome": {
+            "text": "32.11.2 *Legousia*-type\n\nPK relatief klein (24–33 µm); sculptuurelementen tot ca. 0,5 µm, in optische snede niet of nauwelijks meetbaar; afstanden 1–2 µm. Overwegend 4–6 poriën.\n\n*Legousia hybrida* (L.) DELARBRE (2)\n24,5–32,0 µm, MiW 28,7 µm; 50 PK, 0a, Ä\n\n*Legousia speculum-veneris* (L.) CHAIX (2)\n27,8–33,0 µm, MiW 30,4 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

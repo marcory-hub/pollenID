@@ -1,8 +1,11 @@
 # Makkelijk herkenbaar (NL)
 
+To do
+- klein eitje: Echium vulgare (slangekruid)
+- zuurtje: 
 ### *Aesculus*
 
-{{ pollen_gallery("aesculus_hippocastanum") }}
+{{ gallery("aesculus_hippocastanum") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: rond tot licht prolaat
@@ -13,7 +16,7 @@
 
 ### *Parthenocissus*
 
-{{ pollen_gallery("parthenocissus_quinquefolia") }}
+{{ gallery("parthenocissus_quinquefolia") }}
 
 - Pollenklasse: tricolporaat (Beug 22); colpi met margo
 - Vorm: rond, optisch licht prolaat
@@ -24,7 +27,7 @@
 
 ### *Ailanthus*
 
-{{ pollen_gallery("ailanthus_altissima") }}
+{{ gallery("ailanthus_altissima") }}
 
 - Pollenklasse: tricolporaat, porus 5.5 µm
 - Vorm: driehoekig convex, sferoid
@@ -35,7 +38,7 @@
 
 ### Hydrangeaceae
 
-{{ pollen_gallery("hydrangea_macrophylla") }}
+{{ gallery("hydrangea_macrophylla") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: ca. rond/onregelmatig
@@ -46,7 +49,7 @@
 
 ### *Impatiens glandulifera*
 
-{{ pollen_gallery("impatiens_glandulifera") }}
+{{ gallery("impatiens_glandulifera") }}
 
 - Pollenklasse: [to be verified]
 - Vorm: [to be verified]
@@ -57,7 +60,7 @@
 
 ### *Impatiens parviflora*
 
-{{ pollen_gallery("impatiens_parviflora") }}
+{{ gallery("impatiens_parviflora") }}
 
 - Pollenklasse: stephanocolpaat, tetracolpaat (Beug 24, Impatiens)
 - Vorm: elliptisch tot licht rechthoekig, oblaat
@@ -68,7 +71,7 @@
 
 ### *Symphoricarpos*
 
-{{ pollen_gallery("symphoricarpos_albus") }}
+{{ gallery("symphoricarpos_albus") }}
 
 - Pollenklasse: tricolporaat (Beug 14)
 - Vorm: driehoekig tot rondachtig, sferoid tot optisch licht oblaat
@@ -79,7 +82,7 @@
 
 ### Buddlejaceae
 
-{{ pollen_gallery("buddleja_davidii") }}
+{{ gallery("buddleja_davidii") }}
 
 - Pollenklasse: stephanocolporaat, 4-(5)-colporaat (Beug 25)
 - Vorm: vierkant tot vijfhoekig, sferoid
@@ -90,7 +93,7 @@
 
 ### Elaeagnaceae
 
-{{ pollen_gallery("elaeagnus_angustifolia") }}
+{{ gallery("elaeagnus_angustifolia") }}
 
 - Pollenklasse: tricolporaat, angulaperturaat, brevicolpaat (Beug 14, Elaeagnus)
 - Vorm: rondachtig tot licht driehoekig convex, sferoid
@@ -101,7 +104,7 @@
 
 ### *Epilobium*
 
-{{ pollen_gallery("epilobium_angustifolium") }}
+{{ gallery("epilobium_angustifolium") }}
 
 - Pollenklasse: triporaat (Beug 31, Epilobium); porenradius ca. 10 µm
 - Vorm: driehoekig, sferoid tot licht oblaat
@@ -112,7 +115,7 @@
 
 ### *Cornus mas*
 
-{{ pollen_gallery("cornus_mas") }}
+{{ gallery("cornus_mas") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: rond tot driekantig, afhankelijk van de ligging

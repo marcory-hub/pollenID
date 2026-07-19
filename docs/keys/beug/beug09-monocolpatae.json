@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug09-monocolpatae.json",
+    "key": "beug09-monocolpatae",
     "title": "9. Monocolpatae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 37,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "PK in polair aanzicht ± cirkelvormig of loodrecht op de colpus in het equatoriale vlak iets uitgerekt, peroblaat. colpi spits toelopend. Sculptuur psilaat-scabraat of reticulaat (tabel 8: 7–10).",
-          "id": {
-            "name": "9.1 Asphodelus-groep (Blz... 98)"
+          "outcome": {
+            "text": "9.1 *Asphodelus*-groep (S. 98) — zie deelsleutel."
           }
         },
         {
@@ -31,8 +32,8 @@
       "choices": [
         {
           "label": "PK met lengteribben.",
-          "id": {
-            "name": "9.2 Welwitschia mirabilis (Blz... 98)"
+          "outcome": {
+            "text": "9.2 *Welwitschia mirabilis* (S. 98)\n\nPK perprolaat, spoelvormig, met ca. 20 lengteribben, gelijkend op het *Ephedra fragilis*-type (vgl. S. 64), maar met een brede colpus. Vermeld omdat bij *Ephedra* soms overeenkomstige monocolpate PK voorkomen.\n\n*Welwitschia mirabilis* HOOKER (1)\n45,4–70,2 µm, MiW 57,0 µm; 50 PK, 3a"
           }
         },
         {
@@ -61,14 +62,14 @@
       "choices": [
         {
           "label": "PK verrucaat tot gemmaat, d.w.z. zeer dicht met kleine vesiculae gesculpteerd, sferoïdisch, colpus meestal kort en breed.",
-          "id": {
-            "name": "9.3 Sciadopitys verticillata (Blz... 99)"
+          "outcome": {
+            "text": "9.3 *Sciadopitys verticillata* (S. 99)\n\n*Sciadopitys verticillata* (THUMB.) SIEB. & Zucc. (1)\n36,5–48,8 µm, MiW 41,3 µm; 50 PK, 1a"
           }
         },
         {
           "label": "PK verrucaat (geen vesiculae), rugulaat tot rugulaat-reticulaat, tussen de sculptuurelementen met of zonder brochi, PK langgerekt, colpus lang (tabel 9: 7–14).",
-          "id": {
-            "name": "Beug-monocolpatae-94-magnoliaceae"
+          "outcome": {
+            "text": "9.4 Magnoliaceae (S. 99) — zie deelsleutel."
           }
         }
       ]
@@ -97,8 +98,8 @@
         },
         {
           "label": "PK clavaat-baculaat.",
-          "id": {
-            "name": "9.5 Iris pumila-type (Blz... 99)"
+          "outcome": {
+            "text": "9.5 *Iris pumila*-type (S. 99)\n\n*Iris chamaeiris* BERTOL. (1)\n78,5–119,2 µm; 27 PK, 0a\n\n*Iris lutescens* (TIMM) DC. (2)\n47,3–64,8 µm, MiW 55,5 µm; 50 PK; 6a\n\n*Iris pumila* L. (2)\n95,0–127,5 µm, MiW 111,3 µm; 34 PK, 0a"
           }
         }
       ]
@@ -109,14 +110,14 @@
       "choices": [
         {
           "label": "PK prolaat of perprolaat, echini krachtig, 5–6 µm lang. Exine met een columella-laag.",
-          "id": {
-            "name": "9.6 Nuphar (Blz... 100)"
+          "outcome": {
+            "text": "9.6 *Nuphar* (S. 100)\n\nPK prolaat tot perprolaat, colpus lang en breed, intercolpium-randen ingekromd. exine zonder columellae-laag, tot 2 µm dik, dicht met echini bezet. Echini tot 12 µm lang.\n\n*Nuphar lutea* (L.) SIBTH. & SM. (3)\n50,8–68,8 µm, MiW 58,5 µm; 50 PK, 0a\n\n*Nuphar pumila* (TIMM) DC. (3)\n57,5–80,0 µm, MiW 68,2 µm; 50 PK, 0a\n\n*Nuphar spenneriana* GAUDIN. (3)\n49,0–62,5 µm, MiW 55,4 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK sferoïdisch, echini 3–4 µm lang, columellae aanwezig.",
-          "id": {
-            "name": "9.7 Stratiotes aloides (Blz... 100)"
+          "outcome": {
+            "text": "9.7 *Stratiotes aloides* (S. 100)\n\nPK sferoïdisch of iets langgerekt. Colpus meestal moeilijk herkenbaar (PK deformeren en scheuren licht). Exine 1,8–2,0 µm dik, tectum dunner dan endexine. Columellae-laag aanwezig. Echini 2–4 µm lang, basaal ca. 1 µm dik.\n\n*Stratiotes aloides* L. (3)\n48,0–72,3 µm, MiW 63,8 µm; 43 PK, 0a"
           }
         }
       ]
@@ -169,14 +170,14 @@
       "choices": [
         {
           "label": "Margo smal (3–4 µm), PK relatief smal, ÄFormI 1,40–2,07.",
-          "id": {
-            "name": "9.8 Pancratium (Blz... 100)"
+          "outcome": {
+            "text": "9.8 *Pancratium* (S. 100)\n\nÄForml 1,40–2,07, Enden de PK vaak apiculat zugespitzt. Das Reticulum is außer an de Enden de PK en in de Margo heterobrochat. Große Brochi (3)4-7 µm groot, kleine Brochi 1-3 µm. 3-4 µm grote Brochi zijn alleen spärlich vertreten. Kleine Brochi zijn minder talrijk als bij Anthericum. Die Muri zijn smal (0,8–1,0 µm), de columellae 0,8 µm dik.\n\n*Pancratium illyricum* L. (1)\n59,0–79,5 µm, MiW 68,8 µm; 50 PK, 0a\n\n*Pancratium maritimum* L. (1)\n67,5–86,8 µm, MiW 75,2 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Margo breed (8–12 µm), PK relatief breed, ÄFormI meestal 1,00–1,55 (tabel 8: 15).",
-          "id": {
-            "name": "9.9 Anthericum (Blz... 100)"
+          "outcome": {
+            "text": "9.9 *Anthericum* (S. 100)\n\nÄForml 1,00–1,49, zelden groter. Das Reticulum is außer an de Enden de PK en op de Margo heteroborchat en besteht uit tot zu 3-6 µm grote Brochi (vergl. Anmerkung boven A. ramosoum unten) en uit kleine Brochi (ca. 1-2 µm). Die kleine Brochi ziehen zich an de Seiten of zumindest an einigen Seiten de grote Brochi hin, wodurch een charakteristischer Netztyp entsteht (Tafel 8: 15).\n\n*Anthericum liliago* L. (5)\n63,4–103,7 µm, MiW 77,1 µm; 50 PK, 0a\n\n*Anthericum ramosum* L. (3)\n45,7–65,2 µm, MiW 56,3 µm; 50 PK, 0a"
           }
         }
       ]
@@ -187,8 +188,8 @@
       "choices": [
         {
           "label": "muri van smalle segmenten opgebouwd (tabel 8: 17). lumina van de brochi zonder sculptuurelementen. Margo aanwezig.",
-          "id": {
-            "name": "9.10 Lilium (Blz... 101)"
+          "outcome": {
+            "text": "9.10 *Lilium* (S. 101)\n\n*Lilium bulbiferum* L. (2)\n83,0–101,8 µm, MiW 92,6 µm; 50 PK, 0a\n\n*Lilium carniolicum* BERNH. (1)\n68,0–92,2 µm, MiW 80,1 µm; 50 PK, 0a\n\n*Lilium martagon* L. (2)\n73,3–95,0 µm, MiW 84,0 µm; 50 PK, 0a"
           }
         },
         {
@@ -203,8 +204,8 @@
       "choices": [
         {
           "label": "muri microechinaat (tabel 8: 13–14).",
-          "id": {
-            "name": "9.11 Paradisia liliastrum (Blz... 101)"
+          "outcome": {
+            "text": "9.11 *Paradisia liliastrum* (S. 101)\n\n*Paradisia liliastrum* (L.) BERTTOL. (4)\n75,3–100,8 µm, MiW 91,0 µm; 50 PK, 0a"
           }
         },
         {
@@ -219,14 +220,14 @@
       "choices": [
         {
           "label": "Aan de einden van de PK bevindt zich elk een duidelijk afgezette zone met een fijnmazig reticulum (tabel 8: 16).",
-          "id": {
-            "name": "9.12 Hemerocallis (Blz... 101)"
+          "outcome": {
+            "text": "9.12 *Hemerocallis* (S. 101)\n\nÄFormI 1,42–2,06. PK homobrochat, Brochi 3-15 µm groot, gelegentlich met unterbrochenen Muri. Kleine Brochi (tot ca. 4 µm) treten alleen vereinzelt tussen de grote op. Die Muri zijn 1-2 µm breed en meestal duplicolumellat. In de Lumina de Brochi befinden zich tot 1 µm grote scabrate Skulpturelemente. An de Enden de PK gibt het je einen duidelijk begrenzten, feinreticulaten Bereich met alleen ca.\n\n*Hemerocallis liliosphodelus* L. (1)\n73,1–108,4 µm, MiW 91,4 µm; 50 PK, 0a\n\n*Hemerocallis fulva* (L.) L. (2)\n88,8–114,8 µm, MiW 103,0 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK zonder zone met een fijnmazig reticulum aan de einden. (tabel 10: 1–2).",
-          "id": {
-            "name": "9.13 Iris germanica-type (Blz... 102)"
+          "outcome": {
+            "text": "9.13 *Iris germanica*-type (S. 102)\n\n*Iris aphylla* L. (2)\n87,5–131,8 µm, MiW 100,5 µm; 47 PK, 0a\n\n*Iris arenaria* WALDST. & KIT. (2)\n62,0–80,3 µm, MiW 69,7 µm; 50 PK, 0a\n\n*Iris germanica* L. (2)\n95,3–137,0 µm, MiW 114,9 µm; 50 PK, 0a Iris pallida LAM. (1)\n\n*Iris variegata* L. (2)\n74,5–120,0 µm, MiW 90,7 µm; 50 PK, 0a"
           }
         }
       ]
@@ -237,8 +238,8 @@
       "choices": [
         {
           "label": "Colpus langer als de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (tabel 10: 3). Reticulum aan de einden van de PK en langs de colpus fijnmazig, overigens heterobrochaat met grote brochi tot 3 µm.",
-          "id": {
-            "name": "Beug-monocolpatae-914-muscari"
+          "outcome": {
+            "text": "9.14 *Muscari* (S. 102) — zie deelsleutel."
           }
         },
         {
@@ -253,8 +254,8 @@
       "choices": [
         {
           "label": "muri duplicolumellaat, indien uit segmenten samengesteld, vergelijk *Lloydia* (Blz... 104).",
-          "id": {
-            "name": "9.15 Polygonatum verticillatum (Blz... 102)"
+          "outcome": {
+            "text": "9.15 *Polygonatum verticillatum* (S. 102)\n\n*Muscari tenuiflorum* TAUSCH (2)\n45,0–57,8 µm, MiW 52,3 µm; 50 PK, 0a\n\n*Polygonatum verticillatum* (L.) ALL. (3)\n40,5–54,8 µm, MiW 47,0 µm; 50 PK, 0a"
           }
         },
         {
@@ -287,8 +288,8 @@
         },
         {
           "label": "brochi tot 1,5(2,0) µm groot.",
-          "id": {
-            "name": "9.16 Asparagus acutifolius (Blz... 103)"
+          "outcome": {
+            "text": "9.16 *Asparagus acutifolius* (S. 103)\n\nPK heterobrochaat, soms onduidelijk. Grote brochi tot 3 µm, kleine in gering aantal, 1,0–1,5 µm. Kleinmazige margo ca. 5 µm breed. Exine ca. 1,3 µm dik, columellae moeilijk herkenbaar.\n\n*Asparagus acutifolius* L. (1)\n22,0–38,5 µm, MiW 29,3 µm; 50 PK, 0a"
           }
         }
       ]
@@ -299,8 +300,8 @@
       "choices": [
         {
           "label": "PK langgerekt, meest smal. De grote brochi (1,5–4,0 µm) bevinden zich in relatief geringer aantal overwegend op de proximale zijde van de PK, omgeven door vele kleine brochi (tabel 10:4).",
-          "id": {
-            "name": "9.17 Ornithogalum umbellatum-type (Blz... 103)"
+          "outcome": {
+            "text": "\n\n*Ornithogalum umbellatum* L. (2)\n58,8–85,0 µm, MiW 70,2 µm; 50 PK, 0a\n\n*Scilla autumnalis* L. (2)\n43,5–64,5 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Scilla bifolia* L. (2)\n41,3–56,8 µm, MiW 48,6 µm; 50 PK, 0a\n\n*Scilla verna* HUDS. (1)\n49,0–63,4 µm, MiW 56,5 µm; 50 PK, 0a"
           }
         },
         {
@@ -315,14 +316,14 @@
       "choices": [
         {
           "label": "PK breed ovaal, boven 65 en tot 97 µm groot; de kleine brochi liggen enkel tussen de grote brochi.",
-          "id": {
-            "name": "9.18 Erythronium dens-canis (Blz... 104)"
+          "outcome": {
+            "text": "9.18 *Erythronium dens-canis* (S. 104)\n\n*Erythronium dens-canis* L. (3)\n67,0–96,8 µm, MiW 84,2 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK smaller, kleiner dan 65 µm.",
-          "id": {
-            "name": "9.19 Fritillaria (Blz... 104)"
+          "outcome": {
+            "text": "9.19 *Fritillaria* (S. 104)\n\n*Fritillaria burnati* PLANCH. (1)\n45,0–63,4 µm, MiW 53,5 µm; 50 PK, 0a\n\n*Fritillaria meleagris* L. (3)\n51,0–62,5 µm, MiW 56,6 µm; 50 PK, 0a\n\n*Fritillaria tenella* BIEB. (1)\n41,0–59,0 µm, MiW 48,5 µm; 50 PK, 0a"
           }
         }
       ]
@@ -347,8 +348,8 @@
       "choices": [
         {
           "label": "De muri bestaan uit meestal schijfvormige segmenten.",
-          "id": {
-            "name": "9.20 Lloydia serotina (Blz... 104)"
+          "outcome": {
+            "text": "9.20 *Lloydia serotina* (S. 104)\n\n*Brochi bis* 2-4 (5)\nµm groß, PK gelegentlich schwach angedeutet heterobrochat. Die ca. 1,0 µm breiten Muri bestehen aus ± untereinander verbundenen, in Aufsicht segmentartigen und/oder polygonalen Elementen. Brochi vielfach offen, denn die Muri bestehen oft aus kurzen Stücken, die ihrerseits aus schmalen Segmenten zusammengesetzt sind. Entlang des Colpus und im Bereich der Enden der PK sind die Brochi kleiner als auf der proximalen Seite. Exine 1,8–2,0 µm dick, Columellae kurz, schwer erkennbar. Offenbar stehen die Segmente der Muri auf je 2 Columellae.\n\n*Lloydia serotina* (L.) RCHB. (2)\n43,8–64,1 µm, MiW 57,8 µm; 40 PK, 6a"
           }
         },
         {
@@ -363,8 +364,8 @@
       "choices": [
         {
           "label": "PK 50–100 µm groot, breed ovaal, zonder margo.",
-          "id": {
-            "name": "9.21 Iris pseudacorus-type (Blz... 104)"
+          "outcome": {
+            "text": "9.21 *Iris pseudacorus*-type (S. 104)\n\n*Iris pseudacorus* L. (2)\n84,5–110,3 µm, MiW 96,6 µm; 50 PK, 0a Brochi 1,0–2,5 µm Iris sibirica L. (2) 59,3–90,0 µm, MiW 74,6 µm; 50 PK, 0a Brochi 1-4 µm Iris foetidissima L. (1) 59,0–78,5 µm, MiW 70,8 µm; 50 PK, 0a Brochi 1-3 µm Iris graminea L. (2) 50,8–68,3 µm, MiW 61,3 µm; 50 PK, 6a Brochi 1,0–1,5(2,0) µm\n\n*Iris spuria* L. (3)\n58,8–77,3 µm, MiW 66,9 µm; 50 PK, 0a Brochi 1,0–2,5 µm"
           }
         },
         {
@@ -379,15 +380,14 @@
       "choices": [
         {
           "label": "Margo ca. 10 µm breed, met tot 1 µm grote brochi.",
-          "id": {
-            "name": "9.22 Butomus umbellatus (Blz... 106)",
-            "pollen_key": "butomus_umbellatus"
+          "outcome": {
+            "text": "9.22 *Butomus umbellatus* (S. 106)\n\nReticulum homobrochat, Brochi proximal 1,5–3,0 µm groot, Muri 0,6 µm breed, columellae gut sichtbar, ihr Durchmesser entspricht ongeveer de Breite de Muri. PK met Margo, Margo tot ongeveer 10 µm breed en met ca. 1 µm grote Brochi. exine ca. 1,6 µm dik.\n\n*Butomus umbellatus* L. (2)\n29,3–37,0 µm, MiW 33,3 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Margo nauwelijks aangeduid, brochi langs de colpus-randen iets kleiner dan in het proximale deel.",
-          "id": {
-            "name": "9.23 Veratrum (Blz... 106)"
+          "outcome": {
+            "text": "9.23 *Veratrum* (S. 106)\n\n*Veratrum album* L. (2)\n39,8–50,5 µm, MiW 44,2 µm; 50 PK, 0a"
           }
         }
       ]
@@ -398,14 +398,14 @@
       "choices": [
         {
           "label": "muri zo breed als de diameter van de lumina (kan op een tectum perforatum lijken).",
-          "id": {
-            "name": "9.24 Gagea-type (Blz... 106)"
+          "outcome": {
+            "text": "9.24 *Gagea*-type (S. 106)\n\n*Gagea bohemica* (ZAUSCH) SCHULT. & SCHULT. F. (2)\n49,53–67,0 µm, MiW 56,2 µm; 52 PK, 0a\n\n*Gagea fragifera* (VILL.) EHR. BAYER & G. LOPEZ. (1)\n56,2–85,3 µm, MiW 68,1 µm; 50 PK, 1a\n\n*Gagea lutea* (L.) KER GAWL. (2)\n51,5–74,2 µm, MiW 61,9 µm; 50 PK, 0a\n\n*Gagea minima* (L.) KER GAWL. (2)\n41,4–56,2 µm, MiW 47,0 µm; 50 PK, 0a\n\n*Gagea pratensis* (PERS.) DUMORT (1)\n53,3–78,8 µm, MiW 63,3 µm; 50 PK, 8a\n\n*Veratrum nigrum* L. (1)\n30,6–41,8 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Gagea pusilla* (SCHMIDT) ROEM. & SCHULT. (1)\n41,8–60,5 µm, MiW 49,7 µm; 50 PK, 0a Gagea spathacea (HAYNE) SALISB. (2) 55,8–88,6 µm, MiW 68,3 µm; 50 PK, 0a Gagea villosa (M. BIEB.) SWEET (2) 58,8–71,8 µm, MiW 68,0 µm; 50 PK, 6a Tulipa australis LINK (1)"
           }
         },
         {
           "label": "muri smaller dan de diameter van de lumina.",
-          "id": {
-            "name": "9.25 Narcissus poeticus-type (Blz... 106)"
+          "outcome": {
+            "text": "9.25 *Narcissus poeticus*-type (S. 106)\n\n*Narcissus poeticus* L. (3)\n51,3–62,8 µm, MiW 55,5 µm; 50 PK, 0a\n\n*Sternbergia colchiciflora* WALDST. & KIT. (1)\n41,8–61,9 µm, MiW 51,8 µm; 50 PK, 0a\n\n*Sternbergia lutea* (L.) KER-GAWLER (2)\n63,5–83,5 µm, MiW 74,7 µm; 50 PK, 0a"
           }
         }
       ]
@@ -416,8 +416,8 @@
       "choices": [
         {
           "label": "PK psilaat, om 17–23 µm groot (tabel 9: 15–18).",
-          "id": {
-            "name": "9.26 Acorus calamus (Blz... 107)"
+          "outcome": {
+            "text": "9.26 *Acorus calamus* (S. 107)\n\nPK psilaat, langer dan breed, pollenvormindex 1,09–1,39. Colpus lang, 2–5 µm breed; colpusmembraan vaak korrelig bekleed; intercolpium-randen onregelmatig. Exine 1,7–1,8 µm, endexine ca. 1,0 µm dik. Tectum dun, columellae niet herkenbaar. (Tafel 9: 15–18)\n\n*Acorus calamus* L. (3)\n17,3–22,5 µm, MiW 19,9 µm; 50 PK, 0a"
           }
         },
         {
@@ -432,8 +432,8 @@
       "choices": [
         {
           "label": "PK met tectum perforatum.",
-          "id": {
-            "name": "9.27 Gladiolus-type (Blz... 107)"
+          "outcome": {
+            "text": "9.27 *Gladiolus*-type (S. 107)\n\n*Gladiolus communis* L. (2)\n66,8–90,4 µm, MiW 80,8 µm; 50 PK, 0a Gladiolus illyricus W.D.J. KOCH (1) 53,3–72,7 µm, MiW 63,9 µm; 50 PK, 0a\n\n*Gladiolus imbricatus* L. (2)\n65,0–82,5 µm, MiW 72,5 µm; 50 PK, 0a\n\n*Gladiolus paluster* GAUDIN (2)\n62,5–86,8 µm, MiW 75,2 µm; 50 PK, 0a\n\n*Gladiolus segetum* KER-GAWLER (1)\n53,6–92,9 µm, MiW 69,9 µm; 50 PK, 0a\n\n*Romulea columnae* SEBASTIANI & MAURI (2)\n44,3–68,0 µm, MiW 53,5 µm; 50 PK, 0a\n\n*Romulea bulbocodium* (L.) SEBASTIANI. & MAURI (1)\n59,3–77,0 µm, MiW 65,3 µm; 53 PK, 0a"
           }
         },
         {
@@ -448,8 +448,8 @@
       "choices": [
         {
           "label": "PK gebogen (tabel 10: 6–9), met verdikte einden.",
-          "id": {
-            "name": "9.28 Sisyrinchium bermudiana (Blz... 107)"
+          "outcome": {
+            "text": "9.28 *Sisyrinchium bermudiana* (S. 107)\n\nPK perprolaat; in polair aanzicht zwak haltervormig (Tafel 10: 8–9), in equatoriaal aanzicht gebogen (Tafel 10: 6–7). Colpus op de convexe zijde, lang en smal (ca. 2 µm), met gladde intercolpium-randen. Exine psilaat, tot 2 µm; endexine tot 1 µm dik. Columellae dun, dicht geplaatst.\n\n*Sisyrinchium bermudiana* L. s.l. (2)\n41,8–52,5 µm, MiW 47,3 µm; 50 PK, 0a"
           }
         },
         {
@@ -464,8 +464,8 @@
       "choices": [
         {
           "label": "Einden van de PK stomp afgerond, intercolpium-randen meestal sterk ingekrompen (fig. 18a–c). De PK klappen vaak tweedelig open. PK psilaat of zwak microreticulaat, tot 38 µm groot, Exine ca. 1 µm dik.",
-          "id": {
-            "name": "9.29 Leucojum-type (Blz... 108)"
+          "outcome": {
+            "text": "9.29 *Leucojum*-type (S. 108)\n\n*Leucojum aestivum* L. (2)\n27,4–35,6 µm, MiW 32,2 µm; 50 PK, 0a Leucojum vernum L. (3) 37,0–42,8 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Galanthus nivalis* L. (3)\n25,8–32,5 µm, MiW 30,2 µm; 50 PK, 0a"
           }
         },
         {
@@ -480,8 +480,8 @@
       "choices": [
         {
           "label": "Colpus langer dan de PK, d.w.z. de colpus reikt met zijn einden tot aan de proximale zijde van de PK (fig. 18d, tabel 10: 10).",
-          "id": {
-            "name": "9.30 Allium vineale-type (Blz... 108)"
+          "outcome": {
+            "text": "9.30 *Allium vineale*-type (S. 108)\n\nPK psilaat; proximale zijde vlak, distale convex. Colpus-einden reiken 8–9 µm over op de proximale zijde (Tafel 10: 10; Afb. 18d). Exine 1,2–1,5 µm dik; columellae dun en dicht.\n\n*Allium ampeloprasum* L. (1)\n29,9–34,6 µm, MiW 32,4 µm; 50 PK, 0a\n\n*Allium porrum* L. (2)\n30,2–36,4 µm, MiW 32,8 µm; 50 PK, 0a\n\n*Allium scorodoprasum* L. s.l. (3)\n30,8–36,8 µm, MiW 33,8 µm; 50 PK, 0a\n\n*Allium scorodoprasum* L. subsp. *rotundum* (L.) STEARN (2)\n31,3–38,8 µm, MiW 35,4 µm; 53 PK, 0a\n\n*Allium sphaerocephalon* L. (2)\n30,2–38,2 µm, MiW 34,3 µm; 50 PK, 0a\n\n*Allium vineale* L. (3)\n30,5–41,3 µm, MiW 35,2 µm; 50 PK, 0a\n\nNon vidi: *Allium sativum* L."
           }
         },
         {
@@ -510,8 +510,8 @@
       "choices": [
         {
           "label": "PK 70–85 µm groot.",
-          "id": {
-            "name": "9.31 Iris humilis (Blz... 108)"
+          "outcome": {
+            "text": "9.31 *Iris humilis* (S. 108)\n\nPK in polair aanzicht breed ovaal, ÄFormI 1,07–1,38. Microbrochi vaak moeilijk herkenbaar (tectum zeer dun). Exine ca. 1,5 µm dik, columellae duidelijk herkenbaar. Andere *Iris*-pollentypen: S. 99, 102 en 104.\n\n*Iris humilis* M.B. (2)\n70,0–84,5 µm, MiW 77,8 µm; 50 PK, 0a"
           }
         },
         {
@@ -526,8 +526,8 @@
       "choices": [
         {
           "label": "PK microreticulaat-rugulaat.",
-          "id": {
-            "name": "9.32 Majanthemum-type (Blz... 108)"
+          "outcome": {
+            "text": "9.32 *Majanthemum*-type (S. 108)\n\n*Majanthemum bifolium* (L.) F.W. SCHMIDT (3)\n36,0–46,8 µm, MiW 40,9 µm; 50 PK, 0a\n\n*Paris quadrifolia* L. (4)\n49,5–62,0 µm, MiW 55,4 µm; 60 PK, 0a"
           }
         },
         {
@@ -542,8 +542,8 @@
       "choices": [
         {
           "label": "muri niet breder dan de diameter van de lumina (kan op een tectum perforatum lijken).",
-          "id": {
-            "name": "9.33 Asparagus officinalis-type (Blz... 109)"
+          "outcome": {
+            "text": "9.33 *Asparagus officinalis*-type (S. 109)\n\nBei Asparagus officinalis besitzen de Brochi breite Muri en kleine Lumina, ähnlich einem tectum perforatum. Lumina ca. 0,5–0,8 µm groot, Muri meestal 0,8–1,0 µm breed. Diese sculptuur is boven de ganze exine gleichförmig. exine ca. 1,2 µm dik, columellae dun en meestal schlecht herkenbaar. Der typische Aufbau de exine bzw. des Tectums variiert.\n\n*Asparagus officinalis* L. (1)\n26,3–36,8 µm, MiW 31,1 µm; 50 PK, 0a\n\n*Asparagus tenuifolius* LMK. (2)\n27,0–36,4 µm, MiW 32,1 µm; 50 PK, 0a"
           }
         },
         {
@@ -558,14 +558,14 @@
       "choices": [
         {
           "label": "brochi op de proximale zijde van de PK groter dan in een brede strook op de colpus-randen (margo). Wanneer op de proximale zijde alleen met verspreide lumina of perforaties, vergelijk *Polygonatum odoratum*-type (Blz... 110).",
-          "id": {
-            "name": "9.34 Narthecium ossifragum (Blz... 109)"
+          "outcome": {
+            "text": "9.34 *Narthecium ossifragum* (S. 109)\n\nPK in het Umriẞ meestal elliptisch, microreticulaat. Brochi op de proximalen Seite 1 µm, vereinzelt etwas groter, op de distalen Seite entlang het colpus meestal <1 µm. exine tot 1 µm dik, columellae niet herkenbaar. Narthecium ossifragum (L.) HUDS. (4)\n\n*Allium narcissiflorum* VILL. (2)\n29,5–36,4 µm, MiW 33,3 µm; 50 PK, 0a"
           }
         },
         {
           "label": "brochi langs de colpi niet kleiner dan op de proximale zijde.",
-          "id": {
-            "name": "9.35 Convallaria-type (Blz... 109)"
+          "outcome": {
+            "text": "9.35 *Convallaria*-type (S. 109)\n\n*Convallaria majalis* L. (3)\n37,0–47,5 µm, MiW 42,0 µm; 50 PK, 0a\n\n*Streptopus amplexifolius* (L.) DC. (2)\n45,0–64,3 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Narcissus incomparabilis* L. (1)\n47,5–59,4 µm, MiW 53,6 µm; 50 PK, 0a\n\n*Narcissus pseudonarcissus* MILL. (2)\n48,5–60,0 µm, MiW 54,0 µm; 50 PK, 0a"
           }
         }
       ]
@@ -576,8 +576,8 @@
       "choices": [
         {
           "label": "Colpus vaak vanuit een distale positie iets zijdelings verschoven, colpus-einden vaak verbreed, overigens smal (fig. 18e–g).",
-          "id": {
-            "name": "9.36 Allium ursinum-type (Blz... 110)"
+          "outcome": {
+            "text": "9.36 *Allium ursinum*-type (S. 110)\n\nPK tectat, psilaat, zelden zwak scabraat. Proximale Seite gerade, distale Seite konvex. exine 1,6 µm dik, columellae meestal gut sichtbar, vaak proximal deutlicher als distal. Gelegentlich vereinzelt Microbrochi of Micro-Endobrochi of Perforationen aanwezig zu sein. colpus vaak de distalen Seite etwas verschoben. colpus-Enden met een kleine Erweiterung.\n\n*Allium cepa* L. (1)\n27,4–35,6 µm, MiW 32,8 µm; 50 PK, 0a Allium fistulosum L. (1) 31,0–41,4 µm, MiW 35,2 µm; 50 PK, 0a Allium flavum L. (1) 34,2–40,7 µm, MiW 37,6 µm; 50 PK, 0a Allium globosum RED. (2) 31,0–35,6 µm, MiW 34,7 µm; 50 PK, 0a Allium moschatum L. (1) 22,0–33,1 µm, MiW 29,9 µm; 50 PK, 0a Non vidi: Allium sativum L. Allium ochroleucum WALDST. & KIT. (1) 30,6–40,0 µm, MiW 36,9 µm; 50 PK, 0a Allium oleraceum L. (3) 38,3–49,5 µm, MiW 44,1 µm; 50 PK, 0a Allium schoenoprasum L. (3) 30,3–37,3 µm, MiW 34,1 µm; 50 PK, 0a Allium senescens L. (3) 35,0–43,0 µm, MiW 39,8. µm; 50 PK, 0a Allium strictum SCHRAD. (2) 44,0–55,8 µm, MiW 49,7 µm; 50 PK, 0a Allium suaveolens JACQ. (3) 29,8–36,8 µm, MiW 32,9 µm; 50 PK, 2a Allium triquetrum L. (1) 32,0–38,2 µm, MiW 35,6 µm; 45 PK, 1a Allium ursinum L. (2) 34,2–41,8 µm, MiW 35,5 µm; 50 PK, 0a Allium victoriale L. (2) 34,3–42,5 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Allium angulosum* L. (3)\n29,5–35,0 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Allium ascalonicum* L. (1)\n33,1–39,2 µm, MiW 34,9 µm; 50 PK, 0a\n\n*Allium carinatum* L. s.str. (2)\n39,3–46,0 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Allium carinatum* L. subsp. pulchellum BONNIER & LAYENS (1)\n35,6–42,5 µm, MiW 39,5 µm; 50 PK, 0a"
           }
         },
         {
@@ -592,14 +592,14 @@
       "choices": [
         {
           "label": "PK psilaat, 27–53 µm groot, columellae niet of slechts plaatselijk herkenbaar. Exine 1,2–1,8 µm dik, plaatselijk tot 2,0 µm (tabel 5: 5–11).",
-          "id": {
-            "name": "9.37 Ginkgo biloba (Blz... 110)"
+          "outcome": {
+            "text": "9.37 *Ginkgo biloba* (S. 110)\n\n*Ginkgo biloba* L. (2)\nrunde bis ovale PK spindelförmige PK 27,5–49,5 µm, MiW 36,1 µm; 53 PK, 0a 34,5–52,8 µm, MiW 44,4 µm; 52 PK, 0a"
           }
         },
         {
           "label": "PK psilaat of scabraat, tectum deels met enkele perforaties, Exine gelijkmatig met een columella-laag uitgerust.",
-          "id": {
-            "name": "9.38 Polygonatum odoratum-type (Blz... 110)"
+          "outcome": {
+            "text": "9.38 *Polygonatum odoratum*-type (S. 110)\n\n*Ruscus aculeatus* L. (2)\n35,6–49,7 µm, MiW 42,8 µm; 50 PK, 0a\n\n*Polygonatum multiflorum* (L.) ALL. (4)\n49,5–60,5 µm, MiW 53,8 µm; 50 PK, 0a\n\n*Polygonatum latfolium* DESF. (2)\n36,7–55,1 µm, MiW 49,5 µm; 50 PK, 0a\n\n*Polygonatum odoratum* (MILL.) DRUCE (4)\n52,5–71,3 µm, MiW 62,4 µm; 50 PK, 0a\n\n*Brasenia purpurea* CASP. (2)\n43,5–66,8 µm, MiW 56,4 µm; 50 PK, 0a"
           }
         }
       ]

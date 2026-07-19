@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae-scorzonera-laciniata",
+    "title": "29.8 *Scorzonera laciniata*-type (Tafel 95: 10–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polargebieden met (1)2–3(4) lacunae of zonder lacunae.",
+          "outcome": {
+            "text": "29.8 *Scorzonera laciniata*-type\n\n3 tweelokige porale + 6 equatoriale + 6 interaperturale lacunae; meestal wisselend aantal polaire lacunae. Polargebied vaak 6- of 4-hoekig; bij *S. laciniata* vaak 3 polaire lacunae. Ook 1–2 of 4 lacunae, of geen polaire lacunae (echinaat veld). *S. calcitrapifolia* VAHL bij *S. laciniata*.\n\n*Scorzonera laciniata* L. (2)\n44,5–54,8 µm, MiW 49,5 µm; 50 PK, 0a\n\n*Scorzonera purpurea* L. (3)\n46,8–59,3 µm, MiW 53,1 µm; 50 PK, Oa\n\n*Scorzonera villosa* SCOP. (2)\n47,5–55,0 µm, MiW 51,2 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

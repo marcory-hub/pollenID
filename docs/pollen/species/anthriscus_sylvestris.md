@@ -1,6 +1,6 @@
 # *Anthriscus sylvestris* (fluitenkruid)
 
-{{ pollen_gallery("anthriscus_sylvestris") }}
+{{ gallery("anthriscus_sylvestris") }}
 
 ## Kenmerken
 

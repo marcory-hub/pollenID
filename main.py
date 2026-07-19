@@ -115,7 +115,7 @@ def define_env(env) -> None:
         )
 
     @env.macro
-    def pollen_gallery(key: str) -> str:
+    def gallery(key: str) -> str:
         """Render all YAML `images` for taxon `key` in gallery layout."""
         entry = pollen_data.get(key) if isinstance(pollen_data, dict) else None
         if not isinstance(entry, dict):

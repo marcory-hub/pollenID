@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-engelhardia",
+    "title": "31.18 *Engelhardia* (Tafel 100: 9–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden/interporia met 5–7 µm indeukingen; PK 23–31 µm.",
+          "outcome": {
+            "text": "31.18 *Engelhardia*\n\nOblaat; P/E 0,76–0,90; polaire as 20–24 µm. Exine 1,5–1,8 µm; op polarvelden en interporia (soms alleen interporia) meestal 5–7 µm grote indeukingen (exine daar ca. 1,2 µm). Scabraat; poriën 2,3–3,0 µm. Endexine eindigt 2–3 µm vóór de poriën; endexine-vrij gebied zwak conisch.\n\n*Engelhardia spicata* BLUME (2)\n23,0–30,3 µm, MiW 26,9 µm; 50 PK, 0a, Ä\n\n*Engelhardia aceriflora* BLUME (2)\n24,0–29,5 µm, MiW 26,0 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

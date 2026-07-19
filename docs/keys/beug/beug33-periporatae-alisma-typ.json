@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-alisma-typ",
+    "title": "33.7.1 *Alisma*-Typ (Tafel 109: 5–11)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microechini ontbreken of zwak (fasecontrast).",
+          "outcome": {
+            "text": "33.7.1 *Alisma*-Typ\n\n*Alisma plantago-aquatica* L. (6)\n22,0–31,8 µm, MiW 27,4 µm; 52 PK, 0a\n\n*Alisma lanceolatum* WITH. (2)\n22,5–28,3 µm, MiW 26,4 µm; 50 PK, 0a\n\n*Alisma gramineum* LEJ. (1)\n28,0–37,0 µm, MiW 32,0 µm; 50 PK, 0a\n\n*Baldellia ranunculoides* (L.) PARL. (4)\n21,5–29,5 µm, MiW 24,2 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

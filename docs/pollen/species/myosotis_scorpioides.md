@@ -1,6 +1,6 @@
 # *Myosotis scorpioides* (vergeet-me-nietje)
 
-{{ pollen_gallery("myosotis_scorpioides") }}
+{{ gallery("myosotis_scorpioides") }}
 
 ## Kenmerken
 

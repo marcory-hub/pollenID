@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-saxifraga-hieraciifolia",
+    "title": "23.10 *Saxifraga hieraciifolia*",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polar meestal taps; endexine relatief dik; microreticulaat.",
+          "outcome": {
+            "text": "23.10 *Saxifraga hieraciifolia*\n\nPK sferoïdisch tot (per)prolaat (PForml 0,98–2,02). Polarvelden klein (PFeldI 0,10–0,12). Exine 1,2–1,8 µm. Brochi tot 1(1,2) µm; muri zo breed of bijna zo breed als lumina. Columellae ook in fasecontrast niet herkenbaar.\n\n*Saxifraga hieraciifolia* WALDST. & KIT. (2)\n21,8–32,0 µm, MiW 26,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

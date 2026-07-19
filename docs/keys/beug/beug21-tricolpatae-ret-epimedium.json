@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-epimedium",
+    "title": "21.15 *Epimedium alpinum* (Tafel 61: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK langgerekt met toegespitste polen, PForml 1,2–1,5; columellae in fasecontrast herkenbaar.",
+          "outcome": {
+            "text": "21.15 *Epimedium alpinum*\n\nExine 1,5–1,8 µm. Brochi ca. 0,5–1,1 µm.\n\n*Epimedium alpinum* L. (2)\n30,1–37,5 µm, MiW 32,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug04-tetradeae-drosera.json",
-    "title": "4.2 Drosera (Beug)",
+    "key": "beug04-tetradeae-drosera",
+    "title": "4.2 *Drosera*",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "Grote echinate elementen 1,5-2,5 (tot 4,0) µm lang, onderling 3-5 µm; kleine ca. 0,8 µm (afstand ca. 1 µm), zeer dun. Alle scherp en lang toegespitst; zelden enkele stompe gemengd. Exine 2,0-2,5 µm dik (tabel 2: 1-2).",
-          "id": {
-            "name": "4.2.1 Drosera rotundifolia-type. Drosera rotundifolia L. (4): 51,8-70"
+          "outcome": {
+            "text": "4.2.1 *Drosera rotundifolia*-type (Tafel 2: 1–2)\n\nGrote echini 1,5–2,5(4,0) µm lang, onderlinge afstand 3–5 µm. Kleine echini ca. 0,8 µm (afstand ca. 1 µm), zeer dun; alle scherp en lang toegespitst. Exine 2,0–2,5 µm dik.\n\n*Drosera rotundifolia* L. (4)\n51,8–70,5 µm, MiW 62,0 µm; 50 T, 0a\n\n*Drosera longifolia* HUDS. (4)\n61,0–81,3 µm, MiW 70,8 µm; 50 T, 0a"
           }
         },
         {
           "label": "Echini hoogstens 1,5 µm lang, stomp toegespitst, niet zelden baculum-achtig. Klavae staan vaak aan de rand van de individuele pollenkorrel. Sculptuurdimorfisme verder niet of slechts zeer zwak ontwikkeld. Exine ca. 1,5 µm dik.",
-          "id": {
-            "name": "4.2.2 Drosera intermedia. Drosera intermedia HAYNE (3): 47,3-69"
+          "outcome": {
+            "text": "4.2.2 *Drosera intermedia* (Tafel 2)\n\nEchini hoogstens 1,5 µm lang, stomp toegespitst, niet zelden baculum-achtig. Aan de rand van de EPK vaak ook clavae. Sculptuurdimorfisme verder niet of slechts zwak. Exine ca. 1,5 µm dik.\n\n*Drosera intermedia* HAYNE (3)\n47,3–69,5 µm, MiW 56,6 µm; 50 T, 0a"
           }
         }
       ]

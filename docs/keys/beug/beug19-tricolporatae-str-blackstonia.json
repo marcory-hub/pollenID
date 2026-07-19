@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-blackstonia",
+    "title": "19.8 *Blackstonia*-type (Tafel 50: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK in omtrek elliptisch, sferoïdisch tot zwak prolaat, PForml 1,06–1,48. Polarvelden klein (PFeldI 0,23–0,26). Sculptuur variabel: striaat tot rugulaat, ook plaatselijk striaat-microreticulaat; tectum met duidelijke perforaties.",
+          "outcome": {
+            "text": "19.8 *Blackstonia*-type\n\nExine (2,2)2,7–4,8 µm, endexine 1,0 µm. Columellae-laag dik. Poriën 3,5–4,8 µm. PK met langere parallelle valla horen bij het *Gentiana pneumonanthe*-type.\n\n*Blackstonia perfoliata* (L.) HUDS. (3)\n27,5–35,0 µm, MiW 31,1 µm; 50 PK, Oa\n\n*Cicendia filiformis* (L.) DELARBRE (2)\n25,5–35,3 µm, MiW 29,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Cynoglossum officinale* (Cynoglossum officinale)
 
-{{ pollen_gallery("cynoglossum_officinale") }}
+{{ gallery("cynoglossum_officinale") }}
 
 ## Kenmerken
 

@@ -1,6 +1,6 @@
 # *Aster Amellus* (bergaster, italiaanse aster)
 
-{{ pollen_gallery("aster_amellus") }}
+{{ gallery("aster_amellus") }}
 
 ## Kenmerken
 

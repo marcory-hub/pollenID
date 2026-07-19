@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae.json",
-    "title": "17. Periporatae (Beug)",
+    "key": "beug33-periporatae",
+    "title": "33. Periporatae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 31
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,494 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met 4–15 Poriën, die 1,2–1,9 µm breed zijn, ca. 2,0–3,5 µm uit elkaar liggen. PK 23–45 µm (tabel 34: 1–8).",
-          "id": {
-            "name": "17.1 Chenopodium (Blz. 210)"
+          "label": "PK verrucaat (evt. in fasecontrast) tot verrucaat-rugulaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK niet verrucaat gesculpteerd.",
+          "next": "3"
+        }
+      ],
+      "note": "Porieafstand: midden tot midden; interporium: rand tot rand. Porieaantal geteld/geschat, niet berekend. Polyporate baculate *Linum*-vormen niet opgenomen."
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Grote verrucae; weinig poriën 6–12 µm met brede anuli (Tafel 106: 1–3).",
+          "outcome": {
+            "text": "33.1 *Fumaria* (S. 456) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met 4–6 Poriën, 2,0–2,8 µm breed, ca. 5,0 µm uit elkaar liggend. PK 29–47 µm (tabel 34: 9–14).",
-          "id": {
-            "name": "17.2 Cannabis sativa-type (Blz. 210)"
+          "label": "Kleine verrucae; poriën < 8 µm, met of zonder anulus (Tafel 106: 4–16, Tafel 107: 1–18).",
+          "outcome": {
+            "text": "33.2 Plantaginaceae (S. 457) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat.",
+          "next": "4"
+        },
+        {
+          "label": "PK niet echinaat; indien microechinaat dan microechini tot ca. 1 µm (*Stellaria holostea*).",
+          "next": "8"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 21–28 µm; aperturen zelden als poriën, meestal als korte colpen (Tafel 91: 14–20).",
+          "outcome": {
+            "text": "*Koenigia islandica* (S. 405) — zie `beug26-pericolpatae-koenigia.md`"
+          }
+        },
+        {
+          "label": "PK groter; steeds met poriën.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK tot 60 µm; papilleuze voorwelvingen van de exine, elk met één columella en echini tot 1,5 µm of microechinus ca. 0,5 µm; poriën groot en weinig (Tafel 107: 19–25).",
+          "outcome": {
+            "text": "33.3 *Ranunculus arvensis*-groep (S. 462) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK zonder papilleuze voorwelvingen.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 70–155 µm.",
+          "next": "7"
+        },
+        {
+          "label": "PK 26–31 µm; echini 1–1,5 µm; poriën ca. 3 µm, onregelmatig en contrastarm (Tafel 108: 1–3).",
+          "outcome": {
+            "text": "33.4 *Sagittaria sagittifolia* (S. 463) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 130–156 µm; 6–10 poriën 20–25 µm; naast echini 9–11 µm dicht bezet met draadvormige bacula (Tafel 108: 4–7).",
+          "outcome": {
+            "text": "33.5 *Cucurbita pepo* (S. 463) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK 70–140 µm; poriën slechts 2–4 µm, talrijk; exine tussen echini niet dicht met draadvormige bacula (Tafel 109: 1–4).",
+          "outcome": {
+            "text": "33.6 Malvaceae (S. 463) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën met anuli of costae (indien in fasecontrast verrucaat: Plantaginaceae).",
+          "next": "9"
+        },
+        {
+          "label": "Poriën zonder anuli.",
+          "next": "12"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat, microreticulaat, met netvormige columellae, tectum perforatum of intrareticulaat (bij slechts 5–8 poriën, brochi 0,8–1,4(1,8) µm en meridionaal verlengde poriën: *Pistacia* S. 453).",
+          "next": "10"
+        },
+        {
+          "label": "PK scabraat, niet intrareticulaat.",
+          "next": "11"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, intrareticulaat of microintrareticulaat; endobrochi overwegend open (Tafel 109: 5–14).",
+          "outcome": {
+            "text": "33.7 *Alisma*-groep (S. 464) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Niet (micro)intrareticulaat; columellae kunnen netvormig zijn; tectum perforatum of (micro/per)reticulaat; tectum tevens scabraat of microechinaat (Tafel 110–112, Tafel 113: 1–2).",
+          "outcome": {
+            "text": "33.8 Caryophyllaceae p.p. (S. 466) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met (25)30 tot >100 poriën; poriën 1,1–3,0(4,0) µm (Tafel 113: 3–29).",
+          "outcome": {
+            "text": "33.9 Chenopodiaceae p.p., *Amaranthus* (S. 482) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK met minder dan 10 poriën; poriën 3–5 µm (Tafel 114: 1–10).",
+          "outcome": {
+            "text": "33.10 *Ribes* (S. 487) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat (ook + microechinaat), intrareticulaat (ook + microechinaat), striaat of striaat-reticulaat.",
+          "next": "13"
+        },
+        {
+          "label": "PK scabraat, psilaat, microechinaat, microreticulaat, met of zonder tectum perforatum; indien gemmaat of clavaat dan grote én kleine sculptuurelementen (vgl. *Linum* S. 218).",
+          "next": "20"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striaat of striaat-reticulaat (Tafel 114: 11–17).",
+          "outcome": {
+            "text": "33.11 *Polemonium* (S. 488) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK reticulaat of intrareticulaat.",
+          "next": "14"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 100–145 µm, dikwandig; grote, dicht opeenstaande, ingezonken ronde en langwerpige poriën (Tafel 115: 9–11).",
+          "outcome": {
+            "text": "33.12 *Opuntia* (S. 488) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK kleiner dan 60 µm.",
+          "next": "15"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine midden tussen poriën intrareticulaat (brochi 1,5–2,5 µm), naar porieranden (micro)intrareticulaat; sculpture psilaat of microechinaat (Tafel 109: 5–14).",
+          "outcome": {
+            "text": "33.7 *Alisma*-groep (S. 464) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK perreticulaat, niet (micro)intrareticulaat; reticulum tussen porieranden gelijkmatig.",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 2,5–4,5 µm; brochi 1,5–3,0 µm; poriën 1–2 µm (Tafel 114: 18–20, Tafel 115: 1–5).",
+          "outcome": {
+            "text": "33.13 Thymelaeaceae (S. 490) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Exine dunner; indien dikker dan 2,5 µm dan brochi duidelijk groter.",
+          "next": "17"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 5 tot 7(13) µm.",
+          "next": "18"
+        },
+        {
+          "label": "Brochi 1 tot 2 µm.",
+          "next": "19"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri simplicolumellaat; 1 porie per brochus; poriën kleiner dan lumina; endexine 2–3 µm (Tafel 115: 6–8).",
+          "outcome": {
+            "text": "33.14 *Tribulus terrestris* (S. 490) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Muri ten minste duplicolumellaat; poriën niet in elk brochus (Tafel 116: 1–4).",
+          "outcome": {
+            "text": "33.15 *Persicaria maculosa*-type (S. 492) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 5–10 µm, rond tot langwerpig; brochi 1,0–1,5 µm met brede, deels duplicolumellate muri (Tafel 116: 5–8).",
+          "outcome": {
+            "text": "33.16 *Liquidambar* (S. 492) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Poriën slechts 1,5–2,0 µm (Tafel 116: 9–13).",
+          "outcome": {
+            "text": "33.17 *Buxus* (S. 492) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK langgerekt, ongeveer kegelvormig (spits gelijkbenig-driehoekig of stomp driehoekig-zakvormig); 4–6 poriën/colpen op mantel + colpus/porie op grondvlak (Tafel 116–118).",
+          "outcome": {
+            "text": "33.18 Cyperaceae (S. 494) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK bolvormig tot ellipsoïdisch; poriën ± regelmatig verdeeld.",
+          "next": "21"
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK klein, 11–23 µm; weinig poriën; met columellae-laag; psilaat.",
+          "next": "22"
+        },
+        {
+          "label": "PK groter; talrijke poriën; indien ca. 20 µm met weinig poriën dan zonder columellae-laag (*Ribes* p.p.).",
+          "next": "23"
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met (4)6–11 poriën (Tafel 118: 8–25).",
+          "outcome": {
+            "text": "33.19 *Herniaria*, *Paronychia*, *Illecebrum verticillatum* (S. 500) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK met 12 poriën; omtrek zeshoekig (Tafel 118: 26–31).",
+          "outcome": {
+            "text": "33.20 *Polycnemum* (S. 502) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met papilleuze voorwelvingen (elk met columella), of zonder papillen maar met ca. 1 µm dikke, wijd geplaatste columellae; microechinaat.",
+          "next": "5"
+        },
+        {
+          "label": "Zonder papilleuze voorwelvingen; dunnere, niet opvallend wijd geplaatste columellae; scabraat, psilaat of microechinaat.",
+          "next": "24"
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK > 70 µm; psilaat; tectum perforatum (Tafel 118: 32–34, Tafel 119: 1).",
+          "outcome": {
+            "text": "33.21 *Calystegia* (S. 504) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK kleiner.",
+          "next": "25"
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microechinaat.",
+          "next": "26"
+        },
+        {
+          "label": "PK psilaat, scabraat of microverrucaat.",
+          "next": "28"
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Telkens 1 microechinus boven een columella (Tafel 119: 2–5).",
+          "outcome": {
+            "text": "33.22 *Anemone coronaria* (S. 504) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Microechini anders verdeeld.",
+          "next": "27"
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Meestal 10–12 poriën; poriën 4–6 µm met contrastarme randen (Tafel 119: 6–12).",
+          "outcome": {
+            "text": "33.23 *Caldesia parnassifolia* (S. 504) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "19–35 poriën; poriën 1,5–3,5 µm (Tafel 110–112, Tafel 113: 1–2).",
+          "outcome": {
+            "text": "33.8 Caryophyllaceae p.p. (S. 466) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Ten minste (25)30 tot >100 kleine poriën; diameter (1,)1,7–3,0(4,0) µm (Tafel 113: 3–29).",
+          "outcome": {
+            "text": "33.9 Chenopodiaceae p.p., *Amaranthus* (S. 482) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Minder dan 20 poriën.",
+          "next": "29"
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 33–44 µm; poriën 8–13 µm (Tafel 119: 13–19).",
+          "outcome": {
+            "text": "33.24 *Papaver argemone* (S. 506) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK en/of poriën kleiner (fasecontrast: zwakke verrucate sculpture → Plantaginaceae).",
+          "next": "30"
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat; indien zwak scabraat dan met lacunae (*Ribes*, Tafel 114: 1–10).",
+          "next": "31"
+        },
+        {
+          "label": "PK scabraat; 6–14 poriën, ingezonken, 2,5–6 µm, onregelmatig; exine ca. 1,5 µm; endexine ≥ ektexine (Tafel 119: 20–25).",
+          "outcome": {
+            "text": "33.25 *Thalictrum* (S. 506) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine ca. 0,7 µm; poriën 1,5 µm (Tafel 120: 1–4).",
+          "outcome": {
+            "text": "33.26 *Urtica pilulifera* (S. 506) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Exine 1,2–1,7 µm; poriën 3–5 µm (Tafel 114: 1–10).",
+          "outcome": {
+            "text": "33.10 *Ribes* (S. 487) — zie deelsleutel."
           }
         }
       ]

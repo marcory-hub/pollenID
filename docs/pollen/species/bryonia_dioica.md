@@ -1,6 +1,6 @@
 # *Bryonia dioica* (heggenrank)
 
-{{ pollen_gallery("bryonia_dioica") }}
+{{ gallery("bryonia_dioica") }}
 
 ## Kenmerken
 

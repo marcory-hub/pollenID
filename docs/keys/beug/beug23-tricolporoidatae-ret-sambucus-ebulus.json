@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-sambucus-ebulus",
+    "title": "23.2 *Sambucus ebulus* (Tafel 79: 17–24)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Heterobrochaat; exine midden intercolpia equatoriaal tot 3,5(4,0) µm.",
+          "outcome": {
+            "text": "23.2 *Sambucus ebulus*\n\nPK sferoïdisch (PForml 0,92–1,19). Polarvelden klein (PFeldI 0,1–0,2). Meestal duidelijk heterobrochaat: kleine brochi ca. 1 µm, grote tot 3(4) µm. Columellae zeer duidelijk, tot 1,2 µm dik. Exine midden intercolpia equatoriaal 2–3,5(4,0) µm, naar polen/randen ca. 1,5 µm. Colpi equatoriaal brugvormig vernauwd.\n\n*Sambucus ebulus* L. (3)\n22,0–28,0 µm, MiW 24,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

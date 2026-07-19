@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug08-monoporatae.json",
-    "title": "8. Monoporatae (Beug)",
+    "key": "beug08-monoporatae",
+    "title": "8. Monoporatae",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 6,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 6
   },
   "start": "1",
   "steps": {
@@ -14,13 +15,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK oblaat tot sferoïdisch, distale deel clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en met enkele clavae. De grote porie op de proximale zijde is operculaat. Het operculum is verrucaat gesculpteerd (tabel 2: 5–7).",
-          "id": {
-            "name": "8.1 Nymphaea (Blz... 73)"
+          "label": "PK oblaat tot sferoïdisch, distaal deel clavaat, gemmaat en/of baculaat, zelden geheel verrucaat en met enkele Clavae. De grote porie op de proximale zijde is operculaat. Het Operculum is verrucaat gesculpteerd (Tafel 2: 5–7).",
+          "outcome": {
+            "text": "8.1 *Nymphaea* (Tafel 2: 5–7)\n\nPK oblaat tot sferoïdisch, heteropolair: distale zijde clavaat, gemmaat en/of baculaat, zeldzamer geheel verrucaat en eventueel met enkele Clavae. Proximale zijde met een grote, operculate porie. Operculum verrucaat of aan de rand verrucaat en in het midden psilaat.\n\n*Nymphaea alba* L. (1)\n31,3–38,7 µm, MiW 34,9 µm; 50 PK, 9a\nBacula 1,0–1,5 µm dik, Clavae tot 3 µm dik (Tafel 2: 5–7).\n\n*Nymphaea alba* L. subsp. *sphaerocarpa* CASPARY (1)\n33,7–43,7 µm, MiW 39,5 µm; 50 PK, 11a\nSculptuurelementen kleiner, Bacula tot 1 µm dik.\n\n*Nymphaea candida* C. PRESL (4)\n42,5–53,0 µm, MiW 47,9 µm; 50 PK, 0a\n1 herkomst alleen met Verrucae. Bij de andere herkomsten waren Bacula (meestal 0,5, zelden 1,0 µm dik) rijkelijk aanwezig. Clavae tot 2 µm dik.\n\n*Nymphaea tetragona* GEORGI (1)\n23,8–33,0 µm, MiW 29,8 µm; 50 PK, 1a\nVoorliggend materiaal alleen verrucaat."
           }
         },
         {
-          "label": "Porie zonder operculum of PK zonder clavae, gemmae en bacula.",
+          "label": "Porie zonder Operculum of PK zonder Clavae, Gemmae en Bacula.",
           "next": "2"
         }
       ]
@@ -30,9 +31,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "Sculptuur verrucaat tot gemmaat, PK sferoïdisch, dikwandig, zeer dicht gesculpteerd. Apertuur groot, vaak iets verlengd, meestal onregelmatig en hoekig begrensd (tabel 8: 11–12).",
-          "id": {
-            "name": "Sciadopitys verticillata (Blz... 99)"
+          "label": "Sculptuur verrucaat tot gemmaat, PK sferoïdisch, dikwandig, zeer dicht gesculpteerd. Apertuur groot, vaak iets verlengd, meestal onregelmatig en hoekig begrensd (Tafel 8: 11–12).",
+          "outcome": {
+            "text": "*Sciadopitys verticillata* (S. 99)"
           }
         },
         {
@@ -46,13 +47,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porie met annulus en costa, sculptuur psilaat-scabraat (tabel 6 en 7, tabel 8: 1–4, tabel 9: 5–6, fig. 11–17).",
-          "id": {
-            "name": "Beug-monoporatae-82-poaceae"
+          "label": "Porie met Anulus en Costa, sculptuur psilaat-scabraat (Tafel 6 en 7, Tafel 8: 1–4, Tafel 9: 5–6, Abb. 11–17).",
+          "outcome": {
+            "text": "8.2 Poaceae (S. 74)"
           }
         },
         {
-          "label": "Porie zonder annulus en costa.",
+          "label": "Porie zonder Anulus en Costa.",
           "next": "4"
         }
       ]
@@ -62,9 +63,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK psilaat, rond en afgeplat, porie 20–25 µm groot (tabel 5: 6–11).",
-          "id": {
-            "name": "Ginkgo biloba (Blz... 110)"
+          "label": "PK psilaat, rond en afgeplat, porie 20–25 µm groot (Tafel 5: 6–11).",
+          "outcome": {
+            "text": "*Ginkgo biloba* (S. 110)"
           }
         },
         {
@@ -78,9 +79,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK echinaat (tabel 8: 5–6).",
-          "id": {
-            "name": "8.3 Lemnaceae (Blz... 91)"
+          "label": "PK echinaat (Tafel 8: 5–6).",
+          "outcome": {
+            "text": "8.3 Lemnaceae (Tafel 8: 5–6)\n\nPK sferoïdisch, vaak gedrongen eivormig. Echini tot 2,5 µm lang, basaal dunner dan 1 µm, vanaf de basis toegespitst. Exine ca. 1 µm dik. De porie is ± rond, tot 2,5 µm groot en onopvallend (op Tafel 8: 5–6 niet zichtbaar).\n\n*Lemna trisulca* L. (1)\n19,3–26,3 µm, MiW 22,4 µm; 30 PK, 1a\n\n*Lemna minor* L. (1)\n15,8–26,3 µm, MiW 20,4 µm; 50 PK, 1a\n\nNon vidi: *Lemna gibba* L. (afbeelding bij ERDTMAN, 1952, S. 232), *Spirodela polyrrhiza* (L.) SCHLEID., *Wolffia arrhiza* (L.) HORKEL EX WIMM."
           }
         },
         {
@@ -94,15 +95,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porie tot 6(8) µm groot (tabel 5: 18–22, tabel 9: 1).",
-          "id": {
-            "name": "8.4 Sparganium-type (Blz... 91)"
+          "label": "Porie tot 6(8) µm groot (Tafel 5: 18–22, Tafel 9: 1).",
+          "outcome": {
+            "text": "8.4 *Sparganium*-type (Tafel 5: 18–22; Tafel 9: 1)\n\nPK sferoïdisch tot eivormig of rondachtig-hoekig, reticulaat. Porie 3,0–6,0(8,0) µm groot, contrastarm begrensd. Brochi 1,0–3,0 µm, meestal onregelmatig gevormd, vaak langgerekt en niet gesloten. Exine 1,8–2,1 µm dik, Endexine 0,8–1,0 µm. Reticulum zeer variabel. Muri 0,8–1,0 µm breed, maar van wisselende breedte binnen één Brochus. Columellae eenrijig of dubbelrijig.\n\n*Sparganium angustifolium* MICHX. (3)\n19,4–31,0 µm, MiW 26,2 µm; 50 PK, 0a\n\n*Sparganium erectum* L. s.l. (2)\n24,8–33,1 µm, MiW 28,8 µm; 50 PK, 0a\n\n*Sparganium erectum* L. subsp. *neglectum* (BEEBY) SCHINZ & THELL. (1)\n19,8–33,1 µm, MiW 25,0 µm; 50 PK, 0a\n\n*Sparganium friesii* BEURL. (1)\n27,5–33,5 µm, MiW 31,2 µm; 50 PK, 0a\n\n*Sparganium glomeratum* LAEST. (1)\n28,0–37,5 µm, MiW 32,3 µm; 50 PK, 0a\n\n*Sparganium hyperboreum* LAEST. (1)\n26,3–37,0 µm, MiW 31,6 µm; 53 PK, 0a\n\n*Sparganium natans* L. (2)\n22,0–29,5 µm, MiW 26,1 µm; 50 PK, 0a\n\n*Sparganium emersum* REHMANN (2)\n21,6–29,5 µm, MiW 26,4 µm; 50 PK, 0a\n\n*Typha angustifolia* L. (2)\n25,0–32,5 µm, MiW 29,3 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Porie over 10 µm (tot 33 µm) groot. Poriënmembraan, indien aanwezig, fijnreticulaat of scabraat (tabel 9: 2–4).",
-          "id": {
-            "name": "8.5 Cephalanthera-type (Blz... 92)"
+          "label": "Porie over 10 µm (tot 33 µm) groot. Poriënmembraan, indien aanwezig, fijnreticulaat of scabraat (Tafel 9: 2–4).",
+          "outcome": {
+            "text": "8.5 *Cephalanthera*-type (Tafel 9: 2–4)\n\nPK reticulaat, rondachtig tot langwerpig-eivormig, halfrond, met zeer grote porie op de platte zijde. Poriën 17–33 µm groot (bij *Cephalanthera*; bij *Limodorum* slechts 12–25 µm), rondachtig tot eivormig, rand onregelmatig. Brochi 1–9 µm groot (bij *Limodorum* 1–6 µm), soms open, aan de porierand klein. Poriënmembraan, indien aanwezig, fijnreticulaat met smalle Muri, bij *Limodorum* scabraat. Muri 1–2 µm breed, dikwijls duplicolumellaat. Bij *Limodorum* is vaak een tot 5 µm brede fijnreticulate Anulus herkenbaar (Brochi hier slechts 1–2 µm groot). PK soms heterobrochaat. Exine 1,2–2,2 µm dik, Endexine dun, Columellae kort en dik.\n\n*Cephalanthera damasonium* (MILL.) DRUCE (1)\n30,0–48,5 µm, MiW 37,3 µm; 50 PK, 0a\n\n*Cephalanthera longifolia* (L.) FRITSCH (2)\n28,0–40,8 µm, MiW 34,4 µm; 50 PK, 0a\n\n*Cephalanthera rubra* (L.) RICH. (1)\n27,0–40,8 µm, MiW 34,4 µm; 50 PK, 0a\n\n*Limodorum abortivum* (L.) SW. (2)\n32,5–49,0 µm, MiW 40,0 µm; 50 PK, 0a"
           }
         }
       ]

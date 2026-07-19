@@ -1,6 +1,6 @@
 # *Robinia pseudoacacia* (Robinia pseudoacacia)
 
-{{ pollen_gallery("robinia_pseudoacacia") }}
+{{ gallery("robinia_pseudoacacia") }}
 
 ## Kenmerken
 

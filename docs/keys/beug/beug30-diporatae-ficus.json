@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug30-diporatae-ficus",
+    "title": "30.3 *Ficus carica* (Tafel 120: 21–23)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK psilaat, tot ca. 17 µm.",
+          "outcome": {
+            "text": "30.3 *Ficus carica*\n\nPK psilaat, ellipsoïdisch, 11,0–13,5 µm breed. Poriën aan de smalle zijden, 1,0–1,5 µm. Exine 0,9–1,2 µm dik. Onder 50 PK: 47 diporaat, 3 triporaat (polair afgerond driehoekig, angulair). Exine polar niet verdikt (anders dan *Corrigiola*, S. 434).\n\n*Ficus carica* L. (2)\n12,5–17,3 µm, MiW 15,1 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

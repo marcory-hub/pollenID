@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-lappula",
+    "title": "28.7 *Lappula*",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Als *Eritrichum*, maar porate en niet-porate colpi even lang.",
+          "outcome": {
+            "text": "28.7 *Lappula*\n\nZeer gelijkend op *Eritrichum*. PForml 1,5–1,9. Porate en niet-porate colpi even lang. Subequatoriale poriën regel. Colpi met 2 poriën niet zeldzaam. Eventueel samen te vatten als «*Lappula*-type».\n\n*Lappula deflexa* (WAHLENB.) GARCKE (2)\n9,3–11,5 µm, MiW 10,6 µm; 50 PK, 0a\n\n*Lappula squarrosa* (RETZ.) DUMORT. (2)\n12,5–15,8 µm, MiW 14,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

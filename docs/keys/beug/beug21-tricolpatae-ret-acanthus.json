@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-acanthus",
+    "title": "21.3 *Acanthus* (Tafel 58: 23–26)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat tot perprolaat (PForml 1,7–2,0); exine 2,5–3,0 µm; endexine 1,5–1,8 µm; columellae duidelijk.",
+          "outcome": {
+            "text": "21.3 *Acanthus*\n\nSuprareticulaat, brochi 1,6–2,0 µm. Identiek: *A. balcanicus*, *A. longifolius*, *A. hirsutus*.\n\n*Acanthus mollis* L. (2)\n50,0–60,3 µm, MiW 55,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

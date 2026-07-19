@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug18-tricolpatae-str-erodium",
+    "title": "18.1 *Erodium* (Tafel 46: 14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, PForml 0,93–1,05. Tricolpaat, zelden tetracolpaat, rugulaat-striaat. Colpi kort, polarvelden groot (PFeldI 0,64–0,70). Exine 6–8(9) µm, endexine tot 2 µm dik.",
+          "outcome": {
+            "text": "18.1 *Erodium*\n\nColumellae tot ca. 4,5 µm lang en tot 2 µm dik. Valla ca. 0,9–1,4 µm breed, zonder overheersende richting, met kruisingen onder onregelmatige brochus-vorming. De kruisingsplaatsen liggen overwegend boven telkens één columella.\n\n*Erodium cicutarium* (L.) L'HÉRIT. (2)\n48,0–71,5 µm, MiW 60,4 µm; 40 PK, 0a\n\n*Erodium ciconium* (L.) L'HÉRIT. (1)\n55,2–73,1 µm, MiW 63,0 µm; 50 PK, Oa\n\n*Erodium malacoides* (L.) L'HÉRIT. (1)\n46,3–62,3 µm, MiW 54,1 µm; 50 PK, Oa\n\n*Erodium moschatum* (BURM.) L'HÉRIT. (1)\n44,5–55,2 µm; 15 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

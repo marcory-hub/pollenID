@@ -1,6 +1,6 @@
 # *Aesculus hippocastanum* (paardenkastanje)
 
-{{ pollen_gallery("aesculus_hippocastanum") }}
+{{ gallery("aesculus_hippocastanum") }}
 
 ## Kenmerken
 

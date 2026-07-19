@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-reseda",
+    "title": "21.12 *Reseda* (Tafel 60: 14–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpium-randen alleen equatoriaal korrelig-schollig opgelost; brochi max. ca. 1 µm.",
+          "outcome": {
+            "text": "21.12 *Reseda*\n\nPForml 1,0–1,3. Exine (1,6)1,9–2,0 µm.\n\n*Reseda lutea* L. (4)\n24,5–32,0 µm, MiW 28,8 µm; 50 PK, 0a\n\n*Reseda luteola* L. (2)\n18,0–24,0 µm, MiW 22,2 µm; 50 PK, 0a\n\n*Reseda phyteuma* L. (2)\n21,5–27,8 µm, MiW 24,6 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

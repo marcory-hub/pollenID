@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-fumaria",
+    "title": "33.1 *Fumaria* (Tafel 106: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Grote verrucae; poriën 8,5–12,5 µm met brede anuli.",
+          "outcome": {
+            "text": "33.1 *Fumaria*\n\nMeestal 6 poriën (zelden 8 of 10(12)). Poriën 8,5–12,5 µm; anulus 2,5–4,5 µm. Verrucae 1–5(7) µm. Exine 2–3(4) µm. Bij *F. parviflora* vooral kleine verrucae (ca. 1–1,5 µm).\n\n[te verifiëren: soortmaten ontbreken in OCR; Tafel 106: 1–3 *Fumaria officinalis*]"
+          }
+        }
+      ]
+    }
+  }
+}

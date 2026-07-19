@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-litorella",
+    "title": "33.2.1 Litorella-Typ (Tafel 106: 4–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën contrastarm; PK (32)33–44 µm.",
+          "outcome": {
+            "text": "33.2.1 Litorella-Typ\n\nPoriën 3,5–5,5(7,0) µm, onregelmatig, niet rond, randen zeer contrastarm en vaak ingescheurd. Operculum als de exine of in stukken, of poriemembranen alleen met puntsvormige sculptuur. Verrucae 1,5–4,3 µm. Exine 0,8–1,2 µm.\n\nPorieaantallen: *Litorella uniflora* 12–17; *Plantago fuscescens* 8–11; *P. atrata* 6–10; *P. bellardii* 5–8.\n\n*Litorella uniflora* (L.) ASCHERSON (2)\n33,0–43,5 µm, MiW 38,8 µm; 50 PK, 0a\n\n*Plantago fuscescens* JORDAN (2)\n33,3–42,5 µm, MiW 37,9 µm; 50 PK, 0a\n\n*Plantago atrata* HOPPE (7)\n32,5–39,8 µm, MiW 35,9 µm; 50 PK, 0a\n\n*Plantago bellardii* ALL. (3)\n32,5–43,0 µm, MiW 37,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

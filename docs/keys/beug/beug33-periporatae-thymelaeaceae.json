@@ -1,12 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-thymelaeaceae.json",
-    "title": "33.13 [Thymelaeaceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Thymelaeaceae) (Beug)",
+    "key": "beug33-periporatae-thymelaeaceae",
+    "title": "33.13 Thymelaeaceae (Tafel 114: 18–20, Tafel 115: 1–5)",
     "locale": "nl",
     "source": "Beug",
-    "note": "Agent: clean this page, only use pollentabel.json for the choices. If needed update the pollentabel.json with the images in by-taxon. Do not add other than label, next, id, name, pollen_key and incomplete. Check vanderham-pollentabel.json for the choices.",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -15,17 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 20-38 µm groot, poren onscherp begrenst (Tabel 114: 18-20).",
-          "id": {
-            "name": "33.13.1 Daphne",
-            "pollen_key": "daphne_mezereum"
+          "label": "PK 20–38 µm; poriën onscherp begrensd (Tafel 114: 18–20).",
+          "outcome": {
+            "text": "33.13.1 *Daphne* — zie deelsleutel."
           }
         },
         {
-          "label": "PK 34-47 µm groot, Poren contrastrijk begrenst (Tabel 115: 1-5).",
-          "id": {
-            "name": "33.13.2 [Thymelaea](https://www.paldat.org/pub/Thymelaea_passerina/)",
-            "pollen_key": "thymelaea_passerina"
+          "label": "PK 34–47 µm; poriën contrastrijk begrensd (Tafel 115: 1–5).",
+          "outcome": {
+            "text": "33.13.2 *Thymelaea passerina* — zie deelsleutel."
           }
         }
       ]

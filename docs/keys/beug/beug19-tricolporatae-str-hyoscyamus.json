@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-hyoscyamus",
+    "title": "19.5 *Hyoscyamus albus* (Tafel 51: 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, PForml 0,89–1,24; omtrek rondachtig, ruitvormig tot elliptisch; polarvelden klein (PFeldI 0,09–0,12).",
+          "outcome": {
+            "text": "19.5 *Hyoscyamus albus*\n\nExine ca. 1,5–1,8 µm dik, striaat-microreticulaat; valla 0,6–0,8 µm breed, meridionaal. Colpi ingezonken, 5–10 µm breed, terminaal vernauwd. Colpi transversales 13–21 × 2–9 µm. De zeer gelijke PK van *Atropa bella-donna* hebben geen colpi transversales, maar alleen equatoriaal vernauwde colpi (S. 274).\n\n*Hyoscyamus albus* L. (2)\n39,0–54,8 µm, MiW 46,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

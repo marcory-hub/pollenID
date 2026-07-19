@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-helleborus-foetidus",
+    "title": "21.11 *Helleborus foetidus* (Tafel 60: 24–28)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpium-randen glad; colpi breed, dicht korrelig; microreticulaat, brochi max. ca. 1 µm.",
+          "outcome": {
+            "text": "21.11 *Helleborus foetidus*\n\nExine 1,6–2,0 µm. Columellae in bovenaanzicht goed herkenbaar.\n\n*Helleborus foetidus* L. (3)\n25,2–32,8 µm, MiW 26,9 µm; 50 PK, 1a"
+          }
+        }
+      ]
+    }
+  }
+}

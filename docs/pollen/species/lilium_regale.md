@@ -1,6 +1,6 @@
 # *Lilium regale* (koningslelie)
 
-{{ pollen_gallery("lilium_regale") }}
+{{ gallery("lilium_regale") }}
 
 ## Kenmerken
 

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-eritrichum",
+    "title": "28.6 *Eritrichum nanum* (Tafel 94: 3–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Haltervormig; porate colpi korter; minstens één porie subequatoriaal.",
+          "outcome": {
+            "text": "28.6 *Eritrichum nanum*\n\nPK prolaat, equatoriaal aanzicht haltervormig (PForml 1,5–1,7). Niet-porate colpi langer dan porate. Minstens één porie subequatoriaal. Soms colpi met 2 poriën. Poriën ca. 1,0 × 1,5 µm. Exine psilaat, ca. 1 µm.\n\n*Eritrichium nanum* (ALL.) SCHRADER (2)\n10,0–13,3 µm, MiW 11,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

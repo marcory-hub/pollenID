@@ -1,6 +1,6 @@
 # *Senecio jacobea* (Jacobs kruiskruid)
 
-{{ pollen_gallery("senecio_jacobaea") }}
+{{ gallery("senecio_jacobaea") }}
 
 ## Kenmerken
 

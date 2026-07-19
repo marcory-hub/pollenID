@@ -1,6 +1,6 @@
 # *Cirsium arvense* (akkerdistel)
 
-{{ pollen_gallery("cirsium_arvense") }}
+{{ gallery("cirsium_arvense") }}
 
 ## Kenmerken
 

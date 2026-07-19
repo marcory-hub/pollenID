@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-vicia-lathyroides",
+    "title": "31.13 *Vicia lathyroides* (Tafel 101: 30–32)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 5–6 µm; equatoriaal vierkant; PK 20–30 µm.",
+          "outcome": {
+            "text": "31.13 *Vicia lathyroides*\n\nEquatoriaal vierkant; polair rond, angulaperturaat. P/E 0,89–1,03. Exine psilaat, 1,4–1,8 µm. Poriën 5–6 µm (meridionaal 4–4,5 × 5 µm). Endexine rond poriën hoogstens zwak verdikt over 4–5 µm breedte.\n\n*Vicia lathyroides* L. (4)\n[te verifiëren: maten ontbreken in OCR]"
+          }
+        }
+      ]
+    }
+  }
+}

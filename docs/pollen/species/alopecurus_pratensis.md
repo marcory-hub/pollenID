@@ -1,6 +1,6 @@
 # *Alopecurus pratensis* (grote vossenstaart)
 
-{{ pollen_gallery("alopecurus_pratensis") }}
+{{ gallery("alopecurus_pratensis") }}
 
 ## Kenmerken
 

@@ -1,6 +1,6 @@
 # *Viola tricolor* (driekl. viooltje)
 
-{{ pollen_gallery("viola_tricolor") }}
+{{ gallery("viola_tricolor") }}
 
 ## Kenmerken
 

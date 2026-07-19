@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-nicotiana",
+    "title": "20.9 *Nicotiana* (Tafel 54: 22–26)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 30–43 µm, sculptuur striaat-microreticulaat, contrastarm (meestal pas in fasecontrast). Exine 2,0 µm, endexine 0,9–1,0 µm.",
+          "outcome": {
+            "text": "20.9 *Nicotiana*\n\nPForml 1,04–1,39. Valla meestal meridionaal, relatief kort. Colpi equatoriaal meestal eenvoudig of s-vormig vernauwd.\n\n*Nicotiana rustica* L. (2)\n31,2–42,8 µm, MiW 36,6 µm; 50 PK, 0a\n\n*Nicotiana tabacum* L. (2)\n28,0–40,3 µm, MiW 36,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

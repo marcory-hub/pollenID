@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-sideritis",
+    "title": "21.1 *Sideritis montana* (Tafel 58: 6–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch met afgeplatte polen; reticulate velden ca. 10 µm midden op intercolpia en op polarvelden.",
+          "outcome": {
+            "text": "21.1 *Sideritis montana*\n\nPFormI 0,8–1,1 (meestal 0,95–1,00). Polarvelden groot (PFeldI omstreeks 0,5). Brochi in reticulate velden tot 2 µm; daarbuiten fijn microreticulaat of psilaat. Exine in reticulate velden tot 2,5 µm, daarbuiten tot ca. 1 µm.\n\n*Sideritis montana* L. (3)\n24,4–31,5 µm, MiW 28,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-epilobium",
+    "title": "31.7 *Epilobium* (Tafel 98: 11–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 56–100(120) µm; conische vestibula.",
+          "outcome": {
+            "text": "31.7 *Epilobium*\n\nPK psilaat, zwak golvend oppervlak. Poriën aan einde van grote conische vestibula (basis 31–41 µm, hoogte 10–23 µm; porie 7,0–10,0 × 10,5–15,0 µm). Exine 2,7–4,8 µm. Viscine-draden (fossiel zelden). Vaak tetradenverband. Equatoriale diameter 56–121 µm (MiW-range 66–100 µm). Zonder vestibula P/E 0,67–1,00; met vestibulum steeds oblaat.\n\n*Epilobium alpestre* (JACQ.) KROCK. (2)\n68,0–91,5 µm, MiW 77,9 µm; 50 PK, 0a, Ä\n\n*Epilobium alsinifolium* VILL. (2)\n63,5–92,8 µm, MiW 77,7 µm; 50 PK, 0a, Ä\n\n*Epilobium anagallidifolium* LAM. (2)\n56,3–77,8 µm, MiW 66,1 µm; 51 PK, 0a, Ä\n\n*Epilobium angustifolium* L. (2)\n75,3–93,0 µm, MiW 85,0 µm; 51 PK, 0a, Ä\n\n*Epilobium collinum* C.C. GMEL. (2)\n68,0–87,5 µm, MiW 77,7 µm; 50 PK, 0a, Ä\n\n*Epilobium dodonaei* VILL. (2)\n70,3–96,8 µm, MiW 84,8 µm; 51 PK, 0a, Ä\n\n*Epilobium duriaei* GAY (1)\n75,3–98,3 µm, MiW 84,1 µm; 50 PK, 0a, Ä\n\n*Epilobium fleischeri* HOCHST. (2)\n71,0–85,5 µm, MiW 79,4 µm; 50 PK, 0a, Ä\n\n*Epilobium hirsutum* L. (1)\n82,5–120,8 µm, MiW 99,9 µm; 44 PK, 0a, Ä\n\n*Epilobium hornemannii* RCHB. (1)\n57,5–77,3 µm, MiW 66,3 µm; 50 PK, 0a, Ä\n\n*Epilobium lanceolatum* SEBAST. & MAURI (2)\n77,0–99,3 µm, MiW 88,2 µm; 50 PK, 0a, Ä\n\n*Epilobium latifolium* L. (1)\n80,3–100,0 µm, MiW 90,8 µm; 50 PK, 0a, Ä\n\n*Epilobium montanum* L. (3)\n70,0–92,0 µm, MiW 85,0 µm; 50 PK, 0a, Ä\n\n*Epilobium nutans* F.W. SCHMIDT (2)\n58,0–78,0 µm, MiW 67,5 µm; 35 PK, 0a, Ä\n\n*Epilobium obscurum* SCHREB. (2)\n67,0–84,5 µm, MiW 76,3 µm; 50 PK, 0a, Ä\n\n*Epilobium palustre* L. (3)\n67,8–85,5 µm, MiW 77,0 µm; 50 PK, 0a, Ä\n\n*Epilobium parviflorum* SCHREB. (2)\n65,0–88,8 µm, MiW 79,1 µm; 38 PK, Oa, Ä\n\n*Epilobium roseum* SCHREB. (2)\n64,8–79,3 µm, MiW 72,3 µm; 52 PK, 0a, Ä\n\n*Epilobium tetragonum* L. (4)\n74,0–93,3 µm, MiW 85,5 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

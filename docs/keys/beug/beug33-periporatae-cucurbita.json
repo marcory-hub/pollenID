@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-cucurbita",
+    "title": "33.5 *Cucurbita pepo* (Tafel 108: 4–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "130–156 µm; poriën 20–25 µm; draadvormige bacula tussen echini.",
+          "outcome": {
+            "text": "33.5 *Cucurbita pepo*\n\nZeer grote PK (zonder echini); 6–10 operculate poriën 20–25 µm; interporia 40–50 µm. Echini 9–11 µm; daartussen dichte draadvormige bacula ca. 2 × 0,5 µm.\n\n*Cucurbita pepo* L. (2)\n131,3–156,3 µm, MiW 142,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

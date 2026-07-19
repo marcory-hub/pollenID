@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-pulsatilla",
+    "title": "26.7 *Pulsatilla alpina* (Tafel 92: 20–23)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Scabraat/microechinaat; sculptuur alleen boven dikke columellae.",
+          "outcome": {
+            "text": "26.7 *Pulsatilla alpina*\n\nPK bolvormig tot zwak ellipsoidisch, scabraat of microechinaat. Sculptuurelementen uitsluitend boven 0,6–1,0 µm dikke columellae. 12 of 15 regelmatig geplaatste, lange (soms syncolpate) colpi, of onregelmatig; zelden stephanocolpaat. Colpusmembranen korrelig. Exine 2,2–2,3 µm; endexine ca. 1 µm, dikker dan tectum.\n\n*Pulsatilla alpina* (L.) DELARBRE (2)\n27,5–35,0 µm, MiW 32,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

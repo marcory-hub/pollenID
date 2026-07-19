@@ -1,6 +1,6 @@
 # *Lotus corniculatus* (rolklaver)
 
-{{ pollen_gallery("lotus_corniculatus") }}
+{{ gallery("lotus_corniculatus") }}
 
 ## Kenmerken
 

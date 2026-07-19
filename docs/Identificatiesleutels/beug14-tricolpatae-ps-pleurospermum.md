@@ -1,3 +1,7 @@
 # 14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (Beug)
 
-[14.11 Apiaceae](beug14-tricolpatae-ps-apiaceae.md)
+<div id="pollentabel-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-pleurospermum.json"></div>
+
+### Tabel-overzicht
+
+<div id="pollentabel-table-root" data-json-url="../../keys/beug/beug14-tricolpatae-ps-pleurospermum.json"></div>

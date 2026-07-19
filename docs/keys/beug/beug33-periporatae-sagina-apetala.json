@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-sagina-apetala",
+    "title": "33.8.4 *Sagina apetala*-Typ",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën zonder anulus; 19–35 poriën; 21–37 µm.",
+          "outcome": {
+            "text": "33.8.4 *Sagina apetala*-Typ\n\nPK 21–37 µm; 19–35 poriën; 1,5–3,5 µm; zonder anulus. Exine 2–3 µm (*S. apetala* 1,5–2,0 µm).\n\n*Sagina apetala* ARD. (1)\n21,5–29,8 µm, MiW 25,6 µm; 50 PK, 0a\n\n*Sagina glabra* (WILLD.) FENZL (1)\n28,8–36,8 µm, MiW 32,7 µm; 50 PK, 0a\n\n*Sagina maritima* G. DON (2)\n23,5–34,0 µm, MiW 28,1 µm; 52 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

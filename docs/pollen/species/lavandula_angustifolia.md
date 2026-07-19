@@ -1,6 +1,6 @@
 # *Lavandula angustifolia* (lavendel)
 
-{{ pollen_gallery("lavandula_angustifolia") }}
+{{ gallery("lavandula_angustifolia") }}
 
 ## Kenmerken
 

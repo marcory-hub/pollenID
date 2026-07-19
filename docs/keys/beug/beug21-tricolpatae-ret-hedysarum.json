@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-hedysarum",
+    "title": "21.5 *Hedysarum hedysaroides* (Tafel 58: 20–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Als *Onobrychis*, maar brochi omstreeks 1 µm; exine 1,0–1,2 µm; PK 22–31 µm.",
+          "outcome": {
+            "text": "21.5 *Hedysarum hedysaroides*\n\nPForml 1,7–2,1.\n\n*Hedysarum hedysaroides* (L.) SCHINZ & THELL. (3)\n22,5–30,5 µm, MiW 26,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

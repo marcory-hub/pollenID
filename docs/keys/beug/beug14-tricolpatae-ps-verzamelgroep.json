@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug14-tricolpatae-ps-verzamelgroep",
+    "title": "14.11.11 Verzamelgroep (Tafel 25: 6–25, 30–36, Tabelle 4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "In alle kenmerken zeer variabele groep met kleine tot middelgrote PK. PK prolaat tot perprolaat of alleen perprolaat, zeldener alleen prolaat. AKontur en IKontur recht of zwak concaaf (ingebogen of ingezonken). Ten minste deels zijn de volgende twee groepen bepaalbaar.",
+      "choices": [
+        {
+          "label": "PK kleiner dan 30 µm, CL-index groter dan 0,85, PFormI-S kleiner dan 2,00.",
+          "outcome": {
+            "text": "*Apium graveolens*, *A. inundatum*, *Trinia glauca*"
+          }
+        },
+        {
+          "label": "PFormI-S kleiner dan 1,80, equatoriale diameter kleiner dan 17 µm, CL-index 0,8–1,0.",
+          "outcome": {
+            "text": "*Apium nodiflorum*, *A. repens*, *Crithmum maritimum*"
+          }
+        }
+      ]
+    }
+  }
+}

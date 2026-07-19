@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-olea",
+    "title": "21.23 *Olea europaea* (Tafel 66: 20–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK ca. 24–31 µm; exine meestal 3,0–3,2 µm; brochi max. 3,0–3,5 µm; polarvelden middelgroot.",
+          "outcome": {
+            "text": "21.23 *Olea europaea*\n\nPForml 0,8–1,1. PFeldI 0,4–0,5.\n\n*Olea europaea* L. (5)\n24,5–31,0 µm, MiW 27,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "key": "beug08-monoporatae-wildgras",
+    "title": "8.2.8 Wildgras-type",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fasecontrastpatroon alleen met individueel staande punten (*Hordeum*-achtig).",
+          "outcome": {
+            "text": "8.2.8.1 *Hordeum*-typeW\n\nDeze groep van wildgrassen wordt naar contrast en dichtheid van de punten voorlopig verdeeld (W = wildgras).\n\n1. Contrastrijke punten met een afstand van ca. 0,5–1,0 µm\n\n*Arundo donax* L. (1)\n36,5–52,0 µm, MiW 41,7 µm; 50 PK, 0a\n\n*Leymus arenarius* (L.) HOCHST. (1)\n54,5–67,5 µm, MiW 62,0 µm; 50 PK, 0a\n\n*Leersia oryzoides* (L.) SW. (1)\n30,0–42,8 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Piptatherum miliaceum* (L.) COSSON (1)\n29,0–35,0 µm, MiW 31,8 µm; 43 PK, 0a\n\n*Stipa calamagrostis* (L.) WAHLENB. (1)\n25,5–34,5 µm, MiW 28,9 µm; 50 PK, 0a\n\n*Stipa pennata* L. s.str. (1)\n33,8–47,0 µm, MiW 40,9 µm; 50 PK, 0a\n\n*Stipa capillata* L. (1)\n28,3–41,0 µm, MiW 34,8 µm; 46 PK, 0a\n\n2. Contrastarme punten met enge afstanden\n\n*Anthoxanthum odoratum* L. s.str. p.p. (1)\n30,5–43,5 µm, MiW 38,4 µm; 50 PK, 0a\n\n*Bromus racemosus* L. (1)\n35,8–44,8 µm, MiW 41,0 µm; 50 PK, 0a\n\n*Bromus squarrosus* L. (1)\n36,3–49,5 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Scolochloa festucacea* (WILLD.) LINK (1)\n31,8–41,3 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Ventenata dubia* (LEERS) COSS. (1)\n31,0–38,8 µm, MiW 34,5 µm; 50 PK, 0a\n\n*Gaudinia fragilis* (L.) P.BEAUV. (1)\n27,8–36,8 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Lagurus ovatus* L. (1)\n34,3–43,0 µm, MiW 38,6 µm; 50 PK, 0a\n\n*Melica uniflora* RETZ. (1) p.p.\n32,8–45,0 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Vulpia myurus* (L.) C.C.GMEL. (1)\n32,5–42,0 µm, MiW 37,4 µm; 50 PK, 0a\n\n3. Contrastarme punten met extreem enge afstanden; patroonvorming door toeval mogelijk\n\n*Hierochloë odorata* (L.) P.BEAUV. (1)\n25,8–35,8 µm, MiW 31,6 µm; 50 PK, 0a\n\n*Puccinellia maritima* (HUDS.) PARL. (1)\n34,8–43,3 µm, MiW 38,4 µm; 50 PK, 0a\n\n*Trisetum spicatum* (L.) K.RICHT. (1) p.p.\n35,0–46,8 µm, MiW 40,0 µm; 50 PK, 0a\n\n4. Neiging tot vorming van kleine groepen of rijen; groepen zonder grijze hof\n\n*Brachypodium sylvaticum* (HUDS.) P.BEAUV. (1)\n30,5–44,0 µm, MiW 36,3 µm; 52 PK, 0a\n\n*Helictotrichon pratense* (L.) BESSER (1)\n42,5–55,0 µm, MiW 49,0 µm; 50 PK, 0a\n\n*Helictotrichon versicolor* (VILL.) PILG. (1)\n37,5–51,3 µm, MiW 43,9 µm; 54 PK, 0a\n\n*Trisetum flavescens* (L.) P.BEAUV. (1)\n26,8–35,5 µm, MiW 31,3 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Fasecontrastpatroon met puntgroepen (zonder duidelijke puntklompen).",
+          "next": "2"
+        },
+        {
+          "label": "Puntklompen aanwezig, daarnaast afzonderlijke punten en eventueel ook puntgroepen; puntklompen langwerpig, onregelmatig, onder 1 µm tot soms iets boven 1 µm; polygonale elementen indien aanwezig niet boven 1 µm (afgrenzing jegens *Sorghum halepense*).",
+          "outcome": {
+            "text": "8.2.8.4 *Avena*-typeW\n\nOvergangen werden ook tussen het *Avena*-typeW en het *Triticum*-typeW gevonden. De met »p.p.« gemarkeerde *Setaria*-soorten behoren deels tot het getreide-type.\n\n*Agrostis capillaris* L. (1) p.p.\n26,3–37,0 µm, MiW 31,3 µm; 50 PK, 0a\n\n*Aira praecox* L. (1)\n24,3–33,0 µm, MiW 29,4 µm; 50 PK, 0a\n\n*Alopecurus pratensis* L. (1)\n35,5–45,0 µm, MiW 39,8 µm; 50 PK, 0a\n\n*Bothriochloa ischaemon* (L.) KENG (2)\n31,5–42,8 µm, MiW 37,2 µm; 50 PK, 0a\n\n*Apera spica-venti* (L.) P.BEAUV. (1) p.p.\n20,0–32,8 µm, MiW 26,4 µm; 50 PK, 0a\n\n*Arrhenatherum elatius* (L.) P.BEAUV. p.p. (1)\n35,5–49,3 µm, MiW 42,2 µm; 51 PK, 0a\n\n*Briza media* L. (1) p.p.\n30,5–40,0 µm, MiW 36,5 µm; 51 PK, 0a\n\n*Calamagrostis epigejos* (L.) ROTH (1)\n25,0–36,3 µm, MiW 31,1 µm; 51 PK, 0a\n\n*Catabrosa aquatica* (L.) P.BEAUV. (1)\n30,0–40,5 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Chrysopogon gryllus* (L.) TRIN. (1)\n35,8–45,5 µm, MiW 40,4 µm; 50 PK, 0a\n\n*Coleanthus subtilis* (TRATT.) SEIDL (1)\n22,3–32,0 µm, MiW 27,0 µm; 51 PK, 0a\n\n*Crypsis aculeata* (L.) AITON (1)\n32,0–40,0 µm, MiW 35,8 µm; 50 PK, 0a\n\n*Cynosurus cristatus* L. (1)\n32,8–41,8 µm, MiW 37,9 µm; 50 PK, 0a\n\n*Dactylis glomerata* L. s.str. (1)\n33,5–45,5 µm, MiW 40,4 µm; 50 PK, 0a\n\n*Digitaria ischaemon* (SCHREB.) MÜHLENB. (1)\n28,8–38,8 µm, MiW 34,8 µm; 50 PK, 0a\n\n*Echinochloa crus-galli* (L.) P.BEAUV. (1)\n37,5–45,0 µm, MiW 41,2 µm; 50 PK, 0a\n\n*Eragrostis minor* HOST (1)\n22,8–32,8 µm, MiW 28,0 µm; 50 PK, 0a\n\n*Festuca richardsonii* HOOKER (1)\n31,8–40,5 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Festuca altissima* ALL. (1) p.p.\n25,5–35,0 µm, MiW 29,2 µm; 50 PK, 0a\n\n*Holcus lanatus* L. (1) p.p.\n30,0–39,8 µm, MiW 33,2 µm; 51 PK, 0a\n\n*Koeleria macrantha* (LEDEB.) SCHULT. (1)\n30,3–42,5 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Milium effusum* L. (1) p.p.\n28,5–40,0 µm, MiW 35,2 µm; 50 PK, 0a\n\n*Molinia caerulea* (L.) MOENCH s.str. (1)\n25,8–35,0 µm, MiW 31,2 µm; 50 PK, 0a\n\n*Parapholis strigosa* (DUMORT.) C.E.HUBB. (1) p.p.\n27,5–36,0 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Phalaris arundinacea* L. (1)\n32,8–42,5 µm, MiW 38,0 µm; 50 PK, 0a\n\n*Phalaris canariensis* L. (1)\n40,0–48,0 µm, MiW 43,9 µm; 50 PK, 0a\n\n*Phleum alpinum* L. s.str. (1)\n35,0–48,9 µm, MiW 42,2 µm; 50 PK, 0a\n\n*Phragmites australis* (CAV.) TRIN. (1)\n26,3–37,0 µm, MiW 31,3 µm; 50 PK, 0a\n\n*Poa pratensis* L. s.str. (1)\n30,8–42,5 µm, MiW 37,5 µm; 50 PK, 0a\n\n*Poa glauca* VAHL (1)\n32,0–40,3 µm, MiW 36,8 µm; 51 PK, 0a\n\n*Polypogon monspeliensis* (L.) DESF. (1) p.p.\n32,5–45,5 µm, MiW 38,2 µm; 50 PK, 0a\n\n*Setaria glauca* (L.) P.BEAUV. (1) p.p.\n40,0–54,0 µm, MiW 46,9 µm; 50 PK, 0a\n\n*Setaria italica* (L.) P.BEAUV. (1)\n27,5–36,5 µm, MiW 33,2 µm; 50 PK, 0a\n\n*Setaria pumila* (POIR.) SCHULT. (1) p.p.\n38,0–50,3 µm, MiW 44,1 µm; 50 PK, 0a\n\n*Setaria verticillata* (L.) P.BEAUV. s.l. (1)\n32,0–43,5 µm, MiW 36,4 µm; 50 PK, 0a\n\n*Setaria viridis* (L.) P.BEAUV. (1)\n30,5–40,5 µm, MiW 34,6 µm; 50 PK, 0a\n\n*Sclerochloa dura* (L.) P.BEAUV. (1)\n31,0–42,0 µm, MiW 37,5 µm; 50 PK, 0a\n\n*Tragus racemosus* (L.) ALL. (1)\n17,3–24,3 µm, MiW 20,3 µm; 50 PK, 0a\n\n*Trisetum spicatum* (L.) RICHT. (1) p.p.\n35,0–46,8 µm, MiW 40,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Puntgroepen *Triticum*-achtig; bij een contrastarm puntpatroon vaak moeilijk te beoordelen. Beste voorbeelden bij *Deschampsia* en *Mibora*.",
+          "outcome": {
+            "text": "8.2.8.2 *Triticum*-typeW\n\n*Agrostis capillaris* L. (1) p.p.\n26,3–37,0 µm, MiW 31,3 µm; 50 PK, 0a\n\n*Anthoxanthum odoratum* L. (1) p.p.\n30,5–43,5 µm, MiW 38,4 µm; 50 PK, 0a\n\n*Apera spica-venti* (L.) P.BEAUV. (1) p.p.\n20,0–32,8 µm, MiW 26,4 µm; 50 PK, 0a\n\n*Arrhenatherum elatius* (L.) P.BEAUV. p.p. (1)\n35,5–49,3 µm, MiW 42,2 µm; 51 PK, 0a\n\n*Briza media* L. (1) p.p.\n30,5–40,0 µm, MiW 36,5 µm; 51 PK, 0a\n\n*Calamagrostis stricta* (TIMM.) KOELER (1)\n30,5–40,8 µm, MiW 35,4 µm; 50 PK, 0a\n\n*Corynephorus canescens* (L.) P.BEAUV. (1)\n21,5–26,3 µm, MiW 23,9 µm; 50 PK, 0a\n\n*Deschampsia cespitosa* (L.) P.BEAUV. (1)\n26,5–35,0 µm, MiW 31,2 µm; 50 PK, 0a\n\n*Deschampsia flexuosa* (L.) TRIN. (1)\n27,5–35,0 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Festuca altissima* ALL. (1) p.p.\n25,5–35,0 µm, MiW 29,2 µm; 50 PK, 0a\n\n*Gastridium ventricosum* (GOUAN) SCHINZ & THELL. (1)\n24,5–32,8 µm, MiW 28,4 µm; 50 PK, 0a\n\n*Holcus lanatus* L. (1) p.p.\n30,0–39,8 µm, MiW 33,2 µm; 51 PK, 0a\n\n*Melica uniflora* RETZ. (1) p.p.\n32,8–45,0 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Mibora minima* (L.) DESV. (1)\n24,3–37,0 µm, MiW 27,7 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Puntgroepen met maximaal een hoger aantal punten dan bij het *Triticum*-type; punten meestal groter en contrastrijker.",
+          "outcome": {
+            "text": "8.2.8.3 *Panicum*-typeW\n\nVergelijkbaar met het *Triticum*-type, maar maximaal met een hoger aantal punten in de puntgroepen.\n\n*Sesleria albicans* KIT. & SCHULT. (1)\n34,3–45,0 µm, MiW 38,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

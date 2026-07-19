@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-mertensia",
+    "title": "28.9 *Mertensia maritima*",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 13–18 µm; polar afgerond; porate en niet-porate colpi even lang.",
+          "outcome": {
+            "text": "28.9 *Mertensia maritima*\n\nPK prolaat (PForml 1,4–1,8); equatoriaal (meestal zwak) haltervormig. 3(4) porate + 3(4) niet-porate colpi even lang; porate breder. Poriën 1,2 × 3,0 µm. Exine psilaat, ca. 1 µm.\n\n*Mertensia maritima* (L.) S.F. GRAY (1)\n13,5–18,0 µm, MiW 16,1 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

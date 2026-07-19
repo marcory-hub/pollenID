@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-cneorum",
+    "title": "19.12 *Cneorum tricoccon* (Tafel 52: 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, PForml 1,02–1,31, polarvelden klein (PFeldI 0,19–0,27). Poriën rondachtig, 7–12 µm, contrastarm en onregelmatig begrensd.",
+          "outcome": {
+            "text": "19.12 *Cneorum tricoccon*\n\nExine 2–3 µm, endexine ca. 0,8–1,0 µm, duidelijk dikker dan het tectum. Sculptuur contrastrijk striaat-microreticulaat, brochi tot 1,0 µm. Valla lang, overwegend meridionaal, tot 0,7 µm breed; groep van 5 parallelle valla ≈ 5 µm. Regelmatig patroon (vgl. *Tuberaria guttata*). Onderscheid van *Atropa bella-donna* kan moeilijk zijn (S. 276).\n\n*Cneorum tricoccon* L. (2)\n45,7–60,9 µm, MiW 52,1 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

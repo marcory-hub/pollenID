@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-robinia",
+    "title": "23.5 *Robinia pseudoacacia* (Tafel 80: 6–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Fossulaat/rugulaat; PK 30–40 µm; rugulate elementen dicht, vaak vernet.",
+          "outcome": {
+            "text": "23.5 *Robinia pseudoacacia*\n\nZeer gelijkend op *Laburnum*. PForml 1,0–1,41; PFeldI 0,31–0,47. Overlap met *Laburnum* slechts ca. 30–33 µm. Rugulate sculptuur dichter; fossulaat daardoor minder opvallend. Polarvelden kunnen psilaat zijn. Columellae niet herkenbaar. Exine 1–1,5 µm.\n\n*Robinia pseudoacacia* L. (3)\n30,5–40,0 µm, MiW 35,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug22-tricolporatae-ret-fabaceae.json",
-    "title": "22.31 Fabaceae p.p. (Beug)",
+    "key": "beug22-tricolporatae-ret-fabaceae",
+    "title": "22.31 Fabaceae p.p. — tricolporaat, suprareticulaat (Tafel 77–79)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 6,
-    "start": "1"
+    "note": "Fasecontrast / olie-immersie voor reticulum en columellae.",
+    "start": "1",
+    "stepCount": 5
   },
   "start": "1",
   "steps": {
@@ -28,15 +29,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 15-20 µm groot (Tafel 77: 1-4).",
-          "id": {
-            "name": "Galega officinalis"
+          "label": "PK 15–20 µm (Tafel 77: 1–4).",
+          "outcome": {
+            "text": "22.31.1 *Galega officinalis* — zie deelsleutel."
           }
         },
         {
-          "label": "PK groter als 20-28 µm (Tafel 77: 5-10).",
-          "id": {
-            "name": "Cicer arietinum"
+          "label": "PK groter dan 20–28 µm (Tafel 77: 5–10).",
+          "outcome": {
+            "text": "22.31.2 *Cicer arietinum* — zie deelsleutel."
           }
         }
       ]
@@ -46,13 +47,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "brochi 1,0-1,5 (max. 1,8) µm groot (Tafel 77: 11-19).",
-          "id": {
-            "name": "Astragalus-type"
+          "label": "Brochi 1,0–1,5 (max. 1,8) µm (Tafel 77: 11–19).",
+          "outcome": {
+            "text": "22.31.3 *Astragalus*-type — zie deelsleutel (*Astragalus*, *Oxytropis*, *Ononis*, *Colutea*, *Melilotus* p.p.)."
           }
         },
         {
-          "label": "brochi duidelijk groter als 1,5 µm.",
+          "label": "Brochi duidelijk groter dan 1,5 µm.",
           "next": "4"
         }
       ]
@@ -62,39 +63,33 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porenrandingen minstens gedeeltelijk met costae, poriën daarom contrastrijk.",
-          "next": "5"
+          "label": "Porieranden zonder costae; poriën daardoor vaak contrastarm (Tafel 77: 20–22, Tafel 78: 1–14, Tafel 79: 1–2).",
+          "outcome": {
+            "text": "22.31.4 *Trifolium* — zie deelsleutel."
+          }
         },
         {
-          "label": "Porenrandingen zonder costae, poriën daarom vaak contrastarm (Tafel 77: 20-22, Tafel 78: 1-14, Tafel 79: 1-2).",
-          "id": {
-            "name": "Trifolium"
-          }
+          "label": "Porieranden ten minste gedeeltelijk met costae; poriën daardoor contrastrijk.",
+          "next": "5"
         }
       ]
     },
     "5": {
       "id": "5",
       "type": "step",
+      "note": "OCR: tweede arm van stap 5 zonder expliciet nummer; naar 22.31.6 *Lathyrus*-type op basis van brochi max. 2,5–3,0 µm.",
       "choices": [
         {
-          "label": "Grootste brochi over 3,0 µm en tot 4,5 µm groot (Tafel 78: 15-19, Tafel 79: 8-10).",
-          "id": {
-            "name": "Vicia-type"
+          "label": "Grootste brochi groter dan 3,0 µm en tot 4,5 µm (Tafel 78: 15–19, Tafel 79: 8–10).",
+          "outcome": {
+            "text": "22.31.5 *Vicia*-type — zie deelsleutel (*Vicia* p.p., *Pisum*)."
           }
         },
         {
-          "label": "brochi maximaal 2,5-3,0 µm groot.",
-          "next": "6"
-        }
-      ]
-    },
-    "6": {
-      "id": "6",
-      "type": "step",
-      "choices": [
-        {
-          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          "label": "Brochi maximaal 2,5–3,0 µm.",
+          "outcome": {
+            "text": "22.31.6 *Lathyrus*-type — zie deelsleutel (*Lathyrus* p.p., *Lens*, *Trigonella foenum-graecum*, *Vicia sepium*)."
+          }
         }
       ]
     }

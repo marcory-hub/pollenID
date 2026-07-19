@@ -1,6 +1,6 @@
 # *Onosis spinoza* (kattendoorn)
 
-{{ pollen_gallery("onosis_spinoza") }}
+{{ gallery("onosis_spinoza") }}
 
 ## Kenmerken
 

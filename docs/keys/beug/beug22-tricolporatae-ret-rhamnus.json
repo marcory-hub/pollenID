@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-rhamnus",
+    "title": "22.9 *Rhamnus*-type (Tafel 71: 1–5)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi >1 tot 2 µm; muri breed en contrastarm; intercolpia concaaf.",
+          "outcome": {
+            "text": "22.9 *Rhamnus*-type\n\nPK sferoïdisch (PForml 0,9–1,1). Polarvelden overwegend klein (PFeldI 0,14–0,28). Intercolpia sterk afgeplat tot concaaf. Exine 1,1–1,4 µm (endexine 1,0 µm). Brochi meestal 1–2 µm (*Rh. alpinus* tot 3 µm, *Rh. alaternus* tot 4 µm). Columellae niet herkenbaar. Poriën variabel: korte dwarsspleet (ca. 1,5 × 4 µm) of rond (1,5–2 µm).\n\n*Rhamnus alaternus* L. (2)\n20,2–28,3 µm, MiW 24,8 µm; 50 PK, 0a\n\n*Rhamnus alpinus* L. (2)\n18,0–23,3 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Rhamnus catharticus* L. (2)\n16,6–22,3 µm, MiW 19,6 µm; 50 PK, 0a\n\n*Rhamnus pumilus* TURRA (2)\n18,0–24,3 µm, MiW 22,2 µm; 50 PK, 0a\n\n*Rhamnus saxatilis* JACQ. (2)\n18,6–24,5 µm, MiW 21,7 µm; 50 PK, 0a\n\nAansluitend:\n\n*Paliurus spina-christi* MILLER (1)\n12,7–26,6 µm, MiW 23,4 µm; 50 PK, 6a\nBrochi zeer klein en onduidelijk.\n\n*Ceanothus americanus* L. (1)\n15,9–23,0 µm, MiW 18,8 µm; 50 PK, 0a\nWaarschijnlijk niet van *Rhamnus* te onderscheiden.\n\n*Berchemia racemosa* SIB. et Zucc. (1)\n12,4–16,6 µm, MiW 14,9 µm; 50 PK, 0a\nDoor geringe grootte van alle Midden-Europese *Rhamnus*-soorten te scheiden. Exine ca. 1 µm; polarvelden middelgroot.\n\n*Koelreuteria paniculata* LAXM. (1)\n20,5–25,5 µm, MiW 23,4 µm; 30 PK, 6a\nExine 1,5–2,0 µm (endexine 0,5–1,0 µm), microreticulaat (perreticulaat) met columellae; brochi ca. 0,5 µm.\n\n*Frangula alnus*: fossulaat (vgl. S. 198), overigens met kleinere *Rhamnus*-soorten overeenkomend."
+          }
+        }
+      ]
+    }
+  }
+}

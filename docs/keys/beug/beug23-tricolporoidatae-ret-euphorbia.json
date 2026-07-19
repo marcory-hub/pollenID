@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-euphorbia",
+    "title": "23.11 *Euphorbia* (Tafel 81: 23–30, Tafel 82: 1–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Dikwandig (exine meestal 2–4 µm); suprareticulaat, vaak alleen in fasecontrast duidelijk.",
+          "outcome": {
+            "text": "23.11 *Euphorbia*\n\nPK meestal sferoïdisch (PForml 0,9–1,2); polarvelden klein tot middelgroot (PFeldI 0,15–0,32). Exine meestal 2,5–3 µm (soms 2,0–2,5 of tot 4 µm). Suprareticulaat; brochi (0,8)1,0–1,5 µm (zelden tot 2 µm). Columellae vaak in groepjes. Margines max. 4–5 µm breed. Colpi equatoriaal met brug (tot 12 µm bij grote PK). Ook bij tricolporate/psilate sleutels genoemd.\n\n*Euphorbia amygdaloides* L. (3)\n31,2–41,1 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Euphorbia angulata* JACQ. (1)\n34,7–44,6 µm, MiW 39,7 µm; 50 PK, 0a\n\n*Euphorbia carniolica* JACQ. (1)\n25,5–31,9 µm, MiW 30,1 µm; 50 PK, 0a\n\n*Euphorbia chamaesyce* L. (2)\n20,5–27,6 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Euphorbia cyparissias* L. (3)\n27,6–37,5 µm, MiW 32,9 µm; 50 PK, 0a\n\n*Euphorbia dulcis* L. (3)\n26,2–36,1 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Euphorbia epithymoides* L. (2)\n28,0–40,0 µm, MiW 35,0 µm; 50 PK, Oa\n\n*Euphorbia esula* L. s.str. (2)\n30,3–45,0 µm, MiW 39,1 µm; 50 PK, Oa\n\n*Euphorbia exigua* L. (4)\n20,9–28,7 µm, MiW 24,6 µm; 50 PK, Oa\n\n*Euphorbia falcata* L. (2)\n28,3–36,8 µm, MiW 33,4 µm; 50 PK, 0a\n\n*Euphorbia fragifera* JAN. (1)\n36,1–51,0 µm, MiW 44,6 µm; 50 PK, Oa\n\n*Euphorbia helioscopia* L. (2)\n30,0–41,5 µm, MiW 36,1 µm; 50 PK, Oa\n\n*Euphorbia humifusa* WILLD. (2)\n22,8–32,8 µm, MiW 27,9 µm; 50 PK, Oa\n\n*Euphorbia lathyris* L. (3)\n39,6–49,6 µm, MiW 45,5 µm; 50 PK, 0a\n\n*Euphorbia lucida* WALDST. & KIT. (2)\n29,0–39,3 µm, MiW 34,7 µm; 50 PK, Oa\n\n*Euphorbia maculata* L. (2)\n17,7–29,7 µm, MiW 24,8 µm; 50 PK, 0a\n\n*Euphorbia nicaeensis* ALL. (3)\n32,6–43,9 µm, MiW 38,0 µm; 50 PK, Oa\n\n*Euphorbia nutans* LAG. (2)\n21,9–31,2 µm, MiW 26,8 µm; 50 PK, Oa\n\n*Euphorbia palustris* L. (3)\n34,7–45,3 µm, MiW 41,3 µm; 50 PK, Oa\n\n*Euphorbia peplus* L. (1)\n21,3–27,5 µm, MiW 25,6 µm; 50 PK, Oa\n\n*Euphorbia platyphyllos* L. (4)\n22,7–30,4 µm, MiW 27,8 µm; 50 PK, Oa\n\n*Euphorbia salicifolia* HOST (2)\n29,0–36,1 µm, MiW 32,6 µm; 50 PK, 0a\n\n*Euphorbia saxatilis* JACQ. (2)\n29,0–38,2 µm, MiW 34,5 µm; 50 PK, 0a\n\n*Euphorbia segetalis* L. (3)\n26,9–38,9 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Euphorbia seguierana* NECKER (2)\n30,0–38,0 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Euphorbia stricta* L. (2)\n28,0–37,0 µm, MiW 32,9 µm; 50 PK, 0a\n\n*Euphorbia variabilis* CESATI (2)\n29,7–41,1 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Euphorbia verrucosa* L. (2)\n31,2–38,2 µm, MiW 33,5 µm; 50 PK, 0a\n\n*Euphorbia villosa* WALDST. & KIT. ex WILLD. (2)\n31,9–40,4 µm, MiW 37,5 µm; 50 PK, 0a\n\n*Euphorbia waldsteinii* (SOJAK) A.R.SM. (2)\n25,5–36,8 µm, MiW 31,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

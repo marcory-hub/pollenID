@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug26-pericolpatae.json",
-    "title": "26 Pericolpatae (Beug)",
+    "key": "beug26-pericolpatae",
+    "title": "26. Pericolpatae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 9,
-    "start": "1"
+    "note": "Alleen constant pericolpate PK; incidenteel pericolpate tricolpate vormen niet hier.",
+    "start": "1",
+    "stepCount": 9
   },
   "start": "1",
   "steps": {
@@ -14,28 +15,29 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK echinaat (Tafel 91: 14-20).",
-          "id": {
-            "name": "26.1 Koenigia islandica (Blz. 405)"
+          "label": "PK echinaat (Tafel 91: 14–20).",
+          "outcome": {
+            "text": "26.1 *Koenigia islandica* (S. 405) — zie deelsleutel."
           }
         },
         {
           "label": "PK niet echinaat.",
           "next": "2"
         }
-      ]
+      ],
+      "note": "Incidenteel pericolpate vormen van tricolpate taxa (o.a. *Ranunculus*) hier niet gesleuteld; in twijfelgevallen ook tricolpate sleutels gebruiken."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat, wanneer PK met breiten marges, vgl. 26.5 *Montia fontana*.",
-          "next": "6"
+          "label": "PK reticulaat (bij brede margines: vgl. 26.5 *Montia fontana*).",
+          "next": "3"
         },
         {
-          "label": "PK niet reticulaat, höchstens rugulaat-reticulaat of microechinaat: PK met 12 Colpi (*Montia, Spergula arvensis*) of 6 Colpi (*Corydalis*-Gruppe) in regel- en/of unregelmäßiger (*Cuscuta* p.p.) Anordnung.",
-          "next": "3"
+          "label": "PK niet reticulaat, hoogstens rugulaat-reticulaat of microechinaat; met 12 colpi (*Montia*, *Spergula arvensis*) of 6 colpi (Corydalis-groep) in regelmatige en/of onregelmatige (*Cuscuta* p.p.) rangschikking.",
+          "next": "6"
         }
       ]
     },
@@ -44,14 +46,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK kugelig, 50-70 µm groot, met 30 schmalen Colpi (Tafel 91: 11-13).",
-          "id": {
-            "name": "26.2 Persicaria amphibia (Blz. 405)",
-            "pollen_key": "persicaria_amphibia"
+          "label": "PK bolvormig, 50–70 µm, met 30 smalle colpi (Tafel 91: 11–13).",
+          "outcome": {
+            "text": "26.2 *Persicaria amphibia* (S. 405) — zie deelsleutel."
           }
         },
         {
-          "label": "PK kleiner als 45 µm of langgestreckt en met wenigen undeutlichen Colpi.",
+          "label": "PK kleiner dan 45 µm, of langgerekt met weinig onduidelijke colpi.",
           "next": "4"
         }
       ]
@@ -61,13 +62,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK rund, homopolar.",
+          "label": "PK rond, homopolair.",
           "next": "5"
         },
         {
-          "label": "PK langgestreckt, spitz gleichschenklig-dreieckig of stumpf dreieckig-sackförmig met 4-6 Colpi in paralleler Anordnung en einem Colpus of Porus auf der korte Seite des gleichschenkligen Dreiecks (Tafel 116: 14-17, Tafel 117, Tafel 118: 1-7).",
-          "id": {
-            "name": "Cyperaceae (Blz. 404)"
+          "label": "PK langgerekt, spits gelijkbenig-driehoekig of stomp driehoekig-zakvormig; 4–6 colpi parallel; één colpus of porus op de korte zijde van de gelijkbenige driehoek (Tafel 116: 14–17, Tafel 117, Tafel 118: 1–7).",
+          "outcome": {
+            "text": "Cyperaceae (S. 404) — zie `beug33-periporatae-cyperaceae.md`"
           }
         }
       ]
@@ -77,15 +78,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine 3,5-4 µm dik, PK met 6 Colpi, in einigen Fällen met onregelmatig verteilten Colpi (Tafel 91: 21-24).",
-          "id": {
-            "name": "26.3 Cuscuta lupuliformis (Blz. 405)"
+          "label": "Exine 3,5–4 µm dik; PK met 6 colpi, soms onregelmatig verdeeld (Tafel 91: 21–24).",
+          "outcome": {
+            "text": "26.3 *Cuscuta lupuliformis* (S. 405) — zie deelsleutel."
           }
         },
         {
-          "label": "Exine 1,0-1,2 µm dik, PK met 6-8 breiten, engesenkten en körnig bekleideten Colpi (Tafel 92: 1-4).",
-          "id": {
-            "name": "26.4 Cercidiphyllum (Blz. 405)"
+          "label": "Exine 1,0–1,2 µm dik; PK met 6–8 brede, ingezonken, korrelig beklede colpi (Tafel 92: 1–4).",
+          "outcome": {
+            "text": "26.4 *Cercidiphyllum* (S. 405) — zie deelsleutel."
           }
         }
       ]
@@ -95,9 +96,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK marginat, microechinaat. marges 5 µm breit, Exine en columella's hier dunner (Tafel 92: 5-9).",
-          "id": {
-            "name": "26.5 Montia fontana (Blz. 405)"
+          "label": "PK marginat, microechinaat; margines 5 µm breed; exine en columellae hier dunner (Tafel 92: 5–9).",
+          "outcome": {
+            "text": "26.5 *Montia fontana* (S. 405) — zie deelsleutel."
           }
         },
         {
@@ -111,9 +112,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK rugulat, rugulat-reticulaat, verrucaat of fossulat (Tafel 92: 10-19).",
-          "id": {
-            "name": "Corydalis gruppe"
+          "label": "PK rugulaat, rugulaat-reticulaat, verrucaat of fossulaat (Tafel 92: 10–19).",
+          "outcome": {
+            "text": "26.6 Corydalis-groep (S. 406) — zie deelsleutel."
           }
         },
         {
@@ -127,13 +128,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK scabraat (microechinaat); die Skulpturelemente staan ausschließlich over 0,6-1,0 µm dicken columella's (Tafel 92: 20-23).",
-          "id": {
-            "name": "26.7 Pulsatilla alpina (Blz. 408)"
+          "label": "PK scabraat (microechinaat); sculptuurelementen staan uitsluitend boven 0,6–1,0 µm dikke columellae (Tafel 92: 20–23).",
+          "outcome": {
+            "text": "26.7 *Pulsatilla alpina* (S. 408) — zie deelsleutel."
           }
         },
         {
-          "label": "Skulpturelemente niet an die Lage von columella's gebunden of PK psilaat.",
+          "label": "Sculptuurelementen niet gebonden aan de ligging van columellae, of PK psilaat.",
           "next": "9"
         }
       ]
@@ -143,16 +144,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine meestal 2,0-3,0 µm dik, columella's meestal 0,5-0,8 µm dik, Anordnung der Colpi tetraedrisch of onregelmatig, Tectum met einzelnen Perforationen.",
-          "id": {
-            "name": "26.8 Cuscuta p.p. (Blz. 408)"
+          "label": "Exine meestal 2,0–3,0 µm dik; columellae meestal 0,5–0,8 µm dik; colpi tetraëdrisch of onregelmatig; tectum met enkele perforaties.",
+          "outcome": {
+            "text": "26.8 *Cuscuta* p.p. (S. 408) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met Tectum perforatum, met 12 Colpi in regelmäßiger Anordnung, Exine 1,5-2,0 µm dik, columella's ca. 0,7 µm dik (Tafel 93: 1-5).",
-          "id": {
-            "name": "26.9 Spergula arvensis (Blz. 408)",
-            "pollen_key": "spergula_arvensis"
+          "label": "PK met tectum perforatum; 12 colpi in regelmatige rangschikking; exine 1,5–2,0 µm; columellae ca. 0,7 µm (Tafel 93: 1–5).",
+          "outcome": {
+            "text": "26.9 *Spergula arvensis* (S. 408) — zie deelsleutel."
           }
         }
       ]

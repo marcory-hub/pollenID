@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-parrotia",
+    "title": "21.7 *Parrotia persica* (Tafel 59: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden middelgroot; endexine even dik als of dikker dan ektexine; brochi 1,0–2,0 µm.",
+          "outcome": {
+            "text": "21.7 *Parrotia persica*\n\nPForml omstreeks 1,0. Exine 1,2–1,7 µm; endexine ca. 0,8 µm. Colpi met sterk uitgefranste randen.\n\n*Parrotia persica* C.A. MEYER (2)\n36,0–50,8 µm, MiW 42,0 µm; 33 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

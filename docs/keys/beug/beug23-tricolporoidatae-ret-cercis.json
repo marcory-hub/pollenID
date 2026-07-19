@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-cercis",
+    "title": "23.16 *Cercis siliquastrum* (Tafel 83: 24–28)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 20–28 µm; brochi polar kleiner; columellae incidenteel dubbelrijig.",
+          "outcome": {
+            "text": "23.16 *Cercis siliquastrum*\n\nPK sferoïdisch tot zwak prolaat. Polarvelden klein tot middelgroot. Exine 1,5–2,0 µm (randen dunner). Brochi tot 2 µm, polar duidelijk kleiner. Columellae in fasecontrast duidelijk; incidenteel over korte stukken tweerijig. Ook bij tricolporate sleutels genoemd.\n\n*Cercis siliquastrum* L. (2)\n20,3–27,5 µm, MiW 25,2 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

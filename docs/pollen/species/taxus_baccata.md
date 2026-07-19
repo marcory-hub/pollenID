@@ -1,6 +1,6 @@
 # *Taxus baccata* (taxus)
 
-{{ pollen_gallery("taxus_baccata") }}
+{{ gallery("taxus_baccata") }}
 
 ## Kenmerken
 

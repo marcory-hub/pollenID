@@ -305,7 +305,7 @@ def rewrite_docs(omap: OrderedDict[str, str]) -> int:
                 f'"pollen_key": "{nw}"',
                 ns,
             )
-            ns = ns.replace(f'pollen_gallery("{old}")', f'pollen_gallery("{nw}")')
+            ns = ns.replace(f'gallery("{old}")', f'gallery("{nw}")')
             ns = ns.replace(f'pollen("{old}",', f'pollen("{nw}",')
             ns = ns.replace(f'pollen_img("{old}"', f'pollen_img("{nw}"')
             ns = ns.replace(f"by-taxon/{old}/", f"by-taxon/{nw}/")

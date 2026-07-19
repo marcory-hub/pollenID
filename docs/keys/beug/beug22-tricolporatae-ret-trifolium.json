@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug22-tricolporatae-ret-trifolium.json",
-    "title": "22.31.4.2 Trifolium pratense-type (Beug)",
+    "key": "beug22-tricolporatae-ret-trifolium",
+    "title": "22.31.4 *Trifolium* (Tafel 77: 20–22, Tafel 78: 1–14, Tafel 79: 1–2)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "Porieranden zonder costae / contrastarm.",
+    "start": "1",
+    "stepCount": 6
   },
   "start": "1",
   "steps": {
@@ -14,13 +15,96 @@
       "type": "step",
       "choices": [
         {
-          "label": "brochi polair en subpolair niet of nur onwezenlijk kleiner als op den Intercolpiën (Tafel 78: 1-7).",
-          "id": {
-            "name": "22.31.4.2 Trifolium pratense-type (Blz... 351)"
+          "label": "PK groter dan 55 µm (Tafel 77: 20–22).",
+          "outcome": {
+            "text": "22.31.4.1 *Trifolium pannonicum*\n\nPForml 1,28–1,49; PFeldI ca. 0,4. Brochi ca. 2,5–9,0 µm. Polar/subpolar glad of zwak grof. Poriën contrastarm, 9–14 µm. Exine 2–2,5 µm.\n\n*Trifolium pannonicum* JACQ. (2)\n57,5–72,0 µm, MiW 63,9 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Geen match. Ga terug naar de hoofdkey. [te verifiëren]"
+          "label": "PK kleiner.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 42–50 µm.",
+          "next": "3"
+        },
+        {
+          "label": "PK kleiner dan 42 µm.",
+          "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi polar/subpolar niet of nauwelijks kleiner dan op de intercolpia (Tafel 78: 1–7).",
+          "outcome": {
+            "text": "22.31.4.2 *Trifolium pratense*-type\n\nPK (38)40–55(60) µm; PForml 1,20–1,75; PFeldI 0,40–0,55. Brochi 1,5–4 µm (soms 6–8 µm), ook op polarvelden.\n\n*Trifolium incarnatum* L. (3)\n40,5–54,8 µm, MiW 47,0 µm; 50 PK, Oa\n\n*Trifolium medium* L. (3)\n45,0–59,5 µm, MiW 53,8 µm; 50 PK, 0a\n\n*Trifolium ochroleucum* HUDS. (2)\n40,8–54,0 µm, MiW 46,7 µm; 50 PK, 0a\n\n*Trifolium alpestre* L. (4)\n35,8–49,3 µm, MiW 41,7 µm; 50 PK, 0a\n\n*Trifolium pratense* L. (2)\n40,0–50,3 µm, MiW 45,3 µm; 50 PK, 0a\n\n*Trifolium subterraneum* L. (2)\n38,2–48,8 µm, MiW 44,9 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "Brochi polar/subpolar kleiner dan op de intercolpia, vaak alleen grof of ontbrekend (Tafel 78: 8–9).",
+          "outcome": {
+            "text": "22.31.4.3 *Trifolium alpestre*-type\n\nPK 35–50 µm; PForml 1,18–1,61; PFeldI 0,23–0,37. Brochi 1,5–4(5) µm. Tectum polar glad of met enkele kleine kuiltjes.\n\n*Trifolium noricum* WULFEN (2)\n35,4–48,9 µm, MiW 42,1 µm; 50 PK, 0a\n\n*Trifolium rubens* L. (3)\n40,3–50,3 µm, MiW 45,7 µm; 50 PK, Oa\n\nN.B. *T. alpestre* L. staat bij Beug ook onder het *pratense*-type (matenlijst)."
+          }
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 35–42 µm.",
+          "outcome": {
+            "text": "22.31.4.4 *Trifolium* indet.\n\nOverlapping *pratense* / *alpestre* / *repens*-typen; niet nader te bepalen.\n\n*Trifolium squamosum* L. (2)\n35,0–42,0 µm, MiW 38,6 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "PK kleiner dan 35 µm.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi max. 2–4 µm, deels ook in polargebied (Tafel 78: 10–14).",
+          "outcome": {
+            "text": "22.31.4.5 *Trifolium repens*-type (incl. 3 *Trigonella*-soorten)\n\nMeestal <40 µm (vaak <35 µm). PForml 1,10–1,60(1,83). Brochi 1,5–4(4,5) µm. Porieregio vaak voorgeschoven («vlinderporie»). Exine 1,2–2,0 µm.\n\n*Trifolium alpinum* L. (3)\n32,5–39,5 µm, MiW 37,1 µm; 50 PK, Oa\n\n*Trifolium arvense* L. (3)\n26,8–36,3 µm, MiW 31,0 µm; 50 PK, Oa\n\n*Trifolium aureum* POLLICH (2)\n24,8–32,5 µm, MiW 28,9 µm; 50 PK, Oa\n\n*Trifolium bocconei* SAVI (2)\n27,3–34,7 µm, MiW 31,0 µm; 50 PK, Oa\n\n*Trifolium campestre* SCHREBER (2)\n25,8–35,0 µm, MiW 31,9 µm; 50 PK, Oa\n\n*Trifolium dubium* SIBTH. (4)\n29,5–38,0 µm, MiW 33,0 µm; 50 PK, 0a\n\n*Trifolium fragiferum* L. (2)\n28,5–38,0 µm, MiW 33,7 µm; 50 PK, 0a\n\n*Trifolium hybridum* L. (3)\n31,5–40,5 µm, MiW 37,2 µm; 50 PK, 0a\n\n*Trifolium lupinaster* L. (3)\n30,0–38,0 µm, MiW 35,0 µm; 50 PK, 0a\n\n*Trifolium ornithopodioides* L. (2)\n28,0–35,0 µm, MiW 31,3 µm; 30 PK, Oa\n\n*Trifolium pallescens* SCHREBER (3)\n27,8–42,5 µm, MiW 36,2 µm; 50 PK, 0a\n\n*Trifolium patens* SCHREBER (2)\n25,5–35,4 µm, MiW 31,4 µm; 50 PK, 0a\n\n*Trifolium repens* L. (4)\n26,3–34,3 µm, MiW 30,9 µm; 50 PK, 0a\n\n*Trifolium resupinatum* L. (1)\n24,8–31,5 µm, MiW 28,1 µm; 50 PK, 0a\n\n*Trifolium retusum* L. (2)\n21,2–28,3 µm, MiW 24,8 µm; 50 PK, 0a\n\n*Trifolium saxatile* ALL. (3)\n26,2–33,5 µm, MiW 29,9 µm; 50 PK, 0a\n\n*Trifolium scabrum* L. (4)\n32,8–43,8 µm, MiW 38,6 µm; 50 PK, 0a\n\n*Trifolium striatum* L. (3)\n31,5–42,3 µm, MiW 35,4 µm; 50 PK, 0a\n\n*Trigonella caerulea* (L.) SER. (5)\n24,8–34,0 µm, MiW 30,3 µm; 50 PK, 3a\n\n*Trigonella monspeliaca* L. (5)\n24,8–31,2 µm, MiW 27,6 µm; 50 PK, 0a\n\n*Trigonella ornithopodioides* LAM. & DC (1)\n28,0–35,0 µm, MiW 31,3 µm; 30 PK, 0a"
+          }
+        },
+        {
+          "label": "Brochi slechts 1–2 µm.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK hoekig, sterk afgeplatte polen; PForml 1,0–1,3; polarvelden meestal groot; brochi moeilijk herkenbaar; poriën groot, contrastrijk, voorgeschoven (Tafel 79: 1–2).",
+          "outcome": {
+            "text": "22.31.4.6 *Trifolium badium*-type\n\nPK 24–35 µm. Brochi 1–1,5 µm [OCR: «mm» → µm], zeer contrastarm. Poriën tot 8 × 8 µm. Exine 1,5–2,0 µm.\n\n*Trifolium badium* SCHREBER (3)\n27,5–35,3 µm, MiW 32,6 µm; 50 PK, 0a\n\n*Trifolium spadiceum* L. (3)\n24,5–29,5 µm, MiW 26,7 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "PK niet hoekig en niet met voorgeschoven poriën; PForml groter dan 1,3–1,4; brochi zeer onduidelijk; poriën onduidelijk.",
+          "outcome": {
+            "text": "22.31.4.7 *Trifolium*-verzamelgroep\n\n*Trifolium glomeratum* L. (2)\n25,5–34,5 µm, MiW 30,8 µm; 50 PK, 0a\n\n*Trifolium montanum* L. (3)\n27,0–35,5 µm, MiW 31,8 µm; 50 PK, 0a\n(PForml 1,45–1,89; nagenoeg parallelle zijden — volgens Beug vaak herkenbaar)\n\n*Trifolium thalii* VILLARS (3)\n29,5–39,0 µm, MiW 34,8 µm; 50 PK, Oa"
+          }
         }
       ]
     }

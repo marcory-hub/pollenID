@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-primula-clusiana",
+    "title": "23.7 *Primula clusiana*-type (Tafel 80: 16–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Heterostylie: kleine en grote PK; overlap soorten ca. 19–21 µm. Omvat *Primula* p.p., *Chrysosplenium*, *Samolus*.",
+      "choices": [
+        {
+          "label": "Kleine PK (meestal 11–21 µm); brochi in helderveld niet, in fasecontrast slechts zwak; lumina ca. 0,5 µm (Tafel 80: 21–25).",
+          "outcome": {
+            "text": "23.7 *Primula clusiana*-type — kleine PK\n\nExine 0,8–1,0 µm. Colpi equatoriaal vernauwd, equator vaak sterk voorgeschoven (ruitvormig; PForml 0,86–1,27).\n\nPer soort: eerste regel = klein, tweede = groot (waar aanwezig).\n\n*Primula auricula* L. (2)\n12,0–17,0 µm, MiW 14,1 µm; 50 PK, 0a\n19,8–27,9 µm, MiW 24,3 µm; 50 PK, 0a\n\n*Primula carniolica* JACQ. (2)\n13,3–16,8 µm, MiW 15,4 µm; 50 PK, 6a\n17,8–25,9 µm, MiW 22,0 µm; 30 PK, Oa\n\n*Primula clusiana* TAUSCH (3)\n16,3–20,8 µm, MiW 18,8 µm; 50 PK, 0a\n28,0–35,2 µm, MiW 30,7 µm; 50 PK, 6a\n\n*Primula daoensis* (LEYBOLD) LEYBOLD (2)\n15,6–17,7 µm, MiW 16,2 µm; 20 PK, 6a\n20,4–26,9 µm, MiW 24,0 µm; 45 PK, 6a\n\n*Primula glaucescens* MORETTI (2)\n13,0–18,8 µm, MiW 15,2 µm; 16 PK, 0a\n22,8–31,7 µm, MiW 27,0 µm; 45 PK, 6a\n\n*Primula glutinosa* WULFEN (2)\n14,2–18,1 µm, MiW 16,2 µm; 30 PK, 6a\n19,0–27,8 µm, MiW 21,8 µm; 50 PK, 0a\n\n*Primula hirsuta* ALL. (2)\n12,0–17,5 µm, MiW 15,6 µm; 50 PK, 0a\n20,5–26,0 µm, MiW 23,8 µm; 25 PK, 0a\n\n*Primula integrifolia* L. (2)\n13,5–17,3 µm, MiW 15,5 µm; 25 PK, 0a\n21,5–25,8 µm, MiW 24,5 µm; 50 PK, 0a\n\n*Primula latifolia* LAPEYR. (1)\n15,5–20,0 µm, MiW 17,7 µm; 25 PK, 6a\n20,9–25,7 µm, MiW 23,6 µm; 50 PK, 6a\n\n*Primula minima* L. (2)\n12,8–20,8 µm, MiW 19,1 µm; 50 PK, Oa\n21,1–26,6 µm, MiW 23,5 µm; 15 PK, 6a\n\n*Primula spectabilis* TRATT. (2)\n13,8–20,5 µm, MiW 16,1 µm; 19 PK, 0a\n24,6–29,7 µm, MiW 27,3 µm; 30 PK, 6a\n\n*Primula tyrolensis* SCHOTT (2)\n15,9–21,2 µm, MiW 19,2 µm; 12 PK, 6a\n23,0–28,1 µm, MiW 25,1 µm; 10 PK, 6a\n\n*Primula villosa* WULFEN (2)\n13,3–18,6 µm, MiW 15,7 µm; 35 PK, 6a\n20,4–25,7 µm, MiW 23,4 µm; 30 PK, 6a\n\n*Primula wulfeniana* SCHOTT (1)\n14,5–16,8 µm, MiW 16,3 µm; 10 PK, 6a\n24,8–32,2 µm, MiW 28,0 µm; 50 PK, 6a\n\n*Samolus valerandi* L. (5)\n13,3–19,3 µm, MiW 16,5 µm; 50 PK, 1a\n\n*Chrysosplenium oppositifolium* L. (5)\n11,2–18,2 µm, MiW 14,5 µm; 50 PK, 0a\n\n*Chrysosplenium alternifolium* L. (4)\n12,3–18,2 µm, MiW 16,5 µm; 50 PK, 0a\n(Exine 1,8–2,0 µm; brochi <0,5 µm; niet zeker van *Primula clusiana*-type te scheiden.)"
+          }
+        },
+        {
+          "label": "Grote PK (meestal 19–35 µm); brochi max. 1,0–1,2 µm; in helderveld/fasecontrast herkenbaar (Tafel 80: 16–20).",
+          "outcome": {
+            "text": "23.7 *Primula clusiana*-type — grote PK\n\nPForml 1,16–1,81. Polarvelden klein. Exine 1,0–1,3 µm. Columellae in bovenaanzicht niet herkenbaar.\n\nZie soortenlijst onder «kleine PK» (tweede regel per soort)."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Frangula alnus* (vuilboom)
 
-{{ pollen_gallery("frangula_alnus") }}
+{{ gallery("frangula_alnus") }}
 
 ## Kenmerken
 

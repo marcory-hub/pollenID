@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-helianthemum",
+    "title": "19.7 *Helianthemum nummularium*-groep (Tafel 49: 1, 3–4, 11–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "In Zuid-Europa ook *Cistus*-soorten met reticulaat-striate sculptuur (niet hier behandeld). Vgl. *Cistus albidus*-type (S. 335).",
+      "choices": [
+        {
+          "label": "PK striaat en met tectum perforatum.",
+          "outcome": {
+            "text": "19.7.1 *Helianthemum nummularium*-type (Tafel 49: 1, 3–4, 11–12)\n\nPK apiculaat, ruitvormig of elliptisch, prolaat tot sferoïdisch, PForml 1,21–1,47. Polarvelden klein (PFeldI 0,13–0,26). PK striaat, tussen de valla geperforeerd. Poriën 4,5–5,5 µm. Exine omstreeks 2 µm dik.\n\n*Helianthemum nummularium* (L.) MILL. (1)\n37,5–59,8 µm, MiW 49,0 µm; 50 PK, 5a\n\n*Helianthemum nummularium* (L.) MILL. subsp. *grandiflorum* (SCOR.) SCHINZ & THELL. (3)\n49,0–58,8 µm, MiW 54,0 µm; 50 PK, 0a\n\n*Helianthemum nummularium* (L.) MILL. subsp. *obscurum* (CELAK.) HOLUB (2)\n45,3–58,0 µm, MiW 50,7 µm; 50 PK, 0a\n\n*Helianthemum apenninum* (L.) MILL. (2)\n38,2–59,8 µm, MiW 50,3 µm; 50 PK, Oa\n\n*Helianthemum hirtum* (L.) MILL. (1)\n42,1–55,6 µm, MiW 48,5 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "PK bovendien overwegend aan de intercolpium-randen striaat-reticulaat (fasecontrast).",
+          "outcome": {
+            "text": "19.7.2 *Helianthemum salicifolium*-type (Tafel 49: 13–14)\n\nPK prolaat tot sferoïdisch, PFormI 1,25–1,48. Polarvelden klein (PFeldI 0,15–0,23). Alleen in fasecontrast zichtbaar: vernetting van de valla tot een reticulaat-striat systeem met meridionaal gestrekte, hoekige brochi 2,0–4,0 µm lang. Exine omstreeks 2 µm dik.\n\n*Helianthemum salicifolium* (L.) MILLER (2)\n47,5–67,0 µm, MiW 56,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

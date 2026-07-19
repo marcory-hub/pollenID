@@ -1,6 +1,6 @@
 # *Acer pseudoplatanoides* (Esdoorn)
 
-{{ pollen_gallery("acer_pseudoplatanoides") }}
+{{ gallery("acer_pseudoplatanoides") }}
 
 ## Kenmerken
 

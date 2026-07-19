@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae-scorzonera-hispanica",
+    "title": "29.7 *Scorzonera hispanica* (Tafel 95: 7–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "1 grote polaire lacuna per polargebied.",
+          "outcome": {
+            "text": "29.7 *Scorzonera hispanica*\n\n6 porale + 6 equatoriale + 6 interaperturale + 2 polaire lacunae. Lacunae vijfhoekig (zelden zeshoekig). Polaire lacunae tweelokig (bijna gesloten boven aperturen). Ribben ca. 5 µm, éénrijig. Buitenste columellae-laag + echini 9–11 µm; echini ca. 4 µm. Polaire lacuna diagonaal bijna 20 µm.\n\n*Scorzonera hispanica* L. (3)\n43,0–54,5 µm, MiW 47,6 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

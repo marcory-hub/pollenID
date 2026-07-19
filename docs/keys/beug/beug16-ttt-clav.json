@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug16-ttt-clav.json",
+    "key": "beug16-ttt-clav",
     "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (clavate, baculate, verrucate of gemmate sculpturen) (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 7,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -14,11 +15,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "De sculptuurelementen zijn netjes gerangschikt en staan op een reticulum.",
+          "label": "De sculptuurelementen zijn netvormig gerangschikt of staan op een reticulum.",
           "next": "2"
         },
         {
-          "label": "De sculptuurelementen (clavae, bacula, ook gemmae of verrucae) zijn niet netjes gerangschikt en staan niet op een reticulum. Bij *Linum* en *Radiola* kunnen zij regelmatige rijen vormen.",
+          "label": "De sculptuurelementen (clavae, bacula, ook gemmae of verrucae) zijn niet netvormig gerangschikt en staan niet op een reticulum. Bij *Linum* en *Radiola* kunnen zij ± regelmatige rijen vormen.",
           "next": "4"
         }
       ]
@@ -28,13 +29,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine bis 1,5 µm dik, PK bis ca. 30 µm groot. Sculptuurelementen (clavae) klein, netzig (retipilaat) gerangschikt, aperturen onduidelijk (tabel 96: 1–4).",
-          "id": {
-            "name": "Callitriche palustris-type (Blz... 424)"
+          "label": "Exine tot 1,5 µm dik, PK tot ca. 30 µm groot. Sculptuurelementen (clavae) klein, netvormig (retipilaat) gerangschikt, aperturen onduidelijk (tabel 96: 1–4).",
+          "outcome": {
+            "text": "*Callitriche palustris*-type (S. 424) — zie `beug30-diporatae-callitriche.md`"
           }
         },
         {
-          "label": "Exine duidelijk over 1,5 µm dik, PK über 40 µm en bis 150 µm groot.",
+          "label": "Exine duidelijk meer dan 1,5 µm dik, PK meer dan 40 µm en tot 150 µm groot.",
           "next": "3"
         }
       ]
@@ -45,14 +46,14 @@
       "choices": [
         {
           "label": "De clavae staan op een reticulum (tabel 34: 18–21; Afb. 20).",
-          "id": {
-            "name": "16.1 Geranium (Blz... 211)"
+          "outcome": {
+            "text": "16.1 *Geranium* (S. 211) — zie `beug16-ttt-clav-geranium.md`"
           }
         },
         {
-          "label": "De clavae zijn distaal met elkaar verbonden en micro-echinaat gesculpteerd, ze staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
-          "id": {
-            "name": "Armeria p.p. (Blz... 302)"
+          "label": "De clavae zijn distaal met elkaar verbonden en micro-echinaat gesculpteerd; zij staan niet op een reticulum (tabel 62: 15–19, tabel 63: 1–8).",
+          "outcome": {
+            "text": "*Armeria* p.p. (S. 302) — zie `beug21-tricolpatae-ret-plumbaginaceae.md`"
           }
         }
       ]
@@ -62,14 +63,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met margo, poolvelden klein. PK met bis 3 µm langen, dicht stehenden clavae (tabel 34: 22–25).",
-          "id": {
-            "name": "16.2 Ilex aquifolium (Blz... 214)",
+          "label": "PK met margo, poolvelden klein. PK met tot 3 µm lange, dichtstaande clavae (tabel 34: 22–25).",
+          "outcome": {
+            "text": "16.2 *Ilex aquifolium* (Tafel 34: 22–25)\n\nPK clavaat, sferoïdisch tot prolaat, PFormI 1,04–1,52. Poolvelden klein (PFeldI 0,16–0,22). Sculptuur dimorf: grote clavae tot ca. 3 µm lang.\n\n*Ilex aquifolium* L. (4)\n30,0–41,0 µm, MiW 36,0 µm; 50 PK, 0a",
             "pollen_key": "ilex_aquifolium"
           }
         },
         {
-          "label": "PK zonder margo, Indien zwach aangeduid, dan poolvelden zeer groot.",
+          "label": "PK zonder margo; indien zwak aangeduid, dan poolvelden zeer groot.",
           "next": "5"
         }
       ]
@@ -93,17 +94,17 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine veel dikker als het tectum, poolvelden groot, sculptuurelementen (hoofdzakelijk bacula) bis 4 µm lang (tabel 35: 1–4).",
-          "id": {
-            "pollen_key": "viscum_album",
-            "note": "16.3 Viscum album (Blz... 214)"
+          "label": "Exine veel dikker dan het tectum, poolvelden groot, sculptuurelementen (hoofdzakelijk bacula) tot 4 µm lang (tabel 35: 1–4).",
+          "outcome": {
+            "text": "16.3 *Viscum album* (Tafel 35: 1–4)\n\nPK sferoïdisch en dikwandig, tricolpaat. Exine 3–4 µm; sculptuurelementen (2)3–5 µm lang. Poolvelden groot tot zeer groot.\n\n*Viscum album* L. (3)\n35,0–51,6 µm, MiW 43,1 µm; 100 PK, 0a",
+            "pollen_key": "viscum_album"
           }
         },
         {
-          "label": "tectum so dik wie die endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) bis 2 µm lang (tabel 35: 5–8).",
-          "id": {
-            "pollen_key": "rubus_chamaemorus",
-            "note": "16.4 Rubus chamaemorus (Blz... 214)"
+          "label": "Tectum even dik als de endexine of dikker. Poolvelden klein, sculptuurelementen (clavae en echini) tot 2 µm lang (tabel 35: 5–8).",
+          "outcome": {
+            "text": "16.4 *Rubus chamaemorus* (Tafel 35: 5–8)\n\nPK langgerekt, sferoïdisch tot prolaat, tricolpaat. Poolvelden klein. Exine tectaat, 1,5–2,0 µm, met tot 2 µm lange sculptuurelementen.\n\n*Rubus chamaemorus* L. (2)\n33,0–41,0 µm, MiW 38,2 µm; 50 PK, 0a",
+            "pollen_key": "rubus_chamaemorus"
           }
         }
       ]
@@ -114,14 +115,14 @@
       "choices": [
         {
           "label": "PK < 30 µm (ca. 20–25 µm) (tabel 35: 9–11).",
-          "id": {
-            "name": "16.5 Radiola linoides (Blz... 214)"
+          "outcome": {
+            "text": "16.5 *Radiola linoides* (Tafel 35: 9–11)\n\nPK met vergelijkbare bouw als *Linum*. Sferoïdisch, PFormI 0,92–1,25. Poolvelden middelgroot. Sculptuurelementen monomorf, in aanzicht vijf- tot zeshoekig.\n\n*Radiola linoides* ROTH (2)\n18,0–27,0 µm, MiW 21,9 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK > 30 µm (ca. 35–100 µm) (tabel 35: 12–15, tabel 36: 1–7, tabel 37: 1–5, Afb. 21–22).",
-          "id": {
-            "name": "Beug-tricolpatae-tricolporoidatae-tricolporatae-clavate-166-linum"
+          "outcome": {
+            "text": "16.6 *Linum* (S. 216) — zie `beug16-ttt-clav-linum.md`"
           }
         }
       ]

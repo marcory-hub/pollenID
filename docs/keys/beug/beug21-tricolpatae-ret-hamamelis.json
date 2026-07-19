@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-hamamelis",
+    "title": "21.32 *Hamamelis*-type (Tafel 67: 15–20)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 1,7–1,9 µm; brochi 1–2 µm; columellae meestal ook in fasecontrast moeilijk.",
+          "outcome": {
+            "text": "21.32 *Hamamelis*-type\n\nPForml 0,87–1,10. PFeldI 0,29–0,31. Determinatie kritisch (geen monografie Hamamelidaceae).\n\n*Hamamelis japonica* SIEB. & ZUCC. (1)\n18,3–24,3 µm, MiW 21,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

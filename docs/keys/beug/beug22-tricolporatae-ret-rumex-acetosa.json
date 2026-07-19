@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-rumex-acetosa",
+    "title": "22.22 *Rumex acetosa*-type (Tafel 75: 8–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Bolvormig; polarvelden middelgroot/groot; microreticulaat; muri vaak met extra scabrate/rugulate sculptuur.",
+          "outcome": {
+            "text": "22.22 *Rumex acetosa*-type\n\nPK bolvormig (PForml ca. 1,0). PFeldI groot of middelgroot (0,33–0,63). Poriën iets meridionaal verlengd, 2–4 × 1,5–2 µm. Microreticulaat (brochi ca. 1 µm); tectum vaak met reticulaat-rugulate tot scabrate bijsculptuur. Exine 0,8–1,0(1,3) µm.\n\n*Rumex acetosa* L. (7)\n18,0–25,5 µm, MiW 22,0 µm; 50 PK, 0a\n\n*Rumex acetosella* L. (6)\n22,5–27,5 µm, MiW 25,2 µm; 50 PK, 0a\n\n*Rumex arifolius* ALL. (4)\n20,5–26,0 µm, MiW 23,3 µm; 50 PK, 0a\n\n*Rumex conglomeratus* MURRAY (5)\n20,0–25,5 µm, MiW 23,5 µm; 50 PK, 0a\n\n*Rumex crispus* L. (3)\n29,0–34,5 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Rumex maritimus* L. (5)\n23,0–31,0 µm, MiW 28,8 µm; 52 PK, 0a\n\n*Rumex nivalis* HEGETSCHW. (4)\n22,3–28,0 µm, MiW 25,0 µm; 50 PK, 0a\n\n*Rumex obtusifolius* L. (6)\n26,8–33,8 µm, MiW 29,1 µm; 50 PK, Oa\n\n*Rumex palustris* SM. (3)\n28,8–37,0 µm, MiW 33,1 µm; 40 PK, Oa\n\n*Rumex pseudoalpinus* HOFFT. (7)\n22,3–29,5 µm, MiW 26,0 µm; 50 PK, Oa\n\n*Rumex pulcher* L. (4)\n20,4–35,9 µm, MiW 23,8 µm; 50 PK, Oa\n\n*Rumex sanguineus* L. (7)\n22,3–30,0 µm, MiW 26,3 µm; 50 PK, 0a\n\n*Rumex thyrsiflorus* FINGERH. (3)\n16,8–24,5 µm, MiW 20,6 µm; 50 PK, Oa\n\n*Oxyria digyna* (L.) HILL. (3)\n20,5–29,5 µm, MiW 24,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

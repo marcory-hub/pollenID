@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-ranunculus.json",
-    "title": "33.3 Ranunculus arvensis-groep (Beug)",
+    "key": "beug33-periporatae-ranunculus",
+    "title": "33.3 *Ranunculus arvensis*-groep",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 49-60 µm groot, papillöse Vorwölbungen des Tectums duidelijk, Echini tot 1,5 µm lang (Tafel 107: 19-22).",
-          "id": {
-            "name": "33.3.1 Ranunculus arvensis"
+          "label": "PK 49–60 µm; papilleuze voorwelvingen duidelijk; echini tot 1,5 µm (Tafel 107: 19–22).",
+          "outcome": {
+            "text": "33.3.1 *Ranunculus arvensis* — zie deelsleutel."
           }
         },
         {
-          "label": "PK 35-31 µm groot, papillöse Vorwölbungen des Tectums flach, Microechini ca. 0,5 µm lang (Tafel 107: 23-25).",
-          "id": {
-            "name": "33.3.2 Ranunculus parviflorus"
+          "label": "PK 35–50 µm (OCR couplet «35–31»; soortregel 35,0–50,8 µm); papilleuze voorwelvingen vlak; microechini ca. 0,5 µm (Tafel 107: 23–25).",
+          "outcome": {
+            "text": "33.3.2 *Ranunculus parviflorus* — zie deelsleutel."
           }
         }
       ]

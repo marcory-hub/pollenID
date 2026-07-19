@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-platycarya",
+    "title": "31.19 *Platycarya strobilacea* (Tafel 100: 14–18)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden met parallel/boogvormige pseudocolpen; PK 16–21 µm.",
+          "outcome": {
+            "text": "31.19 *Platycarya strobilacea*\n\nOblaat; P/E 0,62–0,74; polair driehoekig, semiangulair; polaire as 12–14 µm. Exine 0,8–0,9 µm, scabraat (microverrucaat, 0,4–0,6 µm). Poriën als smalle spleten ca. 1,0 × 2,5 µm. Endexine eindigt ca. 3–4 µm vóór de poriën. Per polarveld 2 pseudocolpen (vele afwijkingen).\n\n*Platycarya strobilacea* SIEB. & ZUCC. (2)\n16,5–20,5 µm, MiW 18,8 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

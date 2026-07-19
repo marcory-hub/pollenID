@@ -1,6 +1,6 @@
 # *Cornus sanguinea* (rode kornoelje)
 
-{{ pollen_gallery("cornus_sanguinea") }}
+{{ gallery("cornus_sanguinea") }}
 
 ## Kenmerken
 

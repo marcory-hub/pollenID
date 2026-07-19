@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "key": "beug18-tricolpatae-str-saxifraga",
+    "title": "18.3 *Saxifraga aizoides*-groep (Tafel 47: 1–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "PK prolaat tot sferoïdisch, tricolpaat, polarvelden middelgroot. Grootte en PFormI variëren sterk. Colpi smal tot breed, soms equatoriaal iets vernauwd. Colpus-membranen met dichte tot losse, korrelige of schollige bekleding. Exine (1,2)1,5–2,5(2,9) µm dik, met columellae-laag, striaat. Valla overwegend transversaal, relatief hoog, ca. 0,5–1,2 µm breed. Endexine steeds dunner dan 0,4 µm en dus dunner dan tectum en valla samen. Andere *Saxifraga*-soorten hebben scabrate of reticulate PK (S. 143 en 306).",
+      "choices": [
+        {
+          "label": "Columellae-laag 0,8–1,1 µm dik, even dik als tectum en valla samen. Valla 0,7–1,0 µm breed, columellae in bovenaanzicht en in optische doorsnede duidelijk herkenbaar (Tafel 47: 1–6).",
+          "outcome": {
+            "text": "18.3.1 *Saxifraga cuneifolia*-type (Tafel 47: 1–6)\n\nPFormI 0,96–1,48, PFeldI 0,29–0,36. Exine 2,2–3,2 µm dik. Columellae-laag 0,8–1,1 µm dik, columellae in bovenaanzicht goed herkenbaar, ca. 0,5 µm dik. Valla 0,7–1,0 µm breed.\n\n*Saxifraga cuneifolia* L. (4)\n25,5–37,0 µm, MiW 31,2 µm; 51 PK, Oa\n\n*Saxifraga* × *geum* L. (2)\n29,3–40,8 µm, MiW 35,5 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "Columellae-laag dunner dan tectum en valla samen, ongeveer 0,5–0,7 µm dik, columellae in bovenaanzicht en in optische doorsnede niet altijd duidelijk herkenbaar.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Patroon van de striate sculptuur met microbrochi of perforaties (Tafel 47: 7–10).",
+          "outcome": {
+            "text": "18.3.2 *Saxifraga caesia*-type (Tafel 47: 7–10)\n\nStriaat zoals *Saxifraga aizoides*-type, maar tussen de valla met microbrochi of perforaties. Bij soorten van het *S. aizoides*-type kunnen zelden aan de intercolpium-randen enkele microbrochi aanwezig zijn.\n\n*Saxifraga androsacea* L. (2)\n27,5–36,0 µm, MiW 31,9 µm; 50 PK, Oa\n\n*Saxifraga caesia* L. (2)\n22,0–32,0 µm, MiW 26,1 µm; 50 PK, 0a\n\n*Saxifraga umbrosa* L. (2)\n28,3–42,0 µm, MiW 34,7 µm; 50 PK, Oa\n\n*Saxifraga squarrosa* SIEBER (2)\n18,4–28,0 µm, MiW 22,7 µm; 50 PK, 2a"
+          }
+        },
+        {
+          "label": "Patroon van de striate sculptuur zonder microbrochi of perforaties (Tafel 47: 11–14).",
+          "outcome": {
+            "text": "18.3.3 *Saxifraga aizoides*-type (Tafel 47: 11–14)\n\nPK sferoïdisch tot prolaat, PFormI 1,00–1,70. Polarvelden middelgroot, zelden klein (PFeldI 0,18–0,44). Exine 1,7–3,0 µm dik. Columellae-laag 0,5–0,7 µm dik, valla 0,8–2,4 µm breed en tot 2 µm hoog. Endexine dun.\n\n*Saxifraga adscendens* L. (2)\n18,0–25,5 µm, MiW 22,8 µm; 50 PK, 0a\n\n*Saxifraga aizoides* L. (4)\n27,0–39,5 µm, MiW 33,7 µm; 50 PK, 0a\n\n*Saxifraga bryoides* L. (2)\n29,5–38,8 µm, MiW 34,5 µm; 50 PK, 0a\n\n*Saxifraga aspera* L. (2)\n29,5–36,8 µm, MiW 32,6 µm; 50 PK, 0a\n\n*Saxifraga biflora* ALL. (2)\n23,4–31,9 µm, MiW 27,7 µm; 50 PK, 2a\n\n*Saxifraga burseriana* L. (2)\n24,4–34,7 µm, MiW 28,6 µm; 50 PK, 2a\n\n*Saxifraga cotyledon* L. (2)\n22,0–34,3 µm, MiW 29,9 µm; 50 PK, 0a\n\n*Saxifraga crustata* VEST (2)\n22,0–31,2 µm, MiW 25,8 µm; 50 PK, 2a\n\n*Saxifraga diapensioides* BELLARDI (2)\n24,4–31,5 µm, MiW 27,8 µm; 50 PK, 2a\n\n*Saxifraga hostii* TAUSCH (2)\n28,3–40,5 µm, MiW 34,4 µm; 50 PK, Oa\n\n*Saxifraga mutata* L. (2)\n23,0–30,1 µm, MiW 26,1 µm; 50 PK, 2a\n\n*Saxifraga oppositifolia* L. (7)\n27,5–39,3 µm, MiW 33,1 µm; 55 PK, 0a\n\n*Saxifraga tombeanensis* BOISS. (2)\n21,2–31,4 µm, MiW 26,8 µm; 50 PK, 2a\n\n*Saxifraga seguierii* SPRENGEL (2)\n20,9–28,0 µm, MiW 24,9 µm; 50 PK, 2a\n\n*Saxifraga vandelii* STERNB. (2)\n21,2–31,9 µm, MiW 28,5 µm; 50 PK, 2a\n\n*Saxifraga paniculata* MILL. (3)\n22,5–34,5 µm, MiW 29,9 µm; 50 PK, Oa\n\n*Saxifraga retusa* GOUAN (1)\n24,4–34,7 µm, MiW 28,3 µm; 31 PK, 2a\n\nNon vidi: *S. facchinii* KOCH, *S. presolanensis* ENGLER. *S. depressa* STERNB. wordt tot *S. androsacea* L. gesteld."
+          }
+        }
+      ]
+    }
+  }
+}

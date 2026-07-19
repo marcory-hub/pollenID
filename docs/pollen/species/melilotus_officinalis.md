@@ -1,6 +1,6 @@
 # *Melilotus officinalis*
 
-{{ pollen_gallery("melilotus_officinalis") }}
+{{ gallery("melilotus_officinalis") }}
 
 ## Kenmerken
 

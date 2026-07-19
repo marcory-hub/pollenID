@@ -20,7 +20,7 @@
 | **Frequentie in honing** |  |
 | **Links** | [PollenX](https://pollenx.eu/species.php?species=Tilia-type_linde)<br>[Pollen-Wiki](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia-type_linde)<br>[PalDat](https://www.paldat.org/pub/Tilia-type_linde) |
 
-{{ pollen_gallery("tilia_platyphyllos") }}
+{{ gallery("tilia_platyphyllos") }}
 
 ## Herkenning hoofdpollen
 

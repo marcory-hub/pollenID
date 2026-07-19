@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "key": "beug16-ttt-clav-geranium",
+    "title": "16.1 *Geranium* (Tafel 34: 18–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Abb. 20. *Geranium phaeum*. A Exine in bovenaanzicht, schematisch. Dikke strepen: clavae. Dunne streep: lumina. Gestipt: columellae. B Doorsnede door de exine, schematisch. Gestippeld: loodrecht op de verlopende muri.",
+      "choices": [
+        {
+          "label": "Poolas overwegend < 75 µm.",
+          "outcome": {
+            "text": "*Geranium pusillum* BURM. (2)\n42,7–57,7 µm, MiW 49,8 µm; 30 PK, Oa\n\n*Geranium dissectum* L. (2)\n52,3–57,7 µm; 25 PK, Oa\n\n*Geranium molle* L. (2)\n51,6–64,8 µm, MiW 57,3 µm; 50 PK, 0a\n\n*Geranium sibiricum* L. (2)\n53,4–66,9 µm, MiW 60,2 µm; 50 PK, 0a\n\n*Geranium divaricatum* EHRH. (2)\n56,2–70,8 µm; 25 PK, 0a\n\n*Geranium lucidum* L. (2)\n55,5–70,6 µm; 25 PK, 0a\n\n*Geranium pyrenaicum* BURM. (3)\n59,5–70,0 µm, MiW 63,8 µm; 46 PK, Oa\n\n*Geranium rotundifolium* L. (2)\n53,4–71,2 µm; 25 PK, 0a\n\n*Geranium columbinum* L. (2)\n58,7–75,5 µm; 25 PK, Oa\n\n*Geranium robertianum* L. (2)\n57,0–75,5 µm, MiW 66,9 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "Poolas overwegend > 75 µm.",
+          "outcome": {
+            "text": "*Geranium bohemicum* L. (2)\n70,8–90,8 µm; 10 PK, Oa\n\n*Geranium phaeum* L. (2)\n69,4–89,7 µm, MiW 77,3 µm; 50 PK, 0a\n\n*Geranium nodosum* L. (1)\n71,2–85,4 µm, MiW 78,3 µm; 50 PK, 0a\n\n*Geranium argenteum* L. (1)\n76,2–95,1 µm, MiW 81,9 µm; 50 PK, 0a\n\n*Geranium palustre* L. (2)\n74,4–90,8 µm, MiW 84,4 µm; 50 PK, 0a\n\n*Geranium macrorrhizum* L. (1)\n71,2–106,8 µm; 25 PK, Oa\n\n*Geranium sanguineum* L. (2)\n90,8–113,2 µm, MiW 101,5 µm; 55 PK, 0a\n\n*Geranium sylvaticum* L. (4)\n83,0–110,5 µm, MiW 91,4 µm; 50 PK, Oa\n\n*Geranium sylvaticum* L. subsp. *rivulare* (VILL.) ROUY (2)\n62,0–85,5 µm, MiW 77,6 µm; 51 PK, Oa\n\n*Geranium pratense* L. (2)\n95,0–120,8 µm, MiW 107,9 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

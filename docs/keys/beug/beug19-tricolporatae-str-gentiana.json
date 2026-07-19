@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-gentiana",
+    "title": "19.10 *Gentiana pneumonanthe*-type (Tafel 50: 10–23, Tafel 51: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Omvat *Gentiana* p.p., *Gentianella* p.p. en *Centaurium*, en in incidentele gevallen PK van *Swertia*, *Blackstonia* en *Cicendia*. PK striaat-microreticulaat; valla smal (groep van 6–8 parallelle valla = 5 µm breed). Exine (2,0)2,2–3,5 µm. Poriën 4,5–7,0 µm.",
+      "choices": [
+        {
+          "label": "19.10 *Gentiana pneumonanthe*-type.",
+          "outcome": {
+            "text": "*Gentiana acaulis* L. (5) — geen aparte maten in Beug (kleinere PK; ggf. *Centaurium*)\n\n*Gentiana clusii* PERR. & SONG. (2)\n37,0–45,5 µm, MiW 41,7 µm; 50 PK, 0a\n\n*Gentiana alpina* VILL. (1)\n37,5–48,9 µm, MiW 42,6 µm; 50 PK, 0a\n\n*Gentiana asclepiadea* L. (2)\n29,5–36,3 µm, MiW 32,7 µm; 50 PK, 0a\n\n[te verifiëren: soortnaam ontbreekt in OCR] 31,8–41,3 µm, MiW 36,5 µm; 50 PK, 0a (Beug S. 262)\n\n*Gentiana frigida* HAENKE (3)\n31,9–45,7 µm, MiW 38,8 µm; 50 PK, Oa\n\n*Gentiana froelichii* JAN. ex REICHENB. (1)\n37,2–50,6 µm, MiW 44,6 µm; 50 PK, Oa\n\n*Gentiana cruciata* L. (2)\n38,9–55,2 µm, MiW 47,5 µm; 50 PK, Oa\n\n*Gentiana lutea* L. (3)\n31,8–40,3 µm, MiW 35,9 µm; 50 PK, Oa\n\n*Gentiana pannonica* Scop. (2)\n31,5–37,5 µm, MiW 34,6 µm; 50 PK, 0a\n\n*Gentiana pneumonanthe* L. (2)\n29,4–41,1 µm, MiW 36,2 µm; 50 PK, Oa\n\n*Gentiana punctata* L. (2)\n32,0–44,8 µm, MiW 37,8 µm; 50 PK, 0a\n\n*Gentiana purpurea* L. (2)\n35,0–45,3 µm, MiW 41,2 µm; 52 PK, Oa\n\n*Gentianella aurea* (L.) H. SM. (2)\n30,8–42,5 µm, MiW 37,0 µm; 50 PK, 0a\n\n*Centaurium pulchellum* (SW.) DRUCE (2)\n26,5–33,8 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Centaurium erythraea* RAFN (3)\n25,5–35,5 µm, MiW 30,5 µm; 50 PK, 0a\n\n*Centaurium littorale* (D. TURNER) GILMOUR (4)\n27,0–35,3 µm, MiW 31,7 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

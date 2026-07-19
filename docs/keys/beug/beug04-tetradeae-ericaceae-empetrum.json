@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug04-tetradeae-ericaceae-empetrum.json",
+    "key": "beug04-tetradeae-ericaceae-empetrum",
     "title": "4.7 Ericaceae–Empetrum-groep (groenblijvende dwergstruiken uit de heidefamilie)(Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 6,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -29,9 +30,8 @@
       "choices": [
         {
           "label": "Binnenwanden van de tetraden dicht geperforeerd.",
-          "id": {
-            "name": "4.7.1 Arctostaphylos alpina (L.) Spreng. (3). 47,3–54",
-            "pollen_key": "arctostaphylos_alpina"
+          "outcome": {
+            "text": "4.7.1 *Arctostaphylos alpina*\n\n*Arctostaphylos alpina* (L.) SPRENG. (3)\n47,3–54,3 µm, MiW 50,9 µm; 50 T, 0a"
           }
         },
         {
@@ -46,15 +46,14 @@
       "choices": [
         {
           "label": "Sculptuur scabraat; binnenwanden van de tetraden slechts met weinig perforaties.",
-          "id": {
-            "name": "4.7.2 Arctostaphylos uva-ursi (L.) Spreng. (3). 38,7–46"
+          "outcome": {
+            "text": "4.7.2 *Arctostaphylos uva-ursi*\n\n*Arctostaphylos uva-ursi* (L.) SPRENG. (3)\n38,7–46,3 µm, MiW 42,8 µm; 50 PK, 1a"
           }
         },
         {
           "label": "Sculptuur psilaat; binnenwanden niet geperforeerd.",
-          "id": {
-            "name": "4.7.3 Arbutus. Arbutus unedo (aardbeiboom)",
-            "pollen_key": "arbutus_unedo"
+          "outcome": {
+            "text": "4.7.3 *Arbutus*\n\n*Arbutus unedo* L. (2)\n48,7–61,2 µm, MiW 53,5 µm; 50 PK, 1a\n\n*Arbutus andrachne* L. (1)\n46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a"
           }
         }
       ]
@@ -65,9 +64,8 @@
       "choices": [
         {
           "label": "individuele pollenkorrel in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; individuele pollenkorrel soms in één vlak of een rij (tabel 1: 7 en 10).",
-          "id": {
-            "pollen_key": "calluna_vulgaris",
-            "note": "4.7.4 Calluna vulgaris (L.) Hull (6). 34,0–48"
+          "outcome": {
+            "text": "4.7.4 *Calluna vulgaris*\n\n*Calluna vulgaris* (L.) HULL (6)\n34,0–48,0 µm, MiW 39,4 µm; 50 PK, 0a"
           }
         },
         {
@@ -82,8 +80,8 @@
       "choices": [
         {
           "label": "Binnenwanden van de tetraden duidelijk dikker dan de buitenwanden, meest > 2 tot 3,5 µm (tabel 1: 8–9; fig. 4).",
-          "id": {
-            "name": "4.7.5 Empetrum / Ledum. Empetrum nigrum L. Blz...str. (5): 32,8–39"
+          "outcome": {
+            "text": "4.7.5 *Empetrum* / *Ledum*\n\n*Empetrum nigrum* L. s.str. (5)\n32,8–39,5 µm, MiW 36,6 µm; 50 PK, 0a\n\n*Empetrum hermaphroditum* HAGERUP (2)\n30,0–45,5 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Ledum palustre* L. (4)\n32,0–42,0 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Ledum groenlandicum* OEDER (1)\n28,5–38,8 µm, MiW 32,2 µm; 50 PK, 0a"
           }
         },
         {
@@ -98,15 +96,14 @@
       "choices": [
         {
           "label": "Colpi zeer kort; colpus-index groter dan 3,3. Tetraden duidelijk scabraat tot zwak verrucaat, niet dikkewandig. Colpus-index 3,3(3,6)–4,5, MiW 4,1, 10 T (tabel 2: 12–13).",
-          "id": {
-            "name": "4.7.6 Moneses uniflora (Eenbloemig wintergroen)",
-            "pollen_key": "moneses_uniflora"
+          "outcome": {
+            "text": "4.7.6 *Moneses uniflora*\n\n*Moneses uniflora* (L.) A. GRAY (1)\n41,8–53,0 µm, MiW 45,3 µm; 50 T, 0a"
           }
         },
         {
           "label": "Colpi langer; colpus-index < 3,3; indien groter, dan tetraden vrijwel psilaat en duidelijk dikkewandig. Sculptuur varieert: psilaat, scabraat, ook barstend-fijn holruchtig.",
-          "id": {
-            "name": "4.7.7 Verzamelgroep Vaccinium-type (oa cranberry"
+          "outcome": {
+            "text": "4.7.7 Verzamelgroep *Vaccinium*-type\n\n*Vaccinium vitis-idaea* L. (4)\n37,0–45,5 µm, MiW 41,6 µm; 50 T, 0a\n\n*Vaccinium myrtillus* L. (6)\n37,0–50,5 µm, MiW 43,6 µm; 50 T, 0a\n\n*Vaccinium uliginosum* L. s.l. (4)\n39,8–55,5 µm, MiW 45,1 µm; 50 T, 0a\n\n*Vaccinium oxycoccus* s.l. L. (4)\n30,0–45,5 µm, MiW 38,6 µm; 50 T, 0a\n\n*Vaccinium arctostaphylos* L. (1)\n39,4–52,4 µm, MiW 46,2 µm; 50 T, 1a\n\nVerdere soorten (o.a. *Erica*, *Rhododendron*, *Loiseleuria*): Beug S. 45–48."
           }
         }
       ]

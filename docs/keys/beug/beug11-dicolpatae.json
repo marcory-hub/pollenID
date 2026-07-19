@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug11-dicolpatae.json",
+    "key": "beug11-dicolpatae",
     "title": "11. Dicolpatae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 6,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -43,14 +44,14 @@
       "choices": [
         {
           "label": "PK langer dan breed, reticulaat, marginaat (tabel 11: 1–3).",
-          "id": {
-            "name": "11.1 Tamus communis (Blz... 118)"
+          "outcome": {
+            "text": "11.1 *Tamus communis* (Tafel 11: 1–3)\n\nPK ongeveer tweemaal zo lang als breed, meestal met stomp afgeronde einden. Exine tot 2 µm dik; brochi 1,0–1,5 µm, met columellae. Margo aanwezig; brochi nemen naar de intercolpiumranden in grootte af.\n\n*Tamus communis* L. (2)\n27,4–39,2 µm, MiW 32,5 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK sferoïdisch, retipilaat, niet marginaat, colpi onduidelijk.",
-          "id": {
-            "name": "Callitriche palustris-type (Blz... 424)"
+          "outcome": {
+            "text": "*Callitriche palustris*-type (S. 424)"
           }
         }
       ]
@@ -61,8 +62,8 @@
       "choices": [
         {
           "label": "De beide colpi liggen op één zijde van de PK dicht naast elkaar (afstand 5–8 µm).",
-          "id": {
-            "name": "11.2 Chamaerops humilis (Blz... 118)"
+          "outcome": {
+            "text": "11.2 *Chamaerops humilis*\n\nPK prolaat, reticulaat; exine 1,0–1,5 µm; brochi tot 1,5 µm, zonder columellae. Beide colpi liggen op één zijde van de PK dicht naast elkaar (afstand ca. 5–8 µm).\n\n*Chamaerops humilis* L. (1)\n24,8–33,8 µm, MiW 29,5 µm; 50 PK, 0a"
           }
         },
         {
@@ -77,14 +78,14 @@
       "choices": [
         {
           "label": "PK ± sferoïdisch, in de omtrek onregelmatig gevormd. Exine meestal rugulaat-reticulaat, zelden reticulaat of fossulaat. Intercolpium-randen onregelmatig, meestal ingekrompen.",
-          "id": {
-            "name": "11.3 Calla palustris (Blz... 118)"
+          "outcome": {
+            "text": "11.3 *Calla palustris*\n\nPK ± sferoïdisch. Exine tot 1,5 µm, rugulaat-reticulaat, zeldzamer reticulaat of fossulaat, zonder columellae. Bij reticulate PK brochi 0,5–2,0 µm; muri relatief breed, lumina klein. Colpi zeer lang; polarvelden klein. Intercolpiumranden meestal ingekromd, onregelmatig, soms korrelig opgelost.\n\n*Calla palustris* L. (3)\n21,6–30,6 µm, MiW 26,1 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK prolaat tot perprolaat, met regelmatig gevormd reticulum.",
-          "id": {
-            "name": "11.4 Tofieldia (Blz... 118)"
+          "outcome": {
+            "text": "11.4 *Tofieldia*\n\nPK prolaat tot perprolaat, omtrek elliptisch. Exine ca. 1 µm. Brochi 0,5–2,0 µm met relatief brede muri. Columellae ontbreken bij beide soorten. Colpi lang, geen margo.\n\n*Tofieldia calyculata* (L.) WAHLENB. (1)\n15,8–26,3 µm, MiW 21,9 µm; 50 PK, 6a\n\n*Tofieldia palustris* (MICHX.) PERS. (2)\n22,0–34,5 µm, MiW 26,4 µm; 50 PK, 0a"
           }
         }
       ]
@@ -95,14 +96,14 @@
       "choices": [
         {
           "label": "PK sferoïdisch, columellae-laag duidelijk.",
-          "id": {
-            "name": "11.5 Hypecoum pendulum (Blz... 120)"
+          "outcome": {
+            "text": "11.5 *Hypecoum pendulum*\n\nPK sferoïdisch; exine tot 1,5 µm, scabraat of psilaat, met columellae en dik tectum. Colpi lang; intercolpiumranden iets korrelig opgelost.\n\n*Hypecoum pendulum* L. (1)\n23,0–28,8 µm, MiW 26,2 µm; 50 PK, 0a"
           }
         },
         {
           "label": "PK prolaat tot perprolaat, zonder columellae-laag.",
-          "id": {
-            "name": "11.6 Cypripedium calceolus (Blz... 120)"
+          "outcome": {
+            "text": "11.6 *Cypripedium calceolus* (Tafel 120: 16–20)\n\nPK prolaat tot perprolaat, omtrek onregelmatig, met toegespitste einden. Afstand van de colpi ca. 10 µm. Exine tot 1 µm, psilaat of scabraat, zonder columellae. Intercolpiumranden korrelig opgelost. Ook PK met 3 colpi die niet symmetrisch maar naar elkaar toe staan. PK van het *Pedicularis palustris*-type (S. 115) kunnen uitzonderlijk dicolpaat zijn.\n\n*Cypripedium calceolus* L. (2)\n25,6–38,9 µm, MiW 31,5 µm; 50 PK, 0a"
           }
         }
       ]

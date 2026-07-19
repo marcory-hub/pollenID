@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-trientalis",
+    "title": "22.8 *Trientalis europaea* (Tafel 70: 23–29)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microreticulaat; brochi ca. 1 µm; muri smal en contrastrijk.",
+          "outcome": {
+            "text": "22.8 *Trientalis europaea*\n\nPK in equatoriaal aanzicht door voorgeschoven equatoriale colpusdelen ruitvormig, ook rond-elliptisch (PForml 0,90–1,08). Polar aanzicht driehoekig. Polarvelden klein (PFeldI ca. 0,10). Brochi 1 µm, reeds in helderveld zeer contrastrijk. Muri smal. Columellae niet herkenbaar. Poriën als spleet met meestal zeer onregelmatige, ingescheurde randen, ca. 5–6 × 1 µm. Exine 1,5 µm; endexine dikker dan tectum.\n\n*Trientalis europaea* L. (5)\n20,3–28,0 µm, MiW 25,0 µm; 50 PK, 1a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "key": "beug06-vesiculatae-tsuga",
+    "title": "6.1 *Tsuga* (Tafel 3: 4–5; Abb. 5p)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Luchtzak en Vesiculae van de proximale zijde losjes met 2–3 µm lange en zeer dunne Echini bezet. PK met ringvormige luchtzakken, die echter niet zelden in vele kleine Vesiculae opgelost zijn.",
+          "outcome": {
+            "text": "6.1.1 *Tsuga diversifolia*-type\n\nLuchtzak en Vesiculae van de proximale zijde losjes met 2–3 µm lange en zeer dunne Echini bezet. PK met ringvormige luchtzakken, die echter niet zelden in vele kleine Vesiculae opgelost zijn. Volgens KRUTZSCH (1971) behoren tot dit type bovendien *Tsuga sieboldii* CARR., *T. dumosa* (D. DON.) EICHLER, *T. chinensis* (FRANCH.) PRITZ. en *T. yunnanensis* (FRANCH.) PRITZ.\n\n*Tsuga diversifolia* (MAXIM.) MAST. (1)\n61,3–79,0 µm, MiW 70,0 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "PK zonder Echini. Luchtzak bij *T. canadensis* in vele kleine Vesiculae opgelost.",
+          "outcome": {
+            "text": "6.1.2 *Tsuga canadensis*-type\n\nPK zonder Echini. Luchtzak bij *T. canadensis* in vele kleine Vesiculae opgelost.\n\n*Tsuga canadensis* (L.) CARR. (1)\n56,3–87,0 µm, MiW 73,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

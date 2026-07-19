@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-carya",
+    "title": "31.17 *Carya* (Tafel 100: 3–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 40–67 µm; poriën iets buiten equator; exine 2,2–2,8 µm.",
+          "outcome": {
+            "text": "31.17 *Carya*\n\nPolair driehoekig-rondachtig; oblaat, zelden zwak sphaeroïdisch; P/E 0,56–0,75(0,84). Poriën rond tot elliptisch, 3,3–5,5 µm; vaak iets buiten de equator (1,5–6,0 µm). Exine 2,2–2,8 µm; tectum 1,5–1,8 µm met scabrate Juglandaceae-sculptuur (ronde elementen ca. 0,5 µm). Endexine tot ca. 8–16 µm rond poriën korrelig-schollig opgelost.\n\n*Carya amara* NUTT. (2)\n39,8–49,0 µm, MiW 44,3 µm; 50 PK, 0a, Ä\n\n*Carya alba* (L.) NUTT. (1)\n43,3–53,3 µm, MiW 48,8 µm; 50 PK, 0a, Ä\n\n*Carya illinoiensis* C. KOCH (1)\n48,0–60,0 µm, MiW 53,5 µm; 50 PK, 0a, Ä\n\n*Carya tomentosa* (POIRET) NUTT. (2)\n55,5–66,8 µm, MiW 61,2 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

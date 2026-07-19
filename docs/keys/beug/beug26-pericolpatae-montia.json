@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-montia",
+    "title": "26.5 *Montia fontana* (Tafel 92: 5–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Marginat, microechinaat; 12 colpi in vierhoeken; margines ca. 5 µm.",
+          "outcome": {
+            "text": "26.5 *Montia fontana*\n\nPK rechthoekig; 12 colpi in vierhoeken. Colpi met ca. 5 µm brede margines. Exine midden intercolpia 2,5–3,5 µm, in margines (kortere columellae) 1,5 µm. Colpi 8–12 × 2 µm. Columellae midden intercolpia tot 0,8 µm, in margines ca. 0,4 µm. Microechinaat (vooral in margines).\n\n*Montia fontana* L. (4)\n31,3–38,3 µm, MiW 35,6 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

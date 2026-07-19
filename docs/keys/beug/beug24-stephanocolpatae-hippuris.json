@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-hippuris",
+    "title": "24.12 *Hippuris vulgaris* (Tafel 86: 14–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi 3–7 µm breed; endo-microreticulaat; brochi <1 µm.",
+          "outcome": {
+            "text": "24.12 *Hippuris vulgaris*\n\nPK sferoïdisch, meestal met 5 colpi, tectaat. Tectum zwak scabraat (micro-verrucaat), evenals colpi. Endo-microreticulaat; brochi <1 µm. Colpi 3–7 µm breed; intercolpia tot ca. 7 µm. Exine naar colpi dunner; colpi daardoor onscherp begrensd. Endo-microreticulum alleen midden intercolpia herkenbaar.\n\n*Hippuris vulgaris* L. (3)\n20,7–30,3 µm, MiW 24,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

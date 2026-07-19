@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-calystegia",
+    "title": "33.21 *Calystegia* (Tafel 118: 32–34, Tafel 119: 1)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "> 70 µm; psilaat; tectum perforatum.",
+          "outcome": {
+            "text": "33.21 *Calystegia*\n\nPoriën 7–9 µm (of langwerpig); afstanden 20–25 µm. Exine 4–6 µm; columellae 3–4,5 µm, distaal vertakt.\n\n*Calystegia sepium* (L.) R. BR. (3)\n74,5–92,0 µm, MiW 84,2 µm; 54 PK, 0a\n\n*Calystegia soldanella* (L.) ROEM. & SCHULT. (2)\n87,0–99,5 µm, MiW 92,6 µm; 50 PK, 0a\n\n*Calystegia sylvatica* (KIT.) GRIS. (1)\n78,0–104,3 µm, MiW 91,0 µm; 37 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

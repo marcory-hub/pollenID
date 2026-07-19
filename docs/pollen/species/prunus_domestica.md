@@ -1,6 +1,6 @@
 # *Prunus domestica* (pruim)
 
-{{ pollen_gallery("prunus_domestica") }}
+{{ gallery("prunus_domestica") }}
 
 ## Kenmerken
 

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-cistus-salvifolius",
+    "title": "22.2 *Cistus salvifolius* (Tafel 68: 6–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK reticulaat; muri echinaat; sferoïdisch.",
+          "outcome": {
+            "text": "22.2 *Cistus salvifolius*\n\nPK reticulaat, muri echinaat, sferoïdisch (PForml 1,0–1,2). Polarvelden middelgroot tot groot. Exine incl. echini 3,5–4,5 µm, endexine ca. 0,6 µm. Brochi 2–3,5 µm. Muri 1,0–1,3 µm breed, met 1 µm lange echini (4–6 per brochus). Columellae duidelijk, ca. 1 µm dik. Poriën rond, 5–9 µm.\n\n*Cistus salvifolius* L. (4)\n41,0–49,0 µm, MiW 45,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

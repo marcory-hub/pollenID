@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-peplis",
+    "title": "28.1 *Peplis portula* (Tafel 93: 9–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Niet-porate colpi 6–9 µm breed; PK 15–22 µm.",
+          "outcome": {
+            "text": "28.1 *Peplis portula*\n\nPK sferoïdisch (PForml (0,8)1,0–1,2). 6 colpi, waarvan 3 met porie. Porate colpi langer dan niet-porate (soms syncolpaat op een polarveld). Porate colpi smal, ca. 3 µm; niet-porate zeer breed (9–12 × 6–9 µm). Poriën rond tot ovaal, 2,0–2,7 µm, met costae. Exine 1,7–2,0 µm, psilaat.\n\n*Peplis portula* L. (4)\n15,5–21,8 µm, MiW 18,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

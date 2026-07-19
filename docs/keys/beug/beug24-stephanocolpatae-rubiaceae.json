@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-rubiaceae",
+    "title": "24.4 Rubiaceae (Tafel 84: 19–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "6+ contrastrijke colpi; tectaat; exine 1,2–1,8 µm; polarvelden middelgroot/groot.",
+          "outcome": {
+            "text": "24.4 Rubiaceae\n\nPK sferoïdisch tot prolaat (PForml 0,90–1,12); polen vaak afgeplat (tonvormig). Polarvelden middelgroot tot groot (PFeldI 0,26–0,62). Exine 1,2–1,8 µm, tectaat; endexine dikker dan tectum. Meestal microreticulaat; brochi tot ca. 1 µm. Colpi 5–9 (zelden 10–12). *Galium* 5–9; *Sherardia arvensis* 9–11; *Asperula taurina* 9–12.\n\n*Asperula arvensis* L. (1)\n17,4–21,6 µm, MiW 19,8 µm; 50 PK, 0a\n\n*Asperula cynanchica* L. (2)\n16,3–19,5 µm, MiW 18,2 µm; 50 PK, 0a\n\n*Asperula laevigata* L. (2)\n18,5–29,5 µm, MiW 23,1 µm; 50 PK, 0a\n\n*Asperula neilreichii* BECK (1)\n15,9–21,8 µm, MiW 18,8 µm; 50 PK, 0a\n\n*Asperula purpurea* (L.) EHREND. (1)\n15,9–21,1 µm, MiW 18,2 µm; 50 PK, 0a\n\n*Asperula tinctoria* L. (2)\n17,0–22,9 µm, MiW 20,9 µm; 50 PK, 0a\n\n*Asperula taurina* L. (1)\n26,6–38,9 µm, MiW 34,3 µm; 50 PK, 1a\n\n*Cruciata glabra* (L.) EHREND. (3)\n14,7–21,2 µm, MiW 19,3 µm; 50 PK, 0a\n\n*Cruciata leavipes* Opiz. (2)\n17,5–22,8 µm, MiW 20,8 µm; 50 PK, Oa\n\n*Cruciata pedemontana* (BELLARDI) EHREND. (1)\n17,0–21,2 µm, MiW 18,2 µm; 50 PK, Oa\n\n*Galium anisophyllon* VILL. s.str. (1)\n17,4–21,2 µm, MiW 19,6 µm; 50 PK, 0a\n\n*Galium aparine* L. (2)\n24,0–31,0 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Galium aristatum* L. (1)\n17,2–21,6 µm, MiW 19,1 µm; 50 PK, Oa\n\n*Galium baldense* SPRENGEL (1)\n15,9–21,8 µm, MiW 18,6 µm; 50 PK, Oa\n\n*Galium boreale* L. (3)\n18,3–24,0 µm, MiW 21,6 µm; 50 PK, 0a\n\n*Galium cinereum* ALL. (1)\n17,5–22,0 µm, MiW 20,4 µm; 50 PK, Oa\n\n*Galium glaucum* L. (2)\n19,3–23,8 µm, MiW 22,1 µm; 50 PK, 0a\n\n*Galium lucidum* ALL. (1)\n15,9–21,2 µm, MiW 18,6 µm; 50 PK, 0a\n\n*Galium margaritaceum* A. KERNER (1)\n15,6–21,6 µm, MiW 18,0 µm; 50 PK, 0a\n\n*Galium megalospermum* ALL. (1)\n17,2–21,4 µm, MiW 19,5 µm; 50 PK, Oa\n\n*Galium mollugo* L. (4)\n17,5–24,3 µm, MiW 20,7 µm; 50 PK, Oa\n\n*Galium normannii* O.C. DAHL (1)\n19,0–23,3 µm, MiW 21,1 µm; 50 PK, 0a\n\n*Galium odoratum* (L.) Scop. (3)\n17,5–22,5 µm, MiW 20,8 µm; 50 PK, Oa\n\n*Galium palustre* L. s.l. (2)\n14,2–22,7 µm, MiW 18,8 µm; 50 PK, 0a\n\n*Galium parisiense* L. (1)\n18,8–24,4 µm, MiW 21,2 µm; 50 PK, Oa\n\n*Galium pumilum* MURR. (1)\n17,4–24,8 µm, MiW 21,5 µm; 50 PK, Oa\n\n*Galium rotundifolium* L. (1)\n17,7–25,7 µm, MiW 22,7 µm; 50 PK, 0a\n\n*Galium rubioides* L. (1)\n17,7–26,6 µm, MiW 23,0 µm; 50 PK, 0a\n\n*Galium rubrum* ALL. (1)\n18,1–24,8 µm, MiW 21,3 µm; 50 PK, 0a\n\n*Galium saxatile* L. (2)\n18,3–24,5 µm, MiW 21,5 µm; 50 PK, 0a\n\n*Galium schultesii* VEST (1)\n17,4–21,6 µm, MiW 19,8 µm; 50 PK, 0a\n\n*Galium sylvaticum* L. s.str. (2)\n15,9–24,6 µm, MiW 20,4 µm; 50 PK, Oa\n\n*Galium spurium* L. (1)\n17,4–26,9 µm, MiW 21,7 µm; 50 PK, Oa\n\n*Galium tricornutum* DANDY (2)\n20,2–27,4 µm, MiW 23,5 µm; 50 PK, Oa\n\n*Galium trifidum* L. (1)\n17,5–24,4 µm, MiW 20,1 µm; 50 PK, Oa\n\n*Galium triflorum* MICHX. (1)\n20,0–25,8 µm, MiW 22,9 µm; 50 PK, Oa\n\n*Galium uliginosum* L. (2)\n14,5–21,0 µm, MiW 17,7 µm; 50 PK, Oa\n\n*Galium verum* L. s.l. (2)\n21,8–26,8 µm, MiW 24,0 µm; 50 PK, Oa\n\n*Rubia peregrina* L. (1)\n17,0–23,0 µm, MiW 19,7 µm; 50 PK, Oa\n\n*Rubia tinctorum* L. (2)\n19,5–27,8 µm, MiW 23,2 µm; 50 PK, Oa\n\n*Sherardia arvensis* L. (2)\n17,5–30,1 µm, MiW 26,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

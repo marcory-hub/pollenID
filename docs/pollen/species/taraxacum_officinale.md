@@ -1,6 +1,6 @@
 # *Taraxacum officinale* (paardenbloem)
 
-{{ pollen_gallery("taraxacum_officinale") }}
+{{ gallery("taraxacum_officinale") }}
 
 ## Kenmerken
 

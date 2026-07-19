@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-persicaria",
+    "title": "33.15 *Persicaria maculosa*-Typ (Tafel 116: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Dupli–triplocolumellaat; poriën niet in elk brochus.",
+          "outcome": {
+            "text": "33.15 *Persicaria maculosa*-Typ (syn. *Polygonum persicaria*-Typ)\n\nBrochi 5–13 µm; poriën 2–3,5 µm; exine 4,5–6,0 µm.\n\n*Persicaria hydropiper* (L.) DELARBRE (5)\n37,8–60,5 µm, MiW 47,2 µm; 50 PK, 0a\n\n*Persicaria lapathifolia* (L.) DELARBRE (4)\n37,0–49,3 µm, MiW 42,2 µm; 50 PK, 0a\n\n*Persicaria minus* (HUDS.) OPIZ (2)\n39,0–57,3 µm, MiW 46,9 µm; 50 PK, 0a\n\n*Persicaria dubia* (STEIN) FOURR. (2)\n40,5–52,5 µm, MiW 46,9 µm; 50 PK, 0a\n\n*Persicaria maculosa* GRAY (2)\n44,0–63,8 µm, MiW 51,4 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

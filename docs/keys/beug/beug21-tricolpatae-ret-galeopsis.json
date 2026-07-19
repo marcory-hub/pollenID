@@ -1,28 +1,30 @@
 {
   "meta": {
-    "key": "beug21-tricolpatae-ret-galeopsis.json",
-    "title": "21.10 Galeopsis-Ballota-groep (Beug)",
+    "key": "beug21-tricolpatae-ret-galeopsis",
+    "title": "21.10 *Galeopsis*-*Ballota*-groep (Tafel 60: 3–13)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
     "1": {
       "id": "1",
       "type": "step",
+      "note": "PFormI 1,05–1,68. Exine 1,5–2 µm. Fasecontrast aanbevolen. Opdeling loopt door *Lamium*, *Leonurus* en *Stachys*. *L. album*, *L. luteum*, *L. maculatum*, *L. orvala* zijn psilaat (S. 142).",
       "choices": [
         {
-          "label": "brochi duidelijk groter dan 1 µm en tot 2,5 µm groot, tectum op de lumina door microbrochi onderverdeeld (Tafel 60: 3-9).",
-          "id": {
-            "name": "21.10.1 Galeopsis-type"
+          "label": "Brochi duidelijk boven 1 µm en tot 2,5 µm; tectum op de lumina door microbrochi geleed (Tafel 60: 3–9).",
+          "outcome": {
+            "text": "21.10.1 *Galeopsis*-type\n\n*Ajuga chamaepitys* (L.) SCHREB. (2)\n39,8–54,8 µm; 19 PK, Oa\n\n*Ajuga genevensis* L. (3)\n30,5–40,3 µm, MiW 35,5 µm; 50 PK, Oa\n\n*Ajuga pyramidalis* L. (3)\n25,3–37,8 µm, MiW 32,9 µm; 52 PK, Oa\n\n*Ajuga reptans* L. (4)\n30,3–36,8 µm, MiW 33,8 µm; 50 PK, Oa\n\n*Betonica officinalis* L. (3)\n31,8–40,8 µm, MiW 36,1 µm; 50 PK, 2a\n\n*Galeopsis angustifolia* HOFFM. (2)\n33,6–47,7 µm, MiW 41,6 µm; 50 PK, Oa\n\n*Galeopsis bifida* BOENN. (2)\n37,5–47,8 µm, MiW 42,7 µm; 50 PK, 2a\n\n*Galeopsis ladanum* L. (2)\n27,8–40,5 µm, MiW 35,9 µm; 50 PK, Oa\n\n*Galeopsis pubescens* BESSER (2)\n31,9–46,4 µm, MiW 42,6 µm; 50 PK, 0a\n\n*Galeopsis segetum* NECK. (2)\n31,8–38,3 µm, MiW 35,5 µm; 50 PK, Oa\n\n*Galeopsis speciosa* MILL. (2)\n39,7–48,9 µm, MiW 44,2 µm; 50 PK, Oa\n\n*Galeopsis tetrahit* L. (2)\n41,8–53,1 µm, MiW 49,0 µm; 50 PK, Oa\n\n*Lamium amplexicaule* L. (2)\n30,0–41,0 µm, MiW 37,5 µm; 38 PK, 2a\n\n*Melittis melissophyllum* L. (3)\n40,4–47,1 µm, MiW 44,5 µm; 50 PK, Oa\n\n*Phlomis lychnites* L. (2)\n32,2–42,8 µm, MiW 37,7 µm; 50 PK, 0a\n\n*Phlomis tuberosa* L. (2)\n28,8–35,3 µm, MiW 32,1 µm; 50 PK, 0a\n\n*Scutellaria alpina* L. (2)\n19,1–28,0 µm, MiW 24,4 µm; 50 PK, Oa\n\n*Scutellaria altissima* L. (2)\n17,7–22,8 µm, MiW 20,6 µm; 50 PK, 0a\n\n*Scutellaria galericulata* L. (2)\n24,5–34,3 µm, MiW 29,4 µm; 50 PK, 2a\n\n*Scutellaria hastifolia* L. (2)\n22,0–28,8 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Scutellaria minor* HUDS. (2)\n20,5–28,3 µm, MiW 24,8 µm; 50 PK, Oa\n\n*Stachys arvensis* (L.) L. (3)\n31,8–41,0 µm, MiW 37,7 µm; 50 PK, 2a\n\n*Stachys monieri* (GOUAN) P.W. BALL (4)\n30,8–39,7 µm, MiW 35,0 µm; 50 PK, 0a\n\n*Stachys palustris* L. (3)\n32,5–40,0 µm, MiW 36,3 µm; 48 PK, 2a\n\n*Stachys recta* L. (2)\n31,8–40,8 µm, MiW 36,2 µm; 50 PK, 2a"
           }
         },
         {
-          "label": "brochi slechts tot 1(1,2) µm groot, overwegend ononderverdeeld (Tafel 60: 10-13).",
-          "id": {
-            "name": "21.10.2 Ballota-type"
+          "label": "Brochi slechts tot 1(1,2) µm, overwegend ongeleed (Tafel 60: 10–13).",
+          "outcome": {
+            "text": "21.10.2 *Ballota*-type\n\n*Ballota nigra* L. (2)\n25,5–32,5 µm, MiW 29,3 µm; 50 PK, 2a\n\n*Betonica alopecuros* L. (2)\n27,8–38,0 µm, MiW 33,0 µm; 50 PK, 2a\n\n*Lamium purpureum* L. s.l. (5)\n22,3–31,9 µm, MiW 26,8 µm; 50 PK, Oa\n\n*Leonurus cardiaca* L. (2)\n17,8–25,3 µm, MiW 22,6 µm; 50 PK, Oa\n\n*Leonurus marrubiastrum* L. (2)\n20,0–27,3 µm, MiW 22,7 µm; 50 PK, Oa\n\n*Stachys alpina* L. (2)\n26,5–34,8 µm, MiW 31,6 µm; 50 PK, 2a\n\n*Stachys annua* (L.) L. (2)\n27,5–36,8 µm, MiW 32,9 µm; 50 PK, 2a\n\n*Stachys germanica* L. (2)\n26,0–33,3 µm, MiW 29,5 µm; 50 PK, 2a\n\n*Stachys sylvatica* L. (2)\n27,8–37,0 µm, MiW 31,6 µm; 50 PK, 2a"
           }
         }
       ]

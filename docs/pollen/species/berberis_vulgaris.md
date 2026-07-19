@@ -1,6 +1,6 @@
 # *Berberis vulgaris* (zuurbes)
 
-{{ pollen_gallery("berberis_vulgaris") }}
+{{ gallery("berberis_vulgaris") }}
 
 ## Kenmerken
 

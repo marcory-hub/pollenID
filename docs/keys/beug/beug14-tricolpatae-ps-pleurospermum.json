@@ -1,12 +1,48 @@
 {
   "meta": {
-    "key": "beug14-tricolpatae-ps-pleurospermum.json",
-    "title": "-",
+    "key": "beug14-tricolpatae-ps-pleurospermum",
+    "title": "14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (Tafel 27: 12–25)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 0,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
   },
   "start": "1",
-  "steps": {}
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "pollenvormindex 1,38–1,59; poriën in opzicht meestal duidelijk meridiaal gestrekt (Tafel 27: 12–17).",
+          "outcome": {
+            "text": "14.11.23.1 *Pleurospermum austriacum* (Tafel 27: 12–17). C-zijde convex, resp. ruitvormig met meestal sterk voorgebogen poriëngebied. Pollenvormindex 1,38–1,59; PK slanker dan bij *Smyrnium olusatrum*. IC-zijde zwak convex (AKontur en IKontur). CL-index 0,81–0,89. Poriën in opzicht vierkant, meridiaal gestrekt. Exine polair 1,8–2,2 µm dik, equatoriaal 1,2–1,8 µm. Columellae polair iets langer en dikker dan equatoriaal. PK angular.\n\n*Pleurospermum austriacum* (L.) HOFFM. (3)\n28,0–42,0 µm, MiW 35,7 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "pollenvormindex groter; poriën in opzicht nauwelijks meridiaal gestrekt of vierkantig.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "AKontur (IC-zijde) recht tot zwak konkaf; pollenvormindex 1,61–1,90; CL-index 0,79–0,86 (Tafel 27: 18–23).",
+          "outcome": {
+            "text": "14.11.23.2 *Smyrnium olusatrum* (Tafel 27: 18–23). C-zijde ruitvormig met meestal sterk equatoriaal voorgebogen poriëngebied. PK duidelijk slanker dan bij *Pleurospermum austriacum*, pollenvormindex 1,61–1,90. IC-zijde recht tot zwak convex. CL-index 0,79–0,86. Poriën in opzicht vierkant tot zwak meridiaal gestrekt. Exine polair 2,1–2,4 µm dik, equatoriaal 1,9–2,1 µm. Columellae polair iets langer en dikker dan equatoriaal. PK polair circular, equatoriaal angular.\n\n*Smyrnium olusatrum* L. (2)\n34,3–40,8 µm, MiW 37,9 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "AKontur (IC-zijde) duidelijk konkaf; pollenvormindex 1,88–2,14; CL-index 0,55–0,76 (Tafel 27: 24–25).",
+          "outcome": {
+            "text": "14.11.23.3 *Laserpitium nitidum* (Tafel 27: 24–25). PK prolaat tot perprolaat, pollenvormindex 1,88–2,14. AKontur en IKontur ingezonken tot ingebogen. C-zijde convex met blasig voorgebogen porie. CL-index 0,55–0,76. Exine polair of polair en subequatoriaal dikker (2,2–3,0 µm) dan equatoriaal (1,9–2,0 µm). PK equatoriaal met gereduceerde columellae. PK polair interangular, equatoriaal angular.\n\n*Laserpitium nitidum* ZANTEDESCHI (2)\n30,5–40,8 µm, MiW 36,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
 }

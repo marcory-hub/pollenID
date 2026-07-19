@@ -1,6 +1,6 @@
 # *Zea mays* (maïs)
 
-{{ pollen_gallery("zea_mays") }}
+{{ gallery("zea_mays") }}
 
 ## Kenmerken
 

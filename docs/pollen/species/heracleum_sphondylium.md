@@ -1,6 +1,6 @@
 # *Heracleum sphondylium*
 
-{{ pollen_gallery("heracleum_sphondylium") }}
+{{ gallery("heracleum_sphondylium") }}
 
 ## Kenmerken
 

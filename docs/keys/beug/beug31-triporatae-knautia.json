@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-knautia",
+    "title": "31.1 *Knautia* (Tafel 96: 7–11; Abb. 24k)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tectum ca. even dik als columellae-laag (1–2 µm).",
+          "outcome": {
+            "text": "31.1 *Knautia*\n\nPK dimorf echinaat; polair aanzicht rondachtig-driehoekig; oblaat tot sphaeroïdisch; P/E 0,49–0,89. Polaire as 57–82 µm. Poriën rond, 7,5–17 µm (soms elliptisch ca. 7,5–15,5 × 15,0–22,5 µm). Grote echini scherp toegespitst, basis 2,0–2,5 µm, (2,5)3–4 µm lang, afstanden 3–17 µm. Kleine echini 1–2 µm (bij *K. velutina* < 1 µm), afstanden 1–2 µm. Exine 4,8–6,0(6,5) µm; endexine 2,0–2,5 µm; tectum dunner dan endexine. Columellae-laag tweelaags (distale verdeling).\n\n*Knautia arvensis* (L.) COULT. (2)\n95,0–120,8 µm, MiW 107,5 µm; 50 PK, 0a, Ä\n\n*Knautia baldensis* A. KERN. (1)\n82,5–102,5 µm, MiW 96,0 µm; 50 PK, 0a, Ä\n\n*Knautia canescens* WALDST. & KIT. (1)\n75,0–99,5 µm, MiW 84,8 µm; 50 PK, 0a, Ä\n\n*Knautia dipsacifolia* KREUTZER (4)\n99,0–123,0 µm, MiW 114,2 µm; 50 PK, Oa, Ä\n\n*Knautia drymeia* HEUFF. (2)\n82,5–105,8 µm, MiW 91,6 µm; 50 PK, 0a, Ä\n\n*Knautia longifolia* (WALDST. & KIT.) KOCH (1)\n80,8–102,3 µm, MiW 92,1 µm; 50 PK, 0a, Ä\n\n*Knautia velutina* BRIQ. (1)\n69,3–92,0 µm, MiW 76,1 µm; 50 PK, 0a, Ä\n\nNon vidi: *Knautia brachytricha* BRIQUET, *K. gracilis* SZABÓ, *K. sixtina* BRIQUET, *K. persicina* A. KERNER, *K. intermedia* PERNH. & WETTST., *K. transalpina* (CHRIST) BRIQUET.\n\n*K. rigidiuscula* (KOCH) WETTST. en *K. ressmanni* (PACH. & JAB.) BRIQ. bij *K. dipsacifolia*."
+          }
+        }
+      ]
+    }
+  }
+}

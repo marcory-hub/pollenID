@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug18-tricolpatae-str-acer",
+    "title": "18.4 *Acer* (Tafel 47: 15–18)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK tricolpaat, prolaat tot sferoïdisch, PForml 1,11–1,49 (bij *A. tataricum* 0,97–1,53). Polarvelden klein. Exine ca. 1,5–2,5 µm dik, striaat. Valla meestal meridionaal.",
+          "outcome": {
+            "text": "18.4 *Acer*\n\nValla lang, weinig vertakt, tot ca. 0,5 µm breed, dicht staand; alleen nabij de pool vaak schuin of transversaal. Columellae in bovenaanzicht en in optische doorsnede duidelijk herkenbaar, in parelsnoervormige rangschikking onder de valla. Endexine ca. 0,5–1,0 µm dik, vaak dikker dan de hoogte van de valla en de tectum-dikte samen. Goed ontwikkelde PK tonen gladde, parallelle intercolpium-randen. De PK van de in Midden-Europa frequente soorten (*A. campestre*, *A. pseudoplatanus*, *A. platanoides*) zijn identiek. *A. tataricum* wijkt door kleinere PK iets af.\n\n*Acer campestre* L. (6)\n33,3–45,0 µm, MiW 38,6 µm; 50 PK, 0a\n\n*Acer monspessulanum* L. (2)\n29,7–48,5 µm, MiW 37,3 µm; 50 PK, 1a\n\n*Acer opalus* MILLER (3)\n35,0–45,8 µm, MiW 40,7 µm; 50 PK, 0a\n\n*Acer platanoides* L. (4)\n34,7–46,7 µm, MiW 42,3 µm; 50 PK, 1a\n\n*Acer pseudoplatanus* L. (6)\n30,4–45,5 µm, MiW 38,4 µm; 52 PK, 1a\n\n*Acer tataricum* L. (4)\n25,0–35,0 µm, MiW 29,8 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

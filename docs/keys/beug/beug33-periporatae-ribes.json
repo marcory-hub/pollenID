@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-ribes",
+    "title": "33.10 *Ribes* (Tafel 114: 1–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "6–8(9) poriën in lacunae; costae; exine 1,2–1,7 µm.",
+          "outcome": {
+            "text": "33.10 *Ribes*\n\nPoriën 3–5 µm, 1–2 per lacuna; costae 1–2 µm breed. Exine psilaat tot zwak scabraat, 1,2–1,7 µm.\n\n*Ribes alpinum* L. (4)\n20,8–27,0 µm, MiW 24,2 µm; 50 PK, 0a\n\n*Ribes nigrum* L. (3)\n30,0–40,5 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Ribes petraeum* WULFEN (3)\n28,0–35,0 µm, MiW 32,1 µm; 50 PK, 0a\n\n*Ribes rubrum* L. (3)\n24,0–33,0 µm, MiW 29,3 µm; 50 PK, 0a\n\n*Ribes spicatum* ROBSON (1)\n25,3–32,5 µm, MiW 31,2 µm; 50 PK, 0a\n\n*Ribes uva-crispa* L. (3)\n26,5–39,5 µm, MiW 31,1 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

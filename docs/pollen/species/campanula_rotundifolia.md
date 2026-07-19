@@ -1,6 +1,6 @@
 # *Campanula Rotundifolia* (grasklokje)
 
-{{ pollen_gallery("campanula_rotundifolia") }}
+{{ gallery("campanula_rotundifolia") }}
 
 ## Kenmerken
 

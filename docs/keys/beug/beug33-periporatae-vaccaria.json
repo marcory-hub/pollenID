@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-vaccaria",
+    "title": "33.8.12 *Vaccaria hispanica* (Tafel 113: 1–2)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "42–49 µm; 12–14 poriën; korrelige opercula.",
+          "outcome": {
+            "text": "33.8.12 *Vaccaria hispanica*\n\n6-hoekig; poriën 5–6 µm; anulus 0,9–1,1(1,2) µm. Exine 3,0–3,5 µm.\n\n*Vaccaria hispanica* (MILL.) RAUSCHERT (2)\n41,5–49,5 µm, MiW 46,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

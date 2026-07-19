@@ -1,6 +1,6 @@
 # *Pinus sylvestris* (grove den)
 
-{{ pollen_gallery("pinus_sylvestris") }}
+{{ gallery("pinus_sylvestris") }}
 
 ## Kenmerken
 

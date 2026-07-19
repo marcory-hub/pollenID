@@ -1,6 +1,6 @@
 # *Plantago Lanceolata*
 
-{{ pollen_gallery("plantago_lanceolata") }}
+{{ gallery("plantago_lanceolata") }}
 
 ## Kenmerken
 

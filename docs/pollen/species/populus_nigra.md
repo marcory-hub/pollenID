@@ -1,6 +1,6 @@
 # *Populus nigra* (zwarte populier)
 
-{{ pollen_gallery("populus_nigra") }}
+{{ gallery("populus_nigra") }}
 
 ## Kenmerken
 

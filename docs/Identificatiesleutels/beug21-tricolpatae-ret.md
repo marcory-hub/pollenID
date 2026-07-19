@@ -1,4 +1,4 @@
-# 21. Tricolpatae (reticulate of microreticulate sculpturen) (Beug)
+# 21. Tricolpatae-ret (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug21-tricolpatae-ret.json"></div>
 

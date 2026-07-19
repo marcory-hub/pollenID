@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-myosotis-discolor",
+    "title": "28.2 *Myosotis discolor* (Tafel 93: 15–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "8 colpi, waarvan 4 poraat; PK ca. 17–20 µm.",
+          "outcome": {
+            "text": "28.2 *Myosotis discolor*\n\nPK tonvormig in equatoriaal aanzicht; sferoïdisch tot zwak prolaat (PForml 1,2–1,4). Polarvelden groot. 4 porate + 4 niet-porate colpi. Poriën tot 4 µm. Op elk polarveld meestal driehoekige, korrelig bezette pseudoporie (?apicaalveld). Exine ca. 0,8 µm, psilaat. Atypische apertuurverdeling komt vaak voor.\n\n*Myosotis discolor* PERS. (2)\n17,0–20,5 µm, MiW 19,1 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

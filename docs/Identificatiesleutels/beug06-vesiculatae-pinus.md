@@ -1,19 +1,7 @@
-# 6.3 Pinus (Beug)
+# 6.3 *Pinus* (Beug)
 
-## 6.3.1 Pinus cembra type
-- Pinus cembra
-- Pinus peuce
+<div id="pollentabel-root" data-json-url="../../keys/beug/beug06-vesiculatae-pinus.json"></div>
 
-## 6.3.2 Pinus sylvestris type
-- Pinus sylvestris
-- Pinus mugo
-- [Pinus nigra]
-- Pinus pinea
-- pinus leucodermis
-- Pinus halepensis
-- Pinus maratima
-- Pinus brutia
-- Pinus banksiana
-- Pinus contorta
-- Pinus strobus
-- Pinus rigida
+### Tabel-overzicht
+
+<div id="pollentabel-table-root" data-json-url="../../keys/beug/beug06-vesiculatae-pinus.json"></div>

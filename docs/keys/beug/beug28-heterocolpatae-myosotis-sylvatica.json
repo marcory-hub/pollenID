@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-myosotis-sylvatica",
+    "title": "28.8 *Myosotis sylvatica*-type (Tafel 94: 7–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polar duidelijk afgeplat; porate colpi korter.",
+          "outcome": {
+            "text": "28.8 *Myosotis sylvatica*-type\n\nAls *Omphalodes*-type, maar met duidelijk afgeplatte polen. 6 colpi; porate korter dan niet-porate. Incidenteel apicaalveld waarin niet-porate colpi lijken uit te monden.\n\n*Myosotis alpestris* F.W. SCHMIDT (1)\n7,5–10,0 µm, MiW 8,8 µm; 50 PK, 0a\n\n*Myosotis scorpioides* L. (3)\n7,5–9,3 µm, MiW 8,5 µm; 50 PK, 0a\n\n*Myosotis sylvatica* EHRH. ex HOFFM. (2)\n5,0–7,3 µm, MiW 6,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

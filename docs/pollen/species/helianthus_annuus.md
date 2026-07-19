@@ -1,6 +1,6 @@
 # *Helianthus annuus* (zonnebloem)
 
-{{ pollen_gallery("helianthus_annuus") }}
+{{ gallery("helianthus_annuus") }}
 
 ## Kenmerken
 

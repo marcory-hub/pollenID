@@ -1,6 +1,4 @@
-# 22.31.4.2 Trifolium pratense-type (Beug) - determinatietabel
-
-Sleutel voor **Trifolium pratense-type**, §22.31.4.2 in Beug. PK = pollenkorrel.
+# 22.31.4 *Trifolium* (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-trifolium.json"></div>
 

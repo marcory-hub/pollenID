@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-phaseolus",
+    "title": "31.4 *Phaseolus* (Tafel 97: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 2–3 µm; poriën zonder costae; exine 2–3 µm.",
+          "outcome": {
+            "text": "31.4 *Phaseolus*\n\nEquatoriaal rondachtig tot lensvormig; polair driehoekig tot rondachtig. P/E 0,78–1,03. Poriën (6)7–10 µm (meridionaal gestrekt 6–6,5 × 7,5–9 µm). Exine 2,0–3,0 µm, onregelmatig of regelmatig suprareticulaat tot verrucaat. Brochi ca. 2–3 µm.\n\n*Phaseolus coccineus* L. (2)\n35,5–45,3 µm; 20 PK, 0a, Ä\n[te verifiëren: MiW ontbreekt]\n\n*Phaseolus vulgaris* L. (3)\n35,0–47,5 µm, MiW 41,2 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

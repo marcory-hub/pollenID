@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-carex-2",
+    "title": "33.18 *Carex* groep 2 — poraat",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poraat; deels ook colpate PK.",
+          "outcome": {
+            "text": "33.18 *Carex* groep 2 — poraat (deels ook colpaat)\n\n*Carex acuta* L. (2)\n38,0–51,3 µm, MiW 44,8 µm; 50 PK, 0a\n\n*Carex acutiformis* EHRH. (3)\n34,0–43,0 µm, MiW 39,0 µm; 50 PK, 0a\n\n*Carex buekii* WIMM. (1)\n35,8–47,3 µm, MiW 41,0 µm; 50 PK, 0a\n\n*Carex canescens* L. (2)\n29,5–44,5 µm, MiW 35,5 µm; 50 PK, Oa\n\n*Carex capitata* L. (1)\n30,5–39,8 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Carex caryophyllea* LATOURR. (1)\n32,5–44,5 µm, MiW 36,6 µm; 50 PK, 0a\n\n*Carex davalliana* SM. (1)\n36,0–53,0 µm, MiW 45,0 µm; 50 PK, 0a\n\n*Carex depauperata* CURTIS ex WITH. (1)\n37,0–52,5 µm, MiW 42,9 µm; 50 PK, Oa\n\n*Carex diandra* SCHRANK (1)\n37,0–47,5 µm, MiW 42,4 µm; 50 PK, 0a\n\n*Carex disticha* HUDS. (1)\n34,8–47,0 µm, MiW 39,2 µm; 50 PK, 0a\n\n*Carex elata* ALL. (2)\n37,8–50,5 µm, MiW 43,5 µm; 52 PK, 0a\n\n*Carex elongata* L. (1)\n37,8–47,5 µm, MiW 42,8 µm; 50 PK, Oa\n\n*Carex extensa* GOOD. (1)\n39,5–49,3 µm, MiW 44,5 µm; 50 PK, 0a\n\n*Carex ferruginea* SCOP. (1)\n31,8–52,8 µm, MiW 39,0 µm; 50 PK, Oa\n\n*Carex flacca* SCHREB. (2)\n37,0–53,0 µm, MiW 44,3 µm; 50 PK, Oa\n\n*Carex flava* L. (1)\n34,5–49,5 µm, MiW 40,4 µm; 50 PK, 0a\n\n*Carex halleriana* ASSO (1)\n37,3–52,0 µm, MiW 44,7 µm; 50 PK, 0a\n\n*Carex hirta* L. (1)\n49,8–64,5 µm, MiW 56,0 µm; 50 PK, Oa\n\n*Carex hordeistichos* VILL. (1)\n45,5–64,3 µm, MiW 54,4 µm; 50 PK, Oa\n\n*Carex humilis* LEYSS. (2)\n30,5–42,8 µm, MiW 36,3 µm; 50 PK, 0a\n\n*Carex lachenalii* SCHKUHR (1)\n29,5–40,0 µm, MiW 35,6 µm; 50 PK, Oa\n\n*Carex lepidocarpa* TAUSCH (1)\n39,3–50,5 µm, MiW 45,9 µm; 50 PK, Oa\n\n*Carex limosa* L. (1)\n29,5–44,5 µm, MiW 36,4 µm; 50 PK, Oa\n\n*Carex liparocarpos* GAUDIN (1)\n35,0–47,0 µm, MiW 40,4 µm; 53 PK, Oa\n\n*Carex mackenziei* V. KRECZ. (1)\n32,0–46,8 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Carex microglochin* WAHLENB. (1)\n32,5–45,3 µm; 29 PK, Oa\n[te verifiëren: MiW ontbreekt]\n\n*Carex montana* L. (3)\n36,8–52,5 µm, MiW 43,8 µm; 50 PK, 0a\n\n*Carex pallescens* L. (1)\n33,5–44,3 µm, MiW 39,4 µm; 50 PK, Oa\n\n*Carex panicea* L. (1)\n47,3–59,5 µm, MiW 53,8 µm; 50 PK, Oa\n\n*Carex pauciflora* LIGHTF. (1)\n33,0–51,8 µm, MiW 38,7 µm; 50 PK, Oa\n\n*Carex pendula* HUDS. (1)\n45,0–55,5 µm, MiW 51,0 µm; 51 PK, 0a\n\n*Carex pseudobrizoides* CLAVAUD (1)\n31,3–44,5 µm, MiW 38,0 µm; 50 PK, Oa\n\n*Carex pulicaris* L. (1)\n34,8–52,5 µm, MiW 43,4 µm; 50 PK, 0a\n\n*Carex remota* L. (1)\n31,8–43,0 µm, MiW 36,6 µm; 50 PK, Oa\n\n*Carex riparia* CURTIS (1)\n38,0–51,8 µm, MiW 46,1 µm; 50 PK, 0a\n\n*Carex subspathacea* WORMSK. (1)\n35,5–49,8 µm, MiW 42,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

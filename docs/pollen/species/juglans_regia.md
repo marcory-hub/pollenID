@@ -1,6 +1,6 @@
 # *Juglans regia* (walnootboom)
 
-{{ pollen_gallery("juglans_regia") }}
+{{ gallery("juglans_regia") }}
 
 ## Kenmerken
 

@@ -1,4 +1,4 @@
-# 33.7 Alisma-familie (Beug)
+# 33.7 *Alisma*-groep (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-alisma.json"></div>
 

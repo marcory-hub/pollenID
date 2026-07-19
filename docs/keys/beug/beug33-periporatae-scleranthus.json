@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-scleranthus",
+    "title": "33.8.2 *Scleranthus* (Tafel 110: 7–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anuli 3–4 µm; columellae 1–2-rijig op smalste interporium.",
+          "outcome": {
+            "text": "33.8.2 *Scleranthus*\n\n12 poriën; 8-hoekig of rondachtig. Poriën 3,0–5,5 µm; anulus 3–4 µm. Exine 3,5–4,8 µm. Microechini ca. 0,5 µm alleen boven columellae.\n\n*Scleranthus annuus* L. (3)\n44,5–54,0 µm, MiW 49,5 µm; 50 PK, 0a\n\n*Scleranthus perennis* L. (5)\n40,3–49,5 µm, MiW 45,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

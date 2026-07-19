@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-campanula-trachelium",
+    "title": "32.11.4 *Campanula trachelium*-type (Tafel 105: 14–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echini 1,5–2,0 µm; meestal 3 of 4 poriën.",
+          "outcome": {
+            "text": "32.11.4 *Campanula trachelium*-type\n\nEchini 1,5–2,0 µm; afstanden overwegend 3–5 µm; PK met 3 of 4 poriën.\n\n*Adenophora liliifolia* (L.) LEDEB. (2)\n40,0–51,8 µm, MiW 46,2 µm; 50 PK, 0a, Ä\n\n*Campanula alpina* JACQ. (2)\n27,8–37,8 µm, MiW 33,4 µm; 50 PK, 0a, Ä\n\n*Campanula barbata* L. (2)\n27,8–35,5 µm, MiW 32,7 µm; 51 PK, 0a, Ä\n\n*Campanula cochleariifolia* LAM. (2)\n30,0–37,8 µm, MiW 33,7 µm; 50 PK, 0a, Ä\n\n*Campanula excisa* SCHLEICHER (2)\n24,5–34,5 µm, MiW 29,4 µm; 50 PK, 0a, Ä\n\n*Campanula latifolia* L. (3)\n34,5–43,3 µm, MiW 39,2 µm; 50 PK, 0a, Ä\n\n*Campanula rapunculoides* L. (3)\n38,8–48,3 µm, MiW 43,1 µm; 50 PK, 0a, Ä\n\n*Campanula scheuchzeri* VILL. (2)\n32,5–42,5 µm, MiW 38,2 µm; 50 PK, 0a, Ä\n\n*Campanula sibirica* L. (2)\n34,3–43,0 µm, MiW 38,2 µm; 51 PK, 0a, Ä\n\n*Campanula thyrsoides* L. (2)\n30,3–37,5 µm, MiW 34,7 µm; 50 PK, 0a, Ä\n\n*Campanula trachelium* L. (3)\n32,5–38,0 µm, MiW 36,1 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

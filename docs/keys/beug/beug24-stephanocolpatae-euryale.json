@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-euryale",
+    "title": "24.1 *Euryale ferox* (Tafel 84: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echinaat; (3)4–5(6) equatoriale colpi.",
+          "outcome": {
+            "text": "24.1 *Euryale ferox*\n\nPK echinaat, sferoïdisch tot oblaat (PForml 0,69–0,89). Colpi (3)4–5(6) equatoriaal; intercolpiumranden ingekromd. Exine 0,8–1,2 µm. Echini 1,5–2,0 µm lang, ca. 0,5 µm dik, vanaf de basis toegespitst. Onderzocht materiaal vooral 4 of 5 colpi.\n\n*Euryale ferox* SALISB. (1)\n35,0–43,3 µm, MiW 38,8 µm; 50 PK, 9a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

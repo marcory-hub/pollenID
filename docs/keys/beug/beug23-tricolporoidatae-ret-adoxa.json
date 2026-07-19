@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-adoxa",
+    "title": "23.3 *Adoxa moschatellina* (Tafel 79: 25–31)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Heterobrochaat; exine midden intercolpia tot ca. 1,5 µm; zwak prolaat.",
+          "outcome": {
+            "text": "23.3 *Adoxa moschatellina*\n\nPK langgerekt, prolaat tot zwak sferoïdisch (PForml 1,20–1,53). Polarvelden klein. Heterobrochaat: kleine brochi 0,6–1,0 µm, grote tot 2,0 µm. Exine 1,5 µm, polar slechts 1,0 µm. Polargebieden uniform microreticulaat. Colpi equatoriaal meestal duidelijk vernauwd.\n\n*Adoxa moschatellina* L. (3)\n26,2–35,0 µm, MiW 30,7 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

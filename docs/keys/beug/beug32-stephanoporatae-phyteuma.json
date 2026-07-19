@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-phyteuma",
+    "title": "32.11.3 *Phyteuma*-type (Tafel 105: 8–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echini 0,5–1,0(1,2) µm, zelden tot 1,5 µm.",
+          "outcome": {
+            "text": "32.11.3 *Phyteuma*-type\n\nEchini tot 1,0(1,2) µm, zelden tot 1,5 µm; overwegend 3–4 poriën; afstanden meestal 3–6 µm.\n\n*Phyteuma betonicifolium* VILL. (2)\n32,3–41,0 µm, MiW 36,2 µm; 50 PK, 0a, Ä\n\n*Phyteuma comosum* L. (1)\n30,0–37,3 µm, MiW 34,2 µm; 50 PK, 0a, Ä\n\n*Phyteuma globulariifolium* STERNB. & HOPPE (1)\n29,5–35,0 µm, MiW 32,6 µm; 50 PK, 0a, Ä\n\n*Phyteuma globulariifolium* subsp. *pedemontanum* (R.SCHULZ) BECHERER (1)\n30,5–40,0 µm, MiW 35,6 µm; 50 PK, 0a, Ä\n\n*Phyteuma hedraianthifolium* R.SCHULZ (1)\n35,0–42,8 µm, MiW 39,2 µm; 50 PK, 0a, Ä\n\n*Phyteuma hemisphaericum* L. (2)\n34,5–40,5 µm, MiW 37,4 µm; 50 PK, 0a, Ä\n\n*Phyteuma humile* SCHLEICHER (1)\n35,0–42,5 µm, MiW 40,2 µm; 50 PK, 0a, Ä\n\n*Phyteuma nanum* SCHUHR (1)\n35,0–40,3 µm, MiW 37,3 µm; 50 PK, 0a, Ä\n\n*Phyteuma nigrum* F.W. SCHMIDT (3)\n32,8–42,0 µm, MiW 37,8 µm; 50 PK, 0a, Ä\n\n*Phyteuma orbiculare* L. (2)\n33,5–40,0 µm, MiW 36,6 µm; 51 PK, 0a, Ä\n\n*Phyteuma ovatum* HONCK. (2)\n30,5–35,8 µm, MiW 33,3 µm; 50 PK, 0a, Ä\n\n*Phyteuma scheuchzeri* ALL. (1)\n30,5–39,5 µm, MiW 35,6 µm; 50 PK, 0a, Ä\n\n*Phyteuma scorzonerifolium* VILL. (1)\n29,5–37,8 µm, MiW 34,4 µm; 50 PK, 0a, Ä\n\n*Phyteuma sieberi* SPRENGER (1)\n31,8–40,5 µm, MiW 37,0 µm; 50 PK, 0a, Ä\n\n*Phyteuma spicatum* L. (4)\n31,8–38,5 µm, MiW 35,2 µm; 51 PK, 0a, Ä\n\n*Phyteuma tenerum* R.SCHULZ (1)\n34,5–45,5 µm, MiW 40,0 µm; 50 PK, 0a, Ä\n\n*Phyteuma zahlbruckneri* VEST (1)\n30,0–37,0 µm, MiW 32,9 µm; 50 PK, 0a, Ä\n\n*Campanula baumgartenii* BECKER (1)\n30,3–46,3 µm, MiW 41,1 µm; 51 PK, 0a, Ä\n\n*Campanula bononiensis* L. (2)\n29,5–34,5 µm, MiW 31,7 µm; 50 PK, 0a, Ä\n\n*Campanula cenisia* L. (2)\n32,8–40,5 µm, MiW 37,0 µm; 50 PK, 0a, Ä\n\n*Campanula cervicaria* L. (2)\n27,5–33,0 µm, MiW 30,9 µm; 50 PK, 0a, Ä\n\n*Campanula glomerata* L. (3)\n25,8–35,0 µm, MiW 30,8 µm; 50 PK, 0a, Ä\n\n*Campanula patula* L. (3)\n28,8–36,3 µm, MiW 32,5 µm; 50 PK, 0a, Ä\n\n*Campanula persicifolia* L. (2)\n34,5–42,5 µm, MiW 38,4 µm; 50 PK, Oa, Ä\n\n*Campanula pulla* L. (1)\n30,0–38,5 µm, MiW 34,9 µm; 50 PK, 0a, Ä\n\n*Campanula rapunculus* L. (2)\n32,3–37,3 µm, MiW 34,2 µm; 50 PK, Oa, Ä\n\n*Campanula rhomboidalis* L. (2)\n33,0–42,5 µm, MiW 38,9 µm; 50 PK, Oa, Ä\n\n*Campanula rotundifolia* L. (3)\n31,8–39,5 µm, MiW 35,1 µm; 50 PK, 0a, Ä\n\n*Campanula spicata* L. (1)\n28,3–33,0 µm, MiW 31,3 µm; 50 PK, 0a, Ä\n\n*Campanula uniflora* L. (1)\n30,0–42,0 µm, MiW 35,1 µm; 50 PK, 0a, Ä\n\n*Jasione laevis* LAM. (2)\n30,8–39,5 µm, MiW 35,2 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

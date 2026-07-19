@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-scabiosa-argentea",
+    "title": "31.3 *Scabiosa argentea* (syn. *S. ucrainica*) (Tafel 97: 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Gemmaat én echinaat.",
+          "outcome": {
+            "text": "31.3 *Scabiosa argentea* (syn. *S. ucrainica*)\n\nPolair driehoekig met ingezonken poriën; oblaat; P/E 0,57–0,73. Polaire as 53–72,5 µm. Gemmae 2,2–2,8 µm hoog, 2,5–3,5 µm dik, afstanden 4–12 µm. Echini 1,3–2,0 µm lang, 0,8–1,0 µm dik, afstanden 1,0–1,2 µm. Exine met sculptuur 9–13 µm; endexine 2,0–2,5 µm; tectum ca. 1 µm.\n\n*Scabiosa argentea* L. (2)\n83,3–100,8 µm, MiW 93,4 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Crocus albiflorus* (crocus)
 
-{{ pollen_gallery("crocus_albiflorus") }}
+{{ gallery("crocus_albiflorus") }}
 
 ## Kenmerken
 

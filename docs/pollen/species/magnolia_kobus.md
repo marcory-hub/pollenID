@@ -1,6 +1,6 @@
 # *Magnolia kobus* (Magnolia kobus)
 
-{{ pollen_gallery("magnolia_kobus") }}
+{{ gallery("magnolia_kobus") }}
 
 ## Kenmerken
 

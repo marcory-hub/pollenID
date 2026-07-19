@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug10-syncolpatae-simethis",
+    "title": "10.5 *Simethis planifolia* (Tafel 11: 10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK trichotomocolpaat, in polair aanzicht driehoekig. Distaal 3 Colpen die vanuit equatoriaal naar de distale pool lopen en daar samenkomen. Exine 1,0–1,5 µm dik, reticulaat. Brochi ± 1 µm groot, zonder Columellae (Tafel 11: 10).",
+          "outcome": {
+            "text": "10.5 *Simethis planifolia*\n\n*Simethis planifolia* (VAND.) GG. (1)\n24,1–36,4 µm, MiW 30,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

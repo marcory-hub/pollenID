@@ -1,6 +1,6 @@
 # *Trifolium repens*
 
-{{ pollen_gallery("trifolium_repens") }}
+{{ gallery("trifolium_repens") }}
 
 ## Kenmerken
 

@@ -1,4 +1,4 @@
-# 28 Heterocolpatae (Beug)
+# 28. Heterocolpatae (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug28-heterocolpatae.json"></div>
 

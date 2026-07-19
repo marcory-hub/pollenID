@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-prunella",
+    "title": "24.8 *Prunella*-type (Tafel 85: 18–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Macrobrochi >2–5(7) µm; >4 microbrochi; columellae ook in lumina.",
+          "outcome": {
+            "text": "24.8 *Prunella*-type\n\nAls *Mentha*-type qua colpiaantal/vorm/polarvelden, maar macrobrochi >2 tot 5(7) µm met meestal >4 microbrochi (~0,5 µm) per lumen; columellae ook onder macrolumina. Muri van macrobrochi smaller dan bij *Mentha*-type.\n\n*Dracocephalum austriacum* L. (2)\n47,5–64,3 µm, MiW 54,2 µm; 51 PK, Oa\n\n*Dracocephalum ruyschiana* L. (2)\n34,8–51,0 µm, MiW 41,6 µm; 50 PK, Oa\n\n*Glechoma hederacea* L. (2)\n37,8–45,5 µm, MiW 41,9 µm; 50 PK, Oa\n\n*Hyssopus officinalis* L. (2)\n26,8–37,0 µm, MiW 31,2 µm; 50 PK, Oa\n\n*Melissa officinalis* L. (2)\n31,9–45,3 µm, MiW 38,6 µm; 50 PK, 1a\n\n*Nepeta cataria* L. (1)\n26,6–35,4 µm, MiW 30,8 µm; 50 PK, 1a\n\n*Nepeta nuda* L. (2)\n29,0–36,8 µm, MiW 32,3 µm; 50 PK, 0a\n\n*Prunella grandiflora* (L.) SCHOLLER (2)\n41,3–49,3 µm, MiW 45,2 µm; 50 PK, 0a\n\n*Prunella laciniata* (L.) L. (2)\n37,5–48,5 µm, MiW 43,4 µm; 50 PK, 0a\n\n*Prunella vulgaris* L. (3)\n41,3–55,3 µm, MiW 45,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

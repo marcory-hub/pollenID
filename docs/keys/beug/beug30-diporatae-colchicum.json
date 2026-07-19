@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug30-diporatae-colchicum.json",
-    "title": "30.1 Colchicum-groep (Beug)",
+    "key": "beug30-diporatae-colchicum",
+    "title": "30.1 *Colchicum*-groep (Tafel 96: 5–6)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 2,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
   },
   "start": "1",
   "steps": {
@@ -14,32 +15,32 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat met 1-1,5(2) µm großen Brochi.",
+          "label": "PK reticulaat met 1–1,5(2) µm grote brochi.",
           "next": "2"
         },
         {
-          "label": "PK microreticulaat, Brochi tot 1 µm, met Übergängen zu einem Tectum perforatum.",
-          "id": {
-            "name": "30.1.1 Colchicum alpinum"
+          "label": "PK microreticulaat; brochi tot 1 µm, met overgangen naar een tectum perforatum.",
+          "outcome": {
+            "text": "30.1.1 *Colchicum alpinum*\n\n*Colchicum alpinum* DC. (2)\n54,8–72,8 µm, MiW 61,2 µm; 50 PK, 0a\n\nHoogte van de PK (tussen convexe en platte zijde) 35–48 µm."
           }
         }
-      ]
+      ],
+      "note": "PK langgerekt, broodvormig met platte en gewelfde zijde. Aperturen iets van de einden naar de gewelfde zijde verschoven. Exine 1,8–2,0 µm. Aperturen rondachtig (ca. 5 µm; bij *Bulbocodium* meestal 10–12 µm) of langwerpig (ca. 12 × 8 µm)."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "Höhe der PK 37-47 µm. lengte > 60 µm (Tafel 96: 5-6).",
-          "id": {
-            "name": "30.1.2 Colchicum autumnale",
-            "pollen_key": "colchicum_autumnale"
+          "label": "Hoogte van de PK 37–47 µm; lengte > 60 µm (Tafel 96: 5–6).",
+          "outcome": {
+            "text": "30.1.2 *Colchicum autumnale*\n\n*Colchicum autumnale* L. (3)\n60,3–74,8 µm, MiW 67,6 µm; 50 PK, 0a\n\nHoogte 37–48 µm (in sleutel 37–47 µm). Sculpture reticulaat."
           }
         },
         {
-          "label": "Höhe der PK 29-36 µm. lengte < 60 µm.",
-          "id": {
-            "name": "30.1.3 Bulbocodium vernum"
+          "label": "Hoogte van de PK 29–36 µm; lengte < 60 µm.",
+          "outcome": {
+            "text": "30.1.3 *Bulbocodium vernum*\n\n*Bulbocodium vernum* L. (3)\n49,0–60,0 µm, MiW 54,0 µm; 50 PK, 0a"
           }
         }
       ]

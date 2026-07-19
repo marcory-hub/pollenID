@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-myriophyllum-alterniflorum",
+    "title": "32.8 *Myriophyllum alterniflorum* (Tafel 104: 8–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Twee tegenoverliggende poriegroepen in polair aanzicht.",
+          "outcome": {
+            "text": "32.8 *Myriophyllum alterniflorum*\n\nPolair met twee tegenoverliggende groepen van (1)2–3(4) poriën. Poriën rond tot ovaal, 2,2–5,8 × 3,8–5,8 µm; met anulus diameter 10,2–13,8 µm. Anulus 4,0–4,8 µm breed, 3,8–4,6 µm hoog. Zonder poriën bijna bolvormig, 22–25 µm. Exine 1,3–1,5 µm, scabraat.\n\nPoriegroepen (200 PK, 4 herkomsten): 1+1 4,5 %; 1+2 31,5 %; 1+3 4 %; 2+2 47,5 %; 2+3 11 %; 2+4 0,5 %; 3+3 1 %.\n\n*Myriophyllum alterniflorum* DC. (4)\n29,8–36,0 µm, MiW 32,9 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

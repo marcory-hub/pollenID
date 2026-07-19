@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-hypericum-elodes",
+    "title": "22.30 *Hypericum elodes* (Tafel 76: 11–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,5–2,5 µm; opvallend brede muri; columellae meerrijig onder muri.",
+          "outcome": {
+            "text": "22.30 *Hypericum elodes*\n\nPK langgerekt (PForml 1,19–1,43). Polarvelden klein tot middelgroot (PFeldI 0,16–0,31). Suprareticulaat; brochi 1,5–2,5 µm; muri relatief breed (0,4–1 µm). Columellae in fasecontrast meestal zichtbaar, onder muri meerrijig. Exine 1,5–1,8 µm.\n\n*Hypericum elodes* L. (3)\n33,5–45,5 µm, MiW 40,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

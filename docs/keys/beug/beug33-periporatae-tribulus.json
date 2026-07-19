@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-tribulus",
+    "title": "33.14 *Tribulus terrestris* (Tafel 115: 6–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Simplicolumellaat; 1 porie per brochus; brochi 7–9(10) µm.",
+          "outcome": {
+            "text": "33.14 *Tribulus terrestris*\n\nPoriën 2–3 µm in lumina 4–6 µm. Exine 5–6 µm; endexine 2–3 µm.\n\n*Tribulus terrestris* L. (2)\n40,5–53,8 µm, MiW 47,5 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

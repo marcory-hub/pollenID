@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-circaea",
+    "title": "31.9 *Circaea* (Tafel 99: 9–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polair rond met ronde/halfkogelige vestibula.",
+          "outcome": {
+            "text": "31.9 *Circaea*\n\nP/E 0,96–1,08. Sculpture psilaat tot scabraat, ook rugulaat (1–2 µm). Vestibula basaal 20–23 µm, hoogte 10,5–13,0 µm. Endexine in onderste vestibulumdeel 4–6 µm, binnenzijde korrelig-schollig. Poriën meestal rond, 3–6 µm. Exine 1,8–2,2 µm.\n\n*Circaea alpina* L. (2)\n33,0–42,5 µm, MiW 38,4 µm; 50 PK, 0a, Ä\n\n*Circaea lutetiana* L. (2)\n40,5–57,5 µm, MiW 49,8 µm; 50 PK, 0a, Ä\n\n*Circaea* × *intermedia* EHRH. (2)\n35,5–47,0 µm, MiW 41,4 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

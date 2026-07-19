@@ -1,6 +1,6 @@
 # *Juniperus communis* (jeneverbes)
 
-{{ pollen_gallery("juniperus_communis") }}
+{{ gallery("juniperus_communis") }}
 
 ## Kenmerken
 

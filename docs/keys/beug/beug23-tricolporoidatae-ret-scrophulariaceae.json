@@ -1,26 +1,28 @@
 {
   "meta": {
-    "key": "beug23-tricolporoidatae-ret-scrophulariaceae.json",
-    "title": "23.8 Scrophulariaceae p.p. (Beug)",
+    "key": "beug23-tricolporoidatae-ret-scrophulariaceae",
+    "title": "23.8 Scrophulariaceae p.p. (Tafel 80: 26–35, Tafel 81: 1–16)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 7,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 7
   },
   "start": "1",
   "steps": {
     "1": {
       "id": "1",
       "type": "step",
+      "note": "Gebruik recente vergelijkingspreparaten. Overlap tussen groepen is groot.",
       "choices": [
         {
-          "label": "PK heteropolaar, met een abgerundeten en een toegespitste Pol, 15-20 µm groot (Tafel 80: 26-27).",
-          "id": {
-            "name": "23.8.1 Chaenorrhinum minus (Blz. 367)"
+          "label": "PK heteropolair, met één afgeronde en één toegespitste pool; 15–20 µm (Tafel 80: 26–27).",
+          "outcome": {
+            "text": "23.8.1 *Chaenorrhinum minus*\n\nPK klein, sferoïdisch (PForml 1,20–1,32), peervormig heteropolair. Exine ca. 1 µm. Brochi tot 1 µm.\n\n*Chaenorrhinum minus* (L.) LANGE (2)\n15,3–21,5 µm, MiW 19,7 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK niet heteropolar.",
+          "label": "PK niet heteropolair.",
           "next": "2"
         }
       ]
@@ -30,13 +32,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 15-18 µm groot, sferoïdisch, zeer dunwandig (Tafel 80: 28-30).",
-          "id": {
-            "name": "23.8.2 Lindernia procumbens (Blz.367)"
+          "label": "PK 15–18 µm, sferoïdisch, zeer dunwandig (Tafel 80: 28–30).",
+          "outcome": {
+            "text": "23.8.2 *Lindernia procumbens*\n\nPForml 1,00–1,24. Exine 0,8 µm. Brochi <1 µm. Columellae niet zichtbaar.\n\n*Lindernia procumbens* (KROCK.) BORBÁS (2)\n15,0–18,1 µm, MiW 17,1 µm; 29 PK, 0a"
           }
         },
         {
-          "label": "PK größer en/of overwegend prolaat.",
+          "label": "PK groter en/of overwegend prolaat.",
           "next": "3"
         }
       ]
@@ -46,13 +48,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met aangedeuteten marges uit bijzonder kleine Brochi (Tafel 81: 1-6).",
-          "id": {
-            "name": "23.8.3 Verbascum (Blz. 368)"
+          "label": "PK met aangeduide margines uit bijzonder kleine brochi (Tafel 81: 1–6).",
+          "outcome": {
+            "text": "23.8.3 *Verbascum*\n\nPK sferoïdisch (PForml 0,97–1,22). Polarvelden klein. Exine 1,3–1,8 µm. Microreticulaat; brochi rond/onder/iets boven 1 µm; naar randen kleiner (marginat, vaak moeilijk zichtbaar bij sterk ingekromde randen).\n\n*Verbascum blattaria* L. (2)\n21,5–29,0 µm, MiW 24,4 µm; 50 PK, 0a\n\n*Verbascum chaixii* VILL. (1)\n20,3–31,5 µm, MiW 26,9 µm; 50 PK, 7a\n\n*Verbascum densiflorum* BERTOL. (4)\n22,0–28,5 µm, MiW 25,4 µm; 50 PK, 0a\n\n*Verbascum lanatum* SCHRADER (1)\n15,1–24,5 µm, MiW 22,1 µm; 50 PK, 7a\n\n*Verbascum lychnites* L. (5)\n22,8–33,3 µm, MiW 27,8 µm; 50 PK, 7a\n\n*Verbascum nigrum* L. (2)\n17,5–27,3 µm, MiW 22,3 µm; 50 PK, 7a\n\n*Verbascum phlomoides* L. (2)\n25,0–31,5 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Verbascum phoeniceum* L. (1)\n23,4–29,0 µm, MiW 26,5 µm; 50 PK, 16a\n\n*Verbascum pulverulentum* VILL. (2)\n20,5–25,3 µm, MiW 22,9 µm; 50 PK, Oa\n\n*Verbascum speciosum* SCHRADER (1)\n18,1–26,6 µm, MiW 23,0 µm; 50 PK, 7a\n\n*Verbascum thapsus* L. (2)\n23,0–31,3 µm, MiW 27,2 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK niet met aangedeuteten marges uit bijzonder kleine Brochi.",
+          "label": "PK niet met aangeduide margines uit bijzonder kleine brochi.",
           "next": "4"
         }
       ]
@@ -62,11 +64,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 14-25 µm groot (vanwege het overlapbereik zijn 20-25 µm grote PK niet nader te bepalen: Scrophulariaceae indet.).",
+          "label": "PK 14–25 µm (20–25 µm: Scrophulariaceae indet. wegens overlap).",
           "next": "5"
         },
         {
-          "label": "PK 20-37 µm groot.",
+          "label": "PK 20–37 µm.",
           "next": "6"
         }
       ]
@@ -76,15 +78,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Brochi in lichtveldbeeld (olie-immersie) duidelijk zichtbaar, tot 1 µm groot; PK overwegend elliptisch met afgeronde polen.",
-          "id": {
-            "name": "23.8.4 Linaria-type (Blz. 368)"
+          "label": "Brochi in helderveld (olie) duidelijk, tot 1 µm; PK overwegend elliptisch met afgeronde polen.",
+          "outcome": {
+            "text": "23.8.4 *Linaria*-type (*Linaria*, *Cymbalaria*)\n\nPForml 1,23–1,65. Exine 0,8–1,0 µm. Brochi 0,5–1 µm. Columellae ook in fasecontrast niet herkenbaar.\n\n*Linaria alpina* (L.) MILL. (2)\n15,5–20,2 µm, MiW 18,5 µm; 50 PK, 0a\n\n*Linaria arvensis* (L.) DESF. (2)\n14,0–21,8 µm, MiW 16,8 µm; 50 PK, 0a\n\n*Linaria bipartita* (VENTEN.) WILLD. (1)\n14,2–19,2 µm, MiW 17,3 µm; 50 PK, 1a\n\n*Linaria genistifolia* (L.) MILL. (2)\n15,9–24,4 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Linaria odora* (BIEB.) FISCHER (1)\n15,0–18,8 µm, MiW 17,5 µm; 50 PK, 0a\n\n*Linaria repens* (L.) MILL. (3)\n17,0–23,0 µm, MiW 20,9 µm; 50 PK, Oa\n\n*Linaria vulgaris* MILL. (3)\n19,5–23,0 µm, MiW 21,9 µm; 50 PK, 0a\n\n*Cymbalaria muralis* P. GAERTN., B. MEY. & SCHERB. (2)\n17,0–20,8 µm, MiW 19,1 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Brochi kleiner, in lichtveldbeeld (olie-immersie) meestal niet herkenbaar, PK vaak met toegespitste polen, elliptisch tot ruitvormig (Tafel 80: 31-35).",
-          "id": {
-            "name": "23.8.5 Kickxia (Blz. 370)"
+          "label": "Brochi kleiner, in helderveld meestal niet herkenbaar; PK vaak met toegespitste polen, elliptisch tot ruitvormig (Tafel 80: 31–35).",
+          "outcome": {
+            "text": "23.8.5 *Kickxia*\n\nAls *Linaria*-type met extreem kleine microbrochi en sterk brugvormige colpusvernauwingen. Deels als tricolporaat te zien (poriën relatief zwak gecontourd).\n\n*Kickxia elatine* (L.) DUMORT. (2)\n20,0–24,0 µm, MiW 21,8 µm; 50 PK, 0a\n\n*Kickxia spuria* (L.) DUMORT. (2)\n18,5–23,0 µm, MiW 20,4 µm; 50 PK, 0a"
           }
         }
       ]
@@ -94,14 +96,14 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK met kleine poolvelden.",
-          "next": "7"
+          "label": "PK met middelgrote polarvelden.",
+          "outcome": {
+            "text": "23.8.6 *Antirrhinum*-type\n\nPK prolaat (PForml 1,32–1,75). Polarvelden middelgroot (PFeldI 0,20–0,37). Exine 1,1–1,3 µm. Brochi tot 1 µm (*A. majus* soms tot 1,3 µm).\n\n*Antirrhinum majus* L. (1)\n22,5–27,5 µm, MiW 25,0 µm; 50 PK, 0a\n\n*Misopates orontium* (L.) RAF. (2)\n20,3–28,0 µm, MiW 25,1 µm; 50 PK, 0a"
+          }
         },
         {
-          "label": "PK met middelgrote poolvelden.",
-          "id": {
-            "name": "23.8.6 Antirrhinum-type (Blz. 370)"
-          }
+          "label": "PK met kleine polarvelden.",
+          "next": "7"
         }
       ]
     },
@@ -110,15 +112,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "breedte der Muri niet uniform, PK daarom met een onrustig microreticulaat patroon (Tafel 81: 7-11).",
-          "id": {
-            "name": "23.8.7 Digitalis (Blz. 370)"
+          "label": "Muribreedte niet eenvormig; onrustig microreticulaat patroon (Tafel 81: 7–11).",
+          "outcome": {
+            "text": "23.8.7 *Digitalis*\n\nMeestal prolaat (PForml 1,33–1,60; *D. lutea* 1,18–1,38). PFeldI 0,15–0,22. Exine ca. 1,5 µm. Brochi tot 1 µm. Columellae in fasecontrast meestal herkenbaar.\n\n*Digitalis grandiflora* MILL. (2)\n25,8–32,5 µm, MiW 30,3 µm; 50 PK, 0a\n\n*Digitalis lutea* L. (2)\n26,3–33,3 µm, MiW 29,8 µm; 50 PK, 0a\n\n*Digitalis pupurea* L. (3)\n25,0–30,5 µm, MiW 28,9 µm; 50 PK, 0a\n\nN.B. OCR: «pupurea» i.p.v. *purpurea* — overgenomen uit bijlage."
           }
         },
         {
-          "label": "breedte der Muri uniform, PK daarom met een regelmatig microreticulaat patroon (Tafel 81: 12-16).",
-          "id": {
-            "name": "23.8.8 Scrophularia-type (Blz. 370)"
+          "label": "Muribreedte eenvormig; regelmatig microreticulaat patroon (Tafel 81: 12–16).",
+          "outcome": {
+            "text": "23.8.8 *Scrophularia*-type\n\nOmvat *Scrophularia*, *Wulfenia*, *Paederota*, *Limosella*. PForml 1,16–1,63 (*Wulfenia* 1,00–1,51). Polarvelden klein (PFeldI 0,10–0,18). Exine max. 1,3–1,4 µm. Brochi vaak tot ca. 1,3 µm.\n\n*Scrophularia auriculata* L. (2)\n25,5–32,5 µm, MiW 29,1 µm; 50 PK, 0a\n\n*Scrophularia canina* L. (4)\n22,3–33,3 µm, MiW 28,5 µm; 50 PK, 0a\n\n*Scrophularia heterophylla* WILLD. (1)\n22,0–31,5 µm, MiW 27,1 µm; 50 PK, 0a\n\n*Scrophularia nodosa* L. (4)\n25,6–30,8 µm, MiW 29,0 µm; 50 PK, 0a\n\n*Scrophularia scopolii* HOPPE (2)\n25,8–32,8 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Scrophularia scorodonia* L. (1)\n21,2–30,4 µm, MiW 27,7 µm; 50 PK, 0a\n\n*Scrophularia umbrosa* DUMORT. (3)\n25,0–32,3 µm, MiW 28,9 µm; 50 PK, 0a\n\n*Scrophularia vernalis* L. (2)\n24,8–37,2 µm, MiW 31,9 µm; 50 PK, Oa\n\n*Limosella aquatica* L. (3)\n20,5–28,8 µm, MiW 24,3 µm; 50 PK, 0a\n\n*Paederota bonarota* (L.) L. (3)\n23,7–30,1 µm, MiW 27,0 µm; 50 PK, 0a\n\n*Paederota lutea* Scop. (2)\n26,3–35,0 µm, MiW 30,8 µm; 50 PK, Oa\n\n*Wulfenia carinthiaca* JACQ. (2)\n23,3–29,5 µm, MiW 25,7 µm; 50 PK, Oa"
           }
         }
       ]

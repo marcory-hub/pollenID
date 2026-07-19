@@ -1,6 +1,6 @@
 # *Trifolium pratense*
 
-{{ pollen_gallery("trifolium_pratense") }}
+{{ gallery("trifolium_pratense") }}
 
 ## Kenmerken
 

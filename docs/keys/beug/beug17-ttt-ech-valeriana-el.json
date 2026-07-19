@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug17-ttt-ech-valeriana-el.json",
-    "title": "17.6 Valeriana elongata-groep (Beug)",
+    "key": "beug17-ttt-ech-valeriana-el",
+    "title": "17.6 *Valeriana elongata*-groep",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 2,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "Microechini tot 1 µm lang. Als PK kleiner is dan 35 µm, vgl. ook *V. elongata*.",
-          "id": {
-            "name": "17.6.1 Valeriana saxatilis-type"
+          "outcome": {
+            "text": "17.6.1 *Valeriana saxatilis*-type\n\nPK sferoïdisch, pollenvormindex 1,08–1,31. Microechini tot 1 µm. Exine 3,0–4,0 µm.\n\n*Valeriana saxatilis* L. (5)\n35,5–47,3 µm, MiW 40,8 µm; 50 PK, 0a\n\n*Valeriana saliunca* ALL. (3)\n42,3–68,0 µm, MiW 55,1 µm; 50 PK, 0a"
           }
         },
         {
@@ -31,14 +32,14 @@
       "choices": [
         {
           "label": "Echini maximaal 2 µm lang, PK ongeveer 30-40 µm groot, pollenvormindex ongeveer 1,0.",
-          "id": {
-            "name": "17.6.2 Valeriana elongata"
+          "outcome": {
+            "text": "17.6.2 *Valeriana elongata* (Tafel 43: 1–3)\n\nPK sferoïdisch, pollenvormindex 0,8–1,02. Echini tot 2 µm. Exine 3,0–3,5 µm.\n\n*Valeriana elongata* L. (4)\n29,5–37,8 µm, MiW 34,4 µm; 50 PK, 0a"
           }
         },
         {
           "label": "Echini maximaal 2,0-2,8 µm lang, PK bovendien met kleinere echini, PK groter dan 40 µm, pollenvormindex groter dan 1,10.",
-          "id": {
-            "name": "17.6.3 Valeriana celtica"
+          "outcome": {
+            "text": "17.6.3 *Valeriana celtica* (Tafel 43: 4–6)\n\nPK sferoïdisch, pollenvormindex 1,24–1,36. Echini meestal 2,0–2,8 µm. Exine 3 µm, endexine 1,2 µm.\n\n*Valeriana celtica* L. (5)\n43,0–55,0 µm, MiW 47,9 µm; 50 PK, 0a"
           }
         }
       ]

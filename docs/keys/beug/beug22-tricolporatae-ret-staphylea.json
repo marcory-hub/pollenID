@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-staphylea",
+    "title": "22.19 *Staphylea pinnata* (Tafel 74: 15–18)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 39–54 µm; polarvelden klein; kleinreticulate margines; columellae meerrijig.",
+          "outcome": {
+            "text": "22.19 *Staphylea pinnata*\n\nPK sferoïdisch (PForml 0,97–1,30). Polarvelden klein (PFeldI 0,13–0,19). Brochi midden intercolpia 1,5–2,5(3) µm; muri breed, duplicolumellaat. Margo ca. 5 µm met ca. 1 µm brochi. Poriën meestal equatoriaal verlengd 6–9 × 11–12 µm. Exine tot 2,5 µm.\n\n*Staphylea pinnata* L. (3)\n39,0–53,8 µm, MiW 46,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

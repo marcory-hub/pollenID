@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-platanus",
+    "title": "21.13 *Platanus orientalis* (Tafel 60: 18–23)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden groot; colpi opvallend breed, onscherp begrensd.",
+          "outcome": {
+            "text": "21.13 *Platanus orientalis*\n\nPForml 1,1–1,4. Exine tot 2 µm. Brochi tot 1 µm.\n\n*Platanus orientalis* L. (2)\n18,3–24,5 µm, MiW 22,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

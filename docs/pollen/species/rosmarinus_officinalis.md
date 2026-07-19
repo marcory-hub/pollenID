@@ -1,6 +1,6 @@
 # *Rosmarinus officinalis*
 
-{{ pollen_gallery("rosmarinus_officinalis") }}
+{{ gallery("rosmarinus_officinalis") }}
 
 ## Kenmerken
 

@@ -1,6 +1,6 @@
 # *Elaeagnus angustifolia*
 
-{{ pollen_gallery("elaeagnus_angustifolia") }}
+{{ gallery("elaeagnus_angustifolia") }}
 
 ## Kenmerken
 

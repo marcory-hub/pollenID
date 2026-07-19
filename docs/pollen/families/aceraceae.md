@@ -2,14 +2,11 @@
 
 ## Identificatienotities
 
-**Status:** [to be verified]
+- [aceraceae](https://pollen.tstebler.ch/MediaWiki/index.php?title=Kategorie:Aceraceae)
+- pollen van de meest voorkomende acer soorten in Europa zijn identiek (beug p 250)
+- [Acer tataricum](https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_tataricum) is wat kleiner
 
-Automatisch aangemaakt op basis van een endpoint-vermelding in de van der Ham sleutel.
 
-## Praktische determinatie
-
-- Bevestig met vergelijkingspagina's en preparaatcontext.
-- Verifieer taxon-naar-bestandskoppeling handmatig.
 
 ## Pollentabel-logica (van der Ham)
 

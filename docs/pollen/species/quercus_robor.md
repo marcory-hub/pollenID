@@ -1,6 +1,6 @@
 # *Quercus robur* (zomereik)
 
-{{ pollen_gallery("quercus_robor") }}
+{{ gallery("quercus_robor") }}
 
 ## Kenmerken
 

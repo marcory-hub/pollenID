@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-ranunculus-arvensis",
+    "title": "33.3.1 *Ranunculus arvensis* (Tafel 107: 19–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "49–60 µm; papillen duidelijk; echini tot 1,5 µm.",
+          "outcome": {
+            "text": "33.3.1 *Ranunculus arvensis*\n\nPapillen 1,5–2 × 3,5–4 µm; echini ca. 1 µm. Columellae 1,2–1,5 × ca. 1 µm. Poriën 6–7 µm, afstand 13–15 µm. Exine incl. echini 3,5–4 µm.\n\n*Ranunculus arvensis* L. (3)\n49,5–60,0 µm, MiW 55,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

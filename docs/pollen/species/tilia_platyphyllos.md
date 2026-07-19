@@ -1,6 +1,6 @@
 # *Tilia Platyphyllos*
 
-{{ pollen_gallery("tilia_platyphyllos") }}
+{{ gallery("tilia_platyphyllos") }}
 
 ## Kenmerken
 

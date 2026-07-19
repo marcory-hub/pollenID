@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-lythrum",
+    "title": "28.3 *Lythrum* (Tafel 93: 22–30)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Striaat (of sculptuur onduidelijk met costae); 3 porate + 3 niet-porate colpi; trimorf.",
+          "outcome": {
+            "text": "28.3 *Lythrum*\n\nTrimorfe bloemen met pollentrimorfisme (lange / middellange / korte stamina). 3 porate + 3 niet-porate colpi; porate iets langer. Onderstaande maten vooral naar *L. salicaria*.\n\n**Grote PK:** PForml 1,2–1,4; poriën 5,5–7,5 µm met costae; striaat; exine ca. 2 µm.\n**Middelgrote PK:** PForml 1,0–1,3; poriën 3,3–5,3 µm; exine ca. 1,8 µm.\n**Kleine PK:** PForml 0,9–1,1; poriën 3,3–5,0 µm; exine ca. 1,7 µm.\n\nGrote vs middelgroot statistisch te scheiden; middelgroot vs klein met enige overlap.\n\n*Lythrum salicaria* L. (8)\nlange stamina: 36,3–48,5 µm, MiW 42,9 µm; 50 PK, Oa\nmiddellange stamina: 23,0–29,5 µm, MiW 25,8 µm; 50 PK, Oa\nkorte stamina: 17,5–24,8 µm, MiW 22,1 µm; 50 PK, 0a\n\n*Lythrum hyssopifolia* L. (4)\n[te verifiëren: OCR-volgorde van matenregels]\nlange stamina: 40,5–50,0 µm, MiW 45,7 µm; 50 PK, Oa\nmiddellange stamina: 23,0–31,5 µm, MiW 25,6 µm; 37 PK, 0a\nkorte stamina: 15,0–22,3 µm, MiW 18,9 µm; 50 PK, 0a\n\n*Lythrum virgatum* L. (4)\n[te verifiëren: lange-stamina-regel onduidelijk in OCR; «um 41–46 µm»?]\nmiddellange stamina: 23,0–32,8 µm, MiW 27,3 µm; 50 PK, Oa\nkorte stamina: 15,0–20,8 µm, MiW 18,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

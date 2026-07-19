@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-fothergilla",
+    "title": "21.26 *Fothergilla major* (Tafel 65: 14–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 30–40 µm; dikke endexine (~helft exine); brede colpi met rudimentair operculum; dunne margines.",
+          "outcome": {
+            "text": "21.26 *Fothergilla major*\n\nPForml 0,90–1,37. Exine 1,8–2,0 µm; endexine ca. 1 µm. Onderscheid Brassicaceae kritisch.\n\n*Fothergilla major* (SIMS) LODD. (2)\n30,8–40,0 µm, MiW 38,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

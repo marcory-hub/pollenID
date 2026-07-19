@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-silene",
+    "title": "33.8.9 *Silene*-Typ (Tafel 111: 11–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Columellae niet of nauwelijks netzig; perforaties boven grotere columella-tussenruimten (Tafel 111: 11–13).",
+          "outcome": {
+            "text": "33.8.9 *Silene*-Typ (Tafel 111: 11–13)\n\nColumellae niet of nauwelijks netzig; perforaties alleen boven grotere tussenruimten tussen columellae (Tafel 111: 11–13).\n\n*Silene* p.p.: PK 27–59 µm, 17–35 poriën; poriën 3,5–8,0 µm; anulus 0,6–1,1 µm; opercula korrelig.\n\n*Silene acaulis* (L.) JACQ. (3)\n27,0–37,3 µm, MiW 33,1 µm; 50 PK, 0a\n\n*Silene armeria* L. (2)\n34,5–45,0 µm, MiW 41,2 µm; 50 PK, 0a\n\n*Silene borysthenica* (GRUNER) WALTERS (1)\n43,3–55,5 µm, MiW 49,4 µm; 50 PK, 0a\n\n*Silene chlorantha* (WILLD.) EHRH. (3)\n47,5–55,0 µm, MiW 50,5 µm; 50 PK, Oa\n\n*Silene conica* L. (2)\n23,0–31,3 µm, MiW 27,6 µm; 50 PK, 0a\n\n*Silene cretica* L. (1)\n31,5–42,5 µm, MiW 36,7 µm; 50 PK, 0a\n\n*Silene dichotoma* EHRH. (1)\n45,5–58,8 µm, MiW 51,4 µm; 50 PK, 0a\n\n*Silene elisabethae* JAN (1)\n27,8–37,0 µm, MiW 31,9 µm; 50 PK, Oa\n\n*Silene gallica* L. (1)\n45,0–51,8 µm, MiW 48,0 µm; 50 PK, 0a\n\n*Silene hayekiana* HANDL-MAZ. & JANCHEN (1)\n29,5–37,3 µm, MiW 33,8 µm; 50 PK, Oa\n\n*Silene italica* (L.) PERS. (1)\n44,5–54,3 µm, MiW 49,2 µm; 51 PK, 0a\n\n*Silene italica (L.) Pers.* subsp. nemoralis (WALDST. & KIT.) NYMAN. (1)\n42,5–54,0 µm, MiW 47,8 µm; 50 PK, 0a\n\n*Silene linicola* C.C.GMEL. (2)\n34,5–40,5 µm, MiW 37,6 µm; 50 PK, Oa\n\n*Silene multiflora* (WALDST. & KIT.) PERS. (1)\n44,5–55,0 µm, MiW 50,0 µm; 50 PK, 0a\n\n*Silene nutans* L. (2)\n40,5–52,0 µm, MiW 46,5 µm; 50 PK, 0a\n\n*Silene otites* (L.) WIBEL (3)\n29,3–34,8 µm, MiW 32,2 µm; 50 PK, 0a\n\n*Silene rupestris* L. (2)\n30,8–40,0 µm, MiW 34,8 µm; 50 PK, Oa\n\n*Silene saxifraga* L. (1)\n30,0–38,3 µm, MiW 35,6 µm; 51 PK, 0a\n\n*Silene tatarica* (L.) PERS. (2)\n42,0–49,8 µm, MiW 45,3 µm; 50 PK, 0a\n\n*Silene vallesia* L. (1)\n35,5–52,0 µm, MiW 45,0 µm; 50 PK, 0a\n\n*Silene viridiflora* L. (1)\n37,8–50,5 µm, MiW 46,2 µm; 50 PK, Oa\n\n*Silene viscosa* (L.) PERS. (1)\n40,3–50,3 µm, MiW 45,2 µm; 50 PK, Oa\n\n*Silene vulgaris* (MOENCH) GARCKE (4)\n42,3–53,5 µm, MiW 47,6 µm; 50 PK, 0a\n\n*Arenaria biflora* L. (1)\n29,5–41,5 µm, MiW 34,6 µm; 50 PK, 0a\n\n*Arenaria ciliata* L. (2)\n35,0–45,0 µm, MiW 41,2 µm; 50 PK, Oa\n\n*Arenaria grandiflora* L. (1)\n30,8–42,0 µm, MiW 37,0 µm; 50 PK, 0a\n\n*Arenaria gothica* FRIES (1)\n30,8–40,8 µm, MiW 36,3 µm; 50 PK, 0a\n\n*Arenaria procera* SPRENGEL (3)\n33,5–42,0 µm, MiW 37,7 µm; 50 PK, 0a\n\n*Arenaria huteri* KERNER (1)\n36,5–52,0 µm, MiW 43,6 µm; 50 PK, 0a\n\n*Arenaria leptoclados* (RCHB.) Guss. (1)\n24,5–30,5 µm, MiW 27,8 µm; 51 PK, Oa\n\n*Arenaria marschlinsii* KOCH (1)\n25,0–34,0 µm, MiW 30,2 µm; 50 PK, 0a\n\n*Arenaria norvegica* GUNNERUS (2)\n35,0–44,5 µm, MiW 40,2 µm; 50 PK, Oa\n\n*Arenaria serpyllifolia* L. (2)\n25,5–37,5 µm, MiW 31,2 µm; 50 PK, Oa\n\n*Cucubalus baccifer* L. (2)\n35,0–41,3 µm, MiW 38,7 µm; 50 PK, 0a\n\n*Heliosperma alpestre* (JACQ.) RCHB. (3)\n28,0–35,3 µm, MiW 31,7 µm; 50 PK, 0a\n\n*Heliosperma velskyi* JANKA (1)\n28,3–33,3 µm, MiW 30,9 µm; 50 PK, 0a\n\n*Heliosperma quadridentatum* (PERS.) SCH. & TH. (3)\n30,5–36,3 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Lychnis coronaria* (L.) Fr. (2)\n33,0–37,8 µm, MiW 35,7 µm; 50 PK, 0a\n\n*Lychnis flos-jovis* (L.) DESR. (1)\n31,0–38,0 µm, MiW 34,1 µm; 50 PK, 0a\n\n*Lychnis flos-cuculi* L. (1)\n28,5–35,3 µm, MiW 31,7 µm; 50 PK, 0a\n\n*Petrorhagia saxifraga* (L.) LINK (4)\n32,0–37,5 µm, MiW 35,3 µm; 50 PK, 0a\n\n*Saponaria lutea* L. (1)\n32,0–39,5 µm, MiW 35,6 µm; 50 PK, 0a\n\n*Saponaria ocimoides* L. (2)\n32,0–39,0 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Saponaria officinalis* L. (2)\n42,5–50,5 µm, MiW 47,7 µm; 50 PK, 0a\n\n*Saponaria pumilio* (L.) FENZL ex A. BRAUN. (1)\n39,8–47,8 µm, MiW 44,0 µm; 50 PK, 0a\n\n*Viscaria alpina* (L.) G.DON (2)\n25,5–36,3 µm, MiW 30,5 µm; 50 PK, Oa\n\n*Viscaria vulgaris* BERNH. (3)\n26,5–33,0 µm, MiW 30,4 µm; 51 PK, 0a\n\nNon vidi (selectie):\n*Cerastium alsinifolium* TAUSCH; *C. biebersteinii* DC.; *C. diffusum* PERS.; *Gypsophila papillosa* PORTA; *Minuartia cherlerioides* (HOPPE) BECHERER; *M. villarsii* (BALBIS) CHENEVARET; *M. mediterranea* (LEDEB.) K. MALÝ; *M. viscosa* (SCHREB.) SCHINZ & THELL.; *Moehringia* diversifolia, dielsiana, markgrafii, villosa; *Silene insubrica* GAUD.; *S. exscarpa* ALL. (syn. *S. acaulis*); *Sagina ciliata* FRIES (syn. *S. apetala*)."
+          }
+        }
+      ]
+    }
+  }
+}

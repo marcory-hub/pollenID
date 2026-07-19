@@ -1,6 +1,6 @@
 # *Ligustrum vulgare* (wilde liguster)
 
-{{ pollen_gallery("liguster_vulgare") }}
+{{ gallery("liguster_vulgare") }}
 
 ## Kenmerken
 

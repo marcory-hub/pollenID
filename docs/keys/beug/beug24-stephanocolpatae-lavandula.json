@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-lavandula",
+    "title": "24.5 *Lavandula angustifolia* (Tafel 84: 26–28, Tafel 85: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "6 colpi; exine 2,5–3,5 µm; columellae duidelijk.",
+          "outcome": {
+            "text": "24.5 *Lavandula angustifolia*\n\nPK sferoïdisch met 6 colpi (PForml 1,06–1,20). Polarvelden groot (PFeldI >0,45). Exine 2,5–3,5 µm. Brochi 1,0–1,5 µm; lumina tot 1 µm. Columellae tot 2,5 µm lang, tot ca. 0,8 µm dik.\n\n*Lavandula angustifolia* MILLER (2)\n27,6–38,2 µm, MiW 32,7 µm; 50 PK, 0a\n\n[te verifiëren: in Rubiaceae-lijst OCR ook «31,9–46,0 µm, MiW 38,2 µm; 50 PK, 1a» — mogelijk verkeerd geplaatst]"
+          }
+        }
+      ]
+    }
+  }
+}

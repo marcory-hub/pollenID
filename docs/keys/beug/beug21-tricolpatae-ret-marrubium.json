@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-marrubium",
+    "title": "21.19 *Marrubium* (Tafel 62: 4–11)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Muri breed, grotendeels duplicolumellaat; brochi tot 2 µm.",
+          "outcome": {
+            "text": "21.19 *Marrubium*\n\nPFormI 1,00–1,05. Exine tot 2,5 µm.\n\n*Marrubium incanum* DESR. (1)\n24,4–35,8 µm, MiW 29,0 µm; 50 PK, Oa\n\n*Marrubium peregrinum* L. (1)\n23,0–31,2 µm, MiW 27,5 µm; 50 PK, 0a\n\n*Marrubium vulgare* L. (2)\n24,4–32,7 µm, MiW 30,3 µm; 40 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

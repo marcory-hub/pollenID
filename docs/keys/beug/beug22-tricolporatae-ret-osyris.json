@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-osyris",
+    "title": "22.5 *Osyris alba* (Tafel 70: 5–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 24–31 µm; contrastarme vlinderporiën; microreticulaat behalve polarvelden.",
+          "outcome": {
+            "text": "22.5 *Osyris alba*\n\nPK meestal sferoïdisch (PForml 1,13–1,28). Polarvelden middelgroot (PFeldI 0,36–0,39). Colpi equatoriaal vernauwd. Poriën equatoriaal verlengd («vlinderporie»), 3–4 × 8–12 µm, relatief contrastarm. Exine microreticulaat (brochi ca. 1 µm), plaatselijk fossulaat, soms psilaat; polarvelden psilaat of fossulaat. Exine ca. 1,8 µm. Columellae niet herkenbaar.\n\n*Osyris alba* L. (2)\n24,3–30,8 µm, MiW 27,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

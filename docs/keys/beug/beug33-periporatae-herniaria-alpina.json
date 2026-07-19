@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-herniaria-alpina",
+    "title": "33.19.3 *Herniaria alpina* (Tafel 118: 12–20)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus 2–3 µm; 6–8 poriën.",
+          "outcome": {
+            "text": "33.19.3 *Herniaria alpina*\n\nPoriën 4–6 µm; interporium 2–4 µm; exine 2 µm.\n\n*Herniaria alpina* CHAIX (1)\n15,0–21,3 µm, MiW 18,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-onobrychis",
+    "title": "21.4 *Onobrychis* (Tafel 58: 17–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat tot perprolaat (PForml 1,8–2,4); 32–47 µm; exine 1,4–1,7 µm; brochi tot 2 µm.",
+          "outcome": {
+            "text": "21.4 *Onobrychis*\n\n*Onobrychis arenaria* (KIT.) DC. (2)\n39,0–46,3 µm, MiW 41,8 µm; 50 PK, 0a\n\n*Onobrychis montana* DC. (2)\n32,5–43,0 µm, MiW 38,5 µm; 50 PK, Oa\n\n*Onobrychis viciaefolia* Scop. (2)\n33,5–40,0 µm, MiW 37,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

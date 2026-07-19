@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug32-stephanoporatae-campanulaceae.json",
-    "title": "32.11 Campanulaceae (Beug)",
+    "key": "beug32-stephanoporatae-campanulaceae",
+    "title": "32.11 Campanulaceae (Tafel 105: 1–18, Tabel 11)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 4,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 4
   },
   "start": "1",
   "steps": {
@@ -14,29 +15,30 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK microechinaat/scabraat, Skulpturelemente tot ca. 0,5 µm lang, im optischen Schnitt kaum herkenbaar en in der lengte niet meßbar.",
+          "label": "PK microechinaat/scabraat; sculptuurelementen tot ca. 0,5 µm lang, in optische snede nauwelijks herkenbaar en niet meetbaar.",
           "next": "2"
         },
         {
-          "label": "PK microechinaat of echinaat, Echini bzw. Microechini ten minste 0-5-1,0 µm lang, im optischen Schnitt herkenbaar en meßbar.",
+          "label": "PK microechinaat of echinaat; echini/microechini ten minste 0,5–1,0 µm lang, in optische snede herkenbaar en meetbaar.",
           "next": "3"
         }
-      ]
+      ],
+      "note": "PK sphaeroïdisch; P/E 0,82–1,05; 2–6 poriën met costae. Exine ca. 1,5 µm."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK meestal met 3 Poriën (Tafel 105: 1-3).",
-          "id": {
-            "name": "32.11.1 Jasione montana-type (Blz. 450)"
+          "label": "PK meestal met 3 poriën (Tafel 105: 1–3).",
+          "outcome": {
+            "text": "32.11.1 *Jasione montana*-type (S. 450) — zie deelsleutel."
           }
         },
         {
-          "label": "PK met überwiegend 5-6 Poriën, 23-30 µm groot (Tafel 105: 4-7).",
-          "id": {
-            "name": "32.11.2 Legousia-type (Blz. 450)"
+          "label": "PK overwegend met 5–6 poriën; 23–30 µm (Tafel 105: 4–7).",
+          "outcome": {
+            "text": "32.11.2 *Legousia*-type (S. 450) — zie deelsleutel."
           }
         }
       ]
@@ -46,13 +48,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Echini bzw. Microechini 0,5-1,0(1,2) µm lang, zelden tot 1,5 µm (Tafel 105: 8-13).",
-          "id": {
-            "name": "32.11.3 Phyteuma-type (Blz. 452)"
+          "label": "Echini/microechini 0,5–1,0(1,2) µm lang, zelden tot 1,5 µm (Tafel 105: 8–13).",
+          "outcome": {
+            "text": "32.11.3 *Phyteuma*-type (S. 452) — zie deelsleutel."
           }
         },
         {
-          "label": "Echini länger als 1,5 µm.",
+          "label": "Echini langer dan 1,5 µm.",
           "next": "4"
         }
       ]
@@ -62,16 +64,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Echini 1,5-2,0 µm lang (Tafel 105: 14-16).",
-          "id": {
-            "name": "32.11.4 Campanula trachelium-type (Blz. 452)"
+          "label": "Echini 1,5–2,0 µm lang (Tafel 105: 14–16).",
+          "outcome": {
+            "text": "32.11.4 *Campanula trachelium*-type (S. 452) — zie deelsleutel."
           }
         },
         {
-          "label": "Echini 3-4 µm lang (Tafel 105: 17-18).",
-          "id": {
-            "name": "32.11.5 Campanula medium (Blz. 453)",
-            "pollen_key": "campanula_medium"
+          "label": "Echini 3–4 µm lang (Tafel 105: 17–18).",
+          "outcome": {
+            "text": "32.11.5 *Campanula medium* (S. 453) — zie deelsleutel."
           }
         }
       ]

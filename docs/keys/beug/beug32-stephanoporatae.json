@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug32-stephanoporatae.json",
-    "title": "32 Stephanoporatae (Beug)",
+    "key": "beug32-stephanoporatae",
+    "title": "32. Stephanoporatae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 13,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 13
   },
   "start": "1",
   "steps": {
@@ -14,27 +15,28 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK psilaat of scabraat, met of zonder Tectum perforatum.",
+          "label": "PK psilaat of scabraat, met of zonder tectum perforatum.",
           "next": "2"
         },
         {
-          "label": "PK echinaat, microechinaat, reticulaat of rugulaat, Indien scabraat, dan Skulpturelemente met nur 1-2 µm afstand.",
+          "label": "PK echinaat, microechinaat, reticulaat of rugulaat; indien scabraat, dan sculptuurelementen met slechts 1–2 µm afstand.",
           "next": "12"
         }
-      ]
+      ],
+      "note": "Bij overwegend stephanoporate taxa komen ook triporate PK voor (Campanulaceae, *Alnus*); bij overwegend triporate taxa soms tetraporate poriën (*Betula*, *Corylus*, *Cannabis*) — die vooral bij Triporatae."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK met Tectum perforatum, dikker Endexine en duidelijker columella-laag (Tafel 102: 22-25).",
-          "id": {
-            "name": "32.1 Theligonum cynocrambe (Blz. 442)"
+          "label": "PK met tectum perforatum, dikke endexine en duidelijke columellae-laag (Tafel 102: 22–25).",
+          "outcome": {
+            "text": "32.1 *Theligonum cynocrambe* (S. 442) — zie deelsleutel."
           }
         },
         {
-          "label": "Tectum niet perforiert.",
+          "label": "Tectum niet geperforeerd.",
           "next": "3"
         }
       ]
@@ -44,13 +46,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK zusätzlich met einzelnen Poriën auf einem Poolvelden, oblaat (Tafel 103: 5-9).",
-          "id": {
-            "name": "32.2 Juglans (Blz. 442)"
+          "label": "PK bovendien met enkele poriën op één van de polarvelden; oblaat (Tafel 103: 5–9).",
+          "outcome": {
+            "text": "32.2 *Juglans* (S. 442) — zie deelsleutel."
           }
         },
         {
-          "label": "PK zonder zusätzliche Poriën auf einem Poolvelden.",
+          "label": "PK zonder extra poriën op een polarveld.",
           "next": "4"
         }
       ]
@@ -60,13 +62,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK auf beiden poolvelden met bogenförmigen, von Porie zu Porie verlaufenden Verdickungen des Tectums (arcus), Indien zonder arcus, dan met einem knik in der Exine anstelle der arcus (Tafel 102: 8-21).",
-          "id": {
-            "name": "32.3 Alnus (Blz. 444)"
+          "label": "PK op beide polarvelden met boogvormige tectumverdikkingen (arcus); zonder arcus dan met een knik in de exine in plaats van arcus (Tafel 102: 8–21).",
+          "outcome": {
+            "text": "32.3 *Alnus* (S. 444) — zie deelsleutel."
           }
         },
         {
-          "label": "PK zonder arcus en zonder knik in der Exine anstelle der arcus.",
+          "label": "PK zonder arcus en zonder knik in de exine in plaats van arcus.",
           "next": "5"
         }
       ]
@@ -76,13 +78,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK psilaat, Exine 1,7-1,9 µm dik, met dik Tectum en dunner columella-laag. Poriën 3,5-4,5 µm groot, met annulus (Tafel 103: 1-4).",
-          "id": {
-            "name": "32.4 Celtis (Blz. 446)"
+          "label": "PK psilaat; exine 1,7–1,9 µm dik, met dik tectum en dunne columellae-laag; poriën 3,5–4,5 µm met anulus (Tafel 103: 1–4).",
+          "outcome": {
+            "text": "32.4 *Celtis* (S. 446) — zie deelsleutel."
           }
         },
         {
-          "label": "Tectum niet opvallend dik, columella's niet herkenbaar.",
+          "label": "Tectum niet opvallend dik; columellae niet herkenbaar.",
           "next": "6"
         }
       ]
@@ -96,7 +98,7 @@
           "next": "7"
         },
         {
-          "label": "PK zonder vestibulum, Poriën met einem sterk of wenig sterk vorspringenden annulus of zonder annulus.",
+          "label": "PK zonder vestibulum; poriën met sterk of weinig sterk vooruitstekende anulus, of zonder anulus.",
           "next": "8"
         }
       ]
@@ -106,16 +108,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 34-42 µm groot, met 5-6(7) Poriën en (fasecontrast) runden, ca. 0,5 µm großen Skulpturelementen (Microverrucae), Poolvelden met je 2-3 ca. 8-10 µm großen, lacuna-achtige indrukken (Tafel 103: 10-15).",
-          "id": {
-            "name": "32.5 Pterocarya (Blz. 448)"
+          "label": "PK 34–42 µm, met 5–6(7) poriën en (fasecontrast) ronde ca. 0,5 µm sculptuurelementen (microverrucae); polarvelden met elk 2–3 ca. 8–10 µm lacunae-achtige indeukingen (Tafel 103: 10–15).",
+          "outcome": {
+            "text": "32.5 *Pterocarya* (S. 446) — zie deelsleutel."
           }
         },
         {
-          "label": "PK 37-48 µm groot, met 3-5(6) Poriën, Exine psilaat, Poolvelden zonder lacunae-artige indrukken (Tafel 104: 5-7).",
-          "id": {
-            "pollen_key": "carpinus_betulus",
-            "note": "32.6 Carpinus betulus (Blz. 448)"
+          "label": "PK 37–48 µm, met 3–5(6) poriën; exine psilaat; polarvelden zonder lacunae-achtige indeukingen (Tafel 104: 5–7).",
+          "outcome": {
+            "text": "32.6 *Carpinus betulus* (S. 446) — zie deelsleutel."
           }
         }
       ]
@@ -125,13 +126,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Endexine auf der Innenseite rauh tot schollig, vooral im gebied der porierand (costae), Poriën met annulus, vaak duidelijk voorstehend (Tafel 104: 1-3).",
-          "id": {
-            "name": "32.7 Nerium oleander (Blz. 448)"
+          "label": "Endexine aan de binnenzijde ruw tot schollig, vooral in de porieomranding (costae); poriën met anulus, vaak duidelijk vooruitstekend (Tafel 104: 1–3).",
+          "outcome": {
+            "text": "32.7 *Nerium oleander* (S. 448) — zie deelsleutel."
           }
         },
         {
-          "label": "Endexine auf der Innenseite glad.",
+          "label": "Endexine aan de binnenzijde glad.",
           "next": "9"
         }
       ]
@@ -141,13 +142,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine höchstens ca. 0,8 µm dik, Poriën met smalle annulus, of met einer schwachen Aufbiegung der Porenumrandungen of zonder annulus (Tafel 101: 17-29).",
-          "id": {
-            "name": "Urticaceae, Moraceae (Blz. 436)"
+          "label": "Exine hoogstens ca. 0,8 µm dik; poriën met smalle anulus, of met zwakke opbuiging van de porieranden, of zonder anulus (Tafel 101: 17–29).",
+          "outcome": {
+            "text": "Urticaceae, Moraceae (S. 436) — zie `beug31-triporatae-urticaceae-moraceae.md`"
           }
         },
         {
-          "label": "Exine dikker, Poriën met zeer breed en dik annulus.",
+          "label": "Exine dikker; poriën met zeer brede en dikke anulus.",
           "next": "10"
         }
       ]
@@ -157,13 +158,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën mehr of weniger gelijkmatig am Äquator angeordnet.",
+          "label": "Poriën min of meer gelijkmatig langs de equator geplaatst.",
           "next": "11"
         },
         {
-          "label": "PK in Polaransticht met 2 miteinander gegenüber liegenden Gruppen von (1)2-3(4) Poriën (Tafel 104: 8-12).",
-          "id": {
-            "name": "32.8 Myriophyllum alterniflorum (Blz. 448)"
+          "label": "PK in polair aanzicht met 2 tegenoverliggende groepen van (1)2–3(4) poriën (Tafel 104: 8–12).",
+          "outcome": {
+            "text": "32.8 *Myriophyllum alterniflorum* (S. 448) — zie deelsleutel."
           }
         }
       ]
@@ -173,15 +174,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "verdikking der Anuli erfolgt abrupt (Tafel 104: 13-16).",
-          "id": {
-            "name": "32.9 Myriophyllum spicatum (Blz. 448)"
+          "label": "Verdikking van de anuli abrupt (Tafel 104: 13–16).",
+          "outcome": {
+            "text": "32.9 *Myriophyllum spicatum* (S. 448) — zie deelsleutel."
           }
         },
         {
-          "label": "verdikking der Anuli erfolgt allmählich (Tafel 104: 17-18).",
-          "id": {
-            "name": "32.10 Myriophyllum verticillatum (Blz. 448)"
+          "label": "Verdikking van de anuli geleidelijk (Tafel 104: 17–18).",
+          "outcome": {
+            "text": "32.10 *Myriophyllum verticillatum* (S. 448) — zie deelsleutel."
           }
         }
       ]
@@ -191,9 +192,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK echinaat, microechinaat of scabraat, Poriën met auffälligen costae (Tafel 105: 1-18).",
-          "id": {
-            "name": "Campanulaceae"
+          "label": "PK echinaat, microechinaat of scabraat; poriën met opvallende costae (Tafel 105: 1–18).",
+          "outcome": {
+            "text": "32.11 Campanulaceae (S. 449) — zie deelsleutel."
           }
         },
         {
@@ -207,15 +208,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK sferoïdisch (pollenvormindex <1,0), perreticulaat, Brochi 0,8-1,4(1,8) µm groot, Exine met columella-laag (Tafel 104: 19-22).",
-          "id": {
-            "name": "32.12 Pistacia (Blz. 453)"
+          "label": "PK sphaeroïdisch (P/E < 1,0); perreticulaat; brochi 0,8–1,4(1,8) µm; exine met columellae-laag (Tafel 104: 19–22).",
+          "outcome": {
+            "text": "32.12 *Pistacia* (S. 453) — zie deelsleutel."
           }
         },
         {
-          "label": "PK oblaat, rugulaat of met tot zu 2-5 µm großen suprareticulaten, vaak onvolledig gesloten Brochi, omranding der Poriën verdikt, columella-laag ontbreekt (Tafel 105: 19-25).",
-          "id": {
-            "name": "32.13 Ulmus, Zelkova (Blz. 454)"
+          "label": "PK oblaat; rugulaat of met tot 2–5 µm grote, vaak onvolledig gesloten suprareticulate brochi; porieomranding verdikt; columellae-laag ontbreekt (Tafel 105: 19–25).",
+          "outcome": {
+            "text": "32.13 *Ulmus*, *Zelkova* (S. 453) — zie deelsleutel."
           }
         }
       ]

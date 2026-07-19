@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-oxalis",
+    "title": "21.6 *Oxalis stricta*-type (Tafel 59: 4–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden middelgroot; endexine dunner dan ektexine; brochi max. 2,0–2,2 µm; muri simplicolumellaat.",
+          "outcome": {
+            "text": "21.6 *Oxalis stricta*-type\n\nPForml ca. 0,9–1,35. Exine (1,5)1,8–2,2 µm. *O. acetosella* is scabraat met tectum perforatum (S. 146).\n\n*Oxalis corniculata* L. (2)\n33,0–42,0 µm, MiW 37,7 µm; 50 PK, 0a\n\n*Oxalis stricta* L. (4)\n23,5–31,5 µm, MiW 28,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

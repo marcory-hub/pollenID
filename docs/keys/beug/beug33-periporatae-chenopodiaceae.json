@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-chenopodiaceae",
+    "title": "33.9 Chenopodiaceae p.p., *Amaranthus* (Tafel 113: 3–29)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": " (25)30 tot >100 kleine poriën; psilaat.",
+          "outcome": {
+            "text": "33.9 Chenopodiaceae p.p., *Amaranthus*\n\nGrote aantallen kleine poriën; geringe porieafstanden; psilaat; duidelijke columellae-laag; tectum zonder perforaties. Meestal >40–50 poriën, minstens (25)35, tot ca. 110. Zonder *Polycnemum*.\n\nMogelijk herkenbaar: *Beta vulgaris* subsp. *maritima* (18,3–22,8 µm, ca. 35–40 poriën, zeer fijne columellae); *Salsola kali* (poriën 3–4 µm, ca. 30–35 poriën, dikkere columellae).\n\n*Amaranthus blitum* L. (2)\n19,3–25,8 µm, MiW 22,5 µm; 57 PK, 0a\n\n*Amaranthus hybridus* L. (1)\n22,5–32,3 µm, MiW 27,2 µm; 50 PK, 0a\n\n*Amaranthus paniculatus* L. (1)\n25,5–32,5 µm, MiW 29,3 µm; 50 PK, 0a\n\n*Amaranthus retroflexus* L. (2)\n23,0–31,3 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Atriplex calotheca* (RAFN) FRIES (3)\n20,0–28,0 µm, MiW 25,4 µm; 50 PK, 0a\n\n*Atriplex glabriuscula* EDMONSTON (1)\n20,5–27,0 µm, MiW 24,2 µm; 50 PK, 0a\n\n*Atriplex hortensis* L. (1)\n20,0–25,3 µm, MiW 22,7 µm; 50 PK, 0a\n\n*Atriplex laciniata* L. (1)\n20,5–29,3 µm, MiW 24,7 µm; 50 PK, 0a\n\n*Atriplex littoralis* L. (2)\n18,0–23,3 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Atriplex nitens* SCHKUHR (2)\n20,0–25,3 µm, MiW 21,5 µm; 50 PK, 0a\n\n*Atriplex oblongifolia* WALDST. & KIT. (1)\n23,0–30,0 µm, MiW 26,2 µm; 50 PK, 0a\n\n*Atriplex patula* L. (2)\n22,0–29,3 µm, MiW 26,4 µm; 50 PK, Oa\n\n*Atriplex prostrata* BOUCHER ex DC. (1)\n22,0–26,8 µm, MiW 24,5 µm; 50 PK, Oa\n\n*Atriplex rosea* L. (1)\n19,0–27,5 µm, MiW 23,7 µm; 50 PK, 0a\n\n*Atriplex tatarica* L. (1)\n17,8–28,3 µm, MiW 23,1 µm; 50 PK, 0a\n\n*Bassia hirsuta* (L.) ASCHERS. (1)\n25,8–32,0 µm, MiW 28,8 µm; 50 PK, 0a\n\n*Beta vulgaris* L. subsp. *maritima* L. (1)\n18,3–22,8 µm, MiW 21,0 µm; 60 PK, 0a\n\n*Camphorosma annua* PALL. (1)\n27,5–35,8 µm, MiW 32,6 µm; 50 PK, 0a\n\n*Chenopodium album* L. (3)\n23,3–32,5 µm, MiW 27,8 µm; 50 PK, 0a\n\n*Chenopodium bonus-henricus* L. (3)\n24,5–34,5 µm, MiW 28,8 µm; 50 PK, Oa\n\n*Chenopodium botrys* L. (2)\n17,5–27,0 µm, MiW 23,0 µm; 50 PK, 0a\n\n*Chenopodium botryodes* SM. (1)\n17,8–24,0 µm, MiW 21,8 µm; 50 PK, Oa\n\n*Chenopodium ficifolium* SMITH (1)\n24,5–30,3 µm, MiW 27,8 µm; 50 PK, 0a\n\n*Chenopodium foliosum* ASCHERS. (1)\n17,8–31,8 µm, MiW 24,9 µm; 50 PK, 0a\n[te verifiëren: OCR «MiW 24,9» zonder µm]\n\n*Chenopodium glaucum* L. (3)\n18,5–25,5 µm, MiW 23,4 µm; 50 PK, Oa\n\n*Chenopodium hybridum* L. (2)\n21,3–29,5 µm, MiW 24,7 µm; 50 PK, 0a\n\n*Chenopodium murale* L. (1)\n20,0–25,3 µm, MiW 23,8 µm; 50 PK, 0a\n\n*Chenopodium opulifolium* SCHRADER ex KOCH & ZIZ (1)\n23,0–32,5 µm, MiW 29,4 µm; 50 PK, Oa\n\n*Chenopodium polyspermum* L. (2)\n17,5–25,0 µm, MiW 21,8 µm; 50 PK, Oa\n\n*Chenopodium rubrum* L. (2)\n21,0–27,0 µm, MiW 24,5 µm; 50 PK, Oa\n\n*Chenopodium urbicum* L. (1)\n20,5–23,8 µm, MiW 22,5 µm; 50 PK, 0a\n\n*Chenopodium vulvaria* L. (2)\n17,5–22,8 µm, MiW 20,6 µm; 50 PK, 0a\n\n*Corispermum leptopterum* (ASCHERS.) ILJIN (2)\n17,5–23,0 µm, MiW 20,7 µm; 50 PK, 0a\n\n*Corispermum marschallii* STEV. (1)\n18,8–22,5 µm, MiW 21,4 µm; 50 PK, 0a\n\n*Corispermum nitidum* KIT. (1)\n20,5–30,3 µm, MiW 26,0 µm; 50 PK, 0a\n\n*Eurotia ceratoides* (L.) C.A. MEYER (1)\n22,0–30,0 µm, MiW 27,0 µm; 50 PK, 0a\n\n*Halimione pedunculata* (L.) AELLEN (2)\n20,0–29,3 µm, MiW 23,5 µm; 50 PK, 0a\n\n*Halimione portulacoides* (L.) AELLEN (1)\n20,0–27,5 µm, MiW 23,7 µm; 50 PK, Oa\n\n*Kochia arenaria* (MAERKL.) ROTH (1)\n23,0–30,3 µm, MiW 27,7 µm; 50 PK, 0a\n\n*Kochia prostrata* (L.) SCHRAD. (1)\n20,8–30,5 µm, MiW 26,2 µm; 50 PK, 0a\n\n*Kochia scoparia* (L.) SCHRAD. (1)\n25,8–35,0 µm, MiW 31,0 µm; 50 PK, 0a\n\n*Salicornia stricta* DUMORT. (2)\n23,0–37,0 µm, MiW 27,6 µm; 50 PK, 0a\n\n*Salsola kali* L. (2)\n25,3–33,0 µm, MiW 29,0 µm; 50 PK, 0a\n\n*Salsola soda* L. (1)\n20,5–24,8 µm, MiW 22,7 µm; 50 PK, 0a\n\n*Spinacia oleracea* L. (2)\n27,5–37,5 µm, MiW 32,2 µm; 50 PK, 0a\n\n*Suaeda maritima* (L.) DUMORT. (2)\n22,5–33,5 µm, MiW 26,1 µm; 50 PK, 0a\n\n*Suaeda maritima* subsp. *pannonica* (G. BECK) SOÓ (1)\n26,3–35,3 µm, MiW 30,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-lomatogonium",
+    "title": "20.7 *Lomatogonium* (Tafel 54: 18–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch, ± ruitvormig, tricolpaat. Exine 3,5–4,5 µm dik, striaat-reticulaat.",
+          "outcome": {
+            "text": "20.7 *Lomatogonium*\n\nValla meestal vrij contrastarm, overwegend meridionaal. Columellae contrastrijk, tot 1,0 µm dik en 1,4–2,4 µm lang. Endexine dikker dan het tectum.\n\n*Lomatogonium carinthiacum* (WULF.) RCHB. (2)\n28,8–35,3 µm, MiW 29,5 µm; 50 PK, 0a\n\n*Lomatogonium rotatum* (L.) FRIES (1)\n27,0–33,5 µm, MiW 30,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

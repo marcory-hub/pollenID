@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-mentha",
+    "title": "24.7 *Mentha*-type (Tafel 85: 9–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 0,3–1,5 µm; columellae onder muri; ≤3 microbrochi per lumen.",
+          "outcome": {
+            "text": "24.7 *Mentha*-type\n\nPK sferoïdisch tot prolaat (PForml 0,83–1,88); 6, zelden 8 colpi. Intercolpia even breed of 3 smal + 3 breed. Polarvelden klein tot groot (PFeldI 0,26–0,52). Exine 1–2 µm. Brochi 0,3–1,5 µm met duidelijke columellae onder de (macro)muri. Tectum van brochi ongedeeld of met 2–3 microbrochi/perforaties.\n\n*Acinos alpinus* (L.) MOENCH (3)\n34,0–57,5 µm, MiW 44,1 µm; 50 PK, 0a\n\n*Acinos arvensis* (LAM.) DANDY (2)\n32,5–48,8 µm, MiW 37,4 µm; 50 PK, 0a\n\n*Calamintha grandiflora* (L.) MOENCH (1)\n38,9–55,2 µm, MiW 47,2 µm; 50 PK, 2a\n\n*Calamintha nepeta* SAVI (2)\n27,5–39,3 µm, MiW 32,7 µm; 50 PK, 0a\n\n*Clinopodium vulgare* L. (2)\n35,0–47,5 µm, MiW 38,9 µm; 50 PK, 0a\n\n*Horminum pyrenaicum* L. (2)\n37,8–47,5 µm, MiW 43,3 µm; 50 PK, 0a\n\n*Lycopus europaeus* L. (3)\n29,3–40,8 µm, MiW 34,3 µm; 50 PK, Oa\n\n*Lycopus exaltatus* EHRH. (2)\n24,5–34,0 µm, MiW 29,0 µm; 50 PK, 0a\n\n*Mentha aquatica* L. (3)\n32,0–38,0 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Mentha arvensis* L. (2)\n29,5–42 µm, MiW 34,9 µm; 50 PK, 0a\n[te verifiëren: OCR «29,5–42. µm»]\n\n*Mentha longifolia* (L.) HUDS. (3)\n27,5–38,3 µm, MiW 32,9 µm; 50 PK, 0a\n\n*Mentha pulegium* L. (1)\n23,7–34,7 µm, MiW 28,1 µm; 50 PK, 1a\n\n*Mentha × rotundifolia* (L.) HUDS. (2)\n21,8–33,0 µm, MiW 26,3 µm; 50 PK, 0a\n\n*Mentha spicata* L. (3)\n30,0–39,3 µm, MiW 35,2 µm; 50 PK, 0a\n\n*Origanum majorana* L. (1)\n24,8–35,1 µm, MiW 30,1 µm; 50 PK, 2a\n\n*Origanum vulgare* L. (3)\n27,8–38,3 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Satureja hortensis* L. (2)\n24,5–37,5 µm, MiW 30,6 µm; 50 PK, Oa\n\n*Satureja montana* L. (2)\n30,5–42,5 µm, MiW 35,2 µm; 50 PK, Oa\n\n*Thymus pulegioides* L. s.l. (3)\n26,8–37,5 µm, MiW 32,2 µm; 50 PK, Oa\n\n*Thymus praecox* Opiz s.l. (1)\n29,0–39,8 µm, MiW 33,2 µm; 50 PK, 0a\n\n*Thymus serpyllum* L. (1)\n29,5–41,8 µm, MiW 35,1 µm; 50 PK, 0a\n\nNon vidi: *Thymus vulgaris* L."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -47,9 +47,9 @@
     - [6.3 Pinus](beug06-vesiculatae-pinus.md) (den)
 
 ### 7. Inaperturatae inclusief Polyplicatae
-- [7. Inapertuatae inclusief Polyplicatae](beug07-inapertuatae.md)
-    - [7.2 Ephedra](beug07-inapertuatae-ephedra.md)
-    - [7.4 Juniperus-type](beug07-inapertuatae-juniperus.md) (jeneverbessoorten)
+- [7. Inaperturatae inclusief Polyplicatae](beug07-inaperturatae.md)
+    - [7.2 Ephedra](beug07-inaperturatae-ephedra.md)
+    - [7.4 Juniperus-type](beug07-inaperturatae-juniperus.md) (jeneverbessoorten)
 
 ### 8. Monoporatae
 - [8. Monoporatae](beug08-monoporatae.md)
@@ -83,7 +83,7 @@
     - [13.36 Papaver rhoeas-groep](beug13-tricolpatae-ps-papaver.md) (klaproos)
 
 ### 14. Tricolpatae - PK met psilate, scabrate, (micro)verrucate sculpturen
-- [14. Tricolpatae PK met psilate, scabrate, (micro)verrucate sculpturen](beug14-tricolpatae-ps.md)
+- [14. Tricolporatae PK met psilate, scabrate, (micro)verrucate sculpturen](beug14-tricolporatae-ps.md)
     - [14.9 (Bistorta-) Polygonum bistorta-type](beug14-tricolpatae-ps-bistorta.md) (adderwortel)
     - [14.11 Apiaceae](beug14-tricolpatae-ps-apiaceae.md)
         -[14.11.14 Berula erecta-groep](beug14-tricolpatae-ps-berula.md) (watereppe)

@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug07-inaperturatae-ephedra.json",
+    "key": "beug07-inaperturatae-ephedra",
     "title": "7.2 Ephedra (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 2,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,8 +16,8 @@
       "choices": [
         {
           "label": "Pseudocolpi zigzagvormig en vertakt, PK met 3-8 ribben (Afb. 9d)",
-          "id": {
-            "name": "7.2.1 Ephedra distachya-type"
+          "outcome": {
+            "text": "7.2.1 *Ephedra distachya*-type (Abb. 9d)\n\nPK prolaat tot perprolaat, PFormI 1,69–2,19. PK met 3–8 ribben. Tussen de ribben elk een zigzagvormige, vertakte pseudocolpus. Zijtakken kunnen onderling of met naburige pseudocolpi anastomosen, of zo sterk gereduceerd zijn dat alleen een onvertakte zigzagglijn overblijft. Geen constante verschillen tussen *E. distachya* s.l. en *E. major* s.l. op basis van vertakking/aantal zijtakken.\n\n*Ephedra distachya* L. s.l. (3)\n39,9–51,0 µm, MiW 46,2 µm; 50 PK, 2a\n\n*Ephedra distachya* L. subsp. *helvetica* C.A. MEYER (9)\n38,7–59,0 µm, MiW 47,7 µm; 50 PK, 2a\n\n*Ephedra distachya* L. subsp. *monostachya* L. (1)\n36,3–59,0 µm, MiW 45,7 µm; 50 PK, 2a\n\n*Ephedra major* HOST. var. *procera* (F. M.) A. G. (2)\n41,3–61,5 µm, MiW 55,0 µm; 50 PK, 2a\n\n*Ephedra major* HOST. var. *villarsii* G. et G. (1)\n38,8–63,8 µm, MiW 50,9 µm; 50 PK, 7a"
           }
         },
         {
@@ -31,14 +32,14 @@
       "choices": [
         {
           "label": "pollenvormindex 1,5-2,3, PK met (9)11-17 ribben",
-          "id": {
-            "name": "7.2.2 Ephedra fragilis-type"
+          "outcome": {
+            "text": "7.2.2 *Ephedra fragilis*-type (Abb. 9e)\n\nPK prolaat tot perprolaat, PFormI 1,56–2,30. PK met (9)13–17 overwegend rechte, onvertakte pseudocolpi/ribben. Soms zwakke zigzag (vooral *E. strobilacea*); van *E. distachya*-type te scheiden door hogere ribbenaantal.\n\n*Ephedra altissima* DESF. (2)\n30,0–52,3 µm, MiW 41,6 µm; 50 PK, 0a\n\n*Ephedra aphylla* FORSSKAL (2)\n43,8–59,0 µm, MiW 50,6 µm; 50 PK, 0a\n\n*Ephedra fragilis* DESF. (3)\n36,3–48,8 µm, MiW 41,9 µm; 50 PK, 2a\n\n*Ephedra foeminea* FORSKAL (3)\n45,8–58,8 µm, MiW 52,8 µm; 50 PK, 0a\n\n*Ephedra strobilacea* BUNGE (2)\n43,0–59,5 µm, MiW 50,9 µm; 50 PK, 0a"
           }
         },
         {
           "label": "pollenvormindex 1,1-1,4, PK met 16-20 ribben",
-          "id": {
-            "name": "7.2.3 Ephedra foliata-type"
+          "outcome": {
+            "text": "7.2.3 *Ephedra foliata*-type\n\nPK met 16–20 ribben, sferoïdisch, PFormI 1,08–1,41.\n\n*Ephedra foliata* BOISS. (1)\n40,5–56,3 µm, MiW 48,1 µm; 50 PK, 0a"
           }
         }
       ]

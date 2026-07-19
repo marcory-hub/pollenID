@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-cuscuta-pp",
+    "title": "26.8 *Cuscuta* p.p.",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Niet reticulaat; exine meestal 2,0–3,0 µm; colpi tetraëdrisch of onregelmatig.",
+          "outcome": {
+            "text": "26.8 *Cuscuta* p.p.\n\nGroep van normaal tricolpate *Cuscuta*-soorten waarvan de PK deels pericolpaat zijn. In tegenstelling tot *C. lupuliformis* niet reticulaat. Karakteristiek: neofyt *C. campestris* YUNCK (S. 136); grootte ca. 25–35 µm.\n\n[te verifiëren: geen aparte MiW-soortenlijst in bijlage voor deze groep]"
+          }
+        }
+      ]
+    }
+  }
+}

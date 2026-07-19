@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug20-tricolporoidatae-str-menyanthes",
+    "title": "20.3 *Menyanthes trifoliata* (Tafel 53: 6–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat tot sferoïdisch, PForml 1,24–1,62. Exine striaat of striaat-rugulaat, 1,5–2,1 µm. Valla 0,7–1,4 µm breed; columellae zeer laag (ca. 0,3 µm).",
+          "outcome": {
+            "text": "20.3 *Menyanthes trifoliata*\n\nColpi equatoriaal meestal eenvoudig, zelden s-vormig vernauwd.\n\n*Menyanthes trifoliata* L. (4)\n35,4–57,0 µm, MiW 44,0 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

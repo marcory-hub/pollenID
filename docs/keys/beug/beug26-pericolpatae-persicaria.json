@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-persicaria",
+    "title": "26.2 *Persicaria amphibia* (Tafel 91: 11–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Bolvormig, 50–70 µm; 30 smalle colpi; reticulaat.",
+          "outcome": {
+            "text": "26.2 *Persicaria amphibia*\n\nPK bolvormig, reticulaat. Colpi 8–11(15) µm lang, meestal zeer smal; 30 colpi op de randen van een pentagondodecaëder. Brochi 6–11 µm; muri 1,0–1,5 µm, duplicolumellaat; lumina dicht baculaat. Columellae ca. 1 µm dik.\n\n*Persicaria amphibia* (L.) DELARBRE (1)\n50,8–68,0 µm, MiW 59,2 µm; 52 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

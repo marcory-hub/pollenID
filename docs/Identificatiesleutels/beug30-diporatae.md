@@ -1,4 +1,4 @@
-# 30 Diporatae (Beug)
+# 30. Diporatae (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug30-diporatae.json"></div>
 

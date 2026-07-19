@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-buxus",
+    "title": "33.17 *Buxus* (Tafel 116: 9–13)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 1,5–2,0 µm; brochi 1–2 µm.",
+          "outcome": {
+            "text": "33.17 *Buxus*\n\nExine 2,0–2,5 µm; reticulaat.\n\n*Buxus sempervirens* L. (4)\n29,0–38,0 µm, MiW 33,7 µm; 50 PK, 0a\n\n*Buxus balearica* WILLD. (1)\n30,0–42,0 µm, MiW 36,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

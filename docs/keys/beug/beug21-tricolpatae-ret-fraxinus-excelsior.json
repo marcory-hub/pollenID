@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-fraxinus-excelsior",
+    "title": "21.31 *Fraxinus excelsior*-type (Tafel 66: 26–35)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine tot ca. 1,2 µm; colpi buiten equatoriaal gebied sterk ingezonken, equatoriaal vooruitstekend (knik).",
+          "outcome": {
+            "text": "21.31 *Fraxinus excelsior*-type\n\nPForml 0,8–1,1. PFeldI 0,32–0,59. Brochi variabel.\n\n*Fraxinus excelsior* L. (4)\n19,5–27,0 µm, MiW 23,7 µm; 50 PK, 0a\n\n*Fraxinus angustifolia* VAHL (1)\n20,3–29,5 µm, MiW 25,4 µm; 29 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

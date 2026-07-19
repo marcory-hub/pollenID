@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug21-tricolpatae-ret.json",
-    "title": "21. Tricolpatae (reticulate of microreticulate sculpturen) (Beug)",
+    "key": "beug21-tricolpatae-ret",
+    "title": "21. Tricolpatae (PK met reticulate, per- of suprareticulate of microreticulate sculpturen)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 39,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 39
   },
   "start": "1",
   "steps": {
@@ -14,27 +15,28 @@
       "type": "step",
       "choices": [
         {
-          "label": "De reticulate of microreticulate sculptureringen zijn op bepaalde delen van de PK beperkt.",
+          "label": "De reticulate of microreticulate sculptuur is beperkt tot bepaalde delen van de PK.",
           "next": "2"
         },
         {
-          "label": "PK gelijkmatig reticulaat of microreticulaat gesculpteerd (de sculpturering kan ook in het poolgebied groter zijn of de PK zijn marginaat).",
+          "label": "PK gelijkmatig reticulaat of microreticulaat (sculptuur polair eventueel iets grover, of PK marginat).",
           "next": "4"
         }
-      ]
+      ],
+      "note": "Tricolpate PK: 3 colpi zonder extra equatoriale aperturen. Tricolporate: S. 318. Tricolporoidate: S. 359. Bijzonder: fasecontrast vaak nodig; Tectum perforatum onder psilaat/scabraat; Margo bij *Salix*/*Tamarix*; Brassicaceae vs *Hottonia*/Oleaceae; supra- vs perreticulaat zo mogelijk vermijden; columellae in bovenaanzicht kritisch."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK oblaat tot sferoïdisch, pollenvormindex 0,70-0,83, in polair aanzicht driehoekig; heteropool: distale en proximale zijden zijn sterk gewelfd (Tafel 13: 11-15). Wanneer PK sferoïdisch, dan niet heteropool en pollenvormindex boven 0,85.",
-          "id": {
-            "name": "Comandra elegans (Blz... 130)"
+          "label": "PK oblaat tot sferoïdisch, PFormI 0,70–0,83, in polair aanzicht driehoekig; heteropolair: distale en proximale zijden verschillend gewelfd (Tafel 13: 11–15).",
+          "outcome": {
+            "text": "*Comandra elegans* (S. 130)"
           }
         },
         {
-          "label": "PK alleen in een gebied met een diameter van 10 µm op het midden van de intercolpen en op de poolvelden reticulaat.",
+          "label": "Als PK sferoïdisch: niet heteropolair en PForml boven 0,85.",
           "next": "3"
         }
       ]
@@ -44,15 +46,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Intercolpen equatoriaal met een ongeveer 10 µm grote cirkel, zonder sculptuurelementen. Exine buiten dit gebied, vooral polair en subpolair, en ook langs de colpi in het equatoriaal gebied fijn microreticulaat (eventueel in het fasecontrastbeeld controleren) (Tafel 58: 11-16).",
-          "id": {
-            "name": "21.1 Sideritis montana (Blz... 294)"
+          "label": "PK alleen reticulaat op gebieden van ca. 10 µm diameter midden op de intercolpia en op de polarvelden (Tafel 58: 6–10).",
+          "outcome": {
+            "text": "21.1 *Sideritis montana* (S. 290)"
           }
         },
         {
-          "label": "Intercolpen equatoriaal met een ongeveer 10 µm grote cirkel, zonder sculptuurelementen. Exine buiten dit gebied, vooral polair en subpolair, en ook langs de colpi in het equatoriaal gebied fijn microreticulaat (eventueel in het fasecontrastbeeld controleren) (Tafel 58: 11-16).",
-          "id": {
-            "name": "21.2 Odontites-type (Blz... 291)"
+          "label": "Intercolpia equatoriaal met een ca. 10 µm groot rond, niet-gesculpteerd gebied; daarbuiten fijn microreticulaat (Tafel 58: 11–16).",
+          "outcome": {
+            "text": "21.2 *Odontites*-type (S. 291)"
           }
         }
       ]
@@ -62,11 +64,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK langgestrekt (prolaat tot perprolaat, pollenvormindex 1,7-2,3), met meer of minder parallelle zijranden en afgeronde polen. colpi lang en recht, suprareticulaat.",
+          "label": "PK langgerekt (prolaat tot perprolaat, PForml 1,7–2,3), met min of meer parallelle zijranden en afgeronde polen; colpi lang en recht; suprareticulaat.",
           "next": "5"
         },
         {
-          "label": "PK met andere kenmerken, niet langgestrekt met parallelle zijranden, perreticulaat of suprareticulaat, sferoïdisch of zwak prolaat (pollenvormindex tot ongeveer 1,45).",
+          "label": "PK met andere kenmerken; niet langgerekt met parallelle zijranden; per- of suprareticulaat; sferoïdisch of zwak prolaat (PForml tot ca. 1,45).",
           "next": "7"
         }
       ]
@@ -76,13 +78,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK dikwandig, Exine 2,5-3,0 µm dik, endexine met 1,5-1,8 µm dikker dan de ektexine. columellae in opzicht duidelijk, netjes gerangschikt (Tafel 58: 23-26).",
-          "id": {
-            "name": "21.3 Acanthus (Blz... 291)"
+          "label": "PK dikwandig, exine 2,5–3,0 µm; endexine 1,5–1,8 µm dikker dan ektexine; columellae in bovenaanzicht duidelijk, netvormig (Tafel 58: 23–26).",
+          "outcome": {
+            "text": "21.3 *Acanthus* (S. 291)"
           }
         },
         {
-          "label": "Exine 1,0-1,7 µm dik, endexine dunner dan de ektexine of gelijk dik, columellae moeilijk herkenbaar.",
+          "label": "Exine slechts 1,0–1,7 µm; endexine dunner dan of even dik als ektexine; columellae moeilijk herkenbaar.",
           "next": "6"
         }
       ]
@@ -92,15 +94,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 32-47 µm groot, Exine 1,4-1,7 µm dik, brochi tot 2 µm groot (Tafel 58: 17-19).",
-          "id": {
-            "name": "21.4 Onobrychis (Blz... 291)"
+          "label": "PK 32–47 µm, exine 1,4–1,7 µm, brochi tot 2 µm (Tafel 58: 17–19).",
+          "outcome": {
+            "text": "21.4 *Onobrychis* (S. 291)"
           }
         },
         {
-          "label": "PK 22-31 µm groot, Exine 1,0-1,2 µm dik, brochi tot 1 µm groot (Tafel 58: 20-22).",
-          "id": {
-            "name": "21.5 Hedysarum hedysaroides (Blz... 292)"
+          "label": "PK 22–31 µm, exine 1,0–1,2 µm, brochi omstreeks 1 µm (Tafel 58: 20–22).",
+          "outcome": {
+            "text": "21.5 *Hedysarum hedysaroides* (S. 292)"
           }
         }
       ]
@@ -110,12 +112,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "Colpus-membraan korrelig gesculpteerd (of met resten van gefragmenteerde opercula) en bovendien intercolpium-randen over de hele lengte of alleen in het equatoriaal gebied korrelig opgelost. Wanneer intercolpium-randen zwak korrelig en PK in het midden van de intercolpium niet gesculpteerd, vgl. *Odontites*-type (Blz... 291). Bij retipilate PK vgl. *Callitriche palustris*-type (Blz... 424).",
+          "label": "Colpus-membraan korrelig gesculpteerd (of met resten van een gefragmenteerd operculum), of intercolpium-randen over de hele lengte of alleen equatoriaal korrelig opgelost. (Vgl. *Odontites*-type; bij retipilate PK: *Callitriche palustris*-type, S. 424.)",
           "next": "8"
         },
         {
-          "label": "Intercolpium-randen glad, colpus-membraan niet of niet opvallend gesculpteerd.",
-          "next": "18"
+          "label": "Intercolpium-randen glad; colpus-membraan niet of niet opvallend gesculpteerd.",
+          "next": "19"
         }
       ]
     },
@@ -124,11 +126,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "brochi duidelijk tot 1 µm groot, columellae duidelijk herkenbaar.",
+          "label": "Brochi duidelijk groter dan 1 µm; columellae duidelijk herkenbaar.",
           "next": "9"
         },
         {
-          "label": "brochi tot 1 µm of kleiner, columellae vaak dun, bijvoorbeeld bij kleine PK in opzicht en in het fasecontrastbeeld vaak moeilijk of niet herkenbaar.",
+          "label": "Brochi omstreeks 1 µm of kleiner; columellae vaak zeer dun, bij kleine PK in bovenaanzicht ook in fasecontrast vaak moeilijk of niet herkenbaar.",
           "next": "13"
         }
       ]
@@ -138,11 +140,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poolvelden klein (PFieldI ca. 0,1-0,2).",
+          "label": "Polarvelden middelgroot (PFeldI ca. 0,3–0,4).",
           "next": "10"
         },
         {
-          "label": "Poolvelden middelgroot.",
+          "label": "Polarvelden klein (PFeldI ca. 0,1–0,2).",
           "next": "11"
         }
       ]
@@ -152,15 +154,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Endexine dunner dan de ektexine (PFieldI ca. 0,3-0,4). brochi maximaal tot 1 µm en tot 2,2 µm groot. muri simpel reticulaat (Tafel 59: 4-10).",
-          "id": {
-            "name": "21.6 Oxalis stricta-type (Blz... 292)"
+          "label": "Endexine dunner dan de ektexine. Brochi maximaal boven 1 µm en tot 2,2 µm; muri simplicolumellaat (Tafel 59: 4–10).",
+          "outcome": {
+            "text": "21.6 *Oxalis stricta*-type (S. 292)"
           }
         },
         {
-          "label": "Endexine zo dik of dikker dan de ektexine (Tafel 59: 1-3).",
-          "id": {
-            "name": "21.7 Parrotia persica (Blz... 292)"
+          "label": "Endexine even dik als of dikker dan de ektexine (Tafel 59: 1–3).",
+          "outcome": {
+            "text": "21.7 *Parrotia persica* (S. 292)"
           }
         }
       ]
@@ -170,13 +172,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "brochi maximaal 2,5 en tot 3,0 µm groot, columellae duidelijk, PK simpelcolumellaat, perreticulaat, 30-45 µm groot. Intercolpium-randen glad, colpus-membranen duidelijk en dicht gesculpteerd (Tafel 59: 17-20, Tafel 60: 1-2).",
-          "id": {
-            "name": "21.8 Helleborus viridis-type (Blz... 292)"
+          "label": "Brochi max. boven 2,5 en tot 4,0 µm; columellae duidelijk; PK simplicolumellaat, perreticulaat, 30–45 µm; intercolpium-randen glad; colpus-membranen dicht gesculpteerd (Tafel 59: 17–20, Tafel 60: 1–2).",
+          "outcome": {
+            "text": "21.8 *Helleborus viridis*-type (S. 292)"
           }
         },
         {
-          "label": "brochi tot 1,0-2,5 µm groot.",
+          "label": "Brochi slechts 1,0–2,5 µm groot.",
           "next": "12"
         }
       ]
@@ -186,15 +188,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK muri relatief breed (ongeveer zo breed als de diameter van de lumina), plaatsen zich duplicolumellaat op (Tafel 59: 11-16).",
-          "id": {
-            "name": "21.9 Glaucium (Blz... 294)"
+          "label": "PK perreticulaat; muri relatief zeer breed (ongeveer zo breed als de diameter van de lumina), plaatselijk duplicolumellaat (Tafel 59: 11–16).",
+          "outcome": {
+            "text": "21.9 *Glaucium* (S. 294)"
           }
         },
         {
-          "label": "PK suprareticulaat, tectum van de lumina microreticulaat (fasecontrast!), muri duidelijk smaller dan de diameter van de lumina (Tafel 60: 3-13).",
-          "id": {
-            "name": "Galeopsis ballota"
+          "label": "PK suprareticulaat; tectum van de lumina microreticulaat (fasecontrast!); muri duidelijk smaller dan de diameter van de lumina (Tafel 60: 3–13).",
+          "outcome": {
+            "text": "21.10 *Galeopsis*-*Ballota*-groep (S. 294)"
           }
         }
       ]
@@ -204,14 +206,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Intercolpium-randen glad, colpi breed, colpus-membranen dicht korrelig gesculpteerd (wanneer PK met tectum perforatum, vgl. *Helleborus niger*, Blz... 134) (Tafel 60: 24-28).",
-          "id": {
-            "name": "21.11 Helleborus foetidus (Blz... 294)",
-            "pollen_key": "helleborus_foetidus"
+          "label": "Intercolpium-randen glad; colpi breed; colpus-membranen dicht korrelig gesculpteerd (Tafel 60: 24–28).",
+          "outcome": {
+            "text": "21.11 *Helleborus foetidus* (S. 296)"
           }
         },
         {
-          "label": "Intercolpium-randen minstens in het equatoriaal gebied, meestal over hun hele lengte korrelig-rafelig opgelost (wanneer PK met tectum perforatum en boven 37 en tot ca. 50 µm, vgl. *Oxalis acetosella*, Blz... 145).",
+          "label": "Intercolpium-randen minstens equatoriaal, meestal over de hele lengte korrelig-rissig opgelost.",
           "next": "14"
         }
       ]
@@ -221,13 +222,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Intercolpium-randen alleen in het equatoriaal gebied korrelig-rafelig opgelost, colpus-membraan door alle hierin aanwezige korrels dicht bezet (Tafel 60: 14-17).",
-          "id": {
-            "name": "21.12 Reseda (Blz... 296)"
+          "label": "Intercolpium-randen alleen equatoriaal korrelig-rissig opgelost; colpus-membraan vooral daar korrelig tot schollig bekleed (Tafel 60: 14–17).",
+          "outcome": {
+            "text": "21.12 *Reseda* (S. 296)"
           }
         },
         {
-          "label": "Intercolpium-randen over de gehele lengte korrelig of korrelig-rafelig opgelost, colpus-membraan korrelig of volledig bezet met resten van gefragmenteerde opercula.",
+          "label": "Intercolpium-randen over de hele lengte korrelig of korrelig-rissig opgelost; colpus-membraan korrelig/schollig of met resten van een gefragmenteerd operculum.",
           "next": "15"
         }
       ]
@@ -237,13 +238,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poolfelder groot of middelgroot, colpi ingezonken, onregelmatig gevormd en zeer breed (Tafel 60: 18-23).",
-          "id": {
-            "name": "21.13 Platanus orientalis (Blz... 296)"
+          "label": "Polarvelden groot of middelgroot; colpi ingezonken, onregelmatig gevormd en zeer breed (Tafel 60: 18–23).",
+          "outcome": {
+            "text": "21.13 *Platanus orientalis* (S. 296)"
           }
         },
         {
-          "label": "Poolfelder klein, colpi niet onregelmatig gevormd.",
+          "label": "Polarvelden klein; colpi niet onregelmatig gevormd.",
           "next": "16"
         }
       ]
@@ -253,14 +254,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK sferoïdisch, pollenvormindex 1,0-1,1, Exine 1,8-2,5 µm dik (Tafel 61: 6-11).",
-          "id": {
-            "pollen_key": "chelidonium_majus",
-            "note": "21.14 Chelidonium majus (Blz... 298)"
+          "label": "PK sferoïdisch, PForml 1,0–1,1; exine 1,8–2,5 µm dik (Tafel 61: 6–11).",
+          "outcome": {
+            "text": "21.14 *Chelidonium majus* (S. 298)"
           }
         },
         {
-          "label": "PK sferoïdisch tot prolaat, pollenvormindex groter dan 1,1 en tot 1,5.",
+          "label": "PK sferoïdisch tot prolaat, PForml groter dan 1,1 en tot 1,5.",
           "next": "17"
         }
       ]
@@ -270,13 +270,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK in fasecontrastbeeld minstens in het fasecontrastbeeld herkenbaar. PK langgestrekt, polair spits toelopend, pollenvormindex 1,2-1,5, colpi smal, korrelig, het colpus-membraan goed herkenbaar. Exine tot 1,5-1,8 µm dik (wanneer Exine tot 1 µm dik en PK onder 30 µm groot; vgl. ook *Reseda*, Blz... 296) (Tafel 61: 15).",
-          "id": {
-            "name": "21.15 Epimedium alpinum (Blz... 298)"
+          "label": "Columellae in bovenaanzicht minstens in fasecontrast herkenbaar. PK langgerekt, polair toegespitst, PForml 1,2–1,5; colpi smal; exine slechts 1,5–1,8 µm (Tafel 61: 1–5).",
+          "outcome": {
+            "text": "21.15 *Epimedium alpinum* (S. 298)"
           }
         },
         {
-          "label": "PK in fasecontrastbeeld hoogstens nauwelijks herkenbaar.",
+          "label": "Columellae in bovenaanzicht in fasecontrast hoogstens slechts hier en daar herkenbaar.",
           "next": "18"
         }
       ]
@@ -286,15 +286,16 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine tot 1,5 µm dik (Tafel 61: 12-17).",
-          "id": {
-            "name": "21.16 Vitex agnus-castus (Blz... 298)",
-            "pollen_key": "vitex_agnus_castus"
+          "label": "Exine ongeveer 1,5–2 µm dik (Tafel 61: 12–17).",
+          "outcome": {
+            "text": "21.16 *Vitex agnus-castus* (S. 298)"
           }
         },
         {
-          "label": "Exine 1-1,5 µm dik. Colpus-randen meestal alleen spaarzaam korrelig opgelost, colpus-membraan met resten van gefragmenteerde opercula (Tafel 60: 3-13).",
-          "next": "19"
+          "label": "Exine 1–1,5 µm dik. Colpus-randen meestal spaarzaam korrelig opgelost; colpus-membraan met resten van een gefragmenteerd operculum (Tafel 60: 3–13).",
+          "outcome": {
+            "text": "21.10 *Galeopsis*-*Ballota*-groep (S. 294)"
+          }
         }
       ]
     },
@@ -303,14 +304,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK marginaat (indien PK in het daarvoor geschikte gebied liggen), microreticulaat of micro-reticulaat en scabraat. Bij PK met sterk ingezonken colpi is de margo meestal niet herkenbaar.",
-          "id": {
-            "name": "Galeopsis ballota"
-          }
+          "label": "PK marginat (eventueel in geschikte ligging brengen), microreticulaat of microreticulaat en scabraat. Bij sterk ingezonken colpi is de margo meestal niet herkenbaar.",
+          "next": "20"
         },
         {
-          "label": "PK niet marginaat.",
-          "next": "20"
+          "label": "PK niet marginat.",
+          "next": "21"
         }
       ]
     },
@@ -319,15 +318,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK sferoïdisch tot zwak prolaat, tectum dunner als de endexine of hoogstens even dik, columellae in opzicht alleen of hoogstens bij sterke vergroting herkenbaar (Tafel 61: 18-25).",
-          "id": {
-            "name": "21.17 Tamarix (Blz... 298)"
+          "label": "PK sferoïdisch tot zwak prolaat; tectum dunner dan of hoogstens even dik als de columellae-laag; reticulum homobrochaat; columellae in bovenaanzicht goed herkenbaar (Tafel 61: 18–25).",
+          "outcome": {
+            "text": "21.17 *Tamarix* (S. 298)"
           }
         },
         {
-          "label": "PK meestal prolaat, hoogstens zwak sferoïdisch, reticulum homobrochaat of heterobrochaat, columellae-laag dunner als het tectum, columellae daar in opzicht niet of nauwelijks herkenbaar; goed herkenbaar alleen bij heterobrochaat ontwikkeling van het reticulum (Tafel 61: 26-32, Tafel 62: 1-3).",
-          "id": {
-            "name": "21.18 Salix (Blz... 300)"
+          "label": "PK meestal prolaat, hoogstens zwak sferoïdisch; reticulum homo- of heterobrochaat; columellae-laag dunner dan het tectum (Tafel 61: 26–32, Tafel 62: 1–3).",
+          "outcome": {
+            "text": "21.18 *Salix* (S. 300)"
           }
         }
       ]
@@ -337,13 +336,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "muri breed, overwegend duplicolumellaat, brochi tot 2 µm groot (Tafel 62: 4-11).",
-          "id": {
-            "name": "21.19 Marrubium (Blz... 301)"
+          "label": "Muri breed, grotendeels duplicolumellaat; brochi tot 2 µm (Tafel 62: 4–11).",
+          "outcome": {
+            "text": "21.19 *Marrubium* (S. 301)"
           }
         },
         {
-          "label": "columellae eenrijig of niet herkenbaar.",
+          "label": "Columellae eenrijig of niet herkenbaar.",
           "next": "22"
         }
       ]
@@ -353,12 +352,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK dikwandig, Exine duidelijk > 2 µm (tot 10 µm dik).",
+          "label": "PK dikwandig; exine duidelijk boven 2 µm (tot omstreeks 10 µm).",
           "next": "23"
         },
         {
-          "label": "Exine dunner, hoogstens 2,2 µm dik.",
-          "next": "24"
+          "label": "Exine dunner, hoogstens tot 2,2 µm.",
+          "next": "27"
         }
       ]
     },
@@ -367,13 +366,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "muri dicht met clavae bezet, brochi 4-10 µm groot (Tafel 34: 18-21).",
-          "id": {
-            "name": "Geranium (Blz... 211)"
+          "label": "Muri dicht met clavae bezet; brochi 4–10 µm (Tafel 34: 18–21).",
+          "outcome": {
+            "text": "*Geranium* (S. 211)"
           }
         },
         {
-          "label": "muri distaal glad, zelden ook met (Plumbaginaceae) scabraat of (micro-)echinaat.",
+          "label": "Muri distaal glad, zelden (*Plumbaginaceae*) scabraat of (micro)echinaat.",
           "next": "24"
         }
       ]
@@ -383,12 +382,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK (45/)50 en tot 85 µm groot.",
+          "label": "PK groter dan (45)50 en tot 85 µm.",
           "next": "25"
         },
         {
           "label": "PK kleiner.",
-          "next": "25"
+          "next": "26"
         }
       ]
     },
@@ -397,15 +396,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK ofwel met tot 10 µm grote brochi, deren muri met 1-2 µm lange echini bezet zijn of met 2-5 µm grote micro-echinaten of scabraten brochi; Exine minstens 5 µm dik (Tafel 62: 15-19, Tafel 63: 1-8).",
-          "id": {
-            "name": "21.20 Plumbaginaceae (Blz... 302)"
+          "label": "PK met brochi boven 10 µm waarvan de muri met 1–2 µm lange echini bezet zijn, of met 2–5 µm grote microechinate of scabrate brochi; exine minstens 5 µm (Tafel 62: 15–19, Tafel 63: 1–8).",
+          "outcome": {
+            "text": "21.20 Plumbaginaceae (S. 302)"
           }
         },
         {
-          "label": "brochi tot 1,0-3,0 µm groot, muri niet micro-echinaat of scabraat (Tafel 65: 8-13).",
-          "id": {
-            "name": "21.21 Jasminum fruticans (Blz... 302)"
+          "label": "Brochi slechts 1,0–3,0 µm; muri niet microechinaat of scabraat (Tafel 65: 8–13).",
+          "outcome": {
+            "text": "21.21 *Jasminum fruticans* (S. 302)"
           }
         }
       ]
@@ -415,16 +414,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK ca. 30-40 µm groot, Exine boven 3 (tot 4,5) µm dik (Tafel 66: 1-6).",
-          "id": {
-            "name": "21.22 Ligustrum-type (Blz... 304)"
+          "label": "PK ca. 30–40 µm; exine boven 3 µm (tot 4,5 µm) (Tafel 66: 1–6).",
+          "outcome": {
+            "text": "21.22 *Ligustrum*-type (S. 304)"
           }
         },
         {
-          "label": "PK tot 24-31 µm groot, Exine tot 3 µm, zelden tot 3,2 µm dik (wanneer poolvelden klein vgl. Brassicaceae) (Tafel 66: 20-25).",
-          "id": {
-            "pollen_key": "olea_europaea",
-            "note": "21.23 Olea europaea (Blz... 304)"
+          "label": "PK slechts ca. 24–31 µm; exine omstreeks 3 µm, zelden tot 3,2 µm (Tafel 66: 20–25).",
+          "outcome": {
+            "text": "21.23 *Olea europaea* (S. 304)"
           }
         }
       ]
@@ -434,13 +432,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae ook of overwegend onder den muri (PK perreticulaat of onderscheid tussen perreticulaat en suprareticulaat niet mogelijk) of columellae in opzicht ook in het fasecontrastbeeld niet of nauwelijks herkenbaar. brochi kleiner of even groot als 1 µm. Hierin vallen de retipilate *Callitriche palustris*-type.",
+          "label": "Columellae uitsluitend of overwegend onder de muri (perreticulaat of onderscheid per-/suprareticulaat niet mogelijk), of columellae in bovenaanzicht ook in fasecontrast niet of slechts hier en daar herkenbaar. Ook retipilate *Callitriche palustris*-type.",
           "next": "28"
         },
         {
-          "label": "columellae staan ook onder den lumina in de brochi min of meer gelijkmatig verdeeld (PK suprareticulaat; verdeling van de columellae eventueel controleren). brochi groter dan 2,5 en tot 3,0 µm groot (Tafel 60: 3-13).",
-          "id": {
-            "name": "Galeopsis ballota"
+          "label": "Columellae ook onder de lumina, meestal min of meer gelijkmatig (suprareticulaat); brochi tot 2 µm (Tafel 60: 3–13).",
+          "outcome": {
+            "text": "21.10 *Galeopsis*-*Ballota*-groep (S. 294)"
           }
         }
       ]
@@ -450,11 +448,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae ontbreken of minstens in opzicht in het fasecontrastbeeld niet regelmatig onder den muri herkenbaar.",
+          "label": "Columellae ontbreken of zijn in bovenaanzicht in fasecontrast niet regelmatig onder de muri herkenbaar.",
           "next": "29"
         },
         {
-          "label": "columellae in opzicht reeds in het helderveld, minstens echter in het fasecontrastbeeld duidelijk en regelmatig herkenbaar (wanneer columellae alleen in de polaire en subpolaire gebieden aanwezig zijn, vgl. Fabaceae p.p. Blz... 344).",
+          "label": "Columellae in bovenaanzicht meestal al in helderveld, althans in fasecontrast, duidelijk en regelmatig herkenbaar.",
           "next": "33"
         }
       ]
@@ -464,12 +462,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK sferoïdisch (vgl. ook de 21.10. *Galeopsis-Ballota*-Gruppe en 21.16. *Vitex agnus-castus*).",
+          "label": "PK sferoïdisch.",
           "next": "30"
         },
         {
           "label": "PK prolaat.",
-          "next": "31"
+          "next": "32"
         }
       ]
     },
@@ -478,12 +476,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poolfelder middelgroot tot groot.",
-          "next": "35"
+          "label": "Polarvelden middelgroot tot groot.",
+          "next": "31"
         },
         {
-          "label": "Poolfelder klein.",
-          "next": "33"
+          "label": "Polarvelden klein.",
+          "next": "35"
         }
       ]
     },
@@ -492,15 +490,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine tot 1 µm dik, colpi vaak met zwakke equatoriale verenging of onderbreking (Tafel 63: 9-15).",
-          "id": {
-            "name": "21.24 Hottonia palustris (Blz... 304)"
+          "label": "Exine tot 1(1,2) µm dik; colpi vaak met zwakke equatoriale vernauwing of onderbreking (Tafel 63: 9–15).",
+          "outcome": {
+            "text": "21.24 *Hottonia palustris* (S. 304)"
           }
         },
         {
-          "label": "Exine max. 1,5 µm dik, zonder equatoriale onderbreking of verenging van de colpi (Tafel 64: 1-7).",
-          "id": {
-            "name": "Brassicaceae-type: Descurainia (Blz... 308)"
+          "label": "Exine max. 1,5 µm dik, zonder equatoriale onderbreking of vernauwing van de colpi (Tafel 65: 1–7).",
+          "outcome": {
+            "text": "Brassicaceae: *Descurainia* (S. 308)"
           }
         }
       ]
@@ -510,15 +508,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae ontbreken, PK ofwel spits toelopend (Tafel 62: 12-14).",
-          "id": {
-            "name": "21.25 Saxifraga stellaris-type (Blz... 306)"
+          "label": "Columellae ontbreken; PK polair vaak toegespitst (Tafel 62: 12–14).",
+          "outcome": {
+            "text": "21.25 *Saxifraga stellaris*-type (S. 306)"
           }
         },
         {
-          "label": "columellae in optische doorsnede zichtbaar. De columellae zijn in opzicht niet of nauwelijks in het poolgebied herkenbaar. PK polair meestal afgerond. Onderscheid te bepalen door Fabaceae kritisch, vgl. Blz... 373. (Tafel 60: 3-13).",
-          "id": {
-            "name": "Galeopsis ballota"
+          "label": "Columellae-laag in optische doorsnede zichtbaar; in bovenaanzicht vaak niet of alleen polair herkenbaar (Tafel 60: 3–13).",
+          "outcome": {
+            "text": "21.10 *Galeopsis*-*Ballota*-groep (S. 294)"
           }
         }
       ]
@@ -528,12 +526,12 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poolfelder klein.",
+          "label": "Polarvelden klein.",
           "next": "34"
         },
         {
-          "label": "Poolfelder middelgroot tot groot of PK retipilaat.",
-          "next": "34"
+          "label": "Polarvelden middelgroot tot groot, of PK retipilaat.",
+          "next": "35"
         }
       ]
     },
@@ -542,15 +540,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 30-40 µm groot met dikke endexine (ongeveer de helft van de dikte van de Exine) en met dunne, vaak rudimentaire korrelige afgesloten opercula. colpi breed (meestal tot 5 µm). Onderscheid te bepalen door de Brassicaceae kritisch (Tafel 65: 14-21).",
-          "id": {
-            "name": "21.26 Fothergilla major (Blz... 306)"
+          "label": "PK 30–40 µm met dikke endexine (ongeveer de helft van de exine) en dunne, vaak rudimentair korrelig opgeloste opercula; colpi breed (meestal omstreeks 5 µm) (Tafel 65: 14–21).",
+          "outcome": {
+            "text": "21.26 *Fothergilla major* (S. 306)"
           }
         },
         {
-          "label": "PK met dunne endexine (slechts 20-25% van de dikte van de Exine) en colpi zonder operculum. PK zeer variabel wat betreft grootte en vorm (sferoïdisch tot zwak prolaat, zelden duidelijk prolaat), dikte van de Exine (1,0-3,5 µm) en grootte van de brochi (0,5-3,5 µm), columellae lang en bij zeer kleine PK (bijv. *Descurainia*) duidelijk herkenbaar, endexine relatief dun (Tafel 64: 1-29, Tafel 65: 1-7).",
-          "id": {
-            "name": "21.27 Brassicaceae (Blz... 306)"
+          "label": "PK met dunne endexine (slechts 20–25% van de exine) en colpi zonder operculum; zeer variabel in grootte, vorm, exine en brochi (Tafel 64: 1–29, Tafel 65: 1–7).",
+          "outcome": {
+            "text": "21.27 Brassicaceae (S. 306)"
           }
         }
       ]
@@ -560,14 +558,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK langgestrekt, overwegend prolaat (Tafel 66: 7-13).",
-          "id": {
-            "pollen_key": "fraxinus_ornus",
-            "note": "21.28 Fraxinus ornus (Blz... 315)"
+          "label": "PK langgerekt, overwegend prolaat (Tafel 66: 7–13).",
+          "outcome": {
+            "text": "21.28 *Fraxinus ornus* (S. 315)"
           }
         },
         {
-          "label": "PK sferoïdisch, kogelig.",
+          "label": "PK sferoïdisch, bolvormig.",
           "next": "36"
         }
       ]
@@ -577,13 +574,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK retipilaat, verbindingen tussen de columellae of bacula dunner dan hun diameter, colpi onduidelijk begrensd, muri breed (Tafel 96: 1-4).",
-          "id": {
-            "name": "Callitriche palustris-type (Blz... 424)"
+          "label": "PK retipilaat; verbindingen tussen columellae/bacula dunner dan hun diameter; colpi onduidelijk begrensd, meestal breed (Tafel 96: 1–4).",
+          "outcome": {
+            "text": "*Callitriche palustris*-type (S. 424)"
           }
         },
         {
-          "label": "PK reticulaat, muri niet smaller dan de columellae, colpi smal, duidelijk begrensd.",
+          "label": "PK reticulaat; muri niet smaller dan de columellae; colpi smal, duidelijk begrensd.",
           "next": "37"
         }
       ]
@@ -593,11 +590,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae in het helderveld duidelijk herkenbaar.",
+          "label": "Columellae in helderveld duidelijk herkenbaar.",
           "next": "38"
         },
         {
-          "label": "columellae meestal pas in het fasecontrastbeeld herkenbaar.",
+          "label": "Columellae meestal pas in fasecontrast herkenbaar.",
           "next": "39"
         }
       ]
@@ -607,15 +604,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PFieldI 0,41-0,64, colpi smal (Tafel 66: 14-19).",
-          "id": {
-            "name": "21.29 Phillyrea (Blz... 315)"
+          "label": "PFeldI 0,41–0,64; colpi zeer smal (Tafel 66: 14–19).",
+          "outcome": {
+            "text": "21.29 *Phillyrea* (S. 315)"
           }
         },
         {
-          "label": "PFieldI 0,23-0,33, colpi 2-6 µm breed, met rudimentaire opercula (Tafel 68: 1-5).",
-          "id": {
-            "name": "21.30 Corylopsis-type (Blz... 315)"
+          "label": "PFeldI 0,23–0,33; colpi 2–6 µm breed, met rudimentair operculum (Tafel 68: 1–5).",
+          "outcome": {
+            "text": "21.30 *Corylopsis*-type (S. 315)"
           }
         }
       ]
@@ -625,15 +622,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Exine tot 1,2 µm dik, pollenvormindex 0,8-1,1, brochi 0,6-1,0-1,4(2,0) µm groot, PK zelden microreticulaat, brochi in het fasecontrastbeeld duidelijk herkenbaar. colpi buiten het equatoriaal gebied van de brochi zeer sterk ingedrukt, in het equatoriaal gebied naar voren getrokken. De colpi nemen dan bij zijdelingse aanzicht een geknikt verloop (Tafel 66: 26-35).",
-          "id": {
-            "name": "21.31 Fraxinus excelsior-type (Blz... 316)"
+          "label": "Exine tot ca. 1,2 µm; PFormI 0,8–1,1; brochi (0,6)1,0–1,4(2,0) µm; colpi buiten equatoriaal gebied meestal sterk ingezonken, equatoriaal vooruitstekend/geknipt (Tafel 66: 26–35).",
+          "outcome": {
+            "text": "21.31 *Fraxinus excelsior*-type (S. 316)"
           }
         },
         {
-          "label": "Exine tot 1,9 µm dik, pollenvormindex 0,87-1,10, brochi 1-2 µm groot, columellae meestal ook in het fasecontrastbeeld sterk herkenbaar (Tafel 67: 15-20).",
-          "id": {
-            "name": "21.32 Hamamelis-type (Blz... 316)"
+          "label": "Exine tot 1,9 µm; PForml 0,87–1,10; brochi 1–2 µm; columellae meestal ook in fasecontrast moeilijk herkenbaar (Tafel 67: 15–20).",
+          "outcome": {
+            "text": "21.32 *Hamamelis*-type (S. 316)"
           }
         }
       ]

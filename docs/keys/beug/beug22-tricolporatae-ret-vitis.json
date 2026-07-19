@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-vitis",
+    "title": "22.7 *Vitis* (Tafel 70: 17–22)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën klein, rond, scherp; (micro-)reticulum vooral polar.",
+          "outcome": {
+            "text": "22.7 *Vitis*\n\nPK sferoïdisch, zelden zwak prolaat (PForml 1,03–1,28(1,36)); klein polarveld (PFeldI ca. 0,2). Intercolpia concaaf. Exine ca. 1,3–2,0 µm. Colpi met margines. Brochi polar ca. 0,5–1,2, zelden tot 2,0 µm. Columellae niet herkenbaar. Poriën meestal 2,0–2,5 µm, rond, opvallend scherp en contrastrijk.\n\n*Vitis vinifera* L. subsp. *sylvestris* (C.C. GMEL.) HEGI (3)\n22,7–28,3 µm, MiW 25,5 µm; 50 PK, 0a\n\n*Vitis vinifera* L. subsp. *vinifera* BECK (3)\n20,5–26,6 µm, MiW 24,0 µm; 100 PK, 0a\n\n*Vitis labrusca* L. (1)\n21,2–28,0 µm, MiW 24,9 µm; 50 PK, Oa\n\nVerschillen wild/cultuurvorm zijn volgens Beug twijfelachtig voor zekere scheiding."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-cannabinaceae",
+    "title": "31.15 Cannabinaceae (Tafel 101: 7–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus/anulus-achtig door verhoging + inkromming; PK 20–32 µm.",
+          "outcome": {
+            "text": "31.15 Cannabinaceae\n\nPK psilaat, dunwandig; exine (1,0)1,2–1,5 µm. Poriën met anulus of anulus-achtige rand (zwakke tectumverdikking) plus zwakke opwelving (breedte ca. 2 µm); verdikt gebied naar de porie toe ingekromd.\n\n*Humulus*: P/E 0,78–0,93; polaire as 19,3–22,2 µm. *Cannabis*: P/E 0,82–0,98; polaire as 22,5–27,5 µm. Tot ca. 24 µm grotendeels *Humulus*; boven ca. 25 µm grotendeels *Cannabis*. Vergelijk *Celtis*.\n\n*Cannabis sativa* L. (2)\n24,3–31,3 µm, MiW 28,1 µm; 50 PK, 0a, Ä\nPoriën: 48× 2-porig, 2× 3-porig; poriegrootte 2,0 µm; anulus-breedte 1,5 µm (Tabel 10).\n\n*Humulus lupulus* L. (4)\n20,5–27,8 µm, MiW 23,4 µm; 50 PK, 0a, Ä\nPoriën: 50× 3-porig; 1,5–2,5 µm; anulus 1,5–2,0 µm (Tabel 10)."
+          }
+        }
+      ]
+    }
+  }
+}

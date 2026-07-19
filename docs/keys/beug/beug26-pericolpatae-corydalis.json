@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-corydalis",
+    "title": "26.6 Corydalis-groep (Tafel 92: 10–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 3
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "PK bolvormig, vaak iets hoekig; 6 colpi in driehoeken. Exine 1,5–2 µm. Eventueel 3 pollentypen.",
+      "choices": [
+        {
+          "label": "PK rugulaat of rugulaat-reticulaat (Tafel 92: 10–13).",
+          "outcome": {
+            "text": "26.6.1 *Corydalis cava*-type (*C. cava* en *C. solida* p.p.)\n\n*Corydalis cava* (L.) SCHWEIGG. & KORTE (2)\n34,8–44,5 µm, MiW 39,1 µm; 50 PK, 0a\n\n*Corydalis solida* (L.) CLAIRV. (2)\n34,5–43,0 µm, MiW 40,2 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "PK verrucaat of fossulaat.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK verrucaat.",
+          "next": "3"
+        },
+        {
+          "label": "PK fossulaat (Tafel 92: 17–19).",
+          "outcome": {
+            "text": "26.6.2 *Pseudofumaria alba*-type (*Pseudofumaria alba* en *Ceratocapnos claviculata*)\n\n*Pseudofumaria alba* (MILL.) LIDÉN (2)\n44,3–53,0 µm, MiW 48,4 µm; 50 PK, Oa\n\n*Ceratocapnos claviculata* (L.) PERS. (2)\n35,5–44,3 µm, MiW 40,3 µm; 50 PK, 0a\n\nN.B. *Pseudofumaria lutea*: fossulaat en syncolpaat (meer colpi; oppervlak in vier- of vijfhoeken) — in proza genoemd, zonder aparte matenregel."
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 32–43 µm (Tafel 92: 14–16).",
+          "outcome": {
+            "text": "26.6.3 *Corydalis pumila*-type (*C. pumila* en *C. solida* p.p.)\n\n*Corydalis pumila* (HOST) RCHB. (2)\n31,8–42,0 µm, MiW 36,4 µm; 50 PK, Oa\n\n*Corydalis solida* (L.) CLAIRV. (2)\n34,5–43,0 µm, MiW 40,2 µm; 50 PK, Oa"
+          }
+        },
+        {
+          "label": "PK 26–32 µm.",
+          "outcome": {
+            "text": "26.6.4 *Corydalis intermedia*\n\nRelatief kleine verrucae (tot 2 µm).\n\n*Corydalis intermedia* (L.) MÉRAT (2)\n26,0–32,0 µm, MiW 29,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,4 +1,4 @@
-# 33.3 Ranunculus arvensis-groep (Beug)
+# 33.3 *Ranunculus arvensis*-groep (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug33-periporatae-ranunculus.json"></div>
 

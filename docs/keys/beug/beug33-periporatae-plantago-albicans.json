@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-plantago-albicans",
+    "title": "33.2.3 *Plantago albicans* (Tafel 106: 14–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "32–45 µm; schijfvormige opercula; zonder anulus.",
+          "outcome": {
+            "text": "33.2.3 *Plantago albicans*\n\n9–13 poriën; (2,0)3,0–5,0 µm; schijfvormige opercula; zonder anulus; contrastrijke randen. Verrucae 1–3 µm. Exine 1,0–1,3 µm.\n\n*Plantago albicans* L. (2)\n32,5–45,0 µm, MiW 37,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

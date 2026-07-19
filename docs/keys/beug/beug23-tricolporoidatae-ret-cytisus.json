@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-cytisus",
+    "title": "23.12.4 *Cytisus*-type (Tafel 83: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden middelgroot; brochi polar kleiner; columellae alleen polar/subpolar.",
+          "outcome": {
+            "text": "23.12.4 *Cytisus*-type\n\nOmvat *Cytisus* p.p., *Chamaecytisus*, *Chamaespartium*. Meestal sferoïdisch (PForml 0,91–1,29). Polarvelden meestal middelgroot (PFeldI 0,25–0,50). Exine 1–1,2 µm. Brochi 0,8–2,0 µm, polar kleiner.\n\n*Chamaecytisus austriacus* (L.) LINK (3)\n20,0–27,3 µm, MiW 22,7 µm; 50 PK, 0a\n\n*Chamaecytisus hirsutus* (L.) LINK (2)\n25,5–31,5 µm, MiW 28,7 µm; 50 PK, 3a\n\n*Chamaecytisus purpureus* (SCOP.) LINK (1)\n25,1–32,6 µm, MiW 28,1 µm; 50 PK, 3a\n\n*Chamaecytisus ratisbonensis* (SCHAEFF.) ROTHM. (2)\n22,5–29,5 µm, MiW 25,8 µm; 50 PK, Oa\n\n*Chamaecytisus supinus* (L.) LINK (3)\n21,3–28,5 µm, MiW 24,9 µm; 50 PK, 0a\n\n*Chamaespartium sagittale* (L.) P. GIBBS (3)\n26,0–30,0 µm, MiW 28,6 µm; 50 PK, 0a\n\n*Cytisus emeriflorus* REICHENB. (1)\n22,7–34,3 µm, MiW 26,5 µm; 50 PK, 3a"
+          }
+        }
+      ]
+    }
+  }
+}

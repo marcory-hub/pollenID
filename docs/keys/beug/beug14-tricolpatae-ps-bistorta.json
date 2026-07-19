@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug14-tricolpatae-ps-bistorta.json",
+    "key": "beug14-tricolpatae-ps-bistorta",
     "title": "14.9 Bistorta-type (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "columella's im polair gebied in groepen staand. exine polair 4,4-5,5 µm dik, equatoriaal 1,8-2,9 µm (Tafel 22: 5-6)",
-          "id": {
-            "name": "14.9.1 Bistorta officinalis Bistorta officinalis (L.) Delabre (2) 45,5-63"
+          "outcome": {
+            "text": "14.9.1 *Bistorta officinalis* (Tafel 22: 5–6)\n\nColumellae in het polargebied in groepen. Exine polair 4,4–5,5 µm, equatoriaal 1,8–2,9 µm.\n\n*Bistorta officinalis* (L.) DELABRE (2)\n45,5–63,0 µm, MiW 55,1 µm; 50 PK, 0a"
           }
         },
         {
           "label": "columella's im polair gebied ± gelijkmatig verdeeld, exine polair 3,8-4,3 µm dik, equatoriaal 2,5-3,0 µm (Tafel 22: 7-8)",
-          "id": {
-            "name": "14.9.2 Bistorta vivipara Bistorta vivipara (L.) Delabre (3) 48,1-75"
+          "outcome": {
+            "text": "14.9.2 *Bistorta vivipara* (Tafel 22: 7–8)\n\nColumellae in het polargebied ± gelijkmatig verdeeld. Exine polair 3,8–4,3 µm, equatoriaal 2,5–3,0 µm.\n\n*Bistorta vivipara* (L.) DELABRE (3)\n48,1–75,4 µm, MiW 58,7 µm; 50 PK, 1a"
           }
         }
       ]

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-androsace",
+    "title": "22.27 *Androsace maxima* (Tafel 75: 35–41)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Als *Anagallis*-type, maar poriën elliptisch met afgeronde einden.",
+          "outcome": {
+            "text": "22.27 *Androsace maxima*\n\nAls *Anagallis*-type, maar equatoriale poriën niet toegespitst en zonder onregelmatige scheuren; elliptisch met afgeronde einden (tot 3 × 8 µm). Microreticulum vaak onduidelijk. Exine ca. 1 µm.\n\n*Androsace maxima* L. (4)\n14,2–18,4 µm, MiW 16,5 µm; 50 PK, 2a"
+          }
+        }
+      ]
+    }
+  }
+}

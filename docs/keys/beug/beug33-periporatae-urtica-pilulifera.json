@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-urtica-pilulifera",
+    "title": "33.26 *Urtica pilulifera* (Tafel 120: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine ca. 0,7 µm; poriën 1,5 µm met anulus.",
+          "outcome": {
+            "text": "33.26 *Urtica pilulifera*\n\n7–10 poriën; anulus 1,0–1,2 µm.\n\n*Urtica pilulifera* L. (2)\n29,0–38,0 µm, MiW 32,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

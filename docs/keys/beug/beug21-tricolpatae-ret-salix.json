@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-salix",
+    "title": "21.18 *Salix* (Tafel 61: 26–32, Tafel 62: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK marginat, meestal prolaat; columellae-laag dunner dan tectum; reticulum homo- of heterobrochaat.",
+          "outcome": {
+            "text": "21.18 *Salix*\n\nPK langgerekt, meestal prolaat (PForml (1,20)1,33–1,93). Marginat. Brochi tot 2,8(3,0) µm; reticulum homo- of heterobrochaat. Exine 1,1–1,7 µm. Columellae-laag zeer dun. Geen van de kenmerken geschikt voor soortsbepaling binnen de 39 onderzochte Midden-Europese soorten.\n\n*Salix alba* L. (4)\n18,4–28,7 µm, MiW 23,8 µm; 50 PK, 0a\n\n*Salix alpina* Scop. (2)\n17,7–24,1 µm, MiW 21,2 µm; 50 PK, 0a\n\n*Salix appendiculata* VILL. (2)\n19,1–25,8 µm, MiW 22,6 µm; 50 PK, 0a\n\n*Salix arctica* PALLAS (2)\n24,1–33,3 µm, MiW 27,7 µm; 50 PK, 0a\n\n*Salix aurita* L. (3)\n19,5–25,5 µm, MiW 21,7 µm; 50 PK, Oa\n\n*Salix bicolor* WILLD. (3)\n25,1–34,0 µm, MiW 28,4 µm; 50 PK, 0a\n\n*Salix breviserrata* B. FLOD. (1)\n20,5–26,2 µm, MiW 23,4 µm; 50 PK, 0a\n\n*Salix caesia* VILL. (2)\n20,9–29,0 µm, MiW 23,8 µm; 50 PK, 0a\n\n*Salix caprea* L. (3)\n14,9–22,3 µm, MiW 18,7 µm; 50 PK, 0a\n\n*Salix cinerea* L. s.l. (3)\n22,0–27,6 µm, MiW 25,1 µm; 50 PK, 0a\n\n*Salix daphnoides* VILL. (3)\n20,2–27,6 µm, MiW 23,5 µm; 50 PK, 0a\n\n*Salix dasyclados* WIMM. (1)\n23,7–32,9 µm, MiW 27,9 µm; 50 PK, Oa\n\n*Salix eleagnos* Scop. (3)\n23,0–30,0 µm, MiW 25,7 µm; 50 PK, Oa\n\n*Salix foetida* SCHLEICH. (2)\n17,4–24,4 µm, MiW 20,7 µm; 50 PK, Oa\n\n*Salix fragilis* L. (3)\n21,2–25,8 µm, MiW 23,4 µm; 50 PK, 0a\n\n*Salix glabra* Scop. (2)\n20,9–31,5 µm, MiW 27,1 µm; 50 PK, Oa\n\n*Salix glauca* L. (2)\n24,0–30,5 µm, MiW 27,1 µm; 50 PK, Oa\n\n*Salix glaucosericea* B. FLOD. (1)\n25,1–32,9 µm, MiW 29,6 µm; 50 PK, Oa\n\n*Salix hastata* L. (3)\n19,1–25,1 µm, MiW 21,4 µm; 50 PK, 0a\n\n*Salix hegetschweileri* HEER (2)\n24,1–31,5 µm, MiW 27,3 µm; 50 PK, 0a\n\n*Salix helvetica* VILL. (2)\n20,5–28,3 µm, MiW 23,7 µm; 50 PK, Oa\n\n*Salix herbacea* L. (2)\n17,7–25,1 µm, MiW 21,0 µm; 50 PK, Oa\n\n*Salix laggeri* WIMMER (1)\n19,2–25,1 µm, MiW 22,0 µm; 50 PK, Oa\n\n*Salix lapponum* L. (2)\n27,3–33,8 µm, MiW 30,6 µm; 50 PK, Oa\n\n*Salix mielichhoferi* SAUTER (1)\n24,4–32,2 µm, MiW 27,6 µm; 50 PK, Oa\n\n*Salix myrsinifolia* SALISB. (2)\n21,6–29,4 µm, MiW 25,2 µm; 50 PK, 0a\n\n*Salix myrtilloides* L. (2)\n17,0–21,6 µm, MiW 19,0 µm; 50 PK, 0a\n\n*Salix pentandra* L. (2)\n17,7–32,2 µm, MiW 23,5 µm; 50 PK, 0a\n\n*Salix polaris* WAHLENB. (2)\n24,1–31,5 µm, MiW 27,3 µm; 50 PK, 0a\n\n*Salix purpurea* L. (3)\n17,7–22,0 µm, MiW 19,9 µm; 50 PK, 0a\n\n*Salix repens* L. (3)\n19,1–27,6 µm, MiW 22,6 µm; 50 PK, 0a\n\n*Salix reticulata* L. (4)\n17,0–20,9 µm, MiW 18,8 µm; 50 PK, 0a\n\n*Salix retusa* L. (3)\n24,4–32,9 µm, MiW 29,2 µm; 50 PK, 0a\n\n*Salix serpillifolia* Scop. (1)\n17,4–23,0 µm, MiW 19,9 µm; 50 PK, 0a\n\n*Salix silesiaca* WILLD. (2)\n19,1–25,1 µm, MiW 22,0 µm; 50 PK, Oa\n\n*Salix starkeana* WILLD. (3)\n17,7–24,4 µm, MiW 20,1 µm; 50 PK, 0a\n\n*Salix triandra* L. (4)\n18,0–23,8 µm, MiW 20,8 µm; 50 PK, 0a\n\n*Salix viminalis* L. (3)\n17,7–28,0 µm, MiW 21,0 µm; 50 PK, Oa\n\n*Salix waldsteiniana* WILLD. (3)\n18,8–25,1 µm, MiW 22,4 µm; 50 PK, Oa"
+          }
+        }
+      ],
+      "note": "Ook onder tricolporoidate PK genoemd (colpi soms equatoriaal vernauwd)."
+    }
+  }
+}

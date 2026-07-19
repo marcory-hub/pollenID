@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug24-stephanocolpatae-impatiens",
+    "title": "24.11 *Impatiens* (Tafel 87: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1–5 µm zonder columellae; polar aanzicht langgerekt; 4–5 colpi.",
+          "outcome": {
+            "text": "24.11 *Impatiens*\n\nPK oblaat tot peroblaat (PForml 0,42–0,64; polaire as 17,5–21,3 µm). Polar aanzicht langgerekt (ÄForml 1,28–1,72). Reticulaat; brochi zonder columellae, ca. 1–5 µm; muri kronkelig. Exine 1–2 µm. 4–5 colpi (4 aan de smalle zijden); colpi 5–8 × 0,5 µm, onopvallend.\n\n*Impatiens noli-tangere* L. (3)\n37,0–46,8 µm, MiW 43,7 µm; 50 PK, 0a\n\n*Impatiens parviflora* DC. (3)\n33,3–46,3 µm, MiW 41,5 µm; 51 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

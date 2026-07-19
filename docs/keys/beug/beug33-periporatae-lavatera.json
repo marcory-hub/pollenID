@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-lavatera",
+    "title": "33.6.3 Lavatera-Typ",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "> 105 µm; porieafstand (18)20–30 µm.",
+          "outcome": {
+            "text": "33.6.3 Lavatera-Typ\n\nEchini 10–13 µm. (*Althaea hirsuta* slechts 15–20 µm porieafstand — p.p. ook bij sylvestris-Typ.)\n\n*Malva alcea* L. (2)\n111,5–140,5 µm, MiW 127,4 µm; 27 PK, Oa\n\n*Malva moschata* L. (2)\n107,5–137,5 µm, MiW 119,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

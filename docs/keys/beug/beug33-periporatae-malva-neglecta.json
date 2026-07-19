@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-malva-neglecta",
+    "title": "33.6.1 *Malva neglecta*-Typ (Tafel 109: 1–2)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK zonder echini < 100–105 µm; porieafstand 8–13 µm.",
+          "outcome": {
+            "text": "33.6.1 *Malva neglecta*-Typ\n\nEchini 7,5–10 µm (*A. officinalis* tot 12 µm). Porieafstand 8–13 µm.\n\n*Althaea officinalis* L. (2)\n74,5–94,5 µm, MiW 85,2 µm; 50 PK, 0a\n\n*Malva neglecta* WALLR. (2)\n82,5–100,5 µm, MiW 92,2 µm; 52 PK, 0a\n\n*Malva pusilla* SM. (2)\n72,0–95,5 µm, MiW 83,4 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

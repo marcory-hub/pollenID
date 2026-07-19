@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-diapensia",
+    "title": "23.13 *Diapensia lapponica* (Tafel 83: 15–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 1,5–1,8 µm; brochi 1,0–1,8(2,1) µm; columellae in helderveld duidelijk.",
+          "outcome": {
+            "text": "23.13 *Diapensia lapponica*\n\nPK meestal ruitvormig (PForml 1,10–1,27). Polarvelden klein. Colpi met duidelijk voorgeschoven equatoriale vernauwing. Exine 1,5–1,8 µm. Brochi 1,0–1,8 (max. 2,1) µm. Columellae in helderveld duidelijk, soms dubbelrijig.\n\n*Diapensia lapponica* L. (2)\n29,5–34,3 µm, MiW 31,0 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

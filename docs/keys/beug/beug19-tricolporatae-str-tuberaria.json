@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-tuberaria",
+    "title": "19.11 *Tuberaria*-groep (Tafel 51: 11–18, Tafel 52: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 2,8–3,2 µm dik.",
+          "outcome": {
+            "text": "19.11.1 *Tuberaria guttata* (Tafel 51: 11–18)\n\nPK sferoïdisch, elliptisch of ruitvormig, PForml 1,06–1,33. Polarvelden klein (PFeldI 0,19–0,23). PK striaat; valla met meridionale hoofdrichting, tot 1,0 µm breed; veel perforaties. Groep van 5 parallelle valla ≈ 5 µm breed. Poriën 5–8 µm.\n\n*Tuberaria guttata* (L.) FOURR. (5)\n40,0–62,0 µm, MiW 51,1 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Exine 3,8–4,2 µm dik.",
+          "outcome": {
+            "text": "19.11.2 *Helianthemum umbellatum* (Tafel 52: 1–4)\n\nPK bolvormig, sferoïdisch, PFormI 0,98–1,11. Polarvelden klein tot middelgroot (PFeldI 0,21–0,32). Exine 3,8–4,2 µm, endexine 0,8–1,0 µm. Poriën 5,0–6,5 µm. Sculptuur striaat-reticulaat met brochi 1,0–2,5 µm, polair reticulaat.\n\n*Helianthemum umbellatum* (L.) SPACH (2)\n47,5–55,5 µm, MiW 51,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

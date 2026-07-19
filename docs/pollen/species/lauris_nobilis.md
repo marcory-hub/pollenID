@@ -1,6 +1,6 @@
 # *Lauris nobilis*
 
-{{ pollen_gallery("lauris_nobilis") }}
+{{ gallery("lauris_nobilis") }}
 
 ## Kenmerken
 

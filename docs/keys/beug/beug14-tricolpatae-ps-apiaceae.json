@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug14-tricolpatae-ps-apiaceae.json",
+    "key": "beug14-tricolpatae-ps-apiaceae",
     "title": "14.11 Apiaceae (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 23,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -29,8 +30,8 @@
       "choices": [
         {
           "label": "PK 60-85 µm groot, Exine equatoriaal aan de IC-zijde 14-19 µm dik en met 8-10 µm lange columellae. tectum dik (Tafel 22: 9-10)",
-          "id": {
-            "name": "14.11.1 Turgenia latifolia (Blz.. 170)"
+          "outcome": {
+            "text": "14.11.1 *Turgenia latifolia* (Tafel 22: 9–10)\n\nGrootste PK van de Midden-Europese Apiaceae. A-contour golvend, recht of concaaf. I-contour sterk concaaf. Exine equatoriaal 14–19 µm, polair 3,2–5,0 µm, met dik tectum. Grootste dikte alleen in het midden van de intercolpia; naar de intercolpiumranden toe ongeveer als in het polargebied. Columellae equatoriaal 8–10 µm, polair 0,8–1,0 µm. PK interangulair.\n\n*Turgenia latifolia* (L.) HOFFM. (2)\n62,5–85,5 µm, MiW 76,2 µm; 50 PK, 0a"
           }
         },
         {
@@ -63,10 +64,11 @@
         },
         {
           "label": "columellae polair langer dan equatoriaal (Tafel 23: 1-3).",
-          "id": {
-            "name": "14.11.2 Heracleum sphondylium (Blz.. 170)",
+          "outcome": {
+            "text": "14.11.2 *Heracleum sphondylium* (Tafel 23: 1–3)\n\nPK prolaat tot perprolaat, PFormI-S 1,81–2,24. A- en I-contour recht tot zwak concaaf (ingebogen); C-zijde meestal recht. CL-index 0,41–0,65. Columellae polair 2,0–3,0 µm, equatoriaal 1,0–1,5 µm. PK circulair.\n\n*Heracleum sphondylium* L. (3)\n41,5–52,0 µm, MiW 47,4 µm; 50 PK, 0a",
             "pollen_key": "heracleum_sphondylium"
-          }
+          },
+          "pollen_key": "heracleum_sphondylium"
         }
       ]
     },
@@ -90,15 +92,16 @@
       "choices": [
         {
           "label": "columellae in het equatoriale midden 4,0-4,7 µm lang. ikontuur naar het equatoriale midden sterk ingezonken (Tafel 23: 4-6)",
-          "id": {
-            "pollen_key": "tordylium_apulum",
-            "note": "14.11.3 Tordylium apulum (Blz.. 170)"
-          }
+          "outcome": {
+            "text": "14.11.3 *Tordylium apulum* (Tafel 23: 4–6)\n\nPK perprolaat, PFormI-S 2,07–2,49; equatoriale diameter 19,0–22,5 µm. A-contour recht; tectum in equatoriale midden golvend. I-contour sterk ingebogen, in equatoriale midden recht. C-zijde recht. CL-index 0,33–0,48. Exine equatoriaal 4,2–7,2 µm, polair 2,0–2,5 µm. Columellae in equatoriale midden 4,0–4,7 µm lang en bijzonder dik, polair 0,9–1,0 µm. PK interangulair.\n\n*Tordylium apulum* L. (2)\n39,5–47,5 µm, MiW 44,5 µm; 50 PK, 0a",
+            "pollen_key": "tordylium_apulum"
+          },
+          "pollen_key": "tordylium_apulum"
         },
         {
           "label": "columellae in het equatoriale midden (1,7)2,0-3,0 µm lang, C-zijde ingezonken of ingebogen (Tafel 23: 7-9)",
-          "id": {
-            "name": "14.11.4 Caucalis platycarpos-type (Blz.. 170)"
+          "outcome": {
+            "text": "14.11.4 *Caucalis platycarpos*-type (Tafel 23: 7–9)\n\nPK perprolaat, PFormI-S 2,11–2,55. A- en I-contour in equatoriale midden sterk concaaf; tectum golvend; C-zijde meestal over de hele equatoriale lengte ingebogen. Colpus-aanzicht vaak hantevormig. Colpi kort, CL-index 0,30–0,40. Exine polair en subequatoriaal 2,2–2,8 µm, in equatoriale midden sterk verdikt (3,8–6,0 µm). Columellae in equatoriale midden tot 1,7–3,0 µm, polair/subequatoriaal slechts 0,8–1,0 µm. Poriën vormen een ca. 5 µm brede colpus transversalis. PK interangulair. Grote gelijkenis met *Scandix pecten-veneris* (S. 178) wanneer de blaasvormige poriewelving ontbreekt.\n\n*Caucalis platycarpos* L. (3)\n43,8–54,3 µm, MiW 48,5 µm; 50 PK, 0a"
           }
         }
       ]
@@ -109,15 +112,16 @@
       "choices": [
         {
           "label": "columellae subequatoriaal duidelijk langer dan polair en equatoriaal, Intercolpia hierdoor vleugelachtig verdikt (Tafel 25: 1-2)",
-          "id": {
-            "name": "14.11.5 Pimpinella saxifraga (Blz.. 172)",
+          "outcome": {
+            "text": "14.11.5 *Pimpinella saxifraga* (Tafel 25: 1–2)\n\nPK perprolaat (PFormI-S 2,01–2,42) met vleugelachtig verdikte intercolpia in het subequatoriale gebied. Exine subequatoriaal 3,8–4,5 µm (columellae 2,0 µm), in equatoriale midden 2,2–3,2 µm (columellae 1,2 µm), polair 2,1–2,5 µm (columellae 0,8 µm). C-zijde recht; I-contour concaaf (ingebogen), zelden recht. PK interangulair.\n\n*Pimpinella saxifraga* L. (2)\n32,0–38,0 µm, MiW 34,9 µm; 50 PK, 0a",
             "pollen_key": "pimpinella_saxifraga"
-          }
+          },
+          "pollen_key": "pimpinella_saxifraga"
         },
         {
           "label": "columellae in het equatoriale gebied, ten minste in het equatoriale midden, duidelijk langer (equatoriaal ten minste 1,5 µm lang en tweemaal zo lang als polair) dan polair (hier slechts 0,7-1,0 µm lang) (Tafel 23: 13-22)",
-          "id": {
-            "name": "14.11.6 Conium-type (Blz.. 172)"
+          "outcome": {
+            "text": "14.11.6 *Conium*-type (Tafel 23: 13–22)\n\nPK prolaat tot perprolaat, PFormI-S 1,77–2,78. A-contour recht of vooral in equatoriale midden concaaf. I-contour ingebogen of ingezonken, zeldzamer recht. Bij sterk ingebogen I-contour verloopt de endexine in equatoriale midden recht; hier is de exine het dikst en zijn de columellae het langst. C-zijde meestal recht. Exine equatoriaal 3,5–7,0 µm, polair 1,4–3,0 µm. Columellae equatoriaal 1,5–2,8 µm, polair 0,7–1,0 µm; quotiënt equatoriaal:polair 1,8–3,8. CL-index 0,32–0,75. PK interangulair tot circulair. Zie Beug Tabel 3 voor differentierende waarden.\n\n*Aegopodium podagraria* L. (2)\n37,0–48,0 µm, MiW 43,9 µm; 50 PK, 0a\n\n*Ammi majus* L. (2)\n28,3–35,5 µm, MiW 32,8 µm; 50 PK, 0a\n\n*Anethum graveolens* L. (2)\n27,5–37,8 µm, MiW 35,3 µm; 50 PK, 0a\n\n*Conium maculatum* L. (2)\n34,0–39,0 µm, MiW 36,9 µm; 50 PK, 0a\n\n*Falcaria vulgaris* BERNH. (3)\n26,8–32,3 µm, MiW 29,4 µm; 50 PK, 0a\n\n*Heracleum austriacum* L. (1)\n40,8–48,8 µm, MiW 45,9 µm; 50 PK, 0a\n\n*Hladnikia pastinacifolia* REICHENB. (1)\n34,3–42,5 µm, MiW 39,7 µm; 50 PK, 0a\n\n*Torilis arvensis* (HUDS.) LINK (2)\n28,3–37,5 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Petroselinum crispum* (MILLER) A.W. HILL (1)\n28,8–36,5 µm, MiW 34,1 µm; 50 PK, 0a\n\n[te verifiëren: OCR-koppeling van enkele maatregels aan soortnamen in Conium-blok; Beug S. 170–172]"
           }
         }
       ]
@@ -128,10 +132,11 @@
       "choices": [
         {
           "label": "PK 54-67 µm groot, met opvallend dik tectum (Tafel 24: 1-2)",
-          "id": {
-            "name": "14.11.7 Orlaya grandiflora (Blz.. 173)",
+          "outcome": {
+            "text": "14.11.7 *Orlaya grandiflora* (Tafel 24: 1–2)\n\nPK perprolaat, PFormI-S 2,22–2,59. A-contour recht tot zwak concaaf; I-contour meestal iets sterker ingebogen; C-zijde recht. Tectum vaak golvend, equatoriaal opvallend dik (1,0–1,5 µm). Equatoriale diameter 25,9–27,5 µm. Colpi kort, CL-index 0,45–0,51. Exine polair 2,9–3,2 µm, equatoriaal door dikker tectum en dikkere endexine 4,2–5,2 µm. Columellae polair en equatoriaal even lang. PK interangulair.\n\n*Orlaya grandiflora* (L.) HOFFM. (2)\n54,5–67,0 µm, MiW 61,8 µm; 50 PK, 0a",
             "pollen_key": "orlaya_grandiflora"
-          }
+          },
+          "pollen_key": "orlaya_grandiflora"
         },
         {
           "label": "PK niet met opvallend dik tectum",
@@ -159,14 +164,14 @@
       "choices": [
         {
           "label": "columella-laag equatoriaal 1,8-2,0 µm dik. columellae tot 1 µm dik, zeer duidelijk en contrastrijk (Tafel 23: 10-12)",
-          "id": {
-            "name": "14.11.8 Oenanthe fistulosa (Blz.. 173)"
+          "outcome": {
+            "text": "14.11.8 *Oenanthe fistulosa* (Tafel 23: 10–12)\n\nPK perprolaat, PFormI-S 2,08–2,32. Equatoriale diameter 23,0–25,0 µm. CL-index 0,81–0,87. Exine in equatoriale midden bij sterk ingezonken I-contour iets verdikt (3,9–4,8 µm), polair slechts 2,5–3,0 µm. Columellae-laag equatoriaal 1,8–2,0 µm, polair 1,0–1,2 µm; columellae contrastrijk, tot 1 µm dik. PK interangulair.\n\n*Oenanthe fistulosa* L. (2)\n48,3–60,0 µm, MiW 53,7 µm; 50 PK, 0a"
           }
         },
         {
           "label": "columella-laag equatoriaal 0,7-1,0 µm dik. columellae slechts ongeveer 0,5 µm dik, contrastarm (Tafel 24: 3-6)",
-          "id": {
-            "name": "14.11.9 Astrantia-type (Blz.. 173)"
+          "outcome": {
+            "text": "14.11.9 *Astrantia*-type (Tafel 24: 3–6)\n\nPK prolaat tot perprolaat, PFormI-S 1,72–2,70. Equatoriale diameter 20–32 µm. *A. major* perprolaat (PFormI-S 2,09–2,70). Kenmerkend: grootte (meestal > 40 tot 71 µm), hoge CL-index (0,78–0,96), vrij gelijkmatig dunne exine (meestal 2,5–3,5 µm). *Hacquetia* soms zwak striaat of rugulaat (vooral in equatoriale midden bij inbuiging van A-contour). A- en I-contour recht of in equatoriale midden iets concaaf; C-zijde recht of bij poriën zwak gewelfd. Poriën meestal equatoriaal gestrekt (2× zo lang als breed), soms ringvormig verbonden. Columellae-laag 0,7–1,0 µm; columellae ca. 0,5 µm, contrastarm. PK circulair.\n\n*Astrantia bavarica* F.W. SCHULTZ (2)\n37,5–50,8 µm, MiW 44,1 µm; 50 PK, 0a\n\n*Astrantia carniolica* JACQ. (2)\n38,0–49,0 µm, MiW 41,8 µm; 50 PK, 0a\n\n*Astrantia major* L. (4)\n47,8–71,5 µm, MiW 61,8 µm; 50 PK, 0a\n\n*Astrantia minor* L. (2)\n[te verifiëren: maten in OCR niet bij soortnaam; Beug S. 173]\n\n*Hacquetia epipactis* (SCOP.) DC. (3)\n45,0–70,5 µm, MiW 58,3 µm; 51 PK, 0a\n\n*Sanicula europaea* L. (4)\n42,0–60,5 µm, MiW 54,3 µm; 50 PK, 0a\n\n[te verifiëren: OCR-volgorde maatregels *A. major* / *A. minor* / *Hacquetia* / *Sanicula*; Beug S. 173]"
           }
         }
       ]
@@ -177,14 +182,14 @@
       "choices": [
         {
           "label": "columellae in het polaire gebied iets dikker en met grotere afstanden dan equatoriaal, PK 36-45 µm groot, equatoriale diameter 17-19 µm, CL-index 0,88-0,92, pollenvormindex-S 2,17-2,37 (Tafel 25: 3-5)",
-          "id": {
-            "name": "14.11.10 Cicuta virosa (Blz.. 173)"
+          "outcome": {
+            "text": "14.11.10 *Cicuta virosa* (Tafel 25: 3–5)\n\nPK perprolaat, equatoriaal slank elliptisch, PFormI-S 2,17–2,37. Equatoriale diameter 17–19 µm. A- en I-contour recht tot zwak concaaf. Colpi lang, CL-index 0,88–0,92. Exine equatoriaal 2,1–2,9 µm, polair 1,8–2,2 µm. Columellae overal bijna even lang (equatoriaal 0,9 µm, polair 0,8 µm); in polargebied dikker en iets verder uiteen dan equatoriaal. PK interangulair. Zeer gelijkend op *Oenanthe aquatica* en *Sium latifolium* in de verzamelgroep (daar columellae polair/equatoriaal even dik en met gelijke afstanden).\n\n*Cicuta virosa* L. (3)\n36,3–45,0 µm, MiW 41,0 µm; 50 PK, 0a"
           }
         },
         {
           "label": "columellae equatoriaal en polair gelijk dik en met gelijke afstanden of columellae zeer dun of PK met andere kenmerken (Tafel 25: 7-25, 30-36)",
-          "id": {
-            "name": "14.11.11 Verzamelgroep (Blz.. 173)"
+          "outcome": {
+            "text": "14.11.11 Verzamelgroep (S. 173) — zie `beug14-tricolpatae-ps-verzamelgroep.md`"
           }
         }
       ]
@@ -195,8 +200,8 @@
       "choices": [
         {
           "label": "C-zijde meestal convex, PK 40-65 µm groot, Exine polair en equatoriaal zonder duidelijke verschillen, 1,5-2,5 µm dik, columellae vaak onduidelijk. Equatoriaal gebied of equatoriaal midden concaaf of recht, C-zijde vaak met blaasvormig voorgewelfde porie. Akontuur in het polaire gebied aan de IC-zijde afgeschuind, aan de C-zijde afgerond (Tafel 24: 7-14)",
-          "id": {
-            "name": "14.11.12 Eryngium (Blz.. 176)"
+          "outcome": {
+            "text": "14.11.12 *Eryngium* (Tafel 24: 7–14)\n\nPK prolaat tot perprolaat, PFormI 1,45–2,24 (kleinste waarden bij *E. alpinum* alleen prolaat 1,52–1,85; grootste bij *E. maritimum* 1,91–2,26). Meestal duidelijk geknikt (boemerangachtig) door concave IC-zijde en door voorgeschoven porieregio convexe C-zijde. Exine 1,5–2,5 µm, equatoriaal overal even dik; columellae kort en dun, vaak slecht herkenbaar. CL-index per soort sterk verschillend (zie Beug Tabel 5).\n\n*Eryngium amethystinum* L. (2)\n39,8–48,9 µm, MiW 43,5 µm; 50 PK, 0a\n\n*Eryngium alpinum* L. (2)\n50,0–62,5 µm, MiW 55,9 µm; 50 PK, 0a\n\n*Eryngium campestre* L. (4)\n43,0–55,9 µm, MiW 52,5 µm; 50 PK, 0a\n\n*Eryngium maritimum* L. (3)\n56,5–65,0 µm, MiW 61,3 µm; 50 PK, 0a\n\n*Eryngium planum* L. (2)\n43,0–52,5 µm, MiW 47,1 µm; 50 PK, 0a\n\n[te verifiëren: OCR-koppeling maatregels aan *Eryngium*-soorten; Beug S. 176]"
           }
         },
         {
@@ -239,14 +244,14 @@
       "choices": [
         {
           "label": "columella-laag polair dikker dan equatoriaal (Tafel 27: 1-2)",
-          "id": {
-            "name": "14.11.13 Trochiscanthus nodiflorus (Blz.. 177)"
+          "outcome": {
+            "text": "14.11.13 *Trochiscanthes nodiflorus* (Tafel 27: 1–2)\n\nPK prolaat, PFormI-S 1,71–1,88; equatoriale diameter 13,5–15,3 µm. Omtrek elliptisch; A- en I-contour convex. CL-index 0,82–0,92. Columellae-laag equatoriaal ca. 0,5 µm, polair ca. 0,8 µm. Exine 1,2–1,8 µm. Verwisseling met *Castanea* mogelijk bij onzorgvuldige diktemeting.\n\n*Trochiscanthes nodiflorus* (VILL.) KOCH (2)\n22,5–29,5 µm, MiW 25,2 µm; 41 PK, 0a"
           }
         },
         {
           "label": "columella-laag equatoriaal dikker dan polair (Tafel 25: 35-36; Tafel 27: 5-6)",
-          "id": {
-            "name": "14.11.14 Berula erecta-groep (Blz.. 177)"
+          "outcome": {
+            "text": "14.11.14 *Berula erecta*-groep (S. 177) — zie `beug14-tricolpatae-ps-berula.md`"
           }
         }
       ]
@@ -257,10 +262,11 @@
       "choices": [
         {
           "label": "Exine polair duidelijk het dikst (Tafel 25: 26-29)",
-          "id": {
-            "name": "14.11.15 Anthriscus cerefolium (Blz.. 177)",
+          "outcome": {
+            "text": "14.11.15 *Anthriscus cerefolium* (Tafel 25: 26–29)\n\nPK meestal perprolaat, PFormI-S 1,95–2,24. Exine polair duidelijk verdikt (tot 2,4 µm) met lange, dikke columellae; subpolair en in equatoriale midden het dunst met zeer korte columellae; subequatoriaal iets verdikt. A-contour in equatoriale midden sterk ingezonken; I-contour ingezonken of recht, vaak golvend. C-zijde zwak of duidelijk jukvormig met blaasvormig gewelfde porie. CL-index 0,36–0,56. PK interangulair.\n\n*Anthriscus cerefolium* (L.) HOFFM. (3)\n30,8–38,0 µm, MiW 35,5 µm; 50 PK, 0a",
             "pollen_key": "anthriscus_cerefolium"
-          }
+          },
+          "pollen_key": "anthriscus_cerefolium"
         },
         {
           "label": "Exine polair niet het dikst",
@@ -274,8 +280,8 @@
       "choices": [
         {
           "label": "Exine subequatoriaal sterk verdikt (3,5-6,0 µm), polair en equatoriaal dunner (Tafel 26: 1-4).",
-          "id": {
-            "name": "14.11.16 Pimpinella major-type (Blz.. 178)"
+          "outcome": {
+            "text": "14.11.16 *Pimpinella major*-type (Tafel 26: 1–4)\n\nPK prolaat tot perprolaat (*P. anisum*: PFormI-S 1,75–2,23) of prolaat (*P. major*: 2,10–2,65). A-contour door sterk subequatoriaal («vleugelachtig») verdikte intercolpia in equatoriale midden concaaf; C-zijde recht met blaasvormig gewelfde porie. Poriën rondachtig of vierkant, nauwelijks met costae. Exine subequatoriaal > 3,4 µm (tot 5,8 µm), equatoriaal 2,0–3,3 µm, polair 1,7–2,5 µm. Columellae subequatoriaal tot 5,0 µm, equatoriaal tot 2,8 µm, polair tot 1 µm. CL-index *P. anisum* 0,59–0,89, *P. major* 0,55–0,69. PK interangulair.\n\n*Pimpinella anisum* L. (2)\n30,0–40,5 µm, MiW 35,7 µm; 50 PK, 0a\n\n*Pimpinella major* (L.) HUDS. (3)\n32,5–47,8 µm, MiW 38,1 µm; 51 PK, 0a"
           }
         },
         {
@@ -290,8 +296,8 @@
       "choices": [
         {
           "label": "PK 44-55 µm groot, CL-index 0,42-0,55 (Tafel 26: 5-6)",
-          "id": {
-            "name": "14.11.17 Scandix pecten-veneris (Blz.. 178)"
+          "outcome": {
+            "text": "14.11.17 *Scandix pecten-veneris* (Tafel 26: 5–6)\n\nPK perprolaat, PFormI-S 2,08–2,44. A-contour concaaf, ingezonken; tectum en endexine meestal golvend. I-contour als A-contour. C-zijde variabel: recht tot ingezonken of golvend, meestal met blaasvormig gewelfde porie (vaak zwak). Poriën equatoriaal gestrekt, ca. 3–4 µm hoog, met costae. CL-index 0,42–0,55. Exine equatoriaal 2,0–4,6 µm, polair 2,0–2,5 µm. Columellae-laag equatoriaal 0,9–1,1 µm, polair 0,8–0,9 µm. PK interangulair. Zeer gelijkend op *Caucalis platycarpos* (S. 170).\n\n*Scandix pecten-veneris* L. (2)\n44,8–54,5 µm, MiW 49,9 µm; 50 PK, 0a"
           }
         },
         {
@@ -306,14 +312,14 @@
       "choices": [
         {
           "label": "C-zijde recht (Tafel 26: 7-10)",
-          "id": {
-            "name": "14.11.18 Daucus-type (Blz.. 180)"
+          "outcome": {
+            "text": "14.11.18 *Daucus*-type (Tafel 26: 7–10)\n\nPK prolaat tot perprolaat of uitsluitend perprolaat. A- en I-contour ingebogen, ingezonken, zeldzamer recht. Door inzinking equatoriaal of in equatoriale midden is de exine hier vaak dun (korte, dunne columellae) en dunner dan subequatoriaal en/of polair. CL-index 0,43–0,95; PFormI-S 1,64–2,46 (sterk overlappend). Uitsluitend prolaat: *Meum athamanticum* (PFormI-S 1,65–1,94). PK interangulair. Blaasvormig gewelfde porie niet altijd; dan verzamelgroep (S. 173).\n\n*Athamanta cretensis* L. (2) p.p.\n36,8–44,3 µm, MiW 40,4 µm; 50 PK, 0a\n\n*Athamanta turbith* (L.) BROTH. (2)\n32,5–40,5 µm, MiW 36,5 µm; 50 PK, 0a\n\n*Cenolophium denudatum* (HORNEM.) TUTIN (2)\n29,3–34,5 µm, MiW 32,5 µm; 50 PK, 0a\n\n*Chaerophyllum hirsutum* L. (2)\n35,0–45,0 µm, MiW 41,0 µm; 50 PK, 0a\n\n*Conioselinum tataricum* HOFFM. (2)\n32,0–35,0 µm, MiW 33,3 µm; 50 PK, 0a\n\n*Daucus carota* L. (3)\n27,5–32,5 µm, MiW 31,6 µm; 50 PK, 0a\n\n*Daucus gingidium* L. (2)\n30,8–37,0 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Laser trilobum* (L.) BORKH. (2)\n32,0–40,8 µm, MiW 36,7 µm; 50 PK, 0a\n\n*Laserpitium archangelica* WULFEN (2)\n37,5–45,5 µm, MiW 41,5 µm; 50 PK, 0a\n\n*Laserpitium hispidum* BIEB. (2)\n31,0–40,0 µm, MiW 35,0 µm; 51 PK, 0a\n\n*Laserpitium latifolium* L. (2)\n34,5–43,0 µm, MiW 38,5 µm; 50 PK, 0a\n\n*Angelica palustris* (BESSER) HOFFM. (2)\n34,5–40,8 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Laserpitium siler* L. (2)\n37,0–43,0 µm, MiW 41,0 µm; 50 PK, 0a\n\n*Ligusticum lucidum* MILLER (2) p.p.\n31,0–37,0 µm, MiW 35,0 µm; 50 PK, 0a\n\n*Meum athamanticum* JACQ. (2)\n28,8–40,5 µm, MiW 35,6 µm; 50 PK, 0a"
           }
         },
         {
           "label": "C-zijde jukvormig (Tafel 26: 11-12)",
-          "id": {
-            "name": "14.11.19 Bifora-type (Blz.. 180)"
+          "outcome": {
+            "text": "14.11.19 *Bifora*-type (Tafel 26: 11–12)\n\nPK perprolaat, zeldzamer prolaat. PFormI-S overwegend > 2,00, max. ca. 2,80 (*Coriandrum sativum*); laagste waarden bij *Laserpitium halleri* (1,64–1,94). CL-index 0,38–0,68. IC-zijde ingezonken, ingebogen of recht, zelden golvend. C-zijde duidelijk jukvormig met blaasvormig gewelfde porie. Poriën equatoriaal verlengd, elliptisch tot rechthoekig, met costae. PK interangulair. Voorgeschoven poriegebied niet altijd betrouwbaar.\n\n*Aethusa cynapium* L. (3)\n22,3–29,5 µm, MiW 25,0 µm; 50 PK, 0a\n\n*Bifora radicans* M. BIEB. (2)\n29,5–35,3 µm, MiW 31,7 µm; 50 PK, 0a\n\n*Chaerophyllum temulentum* L. (2)\n25,0–34,8 µm, MiW 30,2 µm; 50 PK, 0a\n\n*Cnidium silaifolium* (JACQ.) SIMONKAI (2)\n35,0–42,5 µm, MiW 38,9 µm; 50 PK, 0a\n\n*Opopanax chironium* (L.) KOCH (2)\n28,3–37,0 µm, MiW 33,4 µm; 50 PK, 0a\n\n*Peucedanum ostruthium* (L.) KOCH (3)\n25,3–34,0 µm, MiW 29,9 µm; 50 PK, 0a\n\n*Silaum silaus* (L.) SCHINZ & THELL. (2)\n34,0–40,5 µm, MiW 36,8 µm; 50 PK, 0a\n\n*Coriandrum sativum* L. (1)\n28,8–37,3 µm, MiW 33,8 µm; 51 PK, 0a\n\n*Laserpitium halleri* CRANTZ (2)\n28,0–34,5 µm, MiW 31,1 µm; 50 PK, 0a\n\n*Myrrhis odorata* (L.) SCOP. (2)\n35,8–46,8 µm, MiW 41,2 µm; 50 PK, 0a"
           }
         }
       ]
@@ -328,8 +334,8 @@
         },
         {
           "label": "Exine polair niet dikker dan equatoriaal, C-zijde duidelijk convex, ruitvormig met of zonder voorgewelfde porieregio, IC-zijde recht of zeer zwak convex, niet jukvormig. PK hoekig (Tafel 26: 13-26)",
-          "id": {
-            "name": "14.11.20 Bupleurum, Grafia, Molopospermum (Blz.. 180)"
+          "outcome": {
+            "text": "14.11.20 *Bupleurum*, *Grafia*, *Molopospermum* (S. 180) — zie `beug14-tricolpatae-ps-bupleurum.md`"
           }
         }
       ]
@@ -344,8 +350,8 @@
         },
         {
           "label": "Polaire en subpolaire verdikking van de Exine gering, poriën equatoriaal verlengd (Tafel 27: 3-4).",
-          "id": {
-            "name": "14.11.21 Ligusticum mutellina-type (Blz.. 182)"
+          "outcome": {
+            "text": "14.11.21 *Ligusticum mutellina*-type (Tafel 27: 3–4)\n\nPK prolaat, PFormI-S > 1,60. A-contour recht; C-zijde zeer variabel (convex of recht met gewelfde, equatoriaal verlengde porie). Exine polair iets dikker dan equatoriaal. Polarvelden klein, CL-index 0,82–0,91. Afscheiding t.o.v. *Grafia golaka* en verwanten soms problematisch.\n\n*Ligusticum mutellina* (L.) CRANTZ (3)\n22,0–30,5 µm, MiW 26,2 µm; 50 PK, 0a\n\n*Ligusticum scoticum* L. (2)\n30,0–39,8 µm, MiW 34,2 µm; 50 PK, 0a"
           }
         }
       ]
@@ -356,8 +362,8 @@
       "choices": [
         {
           "label": "pollenvormindex-S 1,26-1,38, poriën equatoriaal verlengd, polaire verdikking van de Exine duidelijk (polair 2,5-3,0 µm, equatoriaal 1,5-1,8 µm), PK 23-30 µm groot (Tafel 27: 7-11)",
-          "id": {
-            "name": "14.11.22 Hydrocotyle vulgaris (Blz.. 184)"
+          "outcome": {
+            "text": "14.11.22 *Hydrocotyle vulgaris* (Tafel 27: 7–11)\n\nPK sferoïdisch, zelden zwak prolaat, PFormI 1,10–1,35, PFormI-S 1,26–1,38. C-zijde sterk ruitvormig; poriegebied niet of nauwelijks gewelfd. IC-zijde recht tot zwak convex. Omtrek in colpus-aanzicht ruitvormig. Colpi lang, CL-index 0,71–0,91. Poriën 3,0–3,5 × 4,5–6,0 µm. Exine polair 2,5–3,0 µm, equatoriaal duidelijk dunner (1,5–1,8 µm). Columellae polair ca. 1 µm, iets dikker dan equatoriaal (hier ca. 0,5 µm). PK angulair.\n\n*Hydrocotyle vulgaris* L. (5)\n23,0–30,0 µm, MiW 27,3 µm; 50 PK, 0a"
           }
         },
         {
@@ -372,14 +378,14 @@
       "choices": [
         {
           "label": "poriën meridioonaal verlengd of vierkant, PK ten minste equatoriaal hoekig (Tafel 27: 12-25)",
-          "id": {
-            "name": "14.11.23 Pleurospermum, Smyrnium, Laserpitium nitidum (Blz.. 184)"
+          "outcome": {
+            "text": "14.11.23 *Pleurospermum*, *Smyrnium*, *Laserpitium nitidum* (S. 184) — zie `beug14-tricolpatae-ps-pleurospermum.md`"
           }
         },
         {
           "label": "poriën equatoriaal verlengd, PK interhoekig (Tafel 27: 26-29)",
-          "id": {
-            "name": "14.11.24 Levisticum-type (Blz.. 186)"
+          "outcome": {
+            "text": "14.11.24 *Levisticum*-type\n\n*Levisticum officinale*: PK prolaat, PFormI-S 1,56–1,79. A- en I-contour recht tot zwak convex; C-zijde convex (zwak ruitvormig), ook recht of jukvormig, meestal met blaasvormig gewelfde porie. Poriën equatoriaal verlengd met costae. CL-index 0,47–0,57. Exine polair en subequatoriaal door langere columellae en dikkere endexine dikker (2,0–2,6 µm) dan equatoriaal (1,5–1,9 µm). Columellae alleen in verdikte zones herkenbaar. PK interangulair. Variabele pollentype.\n\n*Levisticum officinale* KOCH (2)\n25,8–34,0 µm, MiW 29,3 µm; 50 PK, 0a\n\n*Anthriscus caucalis* (Tafel 27: 26–29). PK prolaat, PFormI-S 1,47–1,74. A-contour asymmetrisch elliptisch: C-zijde zwak convex/ruitvormig met blaasvormig gewelfde porie; IC-zijde convex. I-contour parallel aan A-contour. Exine polair 1,5–2,3 µm, equatoriaal 1,0–2,0 µm. CL-index 0,54–0,69. PK interangulair. Zeer variabel; vaak moeilijk van *Bupleurum* te scheiden.\n\n*Anthriscus caucalis* M. BIEB. (3)\n18,5–28,3 µm, MiW 24,1 µm; 50 PK, 0a"
           }
         }
       ]

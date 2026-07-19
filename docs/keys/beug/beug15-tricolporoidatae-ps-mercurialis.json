@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug15-tricolporoidatae-ps-mercurialis.json",
+    "key": "beug15-tricolporoidatae-ps-mercurialis",
     "title": "15.4 Mercurialis (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,16 +16,17 @@
       "choices": [
         {
           "label": "Exine tot 2,5 µm, columellae tot 1 µm dik; equatoriale brug 3–4 µm breed; afstand der perforaties tot elkaar overwegend groter dan hun diameter (tabel 32: 9–13).",
-          "id": {
-            "name": "15.4.1 Mercurialis perennis-type"
+          "outcome": {
+            "text": "15.4.1 *Mercurialis perennis*-type (Tafel 32: 9–13)\n\nExine tot 2,5 µm; columellae tot 1 µm dik; equatoriale brug 3–4 µm breed; afstand van perforaties onderling overwegend groter dan hun diameter. PFormI 1,10–1,33. Bij *M. perennis* en *M. ovata* kunnen naburige columellae vergroeid zijn.\n\n*Mercurialis perennis* L. (2)\n24,8–30,4 µm, MiW 28,0 µm; 50 PK, 0a\n\n*Mercurialis ovata* STERNB. & HOPPE (2)\n24,0–32,5 µm, MiW 29,1 µm; 50 PK, 1a"
           }
         },
         {
           "label": "Exine tot ca. 1,3 µm, columellae tot ca. 0,5 µm dik; equatoriale brug tot 2 µm breed, afstand der perforaties in de grootte van hun diameter (tabel 32: 14–18).",
-          "id": {
-            "pollen_key": "mercurialis_annua",
-            "note": "15.4.2 Mercurialis annua"
-          }
+          "outcome": {
+            "text": "15.4.2 *Mercurialis annua* (Tafel 32: 14–18)\n\nExine tot ca. 1,3 µm; columellae tot ca. 0,5 µm dik; equatoriale brug tot 2 µm breed; afstand van perforaties ongeveer gelijk aan hun diameter. PFormI iets kleiner (1,02–1,14) dan bij het *M. perennis*-type.\n\n*Mercurialis annua* L. (2)\n20,5–25,8 µm, MiW 23,2 µm; 50 PK, 1a",
+            "pollen_key": "mercurialis_annua"
+          },
+          "pollen_key": "mercurialis_annua"
         }
       ]
     }

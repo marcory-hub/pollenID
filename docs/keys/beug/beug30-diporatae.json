@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug30-diporatae.json",
-    "title": "30 Diporatae (Beug)",
+    "key": "beug30-diporatae",
+    "title": "30. Diporatae (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 6,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 6
   },
   "start": "1",
   "steps": {
@@ -14,27 +15,28 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat, microreticulaat, retipilat of echinaat bzw. microechinaat.",
+          "label": "PK reticulaat, microreticulaat, retipilaat of echinaat resp. microechinaat.",
           "next": "2"
         },
         {
-          "label": "PK psilaat of scabraat.",
+          "label": "PK psilaat of scabra.",
           "next": "4"
         }
-      ]
+      ],
+      "note": "Diporate PK langgerekt; poriën aan de einden. Zij-aanzicht: ene lange zijde plat of bijna plat, andere gebogen (hoogte). Loodrecht daarop: spoelvormig met afgeknotte einden (breedte)."
     },
     "2": {
       "id": "2",
       "type": "step",
       "choices": [
         {
-          "label": "PK echinaat of microechinaat (Tafel 105: 1-18).",
-          "id": {
-            "name": "Campanulaceae p.p. (Blz. 449)"
+          "label": "PK echinaat of microechinaat (Tafel 105: 1–18).",
+          "outcome": {
+            "text": "Campanulaceae p.p. (S. 449) — zie `beug32-stephanoporatae-campanulaceae.md`"
           }
         },
         {
-          "label": "PK reticulaat, microreticulaat of retipilat.",
+          "label": "PK reticulaat, microreticulaat of retipilaat.",
           "next": "3"
         }
       ]
@@ -44,15 +46,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK reticulaat of microreticulaat, 50-75 µm groot (Tafel 96: 5-6).",
-          "id": {
-            "name": "Colchicum gruppe"
+          "label": "PK reticulaat of microreticulaat, 50–75 µm groot (Tafel 96: 5–6).",
+          "outcome": {
+            "text": "30.1 *Colchicum*-groep (S. 422) — zie deelsleutel."
           }
         },
         {
-          "label": "PK retipilat, 19-35 µm groot (Tafel 96: 1-4).",
-          "id": {
-            "name": "30.2 Callitriche palustris-type (Blz. 424)"
+          "label": "PK retipilaat, 19–35 µm groot (Tafel 96: 1–4).",
+          "outcome": {
+            "text": "30.2 *Callitriche palustris*-type (S. 424) — zie deelsleutel."
           }
         }
       ]
@@ -62,13 +64,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK tot ca. 17 µm groot (Tafel 120: 21-23).",
-          "id": {
-            "name": "30.3 Ficus carica (Blz. 424)"
+          "label": "PK tot ca. 17 µm groot (Tafel 120: 21–23).",
+          "outcome": {
+            "text": "30.3 *Ficus carica* (S. 424) — zie deelsleutel."
           }
         },
         {
-          "label": "PK ten minste 17-20 µm groot.",
+          "label": "PK ten minste 17–20 µm groot.",
           "next": "5"
         }
       ]
@@ -78,13 +80,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "Poriën met kräftigem annulus, Anuli 4,0-4,8 µm breit en 3,8-4,6 µm hoch.",
-          "id": {
-            "name": "Myriophyllum alterniflorum (Blz. 448)"
+          "label": "Poriën met krachtige anulus; anuli 4,0–4,8 µm breed en 3,8–4,6 µm hoog.",
+          "outcome": {
+            "text": "*Myriophyllum alterniflorum* (S. 448) — zie `beug32-stephanoporatae-myriophyllum-alterniflorum.md`"
           }
         },
         {
-          "label": "Poriën zonder annulus.",
+          "label": "Poriën zonder anulus.",
           "next": "6"
         }
       ]
@@ -94,15 +96,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Porendurchmesser 5-7 µm, PK 20-28 µm groot (Tafel 95: 13-15).",
-          "id": {
-            "name": "30.4 Cytinus hypocistis (Blz. 426)"
+          "label": "Poriediameter 5–7 µm; PK 20–28 µm groot (Tafel 95: 13–15).",
+          "outcome": {
+            "text": "30.4 *Cytinus hypocistis* (S. 426) — zie deelsleutel."
           }
         },
         {
-          "label": "Porendurchmesser 2,5-3 µm, PK (17)26-35 µm groot (Tafel 95: 16-17).",
-          "id": {
-            "name": "30.5 Itea (Blz. 426)"
+          "label": "Poriediameter 2,5–3 µm; PK (17)26–35 µm groot (Tafel 95: 16–17).",
+          "outcome": {
+            "text": "30.5 *Itea* (S. 426) — zie deelsleutel."
           }
         }
       ]

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-hedera",
+    "title": "22.6 *Hedera helix* (Tafel 70: 11–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK >30 µm; poriën equatoriaal verlengd; margo; grootste brochi minstens 2–3 µm.",
+          "outcome": {
+            "text": "22.6 *Hedera helix*\n\nPK zwak sferoïdisch tot zwak prolaat (PForml 1,30–1,43). Intercolpia concaaf of afgeplat. Reticulum vaak heterobrochaat (grote brochi 2–5 µm). Margines duidelijk, microreticulaat tot psilaat. Poriën equatoriaal gestrekt, meestal rechthoekig, 4–5,5 × 9,5–11 µm. Exine 1,9–2,2 µm, endexine ca. 1 µm.\n\n*Hedera helix* L. (4)\n31,9–42,1 µm, MiW 36,7 µm; 50 PK, 0a\n\nAansluitend *Parthenocissus* (Vitaceae): groter, duidelijk prolaat, ronde poriën, kleinere brochi.\n\n*Parthenocissus tricuspidata* (SIEBOLD & Zucc.) PLANCHON (1)\n40,3–54,3 µm, MiW 47,8 µm; 50 PK, 2a\nPForml 1,5–1,7; brochi 1,5–2,0 µm (polar tot 2,5 µm); poriën rond 5–8 µm met costae; columellae duidelijk dubbelrijig.\n\n*Parthenocissus quinquefolia* (L.) PLANCHON (2)\n41,0–54,3 µm, MiW 48,9 µm; 50 PK, 2a\nAls vorige, maar brochi max. tot 1,5 µm; poriën 4–6 µm; equatoriaal aanzicht vaak apiculaat."
+          }
+        }
+      ]
+    }
+  }
+}

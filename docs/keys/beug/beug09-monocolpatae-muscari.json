@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug09-monocolpatae-muscari.json",
-    "title": "9.14 Muscari (Beug)",
+    "key": "beug09-monocolpatae-muscari",
+    "title": "9.14 *Muscari* (Tafel 10: 3)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "PK tot 43 µm groot.",
-          "id": {
-            "name": "9.14.1 Muscari neglectum-type. (Muscari botryoides (L.) Mill. (2): 30,5–42"
+          "outcome": {
+            "text": "9.14.1 *Muscari neglectum*-type\n\nColpen langer dan de PK: de Colpen eindigen op de proximale zijde (Tafel 10: 3). Grootste Brochi (tot 3 µm) proximaal of equatoriaal. Reticulum hier heterobrochaat (kleine Brochi 0,8–1,0 µm). Exine 1,5–2,0 µm dik. Columellae goed herkenbaar, bij grote Brochi vaak duplicolumellaat. PK om 40–45 µm niet voor nadere determinatie gebruiken.\n\n*Muscari botryoides* (L.) MILL. (2)\n30,5–42,5 µm, MiW 36,9 µm; 50 PK, 0a\n\n*Muscari neglectum* GUSS. ex TEN. (3)\n22,0–38,5 µm, MiW 29,7 µm; 100 PK, 0a"
           }
         },
         {
-          "label": "PK groter dan 43 µm (tabel 10: 3).",
-          "id": {
-            "name": "9.14.2 Muscari comosum-type. (Muscari comosum (L.) Mill. (2): 44,5–57"
+          "label": "PK groter dan 43 µm (Tafel 10: 3).",
+          "outcome": {
+            "text": "9.14.2 *Muscari comosum*-type\n\n*Muscari comosum* (L.) MILL. (2)\n44,5–57,0 µm, MiW 48,9 µm; 50 PK, 0a\n\n*Muscari tenuiflorum* TAUSCH (2)\n45,0–57,8 µm, MiW 52,3 µm; 50 PK, 0a"
           }
         }
       ]

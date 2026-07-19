@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-cynoglossum",
+    "title": "28.5 *Cynoglossum* (Tafel 94: 1–2)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Smalle equatoriale ringvoor tussen porate en niet-porate colpi.",
+          "outcome": {
+            "text": "28.5 *Cynoglossum*\n\nPK sferoïdisch tot prolaat (PForml 1,2–1,7). 6 of 8 colpi (3 of 4 poraat). Porate colpi korter en iets breder. Poriën ca. 1,8 µm, met costae. Ringvoor ca. 0,4 µm breed verbindt porate en niet-porate colpi. Exine psilaat, 0,7–0,8 µm.\n\n*Cynoglossum germanicum* JACQUIN (2)\n9,5–11,8 µm, MiW 10,8 µm; 50 PK, 0a\n\n*Cynoglossum officinale* L. (2)\n10,3–12,5 µm, MiW 11,4 µm; 50 PK, Oa\n\n*Cynoglossum creticum* MILLER (1)\n10,5–12,8 µm, MiW 11,6 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

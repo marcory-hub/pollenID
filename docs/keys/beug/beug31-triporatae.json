@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "key": "beug31-triporatae",
+    "title": "31. Triporatae (Beug)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 23
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat, reticulaat, microechinaat of echinaat én gemmaat.",
+          "next": "2"
+        },
+        {
+          "label": "PK scabraat of psilaat.",
+          "next": "8"
+        }
+      ],
+      "note": "Triporatae en Stephanoporatae overlappen o.a. bij Campanulaceae, Betulaceae, Moraceae, Urticaceae, Ulmaceae (*Celtis*) en Cannabinaceae. Zie ook Stephanoporatae S. 441."
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat, microechinaat of echinaat én gemmaat.",
+          "next": "3"
+        },
+        {
+          "label": "PK reticulaat, 35–47 µm groot, met (6)7–10 µm grote poriën.",
+          "next": "7"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine ca. 1,5 µm dik; poriën met costae.",
+          "outcome": {
+            "text": "Campanulaceae (S. 449) — zie `beug32-stephanoporatae-campanulaceae.md`"
+          }
+        },
+        {
+          "label": "Exine 5–10 µm dik; poriën zonder costa.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endexine loopt wigvormig uit naar de apertuurranden (Tafel 44: 3–6).",
+          "outcome": {
+            "text": "*Dipsacus*, *Cephalaria* (S. 240) — zie `beug17-ttt-ech-dipsacaceae.md`"
+          }
+        },
+        {
+          "label": "Endexine is tot aan de porieranden aanwezig en even dik.",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tectum ongeveer even dik als de columellae-laag (1–2 µm) (Tafel 96: 7–11).",
+          "outcome": {
+            "text": "31.1 *Knautia* (S. 428) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Columellae-laag 8–9 µm dik, meervoudig dikker dan het tectum.",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK echinaat en microechinaat (Tafel 97: 11–12, Tafel 98: 1–3).",
+          "outcome": {
+            "text": "31.2 *Scabiosa graminifolia* (S. 430) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK gemmaat en echinaat (Tafel 97: 5–10).",
+          "outcome": {
+            "text": "31.3 *Scabiosa argentea* (S. 430) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 2–3 µm; poriën zonder costae; exine 2–3 µm dik (Tafel 97: 1–4).",
+          "outcome": {
+            "text": "31.4 *Phaseolus* (S. 430) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Brochi 1,2–1,8 µm; poriën met krachtige costae; exine 1,5 µm dik (Tafel 98: 4–6).",
+          "outcome": {
+            "text": "31.5 *Cucumis melo* (S. 430) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën met vestibulum.",
+          "next": "9"
+        },
+        {
+          "label": "Poriën zonder vestibulum; als gebieden rond de poriën vlak conisch zijn (*Myrica*, Juglandaceae p.p.), eindigt de endexine onder de randen van die verbredingen.",
+          "next": "15"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met conische of halfkogelige vestibula; exine van de vestibula aan de binnenzijde sterk korrelig (Onagraceae).",
+          "next": "10"
+        },
+        {
+          "label": "PK met klein vestibulum; exine van het vestibulum aan de binnenzijde niet opvallend korrelig.",
+          "next": "14"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vestibula vrijwel bolvormig; PK groter dan 100 µm tot 145 µm (Tafel 98: 7–10).",
+          "outcome": {
+            "text": "31.6 *Oenothera biennis* (S. 432) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK kleiner; als groter dan 100 µm, dan vestibula conisch.",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 56–100(120) µm groot (Tafel 98: 11–12).",
+          "outcome": {
+            "text": "31.7 *Epilobium* (S. 432) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK 30–42(57) µm.",
+          "next": "12"
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK in polair aanzicht driehoekig door sterk conische vestibula (Tafel 99: 1–8).",
+          "outcome": {
+            "text": "31.8 *Ludwigia palustris* (S. 433) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK in polair aanzicht rond met opgezette ronde of halfkogelige vestibula (Tafel 99: 9–12).",
+          "outcome": {
+            "text": "31.9 *Circaea* (S. 433) — zie deelsleutel. Vergelijk *Carpinus betulus* (S. 446)."
+          }
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tectum en endexine scheiden zich aan de basis van het vestibulum; tectum in het vestibulumgebied verdikt (Tafel 99: 13–16).",
+          "outcome": {
+            "text": "31.10 *Betula* (S. 433) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Endexine eindigt aan de basis van het vestibulum; tectum in het vestibulumgebied niet verdikt (Tafel 99: 17–19).",
+          "outcome": {
+            "text": "31.11 *Ostrya*-type (S. 434) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 9–13 µm, psilaat (Tafel 101: 1–6); interangulair; exine polar iets verdikt, hier columellae herkenbaar; indien angulair: exine polar niet verdikt en columellae niet herkenbaar (vgl. *Ficus*, S. 424).",
+          "outcome": {
+            "text": "31.12 *Corrigiola litoralis* (S. 434) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK groter dan 15 µm.",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën groter dan 3 µm.",
+          "next": "17"
+        },
+        {
+          "label": "Poriën kleiner.",
+          "next": "18"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën 5–6 µm, zonder duidelijke costae of anulus; PK 20–30 µm; equatoriaal aanzicht vierkant (Tafel 101: 30–32).",
+          "outcome": {
+            "text": "31.13 *Vicia lathyroides* (S. 434) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Poriën 8–10 µm, met krachtige 3–4 µm brede anulus (costae); PK sphaeroïdisch tot oblaat (Tafel 100: 1–2).",
+          "outcome": {
+            "text": "31.14 *Cucumis sativus* (S. 436) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sphaeroïdisch; P/E ca. 1,0.",
+          "next": "19"
+        },
+        {
+          "label": "PK oblaat; indien sphaeroïdisch, dan P/E 0,75–0,90.",
+          "next": "21"
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tectum dikker dan de endexine; PK 28–40 µm; columellae-laag duidelijk; anulus aanwezig (Tafel 103: 1–4).",
+          "outcome": {
+            "text": "*Celtis* (S. 446) — zie `beug32-stephanoporatae-celtis.md`"
+          }
+        },
+        {
+          "label": "Tectum niet dikker dan de endexine; PK 15–37 µm; columellae-laag onduidelijk of niet herkenbaar; anulus-achtige omranding van de poriën aanwezig of ontbrekend.",
+          "next": "20"
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulus of anulus-achtige porieomranding in aanzicht (vooral fasecontrast) duidelijk, door zwakke verhoging en vervolgens inkromming/inzinking van de porierand; PK 20–32 µm (Tafel 101: 7–16).",
+          "outcome": {
+            "text": "31.15 Cannabinaceae (S. 436) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Indien anulus-achtig, dan alleen door zwak opbuigen van de porieomrandingen (Tafel 101: 17–29).",
+          "outcome": {
+            "text": "31.16 Urticaceae, Moraceae (S. 436) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 40–67 µm; poriën iets buiten de equator; exine 2,2–2,8 µm met dik tectum (Tafel 100: 3–8).",
+          "outcome": {
+            "text": "31.17 *Carya* (S. 438) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK kleiner dan (41)35 µm; poriën in de equator; exine dunner dan 2,0 µm.",
+          "next": "22"
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK op de polarvelden met indeukingen of met groeven (pseudocolpen).",
+          "next": "23"
+        },
+        {
+          "label": "Polarvelden glad.",
+          "next": "24"
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 23–31 µm; polarvelden en interporia met 5–7 µm grote indeukingen (Tafel 100: 9–13).",
+          "outcome": {
+            "text": "31.18 *Engelhardia* (S. 440) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK 16–21 µm; polarvelden met parallel en boogvormig verlopende pseudocolpen (Tafel 100: 14–18).",
+          "outcome": {
+            "text": "31.19 *Platycarya strobilacea* (S. 440) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porieregio zwak breed conisch opgezet; fasecontrastpatroon van het exine-oppervlak met in aanzicht duidelijk ronde eenheden (Tafel 102: 1–4).",
+          "outcome": {
+            "text": "31.20 *Myrica gale* (S. 440) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Porieregio niet conisch; fasecontrastpatroon met meer vlekvormige, ook iets langgerekte sculptuurelementen (Tafel 102: 5–7).",
+          "outcome": {
+            "text": "31.21 *Corylus* (S. 441) — zie deelsleutel."
+          }
+        }
+      ]
+    }
+  }
+}

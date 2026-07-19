@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-plantago-maritima",
+    "title": "33.2.7 *Plantago maritima*-Typ (Tafel 107: 15–18)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Platte anulus, gelobd/uit verrucae; (5)6–10 poriën.",
+          "outcome": {
+            "text": "33.2.7 *Plantago maritima*-Typ\n\n(5)6–10 poriën; 3,5–5,0 µm; korrelige opercula. Anuli plat, 1,5–3,0 µm. Verrucae (1,0)1,5–4,5 µm. Exine 1,0–1,2 µm.\nPorieaantallen: *P. alpina* 7–10; *P. maritima* 5–8; subsp. *serpentina* 6–9.\n\n*Plantago alpina* L. (9)\n28,0–35,0 µm, MiW 32,2 µm; 50 PK, 0a\n\n*Plantago maritima* L. (6)\n27,0–32,3 µm, MiW 29,0 µm; 50 PK, 0a\n\n*Plantago maritima* L. subsp. *serpentina* (ALL.) ARCHANG. (3)\n29,3–40,0 µm, MiW 34,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

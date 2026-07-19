@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-illecebrum",
+    "title": "33.19.1 *Illecebrum verticillatum* (Tafel 118: 8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Interporia smaller dan poriën; 6–9 poriën zonder anulus.",
+          "outcome": {
+            "text": "33.19.1 *Illecebrum verticillatum*\n\nPoriën 2,0–3,0 µm; interporium 4–6 µm; exine 1,8–2,0 µm.\n\n*Illecebrum verticillatum* L. (1)\n12,0–15,5 µm, MiW 14,3 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

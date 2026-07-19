@@ -1,6 +1,6 @@
 # *Epilobium angustifolium* (wilgenroosje)
 
-{{ pollen_gallery("epilobium_angustifolium") }}
+{{ gallery("epilobium_angustifolium") }}
 
 ## Kenmerken
 

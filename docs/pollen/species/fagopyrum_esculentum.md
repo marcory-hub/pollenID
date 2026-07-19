@@ -1,6 +1,6 @@
 # *Fagopyrum esculentum* (boekweit)
 
-{{ pollen_gallery("fagopyrum_esculentum") }}
+{{ gallery("fagopyrum_esculentum") }}
 
 ## Kenmerken
 

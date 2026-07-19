@@ -1,6 +1,6 @@
 # *Centaurea cyanus*
 
-{{ pollen_gallery("centaurea_cyanus") }}
+{{ gallery("centaurea_cyanus") }}
 
 ## Kenmerken
 

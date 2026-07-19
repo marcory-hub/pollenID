@@ -1,6 +1,6 @@
 # *Colchicum autumnale* (herfsttijloos)
 
-{{ pollen_gallery("colchicum_autumnale") }}
+{{ gallery("colchicum_autumnale") }}
 
 ## Kenmerken
 

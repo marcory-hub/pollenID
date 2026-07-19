@@ -1,6 +1,6 @@
 # *Tilia-type (Linde species)*
 
-{{ pollen_gallery("tilia_platyphyllos") }}
+{{ gallery("tilia_platyphyllos") }}
 
 ## Kenmerken
 

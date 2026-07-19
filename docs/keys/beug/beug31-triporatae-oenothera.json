@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-oenothera",
+    "title": "31.6 *Oenothera biennis* (Tafel 98: 7–10)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vestibula vrijwel bolvormig; PK > 100 µm tot 145 µm.",
+          "outcome": {
+            "text": "31.6 *Oenothera biennis*\n\nZoals *Epilobium*, maar groter (> 100 µm). Vestibula eerder bolvormig (basisdiameter 50 µm en meer). Tectum relatief dun; met columellae-laag vaak blazig-wulstig van de endexine afgeheven (quasi vesiculaat). Poriën equatoriaal verlengd (tot 27 × 10 µm). Endexine in onderste deel vestibula verdikt, binnenzijde korrelig.\n\n*Oenothera biennis* L. (3)\n103,0–143,8 µm, MiW 128,4 µm; 51 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

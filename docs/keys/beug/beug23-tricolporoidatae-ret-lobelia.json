@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-lobelia",
+    "title": "23.6 *Lobelia dortmanna* (Tafel 80: 10–15)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microreticulaat; muri smaller dan lumina; PK 25–32 µm, meestal ruitvormig.",
+          "outcome": {
+            "text": "23.6 *Lobelia dortmanna*\n\nPK sferoïdisch tot prolaat (PForml 1,09–1,49), ruitvormig tot elliptisch. Polarvelden klein (PFeldI 0,12–0,17). Brochi in helderveld niet herkenbaar; lumina ca. 0,5 µm. Columellae meestal alleen in fasecontrast. Exine 1,0–1,5 µm. Colpi equatoriaal vernauwd.\n\n*Lobelia dortmanna* L. (4)\n25,5–31,8 µm, MiW 28,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

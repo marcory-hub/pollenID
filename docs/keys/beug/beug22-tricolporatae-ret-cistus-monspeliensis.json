@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-cistus-monspeliensis",
+    "title": "22.3 *Cistus monspeliensis* (Tafel 68: 14–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Als *C. salvifolius*, maar polarvelden klein; muri scabraat (niet echinaat).",
+          "outcome": {
+            "text": "22.3 *Cistus monspeliensis*\n\nPK sferoïdisch, zeer gelijkend op *C. salvifolius*, maar polarvelden klein (PFeldI 0,17–0,24), brochi slechts 1,0–2,5(3,0) µm, muri scabraat (niet echinaat). Scabrate elementen in bovenaanzicht tot 1 µm. Poriën 6–8 µm, bij equatoriaal verlengde 3–6 × 7–10 µm. Exine 3–4 µm.\n\n*Cistus monspeliensis* L. (3)\n42,0–53,3 µm, MiW 47,0 µm; 50 PK, 2a"
+          }
+        }
+      ]
+    }
+  }
+}

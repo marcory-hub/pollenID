@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-herniaria",
+    "title": "33.19 *Herniaria*, *Paronychia*, *Illecebrum* (Tafel 118: 8–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 3
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Interporia smaller dan poriediameter; 6–9 poriën zonder anulus (Tafel 118: 8).",
+          "outcome": {
+            "text": "33.19.1 *Illecebrum verticillatum* — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Andere kenmerken.",
+          "next": "2"
+        }
+      ],
+      "note": "PK 11–21 µm; psilaat; met columellae-laag; (4)6–11 poriën."
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "8–11 poriën; exine 2,0–2,2 µm (*Paronychia*) (Tafel 118: 9–11).",
+          "outcome": {
+            "text": "33.19.2 *Paronychia* — zie deelsleutel."
+          }
+        },
+        {
+          "label": "*Herniaria*.",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën met 2–3 µm brede fijn scabrate anulus; 6–8 poriën (Tafel 118: 12–20).",
+          "outcome": {
+            "text": "33.19.3 *Herniaria alpina* — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Poriën zonder anulus; 4–8 poriën (Tafel 118: 21–25).",
+          "outcome": {
+            "text": "33.19.4 *Herniaria glabra*-type — zie deelsleutel."
+          }
+        }
+      ]
+    }
+  }
+}

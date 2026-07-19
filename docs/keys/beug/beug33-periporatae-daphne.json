@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-daphne",
+    "title": "33.13.1 *Daphne* (Tafel 114: 18–20)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "20–38 µm; poriën onscherp; reticulaat + microechinaat.",
+          "outcome": {
+            "text": "33.13.1 *Daphne*\n\nBrochi 1,5–3,0 µm; exine 2,5–4,5 µm; poriën 1–2 µm.\n\n*Daphne alpina* L. (2)\n22,0–34,3 µm, MiW 30,2 µm; 50 PK, 0a\n\n*Daphne blagayana* FREYER (1)\n26,0–32,5 µm, MiW 28,9 µm; 50 PK, 0a\n\n*Daphne cneorum* L. (2)\n21,8–27,8 µm, MiW 25,5 µm; 50 PK, 0a\n\n*Daphne laureola* L. (3)\n30,8–38,0 µm, MiW 34,4 µm; 51 PK, 0a\n\n*Daphne mezereum* L. (3)\n25,3–32,0 µm, MiW 29,4 µm; 50 PK, Oa\n\n*Daphne oleoides* SCHREB. (2)\n25,0–31,5 µm, MiW 29,9 µm; 50 PK, Oa\n\n*Daphne petraea* LEYBOLD (2)\n21,0–30,0 µm, MiW 26,8 µm; 50 PK, 0a\n\n*Daphne striata* TRATT. (2)\n20,5–30,0 µm, MiW 26,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

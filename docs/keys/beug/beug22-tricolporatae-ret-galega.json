@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-galega",
+    "title": "22.31.1 *Galega officinalis* (Tafel 77: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriën meridionaal verlengd; PK 15–20 µm.",
+          "outcome": {
+            "text": "22.31.1 *Galega officinalis*\n\nPK 15–19 µm (Beug: kleinste Fabaceae hier). Poriën meridionaal verlengd.\n\n*Galega officinalis* — maten in hoofdtekst: 15–19 µm. [te verifiëren: geen aparte MiW-regel in bijlage; alleen grootteklasse in proza]"
+          }
+        }
+      ]
+    }
+  }
+}

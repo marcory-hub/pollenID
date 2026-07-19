@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-aesculus-octandra",
+    "title": "19.3 *Aesculus octandra* (Tafel 48: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK sferoïdisch tot prolaat, PForml 1,26–1,37. Polarvelden klein tot middelgroot (PFeldI 0,15–0,28). Exine 2,0–2,2 µm, endexine 1,0–1,2 µm, duidelijk dikker dan het tectum.",
+          "outcome": {
+            "text": "19.3 *Aesculus octandra*\n\nValla transversaal, schuin en meridionaal, niet beperkt tot het equatoriale gebied. Naburige valla vaak vernet; PK daarom striaat-microreticulaat. Poriën rondachtig, 5,0–6,0 µm groot.\n\n*Aesculus octandra* MARSH. (2)\n30,1–36,3 µm, MiW 33,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

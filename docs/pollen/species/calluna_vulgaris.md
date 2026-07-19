@@ -1,6 +1,6 @@
 # *Calluna vulgaris* (struikheide)
 
-{{ pollen_gallery("calluna_vulgaris") }}
+{{ gallery("calluna_vulgaris") }}
 
 ## Kenmerken
 

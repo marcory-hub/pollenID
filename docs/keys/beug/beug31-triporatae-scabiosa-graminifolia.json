@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-scabiosa-graminifolia",
+    "title": "31.2 *Scabiosa graminifolia* (Tafel 97: 11–12, Tafel 98: 1–3)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echinaat én microechinaat; columellae-laag 8–9 µm.",
+          "outcome": {
+            "text": "31.2 *Scabiosa graminifolia*\n\nPolair driehoekig met ingezonken poriën; oblaat tot zwak sphaeroïdisch; P/E 0,61–0,84. Polaire as 60–77 µm. Dimorf echinaat. Grote echini 3,0–3,5 µm; kleine ca. 1 µm. Poriën 10–12 µm. Exine meestal 10–13 µm; endexine 2,0–2,5 µm; tectum tot 1 µm; columellae-laag 8–9 µm.\n\n*Scabiosa graminifolia* (2)\n81,3–110,0 µm, MiW 101,5 µm; 50 PK, 0a, Ä\n[te verifiëren: auteursnaam ontbreekt in OCR]"
+          }
+        }
+      ]
+    }
+  }
+}

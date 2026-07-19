@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug31-triporatae-ludwigia",
+    "title": "31.8 *Ludwigia palustris* (Tafel 99: 1–8)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polair driehoekig door sterk conische vestibula.",
+          "outcome": {
+            "text": "31.8 *Ludwigia palustris*\n\nFeitelijk tricolporaat met grote poriën aan vestibula-einden en smalle, contrastarme colpen (ca. 1,5–2× poriediameter); hier bij Triporatae omdat colpen fossiel moeilijk zijn. PK psilaat; polair driehoekig; equatoriaal bolvormig met opgezette vestibula. P/E zonder vestibula 0,94–1,12. Polaire as 24,0–27,5 µm. Vestibula conisch, basis 10–16 µm, hoogte 2,5–6,0 µm. Exine 2,0–2,5 µm.\n\n*Ludwigia palustris* (L.) ELLIOT (4)\n30,0–38,0 µm, MiW 34,1 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

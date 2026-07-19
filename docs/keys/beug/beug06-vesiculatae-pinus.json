@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "key": "beug06-vesiculatae-pinus",
+    "title": "6.3 *Pinus* (Abb. 5a–f, Abb. 6–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "*Pinus cembra*-type (Haploxylon): aan de ventrale (distale) zijde van het PMT een ten opzichte van de luchtzakbreedte (a) langere rechte aanhechtingslijn (b); quotiënt a/b dichter bij 1. Vuistregel: bij PMT langer dan 55 µm maximale a/b 1,6; bij kleinere PK per 5 µm PMT-lengte deze grens met 0,1 laten dalen. Absolute luchtzakbreedte vaak ≥ 50 µm (Abb. 6–7).",
+          "outcome": {
+            "text": "6.3.1 *Pinus cembra*-type\n\n*Pinus cembra* L. (1)\n73,8–99,0 µm, MiW 84,4 µm; 100 PK, 0a\nPMT: 48,8–66,2 µm, MiW 56,5 µm; 100 PK"
+          }
+        },
+        {
+          "label": "*Pinus sylvestris*-type: PK met kleiner PMT en groter quotiënt a/b (Sylvestris–Mugo–Nigra-gebied in Abb. 7A); luchtzakbreedte meestal onder de cembra-grenzen. PK met a/b nabij de grens én luchtzakbreedte 47–50 µm niet eenduidig bepaalbaar.",
+          "outcome": {
+            "text": "6.3.2 *Pinus sylvestris*-type\n\n*Pinus peuce* GRISEBACH (1)\n71,1–96,3 µm, MiW 82,0 µm; 50 PK, 0a\n\n*Pinus sylvestris* L. (3), 2 herkomsten:\n62,2–83,7 µm, MiW 73,5 µm; 100 PK, 0a\nPMT: 43,7–58,8 µm, MiW 51,2 µm; 100 PK\n59,5–80,0 µm, MiW 68,7 µm; 100 PK, 0a\n\n*Pinus mugo* TURRA s.str., 2 herkomsten:\n63,8–87,0 µm, MiW 75,5 µm; 100 PK, 0a\n62,2–76,2 µm, MiW 69,2 µm; 100 PK, 0a\nPMT: 41,2–57,8 µm, MiW 52,2 µm; 100 PK\n\n*Pinus nigra* F.J. ARNOLD (2)\n62,5–83,3 µm, MiW 73,3 µm; 100 PK, 0a\nPMT: 44,8–58,8 µm, MiW 51,4 µm; 100 PK\n\n*Pinus pinea* L. (1)\n58,0–82,5 µm, MiW 67,3 µm; 50 PK, 0a\n\n*Pinus leucodermis* ANTOINE (2)\n64,8–100,0 µm, MiW 76,5 µm; 37 PK, 0a\n\n*Pinus halepensis* MILL. (3)\n71,8–101,7 µm, MiW 80,5 µm; 50 PK, 0a\n\n*Pinus maritima* POIR. (2)\n82,2–113,8 µm, MiW 96,0 µm; 50 PK, 0a\n\nKlein-Aziatische en Noord-Amerikaanse soorten:\n\n*Pinus brutia* TEN. (1)\n75,0–94,3 µm, MiW 84,3 µm; 50 PK, 0a\n\n*Pinus banksiana* LAMBERT (1)\n53,3–69,5 µm, MiW 61,3 µm; 50 PK, 0a\n\n*Pinus contorta* DOUGLAS (1)\n65,3–82,8 µm, MiW 73,6 µm; 50 PK, 0a\n\n*Pinus strobus* L. (1)\n66,3–88,5 µm, MiW 75,4 µm; 50 PK, 0a\n\n*Pinus rigida* MILLER (1)\n77,8–100,3 µm, MiW 86,6 µm; 50 PK, 0a\n\nBij *P. rigida* en *P. strobus* komen overgangsvormen naar het *Pinus cembra*-type voor."
+          }
+        }
+      ]
+    }
+  }
+}

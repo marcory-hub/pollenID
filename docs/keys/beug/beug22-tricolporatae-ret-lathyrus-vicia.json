@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-lathyrus-vicia",
+    "title": "22.31.7 *Lathyrus*–*Vicia*-type (Beug)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Brontekst breekt af na inleiding; geen soortenlijst in bijlage.",
+      "choices": [
+        {
+          "label": "Suprareticulum deels zwak en atypisch fijnmazig; moeilijk plaatsbare vormen tussen *Lathyrus*- en *Vicia*-type.",
+          "outcome": {
+            "text": "22.31.7 *Lathyrus*–*Vicia*-type\n\nVangt moeilijk in te delen pollen op en verbetert zo de determinatie van typisch gevormde *Vicia*-soorten."
+          }
+        }
+      ]
+    }
+  }
+}

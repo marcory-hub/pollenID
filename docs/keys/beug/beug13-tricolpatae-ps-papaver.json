@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug13-tricolpatae-ps-papaver.json",
-    "title": "13.36 Papaver rhoeas-groep (Beug)",
+    "key": "beug13-tricolpatae-ps-papaver",
+    "title": "13.36 *Papaver rhoeas*-groep (Tafel 20: 12–23)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Endexine glad of vooral nabij de intercolpium-randen rissig (tabel 20: 12–18).",
-          "id": {
-            "name": "13.36.1 Papaver rhoeas-type"
+          "label": "Endexine glad of vooral nabij de Intercolpium-randen rissig (Tafel 20: 12–18).",
+          "outcome": {
+            "text": "13.36.1 *Papaver rhoeas*-type\n\n*Papaver alpinum* L. (2)\n19,1–30,0 µm, MiW 24,6 µm; 50 PK, 0a\n\n*Papaver dubium* L. (4)\n24,5–34,3 µm, MiW 30,5 µm; 52 PK, 0a\n\n*Papaver hybridum* L. (3)\n25,0–30,2 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Papaver radicatum* ROTTB. (2)\n20,6–41,0 µm, MiW 35,7 µm; 33 PK, 0a\n\n*Papaver rhoeas* L. (6)\n24,5–31,8 µm, MiW 28,7 µm; 50 PK, 0a\n\n*Papaver somniferum* L. (3)\n27,0–35,0 µm, MiW 32,3 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Endexine in hoekige stukken verdeeld (tabel 20: 19–23).",
-          "id": {
-            "name": "13.36.2 Meconopsis cambrica"
+          "label": "Endexine in hoekige stukken verdeeld (Tafel 20: 19–23).",
+          "outcome": {
+            "text": "13.36.2 *Meconopsis cambrica*\n\n*Meconopsis cambrica* (L.) VIG. (2)\n27,0–35,8 µm, MiW 30,7 µm; 50 PK, 0a"
           }
         }
       ]

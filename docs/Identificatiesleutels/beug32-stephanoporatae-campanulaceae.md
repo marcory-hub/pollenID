@@ -1,4 +1,4 @@
-# 32.11 Campanulacea (Beug)
+# 32.11 Campanulaceae (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug32-stephanoporatae-campanulaceae.json"></div>
 

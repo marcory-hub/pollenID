@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug10-syncolpatae.json",
-    "title": "10. Syncolpatae (Beug)",
+    "key": "beug10-syncolpatae",
+    "title": "10. Syncolpatae",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 14,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 14
   },
   "start": "1",
   "steps": {
@@ -14,11 +15,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK spirapertuurt, met schroefvormig verlopende colpi.",
+          "label": "PK spiraperturaat, met schroefvormig verlopende Colpen.",
           "next": "2"
         },
         {
-          "label": "colpi niet spirapertuurt.",
+          "label": "Colpen niet spiraperturaat.",
           "next": "5"
         }
       ]
@@ -32,10 +33,9 @@
           "next": "3"
         },
         {
-          "label": "PK psilaat of scabraat, endo-microreticulaat (tabel 11: 4–5, fig. 19c–d).",
-          "id": {
-            "name": "10.1 Berberis vulgaris (Blz... 114)",
-            "pollen_key": "berberis_vulgaris"
+          "label": "PK psilaat of scabraat, endo-microreticulaat (Tafel 11: 4–5, Abb. 19c–d).",
+          "outcome": {
+            "text": "10.1 *Berberis vulgaris* (Tafel 11: 4–5; Abb. 19c–d)\n\nPK spiraperturaat, sferoïdisch, Colpen met 1–2 schroefwindingen. Intercolpia tot 15 µm breed. Exine psilaat of zwak scabraat, duidelijk gestructureerd (endo-microreticulaat).\n\n*Berberis vulgaris* L. (4)\n30,2–42,5 µm, MiW 37,7 µm; 50 PK, 1a"
           }
         }
       ]
@@ -45,13 +45,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 63–94 µm groot, intercolpia 10–15 µm breed (tabel 11: 6).",
-          "id": {
-            "name": "10.2 Crocus biflorus-type (Blz... 114)"
+          "label": "PK 63–94 µm groot, Intercolpia 10–15 µm breed (Tafel 11: 6).",
+          "outcome": {
+            "text": "10.2 *Crocus biflorus*-type (Tafel 11: 6)\n\nPK spiraperturaat, sferoïdisch, in equatoriaal aanzicht met 4–5 Intercolpia van elk 10–15 µm breed. Exine 1,5–2,0 µm dik, echinaat, met Columellae. Echini max. 1,5 µm lang, meestal ca. 1 µm en 1,2–1,5 µm dik, vanaf de basis toegespitst. Schroefverloop van de Colpen onregelmatig.\n\n*Crocus biflorus* MILL. (1)\n66,2–89,3 µm, MiW 78,7 µm; 50 PK, 2a\n\n*Crocus reticulatus* BIEB. (1)\n63,3–94,5 µm, MiW 79,9 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK 26–64 µm groot, intercolpia smaller dan 10 µm.",
+          "label": "PK 26–64 µm groot, Intercolpia smaller dan 10 µm.",
           "next": "4"
         }
       ]
@@ -61,15 +61,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK in equatoriaal aanzicht met 7 of meer intercolpia, columellae duidelijk, echini ca. 1,5 µm lang.",
-          "id": {
-            "name": "10.3 Aphyllanthes monspeliensis (Blz... 114)"
+          "label": "PK in equatoriaal aanzicht met 7 of meer Intercolpia, Columellae duidelijk, Echini ca. 1,5 µm lang.",
+          "outcome": {
+            "text": "10.3 *Aphyllanthes monspeliensis*\n\nPK spiraperturaat, sferoïdisch, echinaat, in equatoriaal aanzicht met Intercolpia minstens 6–7 µm breed. Schroefverloop van de Colpen onregelmatig, vaak onderbroken. Echini meestal 1,5 µm lang, vanaf de basis toegespitst. Exine tot 2 µm dik, met Columellae dikker dan 0,5 µm.\n\n*Aphyllanthes monspeliensis* L. (1)\n26,6–64,1 µm, MiW 30,3 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK in equatoriaal aanzicht met 4–5 intercolpia, columellae onduidelijk of afwezig, echini tot 1 µm lang (tabel 11: 7–9, fig. 19a–b).",
-          "id": {
-            "name": "10.4 Eriocaulon septangulare (Blz... 114)"
+          "label": "PK in equatoriaal aanzicht met 4–5 Intercolpia, Columellae onduidelijk of ontbrekend, Echini tot 1 µm lang (Tafel 11: 7–9, Abb. 19a–b).",
+          "outcome": {
+            "text": "10.4 *Eriocaulon septangulare* (Tafel 11: 7–9; Abb. 19a–b)\n\nPK spiraperturaat, sferoïdisch, in equatoriaal aanzicht met 4–5 Intercolpia van elk ca. 5–7 µm breed. Schroefverloop van de Colpen onregelmatig. Exine 1,5–2,0 µm dik, echinaat, Columellae onduidelijk, dunner dan 0,5 µm of niet herkenbaar. Echini hoogstens 1 µm lang, vanaf de basis toegespitst.\n\n*Eriocaulon septangulare* WITH. (1)\n26,6–38,9 µm, MiW 33,7 µm; 50 PK, 0a"
           }
         }
       ]
@@ -79,9 +79,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK trichotomocolpaat: PK aan de distale zijde met 3 colpi, die aan de distale pool tot een drie-armige apertuur verbonden zijn, aan de proximale zijde zonder aperturen (tabel 11: 10); PK reticulaat (vergelijk eventueel ook *Thesium*).",
-          "id": {
-            "name": "10.5 Simethis planifolia (Blz... 115)"
+          "label": "PK trichotomocolpaat: aan de distale zijde 3 Colpen die aan de distale pool tot een driearmige apertuur verbonden zijn; proximaal zonder aperturen (Tafel 11: 10); PK reticulaat (vgl. eventueel ook *Thesium*).",
+          "outcome": {
+            "text": "10.5 *Simethis planifolia* (Tafel 11: 10)\n\nPK trichotomocolpaat, in polair aanzicht driehoekig. Distaal 3 Colpen die vanuit equatoriaal naar de distale pool lopen en daar samenkomen. Exine 1,0–1,5 µm dik, reticulaat. Brochi ± 1 µm groot, zonder Columellae.\n\n*Simethis planifolia* (VAND.) GG. (1)\n24,1–36,4 µm, MiW 30,3 µm; 50 PK, 0a"
           }
         },
         {
@@ -95,11 +95,11 @@
       "type": "step",
       "choices": [
         {
-          "label": "De colpi gliederen de Exine in hoekige of ronde respectievelijk ovale velden.",
+          "label": "De Colpen verdelen de Exine in hoekige of ronde respectievelijk ovale velden.",
           "next": "7"
         },
         {
-          "label": "colpi anders gerangschikt.",
+          "label": "Colpen anders gerangschikt.",
           "next": "8"
         }
       ]
@@ -109,15 +109,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "De Exine is in 5–10(12) ronde of ovale velden opgedeeld, die door syncolpaat verbonden colpi omgeven zijn (tabel 12: 1–3).",
-          "id": {
-            "name": "10.6 Mahonia (Blz... 115)"
+          "label": "Exine in 5–10(12) ronde of ovale velden, omgeven door syncolpaat verbonden Colpen (Tafel 12: 1–3).",
+          "outcome": {
+            "text": "10.6 *Mahonia* (Tafel 12: 1–3)\n\nPK in omtrek rondachtig. Exine in 5–10(12) ronde tot elliptische velden (Intercolpia), gescheiden door 1–2 µm brede Colpen. Intercolpium-randen ingekromd. Exine reticulaat met Brochi tot 2 µm, Lumina ca. 0,8–1,2 µm en brede Muri. Plaatselijk overgang naar Tectum perforatum. Exine 1,8–2,0 µm dik.\n\n*Mahonia aquifolium* (PURSH) NUTT. (2)\n40,8–53,0 µm, MiW 46,5 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "De Exine is in vierhoekige of vijfhoekige velden opgedeeld, die door syncolpaat verbonden colpi omgeven zijn (tabel 12: 4).",
-          "id": {
-            "name": "10.7 Pseudofumaria (Corydalis) lutea (Blz... 115)"
+          "label": "Exine in vierhoekige of vijfhoekige velden, omgeven door syncolpaat verbonden Colpen (Tafel 12: 4).",
+          "outcome": {
+            "text": "10.7 *Pseudofumaria lutea* (syn. *Corydalis lutea*) (Tafel 12: 4)\n\nPK kogelrond, Colpen syncolpaat tot vierhoeken (dan in totaal 12 Colpen) of vijfhoeken gerangschikt; zelden slechts 6 Colpen. Colpen smal. Tectum fossulaat, Columellae-laag niet herkenbaar. Exine ca. 2 µm dik. Soms zijn niet alle Colpen syncolpaat met elkaar verbonden.\n\n*Pseudofumaria lutea* (L.) BORKH. (2)\n41,0–57,8 µm, MiW 48,8 µm; 50 PK, 0a"
           }
         }
       ]
@@ -127,13 +127,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK als driezijdige pyramide gevormd, ca. 20–25 µm groot, kanten en hoeken van de pyramide psilaat, vlakken reticulaat met tot 4 µm grote brochi, drie-armige respectievelijk driehoekige aperturen op 3 hoeken van de pyramide (fig. 5: 12–17).",
-          "id": {
-            "name": "Thesium (Blz... 62)"
+          "label": "PK als driezijdige piramide, ca. 20–25 µm; randen en hoeken psilaat, vlakken reticulaat met Brochi tot 4 µm; driearmige of driehoekige aperturen op 3 hoeken (Abb. 5: 12–17).",
+          "outcome": {
+            "text": "*Thesium* (S. 62)"
           }
         },
         {
-          "label": "PK niet als driezijdige pyramide gevormd.",
+          "label": "PK niet als driezijdige piramide gevormd.",
           "next": "9"
         }
       ]
@@ -143,9 +143,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 14–17 µm groot, microreticulaat, heteropolair met een toegespitst en een concaaf poolgebied (hier colpi syncolpaat).",
-          "id": {
-            "name": "10.8 Antirrhinum bellidifolium (Blz... 115)"
+          "label": "PK 14–17 µm groot, microreticulaat, heteropolair met een toegespitst en een concaaf polair gebied (hier Colpen syncolpaat).",
+          "outcome": {
+            "text": "10.8 *Anarrhinum bellidifolium*\n\nPK tricolpaat-syncolpaat, sferoïdisch (PFormI 0,95–1,21), heteropolair met een concaaf en een toegespitst polair gebied. Op het concave polaire gebied zijn de Colpen syncolpaat; op het toegespitste polaire gebied een klein polarveld. Colpen met equatoriale vernauwing. Exine ca. 0,8 µm dik, Brochi ca. 0,5 µm, Columellae in aanzicht niet herkenbaar.\n\n*Anarrhinum bellidifolium* (L.) DESF. (2)\n14,0–17,0 µm, MiW 15,1 µm; 50 PK, 0a"
           }
         },
         {
@@ -159,13 +159,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK dicolpaat-syncolpaat (tabel 11: 15–17).",
-          "id": {
-            "name": "10.9 Pedicularis palustris-type (Blz... 115)"
+          "label": "PK dicolpaat-syncolpaat (Tafel 11: 15–17).",
+          "outcome": {
+            "text": "10.9 *Pedicularis palustris*-type (Tafel 11: 15–17)\n\nPK dicolpaat-syncolpaat, sferoïdisch tot prolaat, met een meridiaan verlopende, duidelijk ingezonken ringvoor. De twee Intercolpia kunnen zich in de polaire gebieden gedeeltelijk van elkaar losmaken; dan schuitvormig en vaak iets ten opzichte van elkaar verschoven. Exine psilaat, zonder Columellae. Intercolpium-randen ingereten of korrelig opgelost, zeldzamer glad. Soms is de ringvormige Colpus aan één of beide polen onderbroken.\n\n*Pedicularis aspleniifolia* FLOERKE (1)\n21,6–32,0 µm, MiW 26,3 µm; 50 PK, 1a\n\n*Pedicularis barrelieri* RCHB. (1)\n20,2–28,1 µm, MiW 23,6 µm; 50 PK, 1a\n\n*Pedicularis comosa* L. (1)\n17,3–23,0 µm, MiW 20,7 µm; 50 PK, 1a\n\n*Pedicularis elongata* A.KERN. (1)\n16,2–28,4 µm, MiW 24,3 µm; 50 PK, 1a\n\n*Pedicularis exaltata* BESSER (1)\n14,4–23,0 µm, MiW 19,2 µm; 50 PK, 1a\n\n*Pedicularis foliosa* L. (2)\n17,5–25,0 µm, MiW 21,3 µm; 50 PK, 0a\n\n*Pedicularis gyroflexa* VILL. (1)\n23,4–29,5 µm, MiW 26,5 µm; 50 PK, 1a\n\n*Pedicularis hacquetii* GRAF (1)\n17,0–22,5 µm, MiW 20,4 µm; 50 PK, 0a\n\n*Pedicularis hirsuta* L. (1)\n23,0–30,2 µm, MiW 25,8 µm; 50 PK, 1a\n\n*Pedicularis lapponica* L. (1)\n18,7–29,9 µm, MiW 24,8 µm; 60 PK, 1a\n\n*Pedicularis oederi* VAHL (2)\n17,5–25,8 µm, MiW 21,6 µm; 50 PK, 0a\n\n*Pedicularis palustris* L. (2)\n22,0–29,5 µm, MiW 25,3 µm; 50 PK, 0a\n\n*Pedicularis portenschlagii* SAUT. (1)\n18,0–33,1 µm, MiW 26,8 µm; 50 PK, 1a\n\n*Pedicularis recutita* L. (1)\n19,1–35,6 µm, MiW 22,6 µm; 50 PK, 1a\n\n*Pedicularis raetica* A.KERN. (1)\n24,5–35,5 µm, MiW 30,5 µm; 51 PK, 0a\n\n*Pedicularis rosea* WULF. (1)\n20,9–29,2 µm, MiW 25,2 µm; 50 PK, 1a\n\n*Pedicularis rostrato-capitata* CRANTZ (3)\n24,3–34,5 µm, MiW 29,1 µm; 50 PK, 0a\n\n*Pedicularis rostrato-spicata* CRANTZ (2)\n23,0–32,5 µm, MiW 27,5 µm; 50 PK, 0a\n\n*Pedicularis sylvatica* L. (2)\n30,0–40,3 µm, MiW 36,1 µm; 50 PK, 0a\n\n*Pedicularis sudetica* WILLD. (2)\n17,0–22,5 µm, MiW 19,9 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK tricolpaat-syncolpaat, tricolporaat-syncolpaat of met meer dan 4 colpi.",
+          "label": "PK tricolpaat-syncolpaat, tricolporaat-syncolpaat of met meer dan 4 Colpen.",
           "next": "11"
         }
       ]
@@ -175,10 +175,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK rugulaat (tabel 11: 11–12).",
-          "id": {
-            "name": "10.10 Nymphoides peltata (Blz... 116)",
-            "pollen_key": "nymphoides_peltata"
+          "label": "PK rugulaat (Tafel 11: 11–12).",
+          "outcome": {
+            "text": "10.10 *Nymphoides peltata* (Tafel 11: 11–12)\n\nPK tricolpaat-syncolpaat, meestal oblaat, PFormI 0,49–0,75, in polair aanzicht driehoekig. Exine tot 2 µm dik, rugulaat. Sculptuurelementen ca. 0,8 µm breed en 2–10 µm lang, recht, ongeregeld. Columellae-laag aanwezig; Columellae duidelijk, afzonderlijk en in kleine groepen. Apicaalveld driehoekig, tot 17 µm groot, rugulaat. Soms slechts aan één zijde een apicaalveld; daar dan niet syncolpaat.\n\n*Nymphoides peltata* (S.G.GMEL.) KUNTZE (2)\n45,3–62,0 µm, MiW 52,6 µm; 50 PK, 0a"
           }
         },
         {
@@ -196,9 +195,9 @@
           "next": "13"
         },
         {
-          "label": "PK sferoïdisch tot prolaat, psilaat, indien met apicale velden, vergelijk *Primula farinosa*-type.",
-          "id": {
-            "name": "10.11 Pedicularis verticillata-type (Blz... 116)"
+          "label": "PK sferoïdisch tot prolaat, psilaat; indien met apicaalveld, vgl. *Primula farinosa*-type.",
+          "outcome": {
+            "text": "10.11 *Pedicularis verticillata*-type\n\nPK tricolpaat-syncolpaat. PFormI vaak kleiner dan 1,0. Exine psilaat, knap 1 µm dik. Intercolpium-randen onregelmatig ingereten of korrelig opgelost, zeldzamer glad. Bij *P. oederi* ook dicolpaat-syncolpate PK gevonden.\n\n*Pedicularis verticillata* L. (2)\n16,3–22,5 µm, MiW 19,6 µm; 50 PK, 0a"
           }
         }
       ]
@@ -208,14 +207,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 25–34 µm groot, oblaat, zonder apicale velden (tabel 11: 13–14).",
-          "id": {
-            "pollen_key": "loranthus_europaeus",
-            "note": "10.12 Loranthus europaeus (Blz... 116)"
+          "label": "PK 25–34 µm groot, oblaat, zonder apicaalveld (Tafel 11: 13–14).",
+          "outcome": {
+            "text": "10.12 *Loranthus europaeus* (Tafel 11: 13–14)\n\nPK tricolpaat-syncolpaat, in polair aanzicht driehoekig met concave Intercolpia, oblaat (PFormI 0,52–0,61). PK in het equatoriaalvlak gebogen (één convexe en één platte of zwak concave zijde). Exine tot 2 µm dik, naar het equatoriaalgebied van de Colpen dunner (tot 1 µm). Endexine ca. 1 µm dik. PK scabraat, sculptuurelementen tot 1 µm, in aanzicht onregelmatig; Columellae dun en kort. Zonder apicaalvelden.\n\n*Loranthus europaeus* JACQ. (2)\n25,3–33,8 µm, MiW 29,7 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK < 20 µm, indien groter, dan met driehoekig apicale velden (tabel 11: 20).",
+          "label": "PK < 20 µm; indien groter, dan met driehoekig apicaalveld (Tafel 11: 20).",
           "next": "14"
         }
       ]
@@ -225,15 +223,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK peroblaat, zelden oblaat, met korte colpi transversales (tabel 11: 18–19).",
-          "id": {
-            "name": "10.13 Myrtus communis (Blz... 117)"
+          "label": "PK peroblaat, zelden oblaat, met korte Colpi transversales (Tafel 11: 18–19).",
+          "outcome": {
+            "text": "10.13 *Myrtus communis* (Tafel 11: 18–19)\n\nPK tricolporaat-syncolpaat, peroblaat, zeldzamer oblaat. Exine psilaat tot scabraat, zonder Columellae. In polair aanzicht driehoekig. Poolas ca. 7–8 µm. Apicaalvelden beiderzijds, ca. 3 µm, scabraat en meestal concaaf. Colpen equatoriaal met elk een ca. 5 µm lange en 1–2 µm brede Colpus transversalis.\n\n*Myrtus communis* L. (2)\n14,4–17,3 µm, MiW 16,0 µm; 50 PK, 3a"
           }
         },
         {
-          "label": "PK oblaat, zonder colpi transversales, hoogstens equatoriaal met korte onderbrekingen van de colpi (tabel 11: 20–21).",
-          "id": {
-            "name": "10.14 Primula farinosa-type (Blz... 117)"
+          "label": "PK oblaat, zonder Colpi transversales, hoogstens equatoriaal met korte onderbrekingen van de Colpen (Tafel 11: 20–21).",
+          "outcome": {
+            "text": "10.14 *Primula farinosa*-type (Tafel 11: 20–21)\n\nPK tricolpaat-syncolpaat, psilaat, in polair aanzicht driehoekig, sferoïdisch. Apicaalvelden 3–4 µm, niet gesculpteerd, met Operculum. Bij *Primula farinosa* en *P. stricta* door heterostylie twee pollengrootten: kleine PK 8–11 µm; grote PK ca. 30 µm (kleine vormen: *P. farinosa*; grote: *P. stricta*). Vergelijkingsmateriaal van *Cortusa matthioli* bevatte alleen kleine PK.\n\n*Primula farinosa*: kleine PK oblaat, PFormI 0,50–0,72. Apicaalvelden 1,5–2,0 µm. Equatoriaalgebied van de Colpen iets uitstekend, hier eventueel zwak poroïde verhoudingen. Exine 0,7–0,9 µm dik; Tectum en Endexine eventueel herkenbaar, Columellae niet.\n\n*Primula farinosa* L. (3)\n9,3–11,8 µm, MiW 10,8 µm; 50 PK, 0a\n\n*Primula stricta* HORN. (2)\n29,3–38,8 µm; 20 PK, 6a\n\n*Cortusa matthioli* L. (2)\n14,3–16,5 µm, MiW 15,7 µm; 50 PK, 0a"
           }
         }
       ]

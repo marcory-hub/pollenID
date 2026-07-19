@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-opuntia",
+    "title": "33.12 *Opuntia* (Tafel 115: 9–11)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "100–145 µm; grote ingezonken poriën; dikwandig.",
+          "outcome": {
+            "text": "33.12 *Opuntia*\n\nPoriën rond 15–22 µm of langwerpig tot 43 × 25 µm. Brochi 2–6 µm. Exine midden interporium tot 11 µm.\n\n*Opuntia vulgaris* MILL. (2)\n99,5–142,5 µm, MiW 122,9 µm; 52 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-bryonia",
+    "title": "22.12 *Bryonia* (Tafel 71: 16–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden middelgroot; perreticulaat; brochi 1–1,5(2) µm.",
+          "outcome": {
+            "text": "22.12 *Bryonia*\n\nPK sferoïdisch tot prolaat (PForml *B. alba* 0,99–1,19; *B. dioica* 1,13–1,53). Polarvelden middelgroot (PFeldI 0,23–0,28). Perreticulaat; brochi 1–1,5 µm (*B. dioica* soms tot 2 µm). Exine 1,8–2 µm; endexine dikker dan tectum. Poriën 8–10 µm. Colpi onvolledig marginat (margo ca. 3,5 µm equatoriaal, ca. 1 µm brochi).\n\n*Bryonia alba* L. (3)\n44,6–53,8 µm, MiW 48,3 µm; 50 PK, 0a\n\n*Bryonia dioica* JACQ. (3)\n45,0–54,1 µm, MiW 49,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

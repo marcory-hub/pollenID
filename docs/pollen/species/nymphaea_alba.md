@@ -1,6 +1,6 @@
 # *Nymphaea alba* (waterlelie)
 
-{{ pollen_gallery("nymphaea_alba") }}
+{{ gallery("nymphaea_alba") }}
 
 ## Kenmerken
 

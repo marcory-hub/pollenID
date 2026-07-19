@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-medicago-lupulina",
+    "title": "23.12.3 *Medicago lupulina*-type (Tafel 83: 7–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Reticulaat-rugulaat; wulstige muri; polarvelden meestal zonder sculptuur.",
+          "outcome": {
+            "text": "23.12.3 *Medicago lupulina*-type\n\nPForml variabel per soort. Exine 1,0–1,5 µm. Lumina 0,5–1,5 µm; muri wulstig ca. 0,5–1,0 µm.\n\n*Medicago lupulina* L. (3)\n26,2–38,2 µm, MiW 31,4 µm; 50 PK, 0a\n\n*Medicago minima* (L.) L. (3)\n25,6–35,0 µm, MiW 30,4 µm; 50 PK, 0a\n\n*Medicago orbicularis* (L.) BARTAL. (2)\n29,0–38,6 µm, MiW 34,8 µm; 12 PK, 3a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-plantago-coronopus",
+    "title": "33.2.6 *Plantago coronopus*-Typ (Tafel 107: 10–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Gesloten, duidelijke anulus; (5)6–8 poriën.",
+          "outcome": {
+            "text": "33.2.6 *Plantago coronopus*-Typ\n\n(5)6–8 poriën; (2,2)3,0–4,5 µm; korrelige opercula. Anuli duidelijk, 1,7–2,5 µm breed. Verrucae 1,0–2,0 µm. Exine 1,0–1,2 µm.\n\n*Plantago coronopus* L. (2)\n24,0–29,5 µm, MiW 27,5 µm; 50 PK, 0a\n\n*Plantago holosteum* SCOP. (2)\n25,3–32,3 µm, MiW 29,2 µm; 56 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

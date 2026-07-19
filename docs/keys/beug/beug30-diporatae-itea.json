@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug30-diporatae-itea",
+    "title": "30.5 *Itea* (Tafel 95: 16–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Poriediameter 2,5–3 µm; PK (17)26–35 µm.",
+          "outcome": {
+            "text": "30.5 *Itea*\n\nPK psilaat; hoogte 15–17 µm, breedte 17–19 µm. Poriën 2,5–3,0 µm, gladde of onregelmatige randen (kunnen per PK verschillen). Exine 1–1,6 µm dik; columellae niet herkenbaar. Nabij poriën endexine korrelig opgelost.\n\n*Itea virginica* L. (2)\n25,8–35,3 µm, MiW 29,6 µm; 50 PK, 0a\n\n*Itea japonica* OLIVER: PK slechts ca. 17–23 µm; poriediameter 1,0–1,5 µm.\n[te verifiëren: geen MiW/steekproef in Beug-tekst]"
+          }
+        }
+      ]
+    }
+  }
+}

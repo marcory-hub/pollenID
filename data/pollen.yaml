@@ -125,21 +125,21 @@ acer_campestre:
     tribe:
     genus:
   size:
-    size_smallest: 32 µm
-    size_largest: 37 µm
-    height_px: 88
-  pollen_class_beug:
+    size_smallest: 32.4 µm
+    size_largest: 37.3 µm
+    height_px: 93
+  pollen_class_beug: 18 Tricolpatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 18.4 Acer
   pollen_features:
-    shape: rond tot driekantig, afhankelijk van de ligging
+    shape: rondachtig tot licht driehoekig, sferoïd tot licht oblaat
     sculpture: striaat
-    sculpture_visibility:
+    sculpture_visibility: lm_poor
     aperture: tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
     polarity: 0.79
     pe_ratio: 0.26
-    pollen-note:
+    pollen-note: Beug Acer (16 S, 20 D); PoFormI ca. 0.79 (0.73-0.86); PolFeldI ca. 0.26 (0.19-0.31); PK in equatoriale aanzicht vaak gekield; monade, isopolair
   flowering_time:
     start: 5
     end: 6
@@ -248,9 +248,9 @@ acer_negundo:
   pollen_features:
     shape: ongeveer rond
     sculpture: striaat, rugulaat
-    sculpture_visibility:
+    sculpture_visibility: lm_poor
     aperture: tricolpaat
-    aperture_visibility:
+    aperture_visibility: lm_good
     ornamentation:
     ornamentation_visibility:
     polarity:
@@ -348,7 +348,7 @@ acer_palmatum:
   is_secondary_contributor:
 acer_platanoides:
   name:
-    latin_name: Acer Platanoides
+    latin_name: Acer platanoides
     dutch_name: Noorse esdoorn
   classification:
     order:
@@ -357,21 +357,21 @@ acer_platanoides:
     tribe:
     genus:
   size:
-    size_smallest: 30 µm
-    size_largest: 34 µm
-    height_px: 85
-  pollen_class_beug:
+    size_smallest: 31.3 µm
+    size_largest: 34.9 µm
+    height_px: 87
+  pollen_class_beug: 18 Tricolpatae mit striaten, striat-reticulaten oder rugulaten Skulpturen, 18.4 Acer
   pollen_features:
-    shape: rond tot licht driehoekig, sferoid tot optisch gering oblaat
+    shape: rond tot licht driehoekig, sferoïd tot optisch licht oblaat
     sculpture: striaat
     sculpture_visibility:
     aperture: tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen licht korrelig geornamenteerd
     ornamentation_visibility:
     polarity: 0.85
-    pe_ratio: 0.20z
-    pollen-note:
+    pe_ratio: 0.20
+    pollen-note: Beug Acer (16 S, 20 D); PoFormI ca. 0.85 (0.83-0.86); PolFeldI ca. 0.20 (0.15-0.24); monade, isopolair
   flowering_time:
     start: 4
     end: 4
@@ -395,7 +395,7 @@ acer_platanoides:
       kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_2.png
-      kind: by_taxonz
+      kind: by_taxon
       source: by_taxon
     - path: assets/images/by-taxon/acer_platanoides/acer_platanoides_3.png
       kind: by_taxon
@@ -8153,20 +8153,20 @@ echium_vulgare:
   pollen_features:
     shape: rond, ei- tot maiskorrelvormig, duidelijk prolaat
     sculpture: fijn reticulaat
-    sculpture_visibility:
+    sculpture_visibility: em_only
     aperture: tricolporaat; poren dichter bij de bredere pool
-    aperture_visibility:
+    aperture_visibility: licht reticulaat
     ornamentation:
     ornamentation_visibility:
     polarity: heteropolair
     pe_ratio: duidelijk prolaat
     pollen-note: Beug 22.20 Echium; dunne exine
   flowering_time:
-    start:
-    end:
+    start: 5
+    end: 9
   value:
-    nectar_value:
-    pollen_value:
+    nectar_value: 4
+    pollen_value: 4
   note:
     note_plant:
     note_honey:
@@ -17900,7 +17900,7 @@ salix_caprea:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note: Ook waterwilg. Morphologie uit Gallerie-referentie.
+    pollen-note: Ook waterwilg. Morphologie uit PollenGalerie-referentie.
   flowering_time:
     start:
     end:

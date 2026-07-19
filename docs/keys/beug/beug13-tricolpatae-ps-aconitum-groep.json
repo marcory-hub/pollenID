@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug13-tricolpatae-ps-aconitum-groep.json",
-    "title": "13.4 Aconitum-groep (Beug)",
+    "key": "beug13-tricolpatae-ps-aconitum-groep",
+    "title": "13.4 *Aconitum*-groep (Tafel 13: 4–6, 10)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 2,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
   },
   "start": "1",
   "steps": {
@@ -14,13 +15,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "pollenvormindex > 1,30 (bis ca. 1,80), Indien kleiner, dan PK meestal über 28 µm groot",
+          "label": "PFormI > 1,30 (tot ca. 1,80); indien kleiner, dan PK meestal groter dan 28 µm.",
           "next": "2"
         },
         {
-          "label": "pollenvormindex bis 1,20 (1,30), PK 17-28 µm groot (Tafel 13: 4-6)",
-          "id": {
-            "name": "13.4.1 Aquilegia-type"
+          "label": "PFormI tot 1,20 (1,30), PK 17–28 µm groot (Tafel 13: 4–6).",
+          "outcome": {
+            "text": "13.4.1 *Aquilegia*-type (Tafel 13: 4–6)\n\nPK psilaat tot scabraat (fasecontrast). Sferoïdisch, PFormI meestal 1,00–1,30, niet onder 1,00. Polarvelden middelgroot. Exine polair 1,8–2,3 µm (equatoriaal 0,9–1,8 µm), polair altijd dikker door dikkere Endexine en langere Columellae. Equatoriaal zijn Columellae zelfs in fasecontrast hoogstens onduidelijk.\n\n*Aquilegia alpina* L. (2)\n20,5–25,0 µm, MiW 22,9 µm; 50 PK, 0a\n\n*Aquilegia atrata* W.D.KOCH (1)\n18,0–23,8 µm, MiW 20,8 µm; 50 PK, 1a\n\n*Aquilegia thalictrifolia* SCHOTT & KOTSCHY (1)\n18,0–25,2 µm, MiW 22,4 µm; 50 PK, 1a\n\n*Aquilegia einseliana* F.W.SCHULTZ (1)\n19,1–25,6 µm, MiW 22,6 µm; 50 PK, 1a\n\n*Aquilegia vulgaris* L. (2)\n16,9–24,1 µm, MiW 20,8 µm; 50 PK, 1a"
           }
         }
       ]
@@ -30,15 +31,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae äquatorial en subäquatorial sterk verkürzt en reduziert, meestal in Aufsicht niet herkenbaar (Tafel 13: 10)",
-          "id": {
-            "name": "13.4.2 Aconitum-type"
+          "label": "Columellae equatoriaal en subequatoriaal sterk verkort en gereduceerd, meestal in aanzicht niet herkenbaar (Tafel 13: 10).",
+          "outcome": {
+            "text": "13.4.2 *Aconitum*-type (Tafel 13: 10)\n\nPK psilaat, prolaat tot sferoïdisch, PFormI meestal > 1,30 tot minstens 1,60 (bij *A. degenii* subsp. *paniculatum* 1,09–1,36). Polarvelden middelgroot (PFeldI 0,25–0,33). Colpen max. 4–6 µm breed, grof korrelig bekleed. Exine polair ± kapvormig verdikt: polair 2,0–3,2 µm (equatoriaal 1,2–1,4 µm). Buiten de polarvelden Columellae in aanzicht niet of niet duidelijk herkenbaar.\n\n*Aconitum anthora* L. (1)\n24,8–32,0 µm, MiW 28,2 µm; 50 PK, 1a\n\n*Aconitum lycoctonum* L. (5)\n29,8–38,0 µm, MiW 34,7 µm; 50 PK, 0a\n\n*Aconitum napellus* L. (3)\n26,6–38,9 µm, MiW 32,7 µm; 60 PK, 1a\n\n*Aconitum degenii* GAYER subsp. *paniculatum* (ARCANG.) MUCHER (2)\n24,7–32,0 µm, MiW 27,5 µm; 50 PK, 0a\n\n*Aconitum septentrionale* KOELLE (2)\n25,6–33,8 µm, MiW 30,4 µm; 50 PK, 1a\n\n*Aconitum variegatum* L. (2)\n24,5–32,0 µm, MiW 28,3 µm; 50 PK, 1a\n\nNon vidi: *A. tauricum* WULFEN, *A. pilipes* (REICHENB.) GAYER, *A. plicatum* KOHLER ex RCHB."
           }
         },
         {
-          "label": "columellae äquatorial en subäquatorial in Aufsicht gut herkenbaar",
-          "id": {
-            "name": "13.4.3 Consolida-type"
+          "label": "Columellae equatoriaal en subequatoriaal in aanzicht goed herkenbaar.",
+          "outcome": {
+            "text": "13.4.3 *Consolida*-type\n\nColumellae ook buiten de polarvelden in aanzicht duidelijk herkenbaar, ten minste in fasecontrast. Overige kenmerken in hoofdzaak als *Aconitum*-type.\n\n*Consolida ajacis* (L.) SCHUR (1)\n31,0–36,4 µm, MiW 33,9 µm; 50 PK, 1a\n\n*Consolida regalis* GRAY (3)\n34,5–41,8 µm, MiW 37,1 µm; 50 PK, 0a\n\n*Delphinium elatum* L. (2)\n28,3–34,3 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Delphinium fissum* WALDST. & KIT. (1)\n23,4–32,0 µm, MiW 28,1 µm; 50 PK, 1a"
           }
         }
       ]

@@ -1,6 +1,6 @@
 # *Artemisia vulgaris* (bijvoet)
 
-{{ pollen_gallery("artemisia_vulgaris") }}
+{{ gallery("artemisia_vulgaris") }}
 
 ## Kenmerken
 

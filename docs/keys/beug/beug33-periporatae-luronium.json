@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-luronium",
+    "title": "33.7.2 *Luronium natans* (Tafel 109: 12–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microechini duidelijk (fasecontrast); basis 0,6–0,8 µm.",
+          "outcome": {
+            "text": "33.7.2 *Luronium natans*\n\n*Luronium natans* (L.) RAF. (4)\n26,0–32,5 µm, MiW 29,6 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

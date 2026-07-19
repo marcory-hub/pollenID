@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-glaucium",
+    "title": "21.9 *Glaucium* (Tafel 59: 11–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK perreticulaat; muri relatief breed; brochi 1,5–2,5 µm; polarvelden klein.",
+          "outcome": {
+            "text": "21.9 *Glaucium*\n\nPForml 1,0–1,4. Exine 2–2,5 µm. Colpus-membranen met 1,0–1,5(2,0) µm hoekige elementen.\n\n*Glaucium corniculatum* (L.) RUDOLPH (3)\n27,5–40,0 µm, MiW 34,0 µm; 50 PK, 0a\n\n*Glaucium flavum* CRANTZ (4)\n27,5–38,0 µm, MiW 33,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

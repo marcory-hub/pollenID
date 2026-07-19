@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-hyoscyamus",
+    "title": "22.11 *Hyoscyamus niger* (Tafel 71: 10–15)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polarvelden klein; reticulaat tot zwak reticulaat-striaat; exine 2,0–2,5 µm.",
+          "outcome": {
+            "text": "22.11 *Hyoscyamus niger*\n\nPK sferoïdisch (PForml 0,99–1,30). Colpi lang; polarvelden klein (PFeldI 0,11–0,19). Colpi met breed brugvormige, vaak voorgeschoven equatoriale vernauwing. Poriën equatoriaal verlengd (colpi transversales), randen meestal contrastarm. Exine 2,0–2,5 µm, reticulaat tot zwak reticulaat-striaat. Brochi 1,0–1,5 µm, vaak meridionaal gestrekt tot 2,0 µm.\n\n*Hyoscyamus niger* L. (4)\n39,3–55,5 µm, MiW 45,7 µm; 50 PK, 1a"
+          }
+        }
+      ]
+    }
+  }
+}

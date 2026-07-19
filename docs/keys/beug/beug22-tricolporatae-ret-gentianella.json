@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-gentianella",
+    "title": "22.13 *Gentianella germanica*-type (Tafel 72: 1–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,5–3,5 µm; colpi met ca. 5 µm brede margines.",
+          "outcome": {
+            "text": "22.13 *Gentianella germanica*-type\n\nPK sferoïdisch tot prolaat (PForml 0,90–1,48). Polarvelden klein tot middelgroot (PFeldI 0,11–0,41). Perreticulaat; brochi 1,0–3,5 µm. Margo tot 5 µm breed met ca. 1 µm brochi (bij kleine brochi moeilijk herkenbaar, o.a. *G. nana*, *G. tenella*). Poriën vaak 4–5 × 8–9 µm. Exine 2,0–4,0 µm. Columellae duidelijk, tot 1 µm dik.\n\n*Gentianella amarella* (L.) BÖRNER s.str. (2)\n42,8–57,8 µm, MiW 50,2 µm; 50 PK, 0a\n\n*Gentianella anisodonta* (BORBÁS) Á. & D. Löve (1)\n45,8–63,0 µm, MiW 55,6 µm; 50 PK, 0a\n\n*Gentianella aspera* (HEGETSCHW.) SKALICKÝ (1)\n43,8–58,8 µm, MiW 50,9 µm; 50 PK, 0a\n\n*Gentianella bohemica* SKALICKÝ (1)\n44,6–64,0 µm, MiW 47,2 µm; 50 PK, 0a\n\n*Gentiana bavarica* L. (1)\n40,5–57,0 µm, MiW 48,6 µm; 50 PK, 0a\n\n*Gentiana brachyphylla* VILL. (1)\n39,5–54,3 µm, MiW 44,2 µm; 50 PK, Oa\n\n*Gentianella campestris* (L.) BÖRNER s.l. (2)\n40,3–55,8 µm, MiW 48,6 µm; 51 PK, 0a\n\n*Gentianella ciliata* (L.) BORKH. (1)\n39,3–57,5 µm, MiW 45,9 µm; 54 PK, 0a\n\n*Gentianella detonsa* (ROTTB.) G. DON fil. (3)\n37,8–51,0 µm, MiW 45,1 µm; 47 PK, 0a\n\n*Gentiana froelichii* JAN ex REICHENB. (1)\n42,0–52,0 µm, MiW 45,3 µm; 50 PK, Oa\n\n*Gentianella germanica* (WILLD.) BÖRNER (3)\n36,8–47,0 µm, MiW 42,5 µm; 50 PK, 0a\n\n*Gentiana nana* (WULFEN) PRITCHARD (1)\n40,5–52,8 µm, MiW 47,0 µm; 50 PK, 0a\n\n*Gentianella lutescens* (VELEN.) J. HOLUB (1)\n39,5–54,3 µm, MiW 44,9 µm; 53 PK, Oa\n\n*Gentiana prostrata* HAENKE (1)\n42,5–55,2 µm, MiW 49,2 µm; 50 PK, 12a\n\n*Gentianella pilosa* (WETTSTEIN) J. HOLUB (1)\n40,5–54,8 µm, MiW 46,7 µm; 50 PK, Oa\n\n*Gentiana pumila* JACQ. (1)\n39,5–50,8 µm, MiW 46,7 µm; 50 PK, Oa\n\n*Gentianella ramosa* (HEGETSCHW.) J. HOLUB (1)\n39,3–50,8 µm, MiW 44,6 µm; 50 PK, Oa\n\n*Gentiana rostanii* REUTER EX VERLOT. (1)\n37,5–57,5 µm, MiW 48,5 µm; 50 PK, Oa\n\n*Gentianella tenella* (ROTTB.) BÖRNER (1)\n31,5–40,0 µm, MiW 35,1 µm; 50 PK, Oa\n\n*Gentiana verna* L. (1)\n33,0–45,8 µm, MiW 39,7 µm; 50 PK, Oa\n\n*Gentiana verna* L. subsp. *tergestina* (G. BECK) HAYEK (1)\n42,8–55,5 µm, MiW 49,4 µm; 50 PK, Oa\n\n*Gentiana nivalis* L. (1)\n36,3–44,8 µm, MiW 39,2 µm; 50 PK, Oa\n\n*Gentiana terglouensis* HACQ. (1)\n40,0–57,5 µm, MiW 51,5 µm; 51 PK, Oa\n\n*Gentianella uliginosa* (WILLD.) BÖRNER (2)\n39,5–50,5 µm, MiW 45,5 µm; 50 PK, Oa\n\n*Gentiana utriculosa* L. (2)\n46,7–55,2 µm, MiW 51,2 µm; 50 PK, Oa\n\nNon vidi: *Gentiana angustifolia* VILL., *Gentianella engadinensis* (WETTST.) J. HOLUB"
+          }
+        }
+      ],
+      "note": "OCR: maten *Gentiana verna* / *G. utriculosa* deels verwisseld in scan; controleer tegen bron."
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Erica tetralix* (dopheide)
 
-{{ pollen_gallery("erica_tetralix") }}
+{{ gallery("erica_tetralix") }}
 
 ## Kenmerken
 

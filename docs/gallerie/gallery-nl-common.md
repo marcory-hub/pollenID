@@ -22,7 +22,7 @@
 
 ### *Brassicaceae*-type
 
-{{ pollen_gallery("brassica_napus") }}
+{{ gallery("brassica_napus") }}
 
 - Pollenklasse: tricolpaat
 - Vorm: rond
@@ -33,7 +33,7 @@
 
 ### *Trifolium repens*-type
 
-{{ pollen_gallery("trifolium_repens") }}
+{{ gallery("trifolium_repens") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: driehoekig convex
@@ -44,7 +44,7 @@
 
 ### *Salix*-type
 
-{{ pollen_gallery("salix_caprea") }}
+{{ gallery("salix_caprea") }}
 
 - Pollenklasse: tricolpaat (soms met duidelijke porie)
 - Vorm: rond tot licht driehoekig
@@ -55,7 +55,7 @@
 
 ### Taraxacum-type
 
-{{ pollen_gallery("taraxacum_officinale") }}
+{{ gallery("taraxacum_officinale") }}
 
 - Pollenklasse: tricolpaat (3-4 slecht zichtbare aperturen)
 - Vorm: rond tot driehoekig, sferoid
@@ -66,7 +66,7 @@
 
 ### Rubus-type
 
-{{ pollen_gallery("rubus_fruticosus") }}
+{{ gallery("rubus_fruticosus") }}
 
 - Pollenklasse: tricolpaat
 - Vorm: driehoekig tot vierhoekig
@@ -77,7 +77,7 @@
 
 ### *Tilia*-type
 
-{{ pollen_gallery("tilia_platyphyllos") }}
+{{ gallery("tilia_platyphyllos") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: rond tot driehoekig; oblaat
@@ -88,7 +88,7 @@
 
 ### Prunus/Pyrus-type
 
-{{ pollen_gallery("prunus_avium") }}
+{{ gallery("prunus_avium") }}
 
 - Pollenklasse: tricolporoidaat / tricolporaat (Beug 20, 20.12 Sorbus-groep)
 - Vorm: driehoekig; licht oblaat tot sferoid
@@ -100,7 +100,7 @@
 
 #### *Castanea*
 
-{{ pollen_gallery("castanea_sativa") }}
+{{ gallery("castanea_sativa") }}
 
 - Pollenklasse: tricolporaat
 - Vorm: ovaal
@@ -111,7 +111,7 @@
 
 #### *Phacelia*
 
-{{ pollen_gallery("phacelia_tanacetifolia") }}
+{{ gallery("phacelia_tanacetifolia") }}
 
 - Pollenklasse: stephanocolpaat tot heterocolpaat (Beug 24); 6 colpi, afwisselend breed en smal
 - Vorm: rond tot rozetvormig, sferoid tot optisch licht oblaat

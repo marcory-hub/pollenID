@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug28-heterocolpatae-heliotropium",
+    "title": "28.4 *Heliotropium europaeum* (Tafel 93: 31–34)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK 29–38 µm; PForml 1,3–2,0; scabraat; poriën zonder costae.",
+          "outcome": {
+            "text": "28.4 *Heliotropium europaeum*\n\nPK elliptisch tot tonvormig, meestal prolaat (PForml 1,3–2,0). 3 porate + 3 niet-porate colpi, smal. Poriën equatoriaal verlengd tot rond, 2,5–3,5 × 4,0–5,0 µm, vaak slechts poroïd. Exine psilaat, 1,2–1,5 µm.\n\n*Heliotropium europaeum* L. (2)\n29,5–37,5 µm, MiW 34,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

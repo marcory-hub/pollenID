@@ -1,6 +1,6 @@
 # *Cornus mas* (gele kornoelje)
 
-{{ pollen_gallery("cornus_mas") }}
+{{ gallery("cornus_mas") }}
 
 ## Kenmerken
 

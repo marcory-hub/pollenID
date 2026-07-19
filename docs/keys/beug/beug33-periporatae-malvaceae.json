@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-malvaceae.json",
-    "title": "33.6 Malvaceae (Beug)",
+    "key": "beug33-periporatae-malvaceae",
+    "title": "33.6 Malvaceae",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 2,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
   },
   "start": "1",
   "steps": {
@@ -14,13 +15,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK 105-140 µm groot.",
+          "label": "PK 105–140 µm.",
           "next": "2"
         },
         {
-          "label": "PK 70-100 µm groot (Tafel 109: 1-2).",
-          "id": {
-            "name": "33.6.1 Malva neglecta-type"
+          "label": "PK 70–100 µm (Tafel 109: 1–2).",
+          "outcome": {
+            "text": "33.6.1 *Malva neglecta*-Typ — zie deelsleutel."
           }
         }
       ]
@@ -30,15 +31,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "afstanden der Poriën 8-15 µm (Tafel 109: 3-4).",
-          "id": {
-            "name": "33.6.2 Malva sylvestris-type"
+          "label": "Porieafstand 8–15 µm (Tafel 109: 3–4).",
+          "outcome": {
+            "text": "33.6.2 *Malva sylvestris*-Typ — zie deelsleutel."
           }
         },
         {
-          "label": "afstanden der Poriën 18-30 µm.",
-          "id": {
-            "name": "33.6.3 Lavatera-type"
+          "label": "Porieafstand 18–30 µm.",
+          "outcome": {
+            "text": "33.6.3 *Lavatera*-Typ — zie deelsleutel."
           }
         }
       ]

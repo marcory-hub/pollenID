@@ -1,12 +1,12 @@
 {
   "meta": {
-    "key": "beug33-periporatae-polemonium.json",
-    "title": "33.11 Polemonium (Beug)",
+    "key": "beug33-periporatae-polemonium",
+    "title": "33.11 *Polemonium* (Tafel 114: 11–17)",
     "locale": "nl",
     "source": "Beug",
-    "note": "Agent: clean this page, only use pollentabel.json for the choices. If needed update the pollentabel.json with the images in by-taxon. Do not add other than label, next, id, name, pollen_key and incomplete. Check vanderham-pollentabel.json for and example how to format the json.",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -15,20 +15,19 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK striaat, met enkele geisoleerde anastomosen tussen de valla (Tabel 114: 11-13).",
-          "id": {
-            "name": "33.11.1 Polemonium caeruleum",
-            "pollen_key": "polemonium_caeruleum"
+          "label": "PK striaat, met enkele anastomosen tussen de valla (Tafel 114: 11–13).",
+          "outcome": {
+            "text": "33.11.1 *Polemonium caeruleum*\n\nPoriën 1,5–3 µm, contrastarm. Valla 2–8 µm lang.\n\n*Polemonium caeruleum* L. (4)\n41,5–53,8 µm, MiW 47,8 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK striat-reticulaat (Tabel 114: 14-17).",
-          "id": {
-            "name": "33.11.2 Polemonium boreale",
-            "pollen_key": "polemonium_boreale"
+          "label": "PK striaat-reticulaat (Tafel 114: 14–17).",
+          "outcome": {
+            "text": "33.11.2 *Polemonium boreale*\n\nPoriën 2,5–4 µm. Brochi 1,0–2,0 µm.\n\n*Polemonium boreale* ADAMS (2)\n40,0–56,8 µm, MiW 47,6 µm; 50 PK, 0a"
           }
         }
-      ]
+      ],
+      "note": "PK bolvormig tot iets langgerekt. Exine 3–4 µm; endexine tot 2 µm."
     }
   }
 }

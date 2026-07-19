@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug17-ttt-ech.json",
+    "key": "beug17-ttt-ech",
     "title": "16. Tricolpatae, Tricolporoidatae en Tricolporatae (echinate sculpturen) (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "PK 25–40 µm, met echinate sculptuur, steviige echinae tot 2,0 µm lang (tabel 37: 6–10).",
-          "id": {
-            "name": "16.7 Centaurea cyanus-type (Blz... 216)"
+          "outcome": {
+            "text": "*Centaurea cyanus*-type (S. 216/230)\n\nZie ook *Centaurea jacea*-type in `beug17-ttt-ech-asteraceae.md` (17.1.10) voor verwante *Centaurea*."
           }
         },
         {
           "label": "PK 25–40 µm, met echinate sculptuur, echinae bis 3,0 µm lang (tabel 37: 11–15).",
-          "id": {
-            "name": "16.8 Centaurea jacea-type (Blz... 216)"
+          "outcome": {
+            "text": "*Centaurea jacea*-type (S. 230) — zie `beug17-ttt-ech-asteraceae.md` (17.1.10)"
           }
         }
       ]

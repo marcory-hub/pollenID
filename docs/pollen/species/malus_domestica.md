@@ -1,6 +1,6 @@
 # *Malus domestica* (appel)
 
-{{ pollen_gallery("malus_domestica") }}
+{{ gallery("malus_domestica") }}
 
 ## Kenmerken
 

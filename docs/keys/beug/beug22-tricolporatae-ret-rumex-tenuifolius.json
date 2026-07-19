@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-rumex-tenuifolius",
+    "title": "22.29 *Rumex tenuifolius*-type (Tafel 120: 5–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 1,1–1,5 µm; lumina geperforeerd; sferoïdisch.",
+          "outcome": {
+            "text": "22.29 *Rumex tenuifolius*-type\n\nSip uit *R. acetosella*-kring. Reticulum met brochi 1,1–1,5 µm; lumina met perforaties. PFeldI 0,22–0,35. Veel tetracolporate PK; gemeten alleen tricolporate.\n\n*Rumex tenuifolius* (WALLR.) Á. LÖVE (2)\n18,0–23,0 µm, MiW 21,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

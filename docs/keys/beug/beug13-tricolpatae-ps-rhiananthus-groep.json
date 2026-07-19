@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "key": "beug13-tricolpatae-ps-rhiananthus-groep",
+    "title": "13.19 *Rhinanthus*-groep (Tafel 16: 13–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "*Rhinanthus*-type: Endexine vaak rissig, meestal dikker dan het Tectum, zeldzamer even dik; dunner dan 1 µm en duidelijk minder dan de helft van de Exinedikte. PFormI meestal 1,00–1,30 (Tafel 16: 13–16).",
+          "outcome": {
+            "text": "13.19.1 *Rhinanthus*-type (Tafel 16: 13–16)\n\nOmvat *Rhinanthus*, *Lathraea*, *Bartsia* en *Pedicularis acaulis*; ook *Euphrasia* (vaak circular in polair aanzicht, PFormI ~1,30).\n\n*Rhinanthus alectorolophus* (SCOP.) POLLICH (2)\n33,6–40,8 µm, MiW 36,7 µm; 50 PK, 0a\n\n*Rhinanthus alpinus* BAUMG. (1)\n29,0–38,9 µm, MiW 35,1 µm; 50 PK, 1a\n\n*Rhinanthus angustifolius* C.C. GMEL. (3)\n26,6–35,4 µm, MiW 31,6 µm; 50 PK, 1a\n\n*Rhinanthus minor* L. (2)\n31,5–38,0 µm, MiW 34,6 µm; 50 PK, 0a\n\n*Rhinanthus rumelicus* VELEN. (1)\n24,8–38,9 µm, MiW 31,9 µm; 50 PK, 1a\n\nNon vidi: *Rhinanthus antiquus* (STERNECK) SCHINZ & THELL., *Rh. glacialis* PERSONNAT, *Rh. ovifugus* CHAB.\n\n*Bartsia alpina* L. (3)\n29,5–40,0 µm, MiW 35,5 µm; 50 PK, 0a\n\n*Pedicularis acaulis* SCOP. (3)\n31,0–40,0 µm, MiW 35,9 µm; 42 PK, 0a\n\n*Pedicularis sceptrum-carolinum* L. (2)\n30,0–35,5 µm, MiW 33,2 µm; 53 PK, 0a\n\n*Lathraea squamaria* L. (2)\n33,0–40,8 µm, MiW 37,2 µm; 50 PK, 0a\n\n*Euphrasia alpina* LAM. (1)\n34,7–50,6 µm, MiW 40,4 µm; 50 PK, 1a\n\n*Euphrasia frigida* PUGSLEY (1)\n37,0–42,8 µm, MiW 40,1 µm; 50 PK, 0a\n\n*Euphrasia micrantha* REICHENB. (1)\n35,4–44,6 µm, MiW 40,4 µm; 50 PK, 1a\n\n*Euphrasia hirtella* JORD. ex REUT. (1)\n31,9–44,6 µm, MiW 38,4 µm; 50 PK, 1a\n\n*Euphrasia illyrica* WETTST. (1)\n36,1–48,5 µm, MiW 41,1 µm; 30 PK, 1a\n\n*Euphrasia minima* JACQ. ex DC. (1)\n31,9–46,0 µm; 25 PK, 1a\n35,1–46,4 µm, MiW 42,1 µm; 50 PK, 1a\n\n*Euphrasia nemorosa* (PERS.) WALLR. s.l. (2)\n37,5–47,8 µm, MiW 41,7 µm; 50 PK, 0a\n\n*Euphrasia officinalis* L. s.l. (7)\n30,4–45,3 µm, MiW 38,9 µm; 50 PK, 1a\n\n*Euphrasia salisburgensis* FUNCK ex HOPPE (3)\n38,3–47,3 µm, MiW 42,5 µm; 50 PK, 0a\n\n*Euphrasia stricta* D. WOLFF (4)\n37,0–45,0 µm, MiW 41,9 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "*Veronica*-type: Endexine ca. 1 µm dik en minstens de helft van de Exinedikte; Exine meestal ca. 2,0 µm (1,9–2,1 µm) (Tafel 16: 17–19).",
+          "outcome": {
+            "text": "13.19.2 *Veronica*-type (Tafel 16: 17–19)\n\nOmvat *Veronica* en *Pseudolysimachion*.\n\n*Veronica acinifolia* L. (2)\n23,0–30,0 µm, MiW 26,0 µm; 50 PK, 0a\n\n*Veronica agrestis* L. (2)\n27,0–34,5 µm, MiW 31,2 µm; 50 PK, 0a\n\n*Veronica alpina* L. (3)\n23,8–36,3 µm, MiW 29,2 µm; 50 PK, 0a\n\n*Veronica anagallis-aquatica* L. (2)\n30,5–40,5 µm, MiW 36,0 µm; 50 PK, 0a\n\n*Veronica anagalloides* GUSS. (2)\n20,0–31,8 µm, MiW 25,7 µm; 50 PK, 0a\n\n*Veronica aphylla* L. (1)\n21,2–34,0 µm; 16 PK, 1a\n\n*Veronica arvensis* L. (2)\n19,8–29,3 µm, MiW 24,1 µm; 30 PK, 1a\n\n*Veronica austriaca* L. (1)\n35,0–44,3 µm, MiW 39,3 µm; 50 PK, 0a\n\n*Veronica beccabunga* L. (2)\n25,5–34,5 µm, MiW 30,1 µm; 50 PK, 0a\n\n*Veronica bellidioides* L. (3)\n30,0–39,3 µm, MiW 34,7 µm; 50 PK, 0a\n\n*Veronica chamaedrys* L. (3)\n32,5–41,3 µm, MiW 37,3 µm; 50 PK, 0a\n\n*Veronica cymbalaria* BODARD (1)\n24,4–39,3 µm, MiW 31,1 µm; 31 PK, 1a\n\n*Veronica dillenii* CRANTZ (2)\n25,5–33,8 µm, MiW 30,7 µm; 50 PK, 0a\n\n*Veronica fruticans* JACQ. (2)\n35,0–42,5 µm, MiW 39,8 µm; 50 PK, 0a\n\n*Veronica fruticulosa* L. (2)\n33,3–44,3 µm, MiW 37,9 µm; 50 PK, 0a\n\n*Veronica hederaefolia* L. (1)\n26,2–40,7 µm, MiW 34,3 µm; 30 PK, 1a\n\n*Veronica montana* L. (2)\n29,5–38,3 µm, MiW 34,9 µm; 50 PK, 0a\n\n*Veronica officinalis* L. (2)\n29,0–37,5 µm, MiW 33,2 µm; 50 PK, 0a\n\n*Veronica opaca* FR. (1)\n24,4–31,9 µm; 14 PK, 10a\n\n*Veronica peregrina* L. (1)\n19,1–26,6 µm, MiW 23,0 µm; 40 PK, 1a\n\n*Veronica persica* POIR. (1)\n26,9–37,2 µm, MiW 33,4 µm; 40 PK, 1a\n\n*Veronica polita* FR. (1)\n23,0–35,8 µm, MiW 28,9 µm; 50 PK, 1a\n\n*Veronica praecox* ALL. (2)\n23,5–30,8 µm, MiW 28,7 µm; 50 PK, 0a\n\n*Veronica prostrata* L. (2)\n29,0–37,5 µm, MiW 32,6 µm; 50 PK, 0a\n\n*Veronica scutellata* L. (2)\n23,4–32,2 µm, MiW 28,5 µm; 50 PK, 2a\n\n*Veronica serpyllifolia* L. (3)\n26,5–33,0 µm, MiW 29,7 µm; 50 PK, 0a\n\n*Veronica teucrium* L. (2)\n34,5–44,0 µm, MiW 40,3 µm; 50 PK, 0a\n\n*Veronica triphyllos* L. (1)\n24,8–33,3 µm, MiW 29,2 µm; 40 PK, 1a\n\n*Veronica urticifolia* JACQ. (3)\n24,0–29,3 µm, MiW 26,2 µm; 50 PK, 0a\n\n*Veronica verna* L. (1)\n23,4–34,0 µm, MiW 28,9 µm; 50 PK, 1a\n\n*Pseudolysimachion longifolium* (L.) OPIZ (3)\n19,5–25,5 µm, MiW 22,8 µm; 55 PK, 0a\n\n*Pseudolysimachion spicatum* (L.) OPIZ (2)\n24,5–30,0 µm, MiW 27,4 µm; 50 PK, 0a\n\n*Pseudolysimachion spurium* (L.) OPIZ (1)\n19,2–24,8 µm, MiW 21,9 µm; 30 PK, 9a"
+          }
+        }
+      ]
+    }
+  }
+}

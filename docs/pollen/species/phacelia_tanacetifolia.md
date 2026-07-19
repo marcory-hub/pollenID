@@ -1,6 +1,6 @@
 # *Phacelia tanacetifolia* (phacelia, bijenvoer)
 
-{{ pollen_gallery("phacelia_tanacetifolia") }}
+{{ gallery("phacelia_tanacetifolia") }}
 
 ## Kenmerken
 

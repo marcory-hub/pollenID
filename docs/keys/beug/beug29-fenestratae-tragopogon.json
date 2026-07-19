@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae-tragopogon",
+    "title": "29.6 *Tragopogon* (Tafel 95: 4–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "3 equatoriale lacunae (+ porale + interaperturale).",
+          "outcome": {
+            "text": "29.6 *Tragopogon*\n\n3 tweelokige porale + 3 equatoriale + 6 interaperturale lacunae. Subpolaire ribben monden in vaak zeshoekig echinaat polargebied ((18)20–25 µm diagonaal). Ribben 5–6(6,5) µm, éénrijig met echini. Buitenste columellae-laag tot 10 µm (met echini); echini tot 3,5 µm.\n\n*Tragopogon dubius* SCOP. (2)\n49,3–58,8 µm, MiW 54,7 µm; 50 PK, Oa\n\n*Tragopogon floccosus* WALDST. & KIT. (2)\n44,5–52,5 µm, MiW 50,4 µm; 50 PK, Oa\n\n*Tragopogon porrifolius* L. (1)\n48,0–57,0 µm, MiW 52,2 µm; 50 PK, Oa\n\n*Tragopogon pratensis* L. (2)\n47,0–55,0 µm, MiW 51,3 µm; 50 PK, 0a\n\n*Tragopogon tommasinii* SCHULZ-BIP. (1)\n45,5–54,5 µm, MiW 49,8 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

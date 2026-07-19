@@ -1,6 +1,6 @@
 {
   "meta": {
-    "key": "beug08-monoporatae-poaceae.json",
+    "key": "beug08-monoporatae-poaceae",
     "title": "8.2 Poaceae (Beug)",
     "locale": "nl",
     "source": "Beug",
@@ -16,8 +16,8 @@
       "choices": [
         {
           "label": "PK kleiner dan 37 µm.",
-          "id": {
-            "name": "8.2.8 Wildgras-type (Blz... 87)"
+          "outcome": {
+            "text": "8.2.8 Wildgras-type (S. 87) — zie `beug08-monoporatae-wildgras.md`"
           }
         },
         {
@@ -36,8 +36,8 @@
         },
         {
           "label": "Maten van porie en annulus kleiner.",
-          "id": {
-            "name": "8.2.8 Wildgras-type (Blz... 87)"
+          "outcome": {
+            "text": "8.2.8 Wildgras-type (S. 87) — zie `beug08-monoporatae-wildgras.md`"
           }
         }
       ]
@@ -62,10 +62,11 @@
       "choices": [
         {
           "label": "PK 53–138 µm groot, sferoïdisch, poriëndiameter 3,7–8,6 µm.",
-          "id": {
-            "name": "8.2.1 Zea mays (Blz... 81)",
+          "outcome": {
+            "text": "8.2.1 *Zea mays* (Tafel 6: 11)\n\nPK 53–138 µm groot, sferoïdisch. Fasecontrastpatroon uit geïsoleerde punten (*Hordeum*-type). Daardoor van grote *Triticum*- en *Avena*-PK te scheiden. *Hordeum*-PK overschrijden de grens van 53 µm nauwelijks.",
             "pollen_key": "zea_mays"
-          }
+          },
+          "pollen_key": "zea_mays"
         },
         {
           "label": "PK kleiner of prolaat of met kleinere poriëndiameter.",
@@ -83,8 +84,8 @@
         },
         {
           "label": "PK sferoïdisch, rondachtig tot eivormig.",
-          "id": {
-            "name": "8.2.2 Hordeum-type (Blz... 81)"
+          "outcome": {
+            "text": "8.2.2 *Hordeum*-type (Tafel 6: 7, 11; Tafel 7: 9–26; Abb. 12)\n\nFasecontrastpatroon uit afzonderlijke punten, relatief groot, contrastrijk en gelijkmatig verdeeld. Zelden vormen 2–3 punten anduidingsgewijs een groepje. Binnen één herkomst kunnen contrast, puntgrootte, afstand en verdeling variëren.\n\nTot dit type behoren o.a. *Hordeum distichon*, *H. vulgare*, *H. murinum*, *H. nodosum*, *H. maritimum*, *Oryza sativa*; deels ook *Glyceria*, *Bromus*, *Elymus*, *Agropyron*, *Spartina*, *Secale*, *Triticum monococcum*.\n\n[te verifiëren: soortspecifieke µm-regels voor *Hordeum*-type niet volledig in OCR-blok bij S. 81; Beug S. 81]"
           }
         }
       ]
@@ -95,14 +96,14 @@
       "choices": [
         {
           "label": "Porie op de lengtezijde van de PK over ca. 1/3 van de smalle zijde van de in dwarsdoorsnede draaiende PK verwijderd, lengte van de PK 30–65 µm, pollenvormindex 1,30–1,55 (tabel 6: 5–8).",
-          "id": {
-            "name": "8.2.3 Secale (Blz... 82)"
+          "outcome": {
+            "text": "8.2.3 *Secale* (Tafel 6: 5–8)\n\nPK prolaat; porie lateraal, op ca. 1/3 van de lengte vanaf de smalle zijde. Een deel van *Secale cereale* kan sferoïdisch zijn; zulke PK horen tot het *Hordeum*-type. PFormI meestal 1,30–1,55 (duidelijk kleiner dan bij *Lygeum spartum*). *Secale montanum* als *S. cereale*.\n\n[te verifiëren: soortspecifieke µm-regels voor *Secale* in OCR niet bij sectie S. 82; Beug S. 82]"
           }
         },
         {
-          "label": "Porie op de lengtezijde van de PK over ca. 1/2 van de smalle zijde van de PK verwijderd, lengte van de PK 70–95 µm; de van de porie afgewende zijde van de PK afgeplat tot zwak concaaf, pollenvormindex 1,80–2,90 (tabel 9: 5–6).",
-          "id": {
-            "name": "8.2.4 Elymus spartina-type (Blz... 82)"
+          "label": "Porie op de lengtezijde van de PK ongeveer halverwege (of geheel op) de smalle zijde; lengte van de PK 70–95 µm; de van de porie afgewende zijde afgeplat tot zwak concaaf, PFormI 1,80–2,90 (Tafel 9: 5–6).",
+          "outcome": {
+            "text": "8.2.4 *Lygeum spartum* (Tafel 9: 5–6)\n\nPorie vrijwel of geheel op het midden van de smalle zijde. Porenzijde convex; tegenoverliggende zijde afgeplat tot iets concaaf. PFormI 1,82–2,16 bij aanzicht op de porie en 2,44–2,88 wanneer de porie in optische doorsnede ligt. Poriëndiameter 5,8–6,8 µm, annulus-breedte 4,0–5,0 µm, annulus-dikte 3,5–4,0 µm. Fasecontrastpatroon: relatief kleine individueel staande punten (*Hordeum*-type).\n\n*Lygeum spartum* LOEFL. ex L. (1)\n74,5–94,5 µm, MiW 83,4 µm; 50 PK, 0a"
           }
         }
       ]
@@ -127,14 +128,14 @@
       "choices": [
         {
           "label": "Fasecontrastpatroon met 0,8–2,2 µm grote, meestal polyhedrische velden (tabel 8: 1).",
-          "id": {
-            "name": "Sorghum-type (Blz... 86)"
+          "outcome": {
+            "text": "Sorghum-type (S. 86) — zie `beug08-monoporatae-panicum.md`"
           }
         },
         {
           "label": "Fasecontrastpatroon met puntklompen, daarnaast met individuele punten. Tot 1 µm grote polygonale elementen kunnen aanwezig zijn, maar treden kwantitatief meestal aanzienlijk terug.",
-          "id": {
-            "name": "8.2.5 Avena-type (Blz... 84)"
+          "outcome": {
+            "text": "8.2.5 *Avena*-type (Tafel 6: 12–18; Abb. 14)\n\nTypisch fasecontrastpatroon: punten min of meer tot puntklompen samengevoegd, onregelmatig van vorm en grootte, vaak langwerpig. Lengte van puntklompen kan 1 µm overschrijden. Daarnaast meestal ook afzonderlijke punten (aandeel sterk wisselend). PK sferoïdisch tot zwak ovaal-langwerpig.\n\nHoofdzakelijk *Avena*-soorten met n=21 (*A. sativa*, *A. byzantina*, *A. fatua*). Soorten met n=7 (*A. nuda*, *A. brevis*, *A. strigosa*) deels; soms *Hordeum*- of *Triticum*-type. Ook *Setaria* div. spec. deels.\n\n[te verifiëren: soortspecifieke µm-regels; Beug S. 84]"
           }
         }
       ]
@@ -145,14 +146,14 @@
       "choices": [
         {
           "label": "Puntgroepen uit (2)3–4 punten.",
-          "id": {
-            "name": "8.2.6 Triticum-type (Blz... 84)"
+          "outcome": {
+            "text": "8.2.6 *Triticum*-type (S. 84)\n\nPuntgroepen uit (2)3–4 punten.\n\n[te verifiëren: volledige morfologie- en µm-tekst *Triticum*-type in OCR bij S. 84; Beug S. 84]"
           }
         },
         {
           "label": "Puntgroepen uit tot 5–6 punten.",
-          "id": {
-            "name": "8.2.7 Panicum-type (Blz... 84)"
+          "outcome": {
+            "text": "8.2.7 *Panicum*-type (S. 84/86) — zie `beug08-monoporatae-panicum.md`"
           }
         }
       ]

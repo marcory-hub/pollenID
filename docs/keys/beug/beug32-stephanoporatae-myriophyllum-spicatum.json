@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-myriophyllum-spicatum",
+    "title": "32.9 *Myriophyllum spicatum* (Tafel 104: 13–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anulusverdikking abrupt; poriën equatoriaal geplaatst.",
+          "outcome": {
+            "text": "32.9 *Myriophyllum spicatum*\n\nPK psilaat; sphaeroïdisch en afgeplat; P/E 0,81–0,91; polaire as 22,5–27,0 µm; 4 of 5 poriën (zelden 3). Anuli ca. 2 µm dik, 3,5–4,0 µm breed; verdikking begint abrupt. Poriën meridionaal 1,8–2,2 × 3,5–4,0 µm. Exine 1,0–1,2 µm.\n\n*Myriophyllum spicatum* L. (4)\n23,0–31,5 µm, MiW 27,6 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

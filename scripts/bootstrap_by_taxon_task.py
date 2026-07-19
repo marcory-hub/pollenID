@@ -89,7 +89,7 @@ def collect_slugs_from_md(root: Path, source: str) -> List[Tuple[str, str]]:
             text = md.read_text(encoding="utf-8")
         except OSError:
             continue
-        for m in re.finditer(r'pollen_gallery\(\s*"([a-z][a-z0-9_]*)"', text):
+        for m in re.finditer(r'gallery\(\s*"([a-z][a-z0-9_]*)"', text):
             out.append((source, m.group(1)))
         for m in re.finditer(r'pollen\(\s*"([a-z][a-z0-9_]*)"', text):
             out.append((source, m.group(1)))

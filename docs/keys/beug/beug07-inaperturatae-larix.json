@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug07-inaperturatae-larix.json",
-    "title": "7.5 Larix, Pseudotsuga (Beug)",
+    "key": "beug07-inaperturatae-larix",
+    "title": "7.5 *Larix*, *Pseudotsuga* (Afb. 9a–c)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 2,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,31 +15,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK dunwandig. Exine tot ca. 0,5 µm dik",
-          "id": {
-            "name": "7.4.1 Juniperus communis-type"
-          }
-        },
-        {
-          "label": "PK dikwandig. Exine ca. 0,5-1,5 µm dik",
-          "next": "2"
-        }
-      ]
-    },
-    "2": {
-      "id": "2",
-      "type": "step",
-      "choices": [
-        {
-          "label": "microgemmae onregelmatig over de PK verdeeld",
-          "id": {
-            "name": "7.4.2 Juniperus excelsa-type"
-          }
-        },
-        {
-          "label": "PK meestal alleen in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) microgemmae of met microclavae",
-          "id": {
-            "name": "7.4.3 Cunninghamia-type"
+          "label": "PK groot, kogelvormig, in fossiele toestand vaak deformatie. PK met een opensplijtende lengtespleet; exine tweelaags, 2–3 µm dik.",
+          "outcome": {
+            "text": "7.5 *Larix*, *Pseudotsuga* (Afb. 9a–c)\n\nPK groot, kogelvormig, in fossiele toestand vaak deformatie. PK met een opensplijtende lengtespleet, die bij *Larix decidua* tot 70 µm lang kan zijn (Afb. 9a–b). Exine tweelaags, 2–3 µm dik, buitenste laag ca. 4× zo machtig als de binnenste (Afb. 9c). Aan de zijde tegenover de lengtespleet loopt meestal een verdikt band om het PK. Bij *L. decidua* ca. 70 µm diameter, ca. 10 µm breed en ca. 4 µm hoog, soms warzig opgelost. Lengtespleet en verdikt band zijn ook aan fossiel materiaal herkenbaar.\n\n*Larix decidua* MILL. (3)\n74,0–104,0 µm, MiW 87,9 µm; 50 PK, 1a\n\n*Larix leptolepis* GORD. (2)\n74,0–101,0 µm, MiW 86,5 µm; 50 PK, 1a\n\n*Larix sibirica* LEDEB. (1)\n59,0–94,0 µm, MiW [te verifiëren: OCR «78,0,6»]; 50 PK, 1a\n\n*Larix gmelini* (RUPR.) LEDEB. (1)\n66,8–104,8 µm, MiW 82,6 µm; 50 PK, 0a\n\n*Pseudotsuga taxifolia* BRITTON (1)\n71,0–104,0 µm, MiW 88,5 µm; 50 PK, 1a"
           }
         }
       ]

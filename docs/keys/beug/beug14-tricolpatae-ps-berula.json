@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug14-tricolpatae-ps-berula.json",
-    "title": "14.11.14 Berula erecta-groep (Beug)",
+    "key": "beug14-tricolpatae-ps-berula",
+    "title": "14.11.14 *Berula erecta*-groep (Beug)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,15 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "Equatoriale diameter 10-13 µm",
-          "id": {
-            "name": "14.11.14.1 Sison amomum, Trinia kitaibelii"
+          "label": "Equatoriale diameter 10–13 µm",
+          "outcome": {
+            "text": "14.11.14.1 *Sison amomum*, *Trinia kitaibelii*\n\n*Sison amomum* L. (2)\n17,8–22,8 µm, MiW 20,2 µm; 50 PK, 0a\n\n*Trinia kitaibelii* BIEB. (3)\n19,5–26,3 µm, MiW 22,4 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "Equatoriale diameter 15-22 µm",
-          "id": {
-            "name": "14.11.14.2 Berula erecta, Sium sisarum"
+          "label": "Equatoriale diameter 15–22 µm",
+          "outcome": {
+            "text": "14.11.14.2 *Berula erecta*, *Sium sisarum*\n\n*Berula erecta* (HUDS.) COVILLE (2)\n23,0–32,5 µm, MiW 28,3 µm; 50 PK, 0a\n\n*Sium sisarum* L. (2)\n23,8–32,5 µm, MiW 26,4 µm; 52 PK, 0a"
           }
         }
       ]

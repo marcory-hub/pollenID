@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-koenigia",
+    "title": "26.1 *Koenigia islandica* (Tafel 91: 14–20)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Echinaat; >10 colpi.",
+          "outcome": {
+            "text": "26.1 *Koenigia islandica*\n\nPK bolvormig, echinaat. Exine zonder echini ca. 1,5 µm. Columellae dun. Tectum dikker dan endexine. Echini 1–2 µm lang, dun. >10 colpi (3–6 × 1–2 µm). Incidenteel periporaat (poriën 3–4 µm).\n\n*Koenigia islandica* L. (3)\n21,5–27,8 µm, MiW 24,4 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

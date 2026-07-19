@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str",
+    "title": "19. Tricolporatae (PK met striate, striaat-reticulate of rugulate sculpturen)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 16
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Tricolporate PK: 3 colpi met duidelijk begrensde porie of colpus transversalis/equatorialis; randen kunnen costae hebben. Korte spleten: ook tricolporoidate sleutel (S. 265).\n\nBijzondere aanwijzingen: striate sculptuur soms zeer contrastarm (goede optiek; fasecontrast helpt niet altijd) — o.a. *Hacquetia*, *Trollius*, *Aesculus*, *Helianthemum*, Gentianaceae. Gentianaceae sterk variabel; *Gentiana pneumonanthe*-type vs *Helianthemum* moeilijk; steeds helderveld én fasecontrast.",
+      "choices": [
+        {
+          "label": "PK prolaat tot perprolaat, 45–70 µm groot, equatoriaal vernauwd, meestal alleen in het equatoriale gebied striaat of rugulaat.",
+          "outcome": {
+            "text": "*Hacquetia epipactis* (S. 173)"
+          }
+        },
+        {
+          "label": "PK met andere kenmerken.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK rugulaat (zonodig in fasecontrast controleren).",
+          "next": "3"
+        },
+        {
+          "label": "PK striaat of striaat-(micro)reticulaat.",
+          "next": "6"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Exine 2,2–4,0 µm dik, met lange en dikke columellae.",
+          "next": "14"
+        },
+        {
+          "label": "Exine 1,0–1,5 µm dik.",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK in equatoriaal aanzicht tonvormig (duidelijk afgeplatte polen). Equatoriaal verlengde poriën (colpi transversales) meestal bij de colpi meridionaal vernauwd («vlinderporiën»).",
+          "next": "5"
+        },
+        {
+          "label": "PK in equatoriaal aanzicht niet tonvormig, maar met duidelijk toegespitste polen; nooit met «vlinderporiën».",
+          "outcome": {
+            "text": "vgl. tricolporoidate PK (S. 265)"
+          }
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK niet groter dan 30(35) µm, vormstabiel. Valla dicht en smal, eventueel pas met olie-immersie of in fasecontrast zichtbaar (Tafel 47: 19–22).",
+          "outcome": {
+            "text": "19.1 *Coronilla*-type (S. 254)"
+          }
+        },
+        {
+          "label": "PK 38–52 µm groot, dunwandig, weinig vormstabiel. Valla kort, sculptuur variabel, ook scabraat of verrucaat of polair onvolledig netvormig (Tafel 29: 11–15).",
+          "outcome": {
+            "text": "*Anthyllis vulneraria* (S. 191)"
+          }
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi equatoriaal s-vormig, meervoudig of eenvoudig vernauwd. Colpus-randen in bovenaanzicht vaak in elkaar grijpend of golvend. Colpi met of zonder opercula, equatoriaal vaak met onregelmatig gevormde apertuur, ook met smalle korte dwarsspleet, steeds zonder costae. Bij eenvoudig vernauwde colpi nooit met duidelijke ronde poriën die zijdelings over de intercolpium-randen uitsteken. Valla o.a. stralend gerangschikt met relatief weinig valla per intercolpium.",
+          "outcome": {
+            "text": "vgl. tricolporoidate PK (S. 265)"
+          }
+        },
+        {
+          "label": "Colpi niet vernauwd of slechts eenvoudig vernauwd, zonder opercula, met duidelijk ronde of meridionaal (zelden transversaal) gestrekte poriën.",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porie- en colpus-membranen met korrels groter dan 1 µm bekleed.",
+          "next": "8"
+        },
+        {
+          "label": "Porie- en colpus-membranen glad of met kleinere sculptuurelementen bekleed.",
+          "next": "9"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla contrastarm, overwegend transversaal gerangschikt en vooral equatoriaal herkenbaar, naburige valla zonder vernetting (Tafel 47: 23–30).",
+          "outcome": {
+            "text": "19.2 *Aesculus hippocastanum* (S. 255)"
+          }
+        },
+        {
+          "label": "Valla duidelijk, smal, meestal wisselend transversaal, schuin en meridionaal gerangschikt. Naburige valla vaak vernet; PK daarom striaat-microreticulaat (vooral fasecontrast) (Tafel 48: 1–4).",
+          "outcome": {
+            "text": "19.3 *Aesculus octandra* (S. 255)"
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met duidelijke colpi transversales.",
+          "next": "10"
+        },
+        {
+          "label": "Poriën rondachtig of zwak meridionaal, zelden ook zwak transversaal gestrekt.",
+          "next": "11"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Colpi transversales aan de lange zijden met costae (Tafel 48: 5–29).",
+          "outcome": {
+            "text": "19.4 *Rhus*-groep (S. 255)"
+          }
+        },
+        {
+          "label": "Colpi transversales zonder costae, PK sferoïdisch (als PK prolaat, < 30 µm en hoogstens met enkele valla parallel aan de colpus-randen, anders microreticulaat: vgl. *Ptelea*, S. 342; als PK < 30 µm en doorlopend met valla: vgl. *Lycium*, S. 284) (Tafel 51: 5–10).",
+          "outcome": {
+            "text": "19.5 *Hyoscyamus albus* (S. 256)"
+          }
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK dunwandig, exine tot 2,0 µm dik (vgl. opmerking over *Cistus*-soorten, S. 335).",
+          "next": "12"
+        },
+        {
+          "label": "PK dikwandig, exine 2,0–4,8 µm dik.",
+          "next": "13"
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striaat, hier en daar met verspreide contrastearme perforaties tussen de valla (Tafel 49: 2, 5–10).",
+          "outcome": {
+            "text": "19.6 *Helianthemum oelandicum*-type (S. 258)"
+          }
+        },
+        {
+          "label": "PK striaat, met talrijke perforaties tussen de valla (Tafel 49: 1, 3–4, 11–14).",
+          "outcome": {
+            "text": "19.7 *Helianthemum nummularium*-groep (S. 258)"
+          }
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla kort, deels zeer contrastarm, meridionaal gerangschikt of zonder overheersende richting (rugulaat). Kenmerken in fasecontrast controleren.",
+          "next": "14"
+        },
+        {
+          "label": "Valla lang.",
+          "next": "15"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla zonder overheersende richting (PK rugulaat), PK bovendien met microbrochi en perforaties (Tafel 50: 1–4).",
+          "outcome": {
+            "text": "19.8 *Blackstonia*-type (S. 260)"
+          }
+        },
+        {
+          "label": "Valla meridionaal gerangschikt (Tafel 50: 5–9).",
+          "outcome": {
+            "text": "19.9 *Swertia perennis* (S. 260)"
+          }
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Valla smal: een groep van 6–8 parallelle valla heeft een breedte van 5 µm (Tafel 50: 10–23, Tafel 51: 1–4).",
+          "outcome": {
+            "text": "19.10 *Gentiana pneumonanthe*-type (S. 262)"
+          }
+        },
+        {
+          "label": "Valla breder: een groep van 5 parallelle valla heeft een breedte van 5 µm.",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK striaat, met talrijke perforaties tussen de valla, ook striaat-reticulaat; rangschikking van de valla niet regelmatig; poriën 5–8 µm groot (Tafel 51: 11–18, Tafel 52: 1–4).",
+          "outcome": {
+            "text": "19.11 *Tuberaria*-groep (S. 264)"
+          }
+        },
+        {
+          "label": "PK striaat-microreticulaat, regelmatig patroon door lange parallelle valla; poriën 7–12 µm groot (Tafel 52: 5–10).",
+          "outcome": {
+            "text": "19.12 *Cneorum tricoccon* (S. 264)"
+          }
+        }
+      ]
+    }
+  }
+}

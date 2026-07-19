@@ -1,6 +1,6 @@
 # *Geranium robertianum* (robertskruid)
 
-{{ pollen_gallery("geranium_robertianum") }}
+{{ gallery("geranium_robertianum") }}
 
 ## Kenmerken
 

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-gypsophila",
+    "title": "33.8.1 *Gypsophila repens*-Typ (Tafel 110: 1–6)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Anuli 1,2–2,0 µm; typisch 8-hoekig met 12 poriën.",
+          "outcome": {
+            "text": "33.8.1 *Gypsophila repens*-Typ\n\nTypisch 8-hoekig met 12 poriën (zelden 10–13). Poriën 3–5 µm; anulus 1,5–2,0 µm (*G. paniculata* 1,2–1,3 µm). Exine 2,8–3,8 µm.\n\n*Gypsophila fastigiata* L. (3)\n27,0–34,5 µm, MiW 30,7 µm; 50 PK, 0a\n\n*Gypsophila paniculata* L. (1)\n23,5–32,0 µm, MiW 27,6 µm; 50 PK, 0a\n\n*Gypsophila repens* L. (2)\n30,0–37,3 µm, MiW 34,1 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug23-tricolporoidatae-ret-euonymus",
+    "title": "23.14 *Euonymus* (Tafel 83: 10–14)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brochi 2,0–2,5(3,0) µm; columellae dubbelrijig; exine dik.",
+          "outcome": {
+            "text": "23.14 *Euonymus*\n\n*Euonymus europaea*: sferoïdisch; polarvelden klein. Colpi met brede, vaak porie-achtige vernauwing (ca. 6 µm). Exine ca. 2,8(3,2) µm. Brochi 2,0–2,5(3,0) µm; columellae dubbelrijig. Exine naar randen ca. 1 µm.\n\n*Euonymus europaea* L. (4)\n27,3–31,9 µm, MiW 28,5 µm; 50 PK, 0a\n\n*Euonymus latifolia*: groter; exine 5,0–5,5 µm (randen 2,0 µm); PForml 0,96–1,14; equatoriaal aanzicht meestal ruitvormig.\n\n*Euonymus latifolia* (L.) MILL. (3)\n32,5–43,0 µm, MiW 38,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

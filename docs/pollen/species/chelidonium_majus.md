@@ -1,6 +1,6 @@
 # *Chelidonium majus* (Chelidonium majus)
 
-{{ pollen_gallery("chelidonium_majus") }}
+{{ gallery("chelidonium_majus") }}
 
 ## Kenmerken
 

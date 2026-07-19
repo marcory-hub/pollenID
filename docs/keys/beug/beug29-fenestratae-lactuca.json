@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae-lactuca",
+    "title": "29.2 *Lactuca*-type (Tafel 94: 18–21)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Equatoriale ribben 1 rij echini; polaire begrenzingsribben typisch niet driehoekig verbreed.",
+          "outcome": {
+            "text": "29.2 *Lactuca*-type\n\n3 porale + 6 paraporale lacunae. Equatoriale ribben met 1 rij echini. Overgangen naar *Crepis*-/*Sonchus*-type komen voor (o.a. *L. tatarica*, *L. perennis*).\n\n*Aposeris foetida* (L.) LESS. (2)\n37,5–48,0 µm, MiW 43,0 µm; 50 PK, 0a\n\n*Cichorium endivia* L. (1)\n47,5–58,0 µm, MiW 53,1 µm; 50 PK, 0a\n\n*Lactuca perennis* L. (2)\n39,8–46,8 µm, MiW 43,2 µm; 50 PK, 0a\n\n*Lactuca quercina* L. (2)\n37,5–45,0 µm, MiW 41,1 µm; 50 PK, 0a\n\n*Lactuca saligna* L. (2)\n39,5–55,0 µm; 22 PK, Oa\n[te verifiëren: MiW ontbreekt]\n\n*Lactuca sativa* L. (1)\n35,8–45,0 µm, MiW 40,7 µm; 50 PK, Oa\n\n*Lactuca serriola* L. (2)\n33,5–43,8 µm, MiW 37,9 µm; 50 PK, 0a\n\n*Lactuca tatarica* (L.) C.A.MEY. (1)\n41,0–55,0 µm, MiW 49,5 µm; 50 PK, Oa\n\n*Lactuca viminea* (L.) J. PRESL & C. PRESL (2)\n33,3–44,5 µm, MiW 39,5 µm; 50 PK, Oa\n\n*Lactuca virosa* L. (2)\n33,3–47,5 µm, MiW 40,9 µm; 50 PK, Oa\n\n*Mycelis muralis* (L.) DUMORT.\n37,0–46,8 µm, MiW 42,0 µm; 50 PK, Oa\n[te verifiëren: herkomsttelling ontbreekt in OCR]"
+          }
+        }
+      ]
+    }
+  }
+}

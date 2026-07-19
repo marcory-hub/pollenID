@@ -1,6 +1,6 @@
 # *Lychnis flos-cuculi*
 
-{{ pollen_gallery("lychnis_flos-cuculi") }}
+{{ gallery("lychnis_flos-cuculi") }}
 
 ## Kenmerken
 

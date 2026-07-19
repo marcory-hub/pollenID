@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-odontites",
+    "title": "21.2 *Odontites*-type (Tafel 58: 11–16)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Intercolpia met ca. 10 µm rond ongeculpteerd gebied; daarbuiten fijn reticulaat. Polarvelden klein.",
+          "outcome": {
+            "text": "21.2 *Odontites*-type\n\nPForml 1,0–1,1 (*O. litoralis* 0,8–1,3; *Tozzia alpina* 1,13–1,27). Exine ca. 1,5 µm.\n\n*Odontites vulgaris* MOENCH (3)\n22,5–30,5 µm, MiW 26,9 µm; 50 PK, Oa\n\n*Odontites litoralis* (FR.) FR. (1)\n23,0–34,0 µm, MiW 28,1 µm; 50 PK, Oa\n\n*Odontites lutea* (L.) CLAIRV. (3)\n21,8–26,0 µm, MiW 24,1 µm; 50 PK, 0a\n\n*Odontites vernus* (BELLARDI) DUM. (1)\n27,5–35,5 µm, MiW 32,4 µm; 50 PK, 0a\n\n*Tozzia alpina* L. (3)\n23,3–27,5 µm, MiW 26,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

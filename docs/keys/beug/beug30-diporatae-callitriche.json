@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug30-diporatae-callitriche",
+    "title": "30.2 *Callitriche palustris*-type (Tafel 96: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK retipilaat of zwak reticulaat; 19–35 µm.",
+          "outcome": {
+            "text": "30.2 *Callitriche palustris*-type\n\nPK sphaeroïdisch, retipilaat of zwak reticulaat; columellae netvormig geplaatst. Muri meestal zwak of pas op diepere optische vlak zichtbaar. Aperturen sterk wisselend: 2, 3 of 4 korte brede colpen resp. poriën met onregelmatige randen. Exine tot 1,5 µm dik.\n\n*Callitriche cophocarpa* SENDTNER (2)\n19,5–28,0 µm, MiW 23,1 µm; 50 PK, 0a\n\n*Callitriche platycarpa* KÜTZ. (1)\n24,0–32,8 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Callitriche palustris* L. (1)\n19,5–29,8 µm, MiW 24,5 µm; 50 PK, Oa\n\nNon vidi: *C. hermaphrodita* L., *C. hamulata* KÜTZ. ex W.D.J. KOCH."
+          }
+        }
+      ]
+    }
+  }
+}

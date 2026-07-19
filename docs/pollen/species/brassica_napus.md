@@ -1,6 +1,6 @@
 # *Brassica napus (koolzaad* (koolzaad)
 
-{{ pollen_gallery("brassica_napus") }}
+{{ gallery("brassica_napus") }}
 
 ## Kenmerken
 
@@ -113,7 +113,7 @@ brassica_napus:
 - Stap 14:
   - <span class="pid-key-choice pid-key-choice--on">Pollenkorrel met 3 colpi, of 3 colpi met in het midden een porus of porusachtige structuur.</span>
   - <span class="pid-key-choice pid-key-choice--off">pollenkorrel met meer dan 3 colpi en/of pori.</span>
-- Eindpunt: [Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolpatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)
+- Eindpunt: [Tricolpatae](beug13-tricolpatae-ps.md), [Tricolporatae](beug14-tricolporatae-ps.md), [Tricolporoidatae](beug15-tricolporoidatae-ps.md)
 
 </details>
 

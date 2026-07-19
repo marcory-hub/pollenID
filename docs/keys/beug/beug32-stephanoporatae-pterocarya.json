@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-pterocarya",
+    "title": "32.5 *Pterocarya* (Tafel 103: 10–15)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "34–42 µm; 5–6(7) poriën; lacunae-achtige indeukingen op polarvelden.",
+          "outcome": {
+            "text": "32.5 *Pterocarya fraxinifolia*\n\nAfgeplat; 5–6(7) poriën; P/E 0,75–0,90; polaire as 28–32 µm. Vestibula 8–10 × 2,8–4,0 µm. Poriën ca. 3,2 µm of transversaal 2,0–2,2 × 3,0–3,5 µm. Polarvelden vaak met 2–3 lacunae-achtige indeukingen (ca. 8–10 µm). Microverrucaat (ca. 0,5 µm; fasecontrast). Exine 1,5–1,8 µm.\n\n*Pterocarya fraxinifolia* (POIRET) SPACH (2)\n34,0–41,8 µm, MiW 36,5 µm; 50 PK, 0a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

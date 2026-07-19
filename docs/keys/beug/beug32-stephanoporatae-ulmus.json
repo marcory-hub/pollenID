@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-ulmus",
+    "title": "32.13 *Ulmus*, *Zelkova* (Tafel 105: 19–25)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Oblaat; rugulaat/reticulaat; verdikte porieomranding; geen columellae-laag.",
+          "outcome": {
+            "text": "32.13 *Ulmus*, *Zelkova*\n\n*Ulmus*: zwak oblaat tot sphaeroïdisch; P/E 0,68–0,87; equatoriaal 4–6-hoekig. Zwak tot duidelijk heteropolair. Sculpture (supra)reticulaat of rugulaat; brochi 2–5 µm (vaak open); muri 0,8–1,5 µm. Poriën meridionaal 2,0–4,5 × 3,5–6,0 µm (rond ca. 3 µm). Anulus uit vergroeide sculptuurelementen; exine bij anuli (2)2,2–3,0 µm, erbuiten 1,5–2,0 µm. Endexine ca. 0,5 µm; geen columellae-laag. Meestal 5 poriën (4–6(7)).\n\n*Zelkova carpinifolia* (50 PK): 28 % 4-porig, 58 % 5-porig, 12 % 6-porig, 2 % 7-porig. Verhoogd aandeel 4-porige PK kan op *Zelkova* wijzen.\n\n*Zelkova keaki* MAYR (oud preparaat): overwegend 4-porig naast ca. 20 % 5-porig; 38,0–48,5 µm (34 PK); sculpture als *Ulmus*.\n\n*Ulmus glabra* HUDS. (4)\n33,0–40,3 µm, MiW 37,4 µm; 50 PK, 0a, Ä\n\n*Ulmus laevis* PALL. (3)\n33,0–39,3 µm, MiW 37,4 µm; 50 PK, 0a, Ä\n\n*Ulmus minor* MILL. (5)\n30,0–40,3 µm, MiW 35,3 µm; 50 PK, 0a, Ä\n\n*Zelkova carpinifolia* (PALL.) K. KOCH (1)\n35,3–49,3 µm, MiW 42,2 µm; 50 PK, 6a, Ä"
+          }
+        }
+      ]
+    }
+  }
+}

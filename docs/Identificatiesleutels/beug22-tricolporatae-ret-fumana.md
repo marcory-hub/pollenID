@@ -1,6 +1,4 @@
-# 22.4 Fumana (Beug) - determinatietabel
-
-Sleutel voor **Fumana**, §22.4 in Beug. PK = pollenkorrel.
+# 22.4 *Fumana* (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug22-tricolporatae-ret-fumana.json"></div>
 

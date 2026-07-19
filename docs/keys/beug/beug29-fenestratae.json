@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae",
+    "title": "29. Fenestratae — Cichoriaceae (Beug)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 9
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met echini.",
+          "next": "3"
+        },
+        {
+          "label": "PK psilaat.",
+          "next": "2"
+        }
+      ],
+      "note": "Hier alleen Cichoriaceae (Liguliflorae). *Ribes* en *Polygala* elders naar apertuurklasse. Grootte = equatoriale diameter incl. echini. Bij onduidelijk lacunae-netwerk: Cichoriaceae indet."
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK periporaat; lacunae om enkele poriën of om 2–3 poriën (Tafel 114: 1–10).",
+          "outcome": {
+            "text": "*Ribes* (S. 487) — zie `beug33-periporatae-ribes.md`"
+          }
+        },
+        {
+          "label": "PK stephanocolporaat met lacunae op de polarvelden (Tafel 90: 4–8).",
+          "outcome": {
+            "text": "*Polygala comosa*-type (S. 398)\n\n*Polygala comosa* SCHKUHR (4) 29,5-46,3 um, MiW 38,5 mụ; 50 PK, Da Tafel 89 1-8 Nonea lutea (3, 6-8 Phako), 9-14 Ceratonia siliqua, 15-20 Utricularia vulgaris, 21-22 Utricularia neglecta. Vergrößerungen 1000fach. Polygala calcarea F.W.SCHULTZ (3)\n28,3–42,0 µm, MiW 35,2 µm; 50 PK, 0a\n\n*Polygala vulgaris* L. (3)\n28,0–40,4 µm, MiW 34,2 µm; 101 PK, 0a\n\n*Polygala amarella* CRANTZ (2)\n27,0–38,0 µm, MiW 32,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porale lacunae drielokig; PK met equatoriale ribben.",
+          "next": "4"
+        },
+        {
+          "label": "Porale lacunae tweelokig of equatoriaal slechts vernauwd; PK zonder equatoriale ribben.",
+          "next": "7"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Equatoriale ribben met 2 rijen echini; paraporale lacunae smal; PK slechts 25–33 µm (Tafel 94: 13–17).",
+          "outcome": {
+            "text": "29.1 *Arnoseris minima* (S. 418) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Equatoriale ribben met 1 rij echini; PK overwegend groter dan 35 µm (*Crepis*-type via overgangen met *Sonchus*- en *Lactuca*-type).",
+          "next": "5"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "De 3 ribben die polaire lacunae begrenzen, zijn in het polargebied niet of nauwelijks verbreed; randen met 1 of 2 rijen echini (Tafel 94: 18–21).",
+          "outcome": {
+            "text": "29.2 *Lactuca*-type (S. 418) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "De ribben monden polar uit in een meestal driehoekig breed echinaat veld (gelijkmatig of ongelijkmatig met echini).",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met duidelijke, meestal 3 polaire lacunae per polargebied (Tafel 94: 22–25).",
+          "outcome": {
+            "text": "29.3 *Sonchus*-type (S. 418) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK zonder polaire lacunae; in echinaten polaire velden kunnen grotere tussenruimten tussen echini liggen, maar met buitenste columellae (geen lacunae). Polargebieden met 1–2 meestal kleine lacunae komen voor (Tafel 94: 26–28).",
+          "outcome": {
+            "text": "29.4 *Crepis*-type (S. 419) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK slechts met 3 (porale) lacunae (Tafel 95: 1–3).",
+          "outcome": {
+            "text": "29.5 *Scorzonera humilis*-type (S. 420) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "PK naast de porale nog verdere lacunae.",
+          "next": "8"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 6 equatoriale lacunae.",
+          "next": "9"
+        },
+        {
+          "label": "PK met 3 equatoriale lacunae (Tafel 95: 4–6).",
+          "outcome": {
+            "text": "29.6 *Tragopogon* (S. 421) — zie deelsleutel."
+          }
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK met 1 grote polaire lacuna in elk polargebied (Tafel 95: 7–9).",
+          "outcome": {
+            "text": "29.7 *Scorzonera hispanica* (S. 421) — zie deelsleutel."
+          }
+        },
+        {
+          "label": "Polargebieden met elk (1)2–3(4) lacunae of zonder lacunae (Tafel 95: 10–12).",
+          "outcome": {
+            "text": "29.8 *Scorzonera laciniata*-type (S. 421) — zie deelsleutel."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-minuartia-verna",
+    "title": "33.8.7 *Minuartia verna*-Typ (Tafel 111: 1–4)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK microreticulaat; lumina regelmatig (Tafel 111: 1–4).",
+          "outcome": {
+            "text": "33.8.7 *Minuartia verna*-Typ (Tafel 111: 1–4)\n\nPK microreticulaat: lumina regelmatig; afstand lumina ongeveer gelijk aan lumina-diameter. Brochi tot ca. 1,0 µm (bij *Honckenya* max. 1,8 µm); poriën kleiner dan bij *Melandrium*.\n\nMinuartia verna-groep: PK 22–41 µm, 11–21 poriën; microreticulum, brochi ca. 1,0 µm.\n\n*Minuartia austriaca* (JACQ.) HAYEK (1)\n28,0–37,3 µm, MiW 32,7 µm; 50 PK, 0a\n\n*Minuartia hybrida* (VILL.) SCHISCHKIN (2)\n22,0–39,8 µm, MiW 27,0 µm; 51 PK, Oa\n\n*Minuartia recurva* (ALL.) SCHINZ & THELL. (1)\n30,5–40,0 µm, MiW 35,9 µm; 50 PK, 0a\n\n*Minuartia sedoides* (L.) HIERN (2)\n32,5–41,0 µm, MiW 36,5 µm; 50 PK, 0a\n\n*Minuartia setacea* (THUILL.) HAYEK (2)\n25,5–34,0 µm, MiW 29,9 µm; 53 PK, Oa\n\n*Minuartia verna* (L.) HIERN (2)\n28,0–38,0 µm, MiW 32,9 µm; 51 PK, 0a\n\n*Bufonia paniculata* F. DUBOIS (1)\n26,0–30,8 µm, MiW 29,0 µm; 50 PK, Oa\n\n*Gypsophila muralis* L. (3)\n19,5–24,8 µm, MiW 22,1 µm; 51 PK, 0a\n\n*Honckenya peploides* (L.) EHRH. (3)\n32,8–40,0 µm, MiW 36,5 µm; 50 PK, 0a\n\n*Pseudostellaria europaea* SCHAEFTLEIN (1)\n34,5–44,3 µm, MiW 39,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

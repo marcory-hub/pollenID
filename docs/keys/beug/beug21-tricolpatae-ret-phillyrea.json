@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug21-tricolpatae-ret-phillyrea",
+    "title": "21.29 *Phillyrea* (Tafel 66: 14–19)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PFeldI 0,41–0,64; colpi zeer smal; columellae in helderveld duidelijk.",
+          "outcome": {
+            "text": "21.29 *Phillyrea*\n\nPForml 0,8–1,2. Exine (1,2)1,4–2,0(2,2) µm. Brochi boven 1,0 tot 2,2 µm.\n\n*Phillyrea angustifolia* L. (1)\n18,2–24,3 µm, MiW 22,0 µm; 50 PK, 0a\n\n*Phillyrea latifolia* L. (2)\n19,3–23,0 µm, MiW 21,7 µm; 50 PK, 0a\n\n*Phillyrea media* L. (2)\n22,0–30,0 µm, MiW 25,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

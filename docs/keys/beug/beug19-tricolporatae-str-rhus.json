@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-rhus",
+    "title": "19.4 *Rhus*-groep (Tafel 48: 5–29)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 3
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "note": "Vertegenwoordigd door *Rhus*, *Cotinus* en *Ailanthus*. PK sferoïdisch tot prolaat, apiculaat, elliptisch, spoelvormig of ruitvormig. Sculptuur striaat-reticulaat of striaat-microreticulaat. Colpi soms equatoriaal iets vernauwd, steeds met colpi transversales met costae aan de lange zijden.",
+      "choices": [
+        {
+          "label": "PK polair en subpolair striaat-reticulaat met brochi tot 3 µm. Equatoriaal striaat-microreticulaat; valla hier smal met onopvallende vernettingen (Tafel 48: 5–11).",
+          "outcome": {
+            "text": "19.4.1 *Rhus toxidendron*-type (Tafel 48: 5–11)\n\nPK apiculaat; equatoriaal met dicht opeenstaande smalle valla met onopvallende dwarsverbindingen. Naar de polarvelden toe overgang naar striaat-reticulate sculptuur; brochi tot 3 µm. Colpi transversales 9,0–12,0 × (2,0)2,5–4,0 µm, nabij de colpi met costae. Exine ca. 1,5–2,0 µm dik.\n\n*Rhus sylvestris* S. & Z. (1)\n28,6–37,3 µm, MiW 34,4 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Brochi in het poolgebied hoogstens weinig groter dan equatoriaal en subequatoriaal; overal als microbrochi.",
+          "next": "2"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK < 35 µm.",
+          "next": "3"
+        },
+        {
+          "label": "PK 35–60 µm groot (Tafel 48: 12–17).",
+          "outcome": {
+            "text": "19.4.2 *Rhus coriaria*-type (Tafel 48: 12–17)\n\nPK sferoïdisch tot prolaat, PForml 1,11–1,46, apiculaat, ruitvormig of elliptisch. Polarvelden klein tot middelgroot (PFeldI 0,13–0,26). Sculptuur striaat-microreticulaat tot striaat, polair microreticulaat met tectum perforatum. Colpi transversales 13–20 × 2–3 µm. Exine 2,0–2,5 µm dik.\n\n*Rhus copallina* L. (3)\n37,2–52,8 µm, MiW 46,0 µm; 50 PK, 0a\n\n*Rhus coriaria* L. (2)\n40,7–58,1 µm, MiW 46,1 µm; 50 PK, 0a\n\n*Rhus toxidendron* L. (1)\n28,0–38,9 µm, MiW 34,1 µm; 50 PK, 0a\n\n*Rhus glabra* L. (2)\n37,5–50,0 µm, MiW 44,8 µm; 50 PK, Oa\n\n*Rhus typhina* L. (3)\n38,6–51,3 µm, MiW 43,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "note": "[te verifiëren] OCR zet bij PK < 35 µm ook 19.4.1; Cotinus/Ailanthus hier als vervolg zodat beide genera bereikbaar blijven.",
+      "choices": [
+        {
+          "label": "Exine 1,2–2,0 µm dik, colpi transversales zwak ontwikkeld, PK striaat-microreticulaat, brochi tot 1 µm (Tafel 48: 18–23).",
+          "outcome": {
+            "text": "19.4.3 *Cotinus coggyria*\n\nPK spoelvormig, elliptisch of apiculaat, sferoïdisch tot zwak prolaat, PForml 1,01–1,61. Polarvelden klein, PFeldI (0,11–0,19). Sculptuur striaat-microreticulaat. Exine 1,2–2,0 µm. Colpi transversales 6,0–8,0 × 1,5–2,5 µm, costae zwak.\n\n*Cotinus coggyria* Scop. (4)\n19,5–31,5 µm, MiW 25,4 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "Exine 2,0–2,8 µm dik, colpi transversales duidelijk, PK striaat-reticulaat, brochi 0,8–1,5 µm (Tafel 48: 24–29).",
+          "outcome": {
+            "text": "19.4.4 *Ailanthus altissima*\n\nPK elliptisch tot apiculaat, sferoïdisch, PFormI 1,07–1,42(1,52). Polarvelden klein (PFeldI 0,19–0,20). Sculptuur duidelijk striaat-reticulaat met (0,8)1,0–1,2(1,5) µm grote brochi. Exine midden intercolpium tot 2,8 µm, elders minstens 2,0 µm. Colpi transversales 1,5–3,0 × 7,5–8,0 µm met duidelijke costae.\n\n*Ailanthus altissima* (MILL.) SWINGLE (2)\n25,8–34,8 µm, MiW 31,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,6 @@
 # *Thuja occidentalis*
 
-{{ pollen_gallery("thuja_occidentalis") }}
+{{ gallery("thuja_occidentalis") }}
 
 ## Kenmerken
 

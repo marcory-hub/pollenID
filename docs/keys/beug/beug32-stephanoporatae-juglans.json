@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug32-stephanoporatae-juglans",
+    "title": "32.2 *Juglans* (Tafel 103: 5–9)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Extra poriën op één polarveld; oblaat.",
+          "outcome": {
+            "text": "32.2 *Juglans*\n\nOblaat tot zwak sphaeroïdisch; P/E 0,72–0,85. Equatoriaal 7–11 iets verspringende poriën; op één polarveld 1–6 extra poriën (heteropolair). Poriën 2,0–4,5 µm; voorwelvingen 10–13 µm diameter. Exine 1,8–2,0 µm, fijn scabraat (0,4–0,6 µm; fasecontrast).\n\n*Juglans regia* L. (2)\n43,5–53,3 µm, MiW 48,6 µm; 50 PK, 0a, Ä\nPolaire as 32–40 µm.\n\n*Juglans nigra* L. (3)\n33,3–43,0 µm, MiW 38,1 µm; 50 PK, 0a, Ä\nPolaire as 27–34 µm."
+          }
+        }
+      ]
+    }
+  }
+}

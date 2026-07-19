@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-caldesia",
+    "title": "33.23 *Caldesia parnassifolia* (Tafel 119: 6–12)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Meestal 10–12 poriën 4–6 µm; microechinaat + microreticulaat.",
+          "outcome": {
+            "text": "33.23 *Caldesia parnassifolia*\n\nExine 1,5 µm; zonder anulus.\n\n*Caldesia parnassifolia* (BASSI ex L.) PARL. (2)\n24,8–32,5 µm, MiW 27,7 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

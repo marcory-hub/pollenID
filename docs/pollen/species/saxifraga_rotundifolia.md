@@ -1,6 +1,6 @@
 # *Saxifraga rotundifolia* (rondbladige steenbreek)
 
-{{ pollen_gallery("saxifraga_rotundifolia") }}
+{{ gallery("saxifraga_rotundifolia") }}
 
 ## Kenmerken
 

@@ -1,4 +1,4 @@
-# 26 Pericolpatae (Beug)
+# 26. Pericolpatae (Beug)
 
 <div id="pollentabel-root" data-json-url="../../keys/beug/beug26-pericolpatae.json"></div>
 

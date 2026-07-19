@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug12-dicolporatae",
+    "title": "12. Dicolporatae",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Enige vertegenwoordiger in de Midden-Europese flora: *Tordylium maximum* (Tafel 12: 5–8).",
+          "outcome": {
+            "text": "12.1 *Tordylium maximum*\n\nPK prolaat tot perprolaat, PForml 1,90–2,22. PK in polair aanzicht afgeplat, aperturen op de platte zijden. Colpi kort, CL-index 0,33–0,51. Poriën equatoriaal verlengd, 2,0–3,0 × 5,0–7,0 µm groot, met parallelle randen en soms met costae. Exine meestal equatoriaal opvallend verdikt, hier (3,0)3,5–4,0 µm dik. Polair 3,0–3,5 µm dik. In het subequatoriale gebied is de exine het dunst. Columellae polair omstreeks 1,0 µm, equatoriaal 1,3–1,7 µm lang, polair en subequatoriaal meestal iets dikker en met grotere afstanden dan in het equatoriale gebied. Tectum equatoriaal meestal gegolfd. Endexine 1,0–1,2 µm dik.\n\n*Tordylium maximum* L. (2)\n33,0–42,0 µm, MiW 37,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

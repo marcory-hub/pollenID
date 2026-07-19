@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug19-tricolporatae-str-aesculus-hippocastanum",
+    "title": "19.2 *Aesculus hippocastanum* (Tafel 47: 23–30)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "PK prolaat, PForml 1,54–1,96, polarvelden middelgroot (PFeldI 0,26–0,33). Exine 1,8–2,0 µm, endexine 0,9–1,0 µm, duidelijk dikker dan het tectum.",
+          "outcome": {
+            "text": "19.2 *Aesculus hippocastanum*\n\nValla overwegend transversaal, vaak alleen equatoriaal herkenbaar. Colpi duidelijk ingezonken en meestal met 1–2 µm grote gemmae. Poriën rondachtig, 5,0–6,0 µm groot.\n\n*Aesculus hippocastanum* L. (3)\n22,3–31,9 µm, MiW 28,2 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

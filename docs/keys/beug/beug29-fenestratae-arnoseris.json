@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug29-fenestratae-arnoseris",
+    "title": "29.1 *Arnoseris minima* (Tafel 94: 13–17)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Equatoriale ribben met 2 rijen echini; PK 25–33 µm.",
+          "outcome": {
+            "text": "29.1 *Arnoseris minima*\n\n3 porale + 6 paraporale lacunae; porale drielokig. Equatoriale ribben ca. 4 µm breed, 2 rijen echini. Paraporale lacunae smal (ca. 2,5 × 7,0 µm). Echini 2–3 µm; buitenste columellae-laag + echini 5–6 µm hoog.\n\n*Arnoseris minima* (L.) SCHWEIGG. & KORTE (2)\n25,3–32,8 µm, MiW 30,5 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

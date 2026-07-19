@@ -40,7 +40,7 @@ def _load_pollen() -> Dict[str, Any]:
 
 
 def _extract_gallery_keys(index_text: str) -> List[str]:
-    keys = re.findall(r'\{\{\s*pollen_gallery\(\s*"([^"]+)"\s*\)\s*\}\}', index_text)
+    keys = re.findall(r'\{\{\s*gallery\(\s*"([^"]+)"\s*\)\s*\}\}', index_text)
     out: List[str] = []
     for k in keys:
         k = k.strip()
@@ -210,7 +210,7 @@ def render_taxon_page(key: str, entry: Dict[str, Any]) -> str:
     parts: List[str] = []
     parts.append(_title(entry, key))
     parts.append("")
-    parts.append('{{ pollen_gallery("' + key + '") }}')
+    parts.append('{{ gallery("' + key + '") }}')
     parts.append("")
     parts.append("## Kenmerken")
     parts.append("")
@@ -238,7 +238,7 @@ def main() -> int:
     idx = _read_text(INDEX_MD)
     keys = _extract_gallery_keys(idx)
     if not keys:
-        raise SystemExit("No pollen_gallery keys found in _index.md")
+        raise SystemExit("No gallery keys found in _index.md")
 
     missing: List[str] = []
     for k in keys:

@@ -1,6 +1,6 @@
 # *Ilex aquifolium* (hulst)
 
-{{ pollen_gallery("ilex_aquifolium") }}
+{{ gallery("ilex_aquifolium") }}
 
 ## Kenmerken
 

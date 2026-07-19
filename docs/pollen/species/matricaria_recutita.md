@@ -1,6 +1,6 @@
 # *Matricaria Recutita*
 
-{{ pollen_gallery("matricaria_recutita") }}
+{{ gallery("matricaria_recutita") }}
 
 ## Kenmerken
 

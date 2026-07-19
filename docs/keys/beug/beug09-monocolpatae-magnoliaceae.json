@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug09-monocolpatae-magnoliaceae.json",
-    "title": "9.4 Magnoliaceae (Beug)",
+    "key": "beug09-monocolpatae-magnoliaceae",
+    "title": "9.4 Magnoliaceae (Tafel 9: 7–14)",
     "locale": "nl",
     "source": "Beug",
-    "stepCount": 1,
-    "start": "1"
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
   },
   "start": "1",
   "steps": {
@@ -14,16 +15,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met brochi, Exine over 2 µm dik (tabel 9: 7–11).",
-          "id": {
-            "pollen_key": "liriodendron_tulipifera",
-            "note": "9.4.1 Liriodendron tulipifera"
+          "label": "PK verrucaat tot rugulaat, tussen de sculptuurelementen met Brochi, Exine dikker dan 2 µm (Tafel 9: 7–11).",
+          "outcome": {
+            "text": "9.4.1 *Liriodendron tulipifera* (Tafel 9: 7–11)\n\nPK verrucaat (sculptuurelementen ook iets verlengd: verrucaat-rugulaat). Verrucae 2–4(5) µm groot, in optische doorsnede duidelijk. Exine tussen de Verrucae reticulaat met 0,8–1,2 µm grote Lumina en brede Muri. Exine 2,0–2,8 µm dik, Endexine dun, Columellae laag.\n\n*Liriodendron tulipifera* L. (2)\n62,5–85,3 µm, MiW 72,7 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens verspreide brochi tussen deze sculptuurelementen. Exine dunner als 2 µm (tabel 9: 12–14).",
-          "id": {
-            "name": "9.4.2 Magnolia"
+          "label": "PK verrucaat, rugulaat of rugulaat-reticulaat gesculpteerd, hoogstens enkele Brochi tussen deze sculptuurelementen. Exine dunner dan 2 µm (Tafel 9: 12–14).",
+          "outcome": {
+            "text": "9.4.2 *Magnolia* (Tafel 9: 12–14)\n\nSculptuur overwegend verrucaat (*M. acuminata*), verrucaat en rugulaat, rugulaat (*M. stellata*) of rugulaat-reticulaat (*M. kobus*; *M. liliiflora*). Zelden kleine Brochi tussen de sculptuurelementen. Soms perforaties in de sculptuurelementen (*M. liliiflora*). Exine 1,0–1,8(1,9) µm dik. Columellae zelden duidelijk (*M. liliiflora*), meestal alleen in fasecontrast herkenbaar, vaak niet herkenbaar.\n\n*Magnolia acuminata* L. (2)\n53,0–75,5 µm, MiW 63,4 µm; 50 PK, 0a\n\n*Magnolia kobus* DC. (1)\n42,5–64,8 µm, MiW 52,2 µm; 50 PK, 0a\n\n*Magnolia liliiflora* DESR. (1)\n51,8–86,5 µm, MiW 65,1 µm; 50 PK, 0a\n\n*Magnolia stellata* (SIEB. & ZUCC.) MAXIM. (2)\n41,0–62,5 µm, MiW 52,3 µm; 50 PK, 0a"
           }
         }
       ]

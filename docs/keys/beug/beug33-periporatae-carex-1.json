@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug33-periporatae-carex-1",
+    "title": "33.18 *Carex* groep 1 — overwegend colpaat",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Aperturen overwegend of uitsluitend colpen.",
+          "outcome": {
+            "text": "33.18 *Carex* groep 1\n\n*Carex alba* SCOP. (1)\n33,0–48,8 µm, MiW 41,1 µm; 50 PK, 0a\n\n*Carex atrofusca* SCHKUHR (1)\n33,0–47,3 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Carex curvula* ALL. (1)\n37,0–50,0 µm, MiW 42,8 µm; 50 PK, 0a\n\n*Carex distans* L. (1)\n37,0–52,0 µm, MiW 45,4 µm; 50 PK, 0a\n\n*Carex glareosa* WAHLENB. (1)\n32,5–42,0 µm, MiW 37,9 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}

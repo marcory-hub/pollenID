@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug26-pericolpatae-cuscuta-lupuliformis",
+    "title": "26.3 *Cuscuta lupuliformis* (Tafel 91: 21–24)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Reticulaat; exine 3,5–4,0 µm; meestal 6 tetraëdrische colpi.",
+          "outcome": {
+            "text": "26.3 *Cuscuta lupuliformis*\n\nPK reticulaat; meestal 6 tetraëdrisch geplaatste colpi, zelden tricolpaat. Colpi meestal 12–15 × ca. 2 µm. Brochi 2–3 µm; columellae 0,8 tot bijna 1 µm. Exine 3,5–4,0 µm.\n\nEnige niet-neofytische vertegenwoordiger van deze vorm. Neofyten *C. gronovii* WILLD. en *C. scandens* BROT. kunnen tot dit type gerekend worden (grootte ongeveer gelijk; vaak veel PK met onregelmatige colpi).\n\n*Cuscuta lupuliformis* KROCK. (2)\n35,8–46,8 µm, MiW 40,7 µm; 50 PK, Oa"
+          }
+        }
+      ]
+    }
+  }
+}

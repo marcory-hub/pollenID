@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug17-ttt-ech-dipsacaceae.json",
+    "key": "beug17-ttt-ech-dipsacaceae",
     "title": "17.4 Dipsacaceae p.p. (Beug)",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 5,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -14,9 +15,9 @@
       "type": "step",
       "choices": [
         {
-          "label": "De endexine keilt tegen de randen van de aperturen uit en ontbreekt in de nabijheid van de aperturen (Afb. 23). In aanzicht is de rand van de endexine, die zich cirkelvormig tot elliptisch om de aperturen heen trekt, over het algemeen goed te herkennen. Het uitkeilen van de endexine is bijzonder goed te zien wanneer een apertuur in optische doorsnede ligt. Tricolpate en triporate PK komen bij beide geslachten voor (tabel 44: 3-6).",
-          "id": {
-            "name": "17.4.1 Dipsacus, Cephalaria (zie ook Triporatae, Blz... 426)"
+          "label": "De endexine keilt tegen de randen van de aperturen uit en ontbreekt in de nabijheid van de aperturen (Afb. 23). In aanzicht is de rand van de endexine, die zich cirkelvormig tot elliptisch om de aperturen heen trekt, meestal goed te herkennen. Tricolpate en triporate PK komen bij beide geslachten voor (tabel 44: 3–6).",
+          "outcome": {
+            "text": "17.4.1 *Dipsacus*, *Cephalaria* (Tafel 44: 3–6; Afb. 23–24) — zie ook Triporatae (S. 426)\n\nPK tricolpaat of triporaat, sferoïdisch, PFormI 0,77–1,07. Exine ca. 6–8 µm.\n\n*Dipsacus laciniatus* L. (2)\n76,5–96,8 µm, MiW 85,4 µm; 35 PK, 0a\n\n*Dipsacus pilosus* L. (2)\n65,9–83,7 µm, MiW 74,0 µm; 50 PK, 0a\n\n*Dipsacus sativus* (L.) Honck. (2)\n64,1–98,6 µm, MiW 85,4 µm; 50 PK, 0a\n\n*Dipsacus fullonum* L. (2)\n79,7–98,3 µm; 25 PK, 0a\n\n*Cephalaria alpina* (L.) Roem. & Schult. (1)\n63,7–85,4 µm, MiW 79,4 µm; 40 PK, 0a\n\n*Cephalaria leucantha* (L.) Roem. & Schult. (1)\n69,1–90,1 µm, MiW 80,7 µm; 50 PK, 0a\n\n*Cephalaria transsilvanica* (L.) Roem. & Schult. (1)\n53,9–79,7 µm, MiW 67,6 µm; 55 PK, 0a"
           }
         },
         {
@@ -44,15 +45,15 @@
       "type": "step",
       "choices": [
         {
-          "label": "columellae duidelijk boompje-vormig vertakt (tabel 44: 1-2).",
-          "id": {
-            "name": "17.4.2 Succisa-type"
+          "label": "Columellae duidelijk boompjesvormig vertakt (tabel 44: 1–2).",
+          "outcome": {
+            "text": "17.4.2 *Succisa*-type (Tafel 44: 1–2; Afb. 24c,e–g)\n\nPK sferoïdisch. Sterke boompjesvormige vertakking van de columellae. Exine equatoriaal tot ca. 8 µm, polair soms > 10 µm. *Succisella inflexa*: exine 6,5–8,0 µm; PFormI 0,81–1,03; onderscheid via grootte buiten overlap ca. 70–80 µm.\n\n*Succisa pratensis* Moench (3)\n76,5–96,1 µm, MiW 87,9 µm; 55 PK, 0a\n\n*Succisella inflexa* (Kluk) Beck (2)\n53,1–76,5 µm, MiW 66,8 µm; 50 PK, 0a"
           }
         },
         {
-          "label": "columellae onvertakt of zelden en dan niet boompje-vormig vertakt, zeer dicht staand (tabel 45: 1-3).",
-          "id": {
-            "name": "17.4.3 Scabiosa columbaria-type"
+          "label": "Columellae onvertakt of zelden en dan niet boompjesvormig vertakt, zeer dichtstaand (tabel 45: 1–3).",
+          "outcome": {
+            "text": "17.4.3 *Scabiosa columbaria*-type (Tafel 45: 1–3; Afb. 24h–i)\n\nPK tricolpaat, elliptisch tot ruitvormig, PFormI 1,06–1,31. Exine 7–9(10) µm, polair soms tot 14 µm. Echini 1,5–3,0 µm; microechini ca. 0,5 µm.\n\n*Scabiosa canescens* Waldst. & Kit. (2)\n62,3–80,8 µm, MiW 71,2 µm; 50 PK, 0a\n\n*Scabiosa columbaria* L. (3)\n62,3–85,4 µm, MiW 78,7 µm; 50 PK, 0a\n\n*Scabiosa columbaria* L. subsp. *hladnikiana* (Host) Jasiewicz (1)\n60,5–85,4 µm, MiW 78,3 µm; 52 PK, 0a\n\n*Scabiosa lucida* Vill. (1)\n65,7–106,1 µm, MiW 83,7 µm; 50 PK, 0a\n\n*Scabiosa ochroleuca* L. (2)\n70,5–84,5 µm, MiW 78,8 µm; 50 PK, 0a\n\n*Scabiosa silenifolia* Waldst. & Kit. (1)\n67,6–89,0 µm, MiW 77,6 µm; 30 PK, 0a\n\n*Scabiosa vestina* Facch. (1)\n67,6–89,0 µm, MiW 80,5 µm; 30 PK, 0a"
           }
         }
       ]
@@ -62,13 +63,13 @@
       "type": "step",
       "choices": [
         {
-          "label": "tectum ongeveer even dik als de columellae-laag (1-2 µm).",
-          "id": {
-            "name": "Knautia (zie Triporatae, Blz... 428)"
+          "label": "Tectum ongeveer even dik als de columellae-laag (1–2 µm).",
+          "outcome": {
+            "text": "*Knautia* (zie Triporatae, S. 428)"
           }
         },
         {
-          "label": "columellae-laag een veelvoud dikker dan het tectum.",
+          "label": "Columellae-laag een veelvoud dikker dan het tectum.",
           "next": "5"
         }
       ]
@@ -79,14 +80,14 @@
       "choices": [
         {
           "label": "PK echinaat en microechinaat.",
-          "id": {
-            "name": "Scabiosa graminifolia (zie Triporatae, Blz... 430)"
+          "outcome": {
+            "text": "*Scabiosa graminifolia* (zie Triporatae, S. 430)"
           }
         },
         {
           "label": "PK gemmaat en microechinaat.",
-          "id": {
-            "name": "Scabiosa argentea (zie Triporatae, Blz... 430)"
+          "outcome": {
+            "text": "*Scabiosa argentea* (zie Triporatae, S. 430)"
           }
         }
       ]

@@ -1,11 +1,12 @@
 {
   "meta": {
-    "key": "beug25-stephanocolporatae-pulmonaria.json",
-    "title": "25.4 Pulmonaria-groep (Beug)",
+    "key": "beug25-stephanocolporatae-pulmonaria",
+    "title": "25.4 *Pulmonaria*-groep",
     "locale": "nl",
     "source": "Beug",
     "stepCount": 1,
-    "start": "1"
+    "start": "1",
+    "note": "-"
   },
   "start": "1",
   "steps": {
@@ -15,14 +16,14 @@
       "choices": [
         {
           "label": "PK groter dan 30 µm (Tafel 87: 31-34).",
-          "id": {
-            "name": "25.4.1 Pulmonaria-type"
+          "outcome": {
+            "text": "25.4.1 *Pulmonaria*-type\n\n*Anchusa officinalis* L. (2)\n39,5–44,5 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Anchusa azurea* MILL. (1)\n40,8–49,5 µm, MiW 45,1 µm; 50 PK, 0a\n\n*Pulmonaria angustifolia* L. subsp. *kerneri* WETTSTEIN (2)\n27,5–37,5 µm, MiW 31,9 µm; 50 PK, 0a\n\n*Pulmonaria angustifolia* L. subsp. *tuberosa* SCHRANK (2)\n30,5–40,5 µm, MiW 35,1 µm; 50 PK, 0a\n\n*Pulmonaria officinalis* L. (2)\n33,5–42,5 µm, MiW 38,3 µm; 50 PK, 0a\n\n*Pulmonaria montana* LEJEUNE (2)\n30,3–39,1 µm, MiW 32,4 µm; 50 PK, 0a\n\nNon vidi: *Pulmonaria collina* W. SAUER, *P. mollis* WULFEN ex HORNEM."
           }
         },
         {
           "label": "PK 19-26 µm.",
-          "id": {
-            "name": "25.4.2 Nonea pulla"
+          "outcome": {
+            "text": "25.4.2 *Nonea pulla*\n\n*Nonea pulla* (L.) DC. (2)\n19,5–27,0 µm, MiW 23,6 µm; 50 PK, 0a"
           }
         }
       ]

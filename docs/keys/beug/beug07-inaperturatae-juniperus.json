@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "key": "beug07-inaperturatae-juniperus",
+    "title": "7.4 *Juniperus*-type (Tafel 4: 1–7)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Microgemmae onregelmatig over de PK verdeeld.",
+          "outcome": {
+            "text": "7.4.2 *Juniperus excelsa*-type\n\n*Juniperus sabina* L. (1)\n19,5–28,5 µm, MiW 23,8 µm; 50 PK, 0a\n\n*Juniperus excelsa* M. BIEB. (1)\n28,3–38,5 µm, MiW 31,2 µm; 50 PK, 0a"
+          }
+        },
+        {
+          "label": "PK meestal alleen in het gebied van een moeilijk herkenbare kiempapil met gesteelde (?) Microgemmae of met Microclava.",
+          "outcome": {
+            "text": "7.4.3 *Cunninghamia*-type\n\n*Cunninghamia lanceolata* LAMB. (1)\n21,3–31,4 µm, MiW 26,5 µm; 50 PK, 1a"
+          }
+        }
+      ]
+    }
+  }
+}

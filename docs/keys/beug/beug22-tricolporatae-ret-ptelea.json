@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "key": "beug22-tricolporatae-ret-ptelea",
+    "title": "22.25 *Ptelea trifoliata* (Tafel 75: 29–34)",
+    "locale": "nl",
+    "source": "Beug",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Elliptisch; nauwe equatoriale spleetporiën 1–1,5 × 8–11 µm, contrastrijk.",
+          "outcome": {
+            "text": "22.25 *Ptelea trifoliata*\n\nPK microreticulaat, elliptisch, meestal prolaat (PForml 1,17–1,34). Polarvelden middelgroot (PFeldI ca. 0,3). Brochi tot 1 µm. Exine 1,5–1,8(2) µm. Poriën als equatoriale spleet 1–1,5 × 8–11 µm.\n\n*Ptelea trifoliata* L. (2)\n25,0–32,0 µm, MiW 29,3 µm; 50 PK, 0a"
+          }
+        }
+      ]
+    }
+  }
+}
