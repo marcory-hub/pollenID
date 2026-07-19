@@ -2073,7 +2073,7 @@ agrimonia_odorata:
   is_secondary_contributor:
 ailanthus_altissima:
   name:
-    latin_name: Ailanthus_altissima
+    latin_name: Ailanthus altissima
     dutch_name: hemelboom
   classification:
     order:
@@ -11401,7 +11401,7 @@ euodia_hupehensis:
   is_secondary_contributor:
 euonymus_europaeus:
   name:
-    latin_name: Euonymus Europaeus
+    latin_name: Euonymus europaeus
     dutch_name: wilde kardinaalsmuts
   classification:
     order:
@@ -23631,7 +23631,7 @@ tussilago_farfara:
   is_secondary_contributor:
 ulex_europaeus:
   name:
-    latin_name: Ulex Europaeus
+    latin_name: Ulex europaeus
     dutch_name: gaspeldoorn
   classification:
     order:
@@ -24785,7 +24785,7 @@ zea_mays:
     ornamentation_visibility:
     polarity:
     pe_ratio: sferoïdisch
-    pollen-note:
+    pollen-note: 'Kerkvliet: 80 µm; glad'
   flowering_time:
     start:
     end:
@@ -82752,52 +82752,6 @@ zanthoxylum_simulans:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Zanthoxylum_simulans
     paldat: https://www.paldat.org/pub/Zanthoxylum_simulans
     waarneming: https://waarneming.nl/search/?q=zanthoxylum+simulans
-  images: []
-  is_secondary_contributor:
-zea:
-  name:
-    latin_name: Zea
-    dutch_name: maïs
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 80 µm
-    size_largest: 80 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond
-    sculpture: glad
-    sculpture_visibility:
-    aperture: 1-poraat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 zenobia_pulverulenta:

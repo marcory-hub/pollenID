@@ -1,0 +1,82 @@
+# *Solanum lycopers* (tomaat)
+
+{{ gallery("solanum_lycopers") }}
+
+## Kenmerken
+
+| Veld | Waarde |
+|---|---|
+| Latijn | Solanum lycopers |
+| Nederlands | tomaat |
+| Grootte | 20 µm |
+| Vorm | rond tot driekantig |
+| Apertuur | 3-colporaat |
+| Sculptuur | glad |
+| pollen-note | Kerkvliet: glad |
+
+### SoT (`data/pollen.yaml`)
+
+```yaml
+solanum_lycopers:
+  name:
+    latin_name: Solanum lycopers
+    dutch_name: tomaat
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
+  size:
+    size_smallest: 20 µm
+    size_largest: 20 µm
+    height_px: null
+  pollen_class_beug: null
+  pollen_features:
+    shape: rond tot driekantig
+    sculpture: glad
+    sculpture_visibility: null
+    aperture: 3-colporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: glad'
+  flowering_time:
+    start: null
+    end: null
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: null
+  frequency_in_eu_honey: null
+  frequency_in_non_eu_honey: null
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Solanum_lycopers
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopers
+    paldat: https://www.paldat.org/pub/Solanum_lycopers
+    waarneming: https://waarneming.nl/search/?q=solanum+lycopers
+  images: []
+  is_secondary_contributor: null
+```
+
+## Determinatiesleutels
+
+### Kerkvliet
+<details><summary>kerkvliet_determinatietabel</summary>
+
+- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
+
+</details>
+
+## Online databases
+
+- pollenX: https://pollenx.eu/species.php?species=Solanum_lycopers
+- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopers
+- paldat: https://www.paldat.org/pub/Solanum_lycopers
+- waarneming: https://waarneming.nl/search/?q=solanum+lycopers
