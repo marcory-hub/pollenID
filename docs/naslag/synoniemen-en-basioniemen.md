@@ -55,6 +55,8 @@ Bronnen: `data/pollen.yaml`, `docs/assets/images/by-taxon/_todo/_links/_kerkvlie
 | `tripolium_pannonicum` | *Aster tripolium* | *Aster tripolium* | nieuwe conventie; oude key verwijderd | kerkvliet; YAML `note` |
 | `galatella_linosyris` (beoogd) | *Aster linosyris* | *Aster linosyris* | nieuwe conventie | kerkvliet |
 | `centaurea_jacea` | *Centaurea jacea-Typ* | type-naam → soortnaam | uitzondering: type | kerkvliet |
+| `ranunculus_ficaria` | *Ranunculus ficaria* | *Ficaria verna* (subsp. *verna*; syn. *R. ficaria* subsp. *bulbilifer*) | synoniem; geaccepteerd *Ficaria verna* | user / PalDat; YAML `note_plant` |
+| `sanguisorba_officinalis` | *Sanguisorba officinalis* | *Poterium officinale* | synoniem | user; YAML `note_plant` |
 
 ## Leeswijzer in bronnen
 

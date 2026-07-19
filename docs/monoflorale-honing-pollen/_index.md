@@ -353,16 +353,16 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
+      <img src="../../assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
+      <img src="../../assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_2.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
+      <img src="../../assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_3.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
+      <img src="../../assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_4.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
     </figure>
   </div>
 </div>

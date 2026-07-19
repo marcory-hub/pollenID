@@ -502,7 +502,7 @@
           "label": "pollenkorrel groter dan 25 µm",
           "outcome": {
             "text": "Oleaceae (*Ligustrum*)",
-            "pollen_key": "liguster_vulgare"
+            "pollen_key": "ligustrum_vulgare"
           }
         }
       ]

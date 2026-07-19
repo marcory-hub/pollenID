@@ -1,6 +1,6 @@
 # *Ligustrum vulgare* (wilde liguster)
 
-{{ gallery("liguster_vulgare") }}
+{{ gallery("ligustrum_vulgare") }}
 
 ## Kenmerken
 
@@ -12,7 +12,7 @@
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-liguster_vulgare:
+ligustrum_vulgare:
   latin: Ligustrum vulgare
   dutch: wilde liguster
   family: null
@@ -42,16 +42,16 @@ liguster_vulgare:
     paldat: https://www.paldat.org/pub/Ligustrum_vulgare
     waarneming:
   images:
-  - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_1.png
+  - path: assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_2.png
+  - path: assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_2.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_3.png
+  - path: assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_3.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/liguster_vulgare/liguster_vulgare_4.png
+  - path: assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_4.png
     kind: by_taxon
     source: by_taxon
 ```

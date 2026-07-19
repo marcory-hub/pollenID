@@ -1,6 +1,6 @@
 ---
 name: less-tokens
-description: Reduces Cursor session token use via terse replies and efficient tool use. Use when user says less tokens, token efficiency, be brief, stop rambling, or @less-tokens.
+description: Reduces Cursor session token use via terse replies and efficient tool use. Use when user says token, tokens, less tokens, token efficiency, be brief, stop rambling, or @less-tokens.
 ---
 
 # Less tokens (Cursor)

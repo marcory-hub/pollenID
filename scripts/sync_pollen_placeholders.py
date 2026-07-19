@@ -53,7 +53,7 @@ PRIO_TYPO = {
     "Heracleum-Typ": "heracleum_typ",
     "Centaurea-Typ": "centaurea_typ",
     "Polygonum-Typ": "polygonum_typ",
-    "Centaurea jacea-Typ": "centaurea_jacea_typ",
+    "Centaurea jacea-Typ": "centaurea_jacea",
     "Helianthus-Typ": "helianthus_typ",
 }
 

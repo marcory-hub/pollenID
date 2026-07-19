@@ -7,7 +7,8 @@ alwaysApply: true
 
 ## 1. Core Mandate
 
-- **Zero hallucinations:** Never invent names, latin names, methods. Ask or add [to be verified]
+- **Zero hallucinations:** Never invent Latin names, methods, morphology, or paths. Ask or add [to be verified]
+- **Dutch vernaculars:** If you are sure of the standard Dutch name (common flora / cultivar), fill `dutch_name` / `family_dutch` without asking. Do not invent obscure or uncertain vernaculars; leave empty or ask.
 - **Answer only from:** the current conversation, files you have actually opened and read this session, or verified validator/script output from this repo.
 - If something cannot be verified with full provenance, mark it `[to be verified]` or state "I don't know" and refuse to proceed.
 - **Neutrality:** If a user claim conflicts with file contents, verify against source material before agreeing.

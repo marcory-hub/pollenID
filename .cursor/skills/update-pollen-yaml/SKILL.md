@@ -7,6 +7,7 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
 
 ## Goal
 - Keep `data/pollen.yaml` as the SoT, with minimal diffs and no invented taxa/paths.
+- **Dutch names:** If sure of the standard Dutch vernacular, set `dutch_name` (and `family_dutch` when sure) without asking. When editing a taxon, also fill other empty `dutch_name` fields you know. Do not invent uncertain names.
 
 ## Canonical entry shape
 ```yaml
