@@ -98,7 +98,7 @@
   - *Pyrus communis* (peer): 32 µm (29.2-36.0 µm)
 - Familie: Rosaceae (rozenfamilie)
 
-#### *Castanea*
+### *Castanea*
 
 {{ gallery("castanea_sativa") }}
 
@@ -109,7 +109,7 @@
 - Voorbeeld: *Castanea sativa* (tamme kastanje)
 - Familie: Fagaceae (napjesdragersfamilie)
 
-#### *Phacelia*
+### *Phacelia*
 
 {{ gallery("phacelia_tanacetifolia") }}
 
@@ -119,3 +119,80 @@
 - Structuur: scabraat tot psilaat; apertuurmembranen licht korrelig
 - Voorbeeld: *Phacelia tanacetifolia* (phacelia, bijenvoer)
 - Familie: Boraginaceae (ruwbladigenfamilie)
+
+### *Robinia*
+
+{{ gallery("robinia_pseudoacacia") }}
+
+- Pollenklasse: tricolpaat (soms tetracolporoidaat)
+- Vorm: driehoekig tot rond, sferoid tot optisch gering oblaat
+- Grootte: 30 µm
+- Structuur: scabraat; aperturen zonder ornamentatie
+- Voorbeeld: *Robinia pseudoacacia* (valse acacia)
+- Familie: Fabaceae (vlinderbloemenfamilie)
+
+### *Trifolium pratense*
+
+{{ gallery("trifolium_pratense") }}
+
+- Pollenklasse: tricolporaat
+- Vorm: gering driehoekig convex
+- Grootte: 35.9-41.5 µm
+- Structuur: grof reticulair
+- Voorbeeld: *Trifolium pratense* (rode klaver)
+- Familie: Fabaceae (vlinderbloemenfamilie)
+
+### *Ligustrum*
+
+{{ gallery("ligustrum_vulgare") }}
+
+- Pollenklasse: tricolpaat tot tricolporaat
+- Vorm: rond tot licht oblaat
+- Grootte: ca. 24-34 µm (indicatief ca. 28×34 µm)
+- Structuur: reticulaat
+- Voorbeeld: *Ligustrum vulgare* (wilde liguster)
+- Familie: Oleaceae (olijffamilie)
+
+### *Calluna*
+
+{{ gallery("calluna_vulgaris") }}
+
+- Pollenklasse: tetrade (Beug 4); korte brede colpi, tricolpaat of tricolporaat
+- Vorm: tetrade, sferoid
+- Grootte: 32-39 µm
+- Structuur: psilaat
+- Voorbeeld: *Calluna vulgaris* (struikheide)
+- Familie: Ericaceae (heidefamilie)
+
+### *Fagopyrum*
+
+{{ gallery("fagopyrum_esculentum") }}
+
+- Pollenklasse: tricolporaat (poren vaak niet te zien)
+- Vorm: rond, sferoid
+- Grootte: 51 µm
+- Structuur: reticulaat; aperturen met korrelige ornamentering
+- Voorbeeld: *Fagopyrum esculentum* (boekweit)
+- Familie: Polygonaceae (duizendknoopfamilie)
+
+### *Helianthus*
+
+{{ gallery("helianthus_annuus") }}
+
+- Pollenklasse: tricolporaat
+- Vorm: rond
+- Grootte: 35 µm
+- Structuur: echinaat H
+- Voorbeeld: *Helianthus annuus* (zonnebloem)
+- Familie: Asteraceae (composietenfamilie)
+
+### *Rhododendron*
+
+{{ gallery("rhododendron_ponticum") }}
+
+- Pollenklasse: tetrade
+- Vorm: tetrade
+- Grootte: 36-50 µm
+- Structuur: verrucaat
+- Voorbeeld: *Rhododendron ponticum* (rhododendron)
+- Familie: Ericaceae (heidefamilie)
