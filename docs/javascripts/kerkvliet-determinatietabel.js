@@ -253,20 +253,12 @@
 
   /** @param {Record<string, unknown>} pollenIndex */
   function mergedPollenRowView(r, pollenIndex) {
+    // JSON row is SoT for Kerkvliet morphology; pollen.json only supplies images + link key.
     if (!r || !pollenIndex) return null;
     const pk = normalizePollenKey(r.pollen_key);
     if (!pk || !pollenIndex[pk]) return null;
     const e = /** @type {Record<string, unknown>} */ (pollenIndex[pk]);
-    const oppervlak = morphWithVisibility(e.ornamentation, e.ornamentation_visibility);
     return {
-      latin: e.latin != null ? String(e.latin) : "",
-      dutch: e.dutch != null ? String(e.dutch) : "",
-      vorm: e.shape != null ? String(e.shape) : "",
-      grootte: formatSizeFromPollen(
-        typeof e.size === "object" && e.size !== null ? /** @type {object} */ (e.size) : null
-      ),
-      oppervlak: oppervlak,
-      opmerkingen: morphWithVisibility(e.aperture, e.aperture_visibility),
       images: pollenRowImagesFromIndex(e),
       pollen_key: pk,
     };
@@ -645,18 +637,18 @@
         totalInSection += 1;
 
         const pv = mergedPollenRowView(r, pollenIndex);
-        const grootteDisp = pv ? pv.grootte : String(r.grootte || "");
+        const grootteDisp = String(r.grootte || "");
 
         const maxUm = parseMaxUm(grootteDisp || "");
         const cls = sizeClassFromMaxUm(maxUm);
         if (selectedSize !== "alle" && cls !== selectedSize) return;
 
-        const latinHay = pv ? pv.latin : String(r.latin || "");
-        const dutchHay = pv ? pv.dutch : String(r.dutch || "");
-        const vormHay = pv ? pv.vorm : String(r.vorm || "");
-        const grootteHay = pv ? pv.grootte : String(r.grootte || "");
-        const oppHay = pv ? pv.oppervlak : String(r.oppervlak || "");
-        const opmHay = pv ? pv.opmerkingen : String(r.opmerkingen || "");
+        const latinHay = String(r.latin || "");
+        const dutchHay = String(r.dutch || "");
+        const vormHay = String(r.vorm || "");
+        const grootteHay = String(r.grootte || "");
+        const oppHay = String(r.oppervlak || "");
+        const opmHay = String(r.opmerkingen || "");
         const pkResolved =
           pv && pv.pollen_key ? pv.pollen_key : normalizePollenKey(r.pollen_key);
         const entryFull =
@@ -676,7 +668,7 @@
           " " +
           opmHay +
           " " +
-          (pv && pv.pollen_key ? String(pv.pollen_key) : normalizePollenKey(r.pollen_key))
+          (pkResolved || "")
         )
           .toLowerCase()
           .trim();
@@ -699,16 +691,14 @@
         }
 
         const tr = document.createElement("tr");
-        const cells = pv
-          ? [pv.latin, pv.dutch, pv.vorm, pv.grootte, pv.oppervlak, pv.opmerkingen]
-          : [
-              r.latin || "",
-              r.dutch || "",
-              r.vorm || "",
-              r.grootte || "",
-              r.oppervlak || "",
-              r.opmerkingen || "",
-            ];
+        const cells = [
+          r.latin || "",
+          r.dutch || "",
+          r.vorm || "",
+          r.grootte || "",
+          r.oppervlak || "",
+          r.opmerkingen || "",
+        ];
         cells.forEach(function (cell, idx) {
           const td = document.createElement("td");
           if (idx === 0 && latinHay && pkResolved) {

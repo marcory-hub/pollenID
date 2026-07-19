@@ -19,42 +19,58 @@
 | Bloeitijd | 6-7 |
 | Nectarwaarde | 5 |
 | Pollenwaarde | 5 |
-| pollen_class | 19 |
+| pollen-note | Kerkvliet: 25 µm; reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 ailanthus_altissima:
-  latin: Ailanthus_altissima
-  dutch: hemelboom
-  family: Simaroubaceae (hemelboomfamilie)
+  name:
+    latin_name: Ailanthus_altissima
+    dutch_name: hemelboom
+  classification:
+    order: null
+    family_latin: Simaroubaceae
+    family_dutch: hemelboomfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 24 µm
-    largest_size: 28 µm
+    size_smallest: 24 µm
+    size_largest: 28 µm
     height_px: 65
-  pollen_class: 19
-  shape: driehoekig convex, sferoid
-  sculpture: reticulaat tot gering striaat
-  aperture: tricolporaat, porus 5.5 µm
-  ornamentation: geen
-  polarity: 0.88
-  pe_ratio: 0.26
-  pollen-note: null
+  pollen_class_beug: Tricolporat-striat
+  pollen_features:
+    shape: driehoekig convex, sferoid
+    sculpture: reticulaat tot gering striaat
+    sculpture_visibility: null
+    aperture: tricolporaat, porus 5.5 µm
+    aperture_visibility: null
+    ornamentation: geen
+    ornamentation_visibility: null
+    polarity: 0.88
+    pe_ratio: 0.26
+    pollen-note: 'Kerkvliet: 25 µm; reticulaat'
   flowering_time:
     start: 6
     end: 7
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Ailanthus_altissima
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ailanthus_altissima
     paldat: https://www.paldat.org/pub/Ailanthus_altissima
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: null
   images:
   - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_1.png
     kind: pollenwiki
@@ -63,7 +79,48 @@ ailanthus_altissima:
     kind: pollenwiki
     source: pollenwiki
   - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_2.png
+    kind: by_taxon
+    source: by_taxon
   - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_3.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_10.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_11.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_12.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_13.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_14.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_15.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_16.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_5.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_6.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_7.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_8.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/ailanthus_altissima/ailanthus_altissima_9.png
+    kind: by_taxon
+    source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Identificatienotities

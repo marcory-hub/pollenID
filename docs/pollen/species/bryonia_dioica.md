@@ -19,43 +19,58 @@
 | Bloeitijd | 6-9 |
 | Nectarwaarde | 3 |
 | Pollenwaarde | 3 |
-| pollen_class | 22 |
 | pollen-note | veel pollenkit |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 bryonia_dioica:
-  latin: Bryonia dioica
-  dutch: heggenrank
-  family: Cucurbitaceae (komkommerfamilie)
+  name:
+    latin_name: Bryonia dioica
+    dutch_name: heggenrank
+  classification:
+    order: null
+    family_latin: Cucurbitaceae
+    family_dutch: komkommerfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 35 µm
-    largest_size: 44 µm
+    size_smallest: 35 µm
+    size_largest: 44 µm
     height_px: 103
-  pollen_class: 22
-  shape: rond tot gering driehoekig, sferoid
-  sculpture: reticulaat, brochi worden kleiner in de richting van de colpi
-  aperture: intine puilt uit de porus
-  ornamentation: apertuurmembranen en pori zijn korrelig geornamenteerd
-  polarity: 0.93
-  pe_ratio: 0.31
-  pollen-note: veel pollenkit
+  pollen_class_beug: Tricolporat-reticulat
+  pollen_features:
+    shape: rond tot gering driehoekig, sferoid
+    sculpture: reticulaat, brochi worden kleiner in de richting van de colpi
+    sculpture_visibility: null
+    aperture: intine puilt uit de porus
+    aperture_visibility: null
+    ornamentation: apertuurmembranen en pori zijn korrelig geornamenteerd
+    ornamentation_visibility: null
+    polarity: 0.93
+    pe_ratio: 0.31
+    pollen-note: veel pollenkit
   flowering_time:
     start: 6
     end: 9
-  nectar_value: 3
-  pollen_value: 3
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 3
+    pollen_value: 3
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Bryonia_dioica
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Bryonia_dioica
     paldat: https://www.paldat.org/pub/Bryonia_dioica
-    waarneming:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+    waarneming: https://waarneming.nl/search/?q=bryonia+dioica
   images:
   - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_1.png
     kind: pollenwiki
@@ -72,6 +87,7 @@ bryonia_dioica:
   - path: assets/images/by-taxon/bryonia_dioica/bryonia_dioica_5.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -83,3 +99,4 @@ bryonia_dioica:
 - pollenX: https://pollenx.eu/species.php?species=Bryonia_dioica
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Bryonia_dioica
 - paldat: https://www.paldat.org/pub/Bryonia_dioica
+- waarneming: https://waarneming.nl/search/?q=bryonia+dioica

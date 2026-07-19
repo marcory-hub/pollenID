@@ -10,48 +10,66 @@
 | Nederlands | lavendel |
 | Grootte | 37 µm |
 | Vorm | zeskantig |
+| P/E | sferoïdisch |
 | Apertuur | meestal 6-colpaat, colpi 8.3 µm breed |
 | Sculptuur | reticulaat |
 | Ornamentatie | apertuurmembranen deels korrelig ornamentering |
 | Bloeitijd | 6-7 |
 | Nectarwaarde | 5 |
+| pollen-note | PK sferoïdisch met 6 colpi (PForml 1,06–1,20). Polarvelden groot (PFeldI >0,45). Exine 2,5–3,5 µm. Brochi 1,0–1,5 µm; lumina tot 1 µm. Columellae tot 2,5 µm lang, tot ca. 0,8 µm dik.; Kerkvliet: 37-38 µm; reticulaat(foveolaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 lavandula_angustifolia:
-  latin: Lavandula angustifolia
-  dutch: lavendel
-  family: null
+  name:
+    latin_name: Lavandula angustifolia
+    dutch_name: lavendel
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 37 µm
-    largest_size: 37 µm
+    size_smallest: 37 µm
+    size_largest: 37 µm
     height_px: 93
-  pollen_class: null
-  shape: zeskantig
-  sculpture: reticulaat
-  aperture: meestal 6-colpaat, colpi 8.3 µm breed
-  ornamentation: apertuurmembranen deels korrelig ornamentering
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Stephanocolpat
+  pollen_features:
+    shape: zeskantig
+    sculpture: reticulaat
+    sculpture_visibility: null
+    aperture: meestal 6-colpaat, colpi 8.3 µm breed
+    aperture_visibility: null
+    ornamentation: apertuurmembranen deels korrelig ornamentering
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: sferoïdisch
+    pollen-note: 'PK sferoïdisch met 6 colpi (PForml 1,06–1,20). Polarvelden groot
+      (PFeldI >0,45). Exine 2,5–3,5 µm. Brochi 1,0–1,5 µm; lumina tot 1 µm. Columellae
+      tot 2,5 µm lang, tot ca. 0,8 µm dik.; Kerkvliet: 37-38 µm; reticulaat(foveolaat'
   flowering_time:
     start: 6
     end: 7
-  nectar_value: 5
-  pollen_value: 0
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 0
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Lavandula_angustifolia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia
     paldat: https://www.paldat.org/pub/Lavandula_angustifolia
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/lavendelhoning.md
+    waarneming: https://waarneming.nl/search/?q=lavandula+angustifolia
   images:
   - path: assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_6.png
     kind: persano_oddo
@@ -74,6 +92,7 @@ lavandula_angustifolia:
   - path: assets/images/by-taxon/lavandula_angustifolia/lavandula_angustifolia_5.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -126,3 +145,4 @@ lavandula_angustifolia:
 - pollenX: https://pollenx.eu/species.php?species=Lavandula_angustifolia
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lavandula_angustifolia
 - paldat: https://www.paldat.org/pub/Lavandula_angustifolia
+- waarneming: https://waarneming.nl/search/?q=lavandula+angustifolia

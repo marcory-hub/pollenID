@@ -1,4 +1,4 @@
-# Koolzaadhoning (Brassica napus (koolzaad), Brassicaceae)
+# Koolzaadhoning (Brassica napus, Brassicaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -30,7 +30,7 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Latijn** | Brassica napus (koolzaad |
+| **Latijn** | Brassica napus |
 | **Nederlands** | koolzaad |
 | **Familie** | Brassicaceae (Kruisbloemenfamilie) |
 | **Grootte** | 22.3-28.2 µm |

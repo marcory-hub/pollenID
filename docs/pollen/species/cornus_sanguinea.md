@@ -12,41 +12,58 @@
 | Vorm | O/∆/ovaal |
 | Apertuur | tricolporaat |
 | Sculptuur | scabraat/reticulaat |
+| pollen-note | Kerkvliet: 50 µm; scabraat/reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 cornus_sanguinea:
-  latin: Cornus sanguinea
-  dutch: rode kornoelje
-  family: null
+  name:
+    latin_name: Cornus sanguinea
+    dutch_name: rode kornoelje
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 50 µm
-    largest_size: 50 µm
+    size_smallest: 50 µm
+    size_largest: 50 µm
     height_px: 125
-  pollen_class: null
-  shape: O/∆/ovaal
-  sculpture: scabraat/reticulaat
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Tricolporat-psilat
+  pollen_features:
+    shape: O/∆/ovaal
+    sculpture: scabraat/reticulaat
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 50 µm; scabraat/reticulaat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Cornus_sanguinea
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea
     paldat: https://www.paldat.org/pub/Cornus_sanguinea
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=cornus+sanguinea
   images:
   - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_1.png
     kind: pollenwiki
@@ -57,6 +74,7 @@ cornus_sanguinea:
   - path: assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_3.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -182,3 +200,4 @@ cornus_sanguinea:
 - pollenX: https://pollenx.eu/species.php?species=Cornus_sanguinea
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_sanguinea
 - paldat: https://www.paldat.org/pub/Cornus_sanguinea
+- waarneming: https://waarneming.nl/search/?q=cornus+sanguinea

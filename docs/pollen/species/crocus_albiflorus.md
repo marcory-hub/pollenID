@@ -11,41 +11,58 @@
 | Grootte | 125 µm |
 | Vorm | rond |
 | Sculptuur | echinaat+scabraat |
+| pollen-note | Kerkvliet: 125 µm; echinaat+scabraat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 crocus_albiflorus:
-  latin: Crocus albiflorus
-  dutch: crocus
-  family: null
+  name:
+    latin_name: Crocus albiflorus
+    dutch_name: crocus
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 125 µm
-    largest_size: 125 µm
+    size_smallest: 125 µm
+    size_largest: 125 µm
     height_px: 312
-  pollen_class: null
-  shape: rond
-  sculpture: echinaat+scabraat
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: null
+  pollen_features:
+    shape: rond
+    sculpture: echinaat+scabraat
+    sculpture_visibility: null
+    aperture: null
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 125 µm; echinaat+scabraat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Crocus_albiflorus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus
     paldat: https://www.paldat.org/pub/Crocus_albiflorus
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=crocus+albiflorus
   images:
   - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_1.png
     kind: pollenwiki
@@ -53,6 +70,7 @@ crocus_albiflorus:
   - path: assets/images/by-taxon/crocus_albiflorus/crocus_albiflorus_2.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -64,3 +82,4 @@ crocus_albiflorus:
 - pollenX: https://pollenx.eu/species.php?species=Crocus_albiflorus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_albiflorus
 - paldat: https://www.paldat.org/pub/Crocus_albiflorus
+- waarneming: https://waarneming.nl/search/?q=crocus+albiflorus

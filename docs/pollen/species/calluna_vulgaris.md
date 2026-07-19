@@ -18,46 +18,58 @@
 | Bloeitijd | 7-9 |
 | Nectarwaarde | 5 |
 | Pollenwaarde | 5 |
-| pollen_class | 4 |
+| pollen-note | Kerkvliet: verrucaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 calluna_vulgaris:
-  latin: Calluna vulgaris
-  dutch: struikheide
-  family: Ericaceae (heidefamilie)
+  name:
+    latin_name: Calluna vulgaris
+    dutch_name: struikheide
+  classification:
+    order: null
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 32 µm
-    largest_size: 39 µm
+    size_smallest: 32 µm
+    size_largest: 39 µm
     height_px: 98
-  pollen_class: 4
-  shape: tetrade, sferoid
-  sculpture: psilaat
-  aperture: korte brede colpi, tricolpaat of tricolporaat
-  ornamentation: null
-  polarity: heteropolair
-  pe_ratio: '-'
-  pollen-note: null
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: tetrade, sferoid
+    sculpture: psilaat
+    sculpture_visibility: null
+    aperture: korte brede colpi, tricolpaat of tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: heteropolair
+    pe_ratio: '-'
+    pollen-note: 'Kerkvliet: verrucaat'
   flowering_time:
     start: 7
     end: 9
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris
     paldat: https://www.paldat.org/pub/Calluna_vulgaris
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/heidehoning.md
-  - source: pollen_species_md
-    path: pollenID/docs/pollen/species/calluna_vulgaris.md
+    waarneming: https://waarneming.nl/search/?q=calluna+vulgaris
   images:
   - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png
     kind: pollenwiki
@@ -86,6 +98,7 @@ calluna_vulgaris:
   - path: assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_9.png
     kind: persano_oddo
     source: persano_oddo
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -147,3 +160,4 @@ calluna_vulgaris:
 - pollenX: https://pollenx.eu/species.php?species=Calluna_vulgaris
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Calluna_vulgaris
 - paldat: https://www.paldat.org/pub/Calluna_vulgaris
+- waarneming: https://waarneming.nl/search/?q=calluna+vulgaris

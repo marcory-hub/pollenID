@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Campanula Rotundifolia |
-| Nederlands | grasklokje |
+| Nederlands | Grasklokje |
 | Familie | Campanulaceae (klokjesfamilie) |
 | Grootte | 31 µm-36 µm |
 | Vorm | rond, sferoid |
@@ -17,40 +17,57 @@
 | Bloeitijd | 6-10 |
 | Nectarwaarde | 3 |
 | Pollenwaarde | 3 |
-| pollen_class | 32 |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 campanula_rotundifolia:
-  latin: Campanula Rotundifolia
-  dutch: grasklokje
-  family: Campanulaceae (klokjesfamilie)
+  name:
+    latin_name: Campanula Rotundifolia
+    dutch_name: Grasklokje
+  classification:
+    order: null
+    family_latin: Campanulaceae
+    family_dutch: klokjesfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 31 µm
-    largest_size: 36 µm
+    size_smallest: 31 µm
+    size_largest: 36 µm
     height_px: 85
-  pollen_class: 32
-  shape: rond, sferoid
-  sculpture: verrucaat to echinaat
-  aperture: 4 poren met anulus, porenradius ca 4.2 µm
-  ornamentation: geen
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Stephanoporat
+  pollen_features:
+    shape: rond, sferoid
+    sculpture: verrucaat to echinaat
+    sculpture_visibility: null
+    aperture: 4 poren met anulus, porenradius ca 4.2 µm
+    aperture_visibility: null
+    ornamentation: geen
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
     start: 6
     end: 10
-  nectar_value: 3
-  pollen_value: 3
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 3
+    pollen_value: 3
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Campanula_rotundifolia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rotundifolia
     paldat: https://www.paldat.org/pub/Campanula_rotundifolia
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=campanula+rotundifolia
   images:
   - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_1.png
     kind: by_taxon
@@ -64,6 +81,7 @@ campanula_rotundifolia:
   - path: assets/images/by-taxon/campanula_rotundifolia/campanula_rotundifolia_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -116,3 +134,4 @@ campanula_rotundifolia:
 - pollenX: https://pollenx.eu/species.php?species=Campanula_rotundifolia
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Campanula_rotundifolia
 - paldat: https://www.paldat.org/pub/Campanula_rotundifolia
+- waarneming: https://waarneming.nl/search/?q=campanula+rotundifolia

@@ -1,4 +1,4 @@
-# Berberis
+# Carex typ
 
 ## Identificatienotities
 
@@ -15,4 +15,5 @@ Automatisch aangemaakt op basis van een endpoint-vermelding in de van der Ham sl
 
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
-- `PK met één of meer aperturen -> PK met één apertuur -> Apertuur spiraal of lusvormis - tennisbalpatroon -syncolpaat`
+- `PK met meer dna 3 verspreide (niet-equatoriale) pori (periporaat) -> ornamentatie psilaat - perforaat of scabraat -> 6 PK peervormig`
+

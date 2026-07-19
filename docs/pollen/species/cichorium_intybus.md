@@ -12,41 +12,58 @@
 | Vorm | drie-/zeskantig |
 | Apertuur | tricolporaat |
 | Sculptuur | echinaat T |
+| pollen-note | Kerkvliet: 38 µm; echinaat T |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 cichorium_intybus:
-  latin: Cichorium intybus
-  dutch: cichorei
-  family: null
+  name:
+    latin_name: Cichorium intybus
+    dutch_name: cichorei
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 38 µm
-    largest_size: 38 µm
+    size_smallest: 38 µm
+    size_largest: 38 µm
     height_px: 95
-  pollen_class: null
-  shape: drie-/zeskantig
-  sculpture: echinaat T
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Fenestrat
+  pollen_features:
+    shape: drie-/zeskantig
+    sculpture: echinaat T
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 38 µm; echinaat T'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Cichorium_intybus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus
     paldat: https://www.paldat.org/pub/Cichorium_intybus
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=cichorium+intybus
   images:
   - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png
     kind: pollenwiki
@@ -63,6 +80,7 @@ cichorium_intybus:
   - path: assets/images/by-taxon/cichorium_intybus/cichorium_intybus_5.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -91,3 +109,4 @@ cichorium_intybus:
 - pollenX: https://pollenx.eu/species.php?species=Cichorium_intybus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cichorium_intybus
 - paldat: https://www.paldat.org/pub/Cichorium_intybus
+- waarneming: https://waarneming.nl/search/?q=cichorium+intybus

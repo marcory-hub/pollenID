@@ -15,43 +15,58 @@
 | P/E | 0.89 |
 | Apertuur | tricolpaat, 3-4 slecht zichtbare aperturen |
 | Sculptuur | fenestraat, echinaat |
+| pollen-note | Kerkvliet: 25-41 µm (indicatief 32 µm); echinaat T |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 taraxacum_officinale:
-  latin: Taraxacum officinale
-  dutch: paardenbloem
-  family: Asteraceae (composietenfamilie)
+  name:
+    latin_name: Taraxacum officinale
+    dutch_name: paardenbloem
+  classification:
+    order: null
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 28 µm
-    largest_size: 28 µm
+    size_smallest: 28 µm
+    size_largest: 28 µm
     height_px: 70
-  pollen_class: null
-  shape: rond tot driehoekig, sferoid
-  sculpture: fenestraat, echinaat
-  aperture: tricolpaat, 3-4 slecht zichtbare aperturen
-  ornamentation: null
-  polarity: isopolair
-  pe_ratio: '0.89'
-  pollen-note: null
+  pollen_class_beug: Fenestrat
+  pollen_features:
+    shape: rond tot driehoekig, sferoid
+    sculpture: fenestraat, echinaat
+    sculpture_visibility: null
+    aperture: tricolpaat, 3-4 slecht zichtbare aperturen
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: '0.89'
+    pollen-note: 'Kerkvliet: 25-41 µm (indicatief 32 µm); echinaat T'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Taraxacum_officinale
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale
     paldat: https://www.paldat.org/pub/Taraxacum_officinale
-    waarneming:
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/paardenbloemhoning.md
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=taraxacum+officinale
   images:
   - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png
     kind: by_taxon
@@ -74,6 +89,7 @@ taraxacum_officinale:
   - path: assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_7.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -114,8 +130,11 @@ taraxacum_officinale:
 </details>
 
 ### Kerkvliet
-Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
+<details><summary>kerkvliet_determinatietabel</summary>
 
+- Sectie: Pollen met stekels echinaat fenestraat
+
+</details>
 
 
 ## Online databases
@@ -123,3 +142,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Taraxacum_officinale
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Taraxacum_officinale
 - paldat: https://www.paldat.org/pub/Taraxacum_officinale
+- waarneming: https://waarneming.nl/search/?q=taraxacum+officinale

@@ -8,39 +8,61 @@
 |---|---|
 | Latijn | Salix alba var. tristis |
 | Nederlands | treurwilg |
+| Grootte | 18.4 µm-28.7 µm |
+| P/E | prolaat |
+| Apertuur | tricolpaat |
+| Sculptuur | reticulaat |
+| Frequentie in NL-honing | occasional |
+| Frequentie in EU-honing | occasional |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 salix_alba_var_tristis:
-  latin: Salix alba var. tristis
-  dutch: treurwilg
-  family: null
+  name:
+    latin_name: Salix alba var. tristis
+    dutch_name: treurwilg
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 18.4 µm
+    size_largest: 28.7 µm
+    height_px: 72
+  pollen_class_beug: Tricolpat-reticulat
+  pollen_features:
+    shape: null
+    sculpture: reticulaat
+    sculpture_visibility: null
+    aperture: tricolpaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: prolaat
+    pollen-note: null
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: occasional
+  frequency_in_eu_honey: occasional
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Salix_alba
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Salix_alba
     paldat: https://www.paldat.org/pub/Salix_alba
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=salix+alba
   images:
   - path: assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png
     kind: by_taxon
@@ -54,6 +76,7 @@ salix_alba_var_tristis:
   - path: assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -120,3 +143,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Salix_alba
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Salix_alba
 - paldat: https://www.paldat.org/pub/Salix_alba
+- waarneming: https://waarneming.nl/search/?q=salix+alba

@@ -1,14 +1,13 @@
-# *Ranunculus Acris*
+# *Quercus robur* (zomereik)
 
-{{ gallery("ranunculus_acris") }}
+{{ gallery("quercus_robur") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Ranunculus Acris |
-| Nederlands | scherpe boterbloem |
-| Grootte | 24.5 µm-30 µm |
+| Latijn | Quercus robur |
+| Nederlands | zomereik |
 | Apertuur | tricolpaat |
 | Sculptuur | psilaat |
 | Frequentie in NL-honing | rare |
@@ -18,10 +17,10 @@
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-ranunculus_acris:
+quercus_robur:
   name:
-    latin_name: Ranunculus Acris
-    dutch_name: scherpe boterbloem
+    latin_name: Quercus robur
+    dutch_name: zomereik
   classification:
     order: null
     family_latin: null
@@ -29,9 +28,9 @@ ranunculus_acris:
     tribe: null
     genus: null
   size:
-    size_smallest: 24.5 µm
-    size_largest: 30 µm
-    height_px: 75
+    size_smallest: null
+    size_largest: null
+    height_px: 112
   pollen_class_beug: Tricolpat-psilat
   pollen_features:
     shape: null
@@ -58,18 +57,21 @@ ranunculus_acris:
   frequency_in_eu_honey: rare
   frequency_in_non_eu_honey: null
   links:
-    pollenX: https://pollenx.eu/species.php?species=Ranunculus_acris
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_acris
-    paldat: https://www.paldat.org/pub/Ranunculus_acris
-    waarneming: https://waarneming.nl/search/?q=ranunculus+acris
+    pollenX: https://pollenx.eu/species.php?species=Quercus_robur
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Quercus_robur
+    paldat: https://www.paldat.org/pub/Quercus_robur
+    waarneming: https://waarneming.nl/search/?q=quercus+robur
   images:
-  - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png
+  - path: assets/images/by-taxon/quercus_robur/quercus_robur_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_2.png
+  - path: assets/images/by-taxon/quercus_robur/quercus_robur_2.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/ranunculus_acris/ranunculus_acris_3.png
+  - path: assets/images/by-taxon/quercus_robur/quercus_robur_3.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/quercus_robur/quercus_robur_4.png
     kind: by_taxon
     source: by_taxon
   is_secondary_contributor: null
@@ -81,7 +83,7 @@ ranunculus_acris:
 
 ## Online databases
 
-- pollenX: https://pollenx.eu/species.php?species=Ranunculus_acris
-- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_acris
-- paldat: https://www.paldat.org/pub/Ranunculus_acris
-- waarneming: https://waarneming.nl/search/?q=ranunculus+acris
+- pollenX: https://pollenx.eu/species.php?species=Quercus_robur
+- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Quercus_robur
+- paldat: https://www.paldat.org/pub/Quercus_robur
+- waarneming: https://waarneming.nl/search/?q=quercus+robur

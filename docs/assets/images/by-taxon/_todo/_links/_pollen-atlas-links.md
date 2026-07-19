@@ -21,7 +21,7 @@ Chinese lantaarn
 [Paldat]-
 [Waarneming.nl](https://waarneming.nl/search/?q=abutilon+x)
 
-## acacia_robinia
+## robinia_pseudoacacia
 *Acacia robinia*
 
 

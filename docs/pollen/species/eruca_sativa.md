@@ -12,6 +12,10 @@
 | Vorm | ca О ⁄ ovaal |
 | Apertuur | 4-colpaat |
 | Sculptuur | reticulaat (<Bn) |
+| pollen-note | Kerkvliet: reticulaat (<Brassica napus) |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -28,3 +32,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Eruca_sativa
 - paldat: https://www.paldat.org/pub/Eruca_sativa
 - pollenx: https://pollenx.eu/species.php?species=Eruca_sativa
+- waarneming: https://waarneming.nl/search/?q=eruca+sativa

@@ -8,83 +8,100 @@
 |---|---|
 | Latijn | Fagopyrum esculentum |
 | Nederlands | boekweit |
+| Familie | Polygonaceae (duizendknoopfamilie) |
 | Grootte | 51 µm |
 | Vorm | rond, sferoid |
-| Sculptuur | reticulaat |
+| Polariteit | isopolair |
+| P/E | 1.1 |
+| Apertuur | tricolporaat (poren vaak niet te zien) |
+| Sculptuur | reticulaat, aperturen met korrelige ornamentering |
+| Bloeitijd | 6-8 |
+| Nectarwaarde | 5 |
+| Pollenwaarde | 5 |
+| pollen-note | Kerkvliet: 33-36 µm; foveolaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 fagopyrum_esculentum:
-  latin: Fagopyrum esculentum
-  dutch: boekweit
-  family: duizendknoopfamilie
+  name:
+    latin_name: Fagopyrum esculentum
+    dutch_name: boekweit
+  classification:
+    order: null
+    family_latin: Polygonaceae
+    family_dutch: duizendknoopfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 51 µm
-    largest_size: 51 µm
+    size_smallest: 51 µm
+    size_largest: 51 µm
     height_px: 128
-  pollen_class: tricolporaat
-  shape: rond, sferoid
-  sculpture: reticulaat, aperturen met korrelige ornamentering
-  aperture: tricolporaat (poren vaak niet te zien)
-  ornamentation:
-  polarity: isopolair
-  pe_ratio: '1.1'
-  pollen-note:
+  pollen_class_beug: tricolporaat
+  pollen_features:
+    shape: rond, sferoid
+    sculpture: reticulaat, aperturen met korrelige ornamentering
+    sculpture_visibility: null
+    aperture: tricolporaat (poren vaak niet te zien)
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: '1.1'
+    pollen-note: 'Kerkvliet: 33-36 µm; foveolaat'
   flowering_time:
-    start:
-    end:
-  images:
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_1.png
-      kind: beug
-      source: beug
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_6.png
-      kind: beug
-      source: beug
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_2.png
-      kind: beug
-      source: beug
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_5.png
-      kind: beug
-      source: beug
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_7.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_10.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_8.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_9.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_3.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_4.png
-      kind: pollenwiki
-      source: pollenwiki
-  nectar_value:
-  pollen_value:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+    start: 6
+    end: 8
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Fagopyrum_esculentum
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Fagopyrum_esculentum
     paldat: https://www.paldat.org/pub/Fagopyrum_esculentum
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=fagopyrum+esculentum
+  images:
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_1.png
+    kind: beug
+    source: beug
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_6.png
+    kind: beug
+    source: beug
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_2.png
+    kind: beug
+    source: beug
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_5.png
+    kind: beug
+    source: beug
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_7.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_10.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_8.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_9.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_3.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/fagopyrum_esculentum/fagopyrum_esculentum_4.png
+    kind: pollenwiki
+    source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -170,3 +187,4 @@ fagopyrum_esculentum:
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Fagopyrum_esculentum
 - paldat: https://www.paldat.org/pub/Fagopyrum_esculentum
 - pollenx: https://pollenx.eu/species.php?species=Fagopyrum_esculentum
+- waarneming: https://waarneming.nl/search/?q=fagopyrum+esculentum

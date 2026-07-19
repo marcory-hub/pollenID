@@ -10,43 +10,60 @@
 | Nederlands | maïs |
 | Grootte | 80 µm |
 | Vorm | rond |
+| P/E | sferoïdisch |
 | Apertuur | 1-poraat |
 | Sculptuur | glad |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 zea_mays:
-  latin: Zea mays
-  dutch: maïs
-  family: null
+  name:
+    latin_name: Zea mays
+    dutch_name: maïs
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 80 µm
-    largest_size: 80 µm
+    size_smallest: 80 µm
+    size_largest: 80 µm
     height_px: 200
-  pollen_class: null
-  shape: rond
-  sculpture: glad
-  aperture: 1-poraat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Monoporat
+  pollen_features:
+    shape: rond
+    sculpture: glad
+    sculpture_visibility: null
+    aperture: 1-poraat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: sferoïdisch
+    pollen-note: null
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Zea_mays
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Zea_mays
     paldat: https://www.paldat.org/pub/Zea_mays
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=zea+mays
   images:
   - path: assets/images/by-taxon/zea_mays/zea_mays_1.png
     kind: by_taxon
@@ -54,6 +71,7 @@ zea_mays:
   - path: assets/images/by-taxon/zea_mays/zea_mays_1.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -88,3 +106,4 @@ zea_mays:
 - pollenX: https://pollenx.eu/species.php?species=Zea_mays
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Zea_mays
 - paldat: https://www.paldat.org/pub/Zea_mays
+- waarneming: https://waarneming.nl/search/?q=zea+mays

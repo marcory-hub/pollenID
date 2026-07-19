@@ -9,14 +9,16 @@
 | Latijn | Prunus domestica |
 | Nederlands | pruim |
 | Familie | Rosaceae (rozenfamilie) |
-| Grootte | 44 µm (38.9-48.6 µm) |
+| Grootte | 38.9 µm-48.6 µm |
 | Vorm | driehoekig, licht oblaat |
 | Polariteit | isopolair |
 | P/E | 0.73-0.83 |
 | Apertuur | tricolporoidaat, tetracolporoidaat; PK met en zonder poriën; apertuurmembranen niet geornamenteerd |
 | Sculptuur | duidelijk striaat |
-| pollen_class | 20 (Beug 20.12 Sorbus-groep) |
-| pollen-note | Klein tot middelgroot polair veld (PolFeldI ca. 0.24). Veel pollenkit. Verschil met Malus: Prunus altijd duidelijk striaat en groter. |
+| pollen-note | Beug 20.12 Sorbus-groep. Klein tot middelgroot polair veld (PolFeldI ca. 0.24). Veel pollenkit. Verschil met Malus: Prunus altijd duidelijk striaat en groter. |
+| Frequentie in EU-honing | rare |
+| Pollennotitie | Bron pollen.tstebler.ch; representatieve grootte 44 µm (medium). |
+
 
 ## Identificatienotities
 

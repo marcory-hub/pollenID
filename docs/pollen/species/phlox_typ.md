@@ -1,4 +1,4 @@
-# Hieracium
+# Phlox typ
 
 ## Identificatienotities
 
@@ -15,5 +15,4 @@ Automatisch aangemaakt op basis van een endpoint-vermelding in de van der Ham sl
 
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
-- `Een losse PK - monade -> PK zonder luchtzakken -> PK met vensters - fenestraat`
-
+- `PK met meer dna 3 verspreide (niet-equatoriale) pori (periporaat) -> ornamentatie reticulaat -> pori ongeveer even groot als de mazen van het netwerk (mazen groter dan 3 um)`

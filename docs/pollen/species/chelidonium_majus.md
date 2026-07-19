@@ -9,41 +9,61 @@
 | Latijn | Chelidonium majus |
 | Nederlands | Chelidonium majus |
 | Grootte | 27 µm |
+| Vorm | rond tot driekantig |
+| Apertuur | tricolpaat |
+| Sculptuur | reticulaat |
+| pollen-note | Kerkvliet: 32 µm; fijn reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 chelidonium_majus:
-  latin: Chelidonium majus
-  dutch: Chelidonium majus
-  family: null
+  name:
+    latin_name: Chelidonium majus
+    dutch_name: Chelidonium majus
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 27 µm
-    largest_size: 27 µm
-    height_px: null
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 27 µm
+    size_largest: 27 µm
+    height_px: 80
+  pollen_class_beug: Tricolpat-reticulat
+  pollen_features:
+    shape: rond tot driekantig
+    sculpture: reticulaat
+    sculpture_visibility: null
+    aperture: tricolpaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 32 µm; fijn reticulaat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Chelidonium_majus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Chelidonium_majus
     paldat: https://www.paldat.org/pub/Chelidonium_majus
-    waarneming:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+    waarneming: https://waarneming.nl/search/?q=chelidonium+majus
   images:
   - path: assets/images/by-taxon/chelidonium_majus/chelidonium_majus_1.png
     kind: pollenwiki
@@ -57,6 +77,7 @@ chelidonium_majus:
   - path: assets/images/by-taxon/chelidonium_majus/chelidonium_majus_4.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -97,3 +118,4 @@ chelidonium_majus:
 - pollenX: https://pollenx.eu/species.php?species=Chelidonium_majus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Chelidonium_majus
 - paldat: https://www.paldat.org/pub/Chelidonium_majus
+- waarneming: https://waarneming.nl/search/?q=chelidonium+majus

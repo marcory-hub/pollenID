@@ -12,47 +12,58 @@
 | Vorm | rond tot driekantig, afhankelijk van de ligging |
 | Apertuur | tricolporaat |
 | Sculptuur | scabraat |
+| pollen-note | Kerkvliet: 25 µm; scabraat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 cornus_mas:
-  latin: Cornus mas
-  dutch: gele kornoelje
-  family: null
+  name:
+    latin_name: Cornus mas
+    dutch_name: gele kornoelje
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 25 µm
-    largest_size: 25 µm
+    size_smallest: 25 µm
+    size_largest: 25 µm
     height_px: 62
-  pollen_class: null
-  shape: rond tot driekantig, afhankelijk van de ligging
-  sculpture: scabraat
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Tricolporat-psilat
+  pollen_features:
+    shape: rond tot driekantig, afhankelijk van de ligging
+    sculpture: scabraat
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 25 µm; scabraat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Cornus_mas
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_mas
     paldat: https://www.paldat.org/pub/Cornus_mas
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+    waarneming: https://waarneming.nl/search/?q=cornus+mas
   images:
   - path: assets/images/by-taxon/cornus_mas/cornus_mas_1.png
     kind: pollenwiki
@@ -69,6 +80,7 @@ cornus_mas:
   - path: assets/images/by-taxon/cornus_mas/cornus_mas_4.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -80,3 +92,4 @@ cornus_mas:
 - pollenX: https://pollenx.eu/species.php?species=Cornus_mas
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cornus_mas
 - paldat: https://www.paldat.org/pub/Cornus_mas
+- waarneming: https://waarneming.nl/search/?q=cornus+mas

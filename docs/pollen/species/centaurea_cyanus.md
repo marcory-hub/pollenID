@@ -7,42 +7,69 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Centaurea cyanus |
-| Grootte | 34 µm-41 µm |
+| Nederlands | korenbloem |
+| Familie | Asteraceae (composietenfamilie) |
+| Grootte | 30.9 µm-45.3 µm |
+| Vorm | driehoekig convex tot rozetachtig, prolaat |
+| Polariteit | 1.22 |
+| P/E | prolaat |
+| Apertuur | tricolporaat; apertuurmembranen niet geornamenteerd; poriën equatorward gestrekt (meer rechthoekig); equatoriale gordelgroef |
+| Sculptuur | striaat; volgens PalDat LM echinaat (goed zichtbaar met LM) |
+| pollen-note | Beug 14.14 Centaurea cyanus. Monad, isopolair. Twee maatreeksen: 41 µm (38.2-45.3) en 34 µm (30.9-40.8). PoFormI ca. 1.22 (1.19-1.25). Middelgroot tot klein polarveld. Dominantie LM: schuin.; Kerkvliet: 38×31 µm; reticu/verrucaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 centaurea_cyanus:
-  latin: Centaurea cyanus
-  dutch: null
-  family: null
+  name:
+    latin_name: Centaurea cyanus
+    dutch_name: korenbloem
+  classification:
+    order: null
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+    tribe: null
+    genus: Centaurea
   size:
-    smallest_size: 34 µm
-    largest_size: 41 µm
-    height_px: null
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 30.9 µm
+    size_largest: 45.3 µm
+    height_px: 113
+  pollen_class_beug: Tricolporat-psilat
+  pollen_features:
+    shape: driehoekig convex tot rozetachtig, prolaat
+    sculpture: striaat; volgens PalDat LM echinaat
+    sculpture_visibility: lm_clear
+    aperture: tricolporaat; apertuurmembranen niet geornamenteerd; poriën equatorward
+      gestrekt (meer rechthoekig); equatoriale gordelgroef
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: 1.22
+    pe_ratio: prolaat
+    pollen-note: 'Beug 14.14 Centaurea cyanus. Monad, isopolair. Twee maatreeksen:
+      41 µm (38.2-45.3) en 34 µm (30.9-40.8). PoFormI ca. 1.22 (1.19-1.25). Middelgroot
+      tot klein polarveld. Dominantie LM: schuin.; Kerkvliet: 38×31 µm; reticu/verrucaat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Centaurea_cyanus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_cyanus
     paldat: https://www.paldat.org/pub/Centaurea_cyanus
-    waarneming:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+    waarneming: https://waarneming.nl/search/?q=centaurea+cyanus
   images:
   - path: assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png
     kind: pollenwiki
@@ -56,6 +83,7 @@ centaurea_cyanus:
   - path: assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_4.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -148,3 +176,4 @@ centaurea_cyanus:
 - pollenX: https://pollenx.eu/species.php?species=Centaurea_cyanus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Centaurea_cyanus
 - paldat: https://www.paldat.org/pub/Centaurea_cyanus
+- waarneming: https://waarneming.nl/search/?q=centaurea+cyanus

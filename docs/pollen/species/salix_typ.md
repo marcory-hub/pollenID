@@ -1,4 +1,4 @@
-# Salix
+# Salix typ
 
 Wilgenfamilie. Salix (wilg), in sommige soorten duidelijke porie. Netoppervlak met duidelijke hoekige mazen die in grootte afnemen naar de gladde randen van de groeven. Grootte per soort zeer klein tot klein (17-26 μm). Korrels bevatten heldergele olie, vergelijk Fraxinus en Cruciferae. Populus (populier), grootte variabel; exine splijt in plekken; intine kan van exine terugtrekken en duidelijke ringvormige ruimte tonen in optische doorsnede.
 
@@ -33,3 +33,9 @@ Canoniek beslispad in de sleutel voor dit pollen(type):
 - EB: 5
 - Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
 
+### Kerkvliet
+<details><summary>kerkvliet_determinatietabel</summary>
+
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+
+</details>

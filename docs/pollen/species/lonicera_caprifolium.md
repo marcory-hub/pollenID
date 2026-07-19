@@ -7,45 +7,76 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Lonicera Caprifolium |
+| Nederlands | tuinkamperfoelie |
+| Grootte | 62 µm-84.8 µm |
+| Sculptuur | echinaat |
+| pollen-note | Exine 2,7–4,0 µm dik; columellae zeer duidelijk, 0,8–1,0 µm dik, vaak groepsgewijs. Costae pori duidelijk (bij *L. alpigena* zwakker). |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-lonicera_caprifolium_caprifolium:
-  latin: Lonicera Caprifolium
-  dutch: null
-  family: null
+lonicera_caprifolium:
+  name:
+    latin_name: Lonicera Caprifolium
+    dutch_name: tuinkamperfoelie
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
+    size_smallest: 62 µm
+    size_largest: 84.8 µm
+    height_px: 212
+  pollen_class_beug: Tricol-echinat
+  pollen_features:
+    shape: null
+    sculpture: echinaat
+    sculpture_visibility: null
+    aperture: null
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: Exine 2,7–4,0 µm dik; columellae zeer duidelijk, 0,8–1,0 µm dik,
+      vaak groepsgewijs. Costae pori duidelijk (bij *L. alpigena* zwakker).
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Lonicera_caprifolium
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lonicera_caprifolium
     paldat: https://www.paldat.org/pub/Lonicera_caprifolium
-    pollenx: https://pollenx.eu/species.php?species=Lonicera_caprifolium
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=lonicera+caprifolium
   images:
-  - path: assets/images/by-taxon/lonicera_caprifolium_caprifolium/lonicera_caprifolium_caprifolium_1.png
+  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/lonicera_caprifolium_caprifolium/lonicera_caprifolium_caprifolium_2.png
+  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
     kind: by_taxon
     source: by_taxon
+  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_1.png
+    kind: pollenwiki
+    source: pollenwiki
+  - path: assets/images/by-taxon/lonicera_caprifolium/lonicera_caprifolium_2.png
+    kind: pollenwiki
+    source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -95,3 +126,4 @@ lonicera_caprifolium_caprifolium:
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lonicera_caprifolium
 - paldat: https://www.paldat.org/pub/Lonicera_caprifolium
 - pollenx: https://pollenx.eu/species.php?species=Lonicera_caprifolium
+- waarneming: https://waarneming.nl/search/?q=lonicera+caprifolium

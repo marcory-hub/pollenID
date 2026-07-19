@@ -15,6 +15,7 @@ from pollen_display import (
     entry_size_strings,
     entry_visibility,
     format_morph_with_visibility,
+    merge_links_yaml_defaults,
     resolve_pollen_field,
 )
 
@@ -124,6 +125,9 @@ def _yaml_overview_table(entry: Dict[str, Any], key: str) -> str:
     pv = str(resolve_pollen_field(entry, "pollen_value") or "").strip()
     if pv:
         rows.append(("Pollenwaarde", pv))
+    pnote = str(entry_feature(entry, "pollen-note") or entry_feature(entry, "pollen_note") or "").strip()
+    if pnote:
+        rows.append(("pollen-note", pnote))
     for freq_fld, freq_label in [
         ("frequency_in_dutch_honey", "Frequentie in NL-honing"),
         ("frequency_in_eu_honey", "Frequentie in EU-honing"),
@@ -188,13 +192,21 @@ def _yaml_overview_table(entry: Dict[str, Any], key: str) -> str:
 
 
 def _links_section(entry: Dict[str, Any]) -> str:
-    links = entry.get("links")
-    if not isinstance(links, dict):
+    latin = entry_latin(entry)
+    if not isinstance(latin, str) or not latin.strip():
         return ""
+    merged = merge_links_yaml_defaults(latin.strip(), entry.get("links"))
+    labels = (
+        ("pollenx", "pollenX"),
+        ("tstebler", "tstebler"),
+        ("paldat", "paldat"),
+        ("waarneming", "waarneming"),
+    )
     items: List[str] = []
-    for k, v in links.items():
-        if isinstance(v, str) and v.strip().startswith(("http://", "https://")):
-            items.append(f"- {k}: {v.strip()}")
+    for key, label in labels:
+        url = merged.get(key)
+        if isinstance(url, str) and url.strip().startswith(("http://", "https://")):
+            items.append(f"- {label}: {url.strip()}")
     if not items:
         return ""
     return "## Online databases\n\n" + "\n".join(items)

@@ -10,8 +10,12 @@
 | Nederlands | gew. Reigersbek |
 | Grootte | 54 µm |
 | Vorm | rond tot driekantig, afhankelijk van de ligging |
-| Apertuur | 3-colpaat |
+| Apertuur | tricolpaat |
 | Sculptuur | striaat |
+| pollen-note | Kerkvliet: 54 µm; striaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -28,3 +32,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Erodium_cicutarium
 - paldat: https://www.paldat.org/pub/Erodium_cicutarium
 - pollenx: https://pollenx.eu/species.php?species=Erodium_cicutarium
+- waarneming: https://waarneming.nl/search/?q=erodium+cicutarium

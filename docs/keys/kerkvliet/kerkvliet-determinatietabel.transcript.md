@@ -120,7 +120,7 @@
 | Pyracantha coccin | vuurdoorn | О ⁄ ∆ | 23-27 | reticulaat (?) | 3-colporaat, geel, Prunusvorm, zie onder rugulaat |
 | Verbascum nigrum | zwarte toorts | О ⁄ ∆ | 23-28 | reticulaat (als Salix) | 3-colporaat, soms oranje olie |
 | Populus sp | populier | onregelmatig O | 23-31 | scabraat/tectaat | 0, nectarloos,intine 2µm; cyto: |
-| Granulair Anthriscus sylv | fluitekruid | ovaal | 24x15 | reticulaat | 3-colporaat, Umbellif.bouw |
+| Anthriscus sylv | fluitekruid | ovaal | 24x15 | reticulaat | 3-colporaat, Umbellif.bouw |
 | Digitalis purpurea | vingerhoedskruid | О ⁄ ∆ | 24 | fijn reticulaat | 3-colporaat; l smalle, s colpi, ;pore vaak onduidelijk |
 | Euodia hupehensis | honingboom | ca O | 24(-27) | grof reticulaat | 3-colporaat; syn: Tetradium daniella; (Evodia) (> Salix) hof, vouwen. Ook wel < ∆ en <20 µm |
 | Rumex obtusifolius | zuring | O | 24 | reliëf | 3-colporaat, cyto: gran |
@@ -142,6 +142,104 @@
 | Cakile maritima | zeeraket | O | 25-30 | reticulaat | 3colporaat? (prep. Zeeland) |
 | Corylopsis parcifl | schijnhazelaar | ca O | 25-32 | reticulaat (als salix) | 3-colpaar, l colpi met spits einde |
 | Juniperus commu | jeneverbes | O | 26 | scabraat | 0, intine 5-10µm, stervorm in centrum |
+| Scrophularia nodosa | helmkruid | О ⁄ ∆ | 26(24-28) | reticulaat | 3-col(por)aat, ora onduidelijk, klein hof |
+| Saxifraga granul | steenbreek | ∆ | 26 | verrucaat? | 3-colpaat, dikke exine |
+| Papaver rhoeas | klaproos | О ⁄ ∆ | 26 | reticulaat/scabraat | 3-colpaat, soms geel, lange brede colpi, exinedelen op colpi |
+| Trifolium repens | witte klaver | ovaal | 26 | reticulaat | 3-colporaat, ook wel glad; dunne exine |
+| Melilotus off. | honingklaver | ovaal | 26 | reticulaat | 3-colporaat, ook wel glad |
+| Euonymus europ | kardinaalsmuts | ca ∆ | 26 | reticulaat | 3-colporaat |
+| Viburnum tinus | - | О ⁄ ∆ | 27 | reticulaat(als Sinap) | 3-colporaat, hof, licht geel, l colpi spits einde, vierkante pore |
+| Brassica napus | koolzaad | О ⁄ ∆ | 27 | reticulaat | 3-(soms4-)colpaat, geelbruin |
+| Odontites vernus | rode ogentroost | О ⁄ ∆ | 27 | scabraat | 3-colp(or)aat, s colpi, cyto: iets gran gelig |
+| Stachys palustris | moerasandoorn | О ⁄ ∆ | 27 | fijn reticulaat (?) | 3-colpaat, brede colpi (10-12 µm), vrij lang, druppelvorm |
+| Sanguisorba off | pimpernel | O | 28-31 | scabraat | 6-colporaat, geeloranje, dikke exine |
+| Quercus robur | zomereik | ca. O | 28-35 | scabraat/verrucaat | 3-colporaat,lolongaat, lichtgeel; cyto: iets gran; soms vouwen |
+| Anemone | anemoon | О ⁄ ∆ | 28 | scabraat | 3-4-colpaat |
+| Verbascum thaps | koningskaars | О ⁄ ∆ | 28 | reticulaat(als Salix) | 3-colporaat, soms oranje olie |
+| Caltha palustris | dotterbloem | О ⁄ ∆ | 28 | scabraat/reticul | 3-colporaat, verdikte exine |
+| Chenopodium alb | melganzevoet | O | 28 | scabraat | ca 70-poraat; cyto: gran |
+| Pimpinella anisum | anijs | ovaal | 28x12 | scabraat | 3-colporaat NB: zie onder 34x14! |
+| Pastinaca sativa | pastinaak | ovaal | 28x16 | fijn reticulaat | 3-colporaat, iets bol uiterlijk |
+| Buxus sempervi | palmboompje | ca O | 28-32 | fijn reticulaat | n-poraat, pore onregelmatig, dikke ex |
+| Ricinus communis | wonderboom | О ⁄ ∆ | 29-31 | reticulaat | 3-colporaat, exine lichtgeel, lange,smalle colpi, lalongaat |
+| Ligustrum vulg | liguster | O | 28-34 | grof reticulaat | 3-colp(or)aat, vouwen, hof |
+| Ulmus sp. | iep | ca O | 29-38 | scabraat/rugulaat? | ca 5-poraat, cyto: gran |
+| Lupinus | lupine | ∆ | 29 | reticulaat | 3-colporaat, onduid. colporaat |
+| Thuja sp. | Thuja | O | 30 | scabraat | 0, intine ca 6 μm |
+| Hedera helix | klimop | О ⁄ ∆ | 30 | reticulaat | 3-colporaat, vouwen, hof, smalle colpi |
+| Viburnum lantanum | wollige sneeuwbal | О ⁄ ∆ | 30 | reticulaat | 3-colporaat,hof; zeldzaam in NL |
+| Sinapis arvensis | herik,mosterd | О ⁄ ∆ | 30 | reticulaat | 3-colpaat, lichtgeel |
+| Acer negundo | verderesdoorn | ca. O | 30 | reticulaat/rugulaat | 3-col(po)raat, beetje striaat, hof, vouwen, scherpe colpi |
+| Ulex europaeus | gaspeldoorn | О ⁄ ∆ | 30(27-31) | reticulaat (≤Bn) | 3-colp(or)aat, vrij l colpi spits einde [Lit: 25-37] in eq ligging grote pore, soort blaas, soms gele olie |
+| Coriandrum sativ | koriander | ovaal | 30x12,5 | verrucaat/scabraat | 3-colporaat, pore rond met ring, (slanke bouw) |
+| Muscari sp. | druifhyacinth | ca. halfovaal | ca. 30 | scabraat | 1-colpaat |
+| Aralia elata | Aralia | О ⁄ ∆? | ca. 30? | reticulaat | 3-colporaat |
+| Rhinanthus sp. | ratelaar | О ⁄ ∆ | ca. 30 | fijn reticultaat | 3-colpaat (?), vouwen |
+| Cytisus | brem | ∆/O | 30-33 | fijn reticulaat/scabraat | 3-colpaat; zie ook Sarothamnus, glad 30 µm, Prunusbouw |
+| Phlox sp | phlox | O | ca 30-35 | grof reticulaat | n-poraat |
+| Capsicum annuum | paprika | О ⁄ ∆ | 30-35 | scabraat | 3-colporaat; l colpi eindigend in punt, pore 10µm, portaal |
+| Ranunculus sp | boterbloem | О ⁄ ∆ | 30-39 | verrucaat | 3-colpaat/6-colpaat. Cyto: granulair |
+| Onobrychis viciifo | esparcette | ovaal | 30-39 | reticulaat | 3 colpaat, lange colpi |
+| Phlox subulata | kruipphlox | O | 31 | reticulaat (>5μm) | >10-poraat |
+| Pulmonaria off | longkruid | ovaal | 31 | reticulaat | 4-5-colporaat |
+| Thymus serpyllum? | wilde tijm | zeskantig | 31 (34) | reticulaat(<Origan) | 6-colpaat, colpi tot 30µm, puntig eind |
+| Nepeta cataria | kattenkruid | zeskantig | 31 | reticulaat | 6-colpaat |
+| Angelica sylvestris | engelwortel | ovaal | 31x13 | verrucaat | 3-colporaat, lolongaat |
+| Chelidonium | stinkende gouwe | О ⁄ ∆ | 32 | fijn reticulaat | 3-colpaat, nectarloos.Delen van exine op colpi; colpi niet scherp begrensd |
+| Scilla bifolia | sterhyacint | ca ovaal | 32 | reticulaat | 1-colpaat |
+| Lupinus angustifo | blauwe lupine | О ⁄ ∆ | 32-36 | reticulaat | 3-colporaat; Ros. bouw; reticu als T.r. |
+| Impatiens | balsemien | rechthoekig | 32-39 | reticulaat | 4-colpaat, cyto: gran; ook grotere pollen |
+| Tropaeolum majus | Oost-Ind. Kers | ∆ | 32 | reticulaat | 3-colporaat |
+| Ilex aquifolium | hulst | onregelmatig | 33 | clavaat | 3-colporaat, verrucaat |
+| Origanum vulgare | wilde marjolein | zeskantig | 33 | reticulaat(<Salix) | 6-colpaat, colpi 25µm, stomp einde, soms puntig |
+| Origanum vulgare | majoraan | zeskantig | 33 | reticulaat | 3-colpaat |
+| Ranunculus rep. | Kruipende boterbl | ca O | 33 | verrucaat | 3-4 colp(or?)aat; l colpi; cyto: zetmeel |
+| Fagopyrum esc. | boekweit | ovaal | 33-36 | foveolaat | 3-colporaat, bruin,zetmeel, lange colpi; pollen soms tot 48 µm |
+| Carex spp | zegge | eivormig | 33-66 | verrucaat | n-poraat; cytoplasma fijn granulair (zetmeel) |
+| Salvia sp. | Salvia | zeskantig | 33-37 | grof reticulaat | ? |
+| Borago | borage | O | 34 | scabraat | 9-10-colporaat, lijkt fijn reticulaat |
+| Silene dioica | dagkoekoeksbloem | O | 34 | reticulaat | > 10-poraat |
+| Pimpinella anisum | anijs | ovaal | 34x14 | scabraat | 3-colporaat NB lit.opg: 29-37x13-18 |
+| Corydalis cava | holwortel | □/O | 35 | verrucaat | 3-6-colpaat |
+| Gleditsia triacanth | Christusdoorn | О ⁄ ∆ | 35/28-32 | reticulaat(als Bn) | 3-col(po)raat, colpi ca 7µm breed,lang puntig einde, pore 7µm; intine 2µm; vouwen? |
+| Tilia sp. | linde | ca. O | 35 | foveolaat | 3-colporaat, hof |
+| Aconitum sp | ridderspoor | О ⁄ ∆ | 35 | scabraat | 3-colpaat |
+| Callicarpa sp. | Callicarpa | (∆)/O | 35(-40) | fijn reticulaat | 3-colpaat, l colpi ca 10µm breed deels // colpiwanden, exineresten op opp? |
+| Oxalis | klaverzuring | ca. ∆ | 35-43 | reticulaat | 3-4-colpaat, lichtgeel tot groenig |
+| Eschscholzia californ | slaapmutsje | zeskantig | 36 | reticulaat | 5-6-colpaat, dikke exine |
+| Lychnis flos-cuculi | koekoeksbloem | O | 36 | reticulaat | > 10-poraat |
+| Cerastium fontan | gew hoornbloem | O | 36 | reticulaat | ca 18-poraat, geel |
+| Mentha aquatica | watermunt | zeskantig | 36 | reticulaat | 6-colpaat |
+| Ranunculus ficar | speenkruid | О ⁄ ∆ | 36 | scabraat | 3-colpaat |
+| Veronica sp. | div. ereprijs | О ⁄ ∆ | 36(20-40) | reticulaat/striaat | 3-colpaat |
+| Veronica filiformis | draadereprijs | O/∆/□ | 36 | reticul+scabraat(?) | 3(-4)-colpaat, delen van ex op colpi, colpi lang. Cyto: gran |
+| Parthenocissus q | wilde wingerd | O/ zwak ovaal | 36-38 | reticulaat | 3-colporaat, vouwen, hof; intine verdikt. Syn: Ampelopsis |
+| Rhus typhina | azijnboom | О ⁄ ∆ | 37 | reticulaat | 3-colporaat, l colpi, lalongaat, gele olie, cytopl: granulair |
+| Diplotaxis muralis | muurzandkool | ca O | 37 | reticulaat | 3(soms 4)-colpaat, geel |
+| Trifolium pratense | rode klaver | ovaal | 37 | grof reticulaat | 3-colporaat |
+| Phaseolus vulgaris | spercieboon | О ⁄ ∆ | 37 | scabraat | 3-poraat, hof, cyto: gran, dikke intine |
+| Galeopsis tetrahit | hennepnetel | О ⁄ ∆ | 37 | fijn reticulaat | 3-colpaat; l colpi,breed (12,5µm), scherp begrensd; resten enxine op colpi |
+| Lavandula angust | echte lavendel | zeskantig | 37-38 | reticulaat(foveolaat | 6-colpaat, dikke exine |
+| Centaurea cyanus | korenbloem | ovaal | 38x31 | reticu/verrucaat | 3-colporaat |
+| Satureia hortensis | bonenkruid | zeskantig/ovaal | 38-40 (36) | fijn reticulaat | 6-colpaat |
+| Salvia pratensis | veldsalie | zeskantig/ovaal | 39 | reticulaat | 6-colpaat |
+| Heracleum sphon. | bereklauw | ovaal | 39x21 | verrucaat | 3-colporaat,Umbellif. bouw;ook 52x21 |
+| Rosmarinus off | rozemarijn | zeskantig/ovaal | 39(36-48) | fijn reticulaat | 6-colpaat |
+| Vicia cracca | wikke | ovaal | 39 | reticulaat | 3-colporaat,cyto: gran |
+| Mimulus guttatus | maskerbloem | O | 40 | scabraat | 6 (?) spiraalapertuur; cyto:. granuleus? |
+| Nigella damasc. | juffertje i/h groen | О ⁄ ∆ | 40 | scabraat | 3-colpaat;colpi met exineresten |
+| Narcissus sp | narcis | (half)ovaal | 40-43 | scabraat | 1-colpaat, colpus duidelijk, sulcaat |
+| Hyacinthus (orien?) | hyacinth (sier) | onregelmatig O | 40-50 | reticulaat | 1-colpaat, colpus wat onduidelijk; intine 2,5-10 µm, cytoplasma: gran |
+| Hyacinthus sp. | hyacinth | ca. ovaal | 40-80 | scabraat/reticulaat | 1-colpaat (literatuur) |
+| Fagus sylvatica | beuk | O | 41 | scabraat/rugulaat | 3-colporaat, geel,nectarloos |
+| Eryngium sp. | Kruisdistel | ovaal | 41x24 | scabraat | 3-colporaat, lalongaat |
+| Corydalis lutea | gele helmbloem | ca □ | 42-45 | wsl verrucaat | 4(?)-colpaat, syncolpaat |
+| Juglans regia | walnoot | O | 42(35-57) | scabraat | 10-poraat |
+| Helianthemum | zonneroosje | О ⁄ ∆ | 43 | reticulaat | 3-colporaat, cyto: gran, nectarloos |
+| Polygonum bistorta | adderwortel | ovaal | 43 | scabraat | 3-colporaat, soms hof, cyto: wsl zetmeel |
+| Bryonia | heggerank | ca O | 44 | reticulaat | 3-colporaat |
+| Pachysandra ter(?) | dikkemanskruid | O | 44-48 | reticulaat+clavaat | > 10-poraat, spectaculair opp |
+| Symphoricarpus sp | sneeuwbes | ∆ | 44 | scabraat | 3-colporaat, soms hof |
 | Staphylea pinnata | pimpernoot | Ο/∆/□ | 45 | reticulaat | 3-4-colporaat |
 | Astrantia major | Zeeuws knoopje | ovaal | 45x20 | rugulaat | 3-colporaat, iets onregelm. van vorm |
 | Narcissus sp. | narcis | halfovaal | 45-50 | reticulaat/scabraat | 1-colpaat (sulcaat) |

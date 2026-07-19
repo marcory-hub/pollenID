@@ -12,41 +12,58 @@
 | Vorm | rond |
 | Apertuur | tricolporaat |
 | Sculptuur | reliëf |
+| pollen-note | Kerkvliet: 24 µm; reliëf |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 rumex_obtusifolius:
-  latin: Rumex obtusifolius
-  dutch: zuring
-  family: null
+  name:
+    latin_name: Rumex obtusifolius
+    dutch_name: zuring
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 24 µm
-    largest_size: 24 µm
+    size_smallest: 24 µm
+    size_largest: 24 µm
     height_px: 60
-  pollen_class: null
-  shape: rond
-  sculpture: reliëf
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Tricolporat-reticulat
+  pollen_features:
+    shape: rond
+    sculpture: reliëf
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: 'Kerkvliet: 24 µm; reliëf'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Rumex_obtusifolius
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rumex_obtusifolius
     paldat: https://www.paldat.org/pub/Rumex_obtusifolius
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=rumex+obtusifolius
   images:
   - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_1.png
     kind: pollenwiki
@@ -72,6 +89,7 @@ rumex_obtusifolius:
   - path: assets/images/by-taxon/rumex_obtusifolius/rumex_obtusifolius_8.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -83,3 +101,4 @@ rumex_obtusifolius:
 - pollenX: https://pollenx.eu/species.php?species=Rumex_obtusifolius
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rumex_obtusifolius
 - paldat: https://www.paldat.org/pub/Rumex_obtusifolius
+- waarneming: https://waarneming.nl/search/?q=rumex+obtusifolius

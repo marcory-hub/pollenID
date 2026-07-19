@@ -8,51 +8,68 @@
 |---|---|
 | Latijn | Myosotis scorpioides |
 | Nederlands | vergeet-me-nietje |
-| Familie | Boraginaceae (Ruwbladigenfamilie) |
-| Grootte | 5 µm-7 µm |
-| Vorm | halter, tonvormig bij equator ingesnoerd, prolaat |
-| Polariteit | hetropolair |
-| Apertuur | 6-colpaat, iedere tweede colpus met een porus |
+| Familie | Boraginaceae (ruwbladigenfamilie) |
+| Grootte | 4.6 µm-8.7 µm |
+| Vorm | tonvormig, bij evenaar ingesnoerd, prolaat |
+| Polariteit | heteropolair |
+| P/E | prolaat (PoFormI ca. 1.71; 1.63-1.77) |
+| Apertuur | heterocolpaat; 6 colpi; elke 2e colpus met porus |
 | Sculptuur | psilaat |
 | Bloeitijd | 5-8 |
 | Nectarwaarde | 1 |
+| pollen-note | Beug 28.8 Myosotis sylvatica-type; maten 8 (8.0-8.7) en 5 (4.6-5.3) µm |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 myosotis_scorpioides:
-  latin: Myosotis scorpioides
-  dutch: vergeet-me-nietje
-  family: Boraginaceae (Ruwbladigenfamilie)
+  name:
+    latin_name: Myosotis scorpioides
+    dutch_name: vergeet-me-nietje
+  classification:
+    order: null
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
+    tribe: null
+    genus: Myosotis
   size:
-    smallest_size: 5 µm
-    largest_size: 7 µm
-    height_px: 18
-  pollen_class: null
-  shape: halter, tonvormig bij equator ingesnoerd, prolaat
-  sculpture: psilaat
-  aperture: 6-colpaat, iedere tweede colpus met een porus
-  ornamentation: null
-  polarity: hetropolair
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 4.6 µm
+    size_largest: 8.7 µm
+    height_px: 22
+  pollen_class_beug: Heterocolpat
+  pollen_features:
+    shape: tonvormig, bij evenaar ingesnoerd, prolaat
+    sculpture: psilaat
+    sculpture_visibility: null
+    aperture: heterocolpaat; 6 colpi; elke 2e colpus met porus
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: heteropolair
+    pe_ratio: prolaat (PoFormI ca. 1.71; 1.63-1.77)
+    pollen-note: Beug 28.8 Myosotis sylvatica-type; maten 8 (8.0-8.7) en 5 (4.6-5.3)
+      µm
   flowering_time:
     start: 5
     end: 8
-  nectar_value: 1
-  pollen_value: 0
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 1
+    pollen_value: 0
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Myosotis_scorpioides
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides
     paldat: https://www.paldat.org/pub/Myosotis_scorpioides
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
-  - source: pollen_species_md
-    path: pollenID/docs/pollen/species/myosotis_scorpioides.md
+    waarneming: https://waarneming.nl/search/?q=myosotis+scorpioides
   images:
   - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png
     kind: pollenwiki
@@ -66,6 +83,7 @@ myosotis_scorpioides:
   - path: assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_3.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -118,3 +136,4 @@ myosotis_scorpioides:
 - pollenX: https://pollenx.eu/species.php?species=Myosotis_scorpioides
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Myosotis_scorpioides
 - paldat: https://www.paldat.org/pub/Myosotis_scorpioides
+- waarneming: https://waarneming.nl/search/?q=myosotis+scorpioides

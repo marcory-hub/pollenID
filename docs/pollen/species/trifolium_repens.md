@@ -7,47 +7,65 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Trifolium repens |
+| Nederlands | witte klaver |
 | Grootte | 21 µm-25 µm |
 | Vorm | gering driehoekig convex sferoid |
 | Polariteit | isopolair |
 | P/E | 0.96; 0.93-1.05 |
 | Apertuur | tricolportaal |
 | Sculptuur | fijn reticulaat |
+| pollen-note | Kerkvliet: 26 µm; reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 trifolium_repens:
-  latin: Trifolium repens
-  dutch: null
-  family: null
+  name:
+    latin_name: Trifolium repens
+    dutch_name: witte klaver
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 21 µm
-    largest_size: 25 µm
+    size_smallest: 21 µm
+    size_largest: 25 µm
     height_px: 62
-  pollen_class: null
-  shape: gering driehoekig convex sferoid
-  sculpture: fijn reticulaat
-  aperture: tricolportaal
-  ornamentation: null
-  polarity: isopolair
-  pe_ratio: 0.96; 0.93-1.05
-  pollen-note: null
+  pollen_class_beug: Tricolporat-reticulat
+  pollen_features:
+    shape: gering driehoekig convex sferoid
+    sculpture: fijn reticulaat
+    sculpture_visibility: null
+    aperture: tricolportaal
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: 0.96; 0.93-1.05
+    pollen-note: 'Kerkvliet: 26 µm; reticulaat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Trifolium_repens
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_repens
     paldat: https://www.paldat.org/pub/Trifolium_repens
-    waarneming:
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/witte-klaverhoning.md
+    waarneming: https://waarneming.nl/search/?q=trifolium+repens
   images:
   - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png
     kind: pollenwiki
@@ -61,6 +79,7 @@ trifolium_repens:
   - path: assets/images/by-taxon/trifolium_repens/trifolium_repens_4.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -121,8 +140,11 @@ Geen pad in Beug-JSON voor deze `pollen_key`.
 </details>
 
 ### Kerkvliet
-Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
+<details><summary>kerkvliet_determinatietabel</summary>
 
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+
+</details>
 
 
 ## Online databases
@@ -130,3 +152,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Trifolium_repens
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Trifolium_repens
 - paldat: https://www.paldat.org/pub/Trifolium_repens
+- waarneming: https://waarneming.nl/search/?q=trifolium+repens

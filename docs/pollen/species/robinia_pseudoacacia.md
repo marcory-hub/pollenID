@@ -7,52 +7,70 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Robinia pseudoacacia |
-| Nederlands | Robinia pseudoacacia |
+| Nederlands | valse acacia |
+| Familie | Fabaceae (vlinderbloemenfamilie) |
 | Grootte | 30 µm |
-| Vorm | driehoekig tot rond, sferoid tot optisch gering oblaat |
+| Vorm | driehoekig tot rondachtig, sferoid tot optisch licht oblaat |
 | Polariteit | isopolair |
-| P/E | 0.89 |
-| Apertuur | tricolpaat, enkele pollen tetracolporoidaat |
-| Sculptuur | scabraat, aperturen zonder ornamentatie |
+| P/E | sferoid tot optisch licht oblaat (PoFormI ca. 0.89) |
+| Apertuur | tricolpaat; colpi aan de rand uitgefranst |
+| Sculptuur | scabraat |
+| Ornamentatie | apertuurmembranen niet geornamenteerd |
+| pollen-note | Beug 23.5 Robinia pseudoacacia; middelgroot polair veld; Kerkvliet: 18 µm (cv. Semperflorens, glad); 27-31 µm (glad); Robinia pseudoacacia ‘Semperflorens’ (doorbloeiende witte acacia) heeft naast de rijke voorjaarsbloei, later in de zomer opnieuw bloemtrossen te vormen. |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 robinia_pseudoacacia:
-  latin: Robinia pseudoacacia
-  dutch: Robinia pseudoacacia
-  family: null
+  name:
+    latin_name: Robinia pseudoacacia
+    dutch_name: valse acacia
+  classification:
+    order: null
+    family_latin: Fabaceae
+    family_dutch: vlinderbloemenfamilie
+    tribe: null
+    genus: Robinia
   size:
-    smallest_size: 30 µm
-    largest_size: 30 µm
+    size_smallest: 30 µm
+    size_largest: 30 µm
     height_px: 75
-  pollen_class: null
-  shape: driehoekig tot rond, sferoid tot optisch gering oblaat
-  sculpture: scabraat, aperturen zonder ornamentatie
-  aperture: tricolpaat, enkele pollen tetracolporoidaat
-  ornamentation: null
-  polarity: isopolair
-  pe_ratio: '0.89'
-  pollen-note: null
+  pollen_class_beug: Tricolporat-reticulat
+  pollen_features:
+    shape: driehoekig tot rondachtig, sferoid tot optisch licht oblaat
+    sculpture: scabraat
+    sculpture_visibility: null
+    aperture: tricolpaat; colpi aan de rand uitgefranst
+    aperture_visibility: null
+    ornamentation: apertuurmembranen niet geornamenteerd
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.89)
+    pollen-note: 'Beug 23.5 Robinia pseudoacacia; middelgroot polair veld; Kerkvliet:
+      18 µm (cv. Semperflorens, glad); 27-31 µm (glad); Robinia pseudoacacia ‘Semperflorens’
+      (doorbloeiende witte acacia) heeft naast de rijke voorjaarsbloei, later in de
+      zomer opnieuw bloemtrossen te vormen.'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Robinia_pseudoacacia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia
     paldat: https://www.paldat.org/pub/Robinia_pseudoacacia
-    waarneming:
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/valse-acacia.md
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=robinia+pseudoacacia
   images:
   - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png
     kind: by_taxon
@@ -75,6 +93,7 @@ robinia_pseudoacacia:
   - path: assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_7.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -154,8 +173,11 @@ robinia_pseudoacacia:
 </details>
 
 ### Kerkvliet
-Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
+<details><summary>kerkvliet_determinatietabel</summary>
 
+- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
+
+</details>
 
 
 ## Online databases
@@ -163,3 +185,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Robinia_pseudoacacia
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Robinia_pseudoacacia
 - paldat: https://www.paldat.org/pub/Robinia_pseudoacacia
+- waarneming: https://waarneming.nl/search/?q=robinia+pseudoacacia

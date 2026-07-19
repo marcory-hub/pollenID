@@ -8,55 +8,69 @@
 |---|---|
 | Latijn | Phacelia tanacetifolia |
 | Nederlands | phacelia, bijenvoer |
-| Familie | Boraginaceae (Ruwbladigenfamilie) |
-| Grootte | 20 µm |
-| Vorm | rond tot rozetvormig, tot gering oblaat |
+| Familie | Boraginaceae (ruwbladigenfamilie) |
+| Grootte | 18.8 µm-23.1 µm |
+| Vorm | rond tot rozetvormig, sferoid tot optisch licht oblaat |
 | Polariteit | isopolair |
-| P/E | ca. 0.81 |
-| Apertuur | stephanocolpaat, afwisselend breed en smal |
-| Sculptuur | scabraat tot psylaat, aperturen met geringe korrelige ornamentatie |
+| P/E | sferoid tot optisch licht oblaat (PoFormI ca. 0.81) |
+| Apertuur | stephanocolpaat tot heterocolpaat; 6 colpi, afwisselend breed en smal |
+| Sculptuur | scabraat tot psilaat |
+| Ornamentatie | apertuurmembranen licht korrelig geornamenteerd |
 | Bloeitijd | 5-9 |
 | Nectarwaarde | 5 |
 | Pollenwaarde | 5 |
+| pollen-note | Beug 24.3 Phacelia tanacetifolia; monad |
+| Frequentie in NL-honing | frequent |
+| Frequentie in EU-honing | frequent |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 phacelia_tanacetifolia:
-  latin: Phacelia tanacetifolia
-  dutch: phacelia, bijenvoer
-  family: Boraginaceae (Ruwbladigenfamilie)
+  name:
+    latin_name: Phacelia tanacetifolia
+    dutch_name: phacelia, bijenvoer
+  classification:
+    order: null
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
+    tribe: null
+    genus: Phacelia
   size:
-    smallest_size: 20 µm
-    largest_size: 20 µm
-    height_px: 50
-  pollen_class: null
-  shape: rond tot rozetvormig, tot gering oblaat
-  sculpture: scabraat tot psylaat, aperturen met geringe korrelige ornamentatie
-  aperture: stephanocolpaat, afwisselend breed en smal
-  ornamentation: null
-  polarity: isopolair
-  pe_ratio: ca. 0.81
-  pollen-note: null
+    size_smallest: 18.8 µm
+    size_largest: 23.1 µm
+    height_px: 58
+  pollen_class_beug: Stephanocolpat
+  pollen_features:
+    shape: rond tot rozetvormig, sferoid tot optisch licht oblaat
+    sculpture: scabraat tot psilaat
+    sculpture_visibility: null
+    aperture: stephanocolpaat tot heterocolpaat; 6 colpi, afwisselend breed en smal
+    aperture_visibility: null
+    ornamentation: apertuurmembranen licht korrelig geornamenteerd
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.81)
+    pollen-note: Beug 24.3 Phacelia tanacetifolia; monad
   flowering_time:
     start: 5
     end: 9
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: frequent
+  frequency_in_eu_honey: frequent
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Phacelia_tanacetifolia
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_tanacetifolia
     paldat: https://www.paldat.org/pub/Phacelia_tanacetifolia
-    waarneming:
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/phaceliahoning.md
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=phacelia+tanacetifolia
   images:
   - path: assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_1.png
     kind: pollenwiki
@@ -70,6 +84,7 @@ phacelia_tanacetifolia:
   - path: assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_4.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -134,3 +149,4 @@ phacelia_tanacetifolia:
 - pollenX: https://pollenx.eu/species.php?species=Phacelia_tanacetifolia
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Phacelia_tanacetifolia
 - paldat: https://www.paldat.org/pub/Phacelia_tanacetifolia
+- waarneming: https://waarneming.nl/search/?q=phacelia+tanacetifolia

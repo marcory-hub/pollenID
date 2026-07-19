@@ -8,9 +8,20 @@
 |---|---|
 | Latijn | Malus domestica |
 | Nederlands | appel |
+| Familie | Rosaceae (Rozenfamilie) |
 | Grootte | 30 µm |
-| Vorm | ∆ |
-| Sculptuur | glad/rugulaat |
+| Vorm | driehoekig, gering oblaat tot sferoid |
+| Polariteit | 0.75 |
+| P/E | 0.19 |
+| Apertuur | tricolporaat met de randen van de colpi gering rafelig |
+| Sculptuur | rugulaat tot striaat oppervlak, met LM lastig herkenbaar |
+| Ornamentatie | geen |
+| Bloeitijd | 4-5 |
+| Nectarwaarde | 3 |
+| Pollenwaarde | 3 |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -127,3 +138,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Malus_domestica
 - paldat: https://www.paldat.org/pub/Malus_domestica
 - pollenx: https://pollenx.eu/species.php?species=Malus_domestica
+- waarneming: https://waarneming.nl/search/?q=malus+domestica

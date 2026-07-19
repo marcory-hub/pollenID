@@ -8,41 +8,59 @@
 |---|---|
 | Latijn | Populus nigra |
 | Nederlands | zwarte populier |
+| Grootte | 24.8 µm-37.8 µm |
+| Apertuur | inaperturaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 populus_nigra:
-  latin: Populus nigra
-  dutch: zwarte populier
-  family: null
+  name:
+    latin_name: Populus nigra
+    dutch_name: zwarte populier
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 24.8 µm
+    size_largest: 37.8 µm
+    height_px: 94
+  pollen_class_beug: Inaperturat
+  pollen_features:
+    shape: null
+    sculpture: null
+    sculpture_visibility: null
+    aperture: inaperturaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Populus_nigra
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Populus_nigra
     paldat: https://www.paldat.org/pub/Populus_nigra
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=populus+nigra
   images:
   - path: assets/images/by-taxon/populus_nigra/populus_nigra_1.png
     kind: by_taxon
@@ -56,6 +74,7 @@ populus_nigra:
   - path: assets/images/by-taxon/populus_nigra/populus_nigra_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -96,3 +115,4 @@ populus_nigra:
 - pollenX: https://pollenx.eu/species.php?species=Populus_nigra
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Populus_nigra
 - paldat: https://www.paldat.org/pub/Populus_nigra
+- waarneming: https://waarneming.nl/search/?q=populus+nigra

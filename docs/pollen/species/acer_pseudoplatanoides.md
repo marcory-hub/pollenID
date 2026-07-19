@@ -7,52 +7,57 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Acer pseudoplatanoides |
-| Nederlands | Esdoorn |
-| Familie | Sapindaceae (zeepboomfamilie) |
-| Grootte | 31 µm-35 µm |
-| Vorm | ongeveer rond |
-| Polariteit | 0.85 |
-| P/E | 0.2 |
-| Apertuur | 3-colpaat |
-| Sculptuur | striaat |
-| Ornamentatie | licht korrelig |
-| Bloeitijd | 4-5 |
-| Nectarwaarde | 5 |
-| Pollenwaarde | 5 |
+| Frequentie in NL-honing | frequent |
+| Frequentie in EU-honing | frequent |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 acer_pseudoplatanoides:
-  latin: Acer pseudoplatanoides
-  dutch: Esdoorn
-  family: Sapindaceae (zeepboomfamilie)
+  name:
+    latin_name: Acer pseudoplatanoides
+    dutch_name: null
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 31 µm
-    largest_size: 35 µm
-    height_px: 85
-  shape: ongeveer rond
-  sculpture: striaat
-  aperture: 3-colpaat
-  ornamentation: licht korrelig
-  polarity: 0.85
-  pe_ratio: 0.2
+    size_smallest: null
+    size_largest: null
+    height_px: null
+  pollen_class_beug: null
+  pollen_features:
+    shape: null
+    sculpture: null
+    sculpture_visibility: null
+    aperture: null
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
-    start: 4
-    end: 5
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+    start: null
+    end: null
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: frequent
+  frequency_in_eu_honey: frequent
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Acer_pseudoplatanoides
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_pseudoplatanoides
     paldat: https://www.paldat.org/pub/Acer_pseudoplatanoides
-    pollenx: https://pollenx.eu/species.php?species=Acer_pseudoplatanoides
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=acer+pseudoplatanoides
   images:
   - path: assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_1.png
     kind: by_taxon
@@ -66,6 +71,7 @@ acer_pseudoplatanoides:
   - path: assets/images/by-taxon/acer_pseudoplatanoides/acer_pseudoplatanoides_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -131,3 +137,4 @@ acer_pseudoplatanoides:
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Acer_pseudoplatanoides
 - paldat: https://www.paldat.org/pub/Acer_pseudoplatanoides
 - pollenx: https://pollenx.eu/species.php?species=Acer_pseudoplatanoides
+- waarneming: https://waarneming.nl/search/?q=acer+pseudoplatanoides

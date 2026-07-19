@@ -17,40 +17,57 @@
 | Bloeitijd | 7-10 |
 | Nectarwaarde | 3 |
 | Pollenwaarde | 3 |
-| pollen_class | 17 |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 aster_amellus:
-  latin: Aster Amellus
-  dutch: bergaster, italiaanse aster
-  family: Asteraceae (asterfamilie)
+  name:
+    latin_name: Aster Amellus
+    dutch_name: bergaster, italiaanse aster
+  classification:
+    order: null
+    family_latin: Asteraceae
+    family_dutch: asterfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 27 µm
-    largest_size: 32 µm
+    size_smallest: 27 µm
+    size_largest: 32 µm
     height_px: 73
-  pollen_class: 17
-  shape: rond tot gering driehoekig, sferoid tot gering oblaat
-  sculpture: echinaat
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: 0.86
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Tricol-echinat
+  pollen_features:
+    shape: rond tot gering driehoekig, sferoid tot gering oblaat
+    sculpture: echinaat
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: 0.86
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
     start: 7
     end: 10
-  nectar_value: 3
-  pollen_value: 3
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 3
+    pollen_value: 3
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Aster_amellus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Aster_amellus
     paldat: https://www.paldat.org/pub/Aster_amellus
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=aster+amellus
   images:
   - path: assets/images/by-taxon/aster_amellus/aster_amellus_1.png
     kind: by_taxon
@@ -64,6 +81,7 @@ aster_amellus:
   - path: assets/images/by-taxon/aster_amellus/aster_amellus_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -75,3 +93,4 @@ aster_amellus:
 - pollenX: https://pollenx.eu/species.php?species=Aster_amellus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Aster_amellus
 - paldat: https://www.paldat.org/pub/Aster_amellus
+- waarneming: https://waarneming.nl/search/?q=aster+amellus

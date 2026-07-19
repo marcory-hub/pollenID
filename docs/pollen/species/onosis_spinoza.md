@@ -10,8 +10,12 @@
 | Nederlands | kattendoorn |
 | Grootte | 20 µm-25 µm |
 | Vorm | ovaal |
-| Apertuur | 3-colporaat |
+| Apertuur | tricolporaat |
 | Sculptuur | glad/f.reticuaat |
+| pollen-note | Kerkvliet: glad/fijn reticuaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -28,3 +32,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Onosis_spinoza
 - paldat: https://www.paldat.org/pub/Onosis_spinoza
 - pollenx: https://pollenx.eu/species.php?species=Onosis_spinoza
+- waarneming: https://waarneming.nl/search/?q=onosis+spinoza

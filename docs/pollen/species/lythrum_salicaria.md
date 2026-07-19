@@ -10,7 +10,12 @@
 | Nederlands | kattenstaart |
 | Grootte | 19 µm-24 µm |
 | Vorm | ongeveer rond |
+| Apertuur | heterocolpaat |
 | Sculptuur | striaat |
+| pollen-note | Kerkvliet: 22(19-24) µm; striaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -59,3 +64,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lythrum_salicaria
 - paldat: https://www.paldat.org/pub/Lythrum_salicaria
 - pollenx: https://pollenx.eu/species.php?species=Lythrum_salicaria
+- waarneming: https://waarneming.nl/search/?q=lythrum+salicaria

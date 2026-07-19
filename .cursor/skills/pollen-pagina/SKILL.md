@@ -101,6 +101,7 @@ Create/update `docs/pollen/species/<slug>.md` with these sections and order:
      - `- [PollenX - *Genus species*](...)`
      - `- [pollenwiki - *Genus species*](...)`
      - `- [Paldat - *Genus species*](...)`
+     - `- [Waarneming.nl - *Genus species*](...)`
 
 6. **`## Naslag`** (optional)
    - Bullet list of references if you have verified URLs (e.g. existing PDF links already used elsewhere in repo).

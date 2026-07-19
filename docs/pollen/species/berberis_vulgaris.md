@@ -12,47 +12,67 @@
 | Grootte | 39 µm-52 µm |
 | Vorm | rond tot vierhoekig, sferoid |
 | Polariteit | heteropolair |
+| P/E | sferoïdisch |
 | Apertuur | spiraperturaat |
 | Sculptuur | verrucaat, scabraat |
 | Ornamentatie | apertuurmembranen deels korrelig tot verrucateornamentering |
 | Bloeitijd | 5-6 |
 | Nectarwaarde | 5 |
 | Pollenwaarde | 5 |
+| pollen-note | PK spiraperturaat, sferoïdisch, Colpen met 1–2 schroefwindingen. Intercolpia tot 15 µm breed. Exine psilaat of zwak scabraat, duidelijk gestructureerd (endo-microreticulaat). |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 berberis_vulgaris:
-  latin: Berberis vulgaris
-  dutch: zuurbes
-  family: Berberidaceae (Zuurbesfamilie)
+  name:
+    latin_name: Berberis vulgaris
+    dutch_name: zuurbes
+  classification:
+    order: null
+    family_latin: Berberidaceae
+    family_dutch: Zuurbesfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 39 µm
-    largest_size: 52 µm
+    size_smallest: 39 µm
+    size_largest: 52 µm
     height_px: 115
-  pollen_class: null
-  shape: rond tot vierhoekig, sferoid
-  sculpture: verrucaat, scabraat
-  aperture: spiraperturaat
-  ornamentation: apertuurmembranen deels korrelig tot verrucateornamentering
-  polarity: heteropolair
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Syncolpat
+  pollen_features:
+    shape: rond tot vierhoekig, sferoid
+    sculpture: verrucaat, scabraat
+    sculpture_visibility: null
+    aperture: spiraperturaat
+    aperture_visibility: null
+    ornamentation: apertuurmembranen deels korrelig tot verrucateornamentering
+    ornamentation_visibility: null
+    polarity: heteropolair
+    pe_ratio: sferoïdisch
+    pollen-note: PK spiraperturaat, sferoïdisch, Colpen met 1–2 schroefwindingen.
+      Intercolpia tot 15 µm breed. Exine psilaat of zwak scabraat, duidelijk gestructureerd
+      (endo-microreticulaat).
   flowering_time:
     start: 5
     end: 6
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Berberis_vulgaris
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_vulgaris
     paldat: https://www.paldat.org/pub/Berberis_vulgaris
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=berberis+vulgaris
   images:
   - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_1.png
     kind: by_taxon
@@ -66,6 +86,7 @@ berberis_vulgaris:
   - path: assets/images/by-taxon/berberis_vulgaris/berberis_vulgaris_4.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -100,3 +121,4 @@ berberis_vulgaris:
 - pollenX: https://pollenx.eu/species.php?species=Berberis_vulgaris
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Berberis_vulgaris
 - paldat: https://www.paldat.org/pub/Berberis_vulgaris
+- waarneming: https://waarneming.nl/search/?q=berberis+vulgaris

@@ -7,44 +7,67 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Carum carvi |
-| Nederlands | Carum carvi |
+| Nederlands | karwijzaad |
+| Familie | Apiaceae (schermbloemenfamilie) |
 | Grootte | 24 µm-28 µm |
-| Apertuur | colpusranden vormen iets uitstekende kapjes over de pori |
+| Vorm | rondachtig |
+| Polariteit | isopolar |
+| P/E | prolaat |
+| Apertuur | tricolporaat |
+| Sculptuur | scabraat tot striato-reticulaat |
+| pollen-note | Beug 14.11.11 Sammelgruppe. PoFormI ca. 1,50 (1,33–1,65); apertuurmembranen niet geornamenteerd; anulus om poriën. |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 carum_carvi:
-  latin: Carum carvi
-  dutch: Carum carvi
-  family: null
+  name:
+    latin_name: Carum carvi
+    dutch_name: karwijzaad
+  classification:
+    order: null
+    family_latin: Apiaceae
+    family_dutch: schermbloemenfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 24 µm
-    largest_size: 28 µm
-    height_px: null
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: colpusranden vormen iets uitstekende kapjes over de pori
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 24 µm
+    size_largest: 28 µm
+    height_px: 106
+  pollen_class_beug: Tricolporat-psilat
+  pollen_features:
+    shape: rondachtig
+    sculpture: scabraat tot striato-reticulaat
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: isopolar
+    pe_ratio: prolaat
+    pollen-note: Beug 14.11.11 Sammelgruppe. PoFormI ca. 1,50 (1,33–1,65); apertuurmembranen
+      niet geornamenteerd; anulus om poriën.
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Carum_carvi
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Carum_carvi
     paldat: https://www.paldat.org/pub/Carum_carvi
-    waarneming:
-  - source: vanderham
-    path: /Users/md/Developer/pollenID/docs/keys/vanderham/vanderham-pollentabel.json
+    waarneming: https://waarneming.nl/search/?q=carum+carvi
   images:
   - path: assets/images/by-taxon/carum_carvi/carum_carvi_1.png
     kind: pollenwiki
@@ -55,6 +78,7 @@ carum_carvi:
   - path: assets/images/by-taxon/carum_carvi/carum_carvi_2.png
     kind: pollenwiki
     source: pollenwiki
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -66,3 +90,4 @@ carum_carvi:
 - pollenX: https://pollenx.eu/species.php?species=Carum_carvi
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Carum_carvi
 - paldat: https://www.paldat.org/pub/Carum_carvi
+- waarneming: https://waarneming.nl/search/?q=carum+carvi

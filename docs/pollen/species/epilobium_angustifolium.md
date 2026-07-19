@@ -8,39 +8,67 @@
 |---|---|
 | Latijn | Epilobium angustifolium |
 | Nederlands | wilgenroosje |
+| Familie | Onagraceae (teunisbloemfamilie) |
+| Grootte | 74.6 µm-89.5 µm |
+| Vorm | driehoekig, sferoid tot licht oblaat |
+| Polariteit | isopolair |
+| P/E | oblaat |
+| Apertuur | triporaat; porenradius ca. 10 µm |
+| Sculptuur | rugulaat (Beug: psilaat met golvend oppervlak) |
+| pollen-note | vele viscinedraden; Beug 31.7 Epilobium |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+| Plantnotitie | geaccepteerd Chamerion angustifolium (L.) Holub; syn. Chamaenerion angustifolium (L.) Scop.; basioniem Epilobium angustifolium L. |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 epilobium_angustifolium:
-  latin: Epilobium angustifolium
-  dutch: wilgenroosje
-  family: null
+  name:
+    latin_name: Epilobium angustifolium
+    dutch_name: wilgenroosje
+  classification:
+    order: null
+    family_latin: Onagraceae
+    family_dutch: teunisbloemfamilie
+    tribe: null
+    genus: Epilobium
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 74.6 µm
+    size_largest: 89.5 µm
+    height_px: 224
+  pollen_class_beug: Triporat
+  pollen_features:
+    shape: driehoekig, sferoid tot licht oblaat
+    sculpture: 'rugulaat (Beug: psilaat met golvend oppervlak)'
+    sculpture_visibility: null
+    aperture: triporaat; porenradius ca. 10 µm
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: isopolair
+    pe_ratio: oblaat
+    pollen-note: vele viscinedraden; Beug 31.7 Epilobium
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: geaccepteerd Chamerion angustifolium (L.) Holub; syn. Chamaenerion
+      angustifolium (L.) Scop.; basioniem Epilobium angustifolium L.
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Epilobium_angustifolium
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Epilobium_angustifolium
     paldat: https://www.paldat.org/pub/Epilobium_angustifolium
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=epilobium+angustifolium
   images:
   - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_1.png
     kind: by_taxon
@@ -51,6 +79,7 @@ epilobium_angustifolium:
   - path: assets/images/by-taxon/epilobium_angustifolium/epilobium_angustifolium_3.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -91,3 +120,4 @@ epilobium_angustifolium:
 - pollenX: https://pollenx.eu/species.php?species=Epilobium_angustifolium
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Epilobium_angustifolium
 - paldat: https://www.paldat.org/pub/Epilobium_angustifolium
+- waarneming: https://waarneming.nl/search/?q=epilobium+angustifolium

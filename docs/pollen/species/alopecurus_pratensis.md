@@ -14,44 +14,65 @@
 | Apertuur | monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm |
 | Sculptuur | ulceraat, scabraat |
 | Ornamentatie | pori vaak met kiemdeksel |
-| pollen_class | 08 |
+| Frequentie in NL-honing | frequent |
+| Frequentie in EU-honing | frequent |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 alopecurus_pratensis:
-  latin: Alopecurus pratensis
-  dutch: grote vossenstaart
-  family: Poaceae (grassenfamilie)
+  name:
+    latin_name: Alopecurus pratensis
+    dutch_name: grote vossenstaart
+  classification:
+    order: null
+    family_latin: Poaceae
+    family_dutch: grassenfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 27 µm
-    largest_size: 31 µm
+    size_smallest: 27 µm
+    size_largest: 31 µm
     height_px: 73
-  pollen_class: 08
-  shape: rond tot ovaal
-  sculpture: ulceraat, scabraat
-  aperture: monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm
-  ornamentation: pori vaak met kiemdeksel
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Monoporat
+  pollen_features:
+    shape: rond tot ovaal
+    sculpture: ulceraat, scabraat
+    sculpture_visibility: null
+    aperture: monoporaat, poaceaeavena type (beug), porus diameter 2.9 µm
+    aperture_visibility: null
+    ornamentation: pori vaak met kiemdeksel
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: frequent
+  frequency_in_eu_honey: frequent
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Alopecurus_pratensis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Alopecurus_pratensis
     paldat: https://www.paldat.org/pub/Alopecurus_pratensis
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=alopecurus+pratensis
   images:
   - path: assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_1.png
     kind: by_taxon
     source: by_taxon
+  - path: assets/images/by-taxon/alopecurus_pratensis/alopecurus_pratensis_2.png
+    kind: by_taxon
+    source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -63,3 +84,4 @@ alopecurus_pratensis:
 - pollenX: https://pollenx.eu/species.php?species=Alopecurus_pratensis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Alopecurus_pratensis
 - paldat: https://www.paldat.org/pub/Alopecurus_pratensis
+- waarneming: https://waarneming.nl/search/?q=alopecurus+pratensis

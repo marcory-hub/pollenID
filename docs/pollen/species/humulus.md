@@ -12,6 +12,10 @@
 | Vorm | rond |
 | Apertuur | 3-poraat |
 | Sculptuur | scabraat |
+| pollen-note | Kerkvliet: scabraat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 

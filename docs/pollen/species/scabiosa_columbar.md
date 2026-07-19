@@ -11,6 +11,10 @@
 | Grootte | 70 µm |
 | Vorm | rond tot driekantig, afhankelijk van de ligging |
 | Sculptuur | echinaat |
+| pollen-note | Kerkvliet: 70 µm; echinaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ## Determinatiesleutels
 
@@ -72,3 +76,4 @@
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Scabiosa_columbar
 - paldat: https://www.paldat.org/pub/Scabiosa_columbar
 - pollenx: https://pollenx.eu/species.php?species=Scabiosa_columbar
+- waarneming: https://waarneming.nl/search/?q=scabiosa+columbar

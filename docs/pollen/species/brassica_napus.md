@@ -1,4 +1,4 @@
-# *Brassica napus (koolzaad* (koolzaad)
+# *Brassica napus* (koolzaad)
 
 {{ gallery("brassica_napus") }}
 
@@ -6,7 +6,7 @@
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Brassica napus (koolzaad |
+| Latijn | Brassica napus |
 | Nederlands | koolzaad |
 | Familie | Brassicaceae (Kruisbloemenfamilie) |
 | Grootte | 22.3 µm-28.2 µm |
@@ -18,42 +18,58 @@
 | Bloeitijd | 4-8 |
 | Nectarwaarde | 5 |
 | Pollenwaarde | 5 |
-| pollen-note | exine dik |
+| pollen-note | exine dik; Kerkvliet: 27 µm; reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 brassica_napus:
-  latin: Brassica napus (koolzaad
-  dutch: koolzaad
-  family: Brassicaceae (Kruisbloemenfamilie)
+  name:
+    latin_name: Brassica napus
+    dutch_name: koolzaad
+  classification:
+    order: null
+    family_latin: Brassicaceae
+    family_dutch: Kruisbloemenfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 22.3 µm
-    largest_size: 28.2 µm
+    size_smallest: 22.3 µm
+    size_largest: 28.2 µm
     height_px: 70
-  pollen_class: null
-  shape: rond, sferoid to optisch gering prolaat
-  sculpture: reticulaat
-  aperture: tricolpaat, apertuurmembranen bevatten deels gering korrelig ornamentering
-  ornamentation: null
-  polarity: 1.01
-  pe_ratio: 0.21
-  pollen-note: exine dik
+  pollen_class_beug: Tricolpat-reticulat
+  pollen_features:
+    shape: rond, sferoid to optisch gering prolaat
+    sculpture: reticulaat
+    sculpture_visibility: null
+    aperture: tricolpaat, apertuurmembranen bevatten deels gering korrelig ornamentering
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: 1.01
+    pe_ratio: 0.21
+    pollen-note: 'exine dik; Kerkvliet: 27 µm; reticulaat'
   flowering_time:
     start: 4
     end: 8
-  nectar_value: 5
-  pollen_value: 5
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: 5
+    pollen_value: 5
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Brassica_napus
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Brassica_napus
     paldat: https://www.paldat.org/pub/Brassica_napus
-    waarneming:
-  - source: monoflorale_md
-    path: pollenID/docs/monoflorale-honing-pollen/koolzaadhoning.md
+    waarneming: https://waarneming.nl/search/?q=brassica+napus
   images:
   - path: assets/images/by-taxon/brassica_napus/brassica_napus_3.png
     kind: pollenwiki
@@ -79,6 +95,31 @@ brassica_napus:
   - path: assets/images/by-taxon/brassica_napus/brassica_napus_8.png
     kind: pollenwiki
     source: pollenwiki
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_10.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_11.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_12.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_13.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_14.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_15.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_16.png
+    kind: by_taxon
+    source: by_taxon
+  - path: assets/images/by-taxon/brassica_napus/brassica_napus_9.png
+    kind: by_taxon
+    source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -167,8 +208,11 @@ brassica_napus:
 </details>
 
 ### Kerkvliet
-Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
+<details><summary>kerkvliet_determinatietabel</summary>
 
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+
+</details>
 
 
 ## Online databases
@@ -176,3 +220,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Brassica_napus
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Brassica_napus
 - paldat: https://www.paldat.org/pub/Brassica_napus
+- waarneming: https://waarneming.nl/search/?q=brassica+napus

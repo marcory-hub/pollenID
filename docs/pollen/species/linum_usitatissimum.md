@@ -10,43 +10,63 @@
 | Nederlands | vlas |
 | Grootte | 60 µm |
 | Vorm | ongeveer rond |
+| P/E | sferoïdisch |
 | Apertuur | tricolpaat |
 | Sculptuur | verrucaat |
+| pollen-note | PK sferoïdisch, PFormI 0,96–1,06. Poolvelden middelgroot tot groot. Endexine tot 4 µm; ektexine ca. 0,7–1,0 µm. Distale verbredingen van sculptuurelementen deels tot tectum verenigd.; Kerkvliet: 60 µm; verrucaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 linum_usitatissimum:
-  latin: Linum usitatissimum
-  dutch: vlas
-  family: null
+  name:
+    latin_name: Linum usitatissimum
+    dutch_name: vlas
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: 60 µm
-    largest_size: 60 µm
+    size_smallest: 60 µm
+    size_largest: 60 µm
     height_px: 150
-  pollen_class: null
-  shape: ongeveer rond
-  sculpture: verrucaat
-  aperture: tricolpaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Tricol-clavat
+  pollen_features:
+    shape: ongeveer rond
+    sculpture: verrucaat
+    sculpture_visibility: null
+    aperture: tricolpaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: sferoïdisch
+    pollen-note: 'PK sferoïdisch, PFormI 0,96–1,06. Poolvelden middelgroot tot groot.
+      Endexine tot 4 µm; ektexine ca. 0,7–1,0 µm. Distale verbredingen van sculptuurelementen
+      deels tot tectum verenigd.; Kerkvliet: 60 µm; verrucaat'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Linum_usitatissimum
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Linum_usitatissimum
     paldat: https://www.paldat.org/pub/Linum_usitatissimum
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=linum+usitatissimum
   images:
   - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_1.png
     kind: by_taxon
@@ -72,6 +92,7 @@ linum_usitatissimum:
   - path: assets/images/by-taxon/linum_usitatissimum/linum_usitatissimum_8.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -83,3 +104,4 @@ linum_usitatissimum:
 - pollenX: https://pollenx.eu/species.php?species=Linum_usitatissimum
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Linum_usitatissimum
 - paldat: https://www.paldat.org/pub/Linum_usitatissimum
+- waarneming: https://waarneming.nl/search/?q=linum+usitatissimum

@@ -24,7 +24,7 @@ Canoniek beslispad in de sleutel voor dit pollen(type):
 
 ## Meest voorkomend
 
-- [*Brassica napus (koolzaad* (koolzaad)](../species/brassica_napus.md)
+- [*Brassica napus* (koolzaad)](../species/brassica_napus.md)
 - [*Alyssum montanum* (bergschildzaad)](../species/alyssum_montanum.md)
 - [*Cakile maritima* (zeeraket)](../species/cakile_maritima.md)
 - [*Cardamine pratensis* (pinksterbloem)](../species/cardamine_pratensis.md)

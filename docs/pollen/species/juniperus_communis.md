@@ -7,46 +7,66 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Juniperus communis |
-| Nederlands | jeneverbes |
+| Nederlands | gewone jeneverbes |
+| Familie | Cupressaceae (cipresfamilie) |
 | Grootte | 26 µm |
-| Vorm | rond |
-| Apertuur | tricolporaat |
-| Sculptuur | scabraat |
+| Vorm | sferoïdisch |
+| Polariteit | heteropolar |
+| Apertuur | ulceraat (inaperturaat) |
+| Sculptuur | gemmaat, scabraat, verrucaat |
+| pollen-note | PalDat: 26–30 µm (LM hydrated); ulcerate; Ubisch-lichaampjes. Beug: Inaperturatae (Juniperus-type). |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 juniperus_communis:
-  latin: Juniperus communis
-  dutch: jeneverbes
-  family: null
+  name:
+    latin_name: Juniperus communis
+    dutch_name: gewone jeneverbes
+  classification:
+    order: null
+    family_latin: Cupressaceae
+    family_dutch: cipresfamilie
+    tribe: null
+    genus: null
   size:
-    smallest_size: 26 µm
-    largest_size: 26 µm
+    size_smallest: 26 µm
+    size_largest: 26 µm
     height_px: 65
-  pollen_class: null
-  shape: rond
-  sculpture: scabraat
-  aperture: tricolporaat
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+  pollen_class_beug: Inaperturat
+  pollen_features:
+    shape: sferoïdisch
+    sculpture: gemmaat, scabraat, verrucaat
+    sculpture_visibility: null
+    aperture: ulceraat (inaperturaat)
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: heteropolar
+    pe_ratio: null
+    pollen-note: 'PalDat: 26–30 µm (LM hydrated); ulcerate; Ubisch-lichaampjes. Beug:
+      Inaperturatae (Juniperus-type).'
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Juniperus_communis
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Juniperus_communis
     paldat: https://www.paldat.org/pub/Juniperus_communis
-    waarneming:
-  - source: kerkvliet
-    path: /Users/md/Developer/pollenID/docs/keys/kerkvliet/kerkvliet-determinatietabel.json
+    waarneming: https://waarneming.nl/search/?q=juniperus+communis
   images:
   - path: assets/images/by-taxon/juniperus_communis/juniperus_communis_1.png
     kind: by_taxon
@@ -60,6 +80,7 @@ juniperus_communis:
   - path: assets/images/by-taxon/juniperus_communis/juniperus_communis_2.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -71,3 +92,4 @@ juniperus_communis:
 - pollenX: https://pollenx.eu/species.php?species=Juniperus_communis
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Juniperus_communis
 - paldat: https://www.paldat.org/pub/Juniperus_communis
+- waarneming: https://waarneming.nl/search/?q=juniperus+communis

@@ -7,39 +7,61 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Tilia Platyphyllos |
+| Nederlands | grootbladige linde |
+| Grootte | 29.1 µm-45.5 µm |
+| Apertuur | tricolporaat |
+| Sculptuur | reticulaat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
+
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
 tilia_platyphyllos:
-  latin: Tilia Platyphyllos
-  dutch: null
-  family: null
+  name:
+    latin_name: Tilia Platyphyllos
+    dutch_name: grootbladige linde
+  classification:
+    order: null
+    family_latin: null
+    family_dutch: null
+    tribe: null
+    genus: null
   size:
-    smallest_size: null
-    largest_size: null
-    height_px: 112
-  pollen_class: null
-  shape: null
-  sculpture: null
-  aperture: null
-  ornamentation: null
-  polarity: null
-  pe_ratio: null
-  pollen-note: null
+    size_smallest: 29.1 µm
+    size_largest: 45.5 µm
+    height_px: 114
+  pollen_class_beug: Tricolporat-reticulat
+  pollen_features:
+    shape: null
+    sculpture: reticulaat
+    sculpture_visibility: null
+    aperture: tricolporaat
+    aperture_visibility: null
+    ornamentation: null
+    ornamentation_visibility: null
+    polarity: null
+    pe_ratio: null
+    pollen-note: null
   flowering_time:
     start: null
     end: null
-  nectar_value: null
-  pollen_value: null
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
+  value:
+    nectar_value: null
+    pollen_value: null
+  note:
+    note_plant: null
+    note_honey: null
+    note_pollen: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey: null
   links:
     pollenX: https://pollenx.eu/species.php?species=Tilia_platyphyllos
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_platyphyllos
     paldat: https://www.paldat.org/pub/Tilia_platyphyllos
-    waarneming:
+    waarneming: https://waarneming.nl/search/?q=tilia+platyphyllos
   images:
   - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png
     kind: by_taxon
@@ -50,6 +72,7 @@ tilia_platyphyllos:
   - path: assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_3.png
     kind: by_taxon
     source: by_taxon
+  is_secondary_contributor: null
 ```
 
 ## Determinatiesleutels
@@ -101,8 +124,7 @@ Geen pad in Beug-JSON voor deze `pollen_key`.
 </details>
 
 ### Kerkvliet
-Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
-
+Geen aparte rij voor `tilia_platyphyllos`; in de tabel staat *Tilia* sp. (`pollen_key`: `tilia_typ`), sectie reticulaat, ca. 35 µm, foveolaat.
 
 
 ## Online databases
@@ -110,3 +132,4 @@ Geen rij in Kerkvliet-JSON voor deze `pollen_key`.
 - pollenX: https://pollenx.eu/species.php?species=Tilia_platyphyllos
 - tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_platyphyllos
 - paldat: https://www.paldat.org/pub/Tilia_platyphyllos
+- waarneming: https://waarneming.nl/search/?q=tilia+platyphyllos
