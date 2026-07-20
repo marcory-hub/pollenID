@@ -3955,29 +3955,29 @@ anthriscus_sylvestris:
 arbutus_unedo:
   name:
     latin_name: Arbutus unedo
-    dutch_name: aardbeienboom
+    dutch_name: aardbeiboom
   classification:
     order:
     family_latin: Ericaceae
     family_dutch: heidefamilie
     tribe:
-    genus:
+    genus: Arbutus
   size:
     size_smallest: 50 µm
     size_largest: 50 µm
     height_px: 125
   pollen_class_beug: Tetrad
   pollen_features:
-    shape: rond, sferoid
+    shape: rond, sferoid, tetrade
     sculpture: psilaat
     sculpture_visibility:
-    aperture: smalle colpi
+    aperture: tricolpaat, smalle colpi
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: heteropolair
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: tetrade uit 4 eenheden; Beug 04 Tetradeae, 4.7 Ericaceae, 4.7.3 Arbutus'
   flowering_time:
     start:
     end:
@@ -4187,29 +4187,29 @@ arctium_lappa:
 arctostaphylos_alpina:
   name:
     latin_name: Arctostaphylos alpina
-    dutch_name:
+    dutch_name: alpenberendruif
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
     tribe:
-    genus:
+    genus: Arctostaphylos
   size:
-    size_smallest:
-    size_largest:
-    height_px: 112
+    size_smallest: 31 µm
+    size_largest: 35 µm
+    height_px: 88
   pollen_class_beug: Tetrad
   pollen_features:
-    shape: tetrade
+    shape: tetrade tetrahedraal
     sculpture: scabraat, verrucaat
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: heteropolair
     pe_ratio:
-    pollen-note:
+    pollen-note: 'PalDat: gehydrateerd 31-35 µm; diameter equatoriaal 31-35 µm'
   flowering_time:
     start:
     end:
@@ -4238,6 +4238,53 @@ arctostaphylos_alpina:
         assets/images/by-taxon/arctostaphylos_alpina/arctostaphylos_alpina_2.png
       kind: by_taxon
       source: by_taxon
+  is_secondary_contributor:
+arctostaphylos_uva_ursi:
+  name:
+    latin_name: Arctostaphylos uva-ursi
+    dutch_name: berendruif
+  classification:
+    order:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
+    tribe:
+    genus: Arctostaphylos
+  size:
+    size_smallest: 31 µm
+    size_largest: 40 µm
+    height_px: 100
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: sferoid, tetrade tetrahedraal
+    sculpture: psilaat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity: heteropolair
+    pe_ratio:
+    pollen-note: 'PalDat: gehydrateerd 36-40 µm; diameter equatoriaal 31-35 µm'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Arctostaphylos_uva-ursi
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Arctostaphylos_uva-ursi
+    paldat: https://www.paldat.org/pub/Arctostaphylos_uva-ursi
+    waarneming: https://waarneming.nl/search/?q=arctostaphylos+uva-ursi
+  images: []
   is_secondary_contributor:
 armeria_maritima:
   name:
@@ -26012,32 +26059,91 @@ vaccinium_myrtillus:
     waarneming: https://waarneming.nl/search/?q=vaccinium+myrtillus
   images: []
   is_secondary_contributor:
-vaccinium_vitis_idaea:
+vaccinium_oxycoccos:
   name:
-    latin_name: Vaccinium vitis-idaea
-    dutch_name: vossebes
+    latin_name: Vaccinium oxycoccos
+    dutch_name: kleine veenbes
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
     tribe:
-    genus:
+    genus: Vaccinium
   size:
-    size_smallest: 33 µm
-    size_largest: 35 µm
-    height_px: 88
+    size_smallest: 45.5 µm
+    size_largest: 50.6 µm
+    height_px: 127
   pollen_class_beug: Tetrad
   pollen_features:
-    shape: tetrade
-    sculpture: glad
+    shape: sferoid, heteropolair, tetrade
+    sculpture: scabraat
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
+    polarity: heteropolair
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: apertuurmembranen niet geornamenteerd; Beug 04 Tetradeae, 4.7 Ericaceae, 4.7.7 Vaccinium-type'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Vaccinium_oxycoccos
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_oxycoccos
+    paldat: https://www.paldat.org/pub/Vaccinium_oxycoccos
+    waarneming: https://waarneming.nl/search/?q=vaccinium+oxycoccos
+  images:
+    - path: assets/images/by-taxon/vaccinium_oxycoccos/vaccinium_oxycoccos_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vaccinium_oxycoccos/vaccinium_oxycoccos_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vaccinium_oxycoccos/vaccinium_oxycoccos_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vaccinium_oxycoccos/vaccinium_oxycoccos_4.png
+      kind: by_taxon
+      source: by_taxon
+  is_secondary_contributor:
+vaccinium_vitis_idaea:
+  name:
+    latin_name: Vaccinium vitis-idaea
+    dutch_name: rode bosbes
+  classification:
+    order:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
+    tribe:
+    genus: Vaccinium
+  size:
+    size_smallest: 31.5 µm
+    size_largest: 40.9 µm
+    height_px: 102
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: rond, sferoid, heteropolair, tetrade
+    sculpture: scabraat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity: heteropolair
+    pe_ratio:
+    pollen-note: 'Kerkvliet: apertuurmembranen niet geornamenteerd; PK lijken licht ingedroogd; Beug 04 Tetradeae, 4.7 Ericaceae, 4.7.7 Vaccinium-type'
   flowering_time:
     start:
     end:
@@ -26056,22 +26162,18 @@ vaccinium_vitis_idaea:
     tstebler: 
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Vaccinium_vitis_idaea
     paldat: https://www.paldat.org/pub/Vaccinium_vitis_idaea
-    waarneming: https://waarneming.nl/search/?q=vaccinium+vitis
+    waarneming: https://waarneming.nl/search/?q=vaccinium+vitis-idaea
   images:
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png
-      kind: pollenwiki
-      source: pollenwiki
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png
+    - path: assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_1.png
       kind: by_taxon
       source: by_taxon
-    - path: 
-        assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png
+    - path: assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vaccinium_vitis_idaea/vaccinium_vitis_idaea_4.png
       kind: by_taxon
       source: by_taxon
   is_secondary_contributor:
@@ -44299,6 +44401,56 @@ dactylorhiza_incarnata:
     waarneming: https://waarneming.nl/search/?q=dactylorhiza+incarnata
   images: []
   is_secondary_contributor:
+dactylorhiza_maculata:
+  name:
+    latin_name: Dactylorhiza maculata
+    dutch_name: gevlekte orchis
+  classification:
+    order:
+    family_latin: Orchidaceae
+    family_dutch: orchideeënfamilie
+    tribe:
+    genus: Dactylorhiza
+  size:
+    size_smallest: 38.1 µm
+    size_largest: 72.5 µm
+    height_px: 181
+  pollen_class_beug: Polyad
+  pollen_features:
+    shape: rechthoekig onregelmatig, tetrade
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture:
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: pollinium ca. 400 µm; monade PK ca. 27 µm (18.2-37.7 µm); syn. Orchis maculata; Beug 03 Polyadae, pollinia'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen: zeer zeldzaam
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Dactylorhiza_maculata
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Dactylorhiza_maculata
+    paldat: https://www.paldat.org/pub/Dactylorhiza_maculata
+    waarneming: https://waarneming.nl/search/?q=dactylorhiza+maculata
+  images:
+    - path: assets/images/by-taxon/dactylorhiza_maculata/dactylorhiza_maculata_1.png
+      kind: by_taxon
+      source: by_taxon
+  is_secondary_contributor:
 dactylorhiza_majalis_ssp_majalis:
   name:
     latin_name: Dactylorhiza majalis
@@ -45096,6 +45248,59 @@ dracopis_amplexicaulis:
     waarneming: https://waarneming.nl/search/?q=dracopis+amplexicaulis
   images: []
   is_secondary_contributor:
+drosera_rotundifolia:
+  name:
+    latin_name: Drosera rotundifolia
+    dutch_name: ronde zonnedauw
+  classification:
+    order:
+    family_latin: Droseraceae
+    family_dutch: zonnedauwfamilie
+    tribe:
+    genus: Drosera
+  size:
+    size_smallest: 51 µm
+    size_largest: 100 µm
+    height_px: 250
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: onregelmatig, tetrade
+    sculpture:
+    sculpture_visibility:
+    aperture: meer dan 6 pori, stephanoaperturaat
+    aperture_visibility:
+    ornamentation: microclavaat, clavaat
+    ornamentation_visibility: em_only
+    polarity: heteropolair
+    pe_ratio:
+    pollen-note: 'PalDat: atectaat (TEM); Ubisch-lichamen aanwezig'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Drosera_rotundifolia
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Drosera_rotundifolia
+    paldat: https://www.paldat.org/pub/Drosera_rotundifolia
+    waarneming: https://waarneming.nl/search/?q=drosera+rotundifolia
+  images:
+    - path: assets/images/by-taxon/drosera_rotundifolia/drosera_rotundifolia_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/drosera_rotundifolia/drosera_rotundifolia_2.png
+      kind: by_taxon
+      source: by_taxon
+  is_secondary_contributor:
 echinacea_purpurea:
   name:
     latin_name: Echinacea purpurea
@@ -45655,6 +45860,59 @@ elsholtzia_stauntonii:
     paldat: https://www.paldat.org/pub/Elsholtzia_stauntonii
     waarneming: https://waarneming.nl/search/?q=elsholtzia+stauntonii
   images: []
+  is_secondary_contributor:
+empetrum_nigrum:
+  name:
+    latin_name: Empetrum nigrum
+    dutch_name: kraaihei
+  classification:
+    order:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
+    tribe:
+    genus: Empetrum
+  size:
+    size_smallest: 26 µm
+    size_largest: 50 µm
+    height_px: 125
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: tetrade tetrahedraal, onregelmatig (droog)
+    sculpture:
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation: fossulaat, granulaat
+    ornamentation_visibility: em_only
+    polarity: heteropolair
+    pe_ratio:
+    pollen-note: 'PalDat: interaperturaal gebied ingezonken (droog pollen)'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Empetrum_nigrum
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Empetrum_nigrum
+    paldat: https://www.paldat.org/pub/Empetrum_nigrum
+    waarneming: https://waarneming.nl/search/?q=empetrum+nigrum
+  images:
+    - path: assets/images/by-taxon/empetrum_nigrum/empetrum_nigrum_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/empetrum_nigrum/empetrum_nigrum_2.png
+      kind: by_taxon
+      source: by_taxon
   is_secondary_contributor:
 enkianthus_campanulatus:
   name:
@@ -85312,21 +85570,21 @@ vicio:
 vincetoxicum_hirundinaria:
   name:
     latin_name: Vincetoxicum hirundinaria
-    dutch_name:
+    dutch_name: witte engbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Apocynaceae
+    family_dutch: oleanderfamilie
     tribe:
-    genus:
+    genus: Vincetoxicum
   size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
+    size_smallest: 150 µm
+    size_largest: 150 µm
+    height_px: 375
+  pollen_class_beug: Polyad
   pollen_features:
-    shape:
-    sculpture:
+    shape: polyade, pollinium
+    sculpture: psilaat tot scabraat
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -85334,7 +85592,7 @@ vincetoxicum_hirundinaria:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: geen losse pollenkorrels; pollinium ca. 150 µm lang; pollinarium met twee kleine pollinia'
   flowering_time:
     start:
     end:
@@ -85354,7 +85612,13 @@ vincetoxicum_hirundinaria:
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Vincetoxicum_hirundinaria
     paldat: https://www.paldat.org/pub/Vincetoxicum_hirundinaria
     waarneming: https://waarneming.nl/search/?q=vincetoxicum+hirundinaria
-  images: []
+  images:
+    - path: assets/images/by-taxon/vincetoxicum_hirundinaria/vincetoxicum_hirundinaria_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/vincetoxicum_hirundinaria/vincetoxicum_hirundinaria_2.png
+      kind: by_taxon
+      source: by_taxon
   is_secondary_contributor:
 viola_cornuta:
   name:
