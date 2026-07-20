@@ -4010,6 +4010,64 @@ arbutus_unedo:
       kind: by_taxon
       source: by_taxon
   is_secondary_contributor:
+arbutus_typ:
+  name:
+    latin_name: Arbutus typ
+    dutch_name: aardbeiboom type
+  classification:
+    order:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
+    tribe:
+    genus: Arbutus
+  size:
+    size_smallest: 50 µm
+    size_largest: 50 µm
+    height_px: 125
+  pollen_class_beug: Tetrad
+  pollen_features:
+    shape: rond, sferoid, tetrade
+    sculpture: psilaat
+    sculpture_visibility:
+    aperture: tricolpaat, smalle colpi
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity: heteropolair
+    pe_ratio:
+    pollen-note: 'Beug 04 Tetradeae, 4.7 Ericaceae, 4.7.3 Arbutus; exemplaar Arbutus unedo'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Arbutus_unedo
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Arbutus_unedo
+    paldat: https://www.paldat.org/pub/Arbutus_unedo
+    waarneming: https://waarneming.nl/search/?q=arbutus
+  images:
+    - path: assets/images/by-taxon/arbutus_typ/arbutus_typ_1.png
+      kind: atlas
+      source: arbutus_typ
+    - path: assets/images/by-taxon/arbutus_typ/arbutus_typ_2.png
+      kind: atlas
+      source: arbutus_typ
+    - path: assets/images/by-taxon/arbutus_typ/arbutus_typ_3.png
+      kind: atlas
+      source: arbutus_typ
+    - path: assets/images/by-taxon/arbutus_typ/arbutus_typ_4.png
+      kind: atlas
+      source: arbutus_typ
+  is_secondary_contributor:
 arcticum_lappa:
   name:
     latin_name: Arctium lappa
@@ -8321,6 +8379,65 @@ carduus_nutans:
     - path: assets/images/by-taxon/carduus_nutans/carduus_nutans_4.png
       kind: by_taxon
       source: by_taxon
+  is_secondary_contributor:
+carduus_typ:
+  name:
+    latin_name: Carduus typ
+    dutch_name: distel type
+  classification:
+    order:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+    tribe:
+    genus: Carduus
+  size:
+    size_smallest: 37 µm
+    size_largest: 50 µm
+    height_px: 125
+  pollen_class_beug: Tricol-echinat
+  pollen_features:
+    shape: driehoekig, sferoid
+    sculpture: echinaat op verrucaat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation: apertuurmembranen operculum-achtig geornamenteerd
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: ca. 0,89 (0,84-0,94)
+    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); exemplaar Carduus defloratus'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Carduus_defloratus
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Carduus_defloratus
+    paldat: https://www.paldat.org/pub/Carduus_defloratus
+    waarneming: https://waarneming.nl/search/?q=carduus
+  images:
+    - path: assets/images/by-taxon/carduus_typ/carduus_typ_1.png
+      kind: atlas
+      source: carduus_typ
+    - path: assets/images/by-taxon/carduus_typ/carduus_typ_2.png
+      kind: atlas
+      source: carduus_typ
+    - path: assets/images/by-taxon/carduus_typ/carduus_typ_3.png
+      kind: atlas
+      source: carduus_typ
+    - path: assets/images/by-taxon/carduus_typ/carduus_typ_4.png
+      kind: atlas
+      source: carduus_typ
   is_secondary_contributor:
 carex_pendula:
   name:
@@ -37901,6 +38018,65 @@ carduus_crispus:
     waarneming: https://waarneming.nl/search/?q=carduus+crispus
   images: []
   is_secondary_contributor:
+carduus_defloratus:
+  name:
+    latin_name: Carduus defloratus
+    dutch_name: bergdistel
+  classification:
+    order:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+    tribe:
+    genus: Carduus
+  size:
+    size_smallest: 37 µm
+    size_largest: 50 µm
+    height_px: 125
+  pollen_class_beug: Tricol-echinat
+  pollen_features:
+    shape: driehoekig, sferoid
+    sculpture: echinaat op verrucaat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation: apertuurmembranen operculum-achtig geornamenteerd
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: ca. 0,89 (0,84-0,94)
+    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); Beug 51,3-60,5 µm, MiW 56,8 µm'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant: Berg-Distel
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Carduus_defloratus
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Carduus_defloratus
+    paldat: https://www.paldat.org/pub/Carduus_defloratus
+    waarneming: https://waarneming.nl/search/?q=carduus+defloratus
+  images:
+    - path: assets/images/by-taxon/carduus_defloratus/carduus_defloratus_1.png
+      kind: atlas
+      source: carduus_defloratus
+    - path: assets/images/by-taxon/carduus_defloratus/carduus_defloratus_2.png
+      kind: atlas
+      source: carduus_defloratus
+    - path: assets/images/by-taxon/carduus_defloratus/carduus_defloratus_3.png
+      kind: atlas
+      source: carduus_defloratus
+    - path: assets/images/by-taxon/carduus_defloratus/carduus_defloratus_4.png
+      kind: atlas
+      source: carduus_defloratus
+  is_secondary_contributor:
 carlina_aucalis:
   name:
     latin_name: Carlina aucalis
@@ -42964,29 +43140,29 @@ crambe_cordifolia:
 crambe_maritima:
   name:
     latin_name: Crambe maritima
-    dutch_name:
+    dutch_name: zeekool
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Brassicaceae
+    family_dutch: koolfamilie
     tribe:
-    genus:
+    genus: Crambe
   size:
-    size_smallest: 24.6 µm
-    size_largest: 34 µm
-    height_px: 85
+    size_smallest: 23.4 µm
+    size_largest: 27.4 µm
+    height_px: 68
   pollen_class_beug: Tricolpat-reticulat
   pollen_features:
-    shape:
+    shape: rond, sferoid
     sculpture: reticulaat
     sculpture_visibility:
     aperture: tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen meestal niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolair
+    pe_ratio: ca. 0,96 (0,89-0,99)
+    pollen-note: 'PolFeldI ca. 0,31 (0,23-0,39); dominante LM-aanzicht equatoriaal; Beug 21.27 Brassicaceae'
   flowering_time:
     start:
     end:
@@ -43006,7 +43182,78 @@ crambe_maritima:
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Crambe_maritima
     paldat: https://www.paldat.org/pub/Crambe_maritima
     waarneming: https://waarneming.nl/search/?q=crambe+maritima
-  images: []
+  images:
+    - path: assets/images/by-taxon/crambe_maritima/crambe_maritima_1.png
+      kind: atlas
+      source: crambe_maritima
+    - path: assets/images/by-taxon/crambe_maritima/crambe_maritima_2.png
+      kind: atlas
+      source: crambe_maritima
+    - path: assets/images/by-taxon/crambe_maritima/crambe_maritima_3.png
+      kind: atlas
+      source: crambe_maritima
+    - path: assets/images/by-taxon/crambe_maritima/crambe_maritima_4.png
+      kind: atlas
+      source: crambe_maritima
+  is_secondary_contributor:
+crambe_typ:
+  name:
+    latin_name: Crambe typ
+    dutch_name: zeekool type
+  classification:
+    order:
+    family_latin: Brassicaceae
+    family_dutch: koolfamilie
+    tribe:
+    genus: Crambe
+  size:
+    size_smallest: 23.4 µm
+    size_largest: 27.4 µm
+    height_px: 68
+  pollen_class_beug: Tricolpat-reticulat
+  pollen_features:
+    shape: rond, sferoid
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: tricolpaat
+    aperture_visibility:
+    ornamentation: apertuurmembranen meestal niet geornamenteerd
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: ca. 0,96 (0,89-0,99)
+    pollen-note: 'PolFeldI ca. 0,31 (0,23-0,39); dominante LM-aanzicht equatoriaal; Beug 21.27 Brassicaceae; exemplaar Crambe maritima (bolletjeskool)'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant: bolletjeskool
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Crambe_maritima
+    tstebler: 
+      https://pollen.tstebler.ch/MediaWiki/index.php?title=Crambe_maritima
+    paldat: https://www.paldat.org/pub/Crambe_maritima
+    waarneming: https://waarneming.nl/search/?q=crambe
+  images:
+    - path: assets/images/by-taxon/crambe_typ/crambe_typ_1.png
+      kind: atlas
+      source: crambe_typ
+    - path: assets/images/by-taxon/crambe_typ/crambe_typ_2.png
+      kind: atlas
+      source: crambe_typ
+    - path: assets/images/by-taxon/crambe_typ/crambe_typ_3.png
+      kind: atlas
+      source: crambe_typ
+    - path: assets/images/by-taxon/crambe_typ/crambe_typ_4.png
+      kind: atlas
+      source: crambe_typ
   is_secondary_contributor:
 crataegus_crus_galli:
   name:

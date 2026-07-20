@@ -1,13 +1,13 @@
-# *Crambe maritima* (zeekool)
+# *Crambe typ* (zeekool type)
 
-{{ gallery("crambe_maritima") }}
+{{ gallery("crambe_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Crambe maritima |
-| Nederlands | zeekool |
+| Latijn | Crambe typ |
+| Nederlands | zeekool type |
 | Familie | Brassicaceae (koolfamilie) |
 | Grootte | 23.4-27.4 µm |
 | Vorm | rond, sferoid |

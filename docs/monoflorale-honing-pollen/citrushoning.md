@@ -1,12 +1,15 @@
-# Citrushoning (Citrus spp, Rutaceae)
+# Citrushoning (Citrus typ, Rutaceae)
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_1.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_1.png" style="height: 165px; width: auto;" alt="Citrus typ">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_2.png" style="height: 165px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_2.png" style="height: 165px; width: auto;" alt="Citrus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_3.png" style="height: 165px; width: auto;" alt="Citrus typ">
     </figure>
   </div>
 </div> 
@@ -15,7 +18,7 @@
 
 | Kenmerk | Waarde |
 | --- | --- |
-| **Latijn** | Citrus spp, Rutaceae |
+| **Latijn** | Citrus typ, Rutaceae |
 | **Nederlands** |  |
 | **Familie** |  |
 | **Grootte** | 28.8-37.6 µm |
@@ -34,7 +37,7 @@
 ## Herkenning hoofdpollen
 
 ## Pollen die erop lijken
-Citrus spp
+Citrus typ
 
 ## Relevante neven- en bijpollen
 

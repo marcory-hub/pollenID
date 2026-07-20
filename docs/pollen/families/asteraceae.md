@@ -53,5 +53,6 @@ Canoniek beslispad in de sleutel voor dit pollen(type):
 - [*Taraxacum officinale* (paardenbloem)](../species/taraxacum_officinale.md)
 - [*Achillea millefolium* (gewoon duizendblad)](../species/achillea_millefolium.md)
 - [*Calendula officinalis* (goudsbloem)](../species/calendula_officinalis.md)
+- [*Carduus defloratus* (bergdistel)](../species/carduus_defloratus.md)
 - [*Carduus nutans* (knikkende distel)](../species/carduus_nutans.md)
 - [*Carlina acaulis* (zilverdistel)](../species/carlina_acaulis.md)

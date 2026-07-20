@@ -275,13 +275,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_1.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_1.png" style="height: 83px; width: auto;" alt="Citrus typ">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_2.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_2.png" style="height: 83px; width: auto;" alt="Citrus typ">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_3.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_typ_3.png" style="height: 83px; width: auto;" alt="Citrus typ">
     </figure>
   </div>
 </div> 
@@ -339,14 +339,122 @@
     </figure>
   </div>
 </div>
-#### Arbutus (8-20%)
-#### Borago (meestal groep I)
-#### Carduus (5-25%)
-#### Distel
-#### Lamsoor
-#### Medicago (1-10%)
-#### Teunisbloem (vrijwel niet terug te vinden)
-#### Crambe (bolletjeskool) (I)
+#### [Arbutus typ](../pollen/species/arbutus_typ.md) (8-20%)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/arbutus_typ/arbutus_typ_1.png" style="height: 125px; width: auto;" alt="Arbutus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/arbutus_typ/arbutus_typ_2.png" style="height: 125px; width: auto;" alt="Arbutus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/arbutus_typ/arbutus_typ_3.png" style="height: 125px; width: auto;" alt="Arbutus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/arbutus_typ/arbutus_typ_4.png" style="height: 125px; width: auto;" alt="Arbutus typ">
+    </figure>
+  </div>
+</div>
+
+#### [Borago officinalis](../pollen/species/borago_officinalis.md) (meestal groep I)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/borago_officinalis/borago_officinalis_1.png" style="height: 85px; width: auto;" alt="Borago officinalis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/borago_officinalis/borago_officinalis_2.png" style="height: 85px; width: auto;" alt="Borago officinalis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/borago_officinalis/borago_officinalis_3.png" style="height: 85px; width: auto;" alt="Borago officinalis">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/borago_officinalis/borago_officinalis_4.png" style="height: 85px; width: auto;" alt="Borago officinalis">
+    </figure>
+  </div>
+</div>
+
+#### [Carduus typ (distel)](../pollen/species/carduus_typ.md) (5-25%)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/carduus_typ/carduus_typ_1.png" style="height: 125px; width: auto;" alt="Carduus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/carduus_typ/carduus_typ_2.png" style="height: 125px; width: auto;" alt="Carduus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/carduus_typ/carduus_typ_3.png" style="height: 125px; width: auto;" alt="Carduus typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/carduus_typ/carduus_typ_4.png" style="height: 125px; width: auto;" alt="Carduus typ">
+    </figure>
+  </div>
+</div>
+
+#### [Limonium vulgare (lamsoor)](../pollen/species/limonium_vulgare.md)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_1.png" style="height: 138px; width: auto;" alt="Limonium vulgare">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_2.png" style="height: 138px; width: auto;" alt="Limonium vulgare">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_3.png" style="height: 138px; width: auto;" alt="Limonium vulgare">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/limonium_vulgare/limonium_vulgare_4.png" style="height: 138px; width: auto;" alt="Limonium vulgare">
+    </figure>
+  </div>
+</div>
+
+#### [Medicago sativa](../pollen/species/medicago_sativa.md) (1-10%)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/medicago_sativa/medicago_sativa_1.png" style="height: 92px; width: auto;" alt="Medicago sativa">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/medicago_sativa/medicago_sativa_2.png" style="height: 92px; width: auto;" alt="Medicago sativa">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/medicago_sativa/medicago_sativa_3.png" style="height: 92px; width: auto;" alt="Medicago sativa">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/medicago_sativa/medicago_sativa_4.png" style="height: 92px; width: auto;" alt="Medicago sativa">
+    </figure>
+  </div>
+</div>
+
+#### [Oenothera biennis (teunisbloem)](../pollen/species/oenothera_biennis.md) (vrijwel niet terug te vinden)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/oenothera_biennis/oenothera_biennis_1.png" style="height: 360px; width: auto;" alt="Oenothera biennis">
+    </figure>
+  </div>
+</div>
+
+#### [Crambe typ (bolletjeskool)](../pollen/species/crambe_typ.md) (I)
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/crambe_typ/crambe_typ_1.png" style="height: 68px; width: auto;" alt="Crambe typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/crambe_typ/crambe_typ_2.png" style="height: 68px; width: auto;" alt="Crambe typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/crambe_typ/crambe_typ_3.png" style="height: 68px; width: auto;" alt="Crambe typ">
+    </figure>
+    <figure class="pid-scale-item">
+      <img src="../../assets/images/by-taxon/crambe_typ/crambe_typ_4.png" style="height: 68px; width: auto;" alt="Crambe typ">
+    </figure>
+  </div>
+</div>
 
 ### to be determined
 #### [Ligustrum vulgare](ligusterhoning.md) (liguster)
