@@ -1,4 +1,4 @@
-# *Solanum lycopers* (tomaat)
+# *Solanum lycopersicum* (tomaat)
 
 {{ gallery("solanum_lycopers") }}
 
@@ -6,7 +6,7 @@
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Solanum lycopers |
+| Latijn | Solanum lycopersicum |
 | Nederlands | tomaat |
 | Grootte | 20 µm |
 | Vorm | rond tot driekantig |
@@ -19,7 +19,7 @@
 ```yaml
 solanum_lycopers:
   name:
-    latin_name: Solanum lycopers
+    latin_name: Solanum lycopersicum
     dutch_name: tomaat
   classification:
     order: null
@@ -57,10 +57,10 @@ solanum_lycopers:
   frequency_in_eu_honey: null
   frequency_in_non_eu_honey: null
   links:
-    pollenX: https://pollenx.eu/species.php?species=Solanum_lycopers
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopers
-    paldat: https://www.paldat.org/pub/Solanum_lycopers
-    waarneming: https://waarneming.nl/search/?q=solanum+lycopers
+    pollenX: https://pollenx.eu/species.php?species=Solanum_lycopersicum
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopersicum
+    paldat: https://www.paldat.org/pub/Solanum_lycopersicum
+    waarneming: https://waarneming.nl/search/?q=solanum+lycopersicum
   images: []
   is_secondary_contributor: null
 ```
@@ -76,7 +76,7 @@ solanum_lycopers:
 
 ## Online databases
 
-- pollenX: https://pollenx.eu/species.php?species=Solanum_lycopers
-- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopers
-- paldat: https://www.paldat.org/pub/Solanum_lycopers
-- waarneming: https://waarneming.nl/search/?q=solanum+lycopers
+- pollenX: https://pollenx.eu/species.php?species=Solanum_lycopersicum
+- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopersicum
+- paldat: https://www.paldat.org/pub/Solanum_lycopersicum
+- waarneming: https://waarneming.nl/search/?q=solanum+lycopersicum

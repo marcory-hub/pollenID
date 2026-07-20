@@ -1,5 +1,7 @@
 # Salix typ
 
+{{ gallery("salix_typ") }}
+
 Wilgenfamilie. Salix (wilg), in sommige soorten duidelijke porie. Netoppervlak met duidelijke hoekige mazen die in grootte afnemen naar de gladde randen van de groeven. Grootte per soort zeer klein tot klein (17-26 μm). Korrels bevatten heldergele olie, vergelijk Fraxinus en Cruciferae. Populus (populier), grootte variabel; exine splijt in plekken; intine kan van exine terugtrekken en duidelijke ringvormige ruimte tonen in optische doorsnede.
 
 ### Aanvulling uit referentieset (notes-map)

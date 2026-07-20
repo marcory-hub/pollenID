@@ -1,5 +1,7 @@
 # Allium-Typ
 
+{{ gallery("allium_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

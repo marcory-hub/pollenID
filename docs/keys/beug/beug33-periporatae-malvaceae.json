@@ -33,7 +33,8 @@
         {
           "label": "Porieafstand 8–15 µm (Tafel 109: 3–4).",
           "outcome": {
-            "text": "33.6.2 *Malva sylvestris*-Typ — zie deelsleutel."
+            "text": "33.6.2 *Malva sylvestris*-Typ — zie deelsleutel.",
+            "pollen_key": "malva_sylvestris"
           }
         },
         {

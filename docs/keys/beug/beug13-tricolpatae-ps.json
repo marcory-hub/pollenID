@@ -91,7 +91,8 @@
         {
           "label": "Endexine van de intercolpium-randen grof schollig opgelost, Exine polair tot 5,5 µm dik, equatoriaal (2,0)2,5–3,0 µm (tabel 13: 2–3).",
           "outcome": {
-            "text": "13.3 *Adonis aestivalis*-type (S. 128)\n\n*Adonis aestivalis* L. (2)\n37,1–49,0 µm, MiW 42,2 µm; 50 PK, 1a\n\n*Adonis annua* L. (2)\n34,6–41,4 µm, MiW 37,4 µm; 50 PK, 1a\n\n*Adonis flammea* JACQ. (3)\n35,5–40,5 µm, MiW 38,6 µm; 50 PK, 0a"
+            "text": "13.3 *Adonis aestivalis*-type (S. 128)\n\n*Adonis aestivalis* L. (2)\n37,1–49,0 µm, MiW 42,2 µm; 50 PK, 1a\n\n*Adonis annua* L. (2)\n34,6–41,4 µm, MiW 37,4 µm; 50 PK, 1a\n\n*Adonis flammea* JACQ. (3)\n35,5–40,5 µm, MiW 38,6 µm; 50 PK, 0a",
+            "pollen_key": "adonis_aestivalis"
           }
         },
         {
@@ -155,7 +156,8 @@
         {
           "label": "PK bolrond, pollenvormindex 0,94–1,05, exine 1,4–2,6 µm dik (tabel 13: 16–17; fig. 29).",
           "outcome": {
-            "text": "13.7 *Sanguisorba minor*-type (S. 130)\n\nUmfaßt Sanguisorba minor en Sarcopoterium spinosum.\n\n*Sanguisorba minor* Scop. (5)\n27,5–38,0 µm, MiW 33,8 µm; 50 PK, 0a"
+            "text": "13.7 *Sanguisorba minor*-type (S. 130)\n\nUmfaßt Sanguisorba minor en Sarcopoterium spinosum.\n\n*Sanguisorba minor* Scop. (5)\n27,5–38,0 µm, MiW 33,8 µm; 50 PK, 0a",
+            "pollen_key": "sanguisorba_minor"
           }
         },
         {
@@ -187,7 +189,8 @@
         {
           "label": "columellae in het distale derde deel vertakt, PK 40–80 µm groot, met tectum perforatum (tabel 14: 1–4).",
           "outcome": {
-            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a"
+            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a",
+            "pollen_key": "convolvulus_arvensis"
           }
         },
         {
@@ -281,7 +284,8 @@
         {
           "label": "PK 36–41 µm groot, met brede en dicht beklede colpi (tabel 15: 21–24).",
           "outcome": {
-            "text": "13.14 *Helleborus niger* (S. 134)\n\nPK sferoïdisch tot zwak prolaat, PForml 1,01–1,34. Poolvelden klein (PFeldI 0,21–0,18). Colpi tot ca. 6 µm breed, met afgeronde einden; colpusmembranen dicht grofkorrelig bekleed. Exine 1,8–2,5 µm dik, soms polair zwak verdikt. Tectum geperforeerd; columellae ca. 0,6 µm dik, duidelijk, onregelmatig verdeeld. Endexine ongeveer zo dik als het tectum. Vgl. ook het reticulate *Helleborus viridis*-type (S. 292). (Tafel 15: 21–24)\n\n*Helleborus niger* L. (2)\n36,5–49,3 µm, MiW 41,9 µm; 50 PK, 0a"
+            "text": "13.14 *Helleborus niger* (S. 134)\n\nPK sferoïdisch tot zwak prolaat, PForml 1,01–1,34. Poolvelden klein (PFeldI 0,21–0,18). Colpi tot ca. 6 µm breed, met afgeronde einden; colpusmembranen dicht grofkorrelig bekleed. Exine 1,8–2,5 µm dik, soms polair zwak verdikt. Tectum geperforeerd; columellae ca. 0,6 µm dik, duidelijk, onregelmatig verdeeld. Endexine ongeveer zo dik als het tectum. Vgl. ook het reticulate *Helleborus viridis*-type (S. 292). (Tafel 15: 21–24)\n\n*Helleborus niger* L. (2)\n36,5–49,3 µm, MiW 41,9 µm; 50 PK, 0a",
+            "pollen_key": "helleborus_niger"
           }
         },
         {
@@ -331,7 +335,8 @@
         {
           "label": "PK microreticulaat en in fasecontrastbeeld niet of nauwelijks herkenbaar. colpi ingeschokt, intercolpium-randen in equatoriaal gebied korrelig opgelost. colpi gelegen equatoriaal, vaak voorgebogen of met equatoriale bruggen respectievelijk equatoriaal verengt. PK prolaat of sferoïdisch. Exine 1,0–1,5 µm dik, endexine dikker als tectum (tabel 16: 10–12).",
           "outcome": {
-            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a"
+            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a",
+            "pollen_key": "viola_odorata"
           }
         },
         {
@@ -369,7 +374,8 @@
         {
           "label": "PK (22)25–50 µm groot, columellae in opzicht meestal zeer contrastarm (tabel 16: 10–12).",
           "outcome": {
-            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a"
+            "text": "13.18 *Viola odorata*-type (S. 136)\n\n*Viola alba* BESSER (2)\n26,8–32,8 µm, MiW 30,0 µm; 50 PK, 0a\n\n*Viola ambigua* WALDST. & KIT. (1)\nViola canina L. (2) 28,0–40,7 µm, MiW 34,4 µm; 50 PK, 1a Viola cenisia L. (1) 24,1–31,8 µm, MiW 28,4 µm; 49 PK, 1a Viola collina BESSER (2) 27,5–40,0 µm, MiW 34,4 µm; 50 PK, 0a Viola hirta L. (3) 29,8–36,8 µm, MiW 33,9 µm; 50 PK, 0a Viola mirabilis L. (3) 25,8–38,0 µm, MiW 32,6 µm; 50 PK, 0a Viola odorata L. (3) 27,5–34,8 µm, MiW 31,4 µm; 50 PK, 0a Viola palustris L. (2) 31,2–38,9 µm, MiW 35,3 µm; 50 PK, 1a Viola persicifolia SCHREB. (2) 28,0–37,0 µm, MiW 33,3 µm; 50 PK, 0a Viola pinnata L. (1) 29,0–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola pumila CHAIX (2) 29,0–37,9 µm; 16 PK, 1a Viola pyrenaica RAMOND ex DC. (1) 22,0–29,0 µm, MiW 25,8 µm; 50 PK, 1a Viola reichenbachiana BOREAU (2) 29,7–43,2 µm, MiW 35,9 µm; 50 PK, 1a Viola riviniana RCHB. (3) 29,7–38,9 µm, MiW 33,7 µm; 50 PK, 1a Viola rupestris F.W. SCHMIDT (2) 23,3–33,3 µm, MiW 28,9 µm; 50 PK, 0a Viola suavis M. BIEB. (1) 27,6–38,6 µm, MiW 33,4 µm; 49 PK, 1a Viola uliginosa BESSER (2) 27,5–38,8 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Viola elatior* FR. (2)\n28,3–41,4 µm, MiW 33,6 µm; 50 PK, 1a\n\n*Viola epipsila* LEDEB. (2)\n27,3–40,0 µm, MiW 33,5 µm; 50 PK, 1a",
+            "pollen_key": "viola_odorata"
           }
         }
       ]
@@ -419,7 +425,8 @@
         {
           "label": "Exine dikker, PK met korrelig beklede colpus-membranen, poolvelden klein.",
           "outcome": {
-            "text": "13.22 *Lamium album*-type (S. 142)\n\nPK langgerekt, sferoïdisch tot prolaat (PForml 1,05–1,55); poolvelden klein. Exine 1,5–2 µm dik, oppervlak volledig glad. Columellae niet herkenbaar. Intercolpiumranden kunnen iets korrelig opgelost of uitgeveerd zijn; colpusmembranen korrelig gesculpteerd. PK kleuren bij acetolyse niet of nauwelijks.\n\n*Lamium album* L. (4)\n22,5–30,3 µm, MiW 27,1 µm; 50 PK, 0a\n\n*Lamium galeobdolon* (L.) L. (3)\n31,5–38,9 µm, MiW 35,2 µm; 35 PK, 0a\n\n*Lamium maculatum* L. (4)\n24,8–32,6 µm, MiW 29,1 µm; 50 PK, 0a\n\n*Lamium orvala* L. (2)\n32,6–45,7 µm, MiW 39,4 µm; 50 PK, 0a"
+            "text": "13.22 *Lamium album*-type (S. 142)\n\nPK langgerekt, sferoïdisch tot prolaat (PForml 1,05–1,55); poolvelden klein. Exine 1,5–2 µm dik, oppervlak volledig glad. Columellae niet herkenbaar. Intercolpiumranden kunnen iets korrelig opgelost of uitgeveerd zijn; colpusmembranen korrelig gesculpteerd. PK kleuren bij acetolyse niet of nauwelijks.\n\n*Lamium album* L. (4)\n22,5–30,3 µm, MiW 27,1 µm; 50 PK, 0a\n\n*Lamium galeobdolon* (L.) L. (3)\n31,5–38,9 µm, MiW 35,2 µm; 35 PK, 0a\n\n*Lamium maculatum* L. (4)\n24,8–32,6 µm, MiW 29,1 µm; 50 PK, 0a\n\n*Lamium orvala* L. (2)\n32,6–45,7 µm, MiW 39,4 µm; 50 PK, 0a",
+            "pollen_key": "lamium_album"
           }
         }
       ]
@@ -591,7 +598,8 @@
         {
           "label": "PK met dubbele columellae-laag. Buitencolumellae goed herkenbaar, zeer dun en dicht staand. Binnencolumellae 0,8–1,2 µm dik (tabel 18: 15–18).",
           "outcome": {
-            "text": "13.29 *Nigella* (Tafel 18: 15–18)\n\nPK scabraat (fijn microechinaat), overwegend sferoïdisch, pollenvormindex 0,99–1,24(1,34), alleen tricolpaat, met meestal kleine poolvelden (PFeldI 0,21–0,25). Colpi 7–10 µm breed, grof korrelig bekleed. Exine 3,2–5,0 µm, soms polair dikker dan equatoriaal, met dubbele columellae-laag.\n\n*Nigella arvensis* L. (2)\n35,8–45,0 µm, MiW 40,1 µm; 50 PK, 0a\n\n*Nigella damascena* L. (1)\n40,0–53,3 µm, MiW 44,8 µm; 50 PK, 2a\n\n*Nigella hispanica* L. (1)\n39,6–51,5 µm, MiW 45,1 µm; 50 PK, 1a\n\n*Nigella sativa* L. (2)\n41,3–45,0 µm, MiW 42,7 µm; 50 PK, 0a"
+            "text": "13.29 *Nigella* (Tafel 18: 15–18)\n\nPK scabraat (fijn microechinaat), overwegend sferoïdisch, pollenvormindex 0,99–1,24(1,34), alleen tricolpaat, met meestal kleine poolvelden (PFeldI 0,21–0,25). Colpi 7–10 µm breed, grof korrelig bekleed. Exine 3,2–5,0 µm, soms polair dikker dan equatoriaal, met dubbele columellae-laag.\n\n*Nigella arvensis* L. (2)\n35,8–45,0 µm, MiW 40,1 µm; 50 PK, 0a\n\n*Nigella damascena* L. (1)\n40,0–53,3 µm, MiW 44,8 µm; 50 PK, 2a\n\n*Nigella hispanica* L. (1)\n39,6–51,5 µm, MiW 45,1 µm; 50 PK, 1a\n\n*Nigella sativa* L. (2)\n41,3–45,0 µm, MiW 42,7 µm; 50 PK, 0a",
+            "pollen_key": "nigella_arvensis"
           }
         },
         {
@@ -607,7 +615,8 @@
         {
           "label": "Hoofdcolumellae 0,9–1,3 µm dik, nevencolumellae 0,4–0,8 µm. Exine 2,0–2,6 µm dik, columellae-laag slechts ca. 0,6–0,8 µm dik (tabel 18: 9–10).",
           "outcome": {
-            "text": "13.30 *Eranthis hyemalis* (Tafel 18: 9–10)\n\nPK sferoïdisch tot prolaat, pollenvormindex 1,04–1,56. Poolvelden meestal klein. Exine 2,0–2,6 µm dik. Columellae-laag 0,6–0,8 µm dik. Hoofdcolumellae 1,0–1,5 µm, nevencolumellae 0,4–0,6 µm dik.\n\n*Eranthis hyemalis* (L.) SALISB. (3)\n37,5–47,5 µm, MiW 42,3 µm; 50 PK, 0a"
+            "text": "13.30 *Eranthis hyemalis* (Tafel 18: 9–10)\n\nPK sferoïdisch tot prolaat, pollenvormindex 1,04–1,56. Poolvelden meestal klein. Exine 2,0–2,6 µm dik. Columellae-laag 0,6–0,8 µm dik. Hoofdcolumellae 1,0–1,5 µm, nevencolumellae 0,4–0,6 µm dik.\n\n*Eranthis hyemalis* (L.) SALISB. (3)\n37,5–47,5 µm, MiW 42,3 µm; 50 PK, 0a",
+            "pollen_key": "eranthis_hyemalis"
           }
         },
         {
@@ -639,7 +648,8 @@
         {
           "label": "De sculptuurelementen (microechini) staan uitsluitend op ca. 0,9–1,2 µm dikke columellae en zijn van deze ongelijkmatig geordend (tabel 19: 1–30).",
           "outcome": {
-            "text": "13.32 *Ranunculus acris*-type (S. 148) — zie deelsleutel."
+            "text": "13.32 *Ranunculus acris*-type (S. 148) — zie deelsleutel.",
+            "pollen_key": "ranunculus_acris"
           }
         },
         {
@@ -701,7 +711,8 @@
         {
           "label": "PK met tectum perforatum. columellae helemaal niet verbonden.",
           "outcome": {
-            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a"
+            "text": "13.9 *Convolvulus arvensis*-type (S. 130)\n\nPK psilaat, sferoïdisch, zwak langgestreckt, poolvelden klein. colpi lang, vaak onregelmatig met Gemmae skulpturiert, ook operculat. exine 3-5 µm dik. tectum perforatum dünner als de endexine. Die Perforationen zijn gut sichtbar, staan gedrängt en zijn ca. 0,4 µm groot. columellae 2-3 µm\n\n*Valerianella carinata* LOISEL (2)\n32,5–47,5 µm, MiW 35,3 µm; 30 PK, 0a",
+            "pollen_key": "convolvulus_arvensis"
           }
         },
         {
@@ -751,13 +762,15 @@
         {
           "label": "Sculptuurelementen in opzicht hoekig, columellae (in opzicht) zeer dun en talrijk, PK vaak met een endo-microreticulaat structuur. Afgrenzing van het *Papaver rhoeas*-groep en van *Globularia* vaak moeilijk (tabel 20: 8–11).",
           "outcome": {
-            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel."
+            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel.",
+            "pollen_key": "papaver_rhoeas"
           }
         },
         {
           "label": "Sculptuurelementen in opzicht rondachtig, columellae in opzicht meestal moeilijk herkenbaar, PK vaak met endo-microreticulaat structuur (daarbij ook endo-microbrochi naast geïsoleerde columellae). Afgrenzing van het *Caltha*-type vaak moeilijk (tabel 20: 12–23).",
           "outcome": {
-            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel.\n\n(In Beug is dit 13.36; geen aparte 13.37 in de bron.)"
+            "text": "13.36 *Papaver rhoeas*-groep (S. 154) — zie deelsleutel.\n\n(In Beug is dit 13.36; geen aparte 13.37 in de bron.)",
+            "pollen_key": "papaver_rhoeas"
           }
         }
       ]

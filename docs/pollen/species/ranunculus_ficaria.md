@@ -1,24 +1,34 @@
-# Ranunculus ficaria
+# *Ranunculus ficaria* (gewoon speenkruid)
 
-## Identificatienotities
+{{ gallery("ranunculus_ficaria") }}
 
-**Status:** [to be verified]
+## Kenmerken
 
-Automatisch aangemaakte soortpagina op basis van de Imkerpedia-drachtplantentabel.
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | {{ pollen("ranunculus_ficaria", "name.latin_name") }} |
+| **Nederlands** | {{ pollen("ranunculus_ficaria", "name.dutch_name") }} |
+| **Familie** | {{ pollen("ranunculus_ficaria", "classification.family_latin") }} |
+| **Familie (NL)** | {{ pollen("ranunculus_ficaria", "classification.family_dutch") }} |
+| **Grootte (klein-groot)** | {{ pollen("ranunculus_ficaria", "size.size_smallest") }} - {{ pollen("ranunculus_ficaria", "size.size_largest") }} |
+| **Vorm** | {{ pollen("ranunculus_ficaria", "pollen_features.shape") }} |
+| **Polariteit** | {{ pollen("ranunculus_ficaria", "pollen_features.polarity") }} |
+| **P/E-ratio** | {{ pollen("ranunculus_ficaria", "pollen_features.pe_ratio") }} |
+| **Apertuur** | {{ pollen("ranunculus_ficaria", "pollen_features.aperture") }} |
+| **Sculptuur** | {{ pollen("ranunculus_ficaria", "pollen_features.sculpture") }} |
+| **Ornamentatie** | {{ pollen("ranunculus_ficaria", "pollen_features.ornamentation") }} |
+| **Nectarwaarde** | {{ pollen("ranunculus_ficaria", "value.nectar_value") }} |
+| **Pollenwaarde** | {{ pollen("ranunculus_ficaria", "value.pollen_value") }} |
+| **Frequentie in EU-honing** | {{ pollen("ranunculus_ficaria", "frequency_in_eu_honey") }} |
+| **pollen-note** | {{ pollen("ranunculus_ficaria", "pollen_features.pollen-note") }} |
 
-## Drachtplantgegevens (Imkerpedia)
+## Determinatiesleutels
 
-- Latijnse naam: *Ranunculus ficaria*
-- Nederlandse naam (Imkerpedia): Speenkruid
-- Voorkomen: vast
-- Stuifmeelkleur: geel
-- Nectarwaarde: N 2
-- Pollenwaarde: P 2
-- SB: 3
-- EB: 5
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+Geen pad in Beug-, van der Ham- of Kerkvliet-sleutels voor deze soort.
 
-## Praktische determinatie
+## Online databases
 
-- Verifieer morfologische kenmerken met microscopische referenties.
-- Gebruik bloeiperiode (SB/EB) en lokale context als aanvullend spoor.
+- [PollenX - *Ranunculus ficaria*](https://pollenx.eu/species.php?species=Ranunculus_ficaria)
+- [pollenwiki - *Ranunculus ficaria*](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_ficaria)
+- [Paldat - *Ranunculus ficaria*](https://www.paldat.org/pub/Ranunculus_ficaria)
+- [Waarneming.nl - *Ranunculus ficaria*](https://waarneming.nl/search/?q=ranunculus+ficaria)

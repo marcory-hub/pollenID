@@ -1,0 +1,16 @@
+---
+description: >-
+  After new atlas screenshots or pollen metadata are supplied, run the add-pollen
+  skill (images, YAML, species page, optional Kerkvliet inject, validate). Also
+  triggered by add pollen / @add-pollen, add by-taxon images, add kerkvliet
+  images, or @add-kerkvliet-images.
+alwaysApply: false
+---
+
+# Add pollen
+
+When the user says **add pollen**, **add by-taxon images**, **add kerkvliet images**,
+`@add-pollen`, `@add-by-taxon-images`, `@add-kerkvliet-images`, or equivalent, follow
+`.cursor/skills/add-pollen/SKILL.md` end-to-end. Do not skip rename, YAML sync,
+species page update, or (when the batch touches Kerkvliet)
+`inject_pollen_keys_into_key_json.py`.

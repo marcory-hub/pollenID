@@ -301,7 +301,8 @@
         {
           "label": "PK langgerekt, meest smal. De grote brochi (1,5–4,0 µm) bevinden zich in relatief geringer aantal overwegend op de proximale zijde van de PK, omgeven door vele kleine brochi (tabel 10:4).",
           "outcome": {
-            "text": "\n\n*Ornithogalum umbellatum* L. (2)\n58,8–85,0 µm, MiW 70,2 µm; 50 PK, 0a\n\n*Scilla autumnalis* L. (2)\n43,5–64,5 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Scilla bifolia* L. (2)\n41,3–56,8 µm, MiW 48,6 µm; 50 PK, 0a\n\n*Scilla verna* HUDS. (1)\n49,0–63,4 µm, MiW 56,5 µm; 50 PK, 0a"
+            "text": "\n\n*Ornithogalum umbellatum* L. (2)\n58,8–85,0 µm, MiW 70,2 µm; 50 PK, 0a\n\n*Scilla autumnalis* L. (2)\n43,5–64,5 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Scilla bifolia* L. (2)\n41,3–56,8 µm, MiW 48,6 µm; 50 PK, 0a\n\n*Scilla verna* HUDS. (1)\n49,0–63,4 µm, MiW 56,5 µm; 50 PK, 0a",
+            "pollen_key": "ornithogalum_umbellatum"
           }
         },
         {
@@ -365,7 +366,8 @@
         {
           "label": "PK 50–100 µm groot, breed ovaal, zonder margo.",
           "outcome": {
-            "text": "9.21 *Iris pseudacorus*-type (S. 104)\n\n*Iris pseudacorus* L. (2)\n84,5–110,3 µm, MiW 96,6 µm; 50 PK, 0a Brochi 1,0–2,5 µm Iris sibirica L. (2) 59,3–90,0 µm, MiW 74,6 µm; 50 PK, 0a Brochi 1-4 µm Iris foetidissima L. (1) 59,0–78,5 µm, MiW 70,8 µm; 50 PK, 0a Brochi 1-3 µm Iris graminea L. (2) 50,8–68,3 µm, MiW 61,3 µm; 50 PK, 6a Brochi 1,0–1,5(2,0) µm\n\n*Iris spuria* L. (3)\n58,8–77,3 µm, MiW 66,9 µm; 50 PK, 0a Brochi 1,0–2,5 µm"
+            "text": "9.21 *Iris pseudacorus*-type (S. 104)\n\n*Iris pseudacorus* L. (2)\n84,5–110,3 µm, MiW 96,6 µm; 50 PK, 0a Brochi 1,0–2,5 µm Iris sibirica L. (2) 59,3–90,0 µm, MiW 74,6 µm; 50 PK, 0a Brochi 1-4 µm Iris foetidissima L. (1) 59,0–78,5 µm, MiW 70,8 µm; 50 PK, 0a Brochi 1-3 µm Iris graminea L. (2) 50,8–68,3 µm, MiW 61,3 µm; 50 PK, 6a Brochi 1,0–1,5(2,0) µm\n\n*Iris spuria* L. (3)\n58,8–77,3 µm, MiW 66,9 µm; 50 PK, 0a Brochi 1,0–2,5 µm",
+            "pollen_key": "iris_pseudacorus"
           }
         },
         {
@@ -381,7 +383,8 @@
         {
           "label": "Margo ca. 10 µm breed, met tot 1 µm grote brochi.",
           "outcome": {
-            "text": "9.22 *Butomus umbellatus* (S. 106)\n\nReticulum homobrochat, Brochi proximal 1,5–3,0 µm groot, Muri 0,6 µm breed, columellae gut sichtbar, ihr Durchmesser entspricht ongeveer de Breite de Muri. PK met Margo, Margo tot ongeveer 10 µm breed en met ca. 1 µm grote Brochi. exine ca. 1,6 µm dik.\n\n*Butomus umbellatus* L. (2)\n29,3–37,0 µm, MiW 33,3 µm; 50 PK, 0a"
+            "text": "9.22 *Butomus umbellatus* (S. 106)\n\nReticulum homobrochat, Brochi proximal 1,5–3,0 µm groot, Muri 0,6 µm breed, columellae gut sichtbar, ihr Durchmesser entspricht ongeveer de Breite de Muri. PK met Margo, Margo tot ongeveer 10 µm breed en met ca. 1 µm grote Brochi. exine ca. 1,6 µm dik.\n\n*Butomus umbellatus* L. (2)\n29,3–37,0 µm, MiW 33,3 µm; 50 PK, 0a",
+            "pollen_key": "butomus_umbellatus"
           }
         },
         {
@@ -465,7 +468,8 @@
         {
           "label": "Einden van de PK stomp afgerond, intercolpium-randen meestal sterk ingekrompen (fig. 18a–c). De PK klappen vaak tweedelig open. PK psilaat of zwak microreticulaat, tot 38 µm groot, Exine ca. 1 µm dik.",
           "outcome": {
-            "text": "9.29 *Leucojum*-type (S. 108)\n\n*Leucojum aestivum* L. (2)\n27,4–35,6 µm, MiW 32,2 µm; 50 PK, 0a Leucojum vernum L. (3) 37,0–42,8 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Galanthus nivalis* L. (3)\n25,8–32,5 µm, MiW 30,2 µm; 50 PK, 0a"
+            "text": "9.29 *Leucojum*-type (S. 108)\n\n*Leucojum aestivum* L. (2)\n27,4–35,6 µm, MiW 32,2 µm; 50 PK, 0a Leucojum vernum L. (3) 37,0–42,8 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Galanthus nivalis* L. (3)\n25,8–32,5 µm, MiW 30,2 µm; 50 PK, 0a",
+            "pollen_key": "leucojum_aestivum"
           }
         },
         {
@@ -543,7 +547,8 @@
         {
           "label": "muri niet breder dan de diameter van de lumina (kan op een tectum perforatum lijken).",
           "outcome": {
-            "text": "9.33 *Asparagus officinalis*-type (S. 109)\n\nBei Asparagus officinalis besitzen de Brochi breite Muri en kleine Lumina, ähnlich einem tectum perforatum. Lumina ca. 0,5–0,8 µm groot, Muri meestal 0,8–1,0 µm breed. Diese sculptuur is boven de ganze exine gleichförmig. exine ca. 1,2 µm dik, columellae dun en meestal schlecht herkenbaar. Der typische Aufbau de exine bzw. des Tectums variiert.\n\n*Asparagus officinalis* L. (1)\n26,3–36,8 µm, MiW 31,1 µm; 50 PK, 0a\n\n*Asparagus tenuifolius* LMK. (2)\n27,0–36,4 µm, MiW 32,1 µm; 50 PK, 0a"
+            "text": "9.33 *Asparagus officinalis*-type (S. 109)\n\nBei Asparagus officinalis besitzen de Brochi breite Muri en kleine Lumina, ähnlich einem tectum perforatum. Lumina ca. 0,5–0,8 µm groot, Muri meestal 0,8–1,0 µm breed. Diese sculptuur is boven de ganze exine gleichförmig. exine ca. 1,2 µm dik, columellae dun en meestal schlecht herkenbaar. Der typische Aufbau de exine bzw. des Tectums variiert.\n\n*Asparagus officinalis* L. (1)\n26,3–36,8 µm, MiW 31,1 µm; 50 PK, 0a\n\n*Asparagus tenuifolius* LMK. (2)\n27,0–36,4 µm, MiW 32,1 µm; 50 PK, 0a",
+            "pollen_key": "asparagus_officinalis"
           }
         },
         {
@@ -565,7 +570,8 @@
         {
           "label": "brochi langs de colpi niet kleiner dan op de proximale zijde.",
           "outcome": {
-            "text": "9.35 *Convallaria*-type (S. 109)\n\n*Convallaria majalis* L. (3)\n37,0–47,5 µm, MiW 42,0 µm; 50 PK, 0a\n\n*Streptopus amplexifolius* (L.) DC. (2)\n45,0–64,3 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Narcissus incomparabilis* L. (1)\n47,5–59,4 µm, MiW 53,6 µm; 50 PK, 0a\n\n*Narcissus pseudonarcissus* MILL. (2)\n48,5–60,0 µm, MiW 54,0 µm; 50 PK, 0a"
+            "text": "9.35 *Convallaria*-type (S. 109)\n\n*Convallaria majalis* L. (3)\n37,0–47,5 µm, MiW 42,0 µm; 50 PK, 0a\n\n*Streptopus amplexifolius* (L.) DC. (2)\n45,0–64,3 µm, MiW 54,5 µm; 50 PK, 0a\n\n*Narcissus incomparabilis* L. (1)\n47,5–59,4 µm, MiW 53,6 µm; 50 PK, 0a\n\n*Narcissus pseudonarcissus* MILL. (2)\n48,5–60,0 µm, MiW 54,0 µm; 50 PK, 0a",
+            "pollen_key": "convallaria_majalis"
           }
         }
       ]
@@ -577,7 +583,8 @@
         {
           "label": "Colpus vaak vanuit een distale positie iets zijdelings verschoven, colpus-einden vaak verbreed, overigens smal (fig. 18e–g).",
           "outcome": {
-            "text": "9.36 *Allium ursinum*-type (S. 110)\n\nPK tectat, psilaat, zelden zwak scabraat. Proximale Seite gerade, distale Seite konvex. exine 1,6 µm dik, columellae meestal gut sichtbar, vaak proximal deutlicher als distal. Gelegentlich vereinzelt Microbrochi of Micro-Endobrochi of Perforationen aanwezig zu sein. colpus vaak de distalen Seite etwas verschoben. colpus-Enden met een kleine Erweiterung.\n\n*Allium cepa* L. (1)\n27,4–35,6 µm, MiW 32,8 µm; 50 PK, 0a Allium fistulosum L. (1) 31,0–41,4 µm, MiW 35,2 µm; 50 PK, 0a Allium flavum L. (1) 34,2–40,7 µm, MiW 37,6 µm; 50 PK, 0a Allium globosum RED. (2) 31,0–35,6 µm, MiW 34,7 µm; 50 PK, 0a Allium moschatum L. (1) 22,0–33,1 µm, MiW 29,9 µm; 50 PK, 0a Non vidi: Allium sativum L. Allium ochroleucum WALDST. & KIT. (1) 30,6–40,0 µm, MiW 36,9 µm; 50 PK, 0a Allium oleraceum L. (3) 38,3–49,5 µm, MiW 44,1 µm; 50 PK, 0a Allium schoenoprasum L. (3) 30,3–37,3 µm, MiW 34,1 µm; 50 PK, 0a Allium senescens L. (3) 35,0–43,0 µm, MiW 39,8. µm; 50 PK, 0a Allium strictum SCHRAD. (2) 44,0–55,8 µm, MiW 49,7 µm; 50 PK, 0a Allium suaveolens JACQ. (3) 29,8–36,8 µm, MiW 32,9 µm; 50 PK, 2a Allium triquetrum L. (1) 32,0–38,2 µm, MiW 35,6 µm; 45 PK, 1a Allium ursinum L. (2) 34,2–41,8 µm, MiW 35,5 µm; 50 PK, 0a Allium victoriale L. (2) 34,3–42,5 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Allium angulosum* L. (3)\n29,5–35,0 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Allium ascalonicum* L. (1)\n33,1–39,2 µm, MiW 34,9 µm; 50 PK, 0a\n\n*Allium carinatum* L. s.str. (2)\n39,3–46,0 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Allium carinatum* L. subsp. pulchellum BONNIER & LAYENS (1)\n35,6–42,5 µm, MiW 39,5 µm; 50 PK, 0a"
+            "text": "9.36 *Allium ursinum*-type (S. 110)\n\nPK tectat, psilaat, zelden zwak scabraat. Proximale Seite gerade, distale Seite konvex. exine 1,6 µm dik, columellae meestal gut sichtbar, vaak proximal deutlicher als distal. Gelegentlich vereinzelt Microbrochi of Micro-Endobrochi of Perforationen aanwezig zu sein. colpus vaak de distalen Seite etwas verschoben. colpus-Enden met een kleine Erweiterung.\n\n*Allium cepa* L. (1)\n27,4–35,6 µm, MiW 32,8 µm; 50 PK, 0a Allium fistulosum L. (1) 31,0–41,4 µm, MiW 35,2 µm; 50 PK, 0a Allium flavum L. (1) 34,2–40,7 µm, MiW 37,6 µm; 50 PK, 0a Allium globosum RED. (2) 31,0–35,6 µm, MiW 34,7 µm; 50 PK, 0a Allium moschatum L. (1) 22,0–33,1 µm, MiW 29,9 µm; 50 PK, 0a Non vidi: Allium sativum L. Allium ochroleucum WALDST. & KIT. (1) 30,6–40,0 µm, MiW 36,9 µm; 50 PK, 0a Allium oleraceum L. (3) 38,3–49,5 µm, MiW 44,1 µm; 50 PK, 0a Allium schoenoprasum L. (3) 30,3–37,3 µm, MiW 34,1 µm; 50 PK, 0a Allium senescens L. (3) 35,0–43,0 µm, MiW 39,8. µm; 50 PK, 0a Allium strictum SCHRAD. (2) 44,0–55,8 µm, MiW 49,7 µm; 50 PK, 0a Allium suaveolens JACQ. (3) 29,8–36,8 µm, MiW 32,9 µm; 50 PK, 2a Allium triquetrum L. (1) 32,0–38,2 µm, MiW 35,6 µm; 45 PK, 1a Allium ursinum L. (2) 34,2–41,8 µm, MiW 35,5 µm; 50 PK, 0a Allium victoriale L. (2) 34,3–42,5 µm, MiW 39,4 µm; 50 PK, 0a\n\n*Allium angulosum* L. (3)\n29,5–35,0 µm, MiW 31,8 µm; 50 PK, 0a\n\n*Allium ascalonicum* L. (1)\n33,1–39,2 µm, MiW 34,9 µm; 50 PK, 0a\n\n*Allium carinatum* L. s.str. (2)\n39,3–46,0 µm, MiW 42,3 µm; 50 PK, 0a\n\n*Allium carinatum* L. subsp. pulchellum BONNIER & LAYENS (1)\n35,6–42,5 µm, MiW 39,5 µm; 50 PK, 0a",
+            "pollen_key": "allium_ursinum"
           }
         },
         {
@@ -599,7 +606,8 @@
         {
           "label": "PK psilaat of scabraat, tectum deels met enkele perforaties, Exine gelijkmatig met een columella-laag uitgerust.",
           "outcome": {
-            "text": "9.38 *Polygonatum odoratum*-type (S. 110)\n\n*Ruscus aculeatus* L. (2)\n35,6–49,7 µm, MiW 42,8 µm; 50 PK, 0a\n\n*Polygonatum multiflorum* (L.) ALL. (4)\n49,5–60,5 µm, MiW 53,8 µm; 50 PK, 0a\n\n*Polygonatum latfolium* DESF. (2)\n36,7–55,1 µm, MiW 49,5 µm; 50 PK, 0a\n\n*Polygonatum odoratum* (MILL.) DRUCE (4)\n52,5–71,3 µm, MiW 62,4 µm; 50 PK, 0a\n\n*Brasenia purpurea* CASP. (2)\n43,5–66,8 µm, MiW 56,4 µm; 50 PK, 0a"
+            "text": "9.38 *Polygonatum odoratum*-type (S. 110)\n\n*Ruscus aculeatus* L. (2)\n35,6–49,7 µm, MiW 42,8 µm; 50 PK, 0a\n\n*Polygonatum multiflorum* (L.) ALL. (4)\n49,5–60,5 µm, MiW 53,8 µm; 50 PK, 0a\n\n*Polygonatum latfolium* DESF. (2)\n36,7–55,1 µm, MiW 49,5 µm; 50 PK, 0a\n\n*Polygonatum odoratum* (MILL.) DRUCE (4)\n52,5–71,3 µm, MiW 62,4 µm; 50 PK, 0a\n\n*Brasenia purpurea* CASP. (2)\n43,5–66,8 µm, MiW 56,4 µm; 50 PK, 0a",
+            "pollen_key": "polygonatum_odoratum"
           }
         }
       ]

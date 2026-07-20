@@ -1,5 +1,7 @@
 # Lamium-Typ
 
+{{ gallery("lamium_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

@@ -34,7 +34,8 @@
         {
           "label": "PK bolvormig tot oblaat, dunwandig, > 45 µm, weinig vormvast, met grote polarvelden. Valla kort, tot ca. 3 µm, zonder overheersende richting, met in bovenaanzicht ronde sculptuurelementen (verrucae of microverrucae) (Tafel 53: 1–5).",
           "outcome": {
-            "text": "20.2 *Datura stramonium* (S. 270)"
+            "text": "20.2 *Datura stramonium* (S. 270)",
+            "pollen_key": "datura_stramonium"
           }
         },
         {
@@ -160,7 +161,8 @@
         {
           "label": "PK 42–50 µm groot, sculptuur contrastrijk (Tafel 55: 1–9).",
           "outcome": {
-            "text": "20.8 *Atropa bella-donna* (S. 274)"
+            "text": "20.8 *Atropa bella-donna* (S. 274)",
+            "pollen_key": "atropa_bella_donna"
           }
         },
         {

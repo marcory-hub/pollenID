@@ -1,24 +1,33 @@
-# Crepis biennis
+# *Crepis biennis* (groot streepzaad)
 
-## Identificatienotities
+{{ gallery("crepis_biennis") }}
 
-**Status:** [to be verified]
+## Kenmerken
 
-Automatisch aangemaakte soortpagina op basis van de Imkerpedia-drachtplantentabel.
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | {{ pollen("crepis_biennis", "name.latin_name") }} |
+| **Nederlands** | {{ pollen("crepis_biennis", "name.dutch_name") }} |
+| **Familie** | {{ pollen("crepis_biennis", "classification.family_latin") }} |
+| **Familie (NL)** | {{ pollen("crepis_biennis", "classification.family_dutch") }} |
+| **Grootte (klein-groot)** | {{ pollen("crepis_biennis", "size.size_smallest") }} - {{ pollen("crepis_biennis", "size.size_largest") }} |
+| **Vorm** | {{ pollen("crepis_biennis", "pollen_features.shape") }} |
+| **Polariteit** | {{ pollen("crepis_biennis", "pollen_features.polarity") }} |
+| **P/E-ratio** | {{ pollen("crepis_biennis", "pollen_features.pe_ratio") }} |
+| **Apertuur** | {{ pollen("crepis_biennis", "pollen_features.aperture") }} |
+| **Sculptuur** | {{ pollen("crepis_biennis", "pollen_features.sculpture") }} |
+| **Ornamentatie** | {{ pollen("crepis_biennis", "pollen_features.ornamentation") }} |
+| **Frequentie in EU-honing** | {{ pollen("crepis_biennis", "frequency_in_eu_honey") }} |
+| **pollen-note** | {{ pollen("crepis_biennis", "pollen_features.pollen-note") }} |
 
-## Drachtplantgegevens (Imkerpedia)
+## Determinatiesleutels
 
-- Latijnse naam: *Crepis biennis*
-- Nederlandse naam (Imkerpedia): Groot streepzaad
-- Voorkomen: 2-jarig
-- Stuifmeelkleur: Geelachtig
-- Nectarwaarde: N 0
-- Pollenwaarde: P 2
-- SB: 5
-- EB: 8
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+Geen pad in Beug-, van der Ham- of Kerkvliet-sleutels voor deze soort.
 
-## Praktische determinatie
+## Online databases
 
-- Verifieer morfologische kenmerken met microscopische referenties.
-- Gebruik bloeiperiode (SB/EB) en lokale context als aanvullend spoor.
+- [Pollenatlas Wien - *Crepis biennis*](http://flora.nhm-wien.ac.at/Seiten-Arten/Crepis-biennis.htm)
+- [PollenX - *Crepis biennis*](https://pollenx.eu/species.php?species=Crepis_sp)
+- [pollenwiki - *Crepis biennis*](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crepis_sp)
+- [Paldat - *Crepis biennis*](https://www.paldat.org/pub/Crepis_sp)
+- [Waarneming.nl - *Crepis biennis*](https://waarneming.nl/search/?q=crepis+biennis)

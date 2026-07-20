@@ -1,5 +1,7 @@
 # Ranunculus-Typ
 
+{{ gallery("ranunculus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

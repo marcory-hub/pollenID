@@ -63,7 +63,19 @@ anemone_typ:
     tstebler: null
     paldat: null
     waarneming: null
-  images: []
+  images:
+  - path: assets/images/by-taxon/anemone_blanda/anemone_blanda_1.png
+    kind: atlas
+    source: anemone_blanda
+  - path: assets/images/by-taxon/anemone_blanda/anemone_blanda_4.png
+    kind: atlas
+    source: anemone_blanda
+  - path: assets/images/by-taxon/anemone_blanda/anemone_blanda_3.png
+    kind: atlas
+    source: anemone_blanda
+  - path: assets/images/by-taxon/anemone_blanda/anemone_blanda_2.png
+    kind: atlas
+    source: anemone_blanda
   is_secondary_contributor: null
 ```
 

@@ -1,5 +1,7 @@
 # *Filipendula typ* (moerasspirea type)
 
+{{ gallery("filipendula_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

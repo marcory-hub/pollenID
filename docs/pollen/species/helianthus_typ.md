@@ -1,5 +1,7 @@
 # Helianthus-Typ
 
+{{ gallery("helianthus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

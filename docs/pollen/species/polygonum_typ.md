@@ -1,5 +1,7 @@
 # Polygonum-Typ
 
+{{ gallery("polygonum_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

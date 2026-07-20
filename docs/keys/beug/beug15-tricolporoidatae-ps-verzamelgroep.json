@@ -72,7 +72,8 @@
         {
           "label": "PFormI 1,06–1,41, PK scabraat, 22–30 µm groot, exine polair meestal zwak verdikt, PK elliptisch, meestal met afgeplatte polen en vaak met duidelijk gewelfde equatoriale gebieden rond de colpi (Tafel 34: 12–17).",
           "outcome": {
-            "text": "15.9.5 *Punica granatum* (S. 210)"
+            "text": "15.9.5 *Punica granatum* (S. 210)",
+            "pollen_key": "punica_granatum"
           }
         }
       ]

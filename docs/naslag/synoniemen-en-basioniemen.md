@@ -56,8 +56,10 @@ Bronnen: `data/pollen.yaml`, `docs/assets/images/by-taxon/_todo/_links/_kerkvlie
 | `tripolium_pannonicum` | *Aster tripolium* | *Aster tripolium* | nieuwe conventie; oude key verwijderd | kerkvliet; YAML `note` |
 | `galatella_linosyris` (beoogd) | *Aster linosyris* | *Aster linosyris* | nieuwe conventie | kerkvliet |
 | `centaurea_jacea` | *Centaurea jacea-Typ* | type-naam → soortnaam | uitzondering: type | kerkvliet |
-| `ranunculus_ficaria` | *Ranunculus ficaria* | *Ficaria verna* (subsp. *verna*; syn. *R. ficaria* subsp. *bulbilifer*) | synoniem; geaccepteerd *Ficaria verna* | user / PalDat; YAML `note_plant` |
+| `ranunculus_ficaria` | *Ranunculus ficaria* | *Ficaria verna* (subsp. *verna*; syn. *R. ficaria* subsp. *bulbilifer*); NL: gewoon speenkruid | synoniem; geaccepteerd *Ficaria verna* | user / PalDat; YAML `note_plant` |
 | `sanguisorba_officinalis` | *Sanguisorba officinalis* | *Poterium officinale* | synoniem | user; YAML `note_plant` |
+| `lotus_pedunculatus` | *Lotus ulginosis* | *Lotus uliginosus* | synoniem; ook synoniem *Lotus major* [to be verified]; Kerkvliet-typo *ulginosis*; oude keys `lotus_ulginosis` / `lotus_pedunculatus_lotus_uliginosus` verwijderd | kerkvliet; YAML `latin` / `note_plant` |
+| `persicaria_maculosa` | *Polygonum persicaria* | *Polygonum persicaria* L. | synoniem; basioniem; NL: Perzikkruid; Beug: *Persicaria maculosa*-Typ (syn. *Polygonum persicaria*-Typ); oude key `polygonum_persicaria` bestaat nog | user / PalDat; Beug; YAML `note_plant` |
 
 ## Leeswijzer in bronnen
 

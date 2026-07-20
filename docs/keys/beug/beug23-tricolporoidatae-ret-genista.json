@@ -31,7 +31,8 @@
         {
           "label": "PK groot, psilaat-scabraat.",
           "outcome": {
-            "text": "*Medicago sativa*-type (S. 207)\n\n*Medicago sativa* L. (4)\n38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\nZie ook `beug23-tricolporoidatae-ret-medicago-lupulina.md`."
+            "text": "*Medicago sativa*-type (S. 207)\n\n*Medicago sativa* L. (4)\n38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\nZie ook `beug23-tricolporoidatae-ret-medicago-lupulina.md`.",
+            "pollen_key": "medicago_sativa"
           }
         },
         {
@@ -53,7 +54,8 @@
         {
           "label": "PK 30–40 µm; rugulate elementen dicht, vaak vernet (Tafel 80: 6–9).",
           "outcome": {
-            "text": "*Robinia pseudoacacia* (S. 363) — zie `beug23-tricolporoidatae-ret-robinia`."
+            "text": "*Robinia pseudoacacia* (S. 363) — zie `beug23-tricolporoidatae-ret-robinia`.",
+            "pollen_key": "robinia_pseudoacacia"
           }
         }
       ]
@@ -97,7 +99,8 @@
         {
           "label": "PK reticulaat-rugulaat tot reticulaat; wulstige muri tot 1 µm; lumina 0,5–1,5 µm vaak smaller dan muri; columellae niet of alleen polar; polarvelden meestal zonder sculptuur (Tafel 83: 7–9).",
           "outcome": {
-            "text": "23.12.3 *Medicago lupulina*-type — zie deelsleutel."
+            "text": "23.12.3 *Medicago lupulina*-type — zie deelsleutel.",
+            "pollen_key": "medicago_lupulina"
           }
         },
         {

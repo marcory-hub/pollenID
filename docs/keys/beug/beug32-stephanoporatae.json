@@ -116,7 +116,8 @@
         {
           "label": "PK 37–48 µm, met 3–5(6) poriën; exine psilaat; polarvelden zonder lacunae-achtige indeukingen (Tafel 104: 5–7).",
           "outcome": {
-            "text": "32.6 *Carpinus betulus* (S. 446) — zie deelsleutel."
+            "text": "32.6 *Carpinus betulus* (S. 446) — zie deelsleutel.",
+            "pollen_key": "carpinus_betulus"
           }
         }
       ]

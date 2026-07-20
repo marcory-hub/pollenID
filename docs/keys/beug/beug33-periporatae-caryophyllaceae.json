@@ -54,7 +54,8 @@
         {
           "label": "Columellae op smalste interporium meer dan tweerijig; microreticulaat én microechinaat; columellae 1,0–1,2 µm (Tafel 110: 11–16).",
           "outcome": {
-            "text": "33.8.3 *Stellaria holostea* (S. 470) — zie deelsleutel."
+            "text": "33.8.3 *Stellaria holostea* (S. 470) — zie deelsleutel.",
+            "pollen_key": "stellaria_holostea"
           }
         }
       ]

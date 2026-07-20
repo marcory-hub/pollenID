@@ -1,5 +1,7 @@
 # Raphanus-Typ
 
+{{ gallery("raphanus_typ") }}
+
 ## Identificatienotities
 
 Cruciferae Kruisbloemenfamilie. Grote familie met consistent pollentype. Kenmerkend: rafelige randen van het net aan de zijkanten van de groeven zonder verandering van maaswijdte. Langwerpig ovaal bij onvoldoende gezwollen. Brassica (kool, koolzaad, knolraap, mosterd). Sinapis (herik, witte mosterd). Cheiranthus (muurbloem). Aubrieta en andere voorjaarsbloeiers.

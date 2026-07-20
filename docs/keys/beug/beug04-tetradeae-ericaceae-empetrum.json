@@ -31,7 +31,8 @@
         {
           "label": "Binnenwanden van de tetraden dicht geperforeerd.",
           "outcome": {
-            "text": "4.7.1 *Arctostaphylos alpina*\n\n*Arctostaphylos alpina* (L.) SPRENG. (3)\n47,3–54,3 µm, MiW 50,9 µm; 50 T, 0a"
+            "text": "4.7.1 *Arctostaphylos alpina*\n\n*Arctostaphylos alpina* (L.) SPRENG. (3)\n47,3–54,3 µm, MiW 50,9 µm; 50 T, 0a",
+            "pollen_key": "arctostaphylos_alpina"
           }
         },
         {
@@ -53,7 +54,8 @@
         {
           "label": "Sculptuur psilaat; binnenwanden niet geperforeerd.",
           "outcome": {
-            "text": "4.7.3 *Arbutus*\n\n*Arbutus unedo* L. (2)\n48,7–61,2 µm, MiW 53,5 µm; 50 PK, 1a\n\n*Arbutus andrachne* L. (1)\n46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a"
+            "text": "4.7.3 *Arbutus*\n\n*Arbutus unedo* L. (2)\n48,7–61,2 µm, MiW 53,5 µm; 50 PK, 1a\n\n*Arbutus andrachne* L. (1)\n46,6–53,7 µm, MiW 48,8 µm; 50 PK, 1a",
+            "pollen_key": "arbutus_unedo"
           }
         }
       ]
@@ -65,7 +67,8 @@
         {
           "label": "individuele pollenkorrel in de meeste gevallen met 4 korte, brede colpi. Tetraden steeds onregelmatig gevormd; sculptuur grof scabraat tot verrucaat; individuele pollenkorrel soms in één vlak of een rij (tabel 1: 7 en 10).",
           "outcome": {
-            "text": "4.7.4 *Calluna vulgaris*\n\n*Calluna vulgaris* (L.) HULL (6)\n34,0–48,0 µm, MiW 39,4 µm; 50 PK, 0a"
+            "text": "4.7.4 *Calluna vulgaris*\n\n*Calluna vulgaris* (L.) HULL (6)\n34,0–48,0 µm, MiW 39,4 µm; 50 PK, 0a",
+            "pollen_key": "calluna_vulgaris"
           }
         },
         {
@@ -97,13 +100,15 @@
         {
           "label": "Colpi zeer kort; colpus-index groter dan 3,3. Tetraden duidelijk scabraat tot zwak verrucaat, niet dikkewandig. Colpus-index 3,3(3,6)–4,5, MiW 4,1, 10 T (tabel 2: 12–13).",
           "outcome": {
-            "text": "4.7.6 *Moneses uniflora*\n\n*Moneses uniflora* (L.) A. GRAY (1)\n41,8–53,0 µm, MiW 45,3 µm; 50 T, 0a"
+            "text": "4.7.6 *Moneses uniflora*\n\n*Moneses uniflora* (L.) A. GRAY (1)\n41,8–53,0 µm, MiW 45,3 µm; 50 T, 0a",
+            "pollen_key": "moneses_uniflora"
           }
         },
         {
           "label": "Colpi langer; colpus-index < 3,3; indien groter, dan tetraden vrijwel psilaat en duidelijk dikkewandig. Sculptuur varieert: psilaat, scabraat, ook barstend-fijn holruchtig.",
           "outcome": {
-            "text": "4.7.7 Verzamelgroep *Vaccinium*-type\n\n*Vaccinium vitis-idaea* L. (4)\n37,0–45,5 µm, MiW 41,6 µm; 50 T, 0a\n\n*Vaccinium myrtillus* L. (6)\n37,0–50,5 µm, MiW 43,6 µm; 50 T, 0a\n\n*Vaccinium uliginosum* L. s.l. (4)\n39,8–55,5 µm, MiW 45,1 µm; 50 T, 0a\n\n*Vaccinium oxycoccus* s.l. L. (4)\n30,0–45,5 µm, MiW 38,6 µm; 50 T, 0a\n\n*Vaccinium arctostaphylos* L. (1)\n39,4–52,4 µm, MiW 46,2 µm; 50 T, 1a\n\nVerdere soorten (o.a. *Erica*, *Rhododendron*, *Loiseleuria*): Beug S. 45–48."
+            "text": "4.7.7 Verzamelgroep *Vaccinium*-type\n\n*Vaccinium vitis-idaea* L. (4)\n37,0–45,5 µm, MiW 41,6 µm; 50 T, 0a\n\n*Vaccinium myrtillus* L. (6)\n37,0–50,5 µm, MiW 43,6 µm; 50 T, 0a\n\n*Vaccinium uliginosum* L. s.l. (4)\n39,8–55,5 µm, MiW 45,1 µm; 50 T, 0a\n\n*Vaccinium oxycoccus* s.l. L. (4)\n30,0–45,5 µm, MiW 38,6 µm; 50 T, 0a\n\n*Vaccinium arctostaphylos* L. (1)\n39,4–52,4 µm, MiW 46,2 µm; 50 T, 1a\n\nVerdere soorten (o.a. *Erica*, *Rhododendron*, *Loiseleuria*): Beug S. 45–48.",
+            "pollen_key": "vaccinium_vitis_idaea"
           }
         }
       ]

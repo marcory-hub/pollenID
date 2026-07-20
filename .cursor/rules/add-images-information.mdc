@@ -1,0 +1,17 @@
+---
+description: >-
+  When the user supplies by-taxon atlas images plus pollen metadata (family, size,
+  morphology, Dutch name), run add-images-information (YAML, species page,
+  rename, validate). Triggered by @add-images-information or an equivalent prompt.
+alwaysApply: false
+---
+
+# Add images + information
+
+When the user says **add images information**, **@add-images-information**, or
+supplies a taxon metadata block together with by-taxon screenshots (folder name =
+`pollen_key`), follow `.cursor/skills/add-images-information/SKILL.md`
+end-to-end. Do not skip rename, YAML fields, species page update, or validation.
+
+For multi-taxon batch queues, Kerkvliet inject, or rename-only work, use
+**add-pollen** (`.cursor/skills/add-pollen/SKILL.md`) instead.

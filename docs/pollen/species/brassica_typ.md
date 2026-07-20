@@ -1,5 +1,7 @@
 # Brassica-Typ
 
+{{ gallery("brassica_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

@@ -1,5 +1,7 @@
 # Anthriscus-Typ
 
+{{ gallery("anthriscus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

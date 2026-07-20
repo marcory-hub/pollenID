@@ -1,24 +1,33 @@
-# Eryngium campestre
+# *Eryngium campestre* (kruisdistel)
 
-## Identificatienotities
+{{ gallery("eryngium_campestre") }}
 
-**Status:** [to be verified]
+## Kenmerken
 
-Automatisch aangemaakte soortpagina op basis van de Imkerpedia-drachtplantentabel.
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | {{ pollen("eryngium_campestre", "name.latin_name") }} |
+| **Nederlands** | {{ pollen("eryngium_campestre", "name.dutch_name") }} |
+| **Familie** | {{ pollen("eryngium_campestre", "classification.family_latin") }} |
+| **Familie (NL)** | {{ pollen("eryngium_campestre", "classification.family_dutch") }} |
+| **Grootte (klein-groot)** | {{ pollen("eryngium_campestre", "size.size_smallest") }} - {{ pollen("eryngium_campestre", "size.size_largest") }} |
+| **Vorm** | {{ pollen("eryngium_campestre", "pollen_features.shape") }} |
+| **Polariteit** | {{ pollen("eryngium_campestre", "pollen_features.polarity") }} |
+| **P/E-ratio** | {{ pollen("eryngium_campestre", "pollen_features.pe_ratio") }} |
+| **Apertuur** | {{ pollen("eryngium_campestre", "pollen_features.aperture") }} |
+| **Sculptuur** | {{ pollen("eryngium_campestre", "pollen_features.sculpture") }} |
+| **Ornamentatie** | {{ pollen("eryngium_campestre", "pollen_features.ornamentation") }} |
+| **Frequentie in EU-honing** | {{ pollen("eryngium_campestre", "frequency_in_eu_honey") }} |
+| **pollen-note** | {{ pollen("eryngium_campestre", "pollen_features.pollen-note") }} |
 
-## Drachtplantgegevens (Imkerpedia)
+## Determinatiesleutels
 
-- Latijnse naam: *Eryngium campestre*
-- Nederlandse naam (Imkerpedia): Echte kruisdistel
-- Voorkomen: vast
-- Stuifmeelkleur: ?
-- Nectarwaarde: N 3
-- Pollenwaarde: P 3
-- SB: 7
-- EB: 8
-- Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
+Geen pad in Beug-, van der Ham- of Kerkvliet-sleutels voor deze soort.
 
-## Praktische determinatie
+## Online databases
 
-- Verifieer morfologische kenmerken met microscopische referenties.
-- Gebruik bloeiperiode (SB/EB) en lokale context als aanvullend spoor.
+- [Pollenatlas Wien - *Eryngium campestre*](http://flora.nhm-wien.ac.at/Seiten-Arten/Eryngium-campestre.htm)
+- [PollenX - *Eryngium campestre*](https://pollenx.eu/species.php?species=Eryngium_campestre)
+- [pollenwiki - *Eryngium campestre*](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eryngium_campestre)
+- [Paldat - *Eryngium campestre*](https://www.paldat.org/pub/Eryngium_campestre)
+- [Waarneming.nl - *Eryngium campestre*](https://waarneming.nl/search/?q=eryngium+campestre)

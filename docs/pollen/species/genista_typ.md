@@ -1,5 +1,7 @@
 # Genista-Typ
 
+{{ gallery("genista_typ") }}
+
 ## Identificatienotities
 
 Vlinderbloemenfamilie. Grote familie met veel economisch belangrijke geslachten. Pollen heeft overeenkomsten met Rosaceae maar de poriën zijn, wanneer aanwezig, duidelijker; het oppervlak vaak vaag of helder net; de buitenlaag van de exine kleurt in optische doorsnede vaak als duidelijke zwarte lijn.

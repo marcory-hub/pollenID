@@ -27,7 +27,8 @@ Before architectural or roadmap answers:
 | **CI/CD** | `.github/workflows/deploy.yml` |
 | **Knowledge capture** | `notes/` (general) |
 | **Taxon page key paths** | `.cursor/skills/trace-key-paths/SKILL.md`, `scripts/extract_key_paths.py` |
-| **Add by-taxon images** | `.cursor/skills/add-by-taxon-images/SKILL.md` |
+| **Add pollen (images + YAML + pages)** | `.cursor/skills/add-pollen/SKILL.md` |
+| **Add images + user metadata (single taxon)** | `.cursor/skills/add-images-information/SKILL.md` |
 
 ## 3. Knowledge sync
 - Use `[to be verified]` for any assumption not grounded in files read this session.

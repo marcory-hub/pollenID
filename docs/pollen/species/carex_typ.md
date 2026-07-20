@@ -1,5 +1,7 @@
 # Carex typ
 
+{{ gallery("carex_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

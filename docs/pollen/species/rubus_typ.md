@@ -1,5 +1,7 @@
 # Rubus-Typ
 
+{{ gallery("rubus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

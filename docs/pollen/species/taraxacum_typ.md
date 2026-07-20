@@ -1,5 +1,7 @@
 # Taraxacum-Typ
 
+{{ gallery("taraxacum_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

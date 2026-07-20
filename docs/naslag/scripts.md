@@ -8,6 +8,7 @@
 | `scripts/normalize_pollen_yaml_schema.py` | Normaliseert schema-layout |
 | `scripts/prefill_pollen_atlas_links.py` | Vult lege atlas-links |
 | `scripts/sync_yaml_confident_images.py` | Voegt ontbrekende image-paden toe |
+| `scripts/fill_typ_images.py` | Vult `images` voor `*_typ`-taxa vanuit genus-matchende by-taxon-mappen (max 8, seed 42) |
 | `scripts/build_docs_data.py` | Genereert `docs/data/pollen.json` e.d. |
 | `scripts/migrate_typ_type_convention.py` | Eenmalige migratie: genus-only / `sp.`-labels naar `*_typ` (`Genus typ` / `{nl} type`); zie projectregels |
 
@@ -15,6 +16,8 @@
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --dry-run
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --report-missing-from-keys
+./.venv/bin/python scripts/fill_typ_images.py --dry-run
+./.venv/bin/python scripts/fill_typ_images.py
 ./.venv/bin/python scripts/build_docs_data.py
 ```
 

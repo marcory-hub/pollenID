@@ -48,7 +48,8 @@
         {
           "label": "PK bolvormig, 50–70 µm, met 30 smalle colpi (Tafel 91: 11–13).",
           "outcome": {
-            "text": "26.2 *Persicaria amphibia* (S. 405) — zie deelsleutel."
+            "text": "26.2 *Persicaria amphibia* (S. 405) — zie deelsleutel.",
+            "pollen_key": "persicaria_amphibia"
           }
         },
         {
@@ -152,7 +153,8 @@
         {
           "label": "PK met tectum perforatum; 12 colpi in regelmatige rangschikking; exine 1,5–2,0 µm; columellae ca. 0,7 µm (Tafel 93: 1–5).",
           "outcome": {
-            "text": "26.9 *Spergula arvensis* (S. 408) — zie deelsleutel."
+            "text": "26.9 *Spergula arvensis* (S. 408) — zie deelsleutel.",
+            "pollen_key": "spergula_arvensis"
           }
         }
       ]

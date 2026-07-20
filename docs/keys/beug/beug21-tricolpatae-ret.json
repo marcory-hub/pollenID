@@ -208,7 +208,8 @@
         {
           "label": "Intercolpium-randen glad; colpi breed; colpus-membranen dicht korrelig gesculpteerd (Tafel 60: 24–28).",
           "outcome": {
-            "text": "21.11 *Helleborus foetidus* (S. 296)"
+            "text": "21.11 *Helleborus foetidus* (S. 296)",
+            "pollen_key": "helleborus_foetidus"
           }
         },
         {
@@ -256,7 +257,8 @@
         {
           "label": "PK sferoïdisch, PForml 1,0–1,1; exine 1,8–2,5 µm dik (Tafel 61: 6–11).",
           "outcome": {
-            "text": "21.14 *Chelidonium majus* (S. 298)"
+            "text": "21.14 *Chelidonium majus* (S. 298)",
+            "pollen_key": "chelidonium_majus"
           }
         },
         {
@@ -288,7 +290,8 @@
         {
           "label": "Exine ongeveer 1,5–2 µm dik (Tafel 61: 12–17).",
           "outcome": {
-            "text": "21.16 *Vitex agnus-castus* (S. 298)"
+            "text": "21.16 *Vitex agnus-castus* (S. 298)",
+            "pollen_key": "vitex_agnus_castus"
           }
         },
         {
@@ -422,7 +425,8 @@
         {
           "label": "PK slechts ca. 24–31 µm; exine omstreeks 3 µm, zelden tot 3,2 µm (Tafel 66: 20–25).",
           "outcome": {
-            "text": "21.23 *Olea europaea* (S. 304)"
+            "text": "21.23 *Olea europaea* (S. 304)",
+            "pollen_key": "olea_europaea"
           }
         }
       ]
@@ -560,7 +564,8 @@
         {
           "label": "PK langgerekt, overwegend prolaat (Tafel 66: 7–13).",
           "outcome": {
-            "text": "21.28 *Fraxinus ornus* (S. 315)"
+            "text": "21.28 *Fraxinus ornus* (S. 315)",
+            "pollen_key": "fraxinus_ornus"
           }
         },
         {
@@ -624,7 +629,8 @@
         {
           "label": "Exine tot ca. 1,2 µm; PFormI 0,8–1,1; brochi (0,6)1,0–1,4(2,0) µm; colpi buiten equatoriaal gebied meestal sterk ingezonken, equatoriaal vooruitstekend/geknipt (Tafel 66: 26–35).",
           "outcome": {
-            "text": "21.31 *Fraxinus excelsior*-type (S. 316)"
+            "text": "21.31 *Fraxinus excelsior*-type (S. 316)",
+            "pollen_key": "fraxinus_excelsior"
           }
         },
         {

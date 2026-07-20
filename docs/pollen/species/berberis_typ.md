@@ -1,5 +1,7 @@
 # Berberis typ
 
+{{ gallery("berberis_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

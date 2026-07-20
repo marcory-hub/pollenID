@@ -143,11 +143,6 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Achyranthes_aspera) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Achyranthes_aspera) · [Paldat](https://www.paldat.org/pub/Achyranthes_aspera) · [Waarneming.nl](https://waarneming.nl/search/?q=achyranthes+aspera)
 
-## aconitum_napellus
-*Aconitum napellus*
-
-[PollenX](https://pollenx.eu/species.php?species=Aconitum_napellus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Aconitum_napellus) · [Paldat](https://www.paldat.org/pub/Aconitum_napellus) · [Waarneming.nl](https://waarneming.nl/search/?q=aconitum+napellus)
-
 ## aconitum_vulparia
 *Aconitum vulparia*
 
@@ -802,11 +797,6 @@ rode esdoorn
 *Caiophora lateritea*
 
 [PollenX](https://pollenx.eu/species.php?species=Caiophora_lateritea) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Caiophora_lateritea) · [Paldat](https://www.paldat.org/pub/Caiophora_lateritea) · [Waarneming.nl](https://waarneming.nl/search/?q=caiophora+lateritea)
-
-## callicarpa_bodinieri
-*Callicarpa bodinieri*
-
-[PollenX](https://pollenx.eu/species.php?species=Callicarpa_bodinieri) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Callicarpa_bodinieri) · [Paldat](https://www.paldat.org/pub/Callicarpa_bodinieri) · [Waarneming.nl](https://waarneming.nl/search/?q=callicarpa+bodinieri)
 
 ## callicarpa_japonica
 *Callicarpa japonica*
@@ -1668,10 +1658,6 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Eryngium_agavifolium) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eryngium_agavifolium) · [Paldat](https://www.paldat.org/pub/Eryngium_agavifolium) · [Waarneming.nl](https://waarneming.nl/search/?q=eryngium+agavifolium)
 
-## eryngium_campestre
-*Eryngium campestre*
-
-[PollenX](https://pollenx.eu/species.php?species=Eryngium_campestre) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Eryngium_campestre) · [Paldat](https://www.paldat.org/pub/Eryngium_campestre) · [Waarneming.nl](https://waarneming.nl/search/?q=eryngium+campestre)
 
 ## eryngium_maritimum
 *Eryngium maritimum*
@@ -2137,11 +2123,6 @@ rode esdoorn
 *Hoya carnosa*
 
 [PollenX](https://pollenx.eu/species.php?species=Hoya_carnosa) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hoya_carnosa) · [Paldat](https://www.paldat.org/pub/Hoya_carnosa) · [Waarneming.nl](https://waarneming.nl/search/?q=hoya+carnosa)
-
-## hyacinthus_orientalis
-*Hyacinthus orientalis*
-
-[PollenX](https://pollenx.eu/species.php?species=Hyacinthus_orientalis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hyacinthus_orientalis) · [Paldat](https://www.paldat.org/pub/Hyacinthus_orientalis) · [Waarneming.nl](https://waarneming.nl/search/?q=hyacinthus+orientalis)
 
 ## hydrangeaceae
 *Hydrangeaceae*
@@ -2688,8 +2669,8 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Lotus_glaber) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_glaber) · [Paldat](https://www.paldat.org/pub/Lotus_glaber) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+glaber)
 
-## lotus_pedunculatus_lotus_uliginosus
-*Lotus pedunculatus*
+## lotus_pedunculatus
+*Lotus pedunculatus* (syn. *Lotus uliginosus*)
 
 [PollenX](https://pollenx.eu/species.php?species=Lotus_pedunculatus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_pedunculatus) · [Paldat](https://www.paldat.org/pub/Lotus_pedunculatus) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+pedunculatus)
 
@@ -2702,11 +2683,6 @@ rode esdoorn
 *Lupinus luteus*
 
 [PollenX](https://pollenx.eu/species.php?species=Lupinus_luteus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lupinus_luteus) · [Paldat](https://www.paldat.org/pub/Lupinus_luteus) · [Waarneming.nl](https://waarneming.nl/search/?q=lupinus+luteus)
-
-## lupinus_polyphyllus
-*Lupinus polyphyllus*
-
-[PollenX](https://pollenx.eu/species.php?species=Lupinus_polyphyllus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lupinus_polyphyllus) · [Paldat](https://www.paldat.org/pub/Lupinus_polyphyllus) · [Waarneming.nl](https://waarneming.nl/search/?q=lupinus+polyphyllus)
 
 ## luzula
 *Luzula*
@@ -2897,11 +2873,6 @@ rode esdoorn
 *Monarda fistulosa*
 
 [PollenX](https://pollenx.eu/species.php?species=Monarda_fistulosa) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Monarda_fistulosa) · [Paldat](https://www.paldat.org/pub/Monarda_fistulosa) · [Waarneming.nl](https://waarneming.nl/search/?q=monarda+fistulosa)
-
-## muscari_botryoides
-*Muscari botryoides*
-
-[PollenX](https://pollenx.eu/species.php?species=Muscari_botryoides) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Muscari_botryoides) · [Paldat](https://www.paldat.org/pub/Muscari_botryoides) · [Waarneming.nl](https://waarneming.nl/search/?q=muscari+botryoides)
 
 ## napaea_dioica
 *Napaea dioica*
@@ -3157,11 +3128,6 @@ rode esdoorn
 *Parthenocissus inserta*
 
 [PollenX](https://pollenx.eu/species.php?species=Parthenocissus_inserta) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Parthenocissus_inserta) · [Paldat](https://www.paldat.org/pub/Parthenocissus_inserta) · [Waarneming.nl](https://waarneming.nl/search/?q=parthenocissus+inserta)
-
-## parthenocissus_quinquefolia
-*Parthenocissus quinquefolia*
-
-[PollenX](https://pollenx.eu/species.php?species=Parthenocissus_quinquefolia) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Parthenocissus_quinquefolia) · [Paldat](https://www.paldat.org/pub/Parthenocissus_quinquefolia) · [Waarneming.nl](https://waarneming.nl/search/?q=parthenocissus+quinquefolia)
 
 ## parthenocissus_tricuspidata
 *Parthenocissus tricuspidata*
@@ -3707,11 +3673,6 @@ rode esdoorn
 *Ranunculus bulbosus*
 
 [PollenX](https://pollenx.eu/species.php?species=Ranunculus_bulbosus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_bulbosus) · [Paldat](https://www.paldat.org/pub/Ranunculus_bulbosus) · [Waarneming.nl](https://waarneming.nl/search/?q=ranunculus+bulbosus)
-
-## ranunculus_ficaria
-*Ranunculus ficaria*
-
-[PollenX](https://pollenx.eu/species.php?species=Ranunculus_ficaria) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_ficaria) · [Paldat](https://www.paldat.org/pub/Ranunculus_ficaria) · [Waarneming.nl](https://waarneming.nl/search/?q=ranunculus+ficaria)
 
 ## ranunculus_repens
 *Ranunculus repens*

@@ -51,7 +51,8 @@
         {
           "label": "opercula equatoriaal niet opvallend verdikt, vergl. evt. *Diospyros* (S. 207) en *Rosa* (S. 273)",
           "outcome": {
-            "text": "13.7 *Sanguisorba minor*-type (S. 130)"
+            "text": "13.7 *Sanguisorba minor*-type (S. 130)",
+            "pollen_key": "sanguisorba_minor"
           }
         }
       ]
@@ -63,7 +64,8 @@
         {
           "label": "PK kogelvormig, pollenvormindex 0,94-1,05, exine 1,4-2,6 µm dik (Tafel 13: 16-17)",
           "outcome": {
-            "text": "13.7 *Sanguisorba minor*-type (S. 130)"
+            "text": "13.7 *Sanguisorba minor*-type (S. 130)",
+            "pollen_key": "sanguisorba_minor"
           }
         },
         {
@@ -273,7 +275,8 @@
         {
           "label": "PK zwak foveolaat (Tafel 33: 13-16)",
           "outcome": {
-            "text": "15.7 *Medicago sativa*-type (S. 207)\n\nPK elliptisch, meestal prolaat, PForml bij M. sativa (1,22)1,39–1,75. PK zeer variabel in vorm en Größe. poolvelden mittelgroß. exine ca. 1,5 µm dik, endexine vaak etwas dicker als het tectum. Strukturierung zwak psilaat-scabraat tot onduidelijk grubig. columellae in Aufsicht moeilijk zu erkennen. colpi equatoriaal verengt en met unterbrochenen Rändern. Gelegentlich treten nahezu tricolpate PK met geraden colpi op.\n\n*Medicago falcata* L. (4)\n26,2–37,5 µm, MiW 32,1 µm; 50 PK, 0a Medicago sativa L. (4) 38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\n*Medicago x* varia MARTYN (3)\n25,5–36,5 µm, MiW 32,2 µm; 50 PK, 0a Medicago prostrata JACQ. (2) 31,9–43,9 µm, MiW 37,2 µm; 50 PK, 0a"
+            "text": "15.7 *Medicago sativa*-type (S. 207)\n\nPK elliptisch, meestal prolaat, PForml bij M. sativa (1,22)1,39–1,75. PK zeer variabel in vorm en Größe. poolvelden mittelgroß. exine ca. 1,5 µm dik, endexine vaak etwas dicker als het tectum. Strukturierung zwak psilaat-scabraat tot onduidelijk grubig. columellae in Aufsicht moeilijk zu erkennen. colpi equatoriaal verengt en met unterbrochenen Rändern. Gelegentlich treten nahezu tricolpate PK met geraden colpi op.\n\n*Medicago falcata* L. (4)\n26,2–37,5 µm, MiW 32,1 µm; 50 PK, 0a Medicago sativa L. (4) 38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\n*Medicago x* varia MARTYN (3)\n25,5–36,5 µm, MiW 32,2 µm; 50 PK, 0a Medicago prostrata JACQ. (2) 31,9–43,9 µm, MiW 37,2 µm; 50 PK, 0a",
+            "pollen_key": "medicago_sativa"
           }
         },
         {

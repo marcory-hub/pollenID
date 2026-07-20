@@ -1,5 +1,7 @@
 # *Cynoglossum typ* (hondstong type)
 
+{{ gallery("cynoglossum_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

@@ -1,5 +1,7 @@
 # Hieracium typ
 
+{{ gallery("hieracium_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

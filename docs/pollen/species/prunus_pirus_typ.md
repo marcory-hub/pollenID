@@ -1,5 +1,7 @@
 # Prunus-/Pirus-Typ (Rosasea)
 
+{{ gallery("prunus_pirus_typ") }}
+
 ## Inheems
 Prunus avium (Zoete kers)
 Prunus padus (Gewone vogelkers)

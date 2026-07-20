@@ -17,13 +17,15 @@
         {
           "label": "PK striaat, met enkele anastomosen tussen de valla (Tafel 114: 11–13).",
           "outcome": {
-            "text": "33.11.1 *Polemonium caeruleum*\n\nPoriën 1,5–3 µm, contrastarm. Valla 2–8 µm lang.\n\n*Polemonium caeruleum* L. (4)\n41,5–53,8 µm, MiW 47,8 µm; 50 PK, 0a"
+            "text": "33.11.1 *Polemonium caeruleum*\n\nPoriën 1,5–3 µm, contrastarm. Valla 2–8 µm lang.\n\n*Polemonium caeruleum* L. (4)\n41,5–53,8 µm, MiW 47,8 µm; 50 PK, 0a",
+            "pollen_key": "polemonium_caeruleum"
           }
         },
         {
           "label": "PK striaat-reticulaat (Tafel 114: 14–17).",
           "outcome": {
-            "text": "33.11.2 *Polemonium boreale*\n\nPoriën 2,5–4 µm. Brochi 1,0–2,0 µm.\n\n*Polemonium boreale* ADAMS (2)\n40,0–56,8 µm, MiW 47,6 µm; 50 PK, 0a"
+            "text": "33.11.2 *Polemonium boreale*\n\nPoriën 2,5–4 µm. Brochi 1,0–2,0 µm.\n\n*Polemonium boreale* ADAMS (2)\n40,0–56,8 µm, MiW 47,6 µm; 50 PK, 0a",
+            "pollen_key": "polemonium_boreale"
           }
         }
       ],

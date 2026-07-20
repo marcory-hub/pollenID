@@ -31,7 +31,8 @@
         {
           "label": "PK homobrochaat; brochi tot ca. 1,2 µm (Tafel 79: 11–16).",
           "outcome": {
-            "text": "23.1 *Sambucus nigra*-type (S. 362) — zie deelsleutel."
+            "text": "23.1 *Sambucus nigra*-type (S. 362) — zie deelsleutel.",
+            "pollen_key": "sambucus_nigra"
           }
         },
         {
@@ -47,7 +48,8 @@
         {
           "label": "Exine in het midden van de intercolpia equatoriaal tot 3,5(4,0) µm dik; PK meestal sferoïdisch (Tafel 79: 17–24).",
           "outcome": {
-            "text": "23.2 *Sambucus ebulus* (S. 363) — zie deelsleutel."
+            "text": "23.2 *Sambucus ebulus* (S. 363) — zie deelsleutel.",
+            "pollen_key": "sambucus_ebulus"
           }
         },
         {
@@ -99,7 +101,8 @@
         {
           "label": "PK 30–40 µm; rugulate elementen dicht geplaatst, vaak vernet (Tafel 80: 6–9).",
           "outcome": {
-            "text": "23.5 *Robinia pseudoacacia* (S. 363) — zie deelsleutel."
+            "text": "23.5 *Robinia pseudoacacia* (S. 363) — zie deelsleutel.",
+            "pollen_key": "robinia_pseudoacacia"
           }
         }
       ]
@@ -221,7 +224,8 @@
         {
           "label": "PK micro-suprareticulaat; brochi daardoor relatief contrastarm; columellae-laag in optische snede met contrastarme, relatief wijde columellae (bij eng: vgl. *Linaria*) (Tafel 81: 17–22).",
           "outcome": {
-            "text": "23.9 *Hypericum perforatum*-type (S. 371) — zie deelsleutel."
+            "text": "23.9 *Hypericum perforatum*-type (S. 371) — zie deelsleutel.",
+            "pollen_key": "hypericum_perforatum"
           }
         },
         {
@@ -387,7 +391,8 @@
         {
           "label": "Brochi max. 4–5 µm; columellae steeds éénrijig (Tafel 73: 18–25).",
           "outcome": {
-            "text": "*Viburnum lantana* (S. 336) — zie `beug22-tricolporatae-ret-viburnum.md`"
+            "text": "*Viburnum lantana* (S. 336) — zie `beug22-tricolporatae-ret-viburnum.md`",
+            "pollen_key": "viburnum_lantana"
           }
         }
       ]
@@ -399,13 +404,15 @@
         {
           "label": "PK 32–42 µm, prolaat; lumina kleiner dan muribreedte; columellae meerrijig (Tafel 83: 20–23).",
           "outcome": {
-            "text": "23.15 *Paeonia officinalis* (S. 379) — zie deelsleutel."
+            "text": "23.15 *Paeonia officinalis* (S. 379) — zie deelsleutel.",
+            "pollen_key": "paeonia_officinalis"
           }
         },
         {
           "label": "PK 20–28 µm, meestal sferoïdisch; muri ongeveer zo breed als lumendiameter of iets smaller; columellae slechts incidenteel dubbelrijig (Tafel 83: 24–28).",
           "outcome": {
-            "text": "23.16 *Cercis siliquastrum* (S. 379) — zie deelsleutel."
+            "text": "23.16 *Cercis siliquastrum* (S. 379) — zie deelsleutel.",
+            "pollen_key": "cercis_siliquastrum"
           }
         }
       ]

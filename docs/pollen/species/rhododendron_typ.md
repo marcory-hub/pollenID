@@ -1,5 +1,7 @@
 # *Rhododendron typ* (rhododendron type)
 
+{{ gallery("rhododendron_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

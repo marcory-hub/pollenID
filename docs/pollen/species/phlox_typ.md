@@ -1,5 +1,7 @@
 # Phlox typ
 
+{{ gallery("phlox_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

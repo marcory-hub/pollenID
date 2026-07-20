@@ -1,5 +1,7 @@
 # Vicia-Typ
 
+{{ gallery("vicia_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

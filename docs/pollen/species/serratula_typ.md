@@ -1,5 +1,7 @@
 # Serratula-Typ
 
+{{ gallery("serratula_typ") }}
+
 ## Identificatienotities
 
 **Het pollen van sommige soorten is uniek.** Zo kunnen **Trifolium repens** (witte klaver) en **Trifolium pratense** (rode klaver) van elkaar en van alle andere worden onderscheiden. Vaker komt een pollentype voor dat bij een geslacht of andere plantengroep hoort. Het pollen van alle Tilia (linde) is onmiskenbaar; hoewel nauwkeurige studie de soort kan aangeven, is de indeling 'Tilia-type' doorgaans voldoende om de identificatie tot de lindebomen te beperken. De identificatie beperkt zich dan tot de lindebomen. Het pollen van de grote **Compositae** (composieten)-familie kan in **7 hoofdtypen** worden verdeeld. We noemen ze: 'Taraxacum (paardenbloem)-type', 'Helianthus (zonnebloem)-type', enz., naar een kenmerkend lid van de groep. 

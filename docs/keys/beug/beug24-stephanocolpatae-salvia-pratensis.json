@@ -18,13 +18,15 @@
         {
           "label": "Columellae staan alleen onder de macromuri (Tafel 86: 5–13).",
           "outcome": {
-            "text": "24.10.1 *Salvia pratensis*-type\n\n*Salvia aethiopis* L. (1)\n37,2–47,8 µm, MiW 43,7 µm; 50 PK, 1a\n\n*Salvia austriaca* JACQ. (2)\n44,5–72,0 µm, MiW 55,4 µm; 50 PK, 0a\n\n*Salvia argentea* L. (1)\n35,8–49,9 µm; 23 PK, 1a\n[te verifiëren: MiW ontbreekt]\n\n*Salvia glutinosa* L. (2)\n45,5–53,5 µm, MiW 49,4 µm; 50 PK, 0a\n\n*Salvia nemorosa* L. (1)\n27,6–38,9 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Salvia pratensis* L. (2)\n35,5–53,0 µm, MiW 41,3 µm; 50 PK, 0a\n\n*Salvia verbenacea* L. (2)\n30,0–41,8 µm, MiW 35,5 µm; 51 PK, Oa\n\n*Salvia viridis* L. (1)\n35,4–46,0 µm, MiW 41,5 µm; 50 PK, 1a\n\n*Rosmarinus officinalis* L. (2)\n41,5–54,5 µm, MiW 47,9 µm; 50 PK, 0a\n[te verifiëren: matenregel in OCR naast *S. officinalis*; plaatsing in *pratensis*-type op volgorde bijlage]"
+            "text": "24.10.1 *Salvia pratensis*-type\n\n*Salvia aethiopis* L. (1)\n37,2–47,8 µm, MiW 43,7 µm; 50 PK, 1a\n\n*Salvia austriaca* JACQ. (2)\n44,5–72,0 µm, MiW 55,4 µm; 50 PK, 0a\n\n*Salvia argentea* L. (1)\n35,8–49,9 µm; 23 PK, 1a\n[te verifiëren: MiW ontbreekt]\n\n*Salvia glutinosa* L. (2)\n45,5–53,5 µm, MiW 49,4 µm; 50 PK, 0a\n\n*Salvia nemorosa* L. (1)\n27,6–38,9 µm, MiW 33,6 µm; 50 PK, 0a\n\n*Salvia pratensis* L. (2)\n35,5–53,0 µm, MiW 41,3 µm; 50 PK, 0a\n\n*Salvia verbenacea* L. (2)\n30,0–41,8 µm, MiW 35,5 µm; 51 PK, Oa\n\n*Salvia viridis* L. (1)\n35,4–46,0 µm, MiW 41,5 µm; 50 PK, 1a\n\n*Rosmarinus officinalis* L. (2)\n41,5–54,5 µm, MiW 47,9 µm; 50 PK, 0a\n[te verifiëren: matenregel in OCR naast *S. officinalis*; plaatsing in *pratensis*-type op volgorde bijlage]",
+            "pollen_key": "salvia_pratensis"
           }
         },
         {
           "label": "Columellae staan onder de muri én onder de lumina van de macrobrochi.",
           "outcome": {
-            "text": "24.10.2 *Salvia officinalis*-type\n\n*Salvia officinalis* L. (2)\n33,6–51,3 µm, MiW 43,4 µm; 50 PK, 1a"
+            "text": "24.10.2 *Salvia officinalis*-type\n\n*Salvia officinalis* L. (2)\n33,6–51,3 µm, MiW 43,4 µm; 50 PK, 1a",
+            "pollen_key": "salvia_officinalis"
           }
         }
       ]

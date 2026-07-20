@@ -1,5 +1,7 @@
 # Populus typ
 
+{{ gallery("populus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

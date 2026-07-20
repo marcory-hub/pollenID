@@ -190,11 +190,6 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Crataegus_typ) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crataegus_typ) · [Paldat](https://www.paldat.org/pub/Crataegus_typ) · [Waarneming.nl](https://waarneming.nl/search/?q=crataegus+typ)
 
-## crepis_biennis
-*Crepis biennis*
-
-[PollenX](https://pollenx.eu/species.php?species=Crepis_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crepis_sp) · [Paldat](https://www.paldat.org/pub/Crepis_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=crepis+biennis)
-
 ## crepis_capillaris
 *Crepis capillaris*
 
@@ -820,10 +815,10 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Lotus_corniculatus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_corniculatus) · [Paldat](https://www.paldat.org/pub/Lotus_corniculatus) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+corniculatus)
 
-## lotus_ulginosis
-*Lotus ulginosis*
+## lotus_pedunculatus
+*Lotus pedunculatus* (syn. *Lotus uliginosus*)
 
-[PollenX](https://pollenx.eu/species.php?species=Lotus_ulginosis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_ulginosis) · [Paldat](https://www.paldat.org/pub/Lotus_ulginosis) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+ulginosis)
+[PollenX](https://pollenx.eu/species.php?species=Lotus_pedunculatus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_pedunculatus) · [Paldat](https://www.paldat.org/pub/Lotus_pedunculatus) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+pedunculatus)
 
 ## lysimachia_typ
 *Lysimachia*
@@ -934,11 +929,6 @@ soort meidoorn, geen images online van de pollen
 *Nemophila maculata*
 
 [PollenX](https://pollenx.eu/species.php?species=Nemophila_maculata) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nemophila_maculata) · [Paldat](https://www.paldat.org/pub/Nemophila_maculata) · [Waarneming.nl](https://waarneming.nl/search/?q=nemophila+maculata)
-
-## nemophila_menzi
-*Nemophila menzi*
-
-[PollenX](https://pollenx.eu/species.php?species=Nemophila_menzi) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Nemophila_menzi) · [Paldat](https://www.paldat.org/pub/Nemophila_menzi) · [Waarneming.nl](https://waarneming.nl/search/?q=nemophila+menzi)
 
 ## nemophila_menziesii
 *Nemophila menziesii*
@@ -1376,9 +1366,9 @@ soort meidoorn, geen images online van de pollen
 [PollenX](https://pollenx.eu/species.php?species=Skimmia_reevesiana) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Skimmia_reevesiana) · [Paldat](https://www.paldat.org/pub/Skimmia_reevesiana) · [Waarneming.nl](https://waarneming.nl/search/?q=skimmia+reevesiana)
 
 ## solanum_lycopers
-*Solanum lycopers*
+*Solanum lycopersicum*
 
-[PollenX](https://pollenx.eu/species.php?species=Solanum_lycopers) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopers) · [Paldat](https://www.paldat.org/pub/Solanum_lycopers) · [Waarneming.nl](https://waarneming.nl/search/?q=solanum+lycopers)
+[PollenX](https://pollenx.eu/species.php?species=Solanum_lycopersicum) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Solanum_lycopersicum) · [Paldat](https://www.paldat.org/pub/Solanum_lycopersicum) · [Waarneming.nl](https://waarneming.nl/search/?q=solanum+lycopersicum)
 
 ## solanum_tuberosum
 *Solanum tuberosum*

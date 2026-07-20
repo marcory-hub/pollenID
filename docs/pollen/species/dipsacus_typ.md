@@ -1,5 +1,7 @@
 # *Dipsacus typ* (kaardebol type)
 
+{{ gallery("dipsacus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

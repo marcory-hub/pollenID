@@ -158,7 +158,8 @@
         {
           "label": "Vestibula vrijwel bolvormig; PK groter dan 100 µm tot 145 µm (Tafel 98: 7–10).",
           "outcome": {
-            "text": "31.6 *Oenothera biennis* (S. 432) — zie deelsleutel."
+            "text": "31.6 *Oenothera biennis* (S. 432) — zie deelsleutel.",
+            "pollen_key": "oenothera_biennis"
           }
         },
         {
@@ -196,7 +197,8 @@
         {
           "label": "PK in polair aanzicht rond met opgezette ronde of halfkogelige vestibula (Tafel 99: 9–12).",
           "outcome": {
-            "text": "31.9 *Circaea* (S. 433) — zie deelsleutel. Vergelijk *Carpinus betulus* (S. 446)."
+            "text": "31.9 *Circaea* (S. 433) — zie deelsleutel. Vergelijk *Carpinus betulus* (S. 446).",
+            "pollen_key": "carpinus_betulus"
           }
         }
       ]
@@ -262,7 +264,8 @@
         {
           "label": "Poriën 8–10 µm, met krachtige 3–4 µm brede anulus (costae); PK sphaeroïdisch tot oblaat (Tafel 100: 1–2).",
           "outcome": {
-            "text": "31.14 *Cucumis sativus* (S. 436) — zie deelsleutel."
+            "text": "31.14 *Cucumis sativus* (S. 436) — zie deelsleutel.",
+            "pollen_key": "cucumis_sativus"
           }
         }
       ]

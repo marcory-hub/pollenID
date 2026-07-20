@@ -84,7 +84,8 @@
         {
           "label": "PK 38–52 µm groot, dunwandig, weinig vormstabiel. Valla kort, sculptuur variabel, ook scabraat of verrucaat of polair onvolledig netvormig (Tafel 29: 11–15).",
           "outcome": {
-            "text": "*Anthyllis vulneraria* (S. 191)"
+            "text": "*Anthyllis vulneraria* (S. 191)",
+            "pollen_key": "anthyllis_vulneraria"
           }
         }
       ]
@@ -126,7 +127,8 @@
         {
           "label": "Valla contrastarm, overwegend transversaal gerangschikt en vooral equatoriaal herkenbaar, naburige valla zonder vernetting (Tafel 47: 23–30).",
           "outcome": {
-            "text": "19.2 *Aesculus hippocastanum* (S. 255)"
+            "text": "19.2 *Aesculus hippocastanum* (S. 255)",
+            "pollen_key": "aesculus_hippocastanum"
           }
         },
         {
@@ -196,7 +198,8 @@
         {
           "label": "PK striaat, met talrijke perforaties tussen de valla (Tafel 49: 1, 3–4, 11–14).",
           "outcome": {
-            "text": "19.7 *Helianthemum nummularium*-groep (S. 258)"
+            "text": "19.7 *Helianthemum nummularium*-groep (S. 258)",
+            "pollen_key": "helianthemum_nummularium"
           }
         }
       ]

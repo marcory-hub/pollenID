@@ -1,5 +1,7 @@
 # Heracleum-Typ
 
+{{ gallery("heracleum_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

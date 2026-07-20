@@ -1,5 +1,7 @@
 # Malus typ
 
+{{ gallery("malus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

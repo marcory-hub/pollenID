@@ -193,7 +193,8 @@
         {
           "label": "colpen kort, Polarfelder groot of zeer groot. PK scabraat/microechinat en met deutlicher columella-laag, die außer im gebied der intercolpiumranden duidelijk von der endexine abgehoben ist (Tafel 21: 23-26)",
           "outcome": {
-            "text": "14.10 *Xanthium strumarium*-type (Tafel 21: 23–26)\n\nPK scabraat/microechinaat, sferoïdisch, PFormI 0,88–0,98 (bij *X. strumarium*); in polair aanzicht ± cirkelvormig tot zwak driehoekig en dan planaperturaat. Polarvelden groot tot zeer groot. Colpi kort, ca. 4–6 µm, bijna porie-achtig, met ca. 8–10 µm lange, vaak moeilijk herkenbare colpi transversales. Exinebouw afgeleid van het normale Asteraceae-type (S. 222) door volledige reductie van de binnenste columellae. Tussen het restant van de ektexine (ca. 1 µm) klaaft in het midden van de intercolpia een tot 2–3 µm diepe ruimte; ektexine en endexine alleen verbonden bij de intercolpiumranden. Columellae-laag tweedelig; met tectum en tussentectum ca. 2 µm dik.\n\n*Xanthium orientale* L. (1)\n24,1–32,2 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Xanthium strumarium* L. (1)\n24,4–31,8 µm, MiW 28,5 µm; 50 PK, 12a"
+            "text": "14.10 *Xanthium strumarium*-type (Tafel 21: 23–26)\n\nPK scabraat/microechinaat, sferoïdisch, PFormI 0,88–0,98 (bij *X. strumarium*); in polair aanzicht ± cirkelvormig tot zwak driehoekig en dan planaperturaat. Polarvelden groot tot zeer groot. Colpi kort, ca. 4–6 µm, bijna porie-achtig, met ca. 8–10 µm lange, vaak moeilijk herkenbare colpi transversales. Exinebouw afgeleid van het normale Asteraceae-type (S. 222) door volledige reductie van de binnenste columellae. Tussen het restant van de ektexine (ca. 1 µm) klaaft in het midden van de intercolpia een tot 2–3 µm diepe ruimte; ektexine en endexine alleen verbonden bij de intercolpiumranden. Columellae-laag tweedelig; met tectum en tussentectum ca. 2 µm dik.\n\n*Xanthium orientale* L. (1)\n24,1–32,2 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Xanthium strumarium* L. (1)\n24,4–31,8 µm, MiW 28,5 µm; 50 PK, 12a",
+            "pollen_key": "xanthium_strumarium"
           }
         },
         {
@@ -209,7 +210,8 @@
         {
           "label": "PK scabraat/microechinat en met deutlicher columella-laag, die außer im gebied der intercolpiumranden duidelijk von der endexine abgehoben ist (Tafel 21: 23-26)",
           "outcome": {
-            "text": "14.10 *Xanthium strumarium*-type (Tafel 21: 23–26)\n\nPK scabraat/microechinaat, sferoïdisch, PFormI 0,88–0,98 (bij *X. strumarium*); in polair aanzicht ± cirkelvormig tot zwak driehoekig en dan planaperturaat. Polarvelden groot tot zeer groot. Colpi kort, ca. 4–6 µm, bijna porie-achtig, met ca. 8–10 µm lange, vaak moeilijk herkenbare colpi transversales. Exinebouw afgeleid van het normale Asteraceae-type (S. 222) door volledige reductie van de binnenste columellae. Tussen het restant van de ektexine (ca. 1 µm) klaaft in het midden van de intercolpia een tot 2–3 µm diepe ruimte; ektexine en endexine alleen verbonden bij de intercolpiumranden. Columellae-laag tweedelig; met tectum en tussentectum ca. 2 µm dik.\n\n*Xanthium orientale* L. (1)\n24,1–32,2 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Xanthium strumarium* L. (1)\n24,4–31,8 µm, MiW 28,5 µm; 50 PK, 12a"
+            "text": "14.10 *Xanthium strumarium*-type (Tafel 21: 23–26)\n\nPK scabraat/microechinaat, sferoïdisch, PFormI 0,88–0,98 (bij *X. strumarium*); in polair aanzicht ± cirkelvormig tot zwak driehoekig en dan planaperturaat. Polarvelden groot tot zeer groot. Colpi kort, ca. 4–6 µm, bijna porie-achtig, met ca. 8–10 µm lange, vaak moeilijk herkenbare colpi transversales. Exinebouw afgeleid van het normale Asteraceae-type (S. 222) door volledige reductie van de binnenste columellae. Tussen het restant van de ektexine (ca. 1 µm) klaaft in het midden van de intercolpia een tot 2–3 µm diepe ruimte; ektexine en endexine alleen verbonden bij de intercolpiumranden. Columellae-laag tweedelig; met tectum en tussentectum ca. 2 µm dik.\n\n*Xanthium orientale* L. (1)\n24,1–32,2 µm, MiW 27,9 µm; 50 PK, 0a\n\n*Xanthium strumarium* L. (1)\n24,4–31,8 µm, MiW 28,5 µm; 50 PK, 12a",
+            "pollen_key": "xanthium_strumarium"
           }
         },
         {
@@ -273,7 +275,8 @@
         {
           "label": "PK kogelvormig, pollenvormindex um 0,94-1,05, exine 1,4-2,6 µm dik (Tafel 13: 16-17; Afb.. 26, S. 272)",
           "outcome": {
-            "text": "*Sanguisorba minor*-type (S. 130)"
+            "text": "*Sanguisorba minor*-type (S. 130)",
+            "pollen_key": "sanguisorba_minor"
           }
         },
         {
@@ -343,7 +346,8 @@
         {
           "label": "PK zonder of nur met schwachen costae (Tafel 28: 23-25).",
           "outcome": {
-            "text": "14.15 *Centaurea montana*-type (Tafel 28: 23–25)\n\nPK vergelijkbaar met *Centaurea cyanus*, zwak scabraat; omtrek elliptisch, sferoïdisch tot prolaat, PFormI 1,28–1,52. Exine equatoriaal dikker (6–8 µm) dan polair (4,5–7 µm). Buitenste columellae-laag als radiale streping; met tectum en tussentectum 2,0–2,5 µm. Binnenste columellae zeer krachtig, proximaal tot 1,5 µm dik en distaal vertakt. Colpi transversales toegespitst, 7–9 × 12–15 µm, zonder of slechts met zwakke costae. Ringgroeve meestal aanwezig.\n\n*Centaurea montana* L. (7)\n51,8–69,5 µm, MiW 60,2 µm; 50 PK, 0a\n\n*Centaurea triumfetti* ALL. (6)\n50,5–62,7 µm, MiW 54,7 µm; 50 PK, 0a"
+            "text": "14.15 *Centaurea montana*-type (Tafel 28: 23–25)\n\nPK vergelijkbaar met *Centaurea cyanus*, zwak scabraat; omtrek elliptisch, sferoïdisch tot prolaat, PFormI 1,28–1,52. Exine equatoriaal dikker (6–8 µm) dan polair (4,5–7 µm). Buitenste columellae-laag als radiale streping; met tectum en tussentectum 2,0–2,5 µm. Binnenste columellae zeer krachtig, proximaal tot 1,5 µm dik en distaal vertakt. Colpi transversales toegespitst, 7–9 × 12–15 µm, zonder of slechts met zwakke costae. Ringgroeve meestal aanwezig.\n\n*Centaurea montana* L. (7)\n51,8–69,5 µm, MiW 60,2 µm; 50 PK, 0a\n\n*Centaurea triumfetti* ALL. (6)\n50,5–62,7 µm, MiW 54,7 µm; 50 PK, 0a",
+            "pollen_key": "centaurea_montana"
           }
         }
       ]
@@ -355,13 +359,15 @@
         {
           "label": "Innere columella's ontbreken volledig. PK in equatoriaal aanzicht meestal elliptisch (Tafel 40: 3-15)",
           "outcome": {
-            "text": "*Centaurea jacea*-type (S. 230)"
+            "text": "*Centaurea jacea*-type (S. 230)",
+            "pollen_key": "centaurea_jacea"
           }
         },
         {
           "label": "Innere columella's zu stompjes auf der Innenseite des Zwischentctums reduziert. PK in equatoriaal aanzicht meestal ruitvormig (Tafel 18: 16-17).",
           "outcome": {
-            "text": "14.16 *Centaurea scabiosa*-type (Tafel 28: 16–17)\n\nPK sferoïdisch (PFormI 1,09–1,33), scabraat; equatoriaal meestal ruitvormig; binnenomtrek (endexine) elliptisch tot zwak ruitvormig. Endexine ca. 1,5–2 µm. Polarvelden meestal middelgroot. Colpi met tot 10 × 20 µm grote, toegespitste colpi transversales en een extra ringgroeve. Costae ontbreken. Polair aanzicht rondachtig, zeldzamer zwak driehoekig. Exine meestal ongelijk dik: equatoriaal 6–8 µm, polair 6–10 µm (vooral grotere afstand tussen tussentectum en endexine polair). Tussentectum goed ontwikkeld (± 1 µm); buitenste columellae-laag als duidelijke radiale streping, tweedelig. Binnenste columellae rudimentair als wratten of tot 2 µm lange hangende staafjes aan de binnenzijde van het tussentectum. Exine regelmatig en duidelijk scabraat; aan intercolpiumranden verrucaat of (micro)echinaat (echini dan ca. 1 µm hoog).\n\n*Centaurea scabiosa* L. (7)\n46,0–62,0 µm, MiW 54,4 µm; 50 PK, 0a\n\n*Centaurea dichroantha* A. KERNER (2)\n44,5–59,5 µm, MiW 53,4 µm; 50 PK, 0a\n\n*Centaurea rupestris* L. (2)\n48,0–67,5 µm, MiW 56,0 µm; 50 PK, 0a"
+            "text": "14.16 *Centaurea scabiosa*-type (Tafel 28: 16–17)\n\nPK sferoïdisch (PFormI 1,09–1,33), scabraat; equatoriaal meestal ruitvormig; binnenomtrek (endexine) elliptisch tot zwak ruitvormig. Endexine ca. 1,5–2 µm. Polarvelden meestal middelgroot. Colpi met tot 10 × 20 µm grote, toegespitste colpi transversales en een extra ringgroeve. Costae ontbreken. Polair aanzicht rondachtig, zeldzamer zwak driehoekig. Exine meestal ongelijk dik: equatoriaal 6–8 µm, polair 6–10 µm (vooral grotere afstand tussen tussentectum en endexine polair). Tussentectum goed ontwikkeld (± 1 µm); buitenste columellae-laag als duidelijke radiale streping, tweedelig. Binnenste columellae rudimentair als wratten of tot 2 µm lange hangende staafjes aan de binnenzijde van het tussentectum. Exine regelmatig en duidelijk scabraat; aan intercolpiumranden verrucaat of (micro)echinaat (echini dan ca. 1 µm hoog).\n\n*Centaurea scabiosa* L. (7)\n46,0–62,0 µm, MiW 54,4 µm; 50 PK, 0a\n\n*Centaurea dichroantha* A. KERNER (2)\n44,5–59,5 µm, MiW 53,4 µm; 50 PK, 0a\n\n*Centaurea rupestris* L. (2)\n48,0–67,5 µm, MiW 56,0 µm; 50 PK, 0a",
+            "pollen_key": "centaurea_scabiosa"
           }
         }
       ]
@@ -437,7 +443,8 @@
         {
           "label": "exine subpolair am dicksten, Umriß elliptisch of met parallelen Seitenrändern en breed afgeronde Polarfeldern (Tafel 29: 6-10)",
           "outcome": {
-            "text": "14.18 *Polygonum aviculare*-type (Tafel 29: 6–10)\n\nPK psilaat, sferoïdisch tot prolaat, PFormI 1,19–1,40; equatoriaal met parallelle zijranden of elliptisch. Polarvelden meestal middelgroot. Colpi transversales kunnen onderling verbonden zijn, maar in tegenstelling tot *Fallopia* alleen nabij de colpi met costae; soms ontbreken colpi transversales. Exine 2,0–3,2 µm; endexine tot ca. 1 µm; tectum dun en psilaat; columellae-laag duidelijk. Grootste dikte niet polair maar subpolair; soms equatoriaal iets dikker dan subequatoriaal (voorbeeld: polair 2,5–2,8 µm, subpolair 2,8–3,2 µm, equatoriaal 2,1–2,2 µm). *Polygonum raii*: overwegend stephanocolporaat/pericolporaat variant (S. 395); ook tricolporate PK. Bij fossiele vondsten buiten zeekusten/zoutmilieus kan *P. aviculare* als soort worden aangesproken.\n\n*Polygonum arenarium* WALDST. & KIT. (2)\n19,5–28,3 µm, MiW 24,4 µm; 50 PK, 1a\n\n*Polygonum aviculare* L. (5)\n28,3–37,5 µm, MiW 32,6 µm; 50 PK, 1a\n\n*Polygonum bellardii* ALL. (1)\n19,5–26,9 µm, MiW 22,8 µm; 50 PK, 1a\n\n*Polygonum maritimum* L. (1)\n23,0–29,0 µm, MiW 25,9 µm; 50 PK, 1a"
+            "text": "14.18 *Polygonum aviculare*-type (Tafel 29: 6–10)\n\nPK psilaat, sferoïdisch tot prolaat, PFormI 1,19–1,40; equatoriaal met parallelle zijranden of elliptisch. Polarvelden meestal middelgroot. Colpi transversales kunnen onderling verbonden zijn, maar in tegenstelling tot *Fallopia* alleen nabij de colpi met costae; soms ontbreken colpi transversales. Exine 2,0–3,2 µm; endexine tot ca. 1 µm; tectum dun en psilaat; columellae-laag duidelijk. Grootste dikte niet polair maar subpolair; soms equatoriaal iets dikker dan subequatoriaal (voorbeeld: polair 2,5–2,8 µm, subpolair 2,8–3,2 µm, equatoriaal 2,1–2,2 µm). *Polygonum raii*: overwegend stephanocolporaat/pericolporaat variant (S. 395); ook tricolporate PK. Bij fossiele vondsten buiten zeekusten/zoutmilieus kan *P. aviculare* als soort worden aangesproken.\n\n*Polygonum arenarium* WALDST. & KIT. (2)\n19,5–28,3 µm, MiW 24,4 µm; 50 PK, 1a\n\n*Polygonum aviculare* L. (5)\n28,3–37,5 µm, MiW 32,6 µm; 50 PK, 1a\n\n*Polygonum bellardii* ALL. (1)\n19,5–26,9 µm, MiW 22,8 µm; 50 PK, 1a\n\n*Polygonum maritimum* L. (1)\n23,0–29,0 µm, MiW 25,9 µm; 50 PK, 1a",
+            "pollen_key": "polygonum_aviculare"
           }
         }
       ]
@@ -465,7 +472,8 @@
         {
           "label": "exine 2-3 µm dik, columella's duidelijk. exine psilaat, endexine viel dikker als das tectum. poriën bijna altijd transversaal verlengd, vaak als Ringfurche gevormd, gelegentlich ontbrekend (Tafel 29: 6-10)",
           "outcome": {
-            "text": "14.18 *Polygonum aviculare*-type (Tafel 29: 6–10)\n\nPK psilaat, sferoïdisch tot prolaat, PFormI 1,19–1,40; equatoriaal met parallelle zijranden of elliptisch. Polarvelden meestal middelgroot. Colpi transversales kunnen onderling verbonden zijn, maar in tegenstelling tot *Fallopia* alleen nabij de colpi met costae; soms ontbreken colpi transversales. Exine 2,0–3,2 µm; endexine tot ca. 1 µm; tectum dun en psilaat; columellae-laag duidelijk. Grootste dikte niet polair maar subpolair; soms equatoriaal iets dikker dan subequatoriaal (voorbeeld: polair 2,5–2,8 µm, subpolair 2,8–3,2 µm, equatoriaal 2,1–2,2 µm). *Polygonum raii*: overwegend stephanocolporaat/pericolporaat variant (S. 395); ook tricolporate PK. Bij fossiele vondsten buiten zeekusten/zoutmilieus kan *P. aviculare* als soort worden aangesproken.\n\n*Polygonum arenarium* WALDST. & KIT. (2)\n19,5–28,3 µm, MiW 24,4 µm; 50 PK, 1a\n\n*Polygonum aviculare* L. (5)\n28,3–37,5 µm, MiW 32,6 µm; 50 PK, 1a\n\n*Polygonum bellardii* ALL. (1)\n19,5–26,9 µm, MiW 22,8 µm; 50 PK, 1a\n\n*Polygonum maritimum* L. (1)\n23,0–29,0 µm, MiW 25,9 µm; 50 PK, 1a"
+            "text": "14.18 *Polygonum aviculare*-type (Tafel 29: 6–10)\n\nPK psilaat, sferoïdisch tot prolaat, PFormI 1,19–1,40; equatoriaal met parallelle zijranden of elliptisch. Polarvelden meestal middelgroot. Colpi transversales kunnen onderling verbonden zijn, maar in tegenstelling tot *Fallopia* alleen nabij de colpi met costae; soms ontbreken colpi transversales. Exine 2,0–3,2 µm; endexine tot ca. 1 µm; tectum dun en psilaat; columellae-laag duidelijk. Grootste dikte niet polair maar subpolair; soms equatoriaal iets dikker dan subequatoriaal (voorbeeld: polair 2,5–2,8 µm, subpolair 2,8–3,2 µm, equatoriaal 2,1–2,2 µm). *Polygonum raii*: overwegend stephanocolporaat/pericolporaat variant (S. 395); ook tricolporate PK. Bij fossiele vondsten buiten zeekusten/zoutmilieus kan *P. aviculare* als soort worden aangesproken.\n\n*Polygonum arenarium* WALDST. & KIT. (2)\n19,5–28,3 µm, MiW 24,4 µm; 50 PK, 1a\n\n*Polygonum aviculare* L. (5)\n28,3–37,5 µm, MiW 32,6 µm; 50 PK, 1a\n\n*Polygonum bellardii* ALL. (1)\n19,5–26,9 µm, MiW 22,8 µm; 50 PK, 1a\n\n*Polygonum maritimum* L. (1)\n23,0–29,0 µm, MiW 25,9 µm; 50 PK, 1a",
+            "pollen_key": "polygonum_aviculare"
           }
         },
         {

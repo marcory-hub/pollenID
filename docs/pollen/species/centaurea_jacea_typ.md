@@ -1,5 +1,7 @@
 # Centaurea jacea-Typ
 
+{{ gallery("centaurea_jacea_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

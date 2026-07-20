@@ -1,5 +1,7 @@
 # Asparagus-Typ
 
+{{ gallery("asparagus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

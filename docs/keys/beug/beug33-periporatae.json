@@ -292,7 +292,8 @@
         {
           "label": "Muri ten minste duplicolumellaat; poriën niet in elk brochus (Tafel 116: 1–4).",
           "outcome": {
-            "text": "33.15 *Persicaria maculosa*-type (S. 492) — zie deelsleutel."
+            "text": "33.15 *Persicaria maculosa*-type (S. 492) — zie deelsleutel.",
+            "pollen_key": "persicaria_maculosa"
           }
         }
       ]
@@ -414,7 +415,8 @@
         {
           "label": "Telkens 1 microechinus boven een columella (Tafel 119: 2–5).",
           "outcome": {
-            "text": "33.22 *Anemone coronaria* (S. 504) — zie deelsleutel."
+            "text": "33.22 *Anemone coronaria* (S. 504) — zie deelsleutel.",
+            "pollen_key": "anemone_coronaria"
           }
         },
         {
@@ -464,7 +466,8 @@
         {
           "label": "PK 33–44 µm; poriën 8–13 µm (Tafel 119: 13–19).",
           "outcome": {
-            "text": "33.24 *Papaver argemone* (S. 506) — zie deelsleutel."
+            "text": "33.24 *Papaver argemone* (S. 506) — zie deelsleutel.",
+            "pollen_key": "papaver_argemone"
           }
         },
         {

@@ -1,5 +1,7 @@
 # Majoranus-Typ
 
+{{ gallery("majoranus_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

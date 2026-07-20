@@ -1,5 +1,7 @@
 # Sinapis-Typ
 
+{{ gallery("sinapis_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

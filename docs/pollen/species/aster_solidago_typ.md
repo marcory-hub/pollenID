@@ -1,5 +1,7 @@
 # Aster-Solidago-Typ
 
+{{ gallery("aster_solidago_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]

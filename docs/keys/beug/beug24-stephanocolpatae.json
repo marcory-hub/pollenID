@@ -49,7 +49,8 @@
         {
           "label": "PK met 6 colpi, waarvan elke tweede aan contrastrijk korrelig opgeloste intercolpiumranden grenst (Tafel 84: 12–18).",
           "outcome": {
-            "text": "24.3 *Phacelia tanacetifolia* (S. 382) — zie deelsleutel."
+            "text": "24.3 *Phacelia tanacetifolia* (S. 382) — zie deelsleutel.",
+            "pollen_key": "phacelia_tanacetifolia"
           }
         },
         {
@@ -143,7 +144,8 @@
         {
           "label": "PK met 6 colpi; in equatoriaal aanzicht rondachtig tot elliptisch; columellae duidelijk (Tafel 84: 26–28, Tafel 85: 1–3).",
           "outcome": {
-            "text": "24.5 *Lavandula angustifolia* (S. 384) — zie deelsleutel."
+            "text": "24.5 *Lavandula angustifolia* (S. 384) — zie deelsleutel.",
+            "pollen_key": "lavandula_angustifolia"
           }
         },
         {
@@ -223,13 +225,15 @@
         {
           "label": "Brochi tot 1,5 µm; lumina met weinig microbrochi (2–4); PK ca. 20–30 µm (Tafel 86: 1–4).",
           "outcome": {
-            "text": "24.9 *Salvia verticillata* (S. 387) — zie deelsleutel."
+            "text": "24.9 *Salvia verticillata* (S. 387) — zie deelsleutel.",
+            "pollen_key": "salvia_verticillata"
           }
         },
         {
           "label": "Brochi steeds groter dan 2 µm; grootste brochi tot 4 µm; lumina met talrijke microbrochi; PK ca. 27–72 µm (Tafel 86: 5–13).",
           "outcome": {
-            "text": "24.10 *Salvia pratensis*-groep (S. 387) — zie deelsleutel."
+            "text": "24.10 *Salvia pratensis*-groep (S. 387) — zie deelsleutel.",
+            "pollen_key": "salvia_pratensis"
           }
         }
       ]
@@ -279,7 +283,8 @@
         {
           "label": "PK intectaat; brochi steeds duidelijk; exine meestal tot 1 µm, zelden dikker; colpi slechts zwak ingezonken; intercolpiumranden in polar aanzicht meestal niet sterker gekromd dan de omtrek (Tafel 87: 7–22).",
           "outcome": {
-            "text": "24.13 *Primula veris*-groep (S. 388) — zie deelsleutel."
+            "text": "24.13 *Primula veris*-groep (S. 388) — zie deelsleutel.",
+            "pollen_key": "primula_veris"
           }
         }
       ]

@@ -17,7 +17,8 @@
         {
           "label": "Poriediameter 9–10 µm; PK 53–59 µm; PForml 1,8–2,1 (Tafel 78: 15–19).",
           "outcome": {
-            "text": "22.31.5.1 *Pisum sativum*\n\n*Pisum sativum* L. (2)\n53,0–59,8 µm, MiW 55,8 µm; 50 PK, 0a"
+            "text": "22.31.5.1 *Pisum sativum*\n\n*Pisum sativum* L. (2)\n53,0–59,8 µm, MiW 55,8 µm; 50 PK, 0a",
+            "pollen_key": "pisum_sativum"
           }
         },
         {

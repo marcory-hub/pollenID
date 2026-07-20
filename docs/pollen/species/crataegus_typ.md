@@ -1,5 +1,7 @@
 # Crataegus-Typ
 
+{{ gallery("crataegus_typ") }}
+
 ## Identificatienotities
 
 **Aantal aperturen**

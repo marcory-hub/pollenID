@@ -1,5 +1,7 @@
 # *Spiraea typ* (spirea type)
 
+{{ gallery("spiraea_typ") }}
+
 ## Identificatienotities
 
 **Aantal aperturen**

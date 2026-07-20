@@ -1,5 +1,7 @@
 # *Phacelia typ* (phacelia type)
 
+{{ gallery("phacelia_typ") }}
+
 ## Identificatienotities
 
 **Status:** [to be verified]
