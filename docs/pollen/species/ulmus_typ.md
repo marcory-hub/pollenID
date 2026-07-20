@@ -1,4 +1,4 @@
-# *Ulmus typ* (iep)
+# *Ulmus typ* (iep type)
 
 {{ gallery("ulmus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Ulmus typ |
-| Nederlands | iep |
+| Nederlands | iep type |
 | Grootte | 29 µm-38 µm |
 | Vorm | ca O |
 | Apertuur | ca 5-poraat |
@@ -20,7 +20,7 @@
 ulmus_typ:
   name:
     latin_name: Ulmus typ
-    dutch_name: iep
+    dutch_name: iep type
   classification:
     order: null
     family_latin: null

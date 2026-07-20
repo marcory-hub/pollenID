@@ -1,4 +1,4 @@
-# *Borreria typ* (Borreria)
+# *Borreria typ* (Borreria type)
 
 {{ gallery("borreria_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Borreria typ |
-| Nederlands | Borreria |
+| Nederlands | Borreria type |
 | Grootte | 30 µm |
 | Vorm | O |
 | Apertuur | 9-poraat(?) |
@@ -20,7 +20,7 @@
 borreria_typ:
   name:
     latin_name: Borreria typ
-    dutch_name: Borreria
+    dutch_name: Borreria type
   classification:
     order: null
     family_latin: null

@@ -1,4 +1,4 @@
-# *Aconitum typ* (ridderspoor)
+# *Aconitum typ* (ridderspoor type)
 
 {{ gallery("aconitum_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Aconitum typ |
-| Nederlands | ridderspoor |
+| Nederlands | ridderspoor type |
 | Grootte | 35 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 aconitum_typ:
   name:
     latin_name: Aconitum typ
-    dutch_name: ridderspoor
+    dutch_name: ridderspoor type
   classification:
     order: null
     family_latin: null

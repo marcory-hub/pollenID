@@ -1,4 +1,4 @@
-# Spiraea
+# *Spiraea typ* (spirea type)
 
 ## Identificatienotities
 
@@ -16,4 +16,3 @@ Varianten met 4 groeven worden soms aangetroffen tussen 3-groeven-korrels. Dit i
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
 - `Ornamentatie striaat of rugulaat -> colpusmembranen zonder stekels -> colpi in het midden versmald - ornamentatie striaat-rugulaat`
-

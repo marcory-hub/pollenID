@@ -1,4 +1,4 @@
-# *Knautia typ*
+# *Knautia typ* (beemdkroon type)
 
 {{ gallery("knautia_typ") }}
 
@@ -7,6 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Knautia typ |
+| Nederlands | beemdkroon type |
 | Grootte | 80 µm-110 µm |
 | Vorm | rond |
 | Sculptuur | echinaat |
@@ -18,7 +19,7 @@
 knautia_typ:
   name:
     latin_name: Knautia typ
-    dutch_name: null
+    dutch_name: beemdkroon type
   classification:
     order: null
     family_latin: null

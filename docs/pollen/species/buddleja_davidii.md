@@ -1,4 +1,4 @@
-# Buddleja davidii
+# *Buddleja davidii* (vlinderstruik)
 
 ## Identificatienotities
 

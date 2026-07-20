@@ -1,26 +1,26 @@
-# *Myosotis* (vergeet-me-nietje)
+# *Skimmia typ* (Skimmia type)
 
-{{ gallery("myosotis") }}
+{{ gallery("skimmia_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Myosotis |
-| Nederlands | vergeet-me-nietje |
-| Grootte | 7 µm |
-| Vorm | halter |
-| Apertuur | 6-colpaat |
-| Sculptuur | glad |
-| pollen-note | Kerkvliet: glad |
+| Latijn | Skimmia typ |
+| Nederlands | Skimmia type |
+| Grootte | 32 µm-35 µm |
+| Vorm | O/ovaal |
+| Apertuur | 5-colporaat |
+| Sculptuur | striaat/reticulaat |
+| pollen-note | Kerkvliet: striaat/reticulaat |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-myosotis:
+skimmia_typ:
   name:
-    latin_name: Myosotis
-    dutch_name: vergeet-me-nietje
+    latin_name: Skimmia typ
+    dutch_name: Skimmia type
   classification:
     order: null
     family_latin: null
@@ -28,21 +28,21 @@ myosotis:
     tribe: null
     genus: null
   size:
-    size_smallest: 7 µm
-    size_largest: 7 µm
+    size_smallest: 32 µm
+    size_largest: 35 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: halter
-    sculpture: glad
+    shape: O/ovaal
+    sculpture: striaat/reticulaat
     sculpture_visibility: null
-    aperture: 6-colpaat
+    aperture: 5-colporaat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: glad'
+    pollen-note: 'Kerkvliet: striaat/reticulaat'
   flowering_time:
     start: null
     end: null
@@ -70,6 +70,6 @@ myosotis:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
+- Sectie: Pollen met groeven
 
 </details>

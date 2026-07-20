@@ -1,26 +1,26 @@
-# *Viola* (viool)
+# *Weigelia/Diervilla typ* (Weigelia type)
 
-{{ gallery("viola") }}
+{{ gallery("weigelia_diervilla_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Viola |
-| Nederlands | viool |
-| Grootte | 60 µm (~) |
-| Vorm | vijfkantig |
-| Apertuur | 4-6-colporaat |
-| Sculptuur | glad/zwak scabr. |
-| pollen-note | Kerkvliet: glad/zwak scabr. |
+| Latijn | Weigelia/Diervilla typ |
+| Nederlands | Weigelia type |
+| Grootte | 45 µm |
+| Vorm | rond |
+| Apertuur | 3-(col?)poraat |
+| Sculptuur | echinaat |
+| pollen-note | Kerkvliet: echinaat |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-viola:
+weigelia_diervilla_typ:
   name:
-    latin_name: Viola
-    dutch_name: viool
+    latin_name: Weigelia/Diervilla typ
+    dutch_name: Weigelia type
   classification:
     order: null
     family_latin: null
@@ -28,21 +28,21 @@ viola:
     tribe: null
     genus: null
   size:
-    size_smallest: 60 µm (~)
-    size_largest: 60 µm (~)
+    size_smallest: 45 µm
+    size_largest: 45 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: vijfkantig
-    sculpture: glad/zwak scabr.
+    shape: rond
+    sculpture: echinaat
     sculpture_visibility: null
-    aperture: 4-6-colporaat
+    aperture: 3-(col?)poraat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: glad/zwak scabr.'
+    pollen-note: 'Kerkvliet: echinaat'
   flowering_time:
     start: null
     end: null
@@ -70,6 +70,6 @@ viola:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
+- Sectie: Pollen met stekels echinaat fenestraat
 
 </details>

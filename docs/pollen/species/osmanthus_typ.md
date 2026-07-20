@@ -1,4 +1,4 @@
-# *Osmanthus typ* (Osmanthus)
+# *Osmanthus typ* (Osmanthus type)
 
 {{ gallery("osmanthus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Osmanthus typ |
-| Nederlands | Osmanthus |
+| Nederlands | Osmanthus type |
 | Grootte | 18 µm-20 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colp(or)aat |
@@ -20,7 +20,7 @@
 osmanthus_typ:
   name:
     latin_name: Osmanthus typ
-    dutch_name: Osmanthus
+    dutch_name: Osmanthus type
   classification:
     order: null
     family_latin: null

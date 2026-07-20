@@ -1,4 +1,4 @@
-# *Thuja typ* (Thuja)
+# *Thuja typ* (Thuja type)
 
 {{ gallery("thuja_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Thuja typ |
-| Nederlands | Thuja |
+| Nederlands | Thuja type |
 | Grootte | 30 µm |
 | Vorm | O |
 | Apertuur | 0 |
@@ -20,7 +20,7 @@
 thuja_typ:
   name:
     latin_name: Thuja typ
-    dutch_name: Thuja
+    dutch_name: Thuja type
   classification:
     order: null
     family_latin: null

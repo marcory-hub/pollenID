@@ -98,7 +98,7 @@
         {
           "label": "Met costae colpi",
           "id": {
-            "name": "Rosa gallica type (Rosa gallica - Franse roos)",
+            "name": "Rosa gallica type (Rosa gallica officinalis - apothekersroos)",
             "size": "-",
             "source": "-",
             "images": [
@@ -111,7 +111,7 @@
                 "imageWidthPx": 1
               }
             ],
-            "pollen_key": "rosa_gallica"
+            "pollen_key": "rosa_gallica_officinalis"
           }
         }
       ]

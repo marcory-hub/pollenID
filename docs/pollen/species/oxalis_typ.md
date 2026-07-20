@@ -1,4 +1,4 @@
-# *Oxalis typ* (klaverzuring)
+# *Oxalis typ* (klaverzuring type)
 
 {{ gallery("oxalis_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Oxalis typ |
-| Nederlands | klaverzuring |
+| Nederlands | klaverzuring type |
 | Grootte | 35 µm-43 µm |
 | Vorm | ca. ∆ |
 | Apertuur | 3-4-colpaat |
@@ -20,7 +20,7 @@
 oxalis_typ:
   name:
     latin_name: Oxalis typ
-    dutch_name: klaverzuring
+    dutch_name: klaverzuring type
   classification:
     order: null
     family_latin: null

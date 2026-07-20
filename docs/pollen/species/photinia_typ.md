@@ -1,4 +1,4 @@
-# *Photinia typ* (glansmispel)
+# *Photinia typ* (glansmispel type)
 
 {{ gallery("photinia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Photinia typ |
-| Nederlands | glansmispel |
+| Nederlands | glansmispel type |
 | Grootte | 28 µm-30 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 photinia_typ:
   name:
     latin_name: Photinia typ
-    dutch_name: glansmispel
+    dutch_name: glansmispel type
   classification:
     order: null
     family_latin: null

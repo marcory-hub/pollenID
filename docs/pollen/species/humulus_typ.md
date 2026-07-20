@@ -1,26 +1,28 @@
-# *Pisum* (erwt)
+# *Humulus typ* (hop type)
 
-{{ gallery("pisum") }}
+{{ gallery("humulus_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Pisum |
-| Nederlands | erwt |
-| Grootte | 48 µm |
-| Vorm | ovaal |
-| Apertuur | 3-colporaat |
-| Sculptuur | reticulaat |
-| pollen-note | Kerkvliet: reticulaat |
+| Latijn | Humulus typ |
+| Nederlands | hop type |
+| Grootte | 20 µm |
+| Vorm | rond |
+| Apertuur | 3-poraat |
+| Sculptuur | scabraat |
+| pollen-note | Kerkvliet: scabraat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-pisum:
+humulus_typ:
   name:
-    latin_name: Pisum
-    dutch_name: erwt
+    latin_name: Humulus typ
+    dutch_name: hop type
   classification:
     order: null
     family_latin: null
@@ -28,21 +30,21 @@ pisum:
     tribe: null
     genus: null
   size:
-    size_smallest: 48 µm
-    size_largest: 48 µm
+    size_smallest: 20 µm
+    size_largest: 20 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: ovaal
-    sculpture: reticulaat
+    shape: rond
+    sculpture: scabraat
     sculpture_visibility: null
-    aperture: 3-colporaat
+    aperture: 3-poraat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: reticulaat'
+    pollen-note: 'Kerkvliet: scabraat'
   flowering_time:
     start: null
     end: null
@@ -53,8 +55,8 @@ pisum:
     note_plant: null
     note_honey: null
     note_pollen: null
-  frequency_in_dutch_honey: null
-  frequency_in_eu_honey: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
   frequency_in_non_eu_honey: null
   links:
     pollenX: null

@@ -1,4 +1,4 @@
-# *Euphorbia typ* (euphorbia)
+# *Euphorbia typ* (euphorbia type)
 
 {{ gallery("euphorbia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Euphorbia typ |
-| Nederlands | euphorbia |
+| Nederlands | euphorbia type |
 | Grootte | 35 µm-46 µm |
 | Vorm | rond tot driekantig |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 euphorbia_typ:
   name:
     latin_name: Euphorbia typ
-    dutch_name: euphorbia
+    dutch_name: euphorbia type
   classification:
     order: null
     family_latin: null

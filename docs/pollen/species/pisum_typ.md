@@ -1,15 +1,15 @@
-# *Lysimachia* (bastaardwederik)
+# *Pisum typ* (erwt type)
 
-{{ gallery("lysimachia") }}
+{{ gallery("pisum_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Lysimachia |
-| Nederlands | bastaardwederik |
-| Grootte | 23 µm |
-| Vorm | rond tot driekantig |
+| Latijn | Pisum typ |
+| Nederlands | erwt type |
+| Grootte | 48 µm |
+| Vorm | ovaal |
 | Apertuur | 3-colporaat |
 | Sculptuur | reticulaat |
 | pollen-note | Kerkvliet: reticulaat |
@@ -17,10 +17,10 @@
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-lysimachia:
+pisum_typ:
   name:
-    latin_name: Lysimachia
-    dutch_name: bastaardwederik
+    latin_name: Pisum typ
+    dutch_name: erwt type
   classification:
     order: null
     family_latin: null
@@ -28,12 +28,12 @@ lysimachia:
     tribe: null
     genus: null
   size:
-    size_smallest: 23 µm
-    size_largest: 23 µm
+    size_smallest: 48 µm
+    size_largest: 48 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: rond tot driekantig
+    shape: ovaal
     sculpture: reticulaat
     sculpture_visibility: null
     aperture: 3-colporaat

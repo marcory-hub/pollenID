@@ -1,4 +1,6 @@
-# Philadelphus coronarius
+# *Philadelphus coronarius* (boerenjasmijn)
+
+{{ gallery("philadelphus_coronarius") }}
 
 ## Identificatienotities
 

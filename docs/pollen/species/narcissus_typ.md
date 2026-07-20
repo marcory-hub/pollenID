@@ -1,4 +1,4 @@
-# *Narcissus typ* (narcis)
+# *Narcissus typ* (narcis type)
 
 {{ gallery("narcissus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Narcissus typ |
-| Nederlands | narcis |
+| Nederlands | narcis type |
 | Grootte | 40 µm-50 µm |
 | Vorm | (half)ovaal / halfovaal |
 | Apertuur | 1-colpaat / 1-colpaat (sulcaat) |
@@ -21,7 +21,7 @@
 narcissus_typ:
   name:
     latin_name: Narcissus typ
-    dutch_name: narcis
+    dutch_name: narcis type
   classification:
     order: null
     family_latin: null

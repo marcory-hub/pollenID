@@ -529,7 +529,7 @@ achillea_millefolium:
 aconitum_typ:
   name:
     latin_name: Aconitum typ
-    dutch_name: ridderspoor
+    dutch_name: ridderspoor type
   classification:
     order:
     family_latin:
@@ -691,7 +691,7 @@ aesculus_hippocastanum:
 alyssum_typ:
   name:
     latin_name: Alyssum typ
-    dutch_name: schildzaad
+    dutch_name: schildzaad type
   classification:
     order:
     family_latin:
@@ -734,10 +734,56 @@ alyssum_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+anemone_typ:
+  name:
+    latin_name: Anemone typ
+    dutch_name: anemoon type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 28 µm
+    size_largest: 28 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond tot driekantig
+    sculpture: scabraat
+    sculpture_visibility:
+    aperture: 3-4-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: scabraat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 artemisia_typ:
   name:
     latin_name: Artemisia typ
-    dutch_name: bijvoet/alsem
+    dutch_name: bijvoet/alsem type
   classification:
     order:
     family_latin:
@@ -923,7 +969,7 @@ aster_alpinus:
 borreria_typ:
   name:
     latin_name: Borreria typ
-    dutch_name: Borreria
+    dutch_name: Borreria type
   classification:
     order:
     family_latin:
@@ -969,7 +1015,7 @@ borreria_typ:
 callicarpa_typ:
   name:
     latin_name: Callicarpa typ
-    dutch_name: Callicarpa
+    dutch_name: Callicarpa type
   classification:
     order:
     family_latin:
@@ -1057,7 +1103,7 @@ caltha_palustris:
 carex_typ:
   name:
     latin_name: Carex typ
-    dutch_name: zegge
+    dutch_name: zegge type
   classification:
     order:
     family_latin:
@@ -1192,10 +1238,65 @@ chenopodium_album:
     waarneming:
   images: []
   is_secondary_contributor:
+citrus_typ:
+  name:
+    latin_name: Citrus typ
+    dutch_name: citrus type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 28.8 µm
+    size_largest: 37.6 µm
+    height_px: 94
+  pollen_class_beug:
+  pollen_features:
+    shape: sferoid
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: tetracolporaat of pentacolporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity: isopolair
+    pe_ratio: '0.95'
+    pollen-note:
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX: https://pollenx.eu/species.php?species=Citrus_spp,
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_spp,
+    paldat: https://www.paldat.org/pub/Citrus_spp,
+    waarneming: https://waarneming.nl/search/?q=citrus+spp%2C
+  images:
+    - path: assets/images/by-taxon/citrus_typ/citrus_typ_1.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/citrus_typ/citrus_typ_2.png
+      kind: persano_oddo
+      source: persano_oddo
+    - path: assets/images/by-taxon/citrus_typ/citrus_typ_3.png
+      kind: persano_oddo
+      source: persano_oddo
+  is_secondary_contributor:
 coffea_typ:
   name:
     latin_name: Coffea typ
-    dutch_name: koffie
+    dutch_name: koffie type
   classification:
     order:
     family_latin:
@@ -1287,7 +1388,7 @@ coriandrum_sativum:
 cosmos_typ:
   name:
     latin_name: Cosmos typ
-    dutch_name: cosmea
+    dutch_name: cosmea type
   classification:
     order:
     family_latin:
@@ -1333,7 +1434,7 @@ cosmos_typ:
 crepis_typ:
   name:
     latin_name: Crepis typ
-    dutch_name: streepzaad
+    dutch_name: streepzaad type
   classification:
     order:
     family_latin:
@@ -1379,7 +1480,7 @@ crepis_typ:
 crocus_typ:
   name:
     latin_name: Crocus typ
-    dutch_name: crocus
+    dutch_name: crocus type
   classification:
     order:
     family_latin:
@@ -1422,10 +1523,56 @@ crocus_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+cynoglossum_typ:
+  name:
+    latin_name: Cynoglossum typ
+    dutch_name: hondstong type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 11 µm
+    size_largest: 11 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: ovaal
+    sculpture: glad
+    sculpture_visibility:
+    aperture: n-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 cytisus_typ:
   name:
     latin_name: Cytisus typ
-    dutch_name: brem
+    dutch_name: brem type
   classification:
     order:
     family_latin:
@@ -1514,10 +1661,56 @@ diplotaxis_muralis:
     waarneming:
   images: []
   is_secondary_contributor:
+dipsacus_typ:
+  name:
+    latin_name: Dipsacus typ
+    dutch_name: kaardebol type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 71 µm
+    size_largest: 90 µm
+    height_px: 225
+  pollen_class_beug:
+  pollen_features:
+    shape: rond
+    sculpture: echinaat
+    sculpture_visibility:
+    aperture:
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: echinaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 eryngium_typ:
   name:
     latin_name: Eryngium typ
-    dutch_name: kruisdistel
+    dutch_name: kruisdistel type
   classification:
     order:
     family_latin:
@@ -1609,7 +1802,7 @@ fagus_sylvatica:
 ficaria_typ:
   name:
     latin_name: Ficaria typ
-    dutch_name: speenkruid
+    dutch_name: speenkruid type
   classification:
     order:
     family_latin:
@@ -1644,6 +1837,52 @@ ficaria_typ:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+filipendula_typ:
+  name:
+    latin_name: Filipendula typ
+    dutch_name: moerasspirea type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 15 µm
+    size_largest: 20 µm
+    height_px: 50
+  pollen_class_beug:
+  pollen_features:
+    shape: ongeveer rond
+    sculpture: reticulaat/scabraat
+    sculpture_visibility:
+    aperture: tricolporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: reticulaat/scabraat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
   frequency_in_non_eu_honey:
   links:
     pollenX:
@@ -1701,7 +1940,7 @@ galeopsis_tetrahit:
 helianthemum_typ:
   name:
     latin_name: Helianthemum typ
-    dutch_name: zonneroosje
+    dutch_name: zonneroosje type
   classification:
     order:
     family_latin:
@@ -1747,7 +1986,7 @@ helianthemum_typ:
 hieracium_typ:
   name:
     latin_name: Hieracium typ
-    dutch_name: havikskruid
+    dutch_name: havikskruid type
   classification:
     order:
     family_latin:
@@ -1790,10 +2029,56 @@ hieracium_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+humulus_typ:
+  name:
+    latin_name: Humulus typ
+    dutch_name: hop type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 20 µm
+    size_largest: 20 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond
+    sculpture: scabraat
+    sculpture_visibility:
+    aperture: 3-poraat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: scabraat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 hyacinthus_typ:
   name:
     latin_name: Hyacinthus typ
-    dutch_name: hyacinth
+    dutch_name: hyacinth type
   classification:
     order:
     family_latin:
@@ -3987,7 +4272,7 @@ aster_amellus:
 lilium_typ:
   name:
     latin_name: Lilium typ
-    dutch_name: lelie
+    dutch_name: lelie type
   classification:
     order:
     family_latin:
@@ -4079,7 +4364,7 @@ lupinus_angustifolius:
 lupinus_typ:
   name:
     latin_name: Lupinus typ
-    dutch_name: lupine
+    dutch_name: lupine type
   classification:
     order:
     family_latin:
@@ -4122,10 +4407,56 @@ lupinus_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+lysimachia_typ:
+  name:
+    latin_name: Lysimachia typ
+    dutch_name: bastaardwederik type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 23 µm
+    size_largest: 23 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond tot driekantig
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: 3-colporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: reticulaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 malva_typ:
   name:
     latin_name: Malva typ
-    dutch_name: kaasjeskruid
+    dutch_name: kaasjeskruid type
   classification:
     order:
     family_latin:
@@ -4168,10 +4499,56 @@ malva_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+melampyrum_typ:
+  name:
+    latin_name: Melampyrum typ
+    dutch_name: hengel type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 21 µm
+    size_largest: 21 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond tot driekantig
+    sculpture: scabraat
+    sculpture_visibility:
+    aperture: 3-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: scabraat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 mercurialis_typ:
   name:
     latin_name: Mercurialis typ
-    dutch_name: bingelkruid
+    dutch_name: bingelkruid type
   classification:
     order:
     family_latin:
@@ -4263,7 +4640,7 @@ mimulus_guttatus:
 muscari_typ:
   name:
     latin_name: Muscari typ
-    dutch_name: druifhyacinth
+    dutch_name: druifhyacinth type
   classification:
     order:
     family_latin:
@@ -4286,6 +4663,52 @@ muscari_typ:
     polarity:
     pe_ratio:
     pollen-note: 'Kerkvliet: scabraat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+myosotis_typ:
+  name:
+    latin_name: Myosotis typ
+    dutch_name: vergeet-me-nietje type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 7 µm
+    size_largest: 7 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: halter
+    sculpture: glad
+    sculpture_visibility:
+    aperture: 6-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad'
   flowering_time:
     start:
     end:
@@ -4351,7 +4774,7 @@ narcissus_pseudonarcissus:
 narcissus_typ:
   name:
     latin_name: Narcissus typ
-    dutch_name: narcis
+    dutch_name: narcis type
   classification:
     order:
     family_latin:
@@ -4397,7 +4820,7 @@ narcissus_typ:
 nemophila_typ:
   name:
     latin_name: Nemophila typ
-    dutch_name: bosliefje
+    dutch_name: bosliefje type
   classification:
     order:
     family_latin:
@@ -4489,7 +4912,7 @@ odontites_vernus:
 osmanthus_typ:
   name:
     latin_name: Osmanthus typ
-    dutch_name: Osmanthus
+    dutch_name: Osmanthus type
   classification:
     order:
     family_latin:
@@ -4535,7 +4958,7 @@ osmanthus_typ:
 oxalis_typ:
   name:
     latin_name: Oxalis typ
-    dutch_name: klaverzuring
+    dutch_name: klaverzuring type
   classification:
     order:
     family_latin:
@@ -4627,7 +5050,7 @@ papaver_rhoeas:
 parthenocissus_typ:
   name:
     latin_name: Parthenocissus typ
-    dutch_name: wilde wingerd
+    dutch_name: wilde wingerd type
   classification:
     order:
     family_latin:
@@ -4662,6 +5085,52 @@ parthenocissus_typ:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+phacelia_typ:
+  name:
+    latin_name: Phacelia typ
+    dutch_name: phacelia type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 22 µm
+    size_largest: 22 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: O/zeskantig
+    sculpture: glad
+    sculpture_visibility:
+    aperture: 6-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey: rare
   frequency_in_non_eu_honey:
   links:
     pollenX:
@@ -4765,7 +5234,7 @@ phlox_subulata:
 phlox_typ:
   name:
     latin_name: Phlox typ
-    dutch_name: phlox
+    dutch_name: phlox type
   classification:
     order:
     family_latin:
@@ -4811,7 +5280,7 @@ phlox_typ:
 photinia_typ:
   name:
     latin_name: Photinia typ
-    dutch_name: glansmispel
+    dutch_name: glansmispel type
   classification:
     order:
     family_latin:
@@ -4942,6 +5411,52 @@ pimpinella_anisum:
     waarneming:
   images: []
   is_secondary_contributor:
+pisum_typ:
+  name:
+    latin_name: Pisum typ
+    dutch_name: erwt type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 48 µm
+    size_largest: 48 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: ovaal
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: 3-colporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: reticulaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 quercus_robur:
   name:
     latin_name: Quercus robur
@@ -5003,7 +5518,7 @@ quercus_robur:
 rhinanthus_typ:
   name:
     latin_name: Rhinanthus typ
-    dutch_name: ratelaar
+    dutch_name: ratelaar type
   classification:
     order:
     family_latin:
@@ -5046,10 +5561,56 @@ rhinanthus_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+rhododendron_typ:
+  name:
+    latin_name: Rhododendron typ
+    dutch_name: rhododendron type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 36 µm
+    size_largest: 50 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: tetrade
+    sculpture: verrucaat
+    sculpture_visibility:
+    aperture: (3-)colporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: 36(-50?) µm; verrucaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 salix_typ:
   name:
     latin_name: Salix typ
-    dutch_name: wilg
+    dutch_name: wilg type
   classification:
     order:
     family_latin:
@@ -5095,7 +5656,7 @@ salix_typ:
 salvia_typ:
   name:
     latin_name: Salvia typ
-    dutch_name: Salvia
+    dutch_name: Salvia type
   classification:
     order:
     family_latin:
@@ -5141,7 +5702,7 @@ salvia_typ:
 sedum_typ:
   name:
     latin_name: Sedum typ
-    dutch_name: vetblad
+    dutch_name: vetblad type
   classification:
     order:
     family_latin:
@@ -5230,6 +5791,52 @@ silene_dioica:
     waarneming:
   images: []
   is_secondary_contributor:
+skimmia_typ:
+  name:
+    latin_name: Skimmia typ
+    dutch_name: Skimmia type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 32 µm
+    size_largest: 35 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: O/ovaal
+    sculpture: striaat/reticulaat
+    sculpture_visibility:
+    aperture: 5-colporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: striaat/reticulaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 spiraea_cantoniensis_x_trilobata:
   name:
     latin_name: S. cantoniensis x S. trilobata
@@ -5276,10 +5883,56 @@ spiraea_cantoniensis_x_trilobata:
     waarneming:
   images: []
   is_secondary_contributor:
+spiraea_typ:
+  name:
+    latin_name: Spiraea typ
+    dutch_name: spirea type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 12 µm
+    size_largest: 16 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: onregelm.
+    sculpture: glad
+    sculpture_visibility:
+    aperture:
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 symphoricarpos_typ:
   name:
     latin_name: Symphoricarpos typ
-    dutch_name: sneeuwbes
+    dutch_name: sneeuwbes type
   classification:
     order:
     family_latin:
@@ -5380,10 +6033,56 @@ symphyotrichum_lanceolatum:
       kind: by_taxon
       source: by_taxon
   is_secondary_contributor:
+tamarix_typ:
+  name:
+    latin_name: Tamarix typ
+    dutch_name: Tamarix type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 15 µm
+    size_largest: 15 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: ca. rond
+    sculpture: reticulaat
+    sculpture_visibility:
+    aperture: 3-colpaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: reticulaat'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 thalictrum_typ:
   name:
     latin_name: Thalictrum typ
-    dutch_name: ruit
+    dutch_name: ruit type
   classification:
     order:
     family_latin:
@@ -5429,7 +6128,7 @@ thalictrum_typ:
 thuja_typ:
   name:
     latin_name: Thuja typ
-    dutch_name: Thuja
+    dutch_name: Thuja type
   classification:
     order:
     family_latin:
@@ -5475,7 +6174,7 @@ thuja_typ:
 tilia_typ:
   name:
     latin_name: Tilia typ
-    dutch_name: linde
+    dutch_name: linde type
   classification:
     order:
     family_latin:
@@ -8274,61 +8973,6 @@ citrus_sinensis:
     waarneming: https://waarneming.nl/search/?q=citrus+sinensis
   images: []
   is_secondary_contributor:
-citrus_spp_rutaceae:
-  name:
-    latin_name: Citrus spp, Rutaceae
-    dutch_name:
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 28.8 µm
-    size_largest: 37.6 µm
-    height_px: 94
-  pollen_class_beug:
-  pollen_features:
-    shape: sferoid
-    sculpture: reticulaat
-    sculpture_visibility:
-    aperture: tetracolporaat of pentacolporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity: isopolair
-    pe_ratio: '0.95'
-    pollen-note:
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Citrus_spp,
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Citrus_spp,
-    paldat: https://www.paldat.org/pub/Citrus_spp,
-    waarneming: https://waarneming.nl/search/?q=citrus+spp%2C
-  images:
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_1.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_2.png
-      kind: persano_oddo
-      source: persano_oddo
-    - path: assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_3.png
-      kind: persano_oddo
-      source: persano_oddo
-  is_secondary_contributor:
 clematis_vitalba:
   name:
     latin_name: Clematis vitalba
@@ -10182,7 +10826,7 @@ deutzia_purpurascens:
 deutzia_typ:
   name:
     latin_name: Deutzia typ
-    dutch_name: Deutzia
+    dutch_name: Deutzia type
   classification:
     order:
     family_latin:
@@ -10398,98 +11042,6 @@ diplotaxis_tenuifolia:
     - path: assets/images/by-taxon/diplotaxis_tenuifolia/diplotaxis_tenuifolia_4.png
       kind: pollenwiki
       source: pollenwiki
-  is_secondary_contributor:
-dipsacus:
-  name:
-    latin_name: Dipsacus
-    dutch_name: kaardebol
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 71 µm
-    size_largest: 90 µm
-    height_px: 225
-  pollen_class_beug:
-  pollen_features:
-    shape: rond
-    sculpture: echinaat
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: echinaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
-dipsacus_pollenwiki:
-  name:
-    latin_name: Dipsacus sp.
-    dutch_name:
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Dipsacus_sp
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_sp
-    paldat: https://www.paldat.org/pub/Dipsacus_sp
-    waarneming: https://waarneming.nl/search/?q=dipsacus+sp
-  images: []
   is_secondary_contributor:
 dipsacus_sylvester:
   name:
@@ -11139,7 +11691,7 @@ eruca_sativa:
 escallonia_typ:
   name:
     latin_name: Escallonia typ
-    dutch_name: Escallonia
+    dutch_name: Escallonia type
   classification:
     order:
     family_latin:
@@ -11895,52 +12447,6 @@ ferula_communis:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ferula_communis
     paldat: https://www.paldat.org/pub/Ferula_communis
     waarneming: https://waarneming.nl/search/?q=ferula+communis
-  images: []
-  is_secondary_contributor:
-filipendula:
-  name:
-    latin_name: Filipendula
-    dutch_name: moerasspirea
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 15 µm
-    size_largest: 20 µm
-    height_px: 50
-  pollen_class_beug:
-  pollen_features:
-    shape: ongeveer rond
-    sculpture: reticulaat/scabraat
-    sculpture_visibility:
-    aperture: tricolporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: reticulaat/scabraat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 filipendula_ulmaria:
@@ -17633,7 +18139,7 @@ philadelphus_coronarius:
     ornamentation_visibility:
     polarity: 0.9
     pe_ratio: 0.17
-    pollen-note: Beug 22; PoFormI ca. 0.90 (0.81-0.97); PolFeldI ca. 0.17 (0.14-0.28); gedroogd pollen prolaat, sulcaat; monade, isopolair
+    pollen-note: 'Beug 22; PoFormI ca. 0.90 (0.81-0.97); PolFeldI ca. 0.17 (0.14-0.28); gedroogd pollen prolaat, sulcaat; monade, isopolair; Kerkvliet: 14-16 µm; zeer fijn reticulaat'
   flowering_time:
     start:
     end:
@@ -20710,7 +21216,7 @@ tamarix_parviflora:
 tulipa_typ:
   name:
     latin_name: Tulipa typ
-    dutch_name: tulp
+    dutch_name: tulp type
   classification:
     order:
     family_latin:
@@ -20756,7 +21262,7 @@ tulipa_typ:
 ulmus_typ:
   name:
     latin_name: Ulmus typ
-    dutch_name: iep
+    dutch_name: iep type
   classification:
     order:
     family_latin:
@@ -20799,10 +21305,56 @@ ulmus_typ:
     waarneming:
   images: []
   is_secondary_contributor:
+urtica_typ:
+  name:
+    latin_name: Urtica typ
+    dutch_name: brandnetel type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 16 µm
+    size_largest: 16 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond
+    sculpture: glad
+    sculpture_visibility:
+    aperture: 3-poraat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
 veronica_typ:
   name:
     latin_name: Veronica typ
-    dutch_name: ereprijs
+    dutch_name: ereprijs type
   classification:
     order:
     family_latin:
@@ -20825,6 +21377,98 @@ veronica_typ:
     polarity:
     pe_ratio:
     pollen-note: 'Kerkvliet: 36(20-40) µm; reticulaat/striaat. Kerkvliet 15 µm / fijn reticulaat / 3-colporaat (cyto: iets granulair) zie ook veronicastrum_sibiricum.'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+viola_typ:
+  name:
+    latin_name: Viola typ
+    dutch_name: viool type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 60 µm (~)
+    size_largest: 60 µm (~)
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: vijfkantig
+    sculpture: glad/zwak scabr.
+    sculpture_visibility:
+    aperture: 4-6-colporaat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: glad/zwak scabr.'
+  flowering_time:
+    start:
+    end:
+  value:
+    nectar_value:
+    pollen_value:
+  note:
+    note_plant:
+    note_honey:
+    note_pollen:
+  frequency_in_dutch_honey:
+  frequency_in_eu_honey:
+  frequency_in_non_eu_honey:
+  links:
+    pollenX:
+    tstebler:
+    paldat:
+    waarneming:
+  images: []
+  is_secondary_contributor:
+weigelia_diervilla_typ:
+  name:
+    latin_name: Weigelia/Diervilla typ
+    dutch_name: Weigelia type
+  classification:
+    order:
+    family_latin:
+    family_dutch:
+    tribe:
+    genus:
+  size:
+    size_smallest: 45 µm
+    size_largest: 45 µm
+    height_px:
+  pollen_class_beug:
+  pollen_features:
+    shape: rond
+    sculpture: echinaat
+    sculpture_visibility:
+    aperture: 3-(col?)poraat
+    aperture_visibility:
+    ornamentation:
+    ornamentation_visibility:
+    polarity:
+    pe_ratio:
+    pollen-note: 'Kerkvliet: echinaat'
   flowering_time:
     start:
     end:
@@ -24350,7 +24994,7 @@ vicia_faba:
 vinca_typ:
   name:
     latin_name: Vinca typ
-    dutch_name: maagdenpalm
+    dutch_name: maagdenpalm type
   classification:
     order:
     family_latin:
@@ -24662,7 +25306,7 @@ weigelia_diervilla_pollenwiki:
 xanthium_italicum:
   name:
     latin_name: Xanthium italicum
-    dutch_name: stekelnoot sp.
+    dutch_name: stekelnoot
   classification:
     order:
     family_latin:
@@ -25852,7 +26496,7 @@ achillea_filipendulina:
 achillea_typ:
   name:
     latin_name: Achillea typ
-    dutch_name: Duizendblad
+    dutch_name: Duizendblad type
   classification:
     order:
     family_latin:
@@ -27462,7 +28106,7 @@ allium_tuberosum:
 allium_typ:
   name:
     latin_name: Allium typ
-    dutch_name: Look
+    dutch_name: Look type
   classification:
     order:
     family_latin:
@@ -28287,52 +28931,6 @@ anchusa_azurea:
     waarneming: https://waarneming.nl/search/?q=anchusa+azurea
   images: []
   is_secondary_contributor:
-anemone:
-  name:
-    latin_name: Anemone
-    dutch_name: anemoon
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 28 µm
-    size_largest: 28 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond tot driekantig
-    sculpture: scabraat
-    sculpture_visibility:
-    aperture: 3-4-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: scabraat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 anemone_apennina:
   name:
     latin_name: Anemone apennina
@@ -29118,7 +29716,7 @@ anthriscus_cerefolium:
 anthriscus_typ:
   name:
     latin_name: Anthriscus typ
-    dutch_name: Berenklauw
+    dutch_name: Berenklauw type
   classification:
     order:
     family_latin:
@@ -30418,7 +31016,7 @@ asparagaceae:
 asparagus_typ:
   name:
     latin_name: Asparagus typ
-    dutch_name: Asperge
+    dutch_name: Asperge type
   classification:
     order:
     family_latin:
@@ -30740,7 +31338,7 @@ aster_shortii:
 aster_solidago_typ:
   name:
     latin_name: Aster solidago
-    dutch_name: Aster/Goldenrod
+    dutch_name: Aster/Goldenrod type
   classification:
     order:
     family_latin:
@@ -30786,7 +31384,7 @@ aster_solidago_typ:
 aster_typ:
   name:
     latin_name: Aster typ
-    dutch_name: aster
+    dutch_name: aster type
   classification:
     order:
     family_latin:
@@ -31721,7 +32319,7 @@ berberis_julianae:
 berberis_typ:
   name:
     latin_name: Berberis typ
-    dutch_name: zuurbes
+    dutch_name: zuurbes type
   classification:
     order:
     family_latin:
@@ -32226,7 +32824,7 @@ bidens_pilosa:
 bidens_typ:
   name:
     latin_name: Bidens typ
-    dutch_name: tandzaad
+    dutch_name: tandzaad type
   classification:
     order:
     family_latin:
@@ -32752,7 +33350,7 @@ brassica_rapa:
 brassica_typ:
   name:
     latin_name: Brassica typ
-    dutch_name:
+    dutch_name: kool type
   classification:
     order:
     family_latin:
@@ -35529,52 +36127,6 @@ caryopteris_incana:
     waarneming: https://waarneming.nl/search/?q=caryopteris+incana
   images: []
   is_secondary_contributor:
-castanea:
-  name:
-    latin_name: Castanea
-    dutch_name:
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 ceanothus_americanus:
   name:
     latin_name: Ceanothus americanus
@@ -36130,7 +36682,7 @@ centaurea_scabiosa:
 centaurea_typ:
   name:
     latin_name: Centaurea typ
-    dutch_name: Centaurea
+    dutch_name: Centaurea type
   classification:
     order:
     family_latin:
@@ -40380,7 +40932,7 @@ crataegus_pinnatifida:
 crataegus_typ:
   name:
     latin_name: Crataegus typ
-    dutch_name: meidoorn
+    dutch_name: meidoorn type
   classification:
     order:
     family_latin:
@@ -41341,52 +41893,6 @@ cynara_cardunculus:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Cynara_cardunculus
     paldat: https://www.paldat.org/pub/Cynara_cardunculus
     waarneming: https://waarneming.nl/search/?q=cynara+cardunculus
-  images: []
-  is_secondary_contributor:
-cynoglossum:
-  name:
-    latin_name: Cynoglossum
-    dutch_name: hondstong
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 11 µm
-    size_largest: 11 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: ovaal
-    sculpture: glad
-    sculpture_visibility:
-    aperture: n-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 cynoglossum_amabile:
@@ -44796,7 +45302,7 @@ euphorbia_polychroma:
 euphorbia_typ:
   name:
     latin_name: Euphorbia typ
-    dutch_name: euphorbia
+    dutch_name: euphorbia type
   classification:
     order:
     family_latin:
@@ -46038,7 +46544,7 @@ galinsoga_parviflora:
 galinsoga_typ:
   name:
     latin_name: Galinsoga typ
-    dutch_name: knopkruid
+    dutch_name: knopkruid type
   classification:
     order:
     family_latin:
@@ -46314,7 +46820,7 @@ genista_tinctoria:
 genista_typ:
   name:
     latin_name: Genista typ
-    dutch_name: Zonnewinde
+    dutch_name: Zonnewinde type
   classification:
     order:
     family_latin:
@@ -47234,7 +47740,7 @@ geranium_silvaticum:
 geranium_typ:
   name:
     latin_name: Geranium typ
-    dutch_name: ooievaarsbek e.a.
+    dutch_name: ooievaarsbek type
   classification:
     order:
     family_latin:
@@ -48798,7 +49304,7 @@ helianthus_tuberosus:
 helianthus_typ:
   name:
     latin_name: Helianthus typ
-    dutch_name: Zonnebloem-soorten
+    dutch_name: zonnebloem type
   classification:
     order:
     family_latin:
@@ -49258,7 +49764,7 @@ heptacodium_miconioides:
 heracleum_typ:
   name:
     latin_name: Heracleum typ
-    dutch_name: Reuzenkruiskruid
+    dutch_name: Reuzenkruiskruid type
   classification:
     order:
     family_latin:
@@ -50313,52 +50819,6 @@ hoya_carnosa:
     waarneming: https://waarneming.nl/search/?q=hoya+carnosa
   images: []
   is_secondary_contributor:
-humulus:
-  name:
-    latin_name: Humulus
-    dutch_name: hop
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 20 µm
-    size_largest: 20 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond
-    sculpture: scabraat
-    sculpture_visibility:
-    aperture: 3-poraat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: scabraat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 hyacinthus_orientalis:
   name:
     latin_name: Hyacinthus orientalis
@@ -50592,7 +51052,7 @@ hydrangea_serrata:
 hydrangea_typ:
   name:
     latin_name: Hydrangea typ
-    dutch_name:
+    dutch_name: hortensia type
   classification:
     order:
     family_latin:
@@ -53260,7 +53720,7 @@ knautia_macedonia:
 knautia_typ:
   name:
     latin_name: Knautia typ
-    dutch_name:
+    dutch_name: beemdkroon type
   classification:
     order:
     family_latin:
@@ -53812,7 +54272,7 @@ lamium_purpureum:
 lamium_typ:
   name:
     latin_name: Lamium typ
-    dutch_name: dovenetel
+    dutch_name: dovenetel type
   classification:
     order:
     family_latin:
@@ -56412,7 +56872,7 @@ lonicera_ruprechtiana:
 lonicera_typ:
   name:
     latin_name: Lonicera typ
-    dutch_name: kamperfoelie
+    dutch_name: kamperfoelie type
   classification:
     order:
     family_latin:
@@ -57154,52 +57614,6 @@ lycopus_europaeus:
     waarneming: https://waarneming.nl/search/?q=lycopus+europaeus
   images: []
   is_secondary_contributor:
-lysimachia:
-  name:
-    latin_name: Lysimachia
-    dutch_name: bastaardwederik
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 23 µm
-    size_largest: 23 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond tot driekantig
-    sculpture: reticulaat
-    sculpture_visibility:
-    aperture: 3-colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: reticulaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 lysimachia_clethroides:
   name:
     latin_name: Lysimachia clethroides
@@ -57479,7 +57893,7 @@ magnoliaceae:
 majoranus_typ:
   name:
     latin_name: Majoranus typ
-    dutch_name: Marjolein
+    dutch_name: Marjolein type
   classification:
     order:
     family_latin:
@@ -57525,7 +57939,7 @@ majoranus_typ:
 malus_typ:
   name:
     latin_name: Malus typ
-    dutch_name: appel
+    dutch_name: appel type
   classification:
     order:
     family_latin:
@@ -58204,52 +58618,6 @@ meidoornhoning:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
-melampyrum:
-  name:
-    latin_name: Melampyrum
-    dutch_name: hengel
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 21 µm
-    size_largest: 21 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond tot driekantig
-    sculpture: scabraat
-    sculpture_visibility:
-    aperture: 3-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: scabraat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
   frequency_in_non_eu_honey:
   links:
     pollenX:
@@ -59222,52 +59590,6 @@ muscari_botryoides:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Muscari_botryoides
     paldat: https://www.paldat.org/pub/Muscari_botryoides
     waarneming: https://waarneming.nl/search/?q=muscari+botryoides
-  images: []
-  is_secondary_contributor:
-myosotis:
-  name:
-    latin_name: Myosotis
-    dutch_name: vergeet-me-nietje
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 7 µm
-    size_largest: 7 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: halter
-    sculpture: glad
-    sculpture_visibility:
-    aperture: 6-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 myosotis_laxa_ssp_cespitosa:
@@ -63042,52 +63364,6 @@ petasites_japonicus:
     waarneming: https://waarneming.nl/search/?q=petasites+japonicus
   images: []
   is_secondary_contributor:
-phacelia:
-  name:
-    latin_name: Phacelia
-    dutch_name: phacelia_tanacetifolia
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 22 µm
-    size_largest: 22 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: O/zeskantig
-    sculpture: glad
-    sculpture_visibility:
-    aperture: 6-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 phalaris_arundinacea:
   name:
     latin_name: Phalaris arundinacea
@@ -63224,52 +63500,6 @@ phellodendro_amurense:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Phellodendro_amurense
     paldat: https://www.paldat.org/pub/Phellodendro_amurense
     waarneming: https://waarneming.nl/search/?q=phellodendro+amurense
-  images: []
-  is_secondary_contributor:
-philadelphus:
-  name:
-    latin_name: Philadelphus
-    dutch_name: boerenjasmijn
-  classification:
-    order:
-    family_latin: Hydrangeaceae
-    family_dutch: hortensiafamilie
-    tribe:
-    genus: Philadelphus
-  size:
-    size_smallest: 14 µm
-    size_largest: 16 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond tot driekantig
-    sculpture: zeer fijn reticulaat
-    sculpture_visibility:
-    aperture: 3-colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: zeer fijn reticulaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 photinia_davidiana:
@@ -63954,52 +64184,6 @@ pinus:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
-pisum:
-  name:
-    latin_name: Pisum
-    dutch_name: erwt
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 48 µm
-    size_largest: 48 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: ovaal
-    sculpture: reticulaat
-    sculpture_visibility:
-    aperture: 3-colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: reticulaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
   frequency_in_non_eu_honey:
   links:
     pollenX:
@@ -64983,7 +65167,7 @@ polygonum_persicaria:
 polygonum_typ:
   name:
     latin_name: Polygonum typ
-    dutch_name: Duizendknoop
+    dutch_name: Duizendknoop type
   classification:
     order:
     family_latin:
@@ -65029,7 +65213,7 @@ polygonum_typ:
 populus_typ:
   name:
     latin_name: Populus typ
-    dutch_name: populier
+    dutch_name: populier type
   classification:
     order:
     family_latin:
@@ -66179,7 +66363,7 @@ prunus_pirus_species:
 prunus_pirus_typ:
   name:
     latin_name: Prunus pirus
-    dutch_name: Pruim/Peer
+    dutch_name: Pruim/Peer type
   classification:
     order:
     family_latin:
@@ -67712,7 +67896,7 @@ ranunculus_repens:
 ranunculus_typ:
   name:
     latin_name: Ranunculus typ
-    dutch_name: Ranonkel
+    dutch_name: Ranonkel type
   classification:
     order:
     family_latin:
@@ -67850,7 +68034,7 @@ raphanus_sativus:
 raphanus_typ:
   name:
     latin_name: Raphanus typ
-    dutch_name: Radijs
+    dutch_name: Radijs type
   classification:
     order:
     family_latin:
@@ -68259,52 +68443,6 @@ rhodiola_wallichiana:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhodiola_wallichiana
     paldat: https://www.paldat.org/pub/Rhodiola_wallichiana
     waarneming: https://waarneming.nl/search/?q=rhodiola+wallichiana
-  images: []
-  is_secondary_contributor:
-rhododendron:
-  name:
-    latin_name: Rhododendron
-    dutch_name: rhododendron
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 36 µm
-    size_largest: 50 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: tetrade
-    sculpture: verrucaat
-    sculpture_visibility:
-    aperture: (3-)colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: 36(-50?) µm; verrucaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 rhododendron_catawbiense:
@@ -69595,32 +69733,32 @@ rosa_filipes_cv_kiftsgate_ramblertype:
     waarneming: https://waarneming.nl/search/?q=rosa+filipes
   images: []
   is_secondary_contributor:
-rosa_gallica:
+rosa_gallica_officinalis:
   name:
-    latin_name: Rosa gallica
-    dutch_name:
+    latin_name: Rosa gallica officinalis
+    dutch_name: apothekersroos
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Rosa
   size:
-    size_smallest: 28.1 µm
-    size_largest: 38.6 µm
-    height_px: 96
+    size_smallest: 32.3 µm
+    size_largest: 41.0 µm
+    height_px: 103
   pollen_class_beug: Tricolporat-striat
   pollen_features:
-    shape:
-    sculpture: striaat
+    shape: driehoekig, sferoïd tot licht oblaat
+    sculpture: scabraat tot rugulaat
     sculpture_visibility:
-    aperture: tricolporoïd
+    aperture: tricolporaat; apertuurmembranen mittig geornamenteerd
     aperture_visibility:
     ornamentation:
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: 0.82
+    pe_ratio: 0.26
+    pollen-note: Beug 20.6 Rosa. Monad, isopolair. Middelgroot tot klein polarveld (PolFeldI ca. 0.26). Middelgrootte ca. 38 µm.
   flowering_time:
     start:
     end:
@@ -69628,18 +69766,30 @@ rosa_gallica:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: Pollen Wiki *Rosa gallica* officinalis; soortnaam *Rosa gallica*
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
   frequency_in_non_eu_honey:
   links:
-    pollenX: https://pollenx.eu/species.php?species=Rosa_gallica
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosa_gallica
+    pollenX: https://pollenx.eu/species.php?species=Rosa_gallica_officinalis
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosa_gallica_officinalis
     paldat: https://www.paldat.org/pub/Rosa_gallica
-    waarneming: https://waarneming.nl/search/?q=rosa+gallica
-  images: []
+    waarneming: https://waarneming.nl/search/?q=rosa+gallica+officinalis
+  images:
+    - path: assets/images/by-taxon/rosa_gallica_officinalis/rosa_gallica_officinalis_1.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/rosa_gallica_officinalis/rosa_gallica_officinalis_2.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/rosa_gallica_officinalis/rosa_gallica_officinalis_3.png
+      kind: by_taxon
+      source: by_taxon
+    - path: assets/images/by-taxon/rosa_gallica_officinalis/rosa_gallica_officinalis_4.png
+      kind: by_taxon
+      source: by_taxon
   is_secondary_contributor:
 rosa_glauca:
   name:
@@ -70380,7 +70530,7 @@ rubus_spectabilis:
 rubus_typ:
   name:
     latin_name: Rubus typ
-    dutch_name: braam/framboos
+    dutch_name: braam/framboos type
   classification:
     order:
     family_latin:
@@ -74198,7 +74348,7 @@ senecio_paludosus:
 senecio_typ:
   name:
     latin_name: Senecio typ
-    dutch_name: kruiskruid
+    dutch_name: kruiskruid type
   classification:
     order:
     family_latin:
@@ -74336,7 +74486,7 @@ senecio_vulgaris:
 serratula_typ:
   name:
     latin_name: Serratula tinctoria
-    dutch_name: zaagblad
+    dutch_name: zaagblad type
   classification:
     order:
     family_latin: Asteraceae
@@ -74796,7 +74946,7 @@ sinapis_alba:
 sinapis_typ:
   name:
     latin_name: Sinapis typ
-    dutch_name: Mosterd
+    dutch_name: Mosterd type
   classification:
     order:
     family_latin:
@@ -74883,52 +75033,6 @@ sisymbrium_officinale:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Sisymbrium_officinale
     paldat: https://www.paldat.org/pub/Sisymbrium_officinale
     waarneming: https://waarneming.nl/search/?q=sisymbrium+officinale
-  images: []
-  is_secondary_contributor:
-skimmia:
-  name:
-    latin_name: Skimmia
-    dutch_name: Skimmia
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 32 µm
-    size_largest: 35 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: O/ovaal
-    sculpture: striaat/reticulaat
-    sculpture_visibility:
-    aperture: 5-colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: striaat/reticulaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 skimmia_reevesiana:
@@ -76127,52 +76231,6 @@ spilanthes_oleracea:
     waarneming: https://waarneming.nl/search/?q=spilanthes+oleracea
   images: []
   is_secondary_contributor:
-spiraea:
-  name:
-    latin_name: Spiraea
-    dutch_name: spirea
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 12 µm
-    size_largest: 16 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: onregelm.
-    sculpture: glad
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 spiraea_canescens:
   name:
     latin_name: Spiraea canescens
@@ -76355,52 +76413,6 @@ spiraea_x_vanhouttei:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Spiraea_x
     paldat: https://www.paldat.org/pub/Spiraea_x
     waarneming: https://waarneming.nl/search/?q=spiraea+x
-  images: []
-  is_secondary_contributor:
-spirea:
-  name:
-    latin_name: Spirea
-    dutch_name:
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 stachys:
@@ -77967,52 +77979,6 @@ tagetes_tenuifolia:
     waarneming: https://waarneming.nl/search/?q=tagetes+tenuifolia
   images: []
   is_secondary_contributor:
-tamarix:
-  name:
-    latin_name: Tamarix
-    dutch_name: Tamarix
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 15 µm
-    size_largest: 15 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: ca. rond
-    sculpture: reticulaat
-    sculpture_visibility:
-    aperture: 3-colpaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: reticulaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
 tanacetum_corymbosum:
   name:
     latin_name: Tanacetum corymbosum
@@ -78154,7 +78120,7 @@ tanacetum_vulgare:
 taraxacum_typ:
   name:
     latin_name: Taraxacum typ
-    dutch_name:
+    dutch_name: paardenbloem type
   classification:
     order:
     family_latin:
@@ -79212,52 +79178,6 @@ tilia_tomentosa:
     waarneming: https://waarneming.nl/search/?q=tilia+tomentosa
   images: []
   is_secondary_contributor:
-tilia_type_linde_species:
-  name:
-    latin_name: Tilia type
-    dutch_name:
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest:
-    size_largest:
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape:
-    sculpture:
-    sculpture_visibility:
-    aperture:
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Tilia_type
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_type
-    paldat: https://www.paldat.org/pub/Tilia_type
-    waarneming: https://waarneming.nl/search/?q=tilia+type
-  images: []
-  is_secondary_contributor:
 tilia_x_europaea:
   name:
     latin_name: Tilia x
@@ -79491,7 +79411,7 @@ tradescantia_virginiana:
 tragopogon_typ:
   name:
     latin_name: Tragopogon typ
-    dutch_name: morgenster
+    dutch_name: morgenster type
   classification:
     order:
     family_latin:
@@ -80089,7 +80009,7 @@ tulipa_tarda:
 ulex_typ:
   name:
     latin_name: Ulex typ
-    dutch_name: gaspeldoorn
+    dutch_name: gaspeldoorn type
   classification:
     order:
     family_latin:
@@ -80130,52 +80050,6 @@ ulex_typ:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Ulex_sp
     paldat: https://www.paldat.org/pub/Ulex_sp
     waarneming: https://waarneming.nl/search/?q=ulex+sp
-  images: []
-  is_secondary_contributor:
-urtica:
-  name:
-    latin_name: Urtica
-    dutch_name: brandnetel
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 16 µm
-    size_largest: 16 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond
-    sculpture: glad
-    sculpture_visibility:
-    aperture: 3-poraat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 utricularia_vulgaris:
@@ -81791,7 +81665,7 @@ vicia_tetrasperma:
 vicia_typ:
   name:
     latin_name: Vicia typ
-    dutch_name: Wikke
+    dutch_name: Wikke type
   classification:
     order:
     family_latin:
@@ -81970,52 +81844,6 @@ vincetoxicum_hirundinaria:
     tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Vincetoxicum_hirundinaria
     paldat: https://www.paldat.org/pub/Vincetoxicum_hirundinaria
     waarneming: https://waarneming.nl/search/?q=vincetoxicum+hirundinaria
-  images: []
-  is_secondary_contributor:
-viola:
-  name:
-    latin_name: Viola
-    dutch_name: viool
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 60 µm (~)
-    size_largest: 60 µm (~)
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: vijfkantig
-    sculpture: glad/zwak scabr.
-    sculpture_visibility:
-    aperture: 4-6-colporaat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: glad/zwak scabr.'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
   images: []
   is_secondary_contributor:
 viola_cornuta:
@@ -82470,52 +82298,6 @@ weigelia:
     note_pollen:
   frequency_in_dutch_honey:
   frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey:
-  links:
-    pollenX:
-    tstebler:
-    paldat:
-    waarneming:
-  images: []
-  is_secondary_contributor:
-weigelia_diervilla:
-  name:
-    latin_name: Weigelia/Diervilla
-    dutch_name: Weigelia
-  classification:
-    order:
-    family_latin:
-    family_dutch:
-    tribe:
-    genus:
-  size:
-    size_smallest: 45 µm
-    size_largest: 45 µm
-    height_px:
-  pollen_class_beug:
-  pollen_features:
-    shape: rond
-    sculpture: echinaat
-    sculpture_visibility:
-    aperture: 3-(col?)poraat
-    aperture_visibility:
-    ornamentation:
-    ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: echinaat'
-  flowering_time:
-    start:
-    end:
-  value:
-    nectar_value:
-    pollen_value:
-  note:
-    note_plant:
-    note_honey:
-    note_pollen:
-  frequency_in_dutch_honey:
-  frequency_in_eu_honey:
   frequency_in_non_eu_honey:
   links:
     pollenX:

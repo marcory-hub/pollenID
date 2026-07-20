@@ -1,4 +1,4 @@
-# *Tulipa typ* (tulp)
+# *Tulipa typ* (tulp type)
 
 {{ gallery("tulipa_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Tulipa typ |
-| Nederlands | tulp |
+| Nederlands | tulp type |
 | Grootte | 52 µm |
 | Vorm | ca. O |
 | Apertuur | 1-colpaat |
@@ -20,7 +20,7 @@
 tulipa_typ:
   name:
     latin_name: Tulipa typ
-    dutch_name: tulp
+    dutch_name: tulp type
   classification:
     order: null
     family_latin: null

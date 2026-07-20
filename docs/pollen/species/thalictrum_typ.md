@@ -1,4 +1,4 @@
-# *Thalictrum typ* (ruit)
+# *Thalictrum typ* (ruit type)
 
 {{ gallery("thalictrum_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Thalictrum typ |
-| Nederlands | ruit |
+| Nederlands | ruit type |
 | Grootte | 17 µm-20 µm |
 | Vorm | O of polygonaal |
 | Apertuur | >6-poraat |
@@ -20,7 +20,7 @@
 thalictrum_typ:
   name:
     latin_name: Thalictrum typ
-    dutch_name: ruit
+    dutch_name: ruit type
   classification:
     order: null
     family_latin: null

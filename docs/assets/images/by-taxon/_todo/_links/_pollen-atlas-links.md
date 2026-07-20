@@ -368,7 +368,7 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Anchusa_azurea) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anchusa_azurea) · [Paldat](https://www.paldat.org/pub/Anchusa_azurea) · [Waarneming.nl](https://waarneming.nl/search/?q=anchusa+azurea)
 
-## anemone
+## anemone_typ
 *Anemone*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=anemone)
@@ -3878,11 +3878,6 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Rosa_filipes) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosa_filipes) · [Paldat](https://www.paldat.org/pub/Rosa_filipes) · [Waarneming.nl](https://waarneming.nl/search/?q=rosa+filipes)
 
-## rosa_gallica
-*Rosa gallica*
-
-[PollenX](https://pollenx.eu/species.php?species=Rosa_gallica) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rosa_gallica) · [Paldat](https://www.paldat.org/pub/Rosa_gallica) · [Waarneming.nl](https://waarneming.nl/search/?q=rosa+gallica)
-
 ## rosa_glauca
 *Rosa glauca*
 
@@ -4603,7 +4598,7 @@ rode esdoorn
 
 [PollenX](https://pollenx.eu/species.php?species=Tilia_tomentosa) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_tomentosa) · [Paldat](https://www.paldat.org/pub/Tilia_tomentosa) · [Waarneming.nl](https://waarneming.nl/search/?q=tilia+tomentosa)
 
-## tilia_type_linde_species
+## tilia_typ
 *Tilia type*
 
 [PollenX](https://pollenx.eu/species.php?species=Tilia_type) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tilia_type) · [Paldat](https://www.paldat.org/pub/Tilia_type) · [Waarneming.nl](https://waarneming.nl/search/?q=tilia+type)

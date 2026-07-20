@@ -1,4 +1,4 @@
-# Dipsacus
+# *Rhododendron typ* (rhododendron type)
 
 ## Identificatienotities
 
@@ -15,5 +15,4 @@ Automatisch aangemaakt op basis van een endpoint-vermelding in de van der Ham sl
 
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
-- `PK met 3 equatoriale pori (triporaat) -> pori niet uitstekend - indien ornamentatie echinaat dan stekels kleiner dan 1 um -> PK groter dan 60 um - ornamentatie echinaat`
-
+- `Vier PK bij elkaar - tetrade -> Individuele PK stevig verbonden - tricolpaat of tricolporaat`

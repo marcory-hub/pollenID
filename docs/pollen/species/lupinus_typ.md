@@ -1,4 +1,4 @@
-# *Lupinus typ* (lupine)
+# *Lupinus typ* (lupine type)
 
 {{ gallery("lupinus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Lupinus typ |
-| Nederlands | lupine |
+| Nederlands | lupine type |
 | Grootte | 29 µm |
 | Vorm | ∆ |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 lupinus_typ:
   name:
     latin_name: Lupinus typ
-    dutch_name: lupine
+    dutch_name: lupine type
   classification:
     order: null
     family_latin: null

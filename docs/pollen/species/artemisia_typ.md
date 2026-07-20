@@ -1,4 +1,4 @@
-# *Artemisia typ* (bijvoet/alsem)
+# *Artemisia typ* (bijvoet/alsem type)
 
 {{ gallery("artemisia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Artemisia typ |
-| Nederlands | bijvoet/alsem |
+| Nederlands | bijvoet/alsem type |
 | Grootte | 22 µm |
 | Vorm | O |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 artemisia_typ:
   name:
     latin_name: Artemisia typ
-    dutch_name: bijvoet/alsem
+    dutch_name: bijvoet/alsem type
   classification:
     order: null
     family_latin: null

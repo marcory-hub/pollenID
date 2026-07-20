@@ -1,4 +1,4 @@
-# *Tragopogon typ* (morgenster)
+# *Tragopogon typ* (morgenster type)
 
 {{ gallery("tragopogon_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Tragopogon typ |
-| Nederlands | morgenster |
+| Nederlands | morgenster type |
 | Grootte | 44 µm |
 | Vorm | drie-/zeskantig |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 tragopogon_typ:
   name:
     latin_name: Tragopogon typ
-    dutch_name: morgenster
+    dutch_name: morgenster type
   classification:
     order: null
     family_latin: null

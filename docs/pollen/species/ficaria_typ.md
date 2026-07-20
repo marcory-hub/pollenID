@@ -1,4 +1,4 @@
-# *Ficaria typ* (speenkruid)
+# *Ficaria typ* (speenkruid type)
 
 {{ gallery("ficaria_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Ficaria typ |
-| Nederlands | speenkruid |
+| Nederlands | speenkruid type |
 | Grootte | 36 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 ficaria_typ:
   name:
     latin_name: Ficaria typ
-    dutch_name: speenkruid
+    dutch_name: speenkruid type
   classification:
     order: null
     family_latin: null

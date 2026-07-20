@@ -1,4 +1,4 @@
-# *Callicarpa typ* (Callicarpa)
+# *Callicarpa typ* (Callicarpa type)
 
 {{ gallery("callicarpa_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Callicarpa typ |
-| Nederlands | Callicarpa |
+| Nederlands | Callicarpa type |
 | Grootte | 35 µm-40 µm |
 | Vorm | (∆)/O |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 callicarpa_typ:
   name:
     latin_name: Callicarpa typ
-    dutch_name: Callicarpa
+    dutch_name: Callicarpa type
   classification:
     order: null
     family_latin: null

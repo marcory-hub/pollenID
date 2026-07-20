@@ -1,49 +1,48 @@
-# *Philadelphus* (boerenjasmijn)
+# *Urtica typ* (brandnetel type)
 
-{{ gallery("philadelphus") }}
+{{ gallery("urtica_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Philadelphus |
-| Nederlands | boerenjasmijn |
-| Familie | Hydrangeaceae (hortensiafamilie) |
-| Grootte | 14 µm-16 µm |
-| Vorm | rond tot driekantig |
-| Apertuur | 3-colporaat |
-| Sculptuur | zeer fijn reticulaat |
-| pollen-note | Kerkvliet: zeer fijn reticulaat |
+| Latijn | Urtica typ |
+| Nederlands | brandnetel type |
+| Grootte | 16 µm |
+| Vorm | rond |
+| Apertuur | 3-poraat |
+| Sculptuur | glad |
+| pollen-note | Kerkvliet: glad |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-philadelphus:
+urtica_typ:
   name:
-    latin_name: Philadelphus
-    dutch_name: boerenjasmijn
+    latin_name: Urtica typ
+    dutch_name: brandnetel type
   classification:
     order: null
-    family_latin: Hydrangeaceae
-    family_dutch: hortensiafamilie
+    family_latin: null
+    family_dutch: null
     tribe: null
-    genus: Philadelphus
+    genus: null
   size:
-    size_smallest: 14 µm
+    size_smallest: 16 µm
     size_largest: 16 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: rond tot driekantig
-    sculpture: zeer fijn reticulaat
+    shape: rond
+    sculpture: glad
     sculpture_visibility: null
-    aperture: 3-colporaat
+    aperture: 3-poraat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: zeer fijn reticulaat'
+    pollen-note: 'Kerkvliet: glad'
   flowering_time:
     start: null
     end: null
@@ -71,16 +70,6 @@ philadelphus:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-<details><summary>Pad 1</summary>
-
 - Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
-
-</details>
-
-<details><summary>Pad 2</summary>
-
-- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
-
-</details>
 
 </details>

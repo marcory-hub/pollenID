@@ -1,4 +1,4 @@
-# *Symphoricarpos typ* (sneeuwbes)
+# *Symphoricarpos typ* (sneeuwbes type)
 
 {{ gallery("symphoricarpos_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Symphoricarpos typ |
-| Nederlands | sneeuwbes |
+| Nederlands | sneeuwbes type |
 | Grootte | 44 µm |
 | Vorm | ∆ |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 symphoricarpos_typ:
   name:
     latin_name: Symphoricarpos typ
-    dutch_name: sneeuwbes
+    dutch_name: sneeuwbes type
   classification:
     order: null
     family_latin: null

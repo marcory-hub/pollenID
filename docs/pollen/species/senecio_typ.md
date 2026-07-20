@@ -1,4 +1,4 @@
-# *Senecio typ* (kruiskruid)
+# *Senecio typ* (kruiskruid type)
 
 {{ gallery("senecio_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Senecio typ |
-| Nederlands | kruiskruid |
+| Nederlands | kruiskruid type |
 | Grootte | 27 µm |
 | Vorm | driekantig |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 senecio_typ:
   name:
     latin_name: Senecio typ
-    dutch_name: kruiskruid
+    dutch_name: kruiskruid type
   classification:
     order: null
     family_latin: null

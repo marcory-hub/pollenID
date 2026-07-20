@@ -1,26 +1,26 @@
-# *Urtica* (brandnetel)
+# *Lysimachia typ* (bastaardwederik type)
 
-{{ gallery("urtica") }}
+{{ gallery("lysimachia_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Urtica |
-| Nederlands | brandnetel |
-| Grootte | 16 µm |
-| Vorm | rond |
-| Apertuur | 3-poraat |
-| Sculptuur | glad |
-| pollen-note | Kerkvliet: glad |
+| Latijn | Lysimachia typ |
+| Nederlands | bastaardwederik type |
+| Grootte | 23 µm |
+| Vorm | rond tot driekantig |
+| Apertuur | 3-colporaat |
+| Sculptuur | reticulaat |
+| pollen-note | Kerkvliet: reticulaat |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-urtica:
+lysimachia_typ:
   name:
-    latin_name: Urtica
-    dutch_name: brandnetel
+    latin_name: Lysimachia typ
+    dutch_name: bastaardwederik type
   classification:
     order: null
     family_latin: null
@@ -28,21 +28,21 @@ urtica:
     tribe: null
     genus: null
   size:
-    size_smallest: 16 µm
-    size_largest: 16 µm
+    size_smallest: 23 µm
+    size_largest: 23 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: rond
-    sculpture: glad
+    shape: rond tot driekantig
+    sculpture: reticulaat
     sculpture_visibility: null
-    aperture: 3-poraat
+    aperture: 3-colporaat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: glad'
+    pollen-note: 'Kerkvliet: reticulaat'
   flowering_time:
     start: null
     end: null
@@ -70,6 +70,6 @@ urtica:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
 
 </details>

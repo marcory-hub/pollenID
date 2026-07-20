@@ -1,4 +1,4 @@
-# *Lilium typ* (lelie)
+# *Lilium typ* (lelie type)
 
 {{ gallery("lilium_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Lilium typ |
-| Nederlands | lelie |
+| Nederlands | lelie type |
 | Grootte | 80 µm |
 | Vorm | ca. ovaal |
 | Apertuur | 1-colpaat |
@@ -20,7 +20,7 @@
 lilium_typ:
   name:
     latin_name: Lilium typ
-    dutch_name: lelie
+    dutch_name: lelie type
   classification:
     order: null
     family_latin: null

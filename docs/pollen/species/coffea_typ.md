@@ -1,4 +1,4 @@
-# *Coffea typ* (koffie)
+# *Coffea typ* (koffie type)
 
 {{ gallery("coffea_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Coffea typ |
-| Nederlands | koffie |
+| Nederlands | koffie type |
 | Grootte | 25 µm-32 µm |
 | Vorm | ca O |
 | Apertuur | 3-4-colporaat |
@@ -20,7 +20,7 @@
 coffea_typ:
   name:
     latin_name: Coffea typ
-    dutch_name: koffie
+    dutch_name: koffie type
   classification:
     order: null
     family_latin: null

@@ -1,4 +1,4 @@
-# *Helianthemum typ* (zonneroosje)
+# *Helianthemum typ* (zonneroosje type)
 
 {{ gallery("helianthemum_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Helianthemum typ |
-| Nederlands | zonneroosje |
+| Nederlands | zonneroosje type |
 | Grootte | 43 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 helianthemum_typ:
   name:
     latin_name: Helianthemum typ
-    dutch_name: zonneroosje
+    dutch_name: zonneroosje type
   classification:
     order: null
     family_latin: null

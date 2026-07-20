@@ -1,4 +1,4 @@
-# Filipendula
+# *Filipendula typ* (moerasspirea type)
 
 ## Identificatienotities
 
@@ -19,4 +19,3 @@ Caprifoliaceae Kamperfoeliefamilie. Sambucus (vlier), zeer klein (17 μm) en vri
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
 - `Ornamentatie echinaat -> stekels met cyclindrische basis - zuiltjes in infratectum recht - niet vertakt`
-

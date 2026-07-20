@@ -1,4 +1,4 @@
-# *Lonicera typ* (kamperfoelie)
+# *Lonicera typ* (kamperfoelie type)
 
 {{ gallery("lonicera_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Lonicera typ |
-| Nederlands | kamperfoelie |
+| Nederlands | kamperfoelie type |
 | Grootte | 60 µm (~) |
 | Vorm | rond tot driekantig |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 lonicera_typ:
   name:
     latin_name: Lonicera typ
-    dutch_name: kamperfoelie
+    dutch_name: kamperfoelie type
   classification:
     order: null
     family_latin: null

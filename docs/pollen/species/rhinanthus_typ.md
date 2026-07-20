@@ -1,4 +1,4 @@
-# *Rhinanthus typ* (ratelaar)
+# *Rhinanthus typ* (ratelaar type)
 
 {{ gallery("rhinanthus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Rhinanthus typ |
-| Nederlands | ratelaar |
+| Nederlands | ratelaar type |
 | Grootte | 30 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colpaat (?) |
@@ -20,7 +20,7 @@
 rhinanthus_typ:
   name:
     latin_name: Rhinanthus typ
-    dutch_name: ratelaar
+    dutch_name: ratelaar type
   classification:
     order: null
     family_latin: null

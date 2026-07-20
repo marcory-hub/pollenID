@@ -1,26 +1,26 @@
-# *Skimmia* (Skimmia)
+# *Melampyrum typ* (hengel type)
 
-{{ gallery("skimmia") }}
+{{ gallery("melampyrum_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Skimmia |
-| Nederlands | Skimmia |
-| Grootte | 32 µm-35 µm |
-| Vorm | O/ovaal |
-| Apertuur | 5-colporaat |
-| Sculptuur | striaat/reticulaat |
-| pollen-note | Kerkvliet: striaat/reticulaat |
+| Latijn | Melampyrum typ |
+| Nederlands | hengel type |
+| Grootte | 21 µm |
+| Vorm | rond tot driekantig |
+| Apertuur | 3-colpaat |
+| Sculptuur | scabraat |
+| pollen-note | Kerkvliet: scabraat |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-skimmia:
+melampyrum_typ:
   name:
-    latin_name: Skimmia
-    dutch_name: Skimmia
+    latin_name: Melampyrum typ
+    dutch_name: hengel type
   classification:
     order: null
     family_latin: null
@@ -28,21 +28,21 @@ skimmia:
     tribe: null
     genus: null
   size:
-    size_smallest: 32 µm
-    size_largest: 35 µm
+    size_smallest: 21 µm
+    size_largest: 21 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: O/ovaal
-    sculpture: striaat/reticulaat
+    shape: rond tot driekantig
+    sculpture: scabraat
     sculpture_visibility: null
-    aperture: 5-colporaat
+    aperture: 3-colpaat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: striaat/reticulaat'
+    pollen-note: 'Kerkvliet: scabraat'
   flowering_time:
     start: null
     end: null
@@ -70,6 +70,6 @@ skimmia:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met groeven
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
 
 </details>

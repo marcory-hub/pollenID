@@ -1,4 +1,4 @@
-# *Cytisus typ* (brem)
+# *Cytisus typ* (brem type)
 
 {{ gallery("cytisus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Cytisus typ |
-| Nederlands | brem |
+| Nederlands | brem type |
 | Grootte | 30 µm-33 µm |
 | Vorm | ∆/O |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 cytisus_typ:
   name:
     latin_name: Cytisus typ
-    dutch_name: brem
+    dutch_name: brem type
   classification:
     order: null
     family_latin: null

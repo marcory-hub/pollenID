@@ -1,4 +1,4 @@
-# *Nemophila typ* (bosliefje)
+# *Nemophila typ* (bosliefje type)
 
 {{ gallery("nemophila_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Nemophila typ |
-| Nederlands | bosliefje |
+| Nederlands | bosliefje type |
 | Grootte | 18 µm-22 µm |
 | Vorm | ∆(/O) |
 | Apertuur | 3-syncolpaat |
@@ -20,7 +20,7 @@
 nemophila_typ:
   name:
     latin_name: Nemophila typ
-    dutch_name: bosliefje
+    dutch_name: bosliefje type
   classification:
     order: null
     family_latin: null

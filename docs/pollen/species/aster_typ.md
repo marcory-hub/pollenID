@@ -1,4 +1,4 @@
-# *Aster typ* (aster)
+# *Aster typ* (aster type)
 
 {{ gallery("aster_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Aster typ |
-| Nederlands | aster |
+| Nederlands | aster type |
 | Grootte | 26 µm |
 | Vorm | rond |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 aster_typ:
   name:
     latin_name: Aster typ
-    dutch_name: aster
+    dutch_name: aster type
   classification:
     order: null
     family_latin: null

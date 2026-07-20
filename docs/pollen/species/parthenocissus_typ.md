@@ -1,4 +1,4 @@
-# *Parthenocissus typ* (wilde wingerd)
+# *Parthenocissus typ* (wilde wingerd type)
 
 {{ gallery("parthenocissus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Parthenocissus typ |
-| Nederlands | wilde wingerd |
+| Nederlands | wilde wingerd type |
 | Grootte | 36 µm-38 µm |
 | Vorm | O/ zwak ovaal |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 parthenocissus_typ:
   name:
     latin_name: Parthenocissus typ
-    dutch_name: wilde wingerd
+    dutch_name: wilde wingerd type
   classification:
     order: null
     family_latin: null

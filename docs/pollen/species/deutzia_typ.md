@@ -1,4 +1,4 @@
-# *Deutzia typ* (Deutzia)
+# *Deutzia typ* (Deutzia type)
 
 {{ gallery("deutzia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Deutzia typ |
-| Nederlands | Deutzia |
+| Nederlands | Deutzia type |
 | Grootte | 17 µm |
 | Vorm | rond tot driekantig, afhankelijk van de ligging |
 | Apertuur | tricolporaat |
@@ -20,7 +20,7 @@
 deutzia_typ:
   name:
     latin_name: Deutzia typ
-    dutch_name: Deutzia
+    dutch_name: Deutzia type
   classification:
     order: null
     family_latin: null

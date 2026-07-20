@@ -3,7 +3,7 @@
     "key": "kerkvliet_determinatietabel",
     "title": "Determinatietabel (Kerkvliet) — interactieve tabel",
     "locale": "nl",
-    "source": "Afgeleid uit docs/keys/kerkvliet/kerkvliet-determinatietabel.transcript.md (transcript).",
+    "source": "Kerkvliet determinatietabel",
     "rowCount": 398,
     "sectionCount": 5
   },
@@ -17,18 +17,18 @@
   "rows": [
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Myosotis",
-      "dutch": "vergeet-me-nietje",
+      "latin": "Myosotis typ",
+      "dutch": "vergeet-me-nietje type",
       "vorm": "halter",
       "grootte": "7x5",
       "oppervlak": "glad",
       "opmerkingen": "6-colpaat, maar niet goed zichtbaar",
-      "pollen_key": "myosotis"
+      "pollen_key": "myosotis_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Hydrangea typ",
-      "dutch": "-",
+      "dutch": "hortensia type",
       "vorm": "O/onregelm",
       "grootte": "10-12,5",
       "oppervlak": "glad",
@@ -37,13 +37,13 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Cynoglossum",
-      "dutch": "hondstong",
+      "latin": "Cynoglossum typ",
+      "dutch": "hondstong type",
       "vorm": "ovaal",
       "grootte": "11x8",
       "oppervlak": "glad",
       "opmerkingen": "n-colpaat",
-      "pollen_key": "cynoglossum"
+      "pollen_key": "cynoglossum_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -67,18 +67,18 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Spiraea",
-      "dutch": "spirea",
+      "latin": "Spiraea typ",
+      "dutch": "spirea type",
       "vorm": "onregelm.",
       "grootte": "12-16",
       "oppervlak": "glad",
       "opmerkingen": "3-col(po)raat, soms vouwen",
-      "pollen_key": "spiraea"
+      "pollen_key": "spiraea_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Spiraea japonica",
-      "dutch": "spirea",
+      "dutch": "Japanse spirea",
       "vorm": "О ⁄ ∆",
       "grootte": "12,5",
       "oppervlak": "glad",
@@ -97,13 +97,13 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Philadelphus",
+      "latin": "Philadelphus coronarius",
       "dutch": "boerenjasmijn",
       "vorm": "О ⁄ ∆",
       "grootte": "14-16",
       "oppervlak": "zeer fijn reticulaat",
       "opmerkingen": "3-colporaat, lange colpi met spits coronarium einde, bijna syncolpoaat, porie □, dubbele rand",
-      "pollen_key": "philadelphus"
+      "pollen_key": "philadelphus_coronarius"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -117,13 +117,13 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Urtica",
-      "dutch": "brandnetel",
+      "latin": "Urtica typ",
+      "dutch": "brandnetel type",
       "vorm": "O",
       "grootte": "16",
       "oppervlak": "glad",
       "opmerkingen": "3-poraat, dikke intine van ca 3 µm",
-      "pollen_key": "urtica"
+      "pollen_key": "urtica_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
@@ -148,7 +148,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "S. cantoniensis x S. trilobata",
-      "dutch": "Spirea",
+      "dutch": "Spiraea x vanhouttei",
       "vorm": "ca O",
       "grootte": "17",
       "oppervlak": "glad",
@@ -178,7 +178,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Echium vulgare",
-      "dutch": "slangekruid",
+      "dutch": "slangenkruid",
       "vorm": "eivormig",
       "grootte": "18x16",
       "oppervlak": "glad/zw reticul",
@@ -188,7 +188,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Escallonia typ",
-      "dutch": "Escallonia",
+      "dutch": "Escallonia type",
       "vorm": "O tot О ⁄ ∆ tot ∆",
       "grootte": "18-20",
       "oppervlak": "glad (evt scabr?)",
@@ -228,7 +228,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Sedum typ",
-      "dutch": "vetblad",
+      "dutch": "vetblad type",
       "vorm": "О ⁄ ∆",
       "grootte": "20",
       "oppervlak": "glad/ z striaat",
@@ -248,7 +248,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Hypericum perforatum",
-      "dutch": "Sint Janskruid",
+      "dutch": "St. Janskruid",
       "vorm": "O",
       "grootte": "20(-25)",
       "oppervlak": "glad",
@@ -267,18 +267,18 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Phacelia",
-      "dutch": "phacelia_tanacetifolia",
+      "latin": "Phacelia typ",
+      "dutch": "phacelia type",
       "vorm": "O/zeskantig",
       "grootte": "22",
       "oppervlak": "glad",
       "opmerkingen": "6-colpaat, (3 pseudocolpi)",
-      "pollen_key": "phacelia"
+      "pollen_key": "phacelia_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Nemophila typ",
-      "dutch": "bosliefje",
+      "dutch": "bosliefje type",
       "vorm": "∆(/O)",
       "grootte": "22(18-22)",
       "oppervlak": "glad",
@@ -308,7 +308,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Aesculus hippocastanum",
-      "dutch": "paardekastanje",
+      "dutch": "paardenkastanje",
       "vorm": "ovaal",
       "grootte": "24",
       "oppervlak": "glad",
@@ -338,7 +338,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Rubus typ",
-      "dutch": "braam/framboos",
+      "dutch": "braam/framboos type",
       "vorm": "∆",
       "grootte": "ca. 25",
       "oppervlak": "glad/striaat",
@@ -348,7 +348,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Alnus glutinosa",
-      "dutch": "els",
+      "dutch": "zwarte els (zwart - donkere schors, glutinosa - jonge knoppen zijn kleverig)",
       "vorm": "vijfkantig",
       "grootte": "26",
       "oppervlak": "glad",
@@ -388,7 +388,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Lamium typ",
-      "dutch": "dovenetel",
+      "dutch": "dovenetel type",
       "vorm": "О ⁄ ∆",
       "grootte": "27-30",
       "oppervlak": "glad/scabraat",
@@ -398,7 +398,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Robinia pseudoacacia",
-      "dutch": "acacia",
+      "dutch": "valse acacia",
       "vorm": "∆/O",
       "grootte": "27-31",
       "oppervlak": "glad",
@@ -418,7 +418,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Aesculus carnea",
-      "dutch": "rode paardekast",
+      "dutch": "rode paardekastanje",
       "vorm": "ovaal",
       "grootte": "28",
       "oppervlak": "glad",
@@ -428,7 +428,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Photinia typ",
-      "dutch": "Photinia",
+      "dutch": "glansmispel type",
       "vorm": "О ⁄ ∆",
       "grootte": "28-30",
       "oppervlak": "glad/scabraat",
@@ -438,7 +438,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Malus typ",
-      "dutch": "appel",
+      "dutch": "appel type",
       "vorm": "∆",
       "grootte": "ca. 30",
       "oppervlak": "glad/rugulaat",
@@ -508,7 +508,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Anchusa officinalis",
-      "dutch": "ossetong",
+      "dutch": "gewone ossentong",
       "vorm": "ovaal",
       "grootte": "37x26",
       "oppervlak": "glad/foveolaat",
@@ -518,7 +518,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Berberis typ",
-      "dutch": "zuurbes",
+      "dutch": "zuurbes type",
       "vorm": "O/onregelmatig",
       "grootte": "37-45",
       "oppervlak": "glad",
@@ -528,7 +528,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Allium cepa",
-      "dutch": "ui",
+      "dutch": "ui of tuinui",
       "vorm": "half ovaal",
       "grootte": "39",
       "oppervlak": "glad/zw rugulaat",
@@ -568,7 +568,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Mahonia aquifolium",
-      "dutch": "mahonia",
+      "dutch": "mahonie",
       "vorm": "O/onregelmatig",
       "grootte": "40-50",
       "oppervlak": "glad",
@@ -607,18 +607,18 @@
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
-      "latin": "Viola",
-      "dutch": "viool",
+      "latin": "Viola typ",
+      "dutch": "viool type",
       "vorm": "vijfkantig",
       "grootte": "ca 60",
       "oppervlak": "glad/zwak scabr.",
       "opmerkingen": "4-6-colporaat, dikke ex, cyto:gran (30) er zijn ook soorten van 30 µm",
-      "pollen_key": "viola"
+      "pollen_key": "viola_typ"
     },
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Chamerion angustifolium (synoniem: Epilobium angustifolium)",
-      "dutch": "wilgeroosje",
+      "dutch": "(knikkend) wilgeroosje",
       "vorm": "О ⁄ ∆",
       "grootte": "62-80",
       "oppervlak": "glad",
@@ -628,7 +628,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Viola tricolor",
-      "dutch": "driekl. viooltje",
+      "dutch": "driekleurig viooltje",
       "vorm": "4-5-hoekig",
       "grootte": "70",
       "oppervlak": "glad",
@@ -648,7 +648,7 @@
     {
       "section": "Pollen met een (min of meer) glad oppervlak (psilaat)",
       "latin": "Vinca typ",
-      "dutch": "maagdenpalm",
+      "dutch": "maagdenpalm type",
       "vorm": "O",
       "grootte": "80",
       "oppervlak": "glad",
@@ -677,18 +677,18 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Philadelphus",
+      "latin": "Philadelphus coronarius",
       "dutch": "boerenjasmijn",
       "vorm": "О ⁄ ∆",
       "grootte": "14-16",
       "oppervlak": "zeer fijn reticulaat",
       "opmerkingen": "3-colporaat, lange colpi met spits coronarium einde, bijna syncolpoaat, pore □, dubbele rand",
-      "pollen_key": "philadelphus"
+      "pollen_key": "philadelphus_coronarius"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Deutzia typ",
-      "dutch": "Deutzia",
+      "dutch": "Deutzia type",
       "vorm": "О ⁄ ∆",
       "grootte": "17",
       "oppervlak": "fijn reticulaat",
@@ -697,23 +697,23 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Filipendula",
-      "dutch": "moerasspirea",
+      "latin": "Filipendula typ",
+      "dutch": "moerasspirea type",
       "vorm": "ca O",
       "grootte": "15-20",
       "oppervlak": "reticulaat/scabraat",
       "opmerkingen": "3-colporaat , cyto: gran; nectarloos; geel",
-      "pollen_key": "filipendula"
+      "pollen_key": "filipendula_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Tamarix",
-      "dutch": "Tamarix",
+      "latin": "Tamarix typ",
+      "dutch": "Tamarix type",
       "vorm": "ca O",
       "grootte": "15",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-colpaat, Mediterrane ho",
-      "pollen_key": "tamarix"
+      "pollen_key": "tamarix_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -738,7 +738,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Antirrhinum majus",
-      "dutch": "leeuwebek",
+      "dutch": "grote leeuwebek",
       "vorm": "O",
       "grootte": "16-18",
       "oppervlak": "fijn reticulaat?",
@@ -758,7 +758,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Salix typ",
-      "dutch": "wilg",
+      "dutch": "wilg type",
       "vorm": "ca O",
       "grootte": "17-20",
       "oppervlak": "reticulaat",
@@ -768,7 +768,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Thalictrum typ",
-      "dutch": "ruit",
+      "dutch": "ruit type",
       "vorm": "O of polygonaal",
       "grootte": "17-20",
       "oppervlak": "verrucaat/scabraat",
@@ -778,7 +778,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Osmanthus typ",
-      "dutch": "Osmanthus",
+      "dutch": "Osmanthus type",
       "vorm": "О ⁄ ∆",
       "grootte": "18-20",
       "oppervlak": "reticulaat (als Bn/Si)",
@@ -798,7 +798,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Alyssum typ",
-      "dutch": "schildzaad",
+      "dutch": "schildzaad type",
       "vorm": "ca O",
       "grootte": "18",
       "oppervlak": "reticulaat",
@@ -838,7 +838,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Mercurialis annua",
-      "dutch": "bingelkruid",
+      "dutch": "eenjarig bingelkruid",
       "vorm": "ca O",
       "grootte": "18-23",
       "oppervlak": "reticulaat",
@@ -877,13 +877,13 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Humulus",
-      "dutch": "hop",
+      "latin": "Humulus typ",
+      "dutch": "hop type",
       "vorm": "O",
       "grootte": "20",
       "oppervlak": "scabraat",
       "opmerkingen": "3-poraat, nectarl, hof, aambeeld",
-      "pollen_key": "humulus"
+      "pollen_key": "humulus_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -928,7 +928,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Galium odoratum (syn Asperula odorata)",
-      "dutch": "lieve vr. bedstro",
+      "dutch": "lievevrouwebedstro",
       "vorm": "O",
       "grootte": "20-24",
       "oppervlak": "scabraat/foveolaat",
@@ -958,7 +958,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Daphne mezereum",
-      "dutch": "peperboompje",
+      "dutch": "rood peperboompje",
       "vorm": "O",
       "grootte": "21",
       "oppervlak": "reticulaat",
@@ -968,7 +968,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Betula pendula",
-      "dutch": "berk",
+      "dutch": "ruwe berk",
       "vorm": "О ⁄ ∆",
       "grootte": "21",
       "oppervlak": "scabraat",
@@ -977,13 +977,13 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Melampyrum",
-      "dutch": "hengel",
+      "latin": "Melampyrum typ",
+      "dutch": "hengel type",
       "vorm": "О ⁄ ∆",
       "grootte": "21",
       "oppervlak": "scabraat",
       "opmerkingen": "3-colpaat , scherpe colpi",
-      "pollen_key": "melampyrum"
+      "pollen_key": "melampyrum_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1008,7 +1008,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Deutzia typ",
-      "dutch": "Deutzia",
+      "dutch": "Deutzia type",
       "vorm": "ca O",
       "grootte": "22",
       "oppervlak": "reticulaat",
@@ -1037,13 +1037,13 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Lysimachia",
-      "dutch": "bastaardwederik",
+      "latin": "Lysimachia typ",
+      "dutch": "bastaardwederik type",
       "vorm": "О ⁄ ∆",
       "grootte": "23",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-colporaat, margo",
-      "pollen_key": "lysimachia"
+      "pollen_key": "lysimachia_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1058,7 +1058,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Xanthium italicum",
-      "dutch": "stekelnoot sp.",
+      "dutch": "stekelnoot",
       "vorm": "O",
       "grootte": "23",
       "oppervlak": "scabraat",
@@ -1108,7 +1108,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Verbascum nigrum",
-      "dutch": "zwarte toorts",
+      "dutch": "koningskaars",
       "vorm": "О ⁄ ∆",
       "grootte": "23-28",
       "oppervlak": "reticulaat (als Salix)",
@@ -1118,7 +1118,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Populus typ",
-      "dutch": "populier",
+      "dutch": "populier type",
       "vorm": "onregelmatig O",
       "grootte": "23-31",
       "oppervlak": "scabraat/tectaat",
@@ -1128,7 +1128,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Anthriscus sylvestris",
-      "dutch": "fluitekruid",
+      "dutch": "fluitenkruid",
       "vorm": "ovaal",
       "grootte": "24x15",
       "oppervlak": "reticulaat",
@@ -1228,7 +1228,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Asparagus setaceus",
-      "dutch": "asperge",
+      "dutch": "asperge varen",
       "vorm": "onregelmatig",
       "grootte": "25",
       "oppervlak": "reticulaat",
@@ -1368,7 +1368,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Papaver rhoeas",
-      "dutch": "klaproos",
+      "dutch": "grote klaproos",
       "vorm": "О ⁄ ∆",
       "grootte": "26",
       "oppervlak": "reticulaat/scabraat",
@@ -1388,7 +1388,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Melilotus officinalis",
-      "dutch": "honingklaver",
+      "dutch": "citroengele honingklaver",
       "vorm": "ovaal",
       "grootte": "26",
       "oppervlak": "reticulaat",
@@ -1398,7 +1398,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Euonymus europaeus",
-      "dutch": "kardinaalsmuts",
+      "dutch": "wilde kardinaalsmuts",
       "vorm": "ca ∆",
       "grootte": "26",
       "oppervlak": "reticulaat",
@@ -1408,7 +1408,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Viburnum tinus",
-      "dutch": "-",
+      "dutch": "classification:",
       "vorm": "О ⁄ ∆",
       "grootte": "27",
       "oppervlak": "reticulaat(als Sinap)",
@@ -1448,7 +1448,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Sanguisorba officinalis",
-      "dutch": "pimpernel",
+      "dutch": "grote pimpernel",
       "vorm": "O",
       "grootte": "28-31",
       "oppervlak": "scabraat",
@@ -1467,13 +1467,13 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Anemone",
-      "dutch": "anemoon",
+      "latin": "Anemone typ",
+      "dutch": "anemoon type",
       "vorm": "О ⁄ ∆",
       "grootte": "28",
       "oppervlak": "scabraat",
       "opmerkingen": "3-4-colpaat",
-      "pollen_key": "anemone"
+      "pollen_key": "anemone_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -1498,7 +1498,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Chenopodium album",
-      "dutch": "melganzevoet",
+      "dutch": "melganzenvoet",
       "vorm": "O",
       "grootte": "28",
       "oppervlak": "scabraat",
@@ -1558,7 +1558,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Ulmus typ",
-      "dutch": "iep",
+      "dutch": "iep type",
       "vorm": "ca O",
       "grootte": "29-38",
       "oppervlak": "scabraat/rugulaat?",
@@ -1568,7 +1568,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Lupinus typ",
-      "dutch": "lupine",
+      "dutch": "lupine type",
       "vorm": "∆",
       "grootte": "29",
       "oppervlak": "reticulaat",
@@ -1578,7 +1578,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Thuja typ",
-      "dutch": "Thuja",
+      "dutch": "Thuja type",
       "vorm": "O",
       "grootte": "30",
       "oppervlak": "scabraat",
@@ -1608,7 +1608,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Sinapis arvensis",
-      "dutch": "herik,mosterd",
+      "dutch": "herik",
       "vorm": "О ⁄ ∆",
       "grootte": "30",
       "oppervlak": "reticulaat",
@@ -1648,7 +1648,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Muscari typ",
-      "dutch": "druifhyacinth",
+      "dutch": "druifhyacinth type",
       "vorm": "ca. halfovaal",
       "grootte": "ca. 30",
       "oppervlak": "scabraat",
@@ -1668,7 +1668,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Rhinanthus typ",
-      "dutch": "ratelaar",
+      "dutch": "ratelaar type",
       "vorm": "О ⁄ ∆",
       "grootte": "ca. 30",
       "oppervlak": "fijn reticultaat",
@@ -1678,7 +1678,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Cytisus typ",
-      "dutch": "brem",
+      "dutch": "brem type",
       "vorm": "∆/O",
       "grootte": "30-33",
       "oppervlak": "fijn reticulaat/scabraat",
@@ -1688,7 +1688,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Phlox typ",
-      "dutch": "phlox",
+      "dutch": "phlox type",
       "vorm": "O",
       "grootte": "ca 30-35",
       "oppervlak": "grof reticulaat",
@@ -1708,7 +1708,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Ranunculus typ",
-      "dutch": "boterbloem",
+      "dutch": "Ranonkel type",
       "vorm": "О ⁄ ∆",
       "grootte": "30-39",
       "oppervlak": "verrucaat",
@@ -1778,7 +1778,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Chelidonium majus",
-      "dutch": "stinkende gouwe",
+      "dutch": "Chelidonium majus",
       "vorm": "О ⁄ ∆",
       "grootte": "32",
       "oppervlak": "fijn reticulaat",
@@ -1848,7 +1848,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Origanum vulgare",
-      "dutch": "majoraan",
+      "dutch": "wilde marjolein",
       "vorm": "zeskantig",
       "grootte": "33",
       "oppervlak": "reticulaat",
@@ -1858,7 +1858,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Ranunculus repens",
-      "dutch": "Kruipende boterbl",
+      "dutch": "kruipende boterbloem",
       "vorm": "ca O",
       "grootte": "33",
       "oppervlak": "verrucaat",
@@ -1878,7 +1878,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Carex typ",
-      "dutch": "zegge",
+      "dutch": "zegge type",
       "vorm": "eivormig",
       "grootte": "33-66",
       "oppervlak": "verrucaat",
@@ -1888,7 +1888,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Salvia typ",
-      "dutch": "Salvia",
+      "dutch": "Salvia type",
       "vorm": "zeskantig",
       "grootte": "33-37",
       "oppervlak": "grof reticulaat",
@@ -1938,7 +1938,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Gleditsia triacanthos",
-      "dutch": "Christusdoorn",
+      "dutch": "valse christusdoorn",
       "vorm": "О ⁄ ∆",
       "grootte": "35/28-32",
       "oppervlak": "reticulaat(als Bn)",
@@ -1948,7 +1948,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Tilia typ",
-      "dutch": "linde",
+      "dutch": "linde type",
       "vorm": "ca. O",
       "grootte": "35",
       "oppervlak": "foveolaat",
@@ -1958,7 +1958,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Aconitum typ",
-      "dutch": "ridderspoor",
+      "dutch": "ridderspoor type",
       "vorm": "О ⁄ ∆",
       "grootte": "35",
       "oppervlak": "scabraat",
@@ -1968,7 +1968,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Callicarpa typ",
-      "dutch": "Callicarpa",
+      "dutch": "Callicarpa type",
       "vorm": "(∆)/O",
       "grootte": "35(-40)",
       "oppervlak": "fijn reticulaat",
@@ -1978,7 +1978,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Oxalis typ",
-      "dutch": "klaverzuring",
+      "dutch": "klaverzuring type",
       "vorm": "ca. ∆",
       "grootte": "35-43",
       "oppervlak": "reticulaat",
@@ -1998,7 +1998,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Silene flos-cuculi",
-      "dutch": "koekoeksbloem",
+      "dutch": "echte koekoeksbloem",
       "vorm": "O",
       "grootte": "36",
       "oppervlak": "reticulaat",
@@ -2008,7 +2008,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Cerastium fontanum",
-      "dutch": "gew hoornbloem",
+      "dutch": "gewone hoornbloem",
       "vorm": "O",
       "grootte": "36",
       "oppervlak": "reticulaat",
@@ -2028,7 +2028,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Ficaria typ",
-      "dutch": "speenkruid",
+      "dutch": "speenkruid type",
       "vorm": "О ⁄ ∆",
       "grootte": "36",
       "oppervlak": "scabraat",
@@ -2038,7 +2038,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Veronica typ",
-      "dutch": "div. ereprijs",
+      "dutch": "ereprijs type",
       "vorm": "О ⁄ ∆",
       "grootte": "36(20-40)",
       "oppervlak": "reticulaat/striaat",
@@ -2058,7 +2058,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Parthenocissus typ",
-      "dutch": "wilde wingerd",
+      "dutch": "wilde wingerd type",
       "vorm": "O/ zwak ovaal",
       "grootte": "36-38",
       "oppervlak": "reticulaat",
@@ -2068,7 +2068,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Rhus typhina",
-      "dutch": "azijnboom",
+      "dutch": "fluweelboom",
       "vorm": "О ⁄ ∆",
       "grootte": "37",
       "oppervlak": "reticulaat",
@@ -2098,7 +2098,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Phaseolus vulgaris",
-      "dutch": "spercieboon",
+      "dutch": "gewone boon",
       "vorm": "О ⁄ ∆",
       "grootte": "37",
       "oppervlak": "scabraat",
@@ -2108,7 +2108,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Galeopsis tetrahit",
-      "dutch": "hennepnetel",
+      "dutch": "gewone hennepnetel",
       "vorm": "О ⁄ ∆",
       "grootte": "37",
       "oppervlak": "fijn reticulaat",
@@ -2118,7 +2118,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Lavandula angustifolia",
-      "dutch": "echte lavendel",
+      "dutch": "lavendel",
       "vorm": "zeskantig",
       "grootte": "37-38",
       "oppervlak": "reticulaat(foveolaat",
@@ -2158,7 +2158,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Heracleum sphondylium",
-      "dutch": "bereklauw",
+      "dutch": "gewone bereklauw",
       "vorm": "ovaal",
       "grootte": "39x21",
       "oppervlak": "verrucaat",
@@ -2178,7 +2178,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Vicia cracca",
-      "dutch": "wikke",
+      "dutch": "vogelwikke",
       "vorm": "ovaal",
       "grootte": "39",
       "oppervlak": "reticulaat",
@@ -2188,7 +2188,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Mimulus guttatus",
-      "dutch": "maskerbloem",
+      "dutch": "gele maskerbloem",
       "vorm": "O",
       "grootte": "40",
       "oppervlak": "scabraat",
@@ -2198,7 +2198,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Nigella damascena",
-      "dutch": "juffertje i/h groen",
+      "dutch": "classification:",
       "vorm": "О ⁄ ∆",
       "grootte": "40",
       "oppervlak": "scabraat",
@@ -2208,7 +2208,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Narcissus typ",
-      "dutch": "narcis",
+      "dutch": "narcis type",
       "vorm": "(half)ovaal",
       "grootte": "40-43",
       "oppervlak": "scabraat",
@@ -2218,7 +2218,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Hyacinthus orientalis",
-      "dutch": "hyacinth (sier)",
+      "dutch": "hyacinth",
       "vorm": "onregelmatig O",
       "grootte": "40-50",
       "oppervlak": "reticulaat",
@@ -2228,7 +2228,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Hyacinthus typ",
-      "dutch": "hyacinth",
+      "dutch": "hyacinth type",
       "vorm": "ca. ovaal",
       "grootte": "40-80",
       "oppervlak": "scabraat/reticulaat",
@@ -2248,7 +2248,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Eryngium typ",
-      "dutch": "Kruisdistel",
+      "dutch": "kruisdistel type",
       "vorm": "ovaal",
       "grootte": "41x24",
       "oppervlak": "scabraat",
@@ -2268,7 +2268,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Juglans regia",
-      "dutch": "walnoot",
+      "dutch": "walnootboom",
       "vorm": "O",
       "grootte": "42(35-57)",
       "oppervlak": "scabraat",
@@ -2278,7 +2278,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Helianthemum typ",
-      "dutch": "zonneroosje",
+      "dutch": "zonneroosje type",
       "vorm": "О ⁄ ∆",
       "grootte": "43",
       "oppervlak": "reticulaat",
@@ -2318,7 +2318,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Symphoricarpos typ",
-      "dutch": "sneeuwbes",
+      "dutch": "sneeuwbes type",
       "vorm": "∆",
       "grootte": "44",
       "oppervlak": "scabraat",
@@ -2348,7 +2348,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Narcissus typ",
-      "dutch": "narcis",
+      "dutch": "narcis type",
       "vorm": "halfovaal",
       "grootte": "45-50",
       "oppervlak": "reticulaat/scabraat",
@@ -2388,7 +2388,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Nigella sativa",
-      "dutch": "Nigelle",
+      "dutch": "zwarte komijn",
       "vorm": "∆",
       "grootte": "47",
       "oppervlak": "reticulaat/scabr",
@@ -2397,13 +2397,13 @@
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
-      "latin": "Pisum",
-      "dutch": "erwt",
+      "latin": "Pisum typ",
+      "dutch": "erwt type",
       "vorm": "ovaal",
       "grootte": "48",
       "oppervlak": "reticulaat",
       "opmerkingen": "3-colporaat",
-      "pollen_key": "pisum"
+      "pollen_key": "pisum_typ"
     },
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
@@ -2488,7 +2488,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Lonicera typ",
-      "dutch": "kamperfoelie",
+      "dutch": "kamperfoelie type",
       "vorm": "О ⁄ ∆",
       "grootte": "ca 60",
       "oppervlak": "reticulaat/stekels",
@@ -2498,7 +2498,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Geranium typ",
-      "dutch": "ooievaarsbek e.a.",
+      "dutch": "ooievaarsbek type",
       "vorm": "О",
       "grootte": "60-90",
       "oppervlak": "grof reticulaat",
@@ -2518,7 +2518,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Centranthus ruber",
-      "dutch": "spoorbloem",
+      "dutch": "rode spoorbloem",
       "vorm": "О ⁄ ∆",
       "grootte": "ca 65",
       "oppervlak": "clavaat?",
@@ -2538,7 +2538,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Crocus typ",
-      "dutch": "crocus",
+      "dutch": "crocus type",
       "vorm": "O",
       "grootte": "70-110",
       "oppervlak": "scabraat(?)",
@@ -2558,7 +2558,7 @@
     {
       "section": "Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak",
       "latin": "Lilium typ",
-      "dutch": "lelie",
+      "dutch": "lelie type",
       "vorm": "ca. ovaal",
       "grootte": "ca. 80",
       "oppervlak": "grof reticulaat",
@@ -2608,7 +2608,7 @@
     {
       "section": "Pollen met groeven",
       "latin": "Fragaria vesca",
-      "dutch": "aardbei",
+      "dutch": "bosaardbei",
       "vorm": "∆",
       "grootte": "21",
       "oppervlak": "striaat",
@@ -2718,7 +2718,7 @@
     {
       "section": "Pollen met groeven",
       "latin": "Acer palmatum",
-      "dutch": "Italy red",
+      "dutch": "Japanse esdoorn",
       "vorm": "ca. O",
       "grootte": "27-32",
       "oppervlak": "rugulaat/reticulaat",
@@ -2768,7 +2768,7 @@
     {
       "section": "Pollen met groeven",
       "latin": "Malus typ",
-      "dutch": "appel",
+      "dutch": "appel type",
       "vorm": "∆",
       "grootte": "ca. 30",
       "oppervlak": "glad/rugulaat",
@@ -2787,13 +2787,13 @@
     },
     {
       "section": "Pollen met groeven",
-      "latin": "Skimmia",
-      "dutch": "Skimmia",
+      "latin": "Skimmia typ",
+      "dutch": "Skimmia type",
       "vorm": "O/ovaal",
       "grootte": "32-35",
       "oppervlak": "striaat/reticulaat",
       "opmerkingen": "5-colporaat, zwak bruin",
-      "pollen_key": "skimmia"
+      "pollen_key": "skimmia_typ"
     },
     {
       "section": "Pollen met groeven",
@@ -2828,7 +2828,7 @@
     {
       "section": "Pollen met groeven",
       "latin": "Crataegus typ",
-      "dutch": "meidoorn",
+      "dutch": "meidoorn type",
       "vorm": "О ⁄ ∆",
       "grootte": "40",
       "oppervlak": "onduidelijk striaat",
@@ -2908,7 +2908,7 @@
     {
       "section": "Pollen met groeven",
       "latin": "Tulipa typ",
-      "dutch": "tulp",
+      "dutch": "tulp type",
       "vorm": "ca. O",
       "grootte": "52",
       "oppervlak": "striaat/rugulaat",
@@ -2968,7 +2968,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Crepis typ",
-      "dutch": "streepzaad",
+      "dutch": "streepzaad type",
       "vorm": "drie-/zeskantig",
       "grootte": "22-36",
       "oppervlak": "echinaat T",
@@ -2988,7 +2988,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Bidens typ",
-      "dutch": "tandzaad",
+      "dutch": "tandzaad type",
       "vorm": "O",
       "grootte": "23",
       "oppervlak": "echinaat H",
@@ -2998,7 +2998,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Solidago virgaurea",
-      "dutch": "gulden roede",
+      "dutch": "echte guldenroede",
       "vorm": "O",
       "grootte": "24",
       "oppervlak": "echinaat H",
@@ -3018,7 +3018,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Artemisia typ",
-      "dutch": "bijvoet/alsem",
+      "dutch": "bijvoet/alsem type",
       "vorm": "O",
       "grootte": "22",
       "oppervlak": "echinaat H en",
@@ -3048,7 +3048,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Hieracium typ",
-      "dutch": "havikskruid",
+      "dutch": "havikskruid type",
       "vorm": "drie-/zeskantig",
       "grootte": "25-27",
       "oppervlak": "echinaat T",
@@ -3078,7 +3078,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Taraxacum officinale",
-      "dutch": "paardebloem",
+      "dutch": "paardenbloem",
       "vorm": "drie-/zeskantig",
       "grootte": "25-41(32)",
       "oppervlak": "echinaat T",
@@ -3098,7 +3098,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Aster typ",
-      "dutch": "aster",
+      "dutch": "aster type",
       "vorm": "O",
       "grootte": "26",
       "oppervlak": "echinaat H",
@@ -3108,7 +3108,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Galinsoga typ",
-      "dutch": "knopkruid",
+      "dutch": "knopkruid type",
       "vorm": "O",
       "grootte": "27",
       "oppervlak": "echinaat",
@@ -3118,7 +3118,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Senecio typ",
-      "dutch": "kruiskruid",
+      "dutch": "kruiskruid type",
       "vorm": "∆",
       "grootte": "27",
       "oppervlak": "echinaat H",
@@ -3148,7 +3148,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Campanula portenschlagiana",
-      "dutch": "klokje",
+      "dutch": "Dalmatiëklokje",
       "vorm": "O",
       "grootte": "29",
       "oppervlak": "echinaat",
@@ -3168,7 +3168,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Achillea millefolium",
-      "dutch": "duizendblad",
+      "dutch": "gewoon duizendblad",
       "vorm": "О ⁄ ∆",
       "grootte": "29",
       "oppervlak": "echinaat A",
@@ -3188,7 +3188,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Picris hieracioides",
-      "dutch": "bitterkruid",
+      "dutch": "echt bitterkruid",
       "vorm": "drie-/zeskantig",
       "grootte": "31",
       "oppervlak": "echinaat T",
@@ -3268,7 +3268,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Cosmos typ",
-      "dutch": "Cosmea",
+      "dutch": "cosmea type",
       "vorm": "O",
       "grootte": "36",
       "oppervlak": "echinaat H",
@@ -3308,7 +3308,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Tragopogon typ",
-      "dutch": "morgenster",
+      "dutch": "morgenster type",
       "vorm": "drie-/zeskantig",
       "grootte": "44",
       "oppervlak": "echinaat T",
@@ -3327,13 +3327,13 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Weigelia/Diervilla",
-      "dutch": "Weigelia",
+      "latin": "Weigelia/Diervilla typ",
+      "dutch": "Weigelia type",
       "vorm": "O",
       "grootte": "45",
       "oppervlak": "echinaat",
       "opmerkingen": "3-(col?)poraat, hof",
-      "pollen_key": "weigelia_diervilla"
+      "pollen_key": "weigelia_diervilla_typ"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -3428,7 +3428,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Lonicera typ",
-      "dutch": "kamperfoelie",
+      "dutch": "kamperfoelie type",
       "vorm": "О ⁄ ∆",
       "grootte": "50-65",
       "oppervlak": "echinaat/reticulaat",
@@ -3458,7 +3458,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Carthamus lanatus",
-      "dutch": "saffloer",
+      "dutch": "wollige saffloer",
       "vorm": "O",
       "grootte": "61",
       "oppervlak": "echinaat J",
@@ -3497,13 +3497,13 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Dipsacus",
-      "dutch": "kaardebol",
+      "latin": "Dipsacus typ",
+      "dutch": "kaardebol type",
       "vorm": "O",
       "grootte": "71-90",
       "oppervlak": "echinaat",
       "opmerkingen": "3-col(po)raat",
-      "pollen_key": "dipsacus"
+      "pollen_key": "dipsacus_typ"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -3518,7 +3518,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Knautia typ",
-      "dutch": "-",
+      "dutch": "beemdkroon type",
       "vorm": "O",
       "grootte": "80-110",
       "oppervlak": "echinaat",
@@ -3528,7 +3528,7 @@
     {
       "section": "Pollen met stekels echinaat fenestraat",
       "latin": "Malva typ",
-      "dutch": "kaasjeskruid",
+      "dutch": "kaasjeskruid type",
       "vorm": "O",
       "grootte": "113",
       "oppervlak": "echinaat",
@@ -3597,13 +3597,13 @@
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
-      "latin": "Rhododendron",
-      "dutch": "rhododendron",
+      "latin": "Rhododendron typ",
+      "dutch": "rhododendron type",
       "vorm": "tetrade",
       "grootte": "36(-50?)",
       "oppervlak": "verrucaat",
       "opmerkingen": "(3-)colporaat, cyto: helder",
-      "pollen_key": "rhododendron"
+      "pollen_key": "rhododendron_typ"
     },
     {
       "section": "Pollen met stekels echinaat fenestraat",
@@ -3638,7 +3638,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Astragalus sinicus",
-      "dutch": "milkvetch",
+      "dutch": "hokjespeul",
       "vorm": "ovaal",
       "grootte": "17",
       "oppervlak": "glad?",
@@ -3728,7 +3728,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Mercurialis typ",
-      "dutch": "bingelkruid",
+      "dutch": "bingelkruid type",
       "vorm": "О ⁄ ∆/ovaal",
       "grootte": "23-26",
       "oppervlak": "fijn reticulaat",
@@ -3768,7 +3768,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Coffea typ",
-      "dutch": "koffie",
+      "dutch": "koffie type",
       "vorm": "ca O",
       "grootte": "25-32",
       "oppervlak": "scabraat wsl",
@@ -3778,7 +3778,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Ceratonia silqua",
-      "dutch": "Johannesbroodbo",
+      "dutch": "Johannesbroodboom",
       "vorm": "O",
       "grootte": "25-27",
       "oppervlak": "f reti",
@@ -3798,7 +3798,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Ulex typ",
-      "dutch": "gaspeldoorn",
+      "dutch": "gaspeldoorn type",
       "vorm": "О ⁄ ∆",
       "grootte": "27",
       "oppervlak": "fijn reticulaat",
@@ -3828,7 +3828,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Borreria typ",
-      "dutch": "Borreria",
+      "dutch": "Borreria type",
       "vorm": "O",
       "grootte": "30",
       "oppervlak": "f reticulaat",
@@ -3878,7 +3878,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Euphorbia typ",
-      "dutch": "euphorbia",
+      "dutch": "euphorbia type",
       "vorm": "О ⁄ ∆",
       "grootte": "35-46",
       "oppervlak": "verrucaat/reticul?",
@@ -3938,7 +3938,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Kolkwitzia amabilis",
-      "dutch": "kolkwitzia",
+      "dutch": "koninginnenstruik",
       "vorm": "О ⁄ ∆",
       "grootte": "56",
       "oppervlak": "echinaat",
@@ -3958,7 +3958,7 @@
     {
       "section": "Enkele (sub)tropische pollen (op grootte)",
       "latin": "Asphodelus aestivus",
-      "dutch": "gewone daffodil",
+      "dutch": "gewone affodil",
       "vorm": "half ovaal",
       "grootte": "61",
       "oppervlak": "scabraat",

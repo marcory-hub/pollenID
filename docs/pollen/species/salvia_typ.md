@@ -1,4 +1,4 @@
-# *Salvia typ* (Salvia)
+# *Salvia typ* (Salvia type)
 
 {{ gallery("salvia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Salvia typ |
-| Nederlands | Salvia |
+| Nederlands | Salvia type |
 | Grootte | 33 µm-37 µm |
 | Vorm | zeskantig |
 | Apertuur | ? |
@@ -20,7 +20,7 @@
 salvia_typ:
   name:
     latin_name: Salvia typ
-    dutch_name: Salvia
+    dutch_name: Salvia type
   classification:
     order: null
     family_latin: null

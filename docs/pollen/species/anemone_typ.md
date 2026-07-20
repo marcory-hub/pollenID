@@ -1,48 +1,50 @@
-# *Cosmos typ* (cosmea type)
+# *Anemone typ* (anemoon type)
 
-{{ gallery("cosmos_typ") }}
+{{ gallery("anemone_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Cosmos typ |
-| Nederlands | cosmea type |
-| Grootte | 36 µm |
-| Vorm | O |
-| Apertuur | 3-colporaat |
-| Sculptuur | echinaat H |
-| pollen-note | Kerkvliet: echinaat H |
+| Latijn | Anemone typ |
+| Nederlands | anemoon type |
+| Grootte | 28 µm |
+| Vorm | rond tot driekantig |
+| Apertuur | 3-4-colpaat |
+| Sculptuur | scabraat |
+| pollen-note | Kerkvliet: scabraat |
+| Frequentie in NL-honing | rare |
+| Frequentie in EU-honing | rare |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-cosmos_typ:
+anemone_typ:
   name:
-    latin_name: Cosmos typ
-    dutch_name: cosmea type
+    latin_name: Anemone typ
+    dutch_name: anemoon type
   classification:
     order: null
     family_latin: null
     family_dutch: null
     tribe: null
-    genus: Cosmos
+    genus: null
   size:
-    size_smallest: 36 µm
-    size_largest: 36 µm
+    size_smallest: 28 µm
+    size_largest: 28 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: O
-    sculpture: echinaat H
+    shape: rond tot driekantig
+    sculpture: scabraat
     sculpture_visibility: null
-    aperture: 3-colporaat
+    aperture: 3-4-colpaat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: echinaat H'
+    pollen-note: 'Kerkvliet: scabraat'
   flowering_time:
     start: null
     end: null
@@ -53,8 +55,8 @@ cosmos_typ:
     note_plant: null
     note_honey: null
     note_pollen: null
-  frequency_in_dutch_honey: null
-  frequency_in_eu_honey: null
+  frequency_in_dutch_honey: rare
+  frequency_in_eu_honey: rare
   frequency_in_non_eu_honey: null
   links:
     pollenX: null
@@ -70,6 +72,6 @@ cosmos_typ:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met stekels echinaat fenestraat
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
 
 </details>

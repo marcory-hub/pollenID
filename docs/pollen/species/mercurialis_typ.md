@@ -1,4 +1,4 @@
-# *Mercurialis typ* (bingelkruid)
+# *Mercurialis typ* (bingelkruid type)
 
 {{ gallery("mercurialis_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Mercurialis typ |
-| Nederlands | bingelkruid |
+| Nederlands | bingelkruid type |
 | Grootte | 23 µm-26 µm |
 | Vorm | О ⁄ ∆/ovaal |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 mercurialis_typ:
   name:
     latin_name: Mercurialis typ
-    dutch_name: bingelkruid
+    dutch_name: bingelkruid type
   classification:
     order: null
     family_latin: null

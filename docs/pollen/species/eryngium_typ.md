@@ -1,4 +1,4 @@
-# *Eryngium typ* (kruisdistel)
+# *Eryngium typ* (kruisdistel type)
 
 {{ gallery("eryngium_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Eryngium typ |
-| Nederlands | kruisdistel |
+| Nederlands | kruisdistel type |
 | Grootte | 24 µm-41 µm |
 | Vorm | ovaal |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 eryngium_typ:
   name:
     latin_name: Eryngium typ
-    dutch_name: kruisdistel
+    dutch_name: kruisdistel type
   classification:
     order: null
     family_latin: null

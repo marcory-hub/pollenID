@@ -1,4 +1,4 @@
-# *Sedum typ* (vetblad)
+# *Sedum typ* (vetblad type)
 
 {{ gallery("sedum_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Sedum typ |
-| Nederlands | vetblad |
+| Nederlands | vetblad type |
 | Grootte | 20 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 sedum_typ:
   name:
     latin_name: Sedum typ
-    dutch_name: vetblad
+    dutch_name: vetblad type
   classification:
     order: null
     family_latin: null

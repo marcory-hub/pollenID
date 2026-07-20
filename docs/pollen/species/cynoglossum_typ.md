@@ -1,4 +1,4 @@
-# Cynoglossum
+# *Cynoglossum typ* (hondstong type)
 
 ## Identificatienotities
 
@@ -17,4 +17,3 @@ Ruwbladigenfamilie. Borago (komkommerkruid), bijna bolrond, 10 groeven, poriën 
 Canoniek beslispad in de sleutel voor dit pollen(type):
 
 - `PK kleiner dan 15 um -> colpi kruisvormig (met equatoriale takken)`
-

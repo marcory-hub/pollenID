@@ -1,4 +1,4 @@
-# *Vinca typ* (maagdenpalm)
+# *Vinca typ* (maagdenpalm type)
 
 {{ gallery("vinca_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Vinca typ |
-| Nederlands | maagdenpalm |
+| Nederlands | maagdenpalm type |
 | Grootte | 80 µm |
 | Vorm | rond |
 | Apertuur | tricolporaat |
@@ -20,7 +20,7 @@
 vinca_typ:
   name:
     latin_name: Vinca typ
-    dutch_name: maagdenpalm
+    dutch_name: maagdenpalm type
   classification:
     order: null
     family_latin: null

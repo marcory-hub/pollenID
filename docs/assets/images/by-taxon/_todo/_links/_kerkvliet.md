@@ -240,7 +240,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Crocus_vernus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Crocus_vernus) · [Paldat](https://www.paldat.org/pub/Crocus_vernus) · [Waarneming.nl](https://waarneming.nl/search/?q=crocus+vernus)
 
-## cynoglossum
+## cynoglossum_typ
 *Cynoglossum*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=cynoglossum)
@@ -260,7 +260,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Deutzia_x) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Deutzia_x) · [Paldat](https://www.paldat.org/pub/Deutzia_x) · [Waarneming.nl](https://waarneming.nl/search/?q=deutzia+x)
 
-## dipsacus
+## dipsacus_typ
 *Dipsacus*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=dipsacus)
@@ -275,7 +275,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Dipsacus_pilosus) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_pilosus) · [Paldat](https://www.paldat.org/pub/Dipsacus_pilosus) · [Waarneming.nl](https://waarneming.nl/search/?q=dipsacus+pilosus)
 
-## dipsacus_pollenwiki
+## dipsacus_typ
 *Dipsacus sp.*
 
 [PollenX](https://pollenx.eu/species.php?species=Dipsacus_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Dipsacus_sp) · [Paldat](https://www.paldat.org/pub/Dipsacus_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=dipsacus+sp.)
@@ -400,7 +400,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Ferula_communis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ferula_communis) · [Paldat](https://www.paldat.org/pub/Ferula_communis) · [Waarneming.nl](https://waarneming.nl/search/?q=ferula+communis)
 
-## filipendula
+## filipendula_typ
 *Filipendula*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=filipendula)
@@ -630,7 +630,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Hippophaë_rhamn) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Hippophaë_rhamn) · [Paldat](https://www.paldat.org/pub/Hippophaë_rhamn) · [Waarneming.nl](https://waarneming.nl/search/?q=hippophaë+rhamn)
 
-## humulus
+## humulus_typ
 *Humulus*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=humulus)
@@ -825,7 +825,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Lotus_ulginosis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Lotus_ulginosis) · [Paldat](https://www.paldat.org/pub/Lotus_ulginosis) · [Waarneming.nl](https://waarneming.nl/search/?q=lotus+ulginosis)
 
-## lysimachia
+## lysimachia_typ
 *Lysimachia*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=lysimachia)
@@ -885,7 +885,7 @@ soort meidoorn, geen images online van de pollen
 
 [Waarneming.nl](https://waarneming.nl/search/?q=medicago)
 
-## melampyrum
+## melampyrum_typ
 *Melampyrum*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=melampyrum)
@@ -900,7 +900,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Mespilus_germani) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Mespilus_germani) · [Paldat](https://www.paldat.org/pub/Mespilus_germani) · [Waarneming.nl](https://waarneming.nl/search/?q=mespilus+germani)
 
-## myosotis
+## myosotis_typ
 *Myosotis*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=myosotis)
@@ -990,7 +990,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Petasitis_officinalis) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Petasitis_officinalis) · [Paldat](https://www.paldat.org/pub/Petasitis_officinalis) · [Waarneming.nl](https://waarneming.nl/search/?q=petasitis+officinalis)
 
-## phacelia
+## phacelia_typ
 *Phacelia*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=phacelia)
@@ -1000,7 +1000,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Phaseolus_coccin) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Phaseolus_coccin) · [Paldat](https://www.paldat.org/pub/Phaseolus_coccin) · [Waarneming.nl](https://waarneming.nl/search/?q=phaseolus+coccin)
 
-## philadelphus
+## philadelphus_coronarius
 *Philadelphus*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=philadelphus)
@@ -1015,7 +1015,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Photinia_villosa) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Photinia_villosa) · [Paldat](https://www.paldat.org/pub/Photinia_villosa) · [Waarneming.nl](https://waarneming.nl/search/?q=photinia+villosa)
 
-## pisum
+## pisum_typ
 *Pisum*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=pisum)
@@ -1075,7 +1075,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Rhamnus_frangula) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Rhamnus_frangula) · [Paldat](https://www.paldat.org/pub/Rhamnus_frangula) · [Waarneming.nl](https://waarneming.nl/search/?q=rhamnus+frangula)
 
-## rhododendron
+## rhododendron_typ
 *Rhododendron*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=rhododendron)
@@ -1365,7 +1365,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Serrulata_tinctoria) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Serrulata_tinctoria) · [Paldat](https://www.paldat.org/pub/Serrulata_tinctoria) · [Waarneming.nl](https://waarneming.nl/search/?q=serrulata+tinctoria)
 
-## skimmia
+## skimmia_typ
 *Skimmia*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=skimmia)
@@ -1395,7 +1395,7 @@ soort meidoorn, geen images online van de pollen
 
 [Waarneming.nl](https://waarneming.nl/search/?q=sonchus)
 
-## spiraea
+## spiraea_typ
 *Spiraea*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=spiraea)
@@ -1420,7 +1420,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Spiraea_x) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Spiraea_x) · [Paldat](https://www.paldat.org/pub/Spiraea_x) · [Waarneming.nl](https://waarneming.nl/search/?q=spiraea+x)
 
-## spirea
+## spiraea_typ
 *Spirea*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=spirea)
@@ -1450,7 +1450,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Tagetes_erecta) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Tagetes_erecta) · [Paldat](https://www.paldat.org/pub/Tagetes_erecta) · [Waarneming.nl](https://waarneming.nl/search/?q=tagetes+erecta)
 
-## tamarix
+## tamarix_typ
 *Tamarix*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=tamarix)
@@ -1550,7 +1550,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Ulex_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Ulex_sp) · [Paldat](https://www.paldat.org/pub/Ulex_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=ulex+sp)
 
-## urtica
+## urtica_typ
 *Urtica*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=urtica)
@@ -1625,7 +1625,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Vinca_sp) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Vinca_sp) · [Paldat](https://www.paldat.org/pub/Vinca_sp) · [Waarneming.nl](https://waarneming.nl/search/?q=vinca+sp.)
 
-## viola
+## viola_typ
 *Viola*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=viola)
@@ -1660,7 +1660,7 @@ soort meidoorn, geen images online van de pollen
 
 [PollenX](https://pollenx.eu/species.php?species=Viscum_album) · [T Stebler](https://pollen.tstebler.ch/MediaWiki/index.php?title=Viscum_album) · [Paldat](https://www.paldat.org/pub/Viscum_album) · [Waarneming.nl](https://waarneming.nl/search/?q=viscum+album)
 
-## weigelia_diervilla
+## weigelia_diervilla_typ
 *Weigelia/Diervilla*
 
 [Waarneming.nl](https://waarneming.nl/search/?q=weigelia)

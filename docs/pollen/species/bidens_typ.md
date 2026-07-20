@@ -1,4 +1,4 @@
-# *Bidens typ* (tandzaad)
+# *Bidens typ* (tandzaad type)
 
 {{ gallery("bidens_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Bidens typ |
-| Nederlands | tandzaad |
+| Nederlands | tandzaad type |
 | Grootte | 23 µm |
 | Vorm | rond |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 bidens_typ:
   name:
     latin_name: Bidens typ
-    dutch_name: tandzaad
+    dutch_name: tandzaad type
   classification:
     order: null
     family_latin: null

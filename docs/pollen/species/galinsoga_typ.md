@@ -1,4 +1,4 @@
-# *Galinsoga typ* (knopkruid)
+# *Galinsoga typ* (knopkruid type)
 
 {{ gallery("galinsoga_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Galinsoga typ |
-| Nederlands | knopkruid |
+| Nederlands | knopkruid type |
 | Grootte | 27 µm |
 | Vorm | rond |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 galinsoga_typ:
   name:
     latin_name: Galinsoga typ
-    dutch_name: knopkruid
+    dutch_name: knopkruid type
   classification:
     order: null
     family_latin: null

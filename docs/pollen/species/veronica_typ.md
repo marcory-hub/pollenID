@@ -1,4 +1,4 @@
-# *Veronica typ* (ereprijs)
+# *Veronica typ* (ereprijs type)
 
 {{ gallery("veronica_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Veronica typ |
-| Nederlands | ereprijs |
+| Nederlands | ereprijs type |
 | Grootte | 20 µm-40 µm |
 | Vorm | О ⁄ ∆ |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 veronica_typ:
   name:
     latin_name: Veronica typ
-    dutch_name: ereprijs
+    dutch_name: ereprijs type
   classification:
     order: null
     family_latin: null

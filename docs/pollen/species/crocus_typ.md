@@ -1,4 +1,4 @@
-# *Crocus typ* (crocus)
+# *Crocus typ* (crocus type)
 
 {{ gallery("crocus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Crocus typ |
-| Nederlands | crocus |
+| Nederlands | crocus type |
 | Grootte | 70 µm-110 µm |
 | Vorm | O |
 | Apertuur | syn(?)-colpaat |
@@ -20,7 +20,7 @@
 crocus_typ:
   name:
     latin_name: Crocus typ
-    dutch_name: crocus
+    dutch_name: crocus type
   classification:
     order: null
     family_latin: null

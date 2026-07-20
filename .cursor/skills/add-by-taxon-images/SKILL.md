@@ -18,7 +18,8 @@ Run after atlas PNGs land in `docs/assets/images/by-taxon/<slug>/` (or a filled
 ## Preconditions
 
 - Screenshots under **`by-taxon/<slug>/`**, not only `_todo/`.
-- Folder name = canonical **`pollen_key`** (ASCII `genus_species`).
+- Folder name = canonical **`pollen_key`** (ASCII `genus_species`, or `genus_typ` for type aggregates).
+- Type aggregates: latin `Genus typ`, dutch `{vernacular} type` (never `sp.` / `spp.` / `soorten`). See `project-context.mdc`.
 - New YAML image rows: `kind` / `source` = `by_taxon` only (sync does this).
   Do not invent atlas-specific `source`; do not strip historical ones.
 - Agent notes in **both** `_todo/_links/_kerkvliet.md` and
@@ -30,12 +31,13 @@ Run after atlas PNGs land in `docs/assets/images/by-taxon/<slug>/` (or a filled
    present; remove empty `_todo` stub).
 2. **Apply every `agent:` / `Agent:` note** for the batch from **both** link
    files (and any confirmed global rename). Typical tasks:
-   - **Rename / replace key**: OCR/truncated slug → `genus_species`. Rename
+   - **Rename / replace key**: OCR/truncated slug → `genus_species` (or `genus_typ`
+     when no species epithet). Rename
      `by-taxon/<old>/` if present; update Kerkvliet JSON `pollen_key` (and
      latin/dutch) when the taxon is in that key; rename/merge YAML key; drop
      duplicate stubs. Prefer Pollen Wiki spelling when the note says so; other
      spellings in `note` / `latin` (see
-     `docs/naslag/synoniemen-en-basioniemen.md`).
+     `docs/naslag/synoniemen-en-basioniemen.md`). Update all references in one pass.
    - **YAML fields** when supplied: `dutch`, `flowering_time.start` / `.end` (1–12),
      `nectar_value` / `pollen_value`, `note`. Map `(np)N` to both values = N
      unless told otherwise.

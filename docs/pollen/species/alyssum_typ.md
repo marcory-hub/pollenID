@@ -1,4 +1,4 @@
-# *Alyssum typ* (schildzaad)
+# *Alyssum typ* (schildzaad type)
 
 {{ gallery("alyssum_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Alyssum typ |
-| Nederlands | schildzaad |
+| Nederlands | schildzaad type |
 | Grootte | 18 µm |
 | Vorm | ca O |
 | Apertuur | 3-colpaat |
@@ -20,7 +20,7 @@
 alyssum_typ:
   name:
     latin_name: Alyssum typ
-    dutch_name: schildzaad
+    dutch_name: schildzaad type
   classification:
     order: null
     family_latin: null

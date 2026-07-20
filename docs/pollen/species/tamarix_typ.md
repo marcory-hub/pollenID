@@ -1,26 +1,26 @@
-# *Melampyrum* (hengel)
+# *Tamarix typ* (Tamarix type)
 
-{{ gallery("melampyrum") }}
+{{ gallery("tamarix_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Melampyrum |
-| Nederlands | hengel |
-| Grootte | 21 µm |
-| Vorm | rond tot driekantig |
+| Latijn | Tamarix typ |
+| Nederlands | Tamarix type |
+| Grootte | 15 µm |
+| Vorm | ca. rond |
 | Apertuur | 3-colpaat |
-| Sculptuur | scabraat |
-| pollen-note | Kerkvliet: scabraat |
+| Sculptuur | reticulaat |
+| pollen-note | Kerkvliet: reticulaat |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-melampyrum:
+tamarix_typ:
   name:
-    latin_name: Melampyrum
-    dutch_name: hengel
+    latin_name: Tamarix typ
+    dutch_name: Tamarix type
   classification:
     order: null
     family_latin: null
@@ -28,13 +28,13 @@ melampyrum:
     tribe: null
     genus: null
   size:
-    size_smallest: 21 µm
-    size_largest: 21 µm
+    size_smallest: 15 µm
+    size_largest: 15 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: rond tot driekantig
-    sculpture: scabraat
+    shape: ca. rond
+    sculpture: reticulaat
     sculpture_visibility: null
     aperture: 3-colpaat
     aperture_visibility: null
@@ -42,7 +42,7 @@ melampyrum:
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: scabraat'
+    pollen-note: 'Kerkvliet: reticulaat'
   flowering_time:
     start: null
     end: null

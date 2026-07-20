@@ -1,4 +1,4 @@
-# *Ulex typ* (gaspeldoorn)
+# *Ulex typ* (gaspeldoorn type)
 
 {{ gallery("ulex_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Ulex typ |
-| Nederlands | gaspeldoorn |
+| Nederlands | gaspeldoorn type |
 | Grootte | 27 µm |
 | Vorm | rond tot driekantig |
 | Apertuur | 3-colp(or)aat |
@@ -20,7 +20,7 @@
 ulex_typ:
   name:
     latin_name: Ulex typ
-    dutch_name: gaspeldoorn
+    dutch_name: gaspeldoorn type
   classification:
     order: null
     family_latin: null

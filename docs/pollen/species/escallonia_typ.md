@@ -1,4 +1,4 @@
-# *Escallonia typ* (Escallonia)
+# *Escallonia typ* (Escallonia type)
 
 {{ gallery("escallonia_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Escallonia typ |
-| Nederlands | Escallonia |
+| Nederlands | Escallonia type |
 | Grootte | 18 µm-20 µm |
 | Vorm | O tot О ⁄ ∆ tot ∆ |
 | Apertuur | tricolporaat |
@@ -20,7 +20,7 @@
 escallonia_typ:
   name:
     latin_name: Escallonia typ
-    dutch_name: Escallonia
+    dutch_name: Escallonia type
   classification:
     order: null
     family_latin: null

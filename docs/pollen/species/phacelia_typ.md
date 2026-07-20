@@ -1,4 +1,4 @@
-# Phacelia
+# *Phacelia typ* (phacelia type)
 
 ## Identificatienotities
 
@@ -36,4 +36,3 @@ Canoniek beslispad in de sleutel voor dit pollen(type):
 - SB: 5
 - EB: 9
 - Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
-

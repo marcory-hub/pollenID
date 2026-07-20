@@ -1,4 +1,4 @@
-# *Crepis typ* (streepzaad)
+# *Crepis typ* (streepzaad type)
 
 {{ gallery("crepis_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Crepis typ |
-| Nederlands | streepzaad |
+| Nederlands | streepzaad type |
 | Grootte | 22 µm-36 µm |
 | Vorm | drie-/zeskantig |
 | Apertuur | 3-colporaat |
@@ -20,7 +20,7 @@
 crepis_typ:
   name:
     latin_name: Crepis typ
-    dutch_name: streepzaad
+    dutch_name: streepzaad type
   classification:
     order: null
     family_latin: null

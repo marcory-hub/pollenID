@@ -8,6 +8,8 @@ description: Update and extend data/pollen.yaml as the single source of truth (s
 ## Goal
 - Keep `data/pollen.yaml` as the SoT, with minimal diffs and no invented taxa/paths.
 - **Dutch names:** If sure of the standard Dutch vernacular, set `dutch_name` (and `family_dutch` when sure) without asking. When editing a taxon, also fill other empty `dutch_name` fields you know. Do not invent uncertain names.
+- **Type aggregates:** `pollen_key` = `genus_typ`; `latin_name` = `Genus typ`; `dutch_name` = `{vernacular} type`. Never use `sp.`, `spp.`, `species`, or `soorten` in those labels. When renaming a key, update yaml, keys JSON, species pages, by-taxon folders/images, and references together.
+- **Sizes:** Beug (primary) sizes stay in `size.*`. Add Kerkvliet sizes to `pollen_features.pollen-note` (`Kerkvliet: … µm`); do not replace Beug size fields.
 
 ## Canonical entry shape
 ```yaml

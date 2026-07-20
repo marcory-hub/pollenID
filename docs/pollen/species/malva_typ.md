@@ -1,4 +1,4 @@
-# *Malva typ* (kaasjeskruid)
+# *Malva typ* (kaasjeskruid type)
 
 {{ gallery("malva_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Malva typ |
-| Nederlands | kaasjeskruid |
+| Nederlands | kaasjeskruid type |
 | Grootte | 113 µm |
 | Vorm | O |
 | Apertuur | >50-poraat |
@@ -20,7 +20,7 @@
 malva_typ:
   name:
     latin_name: Malva typ
-    dutch_name: kaasjeskruid
+    dutch_name: kaasjeskruid type
   classification:
     order: null
     family_latin: null

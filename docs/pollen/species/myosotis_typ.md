@@ -1,26 +1,26 @@
-# *Tamarix* (Tamarix)
+# *Myosotis typ* (vergeet-me-nietje type)
 
-{{ gallery("tamarix") }}
+{{ gallery("myosotis_typ") }}
 
 ## Kenmerken
 
 | Veld | Waarde |
 |---|---|
-| Latijn | Tamarix |
-| Nederlands | Tamarix |
-| Grootte | 15 µm |
-| Vorm | ca. rond |
-| Apertuur | 3-colpaat |
-| Sculptuur | reticulaat |
-| pollen-note | Kerkvliet: reticulaat |
+| Latijn | Myosotis typ |
+| Nederlands | vergeet-me-nietje type |
+| Grootte | 7 µm |
+| Vorm | halter |
+| Apertuur | 6-colpaat |
+| Sculptuur | glad |
+| pollen-note | Kerkvliet: glad |
 
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-tamarix:
+myosotis_typ:
   name:
-    latin_name: Tamarix
-    dutch_name: Tamarix
+    latin_name: Myosotis typ
+    dutch_name: vergeet-me-nietje type
   classification:
     order: null
     family_latin: null
@@ -28,21 +28,21 @@ tamarix:
     tribe: null
     genus: null
   size:
-    size_smallest: 15 µm
-    size_largest: 15 µm
+    size_smallest: 7 µm
+    size_largest: 7 µm
     height_px: null
   pollen_class_beug: null
   pollen_features:
-    shape: ca. rond
-    sculpture: reticulaat
+    shape: halter
+    sculpture: glad
     sculpture_visibility: null
-    aperture: 3-colpaat
+    aperture: 6-colpaat
     aperture_visibility: null
     ornamentation: null
     ornamentation_visibility: null
     polarity: null
     pe_ratio: null
-    pollen-note: 'Kerkvliet: reticulaat'
+    pollen-note: 'Kerkvliet: glad'
   flowering_time:
     start: null
     end: null
@@ -70,6 +70,6 @@ tamarix:
 ### Kerkvliet
 <details><summary>kerkvliet_determinatietabel</summary>
 
-- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+- Sectie: Pollen met een (min of meer) glad oppervlak (psilaat)
 
 </details>

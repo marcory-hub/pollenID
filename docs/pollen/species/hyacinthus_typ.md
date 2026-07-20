@@ -1,4 +1,4 @@
-# *Hyacinthus typ* (hyacinth)
+# *Hyacinthus typ* (hyacinth type)
 
 {{ gallery("hyacinthus_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Hyacinthus typ |
-| Nederlands | hyacinth |
+| Nederlands | hyacinth type |
 | Grootte | 40 µm-80 µm |
 | Vorm | ca. ovaal |
 | Apertuur | 1-colpaat (literatuur) |
@@ -20,7 +20,7 @@
 hyacinthus_typ:
   name:
     latin_name: Hyacinthus typ
-    dutch_name: hyacinth
+    dutch_name: hyacinth type
   classification:
     order: null
     family_latin: null

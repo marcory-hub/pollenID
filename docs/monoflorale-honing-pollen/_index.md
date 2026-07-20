@@ -275,13 +275,13 @@
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_1.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_1.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_2.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_2.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
     <figure class="pid-scale-item">
-      <img src="../../assets/images/by-taxon/citrus_spp_rutaceae/citrus_spp_rutaceae_3.png" style="height: 83px; width: auto;" alt="Citrus spp">
+      <img src="../../assets/images/by-taxon/citrus_typ/citrus_spp_rutaceae_3.png" style="height: 83px; width: auto;" alt="Citrus spp">
     </figure>
   </div>
 </div> 

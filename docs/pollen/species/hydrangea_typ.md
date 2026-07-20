@@ -1,4 +1,4 @@
-# *Hydrangea typ*
+# *Hydrangea typ* (hortensia type)
 
 {{ gallery("hydrangea_typ") }}
 
@@ -7,6 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Hydrangea typ |
+| Nederlands | hortensia type |
 | Grootte | 10 µm-12.5 µm |
 | Vorm | O/onregelm |
 | Apertuur | 3-colporaat |
@@ -19,7 +20,7 @@
 hydrangea_typ:
   name:
     latin_name: Hydrangea typ
-    dutch_name: null
+    dutch_name: hortensia type
   classification:
     order: null
     family_latin: null

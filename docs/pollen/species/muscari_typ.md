@@ -1,4 +1,4 @@
-# *Muscari typ* (druifhyacinth)
+# *Muscari typ* (druifhyacinth type)
 
 {{ gallery("muscari_typ") }}
 
@@ -7,7 +7,7 @@
 | Veld | Waarde |
 |---|---|
 | Latijn | Muscari typ |
-| Nederlands | druifhyacinth |
+| Nederlands | druifhyacinth type |
 | Grootte | 30 µm |
 | Vorm | ca. halfovaal |
 | Apertuur | 1-colpaat |
@@ -20,7 +20,7 @@
 muscari_typ:
   name:
     latin_name: Muscari typ
-    dutch_name: druifhyacinth
+    dutch_name: druifhyacinth type
   classification:
     order: null
     family_latin: null
