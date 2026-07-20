@@ -12,6 +12,10 @@
 
 - [Vergelijking pollen kleurprotocollen](pollen-staining-protocols.md)
 
+## Site
+
+- [Site-architectuur (GitHub)](site-architectuur.md)
+
 ## Scripts
 
 - [Scripts](scripts.md)

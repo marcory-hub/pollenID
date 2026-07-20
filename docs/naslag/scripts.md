@@ -22,3 +22,14 @@
 ```
 
 `pollen_class_beug` labels: Polyad, Tetrad, Dyad, Vesiculat, Inaperturat, Monoporat, Monocolpat, Syncolpat, Dicolpat, Dicolporat, Tricolpat-psilat, Tricolporat-psilat, Tricol-clavat, Tricol-echinat, Tricolpat-striat, Tricolporat-striat, Tricolpat-reticulat, Tricolporat-reticulat, Stephanocolpat, Stephanocolporat, Pericolpat, Pericolporat, Heterocolpat, Fenestrat, Diporat, Triporat, Stephanoporat, Periporat.
+
+## Keys / Kerkvliet
+
+| Script | Doel |
+| :--- | :--- |
+| `scripts/inject_pollen_keys_into_key_json.py` | Zet `pollen_key` op Kerkvliet-rijen (match op Latijn ↔ YAML-slug) |
+| `scripts/slim_pollen_key_endpoints.py` | Strip inline taxonvelden uit key-JSON wanneer slug in YAML staat |
+| `scripts/extract_key_paths.py` | Kerkvliet-sectie per taxon voor species-pagina's |
+| `scripts/merge_pollen.py` | Legacy: merge Kerkvliet-inlinevelden naar pollen-YAML |
+
+Zie [Site-architectuur (GitHub)](site-architectuur.md).

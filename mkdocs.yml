@@ -84,6 +84,7 @@ nav:
       - Boekweit: monoflorale-honing-pollen/boekweithoning.md
   - Naslag:
       - Overzicht: naslag/_index.md
+      - Site-architectuur: naslag/site-architectuur.md
       - Synoniemen en basioniemen: naslag/synoniemen-en-basioniemen.md
       - Pollen kleurprotocollen: naslag/pollen-staining-protocols.md
       - Scripts: naslag/scripts.md
