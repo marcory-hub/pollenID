@@ -251,16 +251,66 @@
     return out;
   }
 
+  function oppervlakFromPollenEntry(entry) {
+    if (!entry || typeof entry !== "object") return "";
+    const sc = morphWithVisibility(entry.sculpture, entry.sculpture_visibility);
+    if (sc) return sc;
+    return morphWithVisibility(entry.ornamentation, entry.ornamentation_visibility);
+  }
+
+  function opmerkingenFromPollenEntry(entry) {
+    if (!entry || typeof entry !== "object") return "";
+    const ap = morphWithVisibility(entry.aperture, entry.aperture_visibility);
+    const sc =
+      entry.sculpture != null && String(entry.sculpture).trim()
+        ? String(entry.sculpture).trim()
+        : "";
+    const orn = morphWithVisibility(entry.ornamentation, entry.ornamentation_visibility);
+    if (ap && orn && sc) return ap + "; " + orn;
+    if (ap) return ap;
+    if (orn && !sc) return orn;
+    return "";
+  }
+
+  /** Slim rows: { section, pollen_key }; legacy rows may still carry inline text. */
   /** @param {Record<string, unknown>} pollenIndex */
-  function mergedPollenRowView(r, pollenIndex) {
-    // JSON row is SoT for Kerkvliet morphology; pollen.json only supplies images + link key.
-    if (!r || !pollenIndex) return null;
+  function resolveKerkvlietRowView(r, pollenIndex) {
+    if (!r) return null;
+    pollenIndex = pollenIndex || {};
     const pk = normalizePollenKey(r.pollen_key);
-    if (!pk || !pollenIndex[pk]) return null;
-    const e = /** @type {Record<string, unknown>} */ (pollenIndex[pk]);
+    const entry =
+      pk && pollenIndex[pk]
+        ? /** @type {Record<string, unknown>} */ (pollenIndex[pk])
+        : null;
+
+    const latin =
+      entry && entry.latin != null ? String(entry.latin) : String(r.latin || "");
+    const dutch =
+      entry && entry.dutch != null ? String(entry.dutch) : String(r.dutch || "");
+    const vorm =
+      entry && entry.shape != null ? String(entry.shape) : String(r.vorm || "");
+    const grootte =
+      (entry && formatSizeFromPollen(entry.size)) || String(r.grootte || "");
+    const oppervlak = entry ? oppervlakFromPollenEntry(entry) : String(r.oppervlak || "");
+    const opmerkingen = entry
+      ? opmerkingenFromPollenEntry(entry)
+      : String(r.opmerkingen || "");
+    const images = entry
+      ? pollenRowImagesFromIndex(entry)
+      : Array.isArray(r.images)
+        ? r.images
+        : [];
+
     return {
-      images: pollenRowImagesFromIndex(e),
       pollen_key: pk,
+      latin: latin,
+      dutch: dutch,
+      vorm: vorm,
+      grootte: grootte,
+      oppervlak: oppervlak,
+      opmerkingen: opmerkingen,
+      images: images,
+      entryFull: entry,
     };
   }
 
@@ -636,25 +686,23 @@
         if (normalizeSectionTitle(r.section) !== selectedSectionKey) return;
         totalInSection += 1;
 
-        const pv = mergedPollenRowView(r, pollenIndex);
-        const grootteDisp = String(r.grootte || "");
+        const rv = resolveKerkvlietRowView(r, pollenIndex);
+        if (!rv) return;
+
+        const grootteDisp = String(rv.grootte || "");
 
         const maxUm = parseMaxUm(grootteDisp || "");
         const cls = sizeClassFromMaxUm(maxUm);
         if (selectedSize !== "alle" && cls !== selectedSize) return;
 
-        const latinHay = String(r.latin || "");
-        const dutchHay = String(r.dutch || "");
-        const vormHay = String(r.vorm || "");
-        const grootteHay = String(r.grootte || "");
-        const oppHay = String(r.oppervlak || "");
-        const opmHay = String(r.opmerkingen || "");
-        const pkResolved =
-          pv && pv.pollen_key ? pv.pollen_key : normalizePollenKey(r.pollen_key);
-        const entryFull =
-          pkResolved && pollenIndex[pkResolved]
-            ? /** @type {Record<string, unknown>} */ (pollenIndex[pkResolved])
-            : null;
+        const latinHay = String(rv.latin || "");
+        const dutchHay = String(rv.dutch || "");
+        const vormHay = String(rv.vorm || "");
+        const grootteHay = String(rv.grootte || "");
+        const oppHay = String(rv.oppervlak || "");
+        const opmHay = String(rv.opmerkingen || "");
+        const pkResolved = rv.pollen_key || normalizePollenKey(r.pollen_key);
+        const entryFull = rv.entryFull;
         const hay = (
           latinHay +
           " " +
@@ -674,12 +722,7 @@
           .trim();
         if (query && hay.indexOf(query) === -1) return;
 
-        const rowImages =
-          pv && Array.isArray(pv.images) && pv.images.length > 0
-            ? pv.images
-            : Array.isArray(r.images)
-              ? r.images
-              : [];
+        const rowImages = Array.isArray(rv.images) && rv.images.length > 0 ? rv.images : [];
         // Optional full-width image row above the data row (thumbnails only; name stays in the data row).
         if (Array.isArray(rowImages) && rowImages.length > 0) {
           const trImg = document.createElement("tr");
@@ -692,12 +735,12 @@
 
         const tr = document.createElement("tr");
         const cells = [
-          r.latin || "",
-          r.dutch || "",
-          r.vorm || "",
-          r.grootte || "",
-          r.oppervlak || "",
-          r.opmerkingen || "",
+          rv.latin || "",
+          rv.dutch || "",
+          rv.vorm || "",
+          rv.grootte || "",
+          rv.oppervlak || "",
+          rv.opmerkingen || "",
         ];
         cells.forEach(function (cell, idx) {
           const td = document.createElement("td");
