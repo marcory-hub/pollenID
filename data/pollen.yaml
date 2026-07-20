@@ -9441,7 +9441,7 @@ chrysanthemum_grandiflorum:
   is_secondary_contributor:
 chrysanthemum_leuc:
   name:
-    latin_name: Chrysanthemum leuc
+    latin_name: Leucanthemum vulgare
     dutch_name: margriet
   classification:
     order:
@@ -12531,7 +12531,7 @@ erica_tetralix:
   is_secondary_contributor:
 erigeron_canaden:
   name:
-    latin_name: Erigeron canaden
+    latin_name: Erigeron canadensis
     dutch_name: Canad. fijnstraal
   classification:
     order:
@@ -18782,7 +18782,7 @@ olea_europaea:
   is_secondary_contributor:
 onopordum_acanthium:
   name:
-    latin_name: Onopordon acant
+    latin_name: Onopordum acanthium
     dutch_name: wegdistel
   classification:
     order:
@@ -18829,7 +18829,7 @@ onopordum_acanthium:
   is_secondary_contributor:
 onosis_spinoza:
   name:
-    latin_name: Onosis spinoza
+    latin_name: Ononis spinosa
     dutch_name: kattendoorn
   classification:
     order:
@@ -20145,7 +20145,7 @@ populus_nigra:
   is_secondary_contributor:
 portulacca_oleacera:
   name:
-    latin_name: Portulacca oleacera
+    latin_name: Portulaca oleracea
     dutch_name: postelein
   classification:
     order:
@@ -20757,7 +20757,7 @@ punica_granatum:
   is_secondary_contributor:
 pyracantha_coccinea:
   name:
-    latin_name: Pyracantha coccin
+    latin_name: Pyracantha coccinea
     dutch_name: vuurdoorn
   classification:
     order:
@@ -23407,7 +23407,7 @@ senecio_inaequalis:
   is_secondary_contributor:
 senecio_jacobaea:
   name:
-    latin_name: Senecio jacobea
+    latin_name: Senecio jacobaea
     dutch_name: Jacobs kruiskruid
   classification:
     order:
@@ -25528,7 +25528,7 @@ tragopogon_pratensis:
   is_secondary_contributor:
 trifolium_incarnatum:
   name:
-    latin_name: Trifolium incarnat
+    latin_name: Trifolium incarnatum
     dutch_name: incarnaatklaver
   classification:
     order:
@@ -26014,7 +26014,7 @@ vaccinium_myrtillus:
   is_secondary_contributor:
 vaccinium_vitis_idaea:
   name:
-    latin_name: Vaccinium vitis idaea
+    latin_name: Vaccinium vitis-idaea
     dutch_name: vossebes
   classification:
     order:
@@ -30401,7 +30401,7 @@ amni_visnaga:
   is_secondary_contributor:
 amorpha_fructico:
   name:
-    latin_name: Amorpha fructico
+    latin_name: Amorpha fruticosa
     dutch_name: valse indigo
   classification:
     order:
@@ -40980,7 +40980,7 @@ clusiaceae:
   is_secondary_contributor:
 cnicus_benedict:
   name:
-    latin_name: Cnicus benedict
+    latin_name: Cnicus benedictus
     dutch_name: gezeg. distel
   classification:
     order:
@@ -51346,7 +51346,7 @@ hedera_helix:
   is_secondary_contributor:
 hedysarum_corona:
   name:
-    latin_name: Hedysarum corona
+    latin_name: Hedysarum coronarium
     dutch_name: French honeysuc
   classification:
     order:
@@ -52558,7 +52558,7 @@ heuchera_x_brizoides:
   is_secondary_contributor:
 hibiscus_esculent:
   name:
-    latin_name: Hibiscus esculent
+    latin_name: Hibiscus esculentus
     dutch_name: okra
   classification:
     order:
@@ -63551,7 +63551,7 @@ oenothera_parviflora:
   is_secondary_contributor:
 oenothera_tetrag:
   name:
-    latin_name: Oenothera tetrag
+    latin_name: Oenothera tetragyna
     dutch_name: teunisbloem
   classification:
     order:
@@ -68049,7 +68049,7 @@ polygonum_aviculare:
   is_secondary_contributor:
 polygonum_convol:
   name:
-    latin_name: Polygonum convol
+    latin_name: Fallopia convolvulus
     dutch_name: zwaluwtong
   classification:
     order:
@@ -69492,7 +69492,7 @@ prunus_serrulata:
   is_secondary_contributor:
 prunus_spinoza:
   name:
-    latin_name: Prunus spinoza
+    latin_name: Prunus spinosa
     dutch_name: sleedoorn
   classification:
     order:
@@ -70405,7 +70405,7 @@ pycnanthemum_tenuifolium:
   is_secondary_contributor:
 pyracantha_coccin:
   name:
-    latin_name: Pyracantha coccin
+    latin_name: Pyracantha coccinea
     dutch_name: vuurdoorn
   classification:
     order:
@@ -77455,7 +77455,7 @@ senecio_inaequidens:
   is_secondary_contributor:
 senecio_jacobea:
   name:
-    latin_name: Senecio jacobea
+    latin_name: Senecio jacobaea
     dutch_name: Jacobs kruiskruid
   classification:
     order:
@@ -83070,7 +83070,7 @@ trifolium_fragiferum:
   is_secondary_contributor:
 trifolium_incarnat:
   name:
-    latin_name: Trifolium incarnat
+    latin_name: Trifolium incarnatum
     dutch_name: incarnaatklaver
   classification:
     order:
