@@ -1,6 +1,6 @@
 """Shared helpers for pollen display width (px) and external atlas URLs.
 
-Used by export_pollen_json.py and MkDocs macros (main.py) via sys.path.
+Used by export_pollen_json.py and MkDocs macros (scripts/mkdocs_macros.py) via sys.path.
 """
 
 from __future__ import annotations
