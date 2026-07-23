@@ -25093,11 +25093,11 @@ taraxacum_officinale:
 taxus_baccata:
   name:
     latin_name: Taxus baccata
-    dutch_name: taxus
+    dutch_name: taxus, venijnboom
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Taxaceae
+    family_dutch: taxusfamilie
     tribe:
     genus:
   size:

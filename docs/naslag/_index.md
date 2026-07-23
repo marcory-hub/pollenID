@@ -7,6 +7,7 @@
 ## Nomenclatuur
 
 - [Synoniemen en basioniemen](synoniemen-en-basioniemen.md)
+- [Voormalige plantenfamilies](voormalige-families.md)
 
 ## Kleuring en microscopie
 
