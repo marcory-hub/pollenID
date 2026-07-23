@@ -1,5 +1,11 @@
 # Scripts
 
+## MkDocs
+
+| Script | Doel |
+| :--- | :--- |
+| `scripts/mkdocs_macros.py` | MkDocs-macros: `pollen`, `pollen_vis_suffix`, `pollen_img`, `gallery` (via `module_name` in `mkdocs.yml`) |
+
 ## Pollen YAML
 
 | Script | Doel |

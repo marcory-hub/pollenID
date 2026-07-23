@@ -63,8 +63,8 @@ Open http://127.0.0.1:8000 in je browser.
   - `kind` en `source`: corpus of herkomst (bijv. `pollenwiki`, `paldat`, `beug`, `kerkvliet`)
   - optioneel `width_px` / `height_px` per afbeelding (voor beeldverhouding); **weergavebreedte** voor index/sleutels komt uit export: `display_width_px ≈ round(grootste maat in µm × 2,5)`, default **125 px** als er geen maat is.
 - **Externe atlas-URL’s**: standaard gegenereerd naar `pollen.json` vanuit `latin` (`pollenx`, `tstebler`, `paldat`); overschrijf of zet op `null` via optioneel blok `links:` in YAML waar een URL fout is.
-- **Standaardhoogte voor macro’s**: blok `image:` met `height_px` als er geen per-afbeelding `width_px`/`height_px` staat (zie `main.py`).
-- **Pagina met alle YAML-foto’s**: in Markdown `{{ gallery("pollen_key") }}` (macro’s staan in `main.py`).
+- **Standaardhoogte voor macro’s**: blok `image:` met `height_px` als er geen per-afbeelding `width_px`/`height_px` staat (zie `scripts/mkdocs_macros.py`).
+- **Pagina met alle YAML-foto’s**: in Markdown `{{ gallery("pollen_key") }}` (macro’s staan in `scripts/mkdocs_macros.py`).
 - **Na elke YAML-wijziging**: `python scripts/build_docs_data.py` en daarna `mkdocs serve` (of `mkdocs build`).
 - **Niet bewerken**: `docs/data/pollen.json` en `docs/assets/manifests/*.json` worden automatisch gegenereerd.
 - **Validatie (aanbevolen)**:

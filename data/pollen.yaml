@@ -3015,23 +3015,24 @@ allium_schoenoprasum:
     family_latin: Amaryllidaceae
     family_dutch: narcisfamilie
     tribe:
-    genus:
+    genus: Allium
   size:
-    size_smallest: 27 µm
-    size_largest: 29 µm
+    size_smallest: 26 µm
+    size_largest: 26 µm
     height_px: 70
   pollen_class_beug: Monocolpat
   pollen_features:
-    shape: half ovaal, broodvormig, oblaat, sulcaat
-    sculpture: scabraat tot psilaat
+    shape: broodvormig, oblaat
+    sculpture: psilaat tot scabraat
     sculpture_visibility:
     aperture: monocolpaat, sulcaat
     aperture_visibility:
-    ornamentation: geen
+    ornamentation: apertuurmembraan niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: 27 µm; glad/zwak rugulaat'
+    polarity: heteropolair
+    pe_ratio: oblaat
+    pollen-note: 'MiW 26 µm; Beug 9.36 Allium ursinum-typ; exine ca. 1,2-1,6 µm;
+      Kerkvliet: 27-29 µm; glad/zwak rugulaat'
   flowering_time:
     start: 5
     end: 7
@@ -3039,7 +3040,7 @@ allium_schoenoprasum:
     nectar_value: 3
     pollen_value: 0
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Schnittlauch; tstebler familie: Liliaceae'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
@@ -3047,7 +3048,7 @@ allium_schoenoprasum:
   frequency_in_non_eu_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Allium_schoenoprasum
-    tstebler: 
+    tstebler:
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Allium_schoenoprasum
     paldat: https://www.paldat.org/pub/Allium_schoenoprasum
     waarneming: https://waarneming.nl/search/?q=allium+schoenoprasum
@@ -3911,10 +3912,10 @@ anthriscus_sylvestris:
     aperture_visibility:
     ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity: isopolair
-    pe_ratio: prolaat (PoFormI ca. 1.67-1.90)
-    pollen-note: 'Beug 14.11.11 Apiaceae-verzamelgroep; maten 26 (24.2-27.2) en 15
-      (13.1-15.5) µm; Kerkvliet: 24×15 µm; reticulaat'
+    polarity: isopolaar
+    pe_ratio: prolaat (PoFormI ca. 1,67-1,90)
+    pollen-note: 'MiW 26 µm (24,2-27,2) en 15 µm (13,1-15,5); Beug 14.11.11
+      Apiaceae-verzamelgroep; Kerkvliet: 24×15 µm; reticulaat'
   flowering_time:
     start: 5
     end: 6
@@ -3922,7 +3923,7 @@ anthriscus_sylvestris:
     nectar_value: 2
     pollen_value: 2
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Wiesenkerbel, Wiesen-Kerbel'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -10599,29 +10600,30 @@ corylopsis_parcifl:
 corylopsis_pauciflora:
   name:
     latin_name: Corylopsis pauciflora
-    dutch_name:
+    dutch_name: schijnhazelaar
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Hamamelidaceae
+    family_dutch: toverhazelaarsfamilie
     tribe:
-    genus:
+    genus: Corylopsis
   size:
-    size_smallest:
-    size_largest:
+    size_smallest: 26.1 µm
+    size_largest: 29.1 µm
     height_px: 112
-  pollen_class_beug:
+  pollen_class_beug: Tricolpat-reticulat
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot licht driehoekig convex
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: tricolpaat
     aperture_visibility:
-    ornamentation:
+    ornamentation: aperturemembranen zwak geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolaar
+    pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0,83)
+    pollen-note: 'PolFeldI ca. 0,26; MiW 27 µm (26,1-29,1 µm); Beug 21.30 Corylopsis-type;
+      pollenkitt'
   flowering_time:
     start:
     end:
@@ -10629,7 +10631,7 @@ corylopsis_pauciflora:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Armblütiger Scheinhasel'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
@@ -13394,7 +13396,7 @@ fagopyrum_esculentum:
 fallopia_baldschuanica:
   name:
     latin_name: Fallopia baldschuanica
-    dutch_name:
+    dutch_name: bruidsluier
   classification:
     order:
     family_latin:
@@ -14871,7 +14873,7 @@ helianthus_annuus:
 heracleum_sphondylium:
   name:
     latin_name: Heracleum sphondylium
-    dutch_name: gewone bereklauw
+    dutch_name: gewone berenklauw
   classification:
     order:
     family_latin: Apiaceae
@@ -14887,14 +14889,15 @@ heracleum_sphondylium:
     shape: rond, prolaat
     sculpture: verrucaat tot scabraat
     sculpture_visibility:
-    aperture: tricolporaat; porendiameter ca. 5.5 µm; colpi vaak onduidelijk 
-      (lijkt triporaat)
+    aperture: tricolporaat; colpi licht toegespitst, vaak onduidelijk (lijkt triporaat);
+      porendiameter ca. 5,5 µm
     aperture_visibility:
     ornamentation: poren deels licht geornamenteerd
     ornamentation_visibility:
-    polarity: isopolair
-    pe_ratio: prolaat (PoFormI ca. 1.64)
-    pollen-note: "Beug 14.11.2 Heracleum sphondylium; Kerkvliet: 39x21"
+    polarity: isopolaar
+    pe_ratio: prolaat (PoFormI ca. 1,64)
+    pollen-note: 'MiW 38 µm (35,4-41,6 µm); Beug 14.11.2 Heracleum sphondylium;
+      Kerkvliet: 39x21'
   flowering_time:
     start:
     end:
@@ -14902,7 +14905,7 @@ heracleum_sphondylium:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Wiesen-Bärenklau'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -15533,29 +15536,30 @@ ilex_aquifolium:
 impatiens_balsamina:
   name:
     latin_name: Impatiens balsamina
-    dutch_name:
+    dutch_name: tuinbalsemien
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Balsaminaceae
+    family_dutch: balsemienfamilie
     tribe:
-    genus:
+    genus: Impatiens
   size:
-    size_smallest:
-    size_largest:
+    size_smallest: 30.1 µm
+    size_largest: 39.8 µm
     height_px: 112
-  pollen_class_beug:
+  pollen_class_beug: Stephanocolpat
   pollen_features:
-    shape:
-    sculpture:
+    shape: rond tot elliptisch, licht rechthoekig tot cilinder- of broodvormig, oblaat
+    sculpture: reticulaat
     sculpture_visibility:
-    aperture:
+    aperture: stephanocolpaat, tetracolpaat; 4 smalle, korte colpi (brevicolpaat)
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolaar
+    pe_ratio: oblaat (PoFormI ca. 0,65; 0,55-0,66)
+    pollen-note: 'MiW 36 µm (30,1-39,8 µm); Beug 24.11 Impatiens; vele dunne
+      kristalnaalden ca. 25-30 µm in preparaat'
   flowering_time:
     start:
     end:
@@ -15563,7 +15567,7 @@ impatiens_balsamina:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Garten-Springkraut'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
@@ -20585,26 +20589,27 @@ prunus_avium:
     dutch_name: zoete kers
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Rosaceae
+    family_dutch: rozenfamilie
     tribe:
-    genus:
+    genus: Prunus
   size:
-    size_smallest: 37 µm
-    size_largest: 37 µm
+    size_smallest: 37.3 µm
+    size_largest: 39.2 µm
     height_px: 92
   pollen_class_beug: Tricolporat-striat
   pollen_features:
-    shape: ∆
-    sculpture: striaat
+    shape: driehoekig, licht sfereoid tot licht oblaat
+    sculpture: striaat tot rugulaat
     sculpture_visibility:
-    aperture: tricolporoïd
+    aperture: tricolporaat; porendiameter dwars ca. 13,4 µm
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen niet geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note: 'Kerkvliet: 37 µm; striaat'
+    polarity: isopolaar
+    pe_ratio: licht sfereoid tot licht oblaat (PoFormI ca. 0,75)
+    pollen-note: 'PolFeldI ca. 0,21; MiW 39 µm (37,3-39,2 µm); Beug 20.12 Sorbus-groep;
+      Kerkvliet: 37 µm; striaat; verdere gegevens bij PalDat'
   flowering_time:
     start:
     end:
@@ -20612,7 +20617,7 @@ prunus_avium:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Süsskirsche, Vogelkirsche'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey:
@@ -20968,30 +20973,32 @@ pyracantha_coccinea:
   is_secondary_contributor:
 ranunculus_acris:
   name:
-    latin_name: Ranunculus Acris
+    latin_name: Ranunculus acris
     dutch_name: scherpe boterbloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Ranunculaceae
+    family_dutch: ranonkelfamilie
     tribe:
-    genus:
+    genus: Ranunculus
   size:
-    size_smallest: 24.5 µm
-    size_largest: 30 µm
+    size_smallest: 27.0 µm
+    size_largest: 34.9 µm
     height_px: 75
   pollen_class_beug: Tricolpat-psilat
   pollen_features:
-    shape:
-    sculpture: psilaat
+    shape: rond, sfereoid, monade
+    sculpture: verrucaat tot scabraat
     sculpture_visibility:
-    aperture: tricolpaat
+    aperture: 'tricolpaat; ook PK met meer dan 3 colpi (Beug: 3, 6 en 12 gebruikelijk;
+      4, syncolpaat of pericolpaat mogelijk)'
     aperture_visibility:
-    ornamentation:
+    ornamentation: apertuurmembranen korrelig geornamenteerd
     ornamentation_visibility:
-    polarity:
-    pe_ratio:
-    pollen-note:
+    polarity: isopolaar
+    pe_ratio: sfereoid
+    pollen-note: 'PolFeldI ca. 0,23; MiW 29 µm (27,0-34,9 µm); Beug 13.32 Ranunculus
+      acris-typ; verdere gegevens bij PalDat'
   flowering_time:
     start:
     end:
@@ -20999,7 +21006,7 @@ ranunculus_acris:
     nectar_value:
     pollen_value:
   note:
-    note_plant:
+    note_plant: 'Duitse naam: Scharfer Hahnenfuss'
     note_honey:
     note_pollen:
   frequency_in_dutch_honey: rare
@@ -21007,7 +21014,7 @@ ranunculus_acris:
   frequency_in_non_eu_honey:
   links:
     pollenX: https://pollenx.eu/species.php?species=Ranunculus_acris
-    tstebler: 
+    tstebler:
       https://pollen.tstebler.ch/MediaWiki/index.php?title=Ranunculus_acris
     paldat: https://www.paldat.org/pub/Ranunculus_acris
     waarneming: https://waarneming.nl/search/?q=ranunculus+acris

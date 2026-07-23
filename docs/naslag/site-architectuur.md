@@ -14,7 +14,7 @@ data/pollen.yaml          docs/**/*.md          docs/keys/**/*.json
            docs/data/pollen.json
            docs/assets/manifests/*.json
                          │
-                  mkdocs build  (+ main.py macro's)
+                  mkdocs build  (+ scripts/mkdocs_macros.py)
                          │
               GitHub Actions → GitHub Pages (site/)
 ```
@@ -26,7 +26,7 @@ CI: `.github/workflows/ci.yml` — op push naar `main`: `pip install`, `python s
 | Pad | Rol |
 | :--- | :--- |
 | `mkdocs.yml` | Site-naam, URL, `nav`, theme, plugins, globale CSS/JS |
-| `main.py` | MkDocs-macros plugin: `pollen`, `gallery`, … |
+| `scripts/mkdocs_macros.py` | MkDocs-macros plugin: `pollen`, `gallery`, … (`module_name` in `mkdocs.yml`) |
 | `requirements.txt` | MkDocs Material, macros-plugin, PyYAML |
 | `data/pollen.yaml` | **SoT** taxonmetadata (één blok per `pollen_key`) |
 | `docs/` | Alle site-inhoud en statische assets |
@@ -38,7 +38,7 @@ CI: `.github/workflows/ci.yml` — op push naar `main`: `pip install`, `python s
 | Onderdeel | Waarde |
 | :--- | :--- |
 | Theme | Material (`navigation.instant`, tabs, sections) |
-| Plugins | `search` (nl), `tags`, `macros` |
+| Plugins | `search` (nl), `tags`, `macros` (`module_name: scripts/mkdocs_macros`) |
 | Globale CSS | `docs/stylesheets/extra.css` |
 | Globale JS | `pollentabel.js`, `kerkvliet-determinatietabel.js`, `palynoquest.js` |
 | Nav | Expliciete boom; veel pagina's staan **niet** in nav maar worden wel gebouwd |
@@ -103,7 +103,7 @@ Interne links: **relatieve** Markdown-paden tussen bestanden onder `docs/`.
 
 Gallerie-tabellen, lookalikes, naslag, monofloraal-proza. Geen JS-mount.
 
-### 2. Macro-pagina's (`main.py`)
+### 2. Macro-pagina's (`scripts/mkdocs_macros.py`)
 
 Macros lezen `data/pollen.yaml` at build time (Jinja in Markdown):
 

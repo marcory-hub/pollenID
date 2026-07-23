@@ -35,7 +35,8 @@ plugins:
   - search:
       lang: nl
   - tags
-  - macros
+  - macros:
+      module_name: scripts/mkdocs_macros
 
 extra_css:
   - stylesheets/extra.css

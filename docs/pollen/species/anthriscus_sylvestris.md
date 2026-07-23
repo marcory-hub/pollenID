@@ -4,89 +4,25 @@
 
 ## Kenmerken
 
-| Veld | Waarde |
-|---|---|
-| Latijn | Anthriscus sylvestris |
-| Nederlands | fluitenkruid |
-| Familie | Apiaceae (schermbloemenfamilie) |
-| Grootte | 13.1 µm-27.2 µm |
-| Vorm | rond tot licht driehoekig convex, prolaat |
-| Polariteit | isopolair |
-| P/E | prolaat (PoFormI ca. 1.67-1.90) |
-| Apertuur | tricolporaat; smalle colpi; porendiameter ca. 3.2 (2.5-4.6) µm |
-| Sculptuur | verrucaat |
-| Ornamentatie | apertuurmembranen niet geornamenteerd |
-| Bloeitijd | 5-6 |
-| Nectarwaarde | 2 |
-| Pollenwaarde | 2 |
-| pollen-note | Beug 14.11.11 Apiaceae-verzamelgroep; maten 26 (24.2-27.2) en 15 (13.1-15.5) µm; Kerkvliet: 24×15 µm; reticulaat |
-| Frequentie in NL-honing | rare |
-| Frequentie in EU-honing | rare |
-
-
-### SoT (`data/pollen.yaml`)
-
-```yaml
-anthriscus_sylvestris:
-  name:
-    latin_name: Anthriscus sylvestris
-    dutch_name: fluitenkruid
-  classification:
-    order: null
-    family_latin: Apiaceae
-    family_dutch: schermbloemenfamilie
-    tribe: null
-    genus: Anthriscus
-  size:
-    size_smallest: 13.1 µm
-    size_largest: 27.2 µm
-    height_px: 68
-  pollen_class_beug: Tricolporat-psilat
-  pollen_features:
-    shape: rond tot licht driehoekig convex, prolaat
-    sculpture: verrucaat
-    sculpture_visibility: null
-    aperture: tricolporaat; smalle colpi; porendiameter ca. 3.2 (2.5-4.6) µm
-    aperture_visibility: null
-    ornamentation: apertuurmembranen niet geornamenteerd
-    ornamentation_visibility: null
-    polarity: isopolair
-    pe_ratio: prolaat (PoFormI ca. 1.67-1.90)
-    pollen-note: 'Beug 14.11.11 Apiaceae-verzamelgroep; maten 26 (24.2-27.2) en 15
-      (13.1-15.5) µm; Kerkvliet: 24×15 µm; reticulaat'
-  flowering_time:
-    start: 5
-    end: 6
-  value:
-    nectar_value: 2
-    pollen_value: 2
-  note:
-    note_plant: null
-    note_honey: null
-    note_pollen: null
-  frequency_in_dutch_honey: rare
-  frequency_in_eu_honey: rare
-  frequency_in_non_eu_honey: null
-  links:
-    pollenX: https://pollenx.eu/species.php?species=Anthriscus_sylvestris
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthriscus_sylvestris
-    paldat: https://www.paldat.org/pub/Anthriscus_sylvestris
-    waarneming: https://waarneming.nl/search/?q=anthriscus+sylvestris
-  images:
-  - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_2.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_3.png
-    kind: pollenwiki
-    source: pollenwiki
-  - path: assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_4.png
-    kind: pollenwiki
-    source: pollenwiki
-  is_secondary_contributor: null
-```
+| Kenmerk | Waarde |
+| --- | --- |
+| **Latijn** | {{ pollen("anthriscus_sylvestris", "name.latin_name") }} |
+| **Nederlands** | {{ pollen("anthriscus_sylvestris", "name.dutch_name") }} |
+| **Familie** | {{ pollen("anthriscus_sylvestris", "classification.family_latin") }} |
+| **Familie (NL)** | {{ pollen("anthriscus_sylvestris", "classification.family_dutch") }} |
+| **Grootte (klein-groot)** | {{ pollen("anthriscus_sylvestris", "size.size_smallest") }} - {{ pollen("anthriscus_sylvestris", "size.size_largest") }} |
+| **Vorm** | {{ pollen("anthriscus_sylvestris", "pollen_features.shape") }} |
+| **Polariteit** | {{ pollen("anthriscus_sylvestris", "pollen_features.polarity") }} |
+| **P/E-ratio** | {{ pollen("anthriscus_sylvestris", "pollen_features.pe_ratio") }} |
+| **Apertuur** | {{ pollen("anthriscus_sylvestris", "pollen_features.aperture") }} |
+| **Sculptuur** | {{ pollen("anthriscus_sylvestris", "pollen_features.sculpture") }} |
+| **Ornamentatie** | {{ pollen("anthriscus_sylvestris", "pollen_features.ornamentation") }} |
+| **Bloeitijd (maand)** | {{ pollen("anthriscus_sylvestris", "flowering_time.start") }} - {{ pollen("anthriscus_sylvestris", "flowering_time.end") }} |
+| **Nectarwaarde** | {{ pollen("anthriscus_sylvestris", "value.nectar_value") }} |
+| **Pollenwaarde** | {{ pollen("anthriscus_sylvestris", "value.pollen_value") }} |
+| **Frequentie in NL-honing** | {{ pollen("anthriscus_sylvestris", "frequency_in_dutch_honey") }} |
+| **Frequentie in EU-honing** | {{ pollen("anthriscus_sylvestris", "frequency_in_eu_honey") }} |
+| **pollen-note** | {{ pollen("anthriscus_sylvestris", "pollen_features.pollen-note") }} |
 
 ## Determinatiesleutels
 
@@ -147,10 +83,9 @@ anthriscus_sylvestris:
 
 </details>
 
-
 ## Online databases
 
-- pollenX: https://pollenx.eu/species.php?species=Anthriscus_sylvestris
-- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthriscus_sylvestris
-- paldat: https://www.paldat.org/pub/Anthriscus_sylvestris
-- waarneming: https://waarneming.nl/search/?q=anthriscus+sylvestris
+- [PollenX - *Anthriscus sylvestris*](https://pollenx.eu/species.php?species=Anthriscus_sylvestris)
+- [pollenwiki - *Anthriscus sylvestris*](https://pollen.tstebler.ch/MediaWiki/index.php?title=Anthriscus_sylvestris)
+- [Paldat - *Anthriscus sylvestris*](https://www.paldat.org/pub/Anthriscus_sylvestris)
+- [Waarneming.nl - *Anthriscus sylvestris*](https://waarneming.nl/search/?q=anthriscus+sylvestris)
