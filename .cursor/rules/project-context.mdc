@@ -29,6 +29,7 @@ Before architectural or roadmap answers:
 | **Taxon page key paths** | `.cursor/skills/trace-key-paths/SKILL.md`, `scripts/extract_key_paths.py` |
 | **Add pollen (images + YAML + pages)** | `.cursor/skills/add-pollen/SKILL.md` |
 | **Add images + user metadata (single taxon)** | `.cursor/skills/add-images-information/SKILL.md` |
+| **Add tstebler atlas text only** | `.cursor/skills/add-tstebler/SKILL.md` |
 
 ## 3. Knowledge sync
 - Use `[to be verified]` for any assumption not grounded in files read this session.

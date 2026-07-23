@@ -114,6 +114,7 @@ Remove finished `## <pollen_key>` from `_todo/_links/_pollen-atlas-links.md` (an
 
 ## Related
 
+- `.cursor/skills/add-tstebler/SKILL.md` (text only; images already on disk)
 - `.cursor/skills/add-pollen/SKILL.md` (batch / Kerkvliet / renames)
 - `.cursor/skills/add-images-information/EXAMPLES.md` (worked example)
 - `.cursor/skills/update-pollen-yaml/SKILL.md`
