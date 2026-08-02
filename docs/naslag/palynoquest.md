@@ -1,6 +1,15 @@
 # PalynoQuest
 
 <div data-palynoquest class="md-typeset">
+  <p style="margin: 0 0 12px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+    <label for="pq-level">Niveau</label>
+    <select data-pq-level id="pq-level" style="width: min(420px, 100%);">
+      <option value="1">1: Monofloraal</option>
+      <option value="2">2: + Veelvoorkomend in NL</option>
+      <option value="3">3: Alles</option>
+    </select>
+  </p>
+  <p data-pq-progress style="margin: 0 0 12px 0;"></p>
   <div style="display: grid; grid-template-columns: minmax(260px, 420px) minmax(320px, 1fr); gap: 12px 16px; align-items: start;">
     <div style="max-width: 420px;">
       <img data-pq-image style="display: block; height: auto;" />

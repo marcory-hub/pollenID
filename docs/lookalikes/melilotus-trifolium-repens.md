@@ -1,22 +1,38 @@
-# Melilotus Trifolium Repens
+# *Trifolium repens* / *Melilotus* / *Aesculus*
 
-## Identificatienotities
+Pollen die op elkaar lijken in honingpreparaten.
 
-Melilotus is in praktijk vaak kleiner en hoekiger dan *Trifolium repens*.
+| Taxon | Nederlands |
+| :--- | :--- |
+| *Trifolium repens* | witte klaver |
+| *Melilotus* | honingklaver |
+| *Aesculus* | paardenkastanje |
 
-**Verschrompelde of abortieve korrels**
-Vooral bij Rubus (braam), Trifolium repens (witte klaver) en veel tuincultivars (bijv. Saxifraga en Oxalis) vinden we verschrompelde korrels die bij montage niet zwellen. Zulke korrels kunnen zelfs de meerderheid in een monster vormen.
+## Overeenkomsten
 
-### Aanvulling uit referentieset (notes-map)
+- Belangrijk lookalike-cluster in Nederlandse honingpreparaten.
+- Scheiding alleen betrouwbaar op combinatie van grootte, colpusvorm en netwerkstructuur.
 
-- Belangrijk look-a-like cluster in honingpreparaten: *Trifolium repens* - *Melilotus* - *Aesculus*.
-- Gebruik voor scheiding altijd een combinatie van grootte, colpusvorm en zichtbaarheid van netwerkstructuur.
+## Verschillen
 
-## Praktische determinatie
+- *Melilotus*: in praktijk vaak kleiner en hoekiger dan *Trifolium repens*.
+- *Trifolium repens*: gering driehoekig; fijn reticulaat; ca. 21–25 µm.
+- *Aesculus*: meenemen in dezelfde vergelijkingsrij bij twijfel.
 
-- Let op combinatie van vorm, aperturen en oppervlak in zowel pool- als equatoriaal aanzicht.
-- Vergelijk met look-a-like pagina's bij twijfel in gemengde monsters.
-- Gebruik lokale flora en bloeitijd als context voor typebepaling.
+## Verschrompelde of abortieve korrels
+
+Vooral bij *Rubus*, *Trifolium repens* en veel tuincultivars kunnen verschrompelde korrels de meerderheid vormen (zwellen niet bij montage).
+
+## Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      <img src="../assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png" style="height: 58px; width: auto;" alt="Trifolium repens">
+      <figcaption>*T. repens*</figcaption>
+    </figure>
+  </div>
+</div>
 
 ## Drachtplantgegevens (Imkerpedia)
 
@@ -29,4 +45,3 @@ Vooral bij Rubus (braam), Trifolium repens (witte klaver) en veel tuincultivars 
 - SB: 5
 - EB: 10
 - Bron: [Imkerpedia - Drachtplanten](https://www.imkerpedia.nl/wiki/index.php/Drachtplanten)
-

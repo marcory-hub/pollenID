@@ -110,6 +110,36 @@
     return a;
   }
 
+  var LS_LEVEL = "pid_pq_level";
+  var LS_PROGRESS = "pid_pq_progress";
+  var BOX_MAX = 4;
+
+  function readLocalJson(key, fallback) {
+    try {
+      var raw = window.localStorage.getItem(key);
+      if (!raw) return fallback;
+      var parsed = JSON.parse(raw);
+      return parsed == null ? fallback : parsed;
+    } catch (e) {
+      return fallback;
+    }
+  }
+
+  function writeLocalJson(key, value) {
+    try {
+      window.localStorage.setItem(key, JSON.stringify(value));
+    } catch (e) {
+      /* ignore quota / private mode */
+    }
+  }
+
+  function clampLevel(n) {
+    var v = Number(n);
+    if (!isFinite(v) || v < 1) return 1;
+    if (v > 3) return 3;
+    return Math.floor(v);
+  }
+
   function groupKeyFromImagePath(p) {
     if (typeof p !== "string" || !p) return "";
     var base = p.split("/").pop() || "";
@@ -140,6 +170,9 @@
     var state = {
       keys: [],
       items: [],
+      pool: [],
+      level: 1,
+      progress: {},
       current: null,
       selectedKeyJsonUrl: null,
       expectedPath: null,
@@ -167,6 +200,8 @@
     var wrongPreviewEl = qs(root, "[data-pq-wrongpreview]");
     var galleryEl = qs(root, "[data-pq-gallery]");
     var infoEl = qs(root, "[data-pq-info]");
+    var levelEl = qs(root, "[data-pq-level]");
+    var progressEl = qs(root, "[data-pq-progress]");
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -341,6 +376,121 @@
       return groupKeyFromImagePath(item.image) || "";
     }
 
+    function itemInLevel(item, level) {
+      if (level >= 3) return true;
+      var slug = slugForCurrentItem(item);
+      if (!slug) return false;
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") return false;
+      var isMono = !isMissingValue(rec.monofloral_honey_page);
+      if (level <= 1) return isMono;
+      var rank = rec.learning_priority_rank;
+      var hasRank = typeof rank === "number" && isFinite(rank) && rank > 0;
+      return isMono || hasRank;
+    }
+
+    function buildPool(level) {
+      var lv = clampLevel(level);
+      state.level = lv;
+      state.pool = (state.items || []).filter(function (it) {
+        return itemInLevel(it, lv);
+      });
+      return state.pool;
+    }
+
+    function boxForSlug(slug) {
+      if (!slug) return 0;
+      var row = state.progress[slug];
+      if (!row || typeof row !== "object") return 0;
+      var b = Number(row.box);
+      if (!isFinite(b) || b < 0) return 0;
+      if (b > BOX_MAX) return BOX_MAX;
+      return Math.floor(b);
+    }
+
+    function recordAnswer(slug, correct) {
+      if (!slug) return;
+      var row = state.progress[slug];
+      if (!row || typeof row !== "object") {
+        row = { box: 0, seen: 0 };
+      }
+      var box = boxForSlug(slug);
+      var seen = Number(row.seen);
+      if (!isFinite(seen) || seen < 0) seen = 0;
+      seen += 1;
+      if (correct) {
+        box = Math.min(BOX_MAX, box + 1);
+      } else {
+        box = 0;
+      }
+      state.progress[slug] = { box: box, seen: seen };
+      writeLocalJson(LS_PROGRESS, state.progress);
+      renderProgress();
+    }
+
+    function pickWeighted(pool) {
+      if (!Array.isArray(pool) || pool.length === 0) return null;
+      var weights = [];
+      var total = 0;
+      for (var i = 0; i < pool.length; i += 1) {
+        var slug = slugForCurrentItem(pool[i]);
+        var w = BOX_MAX + 1 - boxForSlug(slug);
+        if (w < 1) w = 1;
+        weights.push(w);
+        total += w;
+      }
+      var r = Math.random() * total;
+      var acc = 0;
+      for (var j = 0; j < pool.length; j += 1) {
+        acc += weights[j];
+        if (r < acc) return pool[j];
+      }
+      return pool[pool.length - 1];
+    }
+
+    function renderProgress() {
+      if (!progressEl) return;
+      var pool = state.pool || [];
+      var slugs = {};
+      pool.forEach(function (it) {
+        var s = slugForCurrentItem(it);
+        if (s) slugs[s] = true;
+      });
+      var keys = Object.keys(slugs);
+      var total = keys.length;
+      var mastered = 0;
+      keys.forEach(function (s) {
+        if (boxForSlug(s) >= BOX_MAX) mastered += 1;
+      });
+      var levelLabel =
+        state.level === 1
+          ? "Monofloraal"
+          : state.level === 2
+            ? "Veelvoorkomend in NL"
+            : "Alles";
+      progressEl.innerHTML =
+        '<span class="md-typeset">' +
+        "<strong>Niveau " +
+        esc(String(state.level)) +
+        " (" +
+        esc(levelLabel) +
+        "):</strong> " +
+        esc(String(mastered)) +
+        "/" +
+        esc(String(total)) +
+        " taxa in hoogste box · " +
+        esc(String(pool.length)) +
+        " quizbeelden</span>";
+    }
+
+    function applyLevel(level, restart) {
+      buildPool(level);
+      writeLocalJson(LS_LEVEL, state.level);
+      if (levelEl) levelEl.value = String(state.level);
+      renderProgress();
+      if (restart) newQuestion();
+    }
+
     function clearInfo() {
       if (!infoEl) return;
       infoEl.hidden = true;
@@ -489,7 +639,7 @@
         }
       });
       if (opts.length < 4) {
-        var pool = (state.items || [])
+        var pool = (state.pool && state.pool.length ? state.pool : state.items || [])
           .map(function (it) {
             var t = it && it.strict ? it.strict.endpointText : "";
             return displayNameFromEndpointText(t) || t;
@@ -537,6 +687,7 @@
           setMcqStatus(
             o.correct ? "<strong>Juist.</strong>" : "<strong>Onjuist.</strong>"
           );
+          recordAnswer(slugForCurrentItem(state.current), !!o.correct);
           if (o.correct) {
             clearWrongPreview();
             renderInfo(slugForCurrentItem(state.current));
@@ -550,7 +701,8 @@
     }
 
     function newQuestion() {
-      state.current = pickRandom(state.items);
+      var pool = state.pool && state.pool.length ? state.pool : state.items;
+      state.current = pickWeighted(pool);
       state.diverged = false;
       state.expectedPath = state.current && state.current.expectedPath ? state.current.expectedPath : null;
       state.pendingJump = false;
@@ -559,7 +711,10 @@
         keyWrapEl.replaceChildren();
       }
       if (!state.current) {
-        setStatus('<p class="admonition warning"><strong>Geen quiz-items gevonden.</strong></p>');
+        setStatus(
+          '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>'
+        );
+        renderProgress();
         return;
       }
       if (inputEl) inputEl.value = "";
@@ -592,6 +747,7 @@
           }
         }
       }
+      renderProgress();
     }
 
     function renderExpectedPath() {
@@ -631,22 +787,26 @@
         var disp = displayNameFromEndpointText(full) || full;
         return { t: normText(disp), g: a.grade || "acceptable" };
       });
+      var slug = slugForCurrentItem(state.current);
       if (!guess) {
         setStatus('<p class="admonition warning"><strong>Geen antwoord ingevuld.</strong></p>');
         return;
       }
       if (strict && guess === strict) {
         setStatus('<p class="admonition success"><strong>Correct (strict).</strong></p>');
+        recordAnswer(slug, true);
         return;
       }
       for (var i = 0; i < accepted.length; i += 1) {
         if (accepted[i].t && guess === accepted[i].t) {
           var g = accepted[i].g === "partial" ? "Gedeeltelijk correct." : "Correct (acceptabel).";
           setStatus('<p class="admonition info"><strong>' + esc(g) + "</strong></p>");
+          recordAnswer(slug, accepted[i].g !== "partial");
           return;
         }
       }
       setStatus('<p class="admonition error"><strong>Onjuist.</strong></p>');
+      recordAnswer(slug, false);
     }
 
     function populateKeys() {
@@ -774,6 +934,11 @@
       loadKeyEl.addEventListener("click", function () {
         loadKey(keySelEl ? keySelEl.value : "");
       });
+    if (levelEl) {
+      levelEl.addEventListener("change", function () {
+        applyLevel(levelEl.value, true);
+      });
+    }
 
     loadAll()
       .then(function (all) {
@@ -785,6 +950,10 @@
         state.imageToSlug = buildImageToSlugFromPollen(state.pollen);
         state.endpointToExample = {};
         state.groupToImages = {};
+        state.progress = readLocalJson(LS_PROGRESS, {}) || {};
+        if (typeof state.progress !== "object" || Array.isArray(state.progress)) {
+          state.progress = {};
+        }
         (state.items || []).forEach(function (it) {
           if (!it || !it.strict || !it.strict.endpointText) return;
           var name = displayNameFromEndpointText(it.strict.endpointText) || it.strict.endpointText;
@@ -805,7 +974,7 @@
           }
         });
         populateKeys();
-        newQuestion();
+        applyLevel(readLocalJson(LS_LEVEL, 1), true);
       })
       .catch(function (e) {
         setStatus(

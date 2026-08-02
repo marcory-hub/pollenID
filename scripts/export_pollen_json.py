@@ -9,6 +9,7 @@ Each exported taxon includes:
   - optional sculpture_visibility / aperture_visibility / ornamentation_visibility
     (lm_clear | lm_poor | em_only) when set in YAML
   - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
+  - learning_priority_rank — optional int from YAML (Level 2 PalynoQuest priority)
   - has_taxon_page — true when monofloral_honey_page is set or a page exists under
     docs/pollen/species/<pollen_key>.md; false otherwise. Consumers use it to skip
     linking the Latin name to a non-existent default taxon page.
@@ -189,6 +190,11 @@ def main() -> int:
         mf = monofloral_pages.get(str(key))
         if mf:
             built["monofloral_honey_page"] = mf
+        rank = entry.get("learning_priority_rank")
+        if isinstance(rank, int) and rank > 0:
+            built["learning_priority_rank"] = rank
+        elif isinstance(rank, str) and rank.strip().isdigit():
+            built["learning_priority_rank"] = int(rank.strip())
         # Runtime taxon-page link resolution (pollentabel.js, kerkvliet-determinatietabel.js)
         # defaults to pollen/species/<pollen_key>.md when no monofloral page is set.
         # Flag entries with neither so the JS can skip the link instead of pointing at a 404.
