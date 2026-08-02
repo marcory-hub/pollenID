@@ -4,6 +4,8 @@
 
 Lees per taxon: morfologie (uit `data/pollen.yaml`), dan verschillen met lookalikes. Oefen daarna in [Willekeurig](../../naslag/palynoquest.md).
 
+Beelden zijn true-scale (`largest_µm × 2.5` px) via `pollen_img`, zodat groottes naast elkaar vergelijkbaar zijn.
+
 | Rank | Taxon |
 | ---: | :--- |
 | 1 | [Brassica typ](#1-brassica-typ-kool-type) |
@@ -36,6 +38,29 @@ Morfologie op basis van *Brassica napus* (aggregaatvelden leeg in YAML).
 | Sculptuur | {{ pollen("brassica_napus", "sculpture") }} |
 | pollen-note | {{ pollen("brassica_napus", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
+      <figcaption>*B. napus* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("raphanus_raphanistrum", "assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png") }}
+      <figcaption>*Raphanus* ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
+      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("ligustrum_vulgare", "assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png") }}
+      <figcaption>*Ligustrum* ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Verschil met lookalikes
 
 - *Sinapis* / *Raphanus*: zelfde Brassicaceae-cluster (tricol(por)paat, reticulaat); scheiding op detail van netwerk en apertuur, niet op één veld alleen.
@@ -55,6 +80,29 @@ Morfologie op basis van soorten in het aggregaat (aggregaatvelden leeg in YAML).
 | *P. padus* | {{ pollen("prunus_padus", "size.size_smallest") }} | {{ pollen("prunus_padus", "aperture") }} | {{ pollen("prunus_padus", "sculpture") }} |
 | *P. avium* | {{ pollen("prunus_avium", "size.size_smallest") }} – {{ pollen("prunus_avium", "size.size_largest") }} | {{ pollen("prunus_avium", "aperture") }} | {{ pollen("prunus_avium", "sculpture") }} |
 | *P. spinosa* | {{ pollen("prunus_spinosa", "size.size_smallest") }} – {{ pollen("prunus_spinosa", "size.size_largest") }} | {{ pollen("prunus_spinosa", "aperture") }} | {{ pollen("prunus_spinosa", "sculpture") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
+      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("prunus_avium", "assets/images/by-taxon/prunus_avium/prunus_avium_1.png") }}
+      <figcaption>*P. avium* ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
+      <figcaption>*Acer* ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("rubus_fruticosus", "assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png") }}
+      <figcaption>*Rubus* ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Verschil met lookalikes
 
@@ -78,6 +126,21 @@ Soortpagina: [*Rubus typ*](../../pollen/species/rubus_typ.md)
 | Sculptuur | {{ pollen("rubus_typ", "sculpture") }} |
 | pollen-note | {{ pollen("rubus_typ", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("rubus_fruticosus", "assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png") }}
+      <figcaption>*Rubus* ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
+      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Verschil met lookalikes
 
 - *Prunus padus* / vogelkers: rond tot driekantig afhankelijk van ligging; *Rubus* vaker duidelijk driehoekig (∆) in poolaanzicht.
@@ -100,6 +163,17 @@ Morfologie op basis van *Taraxacum officinale* (aggregaatvelden leeg in YAML).
 | Sculptuur | {{ pollen("taraxacum_officinale", "sculpture") }} |
 | pollen-note | {{ pollen("taraxacum_officinale", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png") }}
+      <figcaption>*T. officinale* ({{ pollen("taraxacum_officinale", "size.size_smallest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Lookalikes
 
 [to be verified]
@@ -118,6 +192,17 @@ Soortpagina: [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md)
 | Sculptuur | {{ pollen("centaurea_cyanus", "sculpture") }} |
 | P/E | {{ pollen("centaurea_cyanus", "pe_ratio") }} |
 | pollen-note | {{ pollen("centaurea_cyanus", "pollen-note") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("centaurea_cyanus", "assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png") }}
+      <figcaption>*C. cyanus* ({{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Lookalikes
 
@@ -138,6 +223,25 @@ Soortpagina: [*Trifolium repens*](../../pollen/species/trifolium_repens.md)
 | Polariteit | {{ pollen("trifolium_repens", "polarity") }} |
 | pollen-note | {{ pollen("trifolium_repens", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("trifolium_repens", "assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png") }}
+      <figcaption>*T. repens* ({{ pollen("trifolium_repens", "size.size_smallest") }}–{{ pollen("trifolium_repens", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("melilotus_officinalis", "assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png") }}
+      <figcaption>*Melilotus* ({{ pollen("melilotus_officinalis", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("aesculus_hippocastanum", "assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_1.png") }}
+      <figcaption>*Aesculus* ({{ pollen("aesculus_hippocastanum", "size.size_smallest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Verschil met lookalikes
 
 - *Melilotus*: in praktijk vaak kleiner en hoekiger.
@@ -151,13 +255,28 @@ Soortpagina: [*Trifolium repens*](../../pollen/species/trifolium_repens.md)
 
 Soortpagina: [*Vicia typ*](../../pollen/species/vicia_typ.md)
 
-Morfologie op basis van *Vicia sepium* (aggregaatvelden leeg in YAML).
+Morfologie op basis van *Vicia sepium* (aggregaatvelden leeg in YAML). Beeld: *Vicia faba* (`vicia_sepium` heeft geen images).
 
 | Veld | Waarde |
 | :--- | :--- |
 | Grootte | {{ pollen("vicia_sepium", "size.size_smallest") }} – {{ pollen("vicia_sepium", "size.size_largest") }} |
 | Apertuur | {{ pollen("vicia_sepium", "aperture") }} |
 | Sculptuur | {{ pollen("vicia_sepium", "sculpture") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
+      <figcaption>*V. faba* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
+      <figcaption>*Anthriscus* ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Verschil met lookalikes
 
@@ -179,6 +298,25 @@ Soortpagina: [*Acer platanoides*](../../pollen/species/acer_platanoides.md)
 | Sculptuur | {{ pollen("acer_platanoides", "sculpture") }} |
 | Ornamentatie | {{ pollen("acer_platanoides", "ornamentation") }} |
 | pollen-note | {{ pollen("acer_platanoides", "pollen-note") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
+      <figcaption>*Acer* ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
+      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("prunus_avium", "assets/images/by-taxon/prunus_avium/prunus_avium_1.png") }}
+      <figcaption>*P. avium* ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Verschil met lookalikes
 
@@ -205,6 +343,21 @@ Morfologie op basis van *Anthriscus sylvestris* (aggregaatvelden leeg in YAML).
 | P/E | {{ pollen("anthriscus_sylvestris", "pe_ratio") }} |
 | pollen-note | {{ pollen("anthriscus_sylvestris", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
+      <figcaption>*Anthriscus* ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
+      <figcaption>*V. faba* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Verschil met lookalikes
 
 - *Vicia*: prolaat “lang” type zonder typische Apiaceae-dwarsgroeven.
@@ -224,6 +377,25 @@ Soortpagina: [*Salix typ*](../../pollen/species/salix_typ.md)
 | Apertuur | {{ pollen("salix_typ", "aperture") }} |
 | Sculptuur | {{ pollen("salix_typ", "sculpture") }} |
 | pollen-note | {{ pollen("salix_typ", "pollen-note") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("salix_caprea", "assets/images/by-taxon/salix_caprea/salix_caprea_1.png") }}
+      <figcaption>*Salix* ({{ pollen("salix_caprea", "size.size_smallest") }}–{{ pollen("salix_caprea", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
+      <figcaption>*Brassica* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("fraxinus_ornus", "assets/images/by-taxon/fraxinus_ornus/fraxinus_ornus_1.png") }}
+      <figcaption>*Fraxinus* ({{ pollen("fraxinus_ornus", "size.size_smallest") }}–{{ pollen("fraxinus_ornus", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Verschil met lookalikes
 
@@ -246,6 +418,17 @@ Soortpagina: [*Tilia typ*](../../pollen/species/tilia_typ.md)
 | Sculptuur | {{ pollen("tilia_typ", "sculpture") }} |
 | pollen-note | {{ pollen("tilia_typ", "pollen-note") }} |
 
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("tilia_platyphyllos", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png") }}
+      <figcaption>*Tilia* ({{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
+
 ### Lookalikes
 
 [to be verified]
@@ -263,6 +446,17 @@ Soortpagina: [*Ranunculus typ*](../../pollen/species/ranunculus_typ.md)
 | Apertuur | {{ pollen("ranunculus_typ", "aperture") }} |
 | Sculptuur | {{ pollen("ranunculus_typ", "sculpture") }} |
 | pollen-note | {{ pollen("ranunculus_typ", "pollen-note") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("ranunculus_acris", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png") }}
+      <figcaption>*Ranunculus* ({{ pollen("ranunculus_acris", "size.size_smallest") }}–{{ pollen("ranunculus_acris", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Lookalikes
 
@@ -282,6 +476,29 @@ Morfologie op basis van *Raphanus raphanistrum* (aggregaatvelden leeg in YAML).
 | Vorm | {{ pollen("raphanus_raphanistrum", "shape") }} |
 | Apertuur | {{ pollen("raphanus_raphanistrum", "aperture") }} |
 | Sculptuur | {{ pollen("raphanus_raphanistrum", "sculpture") }} |
+
+### Beelden
+
+<div class="pid-scale-gallery">
+  <div class="pid-scale-row pid-scale-row--snug">
+    <figure class="pid-scale-item">
+      {{ pollen_img("raphanus_raphanistrum", "assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png") }}
+      <figcaption>*Raphanus* ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
+      <figcaption>*B. napus* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
+      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("ligustrum_vulgare", "assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png") }}
+      <figcaption>*Ligustrum* ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Verschil met lookalikes
 
