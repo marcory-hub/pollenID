@@ -1,8 +1,6 @@
 # Niveau 2 - Alle prioriteit
 
-Niveau 1 plus prioriteitstaxa met `learning_priority_rank` ≥ 21 (quiz-eligible).
-
-22 taxa nieuw t.o.v. [niveau 1](../niveau-1-vaak-in-nl-honing/_index.md).
+Taxa bovenop [niveau 1](../niveau-1-vaak-in-nl-honing/_index.md).
 
 | Rank | pollen_key | Latijn | Nederlands |
 | ---: | :--- | :--- | :--- |

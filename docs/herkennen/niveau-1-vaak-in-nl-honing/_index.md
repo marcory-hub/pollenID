@@ -1,11 +1,5 @@
 # Niveau 1 - Vaak in NL-honing
 
-13 taxa met `learning_priority_rank` ≤ 20.
-
-Lees per taxon: morfologie (uit `data/pollen.yaml`), dan verschillen met lookalikes. Oefen daarna in [Willekeurig](../../naslag/palynoquest.md).
-
-Beelden zijn true-scale (`largest_µm × 2.5` px) via `pollen_img`, zodat groottes naast elkaar vergelijkbaar zijn.
-
 | Rank | Taxon |
 | ---: | :--- |
 | 1 | [Brassica typ](#1-brassica-typ-kool-type) |
@@ -28,7 +22,7 @@ Beelden zijn true-scale (`largest_µm × 2.5` px) via `pollen_img`, zodat groott
 
 Soortpagina: [*Brassica typ*](../../pollen/species/brassica_typ.md)
 
-Morfologie op basis van *Brassica napus* (aggregaatvelden leeg in YAML).
+Op basis van *Brassica napus*.
 
 | Veld | Waarde |
 | :--- | :--- |
@@ -73,7 +67,7 @@ Morfologie op basis van *Brassica napus* (aggregaatvelden leeg in YAML).
 
 Soortpagina: [*Prunus pirus*](../../pollen/species/prunus_pirus_typ.md)
 
-Morfologie op basis van soorten in het aggregaat (aggregaatvelden leeg in YAML).
+Op basis van soorten in het type.
 
 | Vertegenwoordiger | Grootte | Apertuur | Sculptuur |
 | :--- | :--- | :--- | :--- |
@@ -153,7 +147,7 @@ Soortpagina: [*Rubus typ*](../../pollen/species/rubus_typ.md)
 
 Soortpagina: [*Taraxacum typ*](../../pollen/species/taraxacum_typ.md)
 
-Morfologie op basis van *Taraxacum officinale* (aggregaatvelden leeg in YAML).
+Op basis van *Taraxacum officinale*.
 
 | Veld | Waarde |
 | :--- | :--- |
@@ -255,7 +249,7 @@ Soortpagina: [*Trifolium repens*](../../pollen/species/trifolium_repens.md)
 
 Soortpagina: [*Vicia typ*](../../pollen/species/vicia_typ.md)
 
-Morfologie op basis van *Vicia sepium* (aggregaatvelden leeg in YAML). Beeld: *Vicia faba* (`vicia_sepium` heeft geen images).
+Op basis van *Vicia sepium*. Beeld: *Vicia faba*.
 
 | Veld | Waarde |
 | :--- | :--- |
@@ -332,7 +326,7 @@ Soortpagina: [*Acer platanoides*](../../pollen/species/acer_platanoides.md)
 
 Soortpagina: [*Anthriscus typ*](../../pollen/species/anthriscus_typ.md)
 
-Morfologie op basis van *Anthriscus sylvestris* (aggregaatvelden leeg in YAML).
+Op basis van *Anthriscus sylvestris*.
 
 | Veld | Waarde |
 | :--- | :--- |
@@ -468,7 +462,7 @@ Soortpagina: [*Ranunculus typ*](../../pollen/species/ranunculus_typ.md)
 
 Soortpagina: [*Raphanus typ*](../../pollen/species/raphanus_typ.md)
 
-Morfologie op basis van *Raphanus raphanistrum* (aggregaatvelden leeg in YAML).
+Op basis van *Raphanus raphanistrum*.
 
 | Veld | Waarde |
 | :--- | :--- |
