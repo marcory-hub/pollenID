@@ -10,6 +10,7 @@ Each exported taxon includes:
     (lm_clear | lm_poor | em_only) when set in YAML
   - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
   - learning_priority_rank — optional int from YAML (Level 2 PalynoQuest priority)
+  - lookalikes — optional confirmed pairs + group slugs when set in YAML
   - has_taxon_page — true when monofloral_honey_page is set or a page exists under
     docs/pollen/species/<pollen_key>.md; false otherwise. Consumers use it to skip
     linking the Latin name to a non-existent default taxon page.
@@ -170,6 +171,41 @@ def _build_entry(
             images_out.append(item)
         if images_out:
             out["images"] = images_out
+
+    look = src.get("lookalikes")
+    if isinstance(look, dict):
+        la_out: Dict[str, Any] = {}
+        pairs_src = look.get("pairs")
+        if isinstance(pairs_src, list) and pairs_src:
+            pairs_out: List[Dict[str, Any]] = []
+            for item in pairs_src:
+                if not isinstance(item, dict):
+                    continue
+                partner = _clean_scalar(item.get("partner"))
+                status = _clean_scalar(item.get("status"))
+                if not partner or status != "confirmed":
+                    continue
+                row: Dict[str, Any] = {"partner": str(partner), "status": "confirmed"}
+                note = _clean_scalar(item.get("note"))
+                if note is not None:
+                    row["note"] = str(note)
+                difficulty = _clean_scalar(item.get("difficulty"))
+                if difficulty is not None:
+                    row["difficulty"] = str(difficulty)
+                pairs_out.append(row)
+            if pairs_out:
+                la_out["pairs"] = pairs_out
+        groups_src = look.get("groups")
+        if isinstance(groups_src, list) and groups_src:
+            groups_out = [
+                str(g).strip()
+                for g in groups_src
+                if isinstance(g, str) and g.strip()
+            ]
+            if groups_out:
+                la_out["groups"] = groups_out
+        if la_out:
+            out["lookalikes"] = la_out
 
     return out
 

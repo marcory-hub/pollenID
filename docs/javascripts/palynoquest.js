@@ -79,8 +79,11 @@
       fetchJson("../../assets/manifests/keys.json"),
       fetchJson("../../assets/manifests/palynoquest-items.json"),
       fetchJson("../../data/pollen.json"),
+      fetchJson("../../assets/manifests/lookalike-groups.json").catch(function () {
+        return { pairs: [], groups: {} };
+      }),
     ]).then(function (xs) {
-      return { keys: xs[0], items: xs[1], pollen: xs[2] };
+      return { keys: xs[0], items: xs[1], pollen: xs[2], lookalikes: xs[3] };
     });
   }
 
@@ -112,7 +115,16 @@
 
   var LS_LEVEL = "pid_pq_level";
   var LS_PROGRESS = "pid_pq_progress";
+  var LS_LOOKALIKE = "pid_pq_lookalike";
+  var LS_LOOKALIKE_DIFF = "pid_pq_lookalike_diff";
   var BOX_MAX = 4;
+  var LOOKALIKE_DIFFS = { easy: true, moderate: true, difficult: true };
+
+  function clampLookalikeDiff(v) {
+    var s = String(v || "all").toLowerCase();
+    if (s === "all" || LOOKALIKE_DIFFS[s]) return s;
+    return "all";
+  }
 
   function readLocalJson(key, fallback) {
     try {
@@ -172,6 +184,9 @@
       items: [],
       pool: [],
       level: 1,
+      lookalikeMode: false,
+      lookalikeDiff: "all",
+      lookalikePartners: {},
       progress: {},
       current: null,
       selectedKeyJsonUrl: null,
@@ -202,6 +217,9 @@
     var infoEl = qs(root, "[data-pq-info]");
     var levelEl = qs(root, "[data-pq-level]");
     var progressEl = qs(root, "[data-pq-progress]");
+    var lookalikeEl = qs(root, "[data-pq-lookalike]");
+    var lookalikeDiffEl = qs(root, "[data-pq-lookalike-diff]");
+    var lookalikeDiffWrapEl = qs(root, "[data-pq-lookalike-diff-wrap]");
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -376,6 +394,56 @@
       return groupKeyFromImagePath(item.image) || "";
     }
 
+    function labelForSlug(slug) {
+      if (!slug) return "";
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") return slug;
+      var latin = !isMissingValue(rec.latin) ? String(rec.latin).trim() : "";
+      var dutch = !isMissingValue(rec.dutch) ? String(rec.dutch).trim() : "";
+      if (latin && dutch) return latin + " (" + dutch + ")";
+      return latin || dutch || slug;
+    }
+
+    function exampleForSlug(slug) {
+      if (!slug) return null;
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") return null;
+      var imgs = rec.images;
+      if (!Array.isArray(imgs) || imgs.length === 0) return null;
+      var im = imgs[0];
+      if (!im || typeof im.path !== "string" || !im.path) return null;
+      var path = String(im.path).replace(/^\//, "").replace(/^\.\//, "");
+      var w = im.width_px;
+      if (!(typeof w === "number" && isFinite(w) && w > 0)) {
+        w = rec.display_width_px;
+      }
+      return {
+        image: path,
+        imageWidthPx: typeof w === "number" && isFinite(w) && w > 0 ? w : null,
+      };
+    }
+
+    function partnersForSlug(slug) {
+      if (!slug) return [];
+      var list = state.lookalikePartners[slug];
+      if (!Array.isArray(list) || list.length === 0) return [];
+      var want = state.lookalikeDiff || "all";
+      var out = [];
+      for (var i = 0; i < list.length; i += 1) {
+        var row = list[i];
+        if (!row || typeof row.partner !== "string" || !row.partner) continue;
+        if (want !== "all") {
+          if (row.difficulty !== want) continue;
+        }
+        out.push(row.partner);
+      }
+      return out;
+    }
+
+    function slugHasLookalikePartners(slug) {
+      return partnersForSlug(slug).length > 0;
+    }
+
     var LEVEL1_MAX_RANK = 20;
 
     function itemInLevel(item, level) {
@@ -396,7 +464,9 @@
       var lv = clampLevel(level);
       state.level = lv;
       state.pool = (state.items || []).filter(function (it) {
-        return itemInLevel(it, lv);
+        if (!itemInLevel(it, lv)) return false;
+        if (!state.lookalikeMode) return true;
+        return slugHasLookalikePartners(slugForCurrentItem(it));
       });
       return state.pool;
     }
@@ -471,13 +541,27 @@
           : state.level === 2
             ? "Alle prioriteit"
             : "Alles";
+      var modeLabel = "";
+      if (state.lookalikeMode) {
+        var diffLabel =
+          state.lookalikeDiff === "easy"
+            ? "makkelijk"
+            : state.lookalikeDiff === "moderate"
+              ? "matig"
+              : state.lookalikeDiff === "difficult"
+                ? "moeilijk"
+                : "alle klassen";
+        modeLabel = " · Lookalike (" + diffLabel + ")";
+      }
       progressEl.innerHTML =
         '<span class="md-typeset">' +
         "<strong>Niveau " +
         esc(String(state.level)) +
         " (" +
         esc(levelLabel) +
-        "):</strong> " +
+        ")</strong>" +
+        esc(modeLabel) +
+        ": " +
         esc(String(mastered)) +
         "/" +
         esc(String(total)) +
@@ -492,6 +576,49 @@
       if (levelEl) levelEl.value = String(state.level);
       renderProgress();
       if (restart) newQuestion();
+    }
+
+    function syncLookalikeDiffUi() {
+      if (lookalikeDiffWrapEl) {
+        if (state.lookalikeMode) {
+          lookalikeDiffWrapEl.hidden = false;
+          lookalikeDiffWrapEl.style.display = "inline-flex";
+        } else {
+          lookalikeDiffWrapEl.hidden = true;
+          lookalikeDiffWrapEl.style.display = "none";
+        }
+      }
+      if (lookalikeDiffEl) {
+        lookalikeDiffEl.value = clampLookalikeDiff(state.lookalikeDiff);
+      }
+    }
+
+    function applyLookalikeMode(on, restart) {
+      state.lookalikeMode = !!on;
+      writeLocalJson(LS_LOOKALIKE, state.lookalikeMode);
+      if (lookalikeEl) lookalikeEl.checked = state.lookalikeMode;
+      syncLookalikeDiffUi();
+      buildPool(state.level);
+      renderProgress();
+      if (restart) {
+        newQuestion();
+      } else if (mcqEl && !mcqEl.hidden && state.current) {
+        buildMcq(state.current);
+      }
+    }
+
+    function applyLookalikeDiff(diff, restart) {
+      state.lookalikeDiff = clampLookalikeDiff(diff);
+      writeLocalJson(LS_LOOKALIKE_DIFF, state.lookalikeDiff);
+      syncLookalikeDiffUi();
+      if (!state.lookalikeMode) return;
+      buildPool(state.level);
+      renderProgress();
+      if (restart) {
+        newQuestion();
+      } else if (mcqEl && !mcqEl.hidden && state.current) {
+        buildMcq(state.current);
+      }
     }
 
     function clearInfo() {
@@ -619,6 +746,7 @@
       if (!mcqEl) return;
       mcqEl.replaceChildren();
       var opts = [];
+      var anchorSlug = slugForCurrentItem(item);
       if (item && item.strict && item.strict.endpointText) {
         var strictText = item.strict.endpointText;
         opts.push({
@@ -628,19 +756,42 @@
           imageWidthPx: item.imageWidthPx,
         });
       }
-      (item.distractors || []).forEach(function (d) {
-        if (d && d.endpointText) {
-          var dt = d.endpointText;
-          var dn = displayNameFromEndpointText(dt) || dt;
-          var ex = state.endpointToExample[dn] || null;
+      if (state.lookalikeMode && anchorSlug) {
+        var partners = shuffle(partnersForSlug(anchorSlug));
+        partners.forEach(function (pslug) {
+          if (opts.length >= 4) return;
+          var label = labelForSlug(pslug);
+          if (!label) return;
+          if (
+            opts.some(function (o) {
+              return o.text === label;
+            })
+          ) {
+            return;
+          }
+          var ex = exampleForSlug(pslug);
           opts.push({
-            text: dn,
+            text: label,
             correct: false,
             image: ex ? ex.image : null,
             imageWidthPx: ex ? ex.imageWidthPx : null,
           });
-        }
-      });
+        });
+      } else {
+        (item.distractors || []).forEach(function (d) {
+          if (d && d.endpointText) {
+            var dt = d.endpointText;
+            var dn = displayNameFromEndpointText(dt) || dt;
+            var ex = state.endpointToExample[dn] || null;
+            opts.push({
+              text: dn,
+              correct: false,
+              image: ex ? ex.image : null,
+              imageWidthPx: ex ? ex.imageWidthPx : null,
+            });
+          }
+        });
+      }
       if (opts.length < 4) {
         var pool = (state.pool && state.pool.length ? state.pool : state.items || [])
           .map(function (it) {
@@ -661,21 +812,14 @@
               return o.text === t;
             })
           ) {
-            var ex = state.endpointToExample[t] || null;
+            var ex2 = state.endpointToExample[t] || null;
             opts.push({ text: t, correct: false });
-            opts[opts.length - 1].image = ex ? ex.image : null;
-            opts[opts.length - 1].imageWidthPx = ex ? ex.imageWidthPx : null;
+            opts[opts.length - 1].image = ex2 ? ex2.image : null;
+            opts[opts.length - 1].imageWidthPx = ex2 ? ex2.imageWidthPx : null;
           }
         }
       }
       opts = shuffle(opts).slice(0, 4);
-      var correctText = "";
-      for (var ci = 0; ci < opts.length; ci += 1) {
-        if (opts[ci].correct) {
-          correctText = opts[ci].text;
-          break;
-        }
-      }
       opts.forEach(function (o) {
         var b = document.createElement("button");
         b.type = "button";
@@ -704,7 +848,10 @@
     }
 
     function newQuestion() {
-      var pool = state.pool && state.pool.length ? state.pool : state.items;
+      var pool = state.pool || [];
+      if (!pool.length && !state.lookalikeMode) {
+        pool = state.items || [];
+      }
       state.current = pickWeighted(pool);
       state.diverged = false;
       state.expectedPath = state.current && state.current.expectedPath ? state.current.expectedPath : null;
@@ -714,9 +861,10 @@
         keyWrapEl.replaceChildren();
       }
       if (!state.current) {
-        setStatus(
-          '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>'
-        );
+        var emptyMsg = state.lookalikeMode
+          ? '<p class="admonition warning"><strong>Geen lookalike-items voor deze klasse in dit niveau.</strong> Kies Alle, een andere klasse, of een hoger niveau.</p>'
+          : '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>';
+        setStatus(emptyMsg);
         renderProgress();
         return;
       }
@@ -942,6 +1090,16 @@
         applyLevel(levelEl.value, true);
       });
     }
+    if (lookalikeEl) {
+      lookalikeEl.addEventListener("change", function () {
+        applyLookalikeMode(!!lookalikeEl.checked, true);
+      });
+    }
+    if (lookalikeDiffEl) {
+      lookalikeDiffEl.addEventListener("change", function () {
+        applyLookalikeDiff(lookalikeDiffEl.value, true);
+      });
+    }
 
     loadAll()
       .then(function (all) {
@@ -951,12 +1109,38 @@
         state.pollen =
           pollenRoot && typeof pollenRoot === "object" && !Array.isArray(pollenRoot) ? pollenRoot : {};
         state.imageToSlug = buildImageToSlugFromPollen(state.pollen);
+        state.lookalikePartners = {};
+        var la = all.lookalikes || {};
+        (la.pairs || []).forEach(function (p) {
+          if (!p || typeof p.a !== "string" || typeof p.b !== "string") return;
+          var diff =
+            typeof p.difficulty === "string" && LOOKALIKE_DIFFS[p.difficulty]
+              ? p.difficulty
+              : null;
+          function addEdge(from, to) {
+            if (!state.lookalikePartners[from]) state.lookalikePartners[from] = [];
+            var list = state.lookalikePartners[from];
+            for (var i = 0; i < list.length; i += 1) {
+              if (list[i] && list[i].partner === to) {
+                if (diff && !list[i].difficulty) list[i].difficulty = diff;
+                return;
+              }
+            }
+            list.push({ partner: to, difficulty: diff });
+          }
+          addEdge(p.a, p.b);
+          addEdge(p.b, p.a);
+        });
         state.endpointToExample = {};
         state.groupToImages = {};
         state.progress = readLocalJson(LS_PROGRESS, {}) || {};
         if (typeof state.progress !== "object" || Array.isArray(state.progress)) {
           state.progress = {};
         }
+        state.lookalikeMode = !!readLocalJson(LS_LOOKALIKE, false);
+        state.lookalikeDiff = clampLookalikeDiff(readLocalJson(LS_LOOKALIKE_DIFF, "all"));
+        if (lookalikeEl) lookalikeEl.checked = state.lookalikeMode;
+        syncLookalikeDiffUi();
         (state.items || []).forEach(function (it) {
           if (!it || !it.strict || !it.strict.endpointText) return;
           var name = displayNameFromEndpointText(it.strict.endpointText) || it.strict.endpointText;

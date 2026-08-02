@@ -8,6 +8,19 @@
       <option value="2">2: + Alle prioriteit</option>
       <option value="3">3: Alles</option>
     </select>
+    <label style="display: inline-flex; align-items: center; gap: 6px; margin-left: 8px;">
+      <input data-pq-lookalike type="checkbox" id="pq-lookalike" />
+      Lookalike modus
+    </label>
+    <span data-pq-lookalike-diff-wrap hidden style="display: none; align-items: center; gap: 6px; margin-left: 8px;">
+      <label for="pq-lookalike-diff">Klasse</label>
+      <select data-pq-lookalike-diff id="pq-lookalike-diff" style="width: min(200px, 100%);">
+        <option value="all">Alle</option>
+        <option value="easy">Makkelijk</option>
+        <option value="moderate">Matig</option>
+        <option value="difficult">Moeilijk</option>
+      </select>
+    </span>
   </p>
   <p data-pq-progress style="margin: 0 0 12px 0;"></p>
   <div style="display: grid; grid-template-columns: minmax(260px, 420px) minmax(320px, 1fr); gap: 12px 16px; align-items: start;">

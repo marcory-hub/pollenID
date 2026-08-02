@@ -196,6 +196,80 @@ def load_pollen_key_labels(path: Path) -> Dict[str, str]:
     return out
 
 
+LOOKALIKES_MD_DIR = DOCS_DIR / "lookalikes"
+
+
+def _lookalike_group_title(slug: str) -> str:
+    """H1 from docs/lookalikes/<slug>.md when present; else a known label or the slug."""
+    known = {
+        "fenestraat-taraxacum": "Fenestraat / Taraxacum-type (letter T)",
+    }
+    path = LOOKALIKES_MD_DIR / f"{slug}.md"
+    if path.is_file():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if line.startswith("# "):
+                return line[2:].strip() or slug
+    return known.get(slug, slug)
+
+
+def build_lookalike_groups_manifest(pollen_yaml: Path) -> Dict[str, Any]:
+    """Undirected confirmed pairs + named groups from data/pollen.yaml lookalikes blocks."""
+    pairs_meta: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    groups: Dict[str, Dict[str, Any]] = {}
+    if not pollen_yaml.exists():
+        return {"pairs": [], "groups": {}}
+    raw = yaml.safe_load(pollen_yaml.read_text(encoding="utf-8"))
+    if not isinstance(raw, dict):
+        return {"pairs": [], "groups": {}}
+
+    for slug, rec in raw.items():
+        if not isinstance(rec, dict):
+            continue
+        block = rec.get("lookalikes")
+        if not isinstance(block, dict):
+            continue
+        sk = str(slug)
+        for item in block.get("pairs") or []:
+            if not isinstance(item, dict):
+                continue
+            if item.get("status") != "confirmed":
+                continue
+            partner = item.get("partner")
+            if not isinstance(partner, str) or not partner.strip():
+                continue
+            a, b = (sk, partner.strip()) if sk <= partner.strip() else (partner.strip(), sk)
+            meta = pairs_meta.setdefault((a, b), {})
+            diff = item.get("difficulty")
+            if isinstance(diff, str) and diff.strip() and "difficulty" not in meta:
+                meta["difficulty"] = diff.strip()
+        for g in block.get("groups") or []:
+            if not isinstance(g, str) or not g.strip():
+                continue
+            gs = g.strip()
+            grp = groups.setdefault(
+                gs,
+                {
+                    "title": _lookalike_group_title(gs),
+                    "docsPage": f"lookalikes/{gs}.md",
+                    "members": [],
+                },
+            )
+            if sk not in grp["members"]:
+                grp["members"].append(sk)
+
+    for grp in groups.values():
+        grp["members"] = sorted(grp["members"])
+
+    pairs = []
+    for a, b in sorted(pairs_meta):
+        row: Dict[str, Any] = {"a": a, "b": b}
+        meta = pairs_meta[(a, b)]
+        if meta.get("difficulty"):
+            row["difficulty"] = meta["difficulty"]
+        pairs.append(row)
+    return {"pairs": pairs, "groups": dict(sorted(groups.items()))}
+
+
 def resolve_outcome_display(out: dict, pollen_labels: Dict[str, str]) -> Optional[str]:
     """
     Build a single human-readable endpoint string for PalynoQuest from a choice `id` / `outcome` dict.
@@ -732,6 +806,7 @@ def main() -> int:
     items = sorted(merged.values(), key=lambda x: str(x.get("image") or ""))
 
     write_json(OUT_DIR / "palynoquest-items.json", {"items": items})
+    write_json(OUT_DIR / "lookalike-groups.json", build_lookalike_groups_manifest(POLLEN_YAML))
     return 0
 
 

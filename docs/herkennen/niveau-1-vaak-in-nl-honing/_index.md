@@ -157,12 +157,31 @@ Op basis van *Taraxacum officinale*.
       {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png") }}
       <figcaption>*T. officinale* ({{ pollen("taraxacum_officinale", "size.size_smallest") }})</figcaption>
     </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("cichorium_intybus", "assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png") }}
+      <figcaption>*Cichorium* ({{ pollen("cichorium_intybus", "size.size_smallest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("hieracium_aurantiacum", "assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png") }}
+      <figcaption>*Hieracium*</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("crepis_biennis", "assets/images/by-taxon/crepis_biennis/crepis_biennis_1.png") }}
+      <figcaption>*Crepis*</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("sonchus_arvensis", "assets/images/by-taxon/sonchus_arvensis/sonchus_arvensis_1.png") }}
+      <figcaption>*Sonchus*</figcaption>
+    </figure>
   </div>
 </div>
 
-### Lookalikes
+### Verschil met lookalikes
 
-[to be verified]
+- Fenestraat / letter **T** (composieten): vensters in de exine; stekels op de lijsten.
+- Partners: *Cichorium*, *Hieracium* typ, *Crepis*, *Tragopogon* typ, *Sonchus*.
+- Andere echinaat-letters (A/H/J/C/…) zijn geen lookalikes van fenestraat T.
+- Overzicht: [Asteraceae ABCHJST — T-type](../composieten-abchjst/_index.md).
 
 ---
 
@@ -185,12 +204,27 @@ Soortpagina: [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md)
       {{ pollen_img("centaurea_cyanus", "assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png") }}
       <figcaption>*C. cyanus* ({{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }})</figcaption>
     </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("heracleum_sphondylium", "assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png") }}
+      <figcaption>*Heracleum* ({{ pollen("heracleum_sphondylium", "size.size_smallest") }}–{{ pollen("heracleum_sphondylium", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("trifolium_pratense", "assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png") }}
+      <figcaption>*T. pratense* ({{ pollen("trifolium_pratense", "size.size_smallest") }}–{{ pollen("trifolium_pratense", "size.size_largest") }})</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
+      <figcaption>*Vicia* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+    </figure>
   </div>
 </div>
 
-### Lookalikes
+### Verschil met lookalikes
 
-[to be verified]
+- *Heracleum* typ: verrucaat tot scabraat; Apiaceae-apertuur (dwarsgroeven).
+- *Trifolium pratense*: grof reticulaat; Fabaceae.
+- *Vicia* typ: reticulaat; prolaat “lang” type.
+- *C. cyanus*: C-type; geen stekels; striaat (PalDat LM: echinaat-note).
 
 ---
 
@@ -403,7 +437,7 @@ Soortpagina: [*Tilia typ*](../../pollen/species/tilia_typ.md)
 
 ### Lookalikes
 
-[to be verified]
+Geen bevestigde lookalikes in de prioriteitspool.
 
 ---
 
@@ -425,12 +459,22 @@ Soortpagina: [*Ranunculus typ*](../../pollen/species/ranunculus_typ.md)
       {{ pollen_img("ranunculus_acris", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png") }}
       <figcaption>*Ranunculus* ({{ pollen("ranunculus_acris", "size.size_smallest") }}–{{ pollen("ranunculus_acris", "size.size_largest") }})</figcaption>
     </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("centaurea_montana", "assets/images/by-taxon/centaurea_montana/centaurea_montana_1.png") }}
+      <figcaption>*Centaurea* typ</figcaption>
+    </figure>
+    <figure class="pid-scale-item">
+      {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
+      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+    </figure>
   </div>
 </div>
 
-### Lookalikes
+### Verschil met lookalikes
 
-[to be verified]
+- *Centaurea* typ: echinaat (lettertypen); niet verrucaat als *Ranunculus*.
+- *Sinapis* typ: reticulaat; Cruciferae / Brassicaceae.
+- *Ranunculus*: verrucaat tot scabraat; vaak 3–6 (soms meer) colpi.
 
 ---
 

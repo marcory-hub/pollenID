@@ -57,6 +57,7 @@ CANONICAL_TOP: Tuple[str, ...] = (
     "frequency_in_eu_honey",
     "frequency_in_non_eu_honey",
     "learning_priority_rank",
+    "lookalikes",
     "is_secondary_contributor",
     "links",
     "images",
@@ -249,6 +250,9 @@ def _normalize_entry(raw: Dict[str, Any]) -> Dict[str, Any]:
             "frequency_in_non_eu_honey", _empty_scalar()
         ),
         "learning_priority_rank": merged.get("learning_priority_rank", _empty_scalar()),
+        "lookalikes": deepcopy(merged["lookalikes"])
+        if isinstance(merged.get("lookalikes"), dict)
+        else _empty_scalar(),
         "is_secondary_contributor": merged.get(
             "is_secondary_contributor", _empty_scalar()
         ),

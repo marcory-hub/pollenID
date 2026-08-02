@@ -8,6 +8,8 @@
 | Lookalike | Andere familie; zelfde apertuur (+ vorm); grootte ±15 µm | Oleaceae ↔ Brassicaceae |
 | Volgorde | Beug-apertuurklassen 03–33 (zonder sculptuur-subklassen) | Monocolpat → Tricolpat → Tricolporat → … → Periporat |
 
+Note: In deze tabel is **Lookalike** een smalle didactische regel voor pollentype-constructie (andere familie, exacte apertuur, ±15 µm). Productbreed (Herkennen, PalynoQuest Lookalike modus) geldt een bredere definitie: een relatie tussen trainingsunits die onder LM makkelijk te verwarren zijn, ook binnen hetzelfde pollentype.
+
 | Type | Afbeelding | Apertuur | Sculptuur | Grootte | Voorbeeld | Lookalike |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ericaceae | {{ pollen_img("calluna_vulgaris", "assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png") }} | tricolporaat (per monade in tetrade) | psilaat / psilaat (LM); fossulaat, psilaat (S | 26 µm–40 µm | *Calluna vulgaris* (struikheide); ook *Vaccinium myrtillus* | Anacardiaceae, Apiaceae, Araliaceae, Asteraceae, Caprifoliaceae, Elaeagnaceae, Fabaceae, Hippocastanaceae, Oleaceae, Rosaceae, Scrophulariaceae, Simaroubaceae, Vitaceae |

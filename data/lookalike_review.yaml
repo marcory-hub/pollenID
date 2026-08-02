@@ -1,0 +1,4447 @@
+- anchor: acer_platanoides
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 26.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: brassica_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: calluna_vulgaris
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 35.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: centaurea_cyanus
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs striaat; volgens PalDat LM echinaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: acer_platanoides
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: crataegus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 40.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs onduidelijk striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: helianthus_annuus
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: helianthus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: heracleum_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 38.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs verrucaat tot scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 28.5
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: malus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 30.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs glad/rugulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: acer-prunus-pyrus
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: Acer cluster not lookalike under LM (shape differs)
+- anchor: acer_platanoides
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.9
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: prunus_pirus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: acer-prunus-pyrus
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: Acer cluster not lookalike under LM (shape differs)
+- anchor: acer_platanoides
+  partner: ranunculus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: acer_platanoides
+  partner: robinia_pseudoacacia
+  status: different
+  signals:
+    size_overlap_um:
+    - 30.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: acer-prunus-pyrus
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: Acer cluster not lookalike under LM (shape differs)
+- anchor: acer_platanoides
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 33.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: acer_platanoides
+  partner: tilia_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs foveolaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: acer_platanoides
+  partner: trifolium_pratense
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 38.7
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs grof reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: acer_platanoides
+  partner: vicia_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.1
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 20.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: brassica_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: castanea_sativa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 13.0
+    - 20.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 20.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 20.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: prunus_pirus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: raphanus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: spiraea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 14.0
+    - 20.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: anthriscus_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: anthriscus_typ
+  partner: vicia_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: umbelliferae-vicia
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: moderate
+- anchor: brassica_typ
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm 
+      dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: helianthus_annuus
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: helianthus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: ligustrum_vulgare
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 28.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: brassica_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: prunus_pirus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: ranunculus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: raphanus_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: difficult
+- anchor: brassica_typ
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: brassica_typ
+  partner: sinapis_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: moderate
+- anchor: brassica_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: brassica_typ
+  partner: vicia_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs echinaat; echini ca. 
+      3.3 µm; exine ca. 3 µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: calluna_vulgaris
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.5
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: centaurea_cyanus
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: crataegus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 38.1
+    - 40.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs onduidelijk striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: centaurea_cyanus
+  partner: helianthus_annuus
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: centaurea_cyanus
+  partner: helianthus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: centaurea_cyanus
+  partner: heracleum_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 38.1
+    - 38.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs verrucaat tot 
+      scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: lookalike'
+  difficulty: easy
+- anchor: centaurea_cyanus
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 28.5
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.9
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: ranunculus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: centaurea_cyanus
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: centaurea_cyanus
+  partner: trifolium_pratense
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 38.1
+    - 38.7
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs grof reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: lookalike'
+  difficulty: easy
+- anchor: centaurea_cyanus
+  partner: vicia_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: striaat; volgens PalDat LM echinaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: lookalike'
+  difficulty: easy
+- anchor: fraxinus_ornus
+  partner: brassica_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 22.0
+    - 25.2
+    size_known: true
+    aperture_bucket: 4colporaat|tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: fraxinus-salix-cruciferae
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: malus_typ
+  partner: robinia_pseudoacacia
+  status: different
+  signals:
+    size_overlap_um:
+    - 30.0
+    - 30.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/rugulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: acer-prunus-pyrus
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: Acer cluster not lookalike under LM (shape differs)
+- anchor: melilotus_officinalis
+  partner: aesculus_hippocastanum
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 24.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs psilaat tot rugulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: melilotus-trifolium-repens
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: prunus_padus
+  partner: prunus_serotina
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: rubus-prunus-vogelkers
+  borderline: false
+  ai_suggestion:
+  decided_by: herkennen-published
+  source: hand_seed
+- anchor: prunus_pirus_typ
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 
+      µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: helianthus_annuus
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: helianthus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: malus_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 30.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs glad/rugulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: prunus-pirus-malus
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: lookalike (Malus / Peer side)
+  difficulty: moderate
+- anchor: prunus_pirus_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: ranunculus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: raphanus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: robinia_pseudoacacia
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 30.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: acer-prunus-pyrus
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  note: Acer cluster not lookalike under LM (shape differs)
+- anchor: prunus_pirus_typ
+  partner: rubus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not selected in prunus-pirus batch
+- anchor: prunus_pirus_typ
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: prunus_pirus_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: prunus_pirus_typ
+  partner: vicia_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/zw.striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: achillea_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 32.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: ranunculus_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 26.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: calluna_vulgaris
+  status: different
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 35.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: ranunculus_typ
+  partner: centaurea_jacea
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: ranunculus_typ
+  partner: centaurea_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: lookalike'
+  difficulty: easy
+- anchor: ranunculus_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: crataegus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 40.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs onduidelijk striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: helianthus_annuus
+  status: different
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: ranunculus_typ
+  partner: helianthus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: ranunculus_typ
+  partner: heracleum_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 38.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs verrucaat tot scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 28.5
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.9
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: sinapis_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: lookalike'
+  difficulty: moderate
+- anchor: ranunculus_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: ranunculus_typ
+  partner: trifolium_pratense
+  status: pending
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 38.7
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs grof reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: ranunculus_typ
+  partner: vicia_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 34.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: verrucaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: not lookalike (batch reject)'
+- anchor: raphanus_typ
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm 
+      dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: castanea_sativa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 13.0
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: ligustrum_vulgare
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 28.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: raphanus_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: sinapis_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: raphanus_typ
+  partner: spiraea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 14.0
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: raphanus_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: rubus_typ
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm 
+      dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: helianthus_annuus
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: helianthus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: prunus_padus
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: rubus-prunus-vogelkers
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: moderate
+- anchor: rubus_typ
+  partner: prunus_serotina
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: rubus-prunus-vogelkers
+  borderline: false
+  ai_suggestion:
+  decided_by: herkennen-published
+  source: hand_seed
+- anchor: rubus_typ
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: rubus_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: rubus_typ
+  partner: vicia_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: glad/striaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 20.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: anthriscus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 20.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: brassica_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: fraxinus-salix-cruciferae
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: moderate
+- anchor: salix_typ
+  partner: castanea_sativa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 13.0
+    - 18.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 18.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: fraxinus_ornus
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 22.0
+    size_known: true
+    aperture_bucket: tricol*|4colporaat
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: fraxinus-salix-cruciferae
+  borderline: false
+  ai_suggestion:
+  decided_by: herkennen-published
+  source: hand_seed
+- anchor: salix_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 18.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: prunus_pirus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: raphanus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: spiraea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 14.0
+    - 18.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: salix_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: salix_typ
+  partner: trifolium_repens
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.5
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs fijn reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: sinapis_typ
+  partner: ligustrum_vulgare
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 28.9
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: raphanus-brassica-sinapis-ligustrum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: taraxacum_typ
+  partner: achillea_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm 
+      dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: Different Asteraceae letter-type vs Taraxacum T
+- anchor: taraxacum_typ
+  partner: ailanthus_altissima
+  status: different
+  signals:
+    size_overlap_um:
+    - 26.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: amorpha_fruticosa
+  status: different
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: calluna_vulgaris
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 35.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: centaurea_jacea
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: Different Asteraceae letter-type vs Taraxacum T
+- anchor: taraxacum_typ
+  partner: centaurea_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: Different Asteraceae letter-type vs Taraxacum T
+- anchor: taraxacum_typ
+  partner: cornus_mas
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: helianthus_annuus
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: Different Asteraceae letter-type vs Taraxacum T
+- anchor: taraxacum_typ
+  partner: helianthus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: Different Asteraceae letter-type vs Taraxacum T
+- anchor: taraxacum_typ
+  partner: lamium_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: ononis
+  status: different
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: polygonum_aviculare
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: sinapis_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: taraxacum_typ
+  partner: vicia_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: echinaat T vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: tilia_typ
+  partner: achillea_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 32.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: ailanthus_altissima
+  status: different
+  signals:
+    size_overlap_um:
+    - 26.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: brassica_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.2
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: calluna_vulgaris
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 35.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: centaurea_cyanus
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 38.1
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs striaat; volgens PalDat LM echinaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: centaurea_jacea
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: centaurea_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: cornus_mas
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: crataegus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 40.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs onduidelijk striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: helianthus_annuus
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: helianthus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: heracleum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 38.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs verrucaat tot scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: lamium_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.5
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: polygonum_aviculare
+  status: different
+  signals:
+    size_overlap_um:
+    - 32.9
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: prunus_pirus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: ranunculus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 34.5
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: rubus_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: sinapis_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 28.0
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: trifolium_pratense
+  status: different
+  signals:
+    size_overlap_um:
+    - 35.0
+    - 38.7
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs grof reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: tilia_typ
+  partner: vicia_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: foveolaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: 'user: no lookalike for Tilia'
+- anchor: trifolium_repens
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 32.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 
+      µm dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: aesculus_hippocastanum
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 24.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs psilaat tot rugulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: melilotus-trifolium-repens
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: trifolium_repens
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: amorpha_fruticosa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.9
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat, deels verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: anthriscus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 20.1
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs verrucaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: brassica_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.2
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: castanea_sativa
+  status: pending
+  signals:
+    size_overlap_um:
+    - 13.0
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: filipendula_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 17.5
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 28.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: melilotus_officinalis
+  status: confirmed
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 26.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: true
+    group: melilotus-trifolium-repens
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  source: hand_seed
+  difficulty: easy
+- anchor: trifolium_repens
+  partner: ononis
+  status: pending
+  signals:
+    size_overlap_um:
+    - 18.4
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 32.9
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: prunus_pirus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs glad/zw.striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: raphanus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: rubus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 25.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs glad/striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 33.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: spiraea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 14.0
+    - 23.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs glad
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: trifolium_repens
+  partner: taraxacum_typ
+  status: different
+  signals:
+    size_overlap_um:
+    - 23.0
+    - 28.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: fijn reticulaat vs echinaat T
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: not fenestraat / letter T
+- anchor: vicia_typ
+  partner: achillea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat; echini ca. 3.3 µm; exine ca. 3 µm 
+      dik
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: ailanthus_altissima
+  status: pending
+  signals:
+    size_overlap_um:
+    - 26.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat tot gering striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: calluna_vulgaris
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 35.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: centaurea_jacea
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: centaurea_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat J
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: cornus_mas
+  status: pending
+  signals:
+    size_overlap_um:
+    - 25.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: true
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: crataegus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 40.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs onduidelijk striaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: helianthus_annuus
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: helianthus_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 35.0
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs echinaat H
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: heracleum_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 38.5
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs verrucaat tot scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: lamium_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 28.5
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs glad/scabraat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: polygonum_aviculare
+  status: pending
+  signals:
+    size_overlap_um:
+    - 32.9
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs psilaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: sinapis_typ
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.0
+    - 33.8
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: vicia_typ
+  partner: trifolium_pratense
+  status: pending
+  signals:
+    size_overlap_um:
+    - 33.8
+    - 38.7
+    size_known: true
+    aperture_bucket: tricol*
+    aperture_empty: false
+    sculpture_note: reticulaat vs grof reticulaat
+    sculpture_empty: false
+    beug_multi_class: false
+    hand_seeded: false
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by:
+- anchor: taraxacum_typ
+  partner: cichorium_intybus
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: moderate
+- anchor: taraxacum_typ
+  partner: hieracium_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: moderate
+- anchor: taraxacum_typ
+  partner: hieracium_aurantiacum
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: difficult
+- anchor: taraxacum_typ
+  partner: crepis_biennis
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: difficult
+- anchor: taraxacum_typ
+  partner: tragopogon_typ
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: easy
+- anchor: taraxacum_typ
+  partner: sonchus_arvensis
+  status: confirmed
+  signals:
+    size_overlap_um:
+    aperture_bucket: tricol*
+    sculpture_note: fenestraat / echinaat T
+    beug_multi_class: false
+    hand_seeded: true
+    group: fenestraat-taraxacum
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: fenestraat / letter T (composieten ABCHJST)
+  source: hand_seed
+  difficulty: easy
+- anchor: prunus_pirus_typ
+  partner: prunus_padus
+  status: different
+  signals:
+    hand_seeded: true
+    group:
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: same image as type representative; not a lookalike
+  source: hand_seed
+- anchor: prunus_pirus_typ
+  partner: prunus_avium
+  status: confirmed
+  signals:
+    hand_seeded: true
+    group: prunus-pirus-malus
+    size_overlap_um:
+    aperture_bucket: tricol*
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: lookalike; some views a little larger
+  source: hand_seed
+  difficulty: difficult
+- anchor: prunus_pirus_typ
+  partner: prunus_laurocerasus
+  status: confirmed
+  signals:
+    hand_seeded: true
+    group: prunus-pirus-malus
+    size_overlap_um:
+    aperture_bucket: tricol*
+  borderline: false
+  ai_suggestion:
+  decided_by: user-2026-08-02
+  note: lookalike; a little larger
+  source: hand_seed
+  difficulty: easy

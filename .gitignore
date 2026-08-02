@@ -44,6 +44,7 @@ docs/data/pollen.json
 docs/assets/manifests/keys.json
 docs/assets/manifests/images.json
 docs/assets/manifests/palynoquest-items.json
+docs/assets/manifests/lookalike-groups.json
 _build/
 
 # Search index and temporary build files

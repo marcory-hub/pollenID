@@ -51,11 +51,21 @@ slug:
   frequency_in_dutch_honey:
   frequency_in_eu_honey:
   frequency_in_non_eu_honey:
+  learning_priority_rank:   # optional int
+  lookalikes:               # optional; confirmed lookalike SoT
+    pairs:
+      - partner: other_slug
+        status: confirmed   # confirmed | unsure | rejected
+        note:               # optional short factual note
+    groups:
+      - acer-prunus-pyrus    # docs/lookalikes/<slug>.md stem
   links: { pollenX, tstebler, paldat, waarneming }
   images: [...]
 ```
 Normalize structure with `./.venv/bin/python scripts/normalize_pollen_yaml_schema.py`.
 MkDocs macros still accept legacy paths (`latin`, `size.smallest_size`, …) via aliases in `scripts/pollen_display.py`.
+
+Lookalike workflow: `scripts/lookalike_candidates.py` → confirm in `data/lookalike_review.yaml` → `scripts/promote_lookalikes.py` → manifests via `scripts/build_manifests.py`.
 
 ## Workflow (token-efficient)
 - Read only what you need: use targeted search, then small `Read` windows around the relevant key.

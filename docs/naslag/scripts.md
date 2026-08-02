@@ -47,12 +47,17 @@ python scripts/<script>.py …
 | `scripts/fill_typ_images.py` | Vult `images` voor `*_typ`-taxa vanuit genus-matchende by-taxon-mappen (max 8, seed 42) |
 | `scripts/sync_pollen_placeholders.py` | Synchroniseert placeholder-taxa |
 | `scripts/sync_placeholder_taxa_from_keys.py` | Placeholder-taxa vanuit sleutel-JSON |
+| `scripts/lookalike_candidates.py` | Kandidaten-shortlist (grootte ±10 µm, apertuur-bucket, Beug multi-class) → `data/lookalike_review.yaml` |
+| `scripts/promote_lookalikes.py` | Promoveert `status: confirmed` uit review naar `lookalikes` in `data/pollen.yaml` |
 
 ```bash
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --dry-run
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py
 ./.venv/bin/python scripts/fill_typ_images.py --dry-run
 ./.venv/bin/python scripts/sync_yaml_confident_images.py
+./.venv/bin/python scripts/lookalike_candidates.py --confirm-published
+./.venv/bin/python scripts/promote_lookalikes.py --dry-run
+./.venv/bin/python scripts/promote_lookalikes.py
 ```
 
 `pollen_class_beug` labels: Polyad, Tetrad, Dyad, Vesiculat, Inaperturat, Monoporat, Monocolpat, Syncolpat, Dicolpat, Dicolporat, Tricolpat-psilat, Tricolporat-psilat, Tricol-clavat, Tricol-echinat, Tricolpat-striat, Tricolporat-striat, Tricolpat-reticulat, Tricolporat-reticulat, Stephanocolpat, Stephanocolporat, Pericolpat, Pericolporat, Heterocolpat, Fenestrat, Diporat, Triporat, Stephanoporat, Periporat.

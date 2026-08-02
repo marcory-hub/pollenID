@@ -1,0 +1,299 @@
+[
+  {
+    "n": 1,
+    "a": "cichorium_intybus",
+    "b": "taraxacum_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 10.0,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 2,
+    "a": "crepis_biennis",
+    "b": "taraxacum_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 2.5,
+    "outside_10": false,
+    "difficulty": "difficult"
+  },
+  {
+    "n": 3,
+    "a": "hieracium_aurantiacum",
+    "b": "taraxacum_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 1.0,
+    "outside_10": false,
+    "difficulty": "difficult"
+  },
+  {
+    "n": 4,
+    "a": "hieracium_typ",
+    "b": "taraxacum_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 2.0,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 5,
+    "a": "sonchus_arvensis",
+    "b": "taraxacum_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 14.5,
+    "outside_10": true,
+    "difficulty": "easy"
+  },
+  {
+    "n": 6,
+    "a": "taraxacum_typ",
+    "b": "tragopogon_typ",
+    "group": "fenestraat-taraxacum",
+    "note": "fenestraat / letter T (composieten ABCHJST)",
+    "delta_um": 16.0,
+    "outside_10": true,
+    "difficulty": "easy"
+  },
+  {
+    "n": 7,
+    "a": "brassica_typ",
+    "b": "fraxinus_ornus",
+    "group": "fraxinus-salix-cruciferae",
+    "note": "",
+    "delta_um": 3.25,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 8,
+    "a": "brassica_typ",
+    "b": "salix_typ",
+    "group": "fraxinus-salix-cruciferae",
+    "note": "",
+    "delta_um": 6.75,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 9,
+    "a": "fraxinus_ornus",
+    "b": "salix_typ",
+    "group": "fraxinus-salix-cruciferae",
+    "note": "",
+    "delta_um": 3.5,
+    "outside_10": false
+  },
+  {
+    "n": 10,
+    "a": "aesculus_hippocastanum",
+    "b": "melilotus_officinalis",
+    "group": "melilotus-trifolium-repens",
+    "note": "",
+    "delta_um": 2.0,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 11,
+    "a": "aesculus_hippocastanum",
+    "b": "trifolium_repens",
+    "group": "melilotus-trifolium-repens",
+    "note": "",
+    "delta_um": 1.0,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 12,
+    "a": "melilotus_officinalis",
+    "b": "trifolium_repens",
+    "group": "melilotus-trifolium-repens",
+    "note": "",
+    "delta_um": 3.0,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 13,
+    "a": "malus_typ",
+    "b": "prunus_pirus_typ",
+    "group": "prunus-pirus-malus",
+    "note": "lookalike (Malus / Peer side)",
+    "delta_um": 8.25,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 14,
+    "a": "prunus_avium",
+    "b": "prunus_pirus_typ",
+    "group": "prunus-pirus-malus",
+    "note": "lookalike; some views a little larger",
+    "delta_um": 0.0,
+    "outside_10": false,
+    "difficulty": "difficult"
+  },
+  {
+    "n": 15,
+    "a": "prunus_laurocerasus",
+    "b": "prunus_pirus_typ",
+    "group": "prunus-pirus-malus",
+    "note": "lookalike; a little larger",
+    "delta_um": 4.25,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 16,
+    "a": "brassica_typ",
+    "b": "ligustrum_vulgare",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 3.650000000000002,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 17,
+    "a": "brassica_typ",
+    "b": "raphanus_typ",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 2.25,
+    "outside_10": false,
+    "difficulty": "difficult"
+  },
+  {
+    "n": 18,
+    "a": "brassica_typ",
+    "b": "sinapis_typ",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 7.75,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 19,
+    "a": "ligustrum_vulgare",
+    "b": "raphanus_typ",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 5.900000000000002,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 20,
+    "a": "ligustrum_vulgare",
+    "b": "sinapis_typ",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 4.099999999999998,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 21,
+    "a": "raphanus_typ",
+    "b": "sinapis_typ",
+    "group": "raphanus-brassica-sinapis-ligustrum",
+    "note": "",
+    "delta_um": 10.0,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 22,
+    "a": "prunus_padus",
+    "b": "prunus_serotina",
+    "group": "rubus-prunus-vogelkers",
+    "note": "",
+    "delta_um": 2.0,
+    "outside_10": false
+  },
+  {
+    "n": 23,
+    "a": "prunus_padus",
+    "b": "rubus_typ",
+    "group": "rubus-prunus-vogelkers",
+    "note": "",
+    "delta_um": 0.0,
+    "outside_10": false,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 24,
+    "a": "prunus_serotina",
+    "b": "rubus_typ",
+    "group": "rubus-prunus-vogelkers",
+    "note": "",
+    "delta_um": 2.0,
+    "outside_10": false
+  },
+  {
+    "n": 25,
+    "a": "anthriscus_typ",
+    "b": "vicia_typ",
+    "group": "umbelliferae-vicia",
+    "note": "",
+    "delta_um": 26.85,
+    "outside_10": true,
+    "difficulty": "moderate"
+  },
+  {
+    "n": 26,
+    "a": "centaurea_cyanus",
+    "b": "heracleum_typ",
+    "group": "",
+    "note": "user: lookalike",
+    "delta_um": 0.4000000000000057,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 27,
+    "a": "centaurea_cyanus",
+    "b": "trifolium_pratense",
+    "group": "",
+    "note": "user: lookalike",
+    "delta_um": 0.6000000000000085,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 28,
+    "a": "centaurea_cyanus",
+    "b": "vicia_typ",
+    "group": "",
+    "note": "user: lookalike",
+    "delta_um": 8.900000000000006,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 29,
+    "a": "centaurea_typ",
+    "b": "ranunculus_typ",
+    "group": "",
+    "note": "user: lookalike",
+    "delta_um": 1.5,
+    "outside_10": false,
+    "difficulty": "easy"
+  },
+  {
+    "n": 30,
+    "a": "ranunculus_typ",
+    "b": "sinapis_typ",
+    "group": "",
+    "note": "user: lookalike",
+    "delta_um": 1.5,
+    "outside_10": false,
+    "difficulty": "moderate"
+  }
+]
