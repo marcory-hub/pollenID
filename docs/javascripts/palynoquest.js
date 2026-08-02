@@ -115,15 +115,29 @@
 
   var LS_LEVEL = "pid_pq_level";
   var LS_PROGRESS = "pid_pq_progress";
-  var LS_LOOKALIKE = "pid_pq_lookalike";
-  var LS_LOOKALIKE_DIFF = "pid_pq_lookalike_diff";
   var BOX_MAX = 4;
   var LOOKALIKE_DIFFS = { easy: true, moderate: true, difficult: true };
 
-  function clampLookalikeDiff(v) {
-    var s = String(v || "all").toLowerCase();
-    if (s === "all" || LOOKALIKE_DIFFS[s]) return s;
-    return "all";
+  function parseLevelValue(raw) {
+    var s = String(raw == null ? "1" : raw).trim().toLowerCase();
+    if (s === "lookalike" || s === "lookalike-all") {
+      return { lookalikeMode: true, lookalikeDiff: "all", level: 1, value: "lookalike" };
+    }
+    if (s.indexOf("lookalike-") === 0) {
+      var diff = s.slice("lookalike-".length);
+      if (!LOOKALIKE_DIFFS[diff]) diff = "all";
+      return {
+        lookalikeMode: true,
+        lookalikeDiff: diff,
+        level: 1,
+        value: "lookalike-" + diff,
+      };
+    }
+    var lv = Number(s);
+    if (!isFinite(lv) || lv < 1) lv = 1;
+    if (lv > 3) lv = 3;
+    lv = Math.floor(lv);
+    return { lookalikeMode: false, lookalikeDiff: "all", level: lv, value: String(lv) };
   }
 
   function readLocalJson(key, fallback) {
@@ -146,10 +160,7 @@
   }
 
   function clampLevel(n) {
-    var v = Number(n);
-    if (!isFinite(v) || v < 1) return 1;
-    if (v > 3) return 3;
-    return Math.floor(v);
+    return parseLevelValue(n).level;
   }
 
   function groupKeyFromImagePath(p) {
@@ -186,7 +197,9 @@
       level: 1,
       lookalikeMode: false,
       lookalikeDiff: "all",
-      lookalikePartners: {},
+      lookalikePairs: [],
+      lookalikePool: [],
+      currentLookalike: null,
       progress: {},
       current: null,
       selectedKeyJsonUrl: null,
@@ -217,9 +230,8 @@
     var infoEl = qs(root, "[data-pq-info]");
     var levelEl = qs(root, "[data-pq-level]");
     var progressEl = qs(root, "[data-pq-progress]");
-    var lookalikeEl = qs(root, "[data-pq-lookalike]");
-    var lookalikeDiffEl = qs(root, "[data-pq-lookalike-diff]");
-    var lookalikeDiffWrapEl = qs(root, "[data-pq-lookalike-diff-wrap]");
+    var normalPanels = root.querySelectorAll("[data-pq-normal-panel]");
+    var lookalikePanelEl = qs(root, "[data-pq-lookalike-panel]");
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -423,25 +435,18 @@
       };
     }
 
-    function partnersForSlug(slug) {
-      if (!slug) return [];
-      var list = state.lookalikePartners[slug];
-      if (!Array.isArray(list) || list.length === 0) return [];
-      var want = state.lookalikeDiff || "all";
-      var out = [];
-      for (var i = 0; i < list.length; i += 1) {
-        var row = list[i];
-        if (!row || typeof row.partner !== "string" || !row.partner) continue;
-        if (want !== "all") {
-          if (row.difficulty !== want) continue;
-        }
-        out.push(row.partner);
-      }
-      return out;
+    function pairKey(a, b) {
+      return a <= b ? a + "|" + b : b + "|" + a;
     }
 
-    function slugHasLookalikePartners(slug) {
-      return partnersForSlug(slug).length > 0;
+    function buildLookalikePool() {
+      var want = state.lookalikeDiff || "all";
+      state.lookalikePool = (state.lookalikePairs || []).filter(function (p) {
+        if (!p || !p.a || !p.b) return false;
+        if (want === "all") return true;
+        return p.difficulty === want;
+      });
+      return state.lookalikePool;
     }
 
     var LEVEL1_MAX_RANK = 20;
@@ -464,9 +469,7 @@
       var lv = clampLevel(level);
       state.level = lv;
       state.pool = (state.items || []).filter(function (it) {
-        if (!itemInLevel(it, lv)) return false;
-        if (!state.lookalikeMode) return true;
-        return slugHasLookalikePartners(slugForCurrentItem(it));
+        return itemInLevel(it, lv);
       });
       return state.pool;
     }
@@ -521,8 +524,61 @@
       return pool[pool.length - 1];
     }
 
+    function pickWeightedLookalike(pool) {
+      if (!Array.isArray(pool) || pool.length === 0) return null;
+      var weights = [];
+      var total = 0;
+      for (var i = 0; i < pool.length; i += 1) {
+        var pk = pairKey(pool[i].a, pool[i].b);
+        var w = BOX_MAX + 1 - boxForSlug(pk);
+        if (w < 1) w = 1;
+        weights.push(w);
+        total += w;
+      }
+      var r = Math.random() * total;
+      var acc = 0;
+      for (var j = 0; j < pool.length; j += 1) {
+        acc += weights[j];
+        if (r < acc) return pool[j];
+      }
+      return pool[pool.length - 1];
+    }
+
+    function syncModePanels() {
+      var i;
+      for (i = 0; i < normalPanels.length; i += 1) {
+        normalPanels[i].hidden = !!state.lookalikeMode;
+      }
+      if (lookalikePanelEl) lookalikePanelEl.hidden = !state.lookalikeMode;
+    }
+
     function renderProgress() {
       if (!progressEl) return;
+      if (state.lookalikeMode) {
+        var laPool = state.lookalikePool || [];
+        var masteredLa = 0;
+        laPool.forEach(function (p) {
+          if (boxForSlug(pairKey(p.a, p.b)) >= BOX_MAX) masteredLa += 1;
+        });
+        var diffLabel =
+          state.lookalikeDiff === "easy"
+            ? "makkelijk"
+            : state.lookalikeDiff === "moderate"
+              ? "matig"
+              : state.lookalikeDiff === "difficult"
+                ? "moeilijk"
+                : "alle klassen";
+        progressEl.innerHTML =
+          '<span class="md-typeset">' +
+          "<strong>Lookalike (" +
+          esc(diffLabel) +
+          ")</strong>: " +
+          esc(String(masteredLa)) +
+          "/" +
+          esc(String(laPool.length)) +
+          " paren in hoogste box</span>";
+        return;
+      }
       var pool = state.pool || [];
       var slugs = {};
       pool.forEach(function (it) {
@@ -541,27 +597,13 @@
           : state.level === 2
             ? "Alle prioriteit"
             : "Alles";
-      var modeLabel = "";
-      if (state.lookalikeMode) {
-        var diffLabel =
-          state.lookalikeDiff === "easy"
-            ? "makkelijk"
-            : state.lookalikeDiff === "moderate"
-              ? "matig"
-              : state.lookalikeDiff === "difficult"
-                ? "moeilijk"
-                : "alle klassen";
-        modeLabel = " · Lookalike (" + diffLabel + ")";
-      }
       progressEl.innerHTML =
         '<span class="md-typeset">' +
         "<strong>Niveau " +
         esc(String(state.level)) +
         " (" +
         esc(levelLabel) +
-        ")</strong>" +
-        esc(modeLabel) +
-        ": " +
+        ")</strong>: " +
         esc(String(mastered)) +
         "/" +
         esc(String(total)) +
@@ -570,55 +612,21 @@
         " quizbeelden</span>";
     }
 
-    function applyLevel(level, restart) {
-      buildPool(level);
-      writeLocalJson(LS_LEVEL, state.level);
-      if (levelEl) levelEl.value = String(state.level);
+    function applyLevel(raw, restart) {
+      var parsed = parseLevelValue(raw);
+      state.lookalikeMode = parsed.lookalikeMode;
+      state.lookalikeDiff = parsed.lookalikeDiff;
+      state.level = parsed.level;
+      writeLocalJson(LS_LEVEL, parsed.value);
+      if (levelEl) levelEl.value = parsed.value;
+      syncModePanels();
+      if (state.lookalikeMode) {
+        buildLookalikePool();
+      } else {
+        buildPool(state.level);
+      }
       renderProgress();
       if (restart) newQuestion();
-    }
-
-    function syncLookalikeDiffUi() {
-      if (lookalikeDiffWrapEl) {
-        if (state.lookalikeMode) {
-          lookalikeDiffWrapEl.hidden = false;
-          lookalikeDiffWrapEl.style.display = "inline-flex";
-        } else {
-          lookalikeDiffWrapEl.hidden = true;
-          lookalikeDiffWrapEl.style.display = "none";
-        }
-      }
-      if (lookalikeDiffEl) {
-        lookalikeDiffEl.value = clampLookalikeDiff(state.lookalikeDiff);
-      }
-    }
-
-    function applyLookalikeMode(on, restart) {
-      state.lookalikeMode = !!on;
-      writeLocalJson(LS_LOOKALIKE, state.lookalikeMode);
-      if (lookalikeEl) lookalikeEl.checked = state.lookalikeMode;
-      syncLookalikeDiffUi();
-      buildPool(state.level);
-      renderProgress();
-      if (restart) {
-        newQuestion();
-      } else if (mcqEl && !mcqEl.hidden && state.current) {
-        buildMcq(state.current);
-      }
-    }
-
-    function applyLookalikeDiff(diff, restart) {
-      state.lookalikeDiff = clampLookalikeDiff(diff);
-      writeLocalJson(LS_LOOKALIKE_DIFF, state.lookalikeDiff);
-      syncLookalikeDiffUi();
-      if (!state.lookalikeMode) return;
-      buildPool(state.level);
-      renderProgress();
-      if (restart) {
-        newQuestion();
-      } else if (mcqEl && !mcqEl.hidden && state.current) {
-        buildMcq(state.current);
-      }
     }
 
     function clearInfo() {
@@ -746,38 +754,36 @@
       if (!mcqEl) return;
       mcqEl.replaceChildren();
       var opts = [];
-      var anchorSlug = slugForCurrentItem(item);
-      if (item && item.strict && item.strict.endpointText) {
-        var strictText = item.strict.endpointText;
+
+      if (state.lookalikeMode && state.currentLookalike) {
+        var la = state.currentLookalike;
+        var correctLabel = labelForSlug(la.shownSlug) || la.shownSlug;
+        var wrongLabel = labelForSlug(la.partnerSlug) || la.partnerSlug;
+        var wrongEx = exampleForSlug(la.partnerSlug);
         opts.push({
-          text: displayNameFromEndpointText(strictText) || strictText,
+          text: correctLabel,
           correct: true,
-          image: item.image,
-          imageWidthPx: item.imageWidthPx,
+          image: la.image,
+          imageWidthPx: la.imageWidthPx,
         });
-      }
-      if (state.lookalikeMode && anchorSlug) {
-        var partners = shuffle(partnersForSlug(anchorSlug));
-        partners.forEach(function (pslug) {
-          if (opts.length >= 4) return;
-          var label = labelForSlug(pslug);
-          if (!label) return;
-          if (
-            opts.some(function (o) {
-              return o.text === label;
-            })
-          ) {
-            return;
-          }
-          var ex = exampleForSlug(pslug);
-          opts.push({
-            text: label,
-            correct: false,
-            image: ex ? ex.image : null,
-            imageWidthPx: ex ? ex.imageWidthPx : null,
-          });
+        opts.push({
+          text: wrongLabel,
+          correct: false,
+          image: wrongEx ? wrongEx.image : null,
+          imageWidthPx: wrongEx ? wrongEx.imageWidthPx : null,
         });
+        opts = shuffle(opts).slice(0, 2);
       } else {
+        var anchorSlug = slugForCurrentItem(item);
+        if (item && item.strict && item.strict.endpointText) {
+          var strictText = item.strict.endpointText;
+          opts.push({
+            text: displayNameFromEndpointText(strictText) || strictText,
+            correct: true,
+            image: item.image,
+            imageWidthPx: item.imageWidthPx,
+          });
+        }
         (item.distractors || []).forEach(function (d) {
           if (d && d.endpointText) {
             var dt = d.endpointText;
@@ -791,41 +797,41 @@
             });
           }
         });
-      }
-      if (opts.length < 4) {
-        var pool = (state.pool && state.pool.length ? state.pool : state.items || [])
-          .map(function (it) {
-            var t = it && it.strict ? it.strict.endpointText : "";
-            return displayNameFromEndpointText(t) || t;
-          })
-          .filter(function (t) {
-            var strictFull = item && item.strict ? item.strict.endpointText : "";
-            var strictName = displayNameFromEndpointText(strictFull) || strictFull;
-            return typeof t === "string" && t && t !== strictName;
-          });
-        pool = shuffle(pool);
-        while (opts.length < 4 && pool.length > 0) {
-          var t = pool.pop();
-          if (
-            t &&
-            !opts.some(function (o) {
-              return o.text === t;
+        if (opts.length < 4) {
+          var pool = (state.pool && state.pool.length ? state.pool : state.items || [])
+            .map(function (it) {
+              var t = it && it.strict ? it.strict.endpointText : "";
+              return displayNameFromEndpointText(t) || t;
             })
-          ) {
-            var ex2 = state.endpointToExample[t] || null;
-            opts.push({ text: t, correct: false });
-            opts[opts.length - 1].image = ex2 ? ex2.image : null;
-            opts[opts.length - 1].imageWidthPx = ex2 ? ex2.imageWidthPx : null;
+            .filter(function (t) {
+              var strictFull = item && item.strict ? item.strict.endpointText : "";
+              var strictName = displayNameFromEndpointText(strictFull) || strictFull;
+              return typeof t === "string" && t && t !== strictName;
+            });
+          pool = shuffle(pool);
+          while (opts.length < 4 && pool.length > 0) {
+            var t = pool.pop();
+            if (
+              t &&
+              !opts.some(function (o) {
+                return o.text === t;
+              })
+            ) {
+              var ex2 = state.endpointToExample[t] || null;
+              opts.push({ text: t, correct: false });
+              opts[opts.length - 1].image = ex2 ? ex2.image : null;
+              opts[opts.length - 1].imageWidthPx = ex2 ? ex2.imageWidthPx : null;
+            }
           }
         }
+        opts = shuffle(opts).slice(0, 4);
       }
-      opts = shuffle(opts).slice(0, 4);
+
       opts.forEach(function (o) {
         var b = document.createElement("button");
         b.type = "button";
         b.className = "md-button";
         b.innerHTML = esc(o.text);
-        // Align option labels left (more readable with varying lengths)
         b.style.textAlign = "left";
         b.style.display = "flex";
         b.style.justifyContent = "flex-start";
@@ -834,10 +840,17 @@
           setMcqStatus(
             o.correct ? "<strong>Juist.</strong>" : "<strong>Onjuist.</strong>"
           );
-          recordAnswer(slugForCurrentItem(state.current), !!o.correct);
+          var progressSlug = state.lookalikeMode && state.currentLookalike
+            ? state.currentLookalike.pairKey
+            : slugForCurrentItem(state.current);
+          recordAnswer(progressSlug, !!o.correct);
           if (o.correct) {
             clearWrongPreview();
-            renderInfo(slugForCurrentItem(state.current));
+            renderInfo(
+              state.lookalikeMode && state.currentLookalike
+                ? state.currentLookalike.shownSlug
+                : slugForCurrentItem(state.current)
+            );
           } else {
             clearInfo();
             showWrongPreview(o);
@@ -847,9 +860,86 @@
       });
     }
 
+    function newLookalikeQuestion() {
+      var pool = state.lookalikePool || [];
+      var pair = pickWeightedLookalike(pool);
+      state.current = null;
+      state.currentLookalike = null;
+      state.diverged = false;
+      state.expectedPath = null;
+      state.pendingJump = false;
+      state.selectedKeyJsonUrl = null;
+      if (keyWrapEl) keyWrapEl.replaceChildren();
+      if (!pair) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen lookalike-paren voor deze klasse.</strong> Kies Alle of een andere lookalike-optie.</p>'
+        );
+        if (mcqEl) {
+          mcqEl.hidden = true;
+          mcqEl.replaceChildren();
+        }
+        setMcqStatus("");
+        clearWrongPreview();
+        clearInfo();
+        clearGallery();
+        renderProgress();
+        return;
+      }
+      var showA = Math.random() < 0.5;
+      var shownSlug = showA ? pair.a : pair.b;
+      var partnerSlug = showA ? pair.b : pair.a;
+      var ex = exampleForSlug(shownSlug);
+      if (!ex || !ex.image) {
+        ex = exampleForSlug(partnerSlug);
+        if (ex && ex.image) {
+          var swap = shownSlug;
+          shownSlug = partnerSlug;
+          partnerSlug = swap;
+        }
+      }
+      if (!ex || !ex.image) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen lookalike-beeld beschikbaar voor dit paar.</strong> Probeer Volgende.</p>'
+        );
+        renderProgress();
+        return;
+      }
+      state.currentLookalike = {
+        a: pair.a,
+        b: pair.b,
+        shownSlug: shownSlug,
+        partnerSlug: partnerSlug,
+        pairKey: pairKey(pair.a, pair.b),
+        difficulty: pair.difficulty || null,
+        image: ex.image,
+        imageWidthPx: ex.imageWidthPx,
+      };
+      if (inputEl) inputEl.value = "";
+      setStatus("");
+      setImage(ex.image);
+      applyImageWidth({ imageWidthPx: ex.imageWidthPx });
+      clearGallery();
+      clearWrongPreview();
+      clearInfo();
+      setMcqStatus("");
+      if (pathEl) {
+        pathEl.hidden = true;
+        pathEl.replaceChildren();
+      }
+      if (jumpEl) jumpEl.hidden = true;
+      buildMcq(null);
+      if (mcqEl) mcqEl.hidden = false;
+      renderProgress();
+    }
+
     function newQuestion() {
+      if (state.lookalikeMode) {
+        newLookalikeQuestion();
+        return;
+      }
+      state.currentLookalike = null;
       var pool = state.pool || [];
-      if (!pool.length && !state.lookalikeMode) {
+      if (!pool.length) {
         pool = state.items || [];
       }
       state.current = pickWeighted(pool);
@@ -861,10 +951,9 @@
         keyWrapEl.replaceChildren();
       }
       if (!state.current) {
-        var emptyMsg = state.lookalikeMode
-          ? '<p class="admonition warning"><strong>Geen lookalike-items voor deze klasse in dit niveau.</strong> Kies Alle, een andere klasse, of een hoger niveau.</p>'
-          : '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>';
-        setStatus(emptyMsg);
+        setStatus(
+          '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>'
+        );
         renderProgress();
         return;
       }
@@ -1090,16 +1179,6 @@
         applyLevel(levelEl.value, true);
       });
     }
-    if (lookalikeEl) {
-      lookalikeEl.addEventListener("change", function () {
-        applyLookalikeMode(!!lookalikeEl.checked, true);
-      });
-    }
-    if (lookalikeDiffEl) {
-      lookalikeDiffEl.addEventListener("change", function () {
-        applyLookalikeDiff(lookalikeDiffEl.value, true);
-      });
-    }
 
     loadAll()
       .then(function (all) {
@@ -1109,7 +1188,7 @@
         state.pollen =
           pollenRoot && typeof pollenRoot === "object" && !Array.isArray(pollenRoot) ? pollenRoot : {};
         state.imageToSlug = buildImageToSlugFromPollen(state.pollen);
-        state.lookalikePartners = {};
+        state.lookalikePairs = [];
         var la = all.lookalikes || {};
         (la.pairs || []).forEach(function (p) {
           if (!p || typeof p.a !== "string" || typeof p.b !== "string") return;
@@ -1117,19 +1196,7 @@
             typeof p.difficulty === "string" && LOOKALIKE_DIFFS[p.difficulty]
               ? p.difficulty
               : null;
-          function addEdge(from, to) {
-            if (!state.lookalikePartners[from]) state.lookalikePartners[from] = [];
-            var list = state.lookalikePartners[from];
-            for (var i = 0; i < list.length; i += 1) {
-              if (list[i] && list[i].partner === to) {
-                if (diff && !list[i].difficulty) list[i].difficulty = diff;
-                return;
-              }
-            }
-            list.push({ partner: to, difficulty: diff });
-          }
-          addEdge(p.a, p.b);
-          addEdge(p.b, p.a);
+          state.lookalikePairs.push({ a: p.a, b: p.b, difficulty: diff });
         });
         state.endpointToExample = {};
         state.groupToImages = {};
@@ -1137,10 +1204,6 @@
         if (typeof state.progress !== "object" || Array.isArray(state.progress)) {
           state.progress = {};
         }
-        state.lookalikeMode = !!readLocalJson(LS_LOOKALIKE, false);
-        state.lookalikeDiff = clampLookalikeDiff(readLocalJson(LS_LOOKALIKE_DIFF, "all"));
-        if (lookalikeEl) lookalikeEl.checked = state.lookalikeMode;
-        syncLookalikeDiffUi();
         (state.items || []).forEach(function (it) {
           if (!it || !it.strict || !it.strict.endpointText) return;
           var name = displayNameFromEndpointText(it.strict.endpointText) || it.strict.endpointText;

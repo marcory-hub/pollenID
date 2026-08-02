@@ -50,7 +50,7 @@ extra_css:
 extra_javascript:
   - javascripts/pollentabel.js?v=2026-07-18-rename
   - javascripts/kerkvliet-determinatietabel.js?v=2026-05-07-2028
-  - javascripts/palynoquest.js?v=2026-08-02-lookalike-diff
+  - javascripts/palynoquest.js?v=2026-08-02-lookalike-binary
 
 nav:
   - Home: index.md
