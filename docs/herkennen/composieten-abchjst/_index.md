@@ -273,5 +273,3 @@ Lege `_todo/`-mappen; geen nieuwe soortpagina's tot er PNG's liggen. Daarna: `sc
 | [Punt, Hoen, Blackmore, Nilsson & Le Thomas (2007), Glossary of Pollen and Spore Terminology](http://www3.bio.uu.nl/palaeo/glossary/glos-int.htm) | termen; Kerkvliet noemt dit als bron voor type-afbeeldingen |
 | Beug 17.1 / 29 | determinatiesleutel-equivalenten |
 | Jafari & Ghanbarian (2007), DOI [10.3923/jps.2007.195.201](https://doi.org/10.3923/jps.2007.195.201) | vergelijking Cynareae-typen; fulltext-URL op scialert.net werkt niet |
-
-Oefenen: [Willekeurig](../../naslag/palynoquest.md). Sleutel: [Beug 17.1 Asteraceae](../../Identificatiesleutels/beug17-ttt-ech-asteraceae.md).

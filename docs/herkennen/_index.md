@@ -8,5 +8,4 @@ Pollen herkennen: grootte, vorm, apertuur en sculptuur.
 | [Niveau 2 - Alle prioriteit](niveau-2-alle-prioriteit/_index.md) | +22 prioriteitstaxa |
 | [Niveau 3 - Alles](niveau-3-alles/_index.md) | volledige pool |
 | [Composieten (ABCHJST)](composieten-abchjst/_index.md) | Asteraceae-typen A/C/H/J/S/T (Kerkvliet) |
-
-Oefenen: [Willekeurig](../naslag/palynoquest.md).
+| [Rosaceae (Beug-typen)](rosaceae-beugtypen/_index.md) | Beug 20 + Sanguisorba/Filipendula; Reitsma/Eide |

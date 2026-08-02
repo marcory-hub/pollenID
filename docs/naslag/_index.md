@@ -1,6 +1,6 @@
 # Naslag
 
-## Oefenen
+## PalynoQuest
 
 - [PalynoQuest](palynoquest.md)
 
