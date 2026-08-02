@@ -1677,8 +1677,8 @@ cynoglossum_typ:
     dutch_name: hondstong type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
     genus:
   size:
@@ -5116,8 +5116,8 @@ myosotis_typ:
     dutch_name: vergeet-me-nietje type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
     genus:
   size:
@@ -5563,8 +5563,8 @@ phacelia_typ:
     dutch_name: phacelia type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Boraginaceae
+    family_dutch: ruwbladigenfamilie
     tribe:
     genus:
   size:
@@ -10165,8 +10165,8 @@ cornus_mas:
     dutch_name: gele kornoelje
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Cornaceae
+    family_dutch: kornoeljefamilie
     tribe:
     genus:
   size:
@@ -10227,8 +10227,8 @@ cornus_sanguinea:
     dutch_name: rode kornoelje
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Cornaceae
+    family_dutch: kornoeljefamilie
     tribe:
     genus:
   size:
@@ -12283,8 +12283,8 @@ erica_tetralix:
     dutch_name: dopheide
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Ericaceae
+    family_dutch: heidefamilie
     tribe:
     genus:
   size:
@@ -55686,8 +55686,8 @@ lamium_typ:
     dutch_name: dovenetel type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Lamiaceae
+    family_dutch: lipbloemenfamilie
     tribe:
     genus:
   size:

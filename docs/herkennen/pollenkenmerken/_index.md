@@ -317,7 +317,7 @@ Meet de **grootste as** (µm). Orde van grootte (indicatief). Beelden true-scale
 
 ---
 
-## Familiepagina's (Niveau 1)
+## Familiepagina's
 
 | Pagina | Beug / typen |
 | :--- | :--- |
@@ -330,6 +330,11 @@ Meet de **grootste as** (µm). Orde van grootte (indicatief). Beelden true-scale
 | [Brassicaceae (kruisbloemenfamilie)](../brassicaceae-beugtypen/_index.md) | Beug 21.27 |
 | [Ranunculaceae (ranonkelfamilie)](../ranunculaceae-beugtypen/_index.md) | Beug 13 / 33 |
 | [Fabaceae (vlinderbloemenfamilie)](../fabaceae-beugtypen/_index.md) | Beug 22 / 23 / 14 / 31 |
+| [Boraginaceae (ruwbladigenfamilie)](../boraginaceae-beugtypen/_index.md) | Beug 28 / 24.3 |
+| [Lamiaceae (lipbloemenfamilie)](../lamiaceae-beugtypen/_index.md) | Beug 13.22 |
+| [Ericaceae (heidefamilie)](../ericaceae-beugtypen/_index.md) | Beug 4.7 |
+| [Cornaceae (kornoeljefamilie)](../cornaceae-beugtypen/_index.md) | Beug 15.1 |
+| [Caryophyllaceae (anjerfamilie)](../caryophyllaceae-beugtypen/_index.md) | Beug 33.8.9 |
 
 ## Bronnen
 

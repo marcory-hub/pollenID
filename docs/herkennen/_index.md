@@ -17,3 +17,8 @@ Pollen herkennen: grootte, vorm, apertuur en sculptuur.
 | [Brassicaceae (kruisbloemenfamilie)](brassicaceae-beugtypen/_index.md) | Beug 21.27 |
 | [Ranunculaceae (ranonkelfamilie)](ranunculaceae-beugtypen/_index.md) | Beug 13 + 33 (tricolpaat / periporaat) |
 | [Fabaceae (vlinderbloemenfamilie)](fabaceae-beugtypen/_index.md) | Beug 22.31 / 23 / 14.29 / 31.4 |
+| [Boraginaceae (ruwbladigenfamilie)](boraginaceae-beugtypen/_index.md) | Beug 28 + 24.3 *Phacelia* |
+| [Lamiaceae (lipbloemenfamilie)](lamiaceae-beugtypen/_index.md) | Beug 13.22 *Lamium* |
+| [Ericaceae (heidefamilie)](ericaceae-beugtypen/_index.md) | Beug 4.7 |
+| [Cornaceae (kornoeljefamilie)](cornaceae-beugtypen/_index.md) | Beug 15.1 *Cornus* |
+| [Caryophyllaceae (anjerfamilie)](caryophyllaceae-beugtypen/_index.md) | Beug 33.8.9 *Silene* |
