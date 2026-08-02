@@ -1,4 +1,4 @@
-# Composieten (ABCHJST)
+# Asteraceae (composietenfamilie) — ABCHJST
 
 Asteraceae-pollen in honing wordt meestal als **type** genoteerd, niet als soort. Kerkvliet groepeert composieten in zes typen: **A, C, H, J, S, T** (vijf echinaat; **C** zonder stekels).
 
@@ -23,10 +23,10 @@ Niet in dit letter-schema (echinaat A–T): *Galinsoga* (echinaat zonder letter)
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Achillea millefolium*](../../pollen/species/achillea_millefolium.md) | {{ pollen("achillea_millefolium", "size.size_smallest") }} | {{ pollen("achillea_millefolium", "sculpture") }} |
-| [*Anthemis nobilis*](../../pollen/species/anthemis_nobilis.md) | {{ pollen("anthemis_nobilis", "size.size_smallest") }} | {{ pollen("anthemis_nobilis", "sculpture") }} |
+| [*Achillea millefolium*](../../pollen/species/achillea_millefolium.md) (gewoon duizendblad) | {{ pollen("achillea_millefolium", "size.size_smallest") }} | {{ pollen("achillea_millefolium", "sculpture") }} |
+| [*Anthemis nobilis*](../../pollen/species/anthemis_nobilis.md) (roomse kamille) | {{ pollen("anthemis_nobilis", "size.size_smallest") }} | {{ pollen("anthemis_nobilis", "sculpture") }} |
 | [*Leucanthemum vulgare*](../../pollen/species/leucanthemum_vulgare.md) | {{ pollen("leucanthemum_vulgare", "size.size_smallest") }}–{{ pollen("leucanthemum_vulgare", "size.size_largest") }} | {{ pollen("leucanthemum_vulgare", "sculpture") }} |
-| [*Matricaria recutita*](../../pollen/species/matricaria_recutita.md) | {{ pollen("matricaria_recutita", "size.size_smallest") }}–{{ pollen("matricaria_recutita", "size.size_largest") }} | {{ pollen("matricaria_recutita", "sculpture") }} |
+| [*Matricaria recutita*](../../pollen/species/matricaria_recutita.md) (echte kamille) | {{ pollen("matricaria_recutita", "size.size_smallest") }}–{{ pollen("matricaria_recutita", "size.size_largest") }} | {{ pollen("matricaria_recutita", "sculpture") }} |
 
 ### Beelden
 
@@ -34,11 +34,11 @@ Niet in dit letter-schema (echinaat A–T): *Galinsoga* (echinaat zonder letter)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("achillea_millefolium", "assets/images/by-taxon/achillea_millefolium/achillea_millefolium_1.png") }}
-      <figcaption>*Achillea*</figcaption>
+      <figcaption>*Achillea* (gewoon duizendblad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("anthemis_nobilis", "assets/images/by-taxon/anthemis_nobilis/anthemis_nobilis_1.png") }}
-      <figcaption>*Anthemis*</figcaption>
+      <figcaption>*Anthemis* (roomse kamille)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("leucanthemum_vulgare", "assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_1.png") }}
@@ -46,7 +46,7 @@ Niet in dit letter-schema (echinaat A–T): *Galinsoga* (echinaat zonder letter)
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("matricaria_recutita", "assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png") }}
-      <figcaption>*Matricaria*</figcaption>
+      <figcaption>*Matricaria* (echte kamille)</figcaption>
     </figure>
   </div>
 </div>
@@ -59,8 +59,8 @@ Exine verrucaat/reticulaat, **geen** stekels.
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md) | {{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }} | {{ pollen("centaurea_cyanus", "sculpture") }} |
-| [*Centaurea montana*](../../pollen/species/centaurea_montana.md) | {{ pollen("centaurea_montana", "size.size_smallest") }} | {{ pollen("centaurea_montana", "sculpture") }} |
+| [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md) (korenbloem) | {{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }} | {{ pollen("centaurea_cyanus", "sculpture") }} |
+| [*Centaurea montana*](../../pollen/species/centaurea_montana.md) (bergcentaurie) | {{ pollen("centaurea_montana", "size.size_smallest") }} | {{ pollen("centaurea_montana", "sculpture") }} |
 
 ### Beelden
 
@@ -68,11 +68,11 @@ Exine verrucaat/reticulaat, **geen** stekels.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_cyanus", "assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png") }}
-      <figcaption>*C. cyanus*</figcaption>
+      <figcaption>*C. cyanus* (korenbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_montana", "assets/images/by-taxon/centaurea_montana/centaurea_montana_1.png") }}
-      <figcaption>*C. montana*</figcaption>
+      <figcaption>*C. montana* (bergcentaurie)</figcaption>
     </figure>
   </div>
 </div>
@@ -85,18 +85,18 @@ Niet C-type: *Centaurea jacea* (echinaat **J**). *Echinops* staat in Kerkvliet a
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Helianthus annuus*](../../pollen/species/helianthus_annuus.md) | {{ pollen("helianthus_annuus", "size.size_smallest") }} | {{ pollen("helianthus_annuus", "sculpture") }} |
-| [*Calendula officinalis*](../../pollen/species/calendula_officinalis.md) | {{ pollen("calendula_officinalis", "size.size_smallest") }} | {{ pollen("calendula_officinalis", "sculpture") }} |
-| [*Bidens typ*](../../pollen/species/bidens_typ.md) | {{ pollen("bidens_typ", "size.size_smallest") }} | {{ pollen("bidens_typ", "sculpture") }} |
-| [*Solidago virgaurea*](../../pollen/species/solidago_virgaurea.md) | {{ pollen("solidago_virgaurea", "size.size_smallest") }} | {{ pollen("solidago_virgaurea", "sculpture") }} |
-| [*Senecio jacobaea*](../../pollen/species/senecio_jacobaea.md) | {{ pollen("senecio_jacobaea", "size.size_smallest") }}–{{ pollen("senecio_jacobaea", "size.size_largest") }} | {{ pollen("senecio_jacobaea", "sculpture") }} |
-| [*Senecio typ*](../../pollen/species/senecio_typ.md) | {{ pollen("senecio_typ", "size.size_smallest") }} | {{ pollen("senecio_typ", "sculpture") }} |
-| [*Aster typ*](../../pollen/species/aster_typ.md) | {{ pollen("aster_typ", "size.size_smallest") }} | {{ pollen("aster_typ", "sculpture") }} |
-| [*Aster amellus*](../../pollen/species/aster_amellus.md) | {{ pollen("aster_amellus", "size.size_smallest") }}–{{ pollen("aster_amellus", "size.size_largest") }} | {{ pollen("aster_amellus", "sculpture") }} |
-| [*Eupatorium cannabinum*](../../pollen/species/eupatorium_cannabinum.md) | {{ pollen("eupatorium_cannabinum", "size.size_smallest") }} | {{ pollen("eupatorium_cannabinum", "sculpture") }} |
-| [*Cosmos typ*](../../pollen/species/cosmos_typ.md) | {{ pollen("cosmos_typ", "size.size_smallest") }} | {{ pollen("cosmos_typ", "sculpture") }} |
-| [*Helenium autumn*](../../pollen/species/helenium_autumn.md) | {{ pollen("helenium_autumn", "size.size_smallest") }} | {{ pollen("helenium_autumn", "sculpture") }} |
-| [*Artemisia typ*](../../pollen/species/artemisia_typ.md) | {{ pollen("artemisia_typ", "size.size_smallest") }} | {{ pollen("artemisia_typ", "sculpture") }} |
+| [*Helianthus annuus*](../../pollen/species/helianthus_annuus.md) (zonnebloem) | {{ pollen("helianthus_annuus", "size.size_smallest") }} | {{ pollen("helianthus_annuus", "sculpture") }} |
+| [*Calendula officinalis*](../../pollen/species/calendula_officinalis.md) (goudsbloem) | {{ pollen("calendula_officinalis", "size.size_smallest") }} | {{ pollen("calendula_officinalis", "sculpture") }} |
+| [*Bidens typ*](../../pollen/species/bidens_typ.md) (tandzaad type) | {{ pollen("bidens_typ", "size.size_smallest") }} | {{ pollen("bidens_typ", "sculpture") }} |
+| [*Solidago virgaurea*](../../pollen/species/solidago_virgaurea.md) (echte guldenroede) | {{ pollen("solidago_virgaurea", "size.size_smallest") }} | {{ pollen("solidago_virgaurea", "sculpture") }} |
+| [*Senecio jacobaea*](../../pollen/species/senecio_jacobaea.md) (Jacobs kruiskruid) | {{ pollen("senecio_jacobaea", "size.size_smallest") }}–{{ pollen("senecio_jacobaea", "size.size_largest") }} | {{ pollen("senecio_jacobaea", "sculpture") }} |
+| [*Senecio typ*](../../pollen/species/senecio_typ.md) (kruiskruid type) | {{ pollen("senecio_typ", "size.size_smallest") }} | {{ pollen("senecio_typ", "sculpture") }} |
+| [*Aster typ*](../../pollen/species/aster_typ.md) (aster type) | {{ pollen("aster_typ", "size.size_smallest") }} | {{ pollen("aster_typ", "sculpture") }} |
+| [*Aster amellus*](../../pollen/species/aster_amellus.md) (bergaster, italiaanse aster) | {{ pollen("aster_amellus", "size.size_smallest") }}–{{ pollen("aster_amellus", "size.size_largest") }} | {{ pollen("aster_amellus", "sculpture") }} |
+| [*Eupatorium cannabinum*](../../pollen/species/eupatorium_cannabinum.md) (leverkruid) | {{ pollen("eupatorium_cannabinum", "size.size_smallest") }} | {{ pollen("eupatorium_cannabinum", "sculpture") }} |
+| [*Cosmos typ*](../../pollen/species/cosmos_typ.md) (cosmea type) | {{ pollen("cosmos_typ", "size.size_smallest") }} | {{ pollen("cosmos_typ", "sculpture") }} |
+| [*Helenium autumn*](../../pollen/species/helenium_autumn.md) (Helenium) | {{ pollen("helenium_autumn", "size.size_smallest") }} | {{ pollen("helenium_autumn", "sculpture") }} |
+| [*Artemisia typ*](../../pollen/species/artemisia_typ.md) (bijvoet/alsem type) | {{ pollen("artemisia_typ", "size.size_smallest") }} | {{ pollen("artemisia_typ", "sculpture") }} |
 
 *Aster amellus* / *Symphyotrichum lanceolatum*: letter H genus-niveau via *Aster* [to be verified].
 
@@ -108,27 +108,27 @@ Niet C-type: *Centaurea jacea* (echinaat **J**). *Echinops* staat in Kerkvliet a
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("helianthus_annuus", "assets/images/by-taxon/helianthus_annuus/helianthus_annuus_3.png") }}
-      <figcaption>*Helianthus*</figcaption>
+      <figcaption>*Helianthus* (zonnebloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("calendula_officinalis", "assets/images/by-taxon/calendula_officinalis/calendula_officinalis_1.png") }}
-      <figcaption>*Calendula*</figcaption>
+      <figcaption>*Calendula* (goudsbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("solidago_virgaurea", "assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_1.png") }}
-      <figcaption>*Solidago*</figcaption>
+      <figcaption>*Solidago* (echte guldenroede)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("senecio_jacobaea", "assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_1.png") }}
-      <figcaption>*Senecio*</figcaption>
+      <figcaption>*Senecio* (Jacobs kruiskruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("aster_amellus", "assets/images/by-taxon/aster_amellus/aster_amellus_1.png") }}
-      <figcaption>*Aster*</figcaption>
+      <figcaption>*Aster* (bergaster, italiaanse aster)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("eupatorium_cannabinum", "assets/images/by-taxon/eupatorium_cannabinum/eupatorium_cannabinum_1.png") }}
-      <figcaption>*Eupatorium*</figcaption>
+      <figcaption>*Eupatorium* (leverkruid)</figcaption>
     </figure>
   </div>
 </div>
@@ -141,10 +141,10 @@ Nog geen foto's (bron bevestigt genus/soort): *Erigeron*, *Petasites*, *Tagetes*
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Centaurea jacea*](../../pollen/species/centaurea_jacea.md) | {{ pollen("centaurea_jacea", "size.size_smallest") }}–{{ pollen("centaurea_jacea", "size.size_largest") }} | {{ pollen("centaurea_jacea", "sculpture") }} |
-| [*Ambrosia artemisiifolia*](../../pollen/species/ambrosia_artemisiifolia.md) | {{ pollen("ambrosia_artemisiifolia", "size.size_smallest") }} | {{ pollen("ambrosia_artemisiifolia", "sculpture") }} |
-| [*Carthamus lanatus*](../../pollen/species/carthamus_lanatus.md) | {{ pollen("carthamus_lanatus", "size.size_smallest") }} | {{ pollen("carthamus_lanatus", "sculpture") }} |
-| [*Carthamus tinctorius*](../../pollen/species/carthamus_tinctorius.md) | {{ pollen("carthamus_tinctorius", "size.size_smallest") }} | {{ pollen("carthamus_tinctorius", "sculpture") }} |
+| [*Centaurea jacea*](../../pollen/species/centaurea_jacea.md) (knoopkruid) | {{ pollen("centaurea_jacea", "size.size_smallest") }}–{{ pollen("centaurea_jacea", "size.size_largest") }} | {{ pollen("centaurea_jacea", "sculpture") }} |
+| [*Ambrosia artemisiifolia*](../../pollen/species/ambrosia_artemisiifolia.md) (Ambrosia) | {{ pollen("ambrosia_artemisiifolia", "size.size_smallest") }} | {{ pollen("ambrosia_artemisiifolia", "sculpture") }} |
+| [*Carthamus lanatus*](../../pollen/species/carthamus_lanatus.md) (wollige saffloer) | {{ pollen("carthamus_lanatus", "size.size_smallest") }} | {{ pollen("carthamus_lanatus", "sculpture") }} |
+| [*Carthamus tinctorius*](../../pollen/species/carthamus_tinctorius.md) (saffloer) | {{ pollen("carthamus_tinctorius", "size.size_smallest") }} | {{ pollen("carthamus_tinctorius", "sculpture") }} |
 
 ### Beelden
 
@@ -152,15 +152,15 @@ Nog geen foto's (bron bevestigt genus/soort): *Erigeron*, *Petasites*, *Tagetes*
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_jacea", "assets/images/by-taxon/centaurea_jacea/centaurea_jacea_1.png") }}
-      <figcaption>*C. jacea*</figcaption>
+      <figcaption>*C. jacea* (knoopkruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ambrosia_artemisiifolia", "assets/images/by-taxon/ambrosia_artemisiifolia/ambrosia_artemisiifolia_1.png") }}
-      <figcaption>*Ambrosia*</figcaption>
+      <figcaption>*Ambrosia* (Ambrosia)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("carthamus_tinctorius", "assets/images/by-taxon/carthamus_tinctorius/carthamus_tinctorius_1.png") }}
-      <figcaption>*Carthamus*</figcaption>
+      <figcaption>*Carthamus* (saffloer)</figcaption>
     </figure>
   </div>
 </div>
@@ -173,13 +173,13 @@ Nog geen foto's: *Cnicus benedictus*.
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Carduus nutans*](../../pollen/species/carduus_nutans.md) | {{ pollen("carduus_nutans", "size.size_smallest") }} | {{ pollen("carduus_nutans", "sculpture") }} |
-| [*Carduus typ*](../../pollen/species/carduus_typ.md) | {{ pollen("carduus_typ", "size.size_smallest") }}–{{ pollen("carduus_typ", "size.size_largest") }} | {{ pollen("carduus_typ", "sculpture") }} |
-| [*Cirsium arvense*](../../pollen/species/cirsium_arvense.md) | {{ pollen("cirsium_arvense", "size.size_smallest") }} | {{ pollen("cirsium_arvense", "sculpture") }} |
-| [*Cirsium vulgare*](../../pollen/species/cirsium_vulgare.md) | {{ pollen("cirsium_vulgare", "size.size_smallest") }}–{{ pollen("cirsium_vulgare", "size.size_largest") }} | {{ pollen("cirsium_vulgare", "sculpture") }} |
-| [*Arctium minus*](../../pollen/species/arctium_minus.md) | {{ pollen("arctium_minus", "size.size_smallest") }}–{{ pollen("arctium_minus", "size.size_largest") }} | {{ pollen("arctium_minus", "sculpture") }} |
-| [*Arctium lappa*](../../pollen/species/arctium_lappa.md) | {{ pollen("arctium_lappa", "size.size_smallest") }} | {{ pollen("arctium_lappa", "sculpture") }} |
-| [*Carlina aucalis*](../../pollen/species/carlina_aucalis.md) | {{ pollen("carlina_aucalis", "size.size_smallest") }} | {{ pollen("carlina_aucalis", "sculpture") }} |
+| [*Carduus nutans*](../../pollen/species/carduus_nutans.md) (knikkende distel) | {{ pollen("carduus_nutans", "size.size_smallest") }} | {{ pollen("carduus_nutans", "sculpture") }} |
+| [*Carduus typ*](../../pollen/species/carduus_typ.md) (distel type) | {{ pollen("carduus_typ", "size.size_smallest") }}–{{ pollen("carduus_typ", "size.size_largest") }} | {{ pollen("carduus_typ", "sculpture") }} |
+| [*Cirsium arvense*](../../pollen/species/cirsium_arvense.md) (akkerdistel) | {{ pollen("cirsium_arvense", "size.size_smallest") }} | {{ pollen("cirsium_arvense", "sculpture") }} |
+| [*Cirsium vulgare*](../../pollen/species/cirsium_vulgare.md) (speerdistel) | {{ pollen("cirsium_vulgare", "size.size_smallest") }}–{{ pollen("cirsium_vulgare", "size.size_largest") }} | {{ pollen("cirsium_vulgare", "sculpture") }} |
+| [*Arctium minus*](../../pollen/species/arctium_minus.md) (klit) | {{ pollen("arctium_minus", "size.size_smallest") }}–{{ pollen("arctium_minus", "size.size_largest") }} | {{ pollen("arctium_minus", "sculpture") }} |
+| [*Arctium lappa*](../../pollen/species/arctium_lappa.md) (grote klis) | {{ pollen("arctium_lappa", "size.size_smallest") }} | {{ pollen("arctium_lappa", "sculpture") }} |
+| [*Carlina aucalis*](../../pollen/species/carlina_aucalis.md) (zilverdistel) | {{ pollen("carlina_aucalis", "size.size_smallest") }} | {{ pollen("carlina_aucalis", "sculpture") }} |
 
 *Carduus defloratus* / *Carduus typ*: letter S genus-niveau via *C. nutans* [to be verified].
 
@@ -189,19 +189,19 @@ Nog geen foto's: *Cnicus benedictus*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("carduus_nutans", "assets/images/by-taxon/carduus_nutans/carduus_nutans_1.png") }}
-      <figcaption>*Carduus*</figcaption>
+      <figcaption>*Carduus* (knikkende distel)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cirsium_arvense", "assets/images/by-taxon/cirsium_arvense/cirsium_arvense_1.png") }}
-      <figcaption>*Cirsium*</figcaption>
+      <figcaption>*Cirsium* (akkerdistel)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("arctium_minus", "assets/images/by-taxon/arctium_minus/arctium_minus_1.png") }}
-      <figcaption>*Arctium*</figcaption>
+      <figcaption>*Arctium* (klit)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("carlina_aucalis", "assets/images/by-taxon/carlina_aucalis/carlina_aucalis_1.png") }}
-      <figcaption>*Carlina*</figcaption>
+      <figcaption>*Carlina* (zilverdistel)</figcaption>
     </figure>
   </div>
 </div>
@@ -214,14 +214,14 @@ Nog geen foto's: *Serratula tinctoria*, *Onopordum* / *Onopordon*, *Silybum* (*S
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Taraxacum officinale*](../../pollen/species/taraxacum_officinale.md) | {{ pollen("taraxacum_officinale", "size.size_smallest") }} | {{ pollen("taraxacum_officinale", "sculpture") }} |
-| [*Taraxacum typ*](../../pollen/species/taraxacum_typ.md) | — | {{ pollen("taraxacum_typ", "sculpture") }} |
-| [*Cichorium intybus*](../../pollen/species/cichorium_intybus.md) | {{ pollen("cichorium_intybus", "size.size_smallest") }} | {{ pollen("cichorium_intybus", "sculpture") }} |
-| [*Hieracium typ*](../../pollen/species/hieracium_typ.md) | {{ pollen("hieracium_typ", "size.size_smallest") }}–{{ pollen("hieracium_typ", "size.size_largest") }} | {{ pollen("hieracium_typ", "sculpture") }} |
-| [*Hieracium aurantiacum*](../../pollen/species/hieracium_aurantiacum.md) | {{ pollen("hieracium_aurantiacum", "size.size_smallest") }} | {{ pollen("hieracium_aurantiacum", "sculpture") }} |
-| [*Crepis biennis*](../../pollen/species/crepis_biennis.md) | {{ pollen("crepis_biennis", "size.size_smallest") }}–{{ pollen("crepis_biennis", "size.size_largest") }} | {{ pollen("crepis_biennis", "sculpture") }} |
-| [*Tragopogon typ*](../../pollen/species/tragopogon_typ.md) | {{ pollen("tragopogon_typ", "size.size_smallest") }} | {{ pollen("tragopogon_typ", "sculpture") }} |
-| [*Sonchus arvensis*](../../pollen/species/sonchus_arvensis.md) | {{ pollen("sonchus_arvensis", "size.size_smallest") }} | {{ pollen("sonchus_arvensis", "sculpture") }} |
+| [*Taraxacum officinale*](../../pollen/species/taraxacum_officinale.md) (paardenbloem) | {{ pollen("taraxacum_officinale", "size.size_smallest") }} | {{ pollen("taraxacum_officinale", "sculpture") }} |
+| [*Taraxacum typ*](../../pollen/species/taraxacum_typ.md) (paardenbloem type) | — | {{ pollen("taraxacum_typ", "sculpture") }} |
+| [*Cichorium intybus*](../../pollen/species/cichorium_intybus.md) (cichorei) | {{ pollen("cichorium_intybus", "size.size_smallest") }} | {{ pollen("cichorium_intybus", "sculpture") }} |
+| [*Hieracium typ*](../../pollen/species/hieracium_typ.md) (havikskruid type) | {{ pollen("hieracium_typ", "size.size_smallest") }}–{{ pollen("hieracium_typ", "size.size_largest") }} | {{ pollen("hieracium_typ", "sculpture") }} |
+| [*Hieracium aurantiacum*](../../pollen/species/hieracium_aurantiacum.md) (oranje havikskruid) | {{ pollen("hieracium_aurantiacum", "size.size_smallest") }} | {{ pollen("hieracium_aurantiacum", "sculpture") }} |
+| [*Crepis biennis*](../../pollen/species/crepis_biennis.md) (groot streepzaad) | {{ pollen("crepis_biennis", "size.size_smallest") }}–{{ pollen("crepis_biennis", "size.size_largest") }} | {{ pollen("crepis_biennis", "sculpture") }} |
+| [*Tragopogon typ*](../../pollen/species/tragopogon_typ.md) (morgenster type) | {{ pollen("tragopogon_typ", "size.size_smallest") }} | {{ pollen("tragopogon_typ", "sculpture") }} |
+| [*Sonchus arvensis*](../../pollen/species/sonchus_arvensis.md) (akkermelkdistel) | {{ pollen("sonchus_arvensis", "size.size_smallest") }} | {{ pollen("sonchus_arvensis", "sculpture") }} |
 
 ### Beelden
 
@@ -229,23 +229,23 @@ Nog geen foto's: *Serratula tinctoria*, *Onopordum* / *Onopordon*, *Silybum* (*S
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png") }}
-      <figcaption>*Taraxacum*</figcaption>
+      <figcaption>*Taraxacum* (paardenbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cichorium_intybus", "assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png") }}
-      <figcaption>*Cichorium*</figcaption>
+      <figcaption>*Cichorium* (cichorei)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("hieracium_aurantiacum", "assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png") }}
-      <figcaption>*Hieracium*</figcaption>
+      <figcaption>*Hieracium* (oranje havikskruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("crepis_biennis", "assets/images/by-taxon/crepis_biennis/crepis_biennis_1.png") }}
-      <figcaption>*Crepis*</figcaption>
+      <figcaption>*Crepis* (groot streepzaad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sonchus_arvensis", "assets/images/by-taxon/sonchus_arvensis/sonchus_arvensis_1.png") }}
-      <figcaption>*Sonchus*</figcaption>
+      <figcaption>*Sonchus* (akkermelkdistel)</figcaption>
     </figure>
   </div>
 </div>

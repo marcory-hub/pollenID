@@ -1,6 +1,6 @@
-# Malvaceae (Beug-typen)
+# Malvaceae (kaasjeskruidfamilie)
 
-Malvaceae heeft geen letter-typen zoals Asteraceae. Binnen de familie staan twee sterk verschillende Beug-klassen naast elkaar: ***Tilia*** (linde; tricolporaat-reticulaat, 22.1) en ***Malva*** e.a. (periporaat-echinaat, 33.6). Niveau 1-anker: `tilia_typ`.
+Binnen de familie staan twee sterk verschillende Beug-klassen naast elkaar: ***Tilia*** (linde; tricolporaat-reticulaat, 22.1) en ***Malva*** e.a. (periporaat-echinaat, 33.6). Niveau 1-anker: `tilia_typ`.
 
 ## Type-overzicht
 
@@ -20,8 +20,8 @@ Tricolporaat; reticulaat met trechtermondingen; vaak heteropolair. Tel sculptuur
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Tilia platyphyllos*](../../pollen/species/tilia_platyphyllos.md) | {{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }} | {{ pollen("tilia_platyphyllos", "sculpture") }} |
-| [*Tilia typ*](../../pollen/species/tilia_typ.md) | {{ pollen("tilia_typ", "size.size_smallest") }}–{{ pollen("tilia_typ", "size.size_largest") }} | {{ pollen("tilia_typ", "sculpture") }} |
+| [*Tilia platyphyllos*](../../pollen/species/tilia_platyphyllos.md) (grootbladige linde) | {{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }} | {{ pollen("tilia_platyphyllos", "sculpture") }} |
+| [*Tilia typ*](../../pollen/species/tilia_typ.md) (linde type) | {{ pollen("tilia_typ", "size.size_smallest") }}–{{ pollen("tilia_typ", "size.size_largest") }} | {{ pollen("tilia_typ", "sculpture") }} |
 
 #### Beelden
 
@@ -29,11 +29,11 @@ Tricolporaat; reticulaat met trechtermondingen; vaak heteropolair. Tel sculptuur
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_platyphyllos", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png") }}
-      <figcaption>*T. platyphyllos*</figcaption>
+      <figcaption>*T. platyphyllos* (grootbladige linde)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_typ", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_2.png") }}
-      <figcaption>*Tilia* typ</figcaption>
+      <figcaption>*Tilia* typ (linde type)</figcaption>
     </figure>
   </div>
 </div>
@@ -55,9 +55,9 @@ Periporaat, lange stekels; morfologisch ver van *Tilia*. Subtypen o.a. *Malva ne
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Malva typ*](../../pollen/species/malva_typ.md) | {{ pollen("malva_typ", "size.size_smallest") }}–{{ pollen("malva_typ", "size.size_largest") }} | {{ pollen("malva_typ", "sculpture") }} |
+| [*Malva typ*](../../pollen/species/malva_typ.md) (kaasjeskruid type) | {{ pollen("malva_typ", "size.size_smallest") }}–{{ pollen("malva_typ", "size.size_largest") }} | {{ pollen("malva_typ", "sculpture") }} |
 | *Malva arborea* | {{ pollen("malva_arborea", "size.size_smallest") }}–{{ pollen("malva_arborea", "size.size_largest") }} | {{ pollen("malva_arborea", "sculpture") }} |
-| *Abelmoschus esculentus* | {{ pollen("abelmoschus_esculentus", "size.size_smallest") }}–{{ pollen("abelmoschus_esculentus", "size.size_largest") }} | {{ pollen("abelmoschus_esculentus", "sculpture") }} |
+| *Abelmoschus esculentus* (okra) | {{ pollen("abelmoschus_esculentus", "size.size_smallest") }}–{{ pollen("abelmoschus_esculentus", "size.size_largest") }} | {{ pollen("abelmoschus_esculentus", "sculpture") }} |
 
 ### Beelden
 
@@ -65,11 +65,11 @@ Periporaat, lange stekels; morfologisch ver van *Tilia*. Subtypen o.a. *Malva ne
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("malva_typ", "assets/images/by-taxon/malva_arborea/malva_arborea_1.png") }}
-      <figcaption>*Malva* typ</figcaption>
+      <figcaption>*Malva* typ (kaasjeskruid type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
-      {{ pollen_img("abelmoschus_esculentus", "assets/images/by-taxon/abelmoschus_esculentus/abelmoschus_esculentus_1.png") }}
-      <figcaption>*Abelmoschus*</figcaption>
+      {{ pollen_img("abelmoschus_esculentus", "assets/images/by-taxon/abelmoschus_esculentus/abelmoschus_esculentus_2.png") }}
+      <figcaption>*Abelmoschus* (okra)</figcaption>
     </figure>
   </div>
 </div>

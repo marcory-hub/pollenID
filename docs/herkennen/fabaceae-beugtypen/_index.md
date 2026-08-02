@@ -1,6 +1,6 @@
-# Fabaceae (Beug-typen)
+# Fabaceae (vlinderbloemenfamilie)
 
-Fabaceae heeft geen letter-typen zoals Asteraceae. Beug verspreidt de vlinderbloemen over **meerdere hoofdstukken**: tricolporaat-suprareticulaat (22.31: *Trifolium*, *Vicia*, e.a.), tricolporoidaat-reticulaat (23: *Robinia*, *Cytisus*, *Genista*, *Medicago*), tricolpaat–psilaat (*Lotus*, 14.29) en triporaat (*Phaseolus*, 31.4). Niveau 1-ankers: `trifolium_repens`, `vicia_typ`.
+Beug verspreidt de vlinderbloemen over **meerdere hoofdstukken**: tricolporaat-suprareticulaat (22.31: *Trifolium*, *Vicia*, e.a.), tricolporoidaat-reticulaat (23: *Robinia*, *Cytisus*, *Genista*, *Medicago*), tricolpaat–psilaat (*Lotus*, 14.29) en triporaat (*Phaseolus*, 31.4). Niveau 1-ankers: `trifolium_repens`, `vicia_typ`.
 
 Overzichtssleutel: [Beug 22.31 Fabaceae p.p.](../../Identificatiesleutels/beug22-tricolporatae-ret-fabaceae.md).
 
@@ -25,8 +25,8 @@ Niveau 1: `trifolium_repens`. Niveau 2: `trifolium_pratense`.
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Trifolium repens*](../../pollen/species/trifolium_repens.md) | {{ pollen("trifolium_repens", "size.size_smallest") }}–{{ pollen("trifolium_repens", "size.size_largest") }} | {{ pollen("trifolium_repens", "sculpture") }} |
-| [*Trifolium pratense*](../../pollen/species/trifolium_pratense.md) | {{ pollen("trifolium_pratense", "size.size_smallest") }}–{{ pollen("trifolium_pratense", "size.size_largest") }} | {{ pollen("trifolium_pratense", "sculpture") }} |
+| [*Trifolium repens*](../../pollen/species/trifolium_repens.md) (witte klaver) | {{ pollen("trifolium_repens", "size.size_smallest") }}–{{ pollen("trifolium_repens", "size.size_largest") }} | {{ pollen("trifolium_repens", "sculpture") }} |
+| [*Trifolium pratense*](../../pollen/species/trifolium_pratense.md) (rode klaver) | {{ pollen("trifolium_pratense", "size.size_smallest") }}–{{ pollen("trifolium_pratense", "size.size_largest") }} | {{ pollen("trifolium_pratense", "sculpture") }} |
 
 ### Beelden
 
@@ -34,11 +34,11 @@ Niveau 1: `trifolium_repens`. Niveau 2: `trifolium_pratense`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_repens", "assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png") }}
-      <figcaption>*T. repens*</figcaption>
+      <figcaption>*T. repens* (witte klaver)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_pratense", "assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png") }}
-      <figcaption>*T. pratense*</figcaption>
+      <figcaption>*T. pratense* (rode klaver)</figcaption>
     </figure>
   </div>
 </div>
@@ -51,9 +51,9 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Vicia typ*](../../pollen/species/vicia_typ.md) | {{ pollen("vicia_typ", "size.size_smallest") }}–{{ pollen("vicia_typ", "size.size_largest") }} | {{ pollen("vicia_typ", "sculpture") }} |
-| [*Vicia cracca*](../../pollen/species/vicia_cracca.md) | {{ pollen("vicia_cracca", "size.size_smallest") }}–{{ pollen("vicia_cracca", "size.size_largest") }} | {{ pollen("vicia_cracca", "sculpture") }} |
-| [*Vicia faba*](../../pollen/species/vicia_faba.md) | {{ pollen("vicia_faba", "size.size_smallest") }}–{{ pollen("vicia_faba", "size.size_largest") }} | {{ pollen("vicia_faba", "sculpture") }} |
+| [*Vicia typ*](../../pollen/species/vicia_typ.md) (Wikke type) | {{ pollen("vicia_typ", "size.size_smallest") }}–{{ pollen("vicia_typ", "size.size_largest") }} | {{ pollen("vicia_typ", "sculpture") }} |
+| [*Vicia cracca*](../../pollen/species/vicia_cracca.md) (vogelwikke) | {{ pollen("vicia_cracca", "size.size_smallest") }}–{{ pollen("vicia_cracca", "size.size_largest") }} | {{ pollen("vicia_cracca", "sculpture") }} |
+| [*Vicia faba*](../../pollen/species/vicia_faba.md) (tuinboon) | {{ pollen("vicia_faba", "size.size_smallest") }}–{{ pollen("vicia_faba", "size.size_largest") }} | {{ pollen("vicia_faba", "sculpture") }} |
 
 ### Beelden
 
@@ -61,15 +61,15 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_typ", "assets/images/by-taxon/vicia_faba/vicia_faba_2.png") }}
-      <figcaption>*Vicia* typ</figcaption>
+      <figcaption>*Vicia* typ (Wikke type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_cracca", "assets/images/by-taxon/vicia_cracca/vicia_cracca_1.png") }}
-      <figcaption>*V. cracca*</figcaption>
+      <figcaption>*V. cracca* (vogelwikke)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
-      <figcaption>*V. faba*</figcaption>
+      <figcaption>*V. faba* (tuinboon)</figcaption>
     </figure>
   </div>
 </div>
@@ -80,9 +80,9 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Medicago sativa*](../../pollen/species/medicago_sativa.md) | {{ pollen("medicago_sativa", "size.size_smallest") }}–{{ pollen("medicago_sativa", "size.size_largest") }} | {{ pollen("medicago_sativa", "sculpture") }} |
-| [*Melilotus officinalis*](../../pollen/species/melilotus_officinalis.md) | {{ pollen("melilotus_officinalis", "size.size_smallest") }}–{{ pollen("melilotus_officinalis", "size.size_largest") }} | {{ pollen("melilotus_officinalis", "sculpture") }} |
-| [*Ononis spinosa*](../../pollen/species/onosis_spinoza.md) | {{ pollen("onosis_spinoza", "size.size_smallest") }}–{{ pollen("onosis_spinoza", "size.size_largest") }} | {{ pollen("onosis_spinoza", "sculpture") }} |
+| [*Medicago sativa*](../../pollen/species/medicago_sativa.md) (luzerne) | {{ pollen("medicago_sativa", "size.size_smallest") }}–{{ pollen("medicago_sativa", "size.size_largest") }} | {{ pollen("medicago_sativa", "sculpture") }} |
+| [*Melilotus officinalis*](../../pollen/species/melilotus_officinalis.md) (citroengele honingklaver) | {{ pollen("melilotus_officinalis", "size.size_smallest") }}–{{ pollen("melilotus_officinalis", "size.size_largest") }} | {{ pollen("melilotus_officinalis", "sculpture") }} |
+| [*Ononis spinosa*](../../pollen/species/onosis_spinoza.md) (kattendoorn) | {{ pollen("onosis_spinoza", "size.size_smallest") }}–{{ pollen("onosis_spinoza", "size.size_largest") }} | {{ pollen("onosis_spinoza", "sculpture") }} |
 
 ### Beelden
 
@@ -90,15 +90,15 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("medicago_sativa", "assets/images/by-taxon/medicago_sativa/medicago_sativa_1.png") }}
-      <figcaption>*Medicago*</figcaption>
+      <figcaption>*Medicago* (luzerne)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("melilotus_officinalis", "assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png") }}
-      <figcaption>*Melilotus*</figcaption>
+      <figcaption>*Melilotus* (citroengele honingklaver)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("onosis_spinoza", "assets/images/by-taxon/onosis_spinoza/onosis_spinoza_1.png") }}
-      <figcaption>*Ononis*</figcaption>
+      <figcaption>*Ononis* (kattendoorn)</figcaption>
     </figure>
   </div>
 </div>
@@ -109,7 +109,7 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Robinia pseudoacacia*](../../pollen/species/robinia_pseudoacacia.md) | {{ pollen("robinia_pseudoacacia", "size.size_smallest") }}–{{ pollen("robinia_pseudoacacia", "size.size_largest") }} | {{ pollen("robinia_pseudoacacia", "sculpture") }} |
+| [*Robinia pseudoacacia*](../../pollen/species/robinia_pseudoacacia.md) (valse acacia) | {{ pollen("robinia_pseudoacacia", "size.size_smallest") }}–{{ pollen("robinia_pseudoacacia", "size.size_largest") }} | {{ pollen("robinia_pseudoacacia", "sculpture") }} |
 
 ### Beelden
 
@@ -117,7 +117,7 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("robinia_pseudoacacia", "assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png") }}
-      <figcaption>*Robinia*</figcaption>
+      <figcaption>*Robinia* (valse acacia)</figcaption>
     </figure>
   </div>
 </div>
@@ -130,11 +130,11 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Cytisus typ*](../../pollen/species/cytisus_typ.md) | {{ pollen("cytisus_typ", "size.size_smallest") }}–{{ pollen("cytisus_typ", "size.size_largest") }} | {{ pollen("cytisus_typ", "sculpture") }} |
-| *Cytisus scoparius* | {{ pollen("cytisus_scoparius", "size.size_smallest") }}–{{ pollen("cytisus_scoparius", "size.size_largest") }} | {{ pollen("cytisus_scoparius", "sculpture") }} |
-| [*Ulex typ*](../../pollen/species/ulex_typ.md) | {{ pollen("ulex_typ", "size.size_smallest") }}–{{ pollen("ulex_typ", "size.size_largest") }} | {{ pollen("ulex_typ", "sculpture") }} |
-| [*Ulex europaeus*](../../pollen/species/ulex_europaeus.md) | {{ pollen("ulex_europaeus", "size.size_smallest") }}–{{ pollen("ulex_europaeus", "size.size_largest") }} | {{ pollen("ulex_europaeus", "sculpture") }} |
-| [*Lupinus polyphyllus*](../../pollen/species/lupinus_polyphyllus.md) | {{ pollen("lupinus_polyphyllus", "size.size_smallest") }}–{{ pollen("lupinus_polyphyllus", "size.size_largest") }} | {{ pollen("lupinus_polyphyllus", "sculpture") }} |
+| [*Cytisus typ*](../../pollen/species/cytisus_typ.md) (brem type) | {{ pollen("cytisus_typ", "size.size_smallest") }}–{{ pollen("cytisus_typ", "size.size_largest") }} | {{ pollen("cytisus_typ", "sculpture") }} |
+| *Cytisus scoparius* (gewone brem) | {{ pollen("cytisus_scoparius", "size.size_smallest") }}–{{ pollen("cytisus_scoparius", "size.size_largest") }} | {{ pollen("cytisus_scoparius", "sculpture") }} |
+| [*Ulex typ*](../../pollen/species/ulex_typ.md) (gaspeldoorn type) | {{ pollen("ulex_typ", "size.size_smallest") }}–{{ pollen("ulex_typ", "size.size_largest") }} | {{ pollen("ulex_typ", "sculpture") }} |
+| [*Ulex europaeus*](../../pollen/species/ulex_europaeus.md) (gaspeldoorn) | {{ pollen("ulex_europaeus", "size.size_smallest") }}–{{ pollen("ulex_europaeus", "size.size_largest") }} | {{ pollen("ulex_europaeus", "sculpture") }} |
+| [*Lupinus polyphyllus*](../../pollen/species/lupinus_polyphyllus.md) (vaste lupine) | {{ pollen("lupinus_polyphyllus", "size.size_smallest") }}–{{ pollen("lupinus_polyphyllus", "size.size_largest") }} | {{ pollen("lupinus_polyphyllus", "sculpture") }} |
 
 ### Beelden
 
@@ -142,19 +142,19 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("cytisus_typ", "assets/images/by-taxon/cytisus_scoparius/cytisus_scoparius_2.png") }}
-      <figcaption>*Cytisus* typ</figcaption>
+      <figcaption>*Cytisus* typ (brem type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cytisus_scoparius", "assets/images/by-taxon/cytisus_scoparius/cytisus_scoparius_1.png") }}
-      <figcaption>*C. scoparius*</figcaption>
+      <figcaption>*C. scoparius* (gewone brem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ulex_europaeus", "assets/images/by-taxon/ulex_europaeus/ulex_europaeus_1.png") }}
-      <figcaption>*Ulex*</figcaption>
+      <figcaption>*Ulex* (gaspeldoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("lupinus_polyphyllus", "assets/images/by-taxon/lupinus_polyphyllus/lupinus_polyphyllus_1.png") }}
-      <figcaption>*Lupinus*</figcaption>
+      <figcaption>*Lupinus* (vaste lupine)</figcaption>
     </figure>
   </div>
 </div>
@@ -165,7 +165,7 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Lotus corniculatus*](../../pollen/species/lotus_corniculatus.md) | {{ pollen("lotus_corniculatus", "size.size_smallest") }}–{{ pollen("lotus_corniculatus", "size.size_largest") }} | {{ pollen("lotus_corniculatus", "sculpture") }} |
+| [*Lotus corniculatus*](../../pollen/species/lotus_corniculatus.md) (rolklaver) | {{ pollen("lotus_corniculatus", "size.size_smallest") }}–{{ pollen("lotus_corniculatus", "size.size_largest") }} | {{ pollen("lotus_corniculatus", "sculpture") }} |
 
 ### Beelden
 
@@ -173,7 +173,7 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("lotus_corniculatus", "assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_1.png") }}
-      <figcaption>*Lotus*</figcaption>
+      <figcaption>*Lotus* (rolklaver)</figcaption>
     </figure>
   </div>
 </div>
@@ -186,10 +186,10 @@ Triporaat (*Phaseolus*); *Pisum* als apart type in honing.
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| *Phaseolus coccineus* | {{ pollen("phaseolus_coccineus", "size.size_smallest") }}–{{ pollen("phaseolus_coccineus", "size.size_largest") }} | {{ pollen("phaseolus_coccineus", "sculpture") }} |
-| [*Pisum typ*](../../pollen/species/pisum_typ.md) | {{ pollen("pisum_typ", "size.size_smallest") }}–{{ pollen("pisum_typ", "size.size_largest") }} | {{ pollen("pisum_typ", "sculpture") }} |
-| *Pisum sativum* | {{ pollen("pisum_sativum", "size.size_smallest") }}–{{ pollen("pisum_sativum", "size.size_largest") }} | {{ pollen("pisum_sativum", "sculpture") }} |
-| [*Sophora japonica*](../../pollen/species/sophora_japonica.md) | {{ pollen("sophora_japonica", "size.size_smallest") }}–{{ pollen("sophora_japonica", "size.size_largest") }} | {{ pollen("sophora_japonica", "sculpture") }} |
+| *Phaseolus coccineus* (pronkboon) | {{ pollen("phaseolus_coccineus", "size.size_smallest") }}–{{ pollen("phaseolus_coccineus", "size.size_largest") }} | {{ pollen("phaseolus_coccineus", "sculpture") }} |
+| [*Pisum typ*](../../pollen/species/pisum_typ.md) (erwt type) | {{ pollen("pisum_typ", "size.size_smallest") }}–{{ pollen("pisum_typ", "size.size_largest") }} | {{ pollen("pisum_typ", "sculpture") }} |
+| *Pisum sativum* (erwt) | {{ pollen("pisum_sativum", "size.size_smallest") }}–{{ pollen("pisum_sativum", "size.size_largest") }} | {{ pollen("pisum_sativum", "sculpture") }} |
+| [*Sophora japonica*](../../pollen/species/sophora_japonica.md) (honingboom) | {{ pollen("sophora_japonica", "size.size_smallest") }}–{{ pollen("sophora_japonica", "size.size_largest") }} | {{ pollen("sophora_japonica", "sculpture") }} |
 
 ### Beelden
 
@@ -197,19 +197,19 @@ Triporaat (*Phaseolus*); *Pisum* als apart type in honing.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("phaseolus_coccineus", "assets/images/by-taxon/phaseolus_coccineus/phaseolus_coccineus_1.png") }}
-      <figcaption>*Phaseolus*</figcaption>
+      <figcaption>*Phaseolus* (pronkboon)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("pisum_typ", "assets/images/by-taxon/pisum_sativum/pisum_sativum_2.png") }}
-      <figcaption>*Pisum* typ</figcaption>
+      <figcaption>*Pisum* typ (erwt type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("pisum_sativum", "assets/images/by-taxon/pisum_sativum/pisum_sativum_1.png") }}
-      <figcaption>*P. sativum*</figcaption>
+      <figcaption>*P. sativum* (erwt)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sophora_japonica", "assets/images/by-taxon/sophora_japonica/sophora_japonica_1.png") }}
-      <figcaption>*Sophora*</figcaption>
+      <figcaption>*Sophora* (honingboom)</figcaption>
     </figure>
   </div>
 </div>

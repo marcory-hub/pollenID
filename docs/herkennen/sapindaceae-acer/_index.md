@@ -1,8 +1,8 @@
-# Sapindaceae: *Acer* (Beug)
+# Sapindaceae (zeepboomfamilie): *Acer*
 
-*Acer* (esdoorn) heeft geen letter-typen zoals Asteraceae. Beug behandelt het genus als **één pollentype** (18.4): tricolpaat, striaat, valla meestal meridionaal. De in Midden-Europa frequente soorten (*A. campestre*, *A. platanoides*, *A. pseudoplatanus*) zijn volgens Beug morphologisch identiek; *A. tataricum* wijkt vooral door kleinere korrels.
+Beug behandelt *Acer* (esdoorn) als **één pollentype** (18.4): tricolpaat, striaat, valla meestal meridionaal. De in Midden-Europa frequente soorten (*A. campestre*, *A. platanoides*, *A. pseudoplatanus*) zijn volgens Beug morphologisch identiek; *A. tataricum* wijkt vooral door kleinere korrels.
 
-Interactieve sleutel: [Beug 18.4 Acer](../../Identificatiesleutels/beug18-tricolpatae-str-acer.md). Familie: Sapindaceae (zeepboomfamilie; vroeger Aceraceae).
+Interactieve sleutel: [Beug 18.4 Acer](../../Identificatiesleutels/beug18-tricolpatae-str-acer.md). Vroeger Aceraceae.
 
 ## Type-overzicht
 
@@ -18,10 +18,10 @@ Niveau 1-anker: `acer_platanoides`.
 
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
-| [*Acer platanoides*](../../pollen/species/acer_platanoides.md) | {{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }} | {{ pollen("acer_platanoides", "sculpture") }} |
-| [*Acer pseudoplatanus*](../../pollen/species/acer_pseudoplatanus.md) | {{ pollen("acer_pseudoplatanus", "size.size_smallest") }}–{{ pollen("acer_pseudoplatanus", "size.size_largest") }} | {{ pollen("acer_pseudoplatanus", "sculpture") }} |
-| [*Acer campestre*](../../pollen/species/acer_campestre.md) | {{ pollen("acer_campestre", "size.size_smallest") }}–{{ pollen("acer_campestre", "size.size_largest") }} | {{ pollen("acer_campestre", "sculpture") }} |
-| [*Acer negundo*](../../pollen/species/acer_negundo.md) | {{ pollen("acer_negundo", "size.size_smallest") }}–{{ pollen("acer_negundo", "size.size_largest") }} | {{ pollen("acer_negundo", "sculpture") }} |
+| [*Acer platanoides*](../../pollen/species/acer_platanoides.md) (Noorse esdoorn) | {{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }} | {{ pollen("acer_platanoides", "sculpture") }} |
+| [*Acer pseudoplatanus*](../../pollen/species/acer_pseudoplatanus.md) (Esdoorn) | {{ pollen("acer_pseudoplatanus", "size.size_smallest") }}–{{ pollen("acer_pseudoplatanus", "size.size_largest") }} | {{ pollen("acer_pseudoplatanus", "sculpture") }} |
+| [*Acer campestre*](../../pollen/species/acer_campestre.md) (Spaanse aak) | {{ pollen("acer_campestre", "size.size_smallest") }}–{{ pollen("acer_campestre", "size.size_largest") }} | {{ pollen("acer_campestre", "sculpture") }} |
+| [*Acer negundo*](../../pollen/species/acer_negundo.md) (verderesdoorn) | {{ pollen("acer_negundo", "size.size_smallest") }}–{{ pollen("acer_negundo", "size.size_largest") }} | {{ pollen("acer_negundo", "sculpture") }} |
 | [*Acer monspessulanum*](../../pollen/species/acer_monspessulanum.md) | {{ pollen("acer_monspessulanum", "size.size_smallest") }}–{{ pollen("acer_monspessulanum", "size.size_largest") }} | {{ pollen("acer_monspessulanum", "sculpture") }} |
 | [*Acer opalus*](../../pollen/species/acer_opalus.md) | {{ pollen("acer_opalus", "size.size_smallest") }}–{{ pollen("acer_opalus", "size.size_largest") }} | {{ pollen("acer_opalus", "sculpture") }} |
 
@@ -31,19 +31,19 @@ Niveau 1-anker: `acer_platanoides`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
-      <figcaption>*A. platanoides*</figcaption>
+      <figcaption>*A. platanoides* (Noorse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_pseudoplatanus", "assets/images/by-taxon/acer_pseudoplatanus/acer_pseudoplatanus_1.png") }}
-      <figcaption>*A. pseudoplatanus*</figcaption>
+      <figcaption>*A. pseudoplatanus* (Esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_campestre", "assets/images/by-taxon/acer_campestre/acer_campestre_1.png") }}
-      <figcaption>*A. campestre*</figcaption>
+      <figcaption>*A. campestre* (Spaanse aak)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_negundo", "assets/images/by-taxon/acer_negundo/acer_negundo_1.png") }}
-      <figcaption>*A. negundo*</figcaption>
+      <figcaption>*A. negundo* (verderesdoorn)</figcaption>
     </figure>
   </div>
 </div>
@@ -54,15 +54,15 @@ Niveau 1-anker: `acer_platanoides`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("acer_japonicum", "assets/images/by-taxon/acer_japonicum/acer_japonicum_1.png") }}
-      <figcaption>*A. japonicum*</figcaption>
+      <figcaption>*A. japonicum* (Japanse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_palmatum", "assets/images/by-taxon/acer_palmatum/acer_palmatum_1.png") }}
-      <figcaption>*A. palmatum*</figcaption>
+      <figcaption>*A. palmatum* (Japanse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_cappadocicum", "assets/images/by-taxon/acer_cappadocicum/acer_cappadocicum_1.png") }}
-      <figcaption>*A. cappadocicum*</figcaption>
+      <figcaption>*A. cappadocicum* (Colchische esdoorn of Kolchische esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_griseum", "assets/images/by-taxon/acer_griseum/acer_griseum_1.png") }}
