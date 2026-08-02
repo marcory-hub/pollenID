@@ -25,7 +25,7 @@ Niveau 1-anker: `acer_platanoides`.
 | [*Acer monspessulanum*](../../pollen/species/acer_monspessulanum.md) | {{ pollen("acer_monspessulanum", "size.size_smallest") }}–{{ pollen("acer_monspessulanum", "size.size_largest") }} | {{ pollen("acer_monspessulanum", "sculpture") }} |
 | [*Acer opalus*](../../pollen/species/acer_opalus.md) | {{ pollen("acer_opalus", "size.size_smallest") }}–{{ pollen("acer_opalus", "size.size_largest") }} | {{ pollen("acer_opalus", "sculpture") }} |
 
-### Beelden (vaak in NL)
+### Vaak in NL
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -48,7 +48,7 @@ Niveau 1-anker: `acer_platanoides`.
   </div>
 </div>
 
-### Beelden (overige met PNG)
+### Overige met PNG
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

@@ -23,8 +23,6 @@ Pollen die op elkaar lijken in honingpreparaten.
 
 Vooral bij *Rubus*, *Trifolium repens* en veel tuincultivars kunnen verschrompelde korrels de meerderheid vormen (zwellen niet bij montage).
 
-## Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

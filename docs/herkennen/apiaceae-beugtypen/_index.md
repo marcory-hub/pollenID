@@ -26,8 +26,6 @@ Beug: columellae **polair** langer dan equatoriaal. Niveau 1/2: `heracleum_typ`.
 | [*Heracleum sphondylium*](../../pollen/species/heracleum_sphondylium.md) (gewone berenklauw) | {{ pollen("heracleum_sphondylium", "size.size_smallest") }}–{{ pollen("heracleum_sphondylium", "size.size_largest") }} | {{ pollen("heracleum_sphondylium", "sculpture") }} |
 | [*Heracleum typ*](../../pollen/species/heracleum_typ.md) (Reuzenkruiskruid type) | {{ pollen("heracleum_typ", "size.size_smallest") }}–{{ pollen("heracleum_typ", "size.size_largest") }} | {{ pollen("heracleum_typ", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -51,8 +49,6 @@ Columellae equatoriaal ten minste tweemaal zo lang als polair. In Beug o.a. *Ane
 | :--- | :--- | :--- |
 | [*Anethum graveolens*](../../pollen/species/anethum_graveolens.md) (dille) | {{ pollen("anethum_graveolens", "size.size_smallest") }}–{{ pollen("anethum_graveolens", "size.size_largest") }} | {{ pollen("anethum_graveolens", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -74,8 +70,6 @@ Groot (vaak > 40 µm), hoge CL-index, dunne contrastarme columellae. Beug: *Astr
 | :--- | :--- | :--- |
 | [*Astrantia major*](../../pollen/species/astrantia_major.md) (Zeeuws knoopje) | {{ pollen("astrantia_major", "size.size_smallest") }}–{{ pollen("astrantia_major", "size.size_largest") }} | {{ pollen("astrantia_major", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -95,8 +89,6 @@ C-zijde convex («boemerang»); exine 1,5–2,5 µm, columellae kort/dun.
 | :--- | :--- | :--- |
 | [*Eryngium campestre*](../../pollen/species/eryngium_campestre.md) (kruisdistel) | {{ pollen("eryngium_campestre", "size.size_smallest") }}–{{ pollen("eryngium_campestre", "size.size_largest") }} | {{ pollen("eryngium_campestre", "sculpture") }} |
 | [*Eryngium typ*](../../pollen/species/eryngium_typ.md) (kruisdistel type) | {{ pollen("eryngium_typ", "size.size_smallest") }}–{{ pollen("eryngium_typ", "size.size_largest") }} | {{ pollen("eryngium_typ", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -119,8 +111,6 @@ C-zijde recht; A-/I-contour vaak ingebogen. Beug: o.a. *Daucus*, *Chaerophyllum 
 | :--- | :--- | :--- |
 | [*Daucus carota*](../../pollen/species/daucus_carota.md) (wilde wortel) | {{ pollen("daucus_carota", "size.size_smallest") }}–{{ pollen("daucus_carota", "size.size_largest") }} | {{ pollen("daucus_carota", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -142,8 +132,6 @@ Niveau 1-anker: `anthriscus_typ` (beelden van *A. sylvestris*). Beug splitst *An
 | [*Anthriscus typ*](../../pollen/species/anthriscus_typ.md) (Berenklauw type) | {{ pollen("anthriscus_typ", "size.size_smallest") }}–{{ pollen("anthriscus_typ", "size.size_largest") }} | {{ pollen("anthriscus_typ", "sculpture") }} |
 | [*Carum carvi*](../../pollen/species/carum_carvi.md) (karwijzaad) | {{ pollen("carum_carvi", "size.size_smallest") }}–{{ pollen("carum_carvi", "size.size_largest") }} | {{ pollen("carum_carvi", "sculpture") }} |
 | *Foeniculum vulgaris* (venkel) | {{ pollen("foeniculum_vulgaris", "size.size_smallest") }}–{{ pollen("foeniculum_vulgaris", "size.size_largest") }} | {{ pollen("foeniculum_vulgaris", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

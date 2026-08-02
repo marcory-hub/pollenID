@@ -23,8 +23,6 @@ Tricolporaat; reticulaat met trechtermondingen; vaak heteropolair. Tel sculptuur
 | [*Tilia platyphyllos*](../../pollen/species/tilia_platyphyllos.md) (grootbladige linde) | {{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }} | {{ pollen("tilia_platyphyllos", "sculpture") }} |
 | [*Tilia typ*](../../pollen/species/tilia_typ.md) (linde type) | {{ pollen("tilia_typ", "size.size_smallest") }}–{{ pollen("tilia_typ", "size.size_largest") }} | {{ pollen("tilia_typ", "sculpture") }} |
 
-#### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -58,8 +56,6 @@ Periporaat, lange stekels; morfologisch ver van *Tilia*. Subtypen o.a. *Malva ne
 | [*Malva typ*](../../pollen/species/malva_typ.md) (kaasjeskruid type) | {{ pollen("malva_typ", "size.size_smallest") }}–{{ pollen("malva_typ", "size.size_largest") }} | {{ pollen("malva_typ", "sculpture") }} |
 | *Malva arborea* | {{ pollen("malva_arborea", "size.size_smallest") }}–{{ pollen("malva_arborea", "size.size_largest") }} | {{ pollen("malva_arborea", "sculpture") }} |
 | *Abelmoschus esculentus* (okra) | {{ pollen("abelmoschus_esculentus", "size.size_smallest") }}–{{ pollen("abelmoschus_esculentus", "size.size_largest") }} | {{ pollen("abelmoschus_esculentus", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

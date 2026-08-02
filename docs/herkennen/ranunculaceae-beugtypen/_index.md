@@ -27,8 +27,6 @@ Tricolpaat; sculptuurelementen op columellae. Honinganker: `ranunculus_typ`. *Fi
 | [*Ranunculus ficaria*](../../pollen/species/ranunculus_ficaria.md) (gewoon speenkruid) | {{ pollen("ranunculus_ficaria", "size.size_smallest") }}–{{ pollen("ranunculus_ficaria", "size.size_largest") }} | {{ pollen("ranunculus_ficaria", "sculpture") }} |
 | [*Ficaria typ*](../../pollen/species/ficaria_typ.md) (speenkruid type) | {{ pollen("ficaria_typ", "size.size_smallest") }}–{{ pollen("ficaria_typ", "size.size_largest") }} | {{ pollen("ficaria_typ", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -59,8 +57,6 @@ Tricolpaat–psilaat. Subtypen: *Aquilegia*, *Aconitum*, *Consolida*.
 | [*Aconitum typ*](../../pollen/species/aconitum_typ.md) (ridderspoor type) | {{ pollen("aconitum_typ", "size.size_smallest") }}–{{ pollen("aconitum_typ", "size.size_largest") }} | {{ pollen("aconitum_typ", "sculpture") }} |
 | [*Aconitum napellus*](../../pollen/species/aconitum_napellus.md) (Blauwe monnikskap) | {{ pollen("aconitum_napellus", "size.size_smallest") }}–{{ pollen("aconitum_napellus", "size.size_largest") }} | {{ pollen("aconitum_napellus", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -84,8 +80,6 @@ Tricolpaat; exine 3,2–5,0 µm; scabraat–microechinaat.
 | :--- | :--- | :--- |
 | [*Nigella sativa*](../../pollen/species/nigella_sativa.md) (zwarte komijn) | {{ pollen("nigella_sativa", "size.size_smallest") }}–{{ pollen("nigella_sativa", "size.size_largest") }} | {{ pollen("nigella_sativa", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -105,8 +99,6 @@ Beug 33.22 (*A. coronaria*) is **periporaat**. De atlasbeelden onder `anemone_ty
 | :--- | :--- | :--- |
 | [*Anemone typ*](../../pollen/species/anemone_typ.md) (anemoon type) | {{ pollen("anemone_typ", "size.size_smallest") }}–{{ pollen("anemone_typ", "size.size_largest") }} | {{ pollen("anemone_typ", "sculpture") }} |
 | *Anemone blanda* | {{ pollen("anemone_blanda", "size.size_smallest") }}–{{ pollen("anemone_blanda", "size.size_largest") }} | {{ pollen("anemone_blanda", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -128,8 +120,6 @@ Periporaat; scabraat.
 | [*Thalictrum typ*](../../pollen/species/thalictrum_typ.md) (ruit type) | {{ pollen("thalictrum_typ", "size.size_smallest") }}–{{ pollen("thalictrum_typ", "size.size_largest") }} | {{ pollen("thalictrum_typ", "sculpture") }} |
 | [*Thalictrum flavum*](../../pollen/species/thalictrum_flavum.md) (poelruit) | {{ pollen("thalictrum_flavum", "size.size_smallest") }}–{{ pollen("thalictrum_flavum", "size.size_largest") }} | {{ pollen("thalictrum_flavum", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -148,8 +138,6 @@ Met PNG's in atlas; Beug-eindpunt in repo-keys nog niet als aparte JSON gelokali
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
 | [*Clematis vitalba*](../../pollen/species/clematis_vitalba.md) (bosrank) | {{ pollen("clematis_vitalba", "size.size_smallest") }}–{{ pollen("clematis_vitalba", "size.size_largest") }} | {{ pollen("clematis_vitalba", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

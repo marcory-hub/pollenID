@@ -22,8 +22,6 @@ Pollen die op elkaar lijken in honingpreparaten.
 - *Malus*: rugulaat; ca. 30 µm
 - *Robinia*: scabraat; colpi aan de rand uitgefranst
 
-## Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

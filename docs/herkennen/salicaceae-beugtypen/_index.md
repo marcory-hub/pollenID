@@ -21,8 +21,6 @@ Beug: geen soortsbepaling binnen de 39 Midden-Europese soorten. Niveau 1-anker: 
 | [*Salix caprea*](../../pollen/species/salix_caprea.md) (boswilg) | {{ pollen("salix_caprea", "size.size_smallest") }}–{{ pollen("salix_caprea", "size.size_largest") }} | {{ pollen("salix_caprea", "sculpture") }} |
 | [*Salix alba* var. *tristis*](../../pollen/species/salix_alba_var_tristis.md) (treurwilg) | {{ pollen("salix_alba_var_tristis", "size.size_smallest") }}–{{ pollen("salix_alba_var_tristis", "size.size_largest") }} | {{ pollen("salix_alba_var_tristis", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -50,8 +48,6 @@ Inaperturaat; scabraat–microechinaat; exine ca. 0,5 µm. Niveau 2: `populus_ty
 | :--- | :--- | :--- |
 | [*Populus typ*](../../pollen/species/populus_typ.md) (populier type) | {{ pollen("populus_typ", "size.size_smallest") }}–{{ pollen("populus_typ", "size.size_largest") }} | {{ pollen("populus_typ", "sculpture") }} |
 | [*Populus nigra*](../../pollen/species/populus_nigra.md) (zwarte populier) | {{ pollen("populus_nigra", "size.size_smallest") }}–{{ pollen("populus_nigra", "size.size_largest") }} | {{ pollen("populus_nigra", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

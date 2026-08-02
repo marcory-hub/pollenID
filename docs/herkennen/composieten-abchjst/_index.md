@@ -28,8 +28,6 @@ Niet in dit letter-schema (echinaat A–T): *Galinsoga* (echinaat zonder letter)
 | [*Leucanthemum vulgare*](../../pollen/species/leucanthemum_vulgare.md) | {{ pollen("leucanthemum_vulgare", "size.size_smallest") }}–{{ pollen("leucanthemum_vulgare", "size.size_largest") }} | {{ pollen("leucanthemum_vulgare", "sculpture") }} |
 | [*Matricaria recutita*](../../pollen/species/matricaria_recutita.md) (echte kamille) | {{ pollen("matricaria_recutita", "size.size_smallest") }}–{{ pollen("matricaria_recutita", "size.size_largest") }} | {{ pollen("matricaria_recutita", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -61,8 +59,6 @@ Exine verrucaat/reticulaat, **geen** stekels.
 | :--- | :--- | :--- |
 | [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md) (korenbloem) | {{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }} | {{ pollen("centaurea_cyanus", "sculpture") }} |
 | [*Centaurea montana*](../../pollen/species/centaurea_montana.md) (bergcentaurie) | {{ pollen("centaurea_montana", "size.size_smallest") }} | {{ pollen("centaurea_montana", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -101,8 +97,6 @@ Niet C-type: *Centaurea jacea* (echinaat **J**). *Echinops* staat in Kerkvliet a
 *Aster amellus* / *Symphyotrichum lanceolatum*: letter H genus-niveau via *Aster* [to be verified].
 
 *Artemisia*: Kerkvliet mengvorm (echinaat H en reticulaat/verrucaat) [to be verified].
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -146,8 +140,6 @@ Nog geen foto's (bron bevestigt genus/soort): *Erigeron*, *Petasites*, *Tagetes*
 | [*Carthamus lanatus*](../../pollen/species/carthamus_lanatus.md) (wollige saffloer) | {{ pollen("carthamus_lanatus", "size.size_smallest") }} | {{ pollen("carthamus_lanatus", "sculpture") }} |
 | [*Carthamus tinctorius*](../../pollen/species/carthamus_tinctorius.md) (saffloer) | {{ pollen("carthamus_tinctorius", "size.size_smallest") }} | {{ pollen("carthamus_tinctorius", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -182,8 +174,6 @@ Nog geen foto's: *Cnicus benedictus*.
 | [*Carlina aucalis*](../../pollen/species/carlina_aucalis.md) (zilverdistel) | {{ pollen("carlina_aucalis", "size.size_smallest") }} | {{ pollen("carlina_aucalis", "sculpture") }} |
 
 *Carduus defloratus* / *Carduus typ*: letter S genus-niveau via *C. nutans* [to be verified].
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -222,8 +212,6 @@ Nog geen foto's: *Serratula tinctoria*, *Onopordum* / *Onopordon*, *Silybum* (*S
 | [*Crepis biennis*](../../pollen/species/crepis_biennis.md) (groot streepzaad) | {{ pollen("crepis_biennis", "size.size_smallest") }}–{{ pollen("crepis_biennis", "size.size_largest") }} | {{ pollen("crepis_biennis", "sculpture") }} |
 | [*Tragopogon typ*](../../pollen/species/tragopogon_typ.md) (morgenster type) | {{ pollen("tragopogon_typ", "size.size_smallest") }} | {{ pollen("tragopogon_typ", "sculpture") }} |
 | [*Sonchus arvensis*](../../pollen/species/sonchus_arvensis.md) (akkermelkdistel) | {{ pollen("sonchus_arvensis", "size.size_smallest") }} | {{ pollen("sonchus_arvensis", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

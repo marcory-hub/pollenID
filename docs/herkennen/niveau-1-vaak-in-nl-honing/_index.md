@@ -32,8 +32,6 @@ Op basis van *Brassica napus*.
 | Sculptuur | {{ pollen("brassica_napus", "sculpture") }} |
 | pollen-note | {{ pollen("brassica_napus", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -74,8 +72,6 @@ Op basis van soorten in het type.
 | *P. padus* | {{ pollen("prunus_padus", "size.size_smallest") }} | {{ pollen("prunus_padus", "aperture") }} | {{ pollen("prunus_padus", "sculpture") }} |
 | *P. avium* | {{ pollen("prunus_avium", "size.size_smallest") }} – {{ pollen("prunus_avium", "size.size_largest") }} | {{ pollen("prunus_avium", "aperture") }} | {{ pollen("prunus_avium", "sculpture") }} |
 | *P. spinosa* | {{ pollen("prunus_spinosa", "size.size_smallest") }} – {{ pollen("prunus_spinosa", "size.size_largest") }} | {{ pollen("prunus_spinosa", "aperture") }} | {{ pollen("prunus_spinosa", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -120,8 +116,6 @@ Soortpagina: [*Rubus typ*](../../pollen/species/rubus_typ.md)
 | Sculptuur | {{ pollen("rubus_typ", "sculpture") }} |
 | pollen-note | {{ pollen("rubus_typ", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -157,8 +151,6 @@ Op basis van *Taraxacum officinale*.
 | Sculptuur | {{ pollen("taraxacum_officinale", "sculpture") }} |
 | pollen-note | {{ pollen("taraxacum_officinale", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -187,8 +179,6 @@ Soortpagina: [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md)
 | P/E | {{ pollen("centaurea_cyanus", "pe_ratio") }} |
 | pollen-note | {{ pollen("centaurea_cyanus", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -216,8 +206,6 @@ Soortpagina: [*Trifolium repens*](../../pollen/species/trifolium_repens.md)
 | Sculptuur | {{ pollen("trifolium_repens", "sculpture") }} |
 | Polariteit | {{ pollen("trifolium_repens", "polarity") }} |
 | pollen-note | {{ pollen("trifolium_repens", "pollen-note") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -257,8 +245,6 @@ Op basis van *Vicia sepium*. Beeld: *Vicia faba*.
 | Apertuur | {{ pollen("vicia_sepium", "aperture") }} |
 | Sculptuur | {{ pollen("vicia_sepium", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -292,8 +278,6 @@ Soortpagina: [*Acer platanoides*](../../pollen/species/acer_platanoides.md)
 | Sculptuur | {{ pollen("acer_platanoides", "sculpture") }} |
 | Ornamentatie | {{ pollen("acer_platanoides", "ornamentation") }} |
 | pollen-note | {{ pollen("acer_platanoides", "pollen-note") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -337,8 +321,6 @@ Op basis van *Anthriscus sylvestris*.
 | P/E | {{ pollen("anthriscus_sylvestris", "pe_ratio") }} |
 | pollen-note | {{ pollen("anthriscus_sylvestris", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -371,8 +353,6 @@ Soortpagina: [*Salix typ*](../../pollen/species/salix_typ.md)
 | Apertuur | {{ pollen("salix_typ", "aperture") }} |
 | Sculptuur | {{ pollen("salix_typ", "sculpture") }} |
 | pollen-note | {{ pollen("salix_typ", "pollen-note") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -412,8 +392,6 @@ Soortpagina: [*Tilia typ*](../../pollen/species/tilia_typ.md)
 | Sculptuur | {{ pollen("tilia_typ", "sculpture") }} |
 | pollen-note | {{ pollen("tilia_typ", "pollen-note") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -440,8 +418,6 @@ Soortpagina: [*Ranunculus typ*](../../pollen/species/ranunculus_typ.md)
 | Apertuur | {{ pollen("ranunculus_typ", "aperture") }} |
 | Sculptuur | {{ pollen("ranunculus_typ", "sculpture") }} |
 | pollen-note | {{ pollen("ranunculus_typ", "pollen-note") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -470,8 +446,6 @@ Op basis van *Raphanus raphanistrum*.
 | Vorm | {{ pollen("raphanus_raphanistrum", "shape") }} |
 | Apertuur | {{ pollen("raphanus_raphanistrum", "aperture") }} |
 | Sculptuur | {{ pollen("raphanus_raphanistrum", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

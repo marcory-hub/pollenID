@@ -20,8 +20,6 @@ Pollen die op elkaar lijken in honingpreparaten.
 - *Rubus*-type: vaak driehoekig in poolaanzicht; glad/striaat.
 - Vogelkers (*P. padus* / *P. serotina*): rond tot driekantig, afhankelijk van ligging.
 
-## Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

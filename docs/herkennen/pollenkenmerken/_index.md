@@ -20,6 +20,8 @@ Algemene kenmerken om pollen te beschrijven: **vorm**, **apertuur**, **sculptuur
       {{ pollen_img("daucus_carota", "assets/images/by-taxon/daucus_carota/daucus_carota_1.png") }}
       <figcaption>prolaat (*Daucus*) (wilde wortel)</figcaption>
     </figure>
+  </div>
+  <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_typ", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_2.png") }}
       <figcaption>sferoïdisch (*Tilia*) (linde type)</figcaption>
@@ -28,6 +30,8 @@ Algemene kenmerken om pollen te beschrijven: **vorm**, **apertuur**, **sculptuur
       {{ pollen_img("ranunculus_acris", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png") }}
       <figcaption>sferoïdisch (*Ranunculus*) (scherpe boterbloem)</figcaption>
     </figure>
+  </div>
+  <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
       <figcaption>prolaat–perprolaat (*Anthriscus*) (fluitenkruid)</figcaption>

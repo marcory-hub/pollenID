@@ -24,8 +24,6 @@ Interactieve sleutel: [Beug 21.27 Brassicaceae](../../Identificatiesleutels/beug
 | [*Sinapis typ*](../../pollen/species/sinapis_typ.md) (Mosterd type) | {{ pollen("sinapis_typ", "size.size_smallest") }}–{{ pollen("sinapis_typ", "size.size_largest") }} | {{ pollen("sinapis_typ", "sculpture") }} |
 | [*Sinapis arvensis*](../../pollen/species/sinapis_arvensis.md) (herik) | {{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }} | {{ pollen("sinapis_arvensis", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -66,8 +64,6 @@ Interactieve sleutel: [Beug 21.27 Brassicaceae](../../Identificatiesleutels/beug
 | [*Diplotaxis tenuifolia*](../../pollen/species/diplotaxis_tenuifolia.md) (rucola) | {{ pollen("diplotaxis_tenuifolia", "size.size_smallest") }}–{{ pollen("diplotaxis_tenuifolia", "size.size_largest") }} | {{ pollen("diplotaxis_tenuifolia", "sculpture") }} |
 | [*Eruca sativa*](../../pollen/species/eruca_sativa.md) (Eruca) | {{ pollen("eruca_sativa", "size.size_smallest") }}–{{ pollen("eruca_sativa", "size.size_largest") }} | {{ pollen("eruca_sativa", "sculpture") }} |
 | [*Cardamine pratensis*](../../pollen/species/cardamine_pratensis.md) (pinksterbloem) | {{ pollen("cardamine_pratensis", "size.size_smallest") }}–{{ pollen("cardamine_pratensis", "size.size_largest") }} | {{ pollen("cardamine_pratensis", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

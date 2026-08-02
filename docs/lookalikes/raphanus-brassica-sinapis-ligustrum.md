@@ -21,8 +21,6 @@ Pollen die op elkaar lijken in honingpreparaten.
 - *Ligustrum*: sferoïd tot licht oblaat; reticulaat; ca. 24–34 µm; apertuurmembranen zonder ornamentatie.
 - *Raphanus*-type en *Sinapis*-type: meenemen in dezelfde vergelijkingsrij (Cruciferae / Brassicaceae vs. Oleaceae).
 
-## Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">

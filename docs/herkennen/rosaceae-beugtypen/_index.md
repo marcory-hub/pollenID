@@ -30,8 +30,6 @@ Beug [20.4](../../Identificatiesleutels/beug20-tricolporoidatae-str-agrimonia.md
 
 Nog geen soortpagina's (wel PNG's).
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -57,8 +55,6 @@ Beug [20.5](../../Identificatiesleutels/beug20-tricolporoidatae-str-potentilla.m
 | *Potentilla erecta* (tormentil) | {{ pollen("potentilla_erecta", "size.size_smallest") }}–{{ pollen("potentilla_erecta", "size.size_largest") }} | {{ pollen("potentilla_erecta", "sculpture") }} |
 | [*Fragaria vesca*](../../pollen/species/fragaria_vesca.md) (bosaardbei) | {{ pollen("fragaria_vesca", "size.size_smallest") }} | {{ pollen("fragaria_vesca", "sculpture") }} |
 | *Fragaria viridis* (heuvelaardbei) | {{ pollen("fragaria_viridis", "size.size_smallest") }}–{{ pollen("fragaria_viridis", "size.size_largest") }} | {{ pollen("fragaria_viridis", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -94,8 +90,6 @@ Beug [20.6](../../Identificatiesleutels/beug20-tricolporoidatae-str-rosa.md). Op
 | [*Rosa pimpinellifolia*](../../pollen/species/rosa_pimpinellifolia.md) (duinroos) | {{ pollen("rosa_pimpinellifolia", "size.size_smallest") }}–{{ pollen("rosa_pimpinellifolia", "size.size_largest") }} | {{ pollen("rosa_pimpinellifolia", "sculpture") }} |
 | *Rosa gallica officinalis* (apothekersroos) | {{ pollen("rosa_gallica_officinalis", "size.size_smallest") }}–{{ pollen("rosa_gallica_officinalis", "size.size_largest") }} | {{ pollen("rosa_gallica_officinalis", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -128,8 +122,6 @@ Beug [20.10](../../Identificatiesleutels/beug20-tricolporoidatae-str-aruncus.md)
 | [*Aruncus dioicus*](../../pollen/species/aruncus_dioicus.md) (geitenbaard) | {{ pollen("aruncus_dioicus", "size.size_smallest") }} | {{ pollen("aruncus_dioicus", "sculpture") }} |
 | [*Spiraea japonica*](../../pollen/species/spiraea_japonica.md) (Japanse spirea) | {{ pollen("spiraea_japonica", "size.size_smallest") }} | {{ pollen("spiraea_japonica", "sculpture") }} |
 
-### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -154,8 +146,6 @@ Beug [20.11](../../Identificatiesleutels/beug20-tricolporoidatae-str-geum.md): *
 | [*Geum rivale*](../../pollen/species/geum_rivale.md) | {{ pollen("geum_rivale", "size.size_smallest") }}–{{ pollen("geum_rivale", "size.size_largest") }} | {{ pollen("geum_rivale", "sculpture") }} |
 | [*Geum urbanum*](../../pollen/species/geum_urbanum.md) (geel nagelkruid) | {{ pollen("geum_urbanum", "size.size_smallest") }}–{{ pollen("geum_urbanum", "size.size_largest") }} | {{ pollen("geum_urbanum", "sculpture") }} |
 | *Sibbaldia procumbens* | {{ pollen("sibbaldia_procumbens", "size.size_smallest") }}–{{ pollen("sibbaldia_procumbens", "size.size_largest") }} | {{ pollen("sibbaldia_procumbens", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -195,8 +185,6 @@ Beug [20.12](../../Identificatiesleutels/beug20-tricolporoidatae-str-sorbus.md):
 | [*Crataegus monogyna*](../../pollen/species/crataegus_monogyna.md) (eenstijlige meidoorn) | {{ pollen("crataegus_monogyna", "size.size_smallest") }}–{{ pollen("crataegus_monogyna", "size.size_largest") }} | {{ pollen("crataegus_monogyna", "sculpture") }} |
 | [*Crataegus laevigata*](../../pollen/species/crataegus_laevigata.md) | {{ pollen("crataegus_laevigata", "size.size_smallest") }}–{{ pollen("crataegus_laevigata", "size.size_largest") }} | {{ pollen("crataegus_laevigata", "sculpture") }} |
 
-#### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -235,8 +223,6 @@ Valla contrastarm; perforaties tussen de valla.
 | [*Sorbus aucuparia*](../../pollen/species/sorbus_aucuparia.md) (wilde lijsterbes) | {{ pollen("sorbus_aucuparia", "size.size_smallest") }}–{{ pollen("sorbus_aucuparia", "size.size_largest") }} | {{ pollen("sorbus_aucuparia", "sculpture") }} |
 | *Cotoneaster intergerrimus* (wilde dwergmispel) | {{ pollen("cotoneaster_intergerrimus", "size.size_smallest") }}–{{ pollen("cotoneaster_intergerrimus", "size.size_largest") }} | {{ pollen("cotoneaster_intergerrimus", "sculpture") }} |
 
-#### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -259,8 +245,6 @@ Perforaties bij goed ontwikkelde PK; niet-gesculpteerde PK → Rosaceae indet.
 | [*Rubus idaeus*](../../pollen/species/rubus_idaeus.md) (framboos) | {{ pollen("rubus_idaeus", "size.size_smallest") }} | {{ pollen("rubus_idaeus", "sculpture") }} |
 | [*Rubus fruticosus*](../../pollen/species/rubus_fruticosus.md) (braam) | {{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }} | {{ pollen("rubus_fruticosus", "sculpture") }} |
 | *Rubus saxatilis* (steenbraam) | {{ pollen("rubus_saxatilis", "size.size_smallest") }}–{{ pollen("rubus_saxatilis", "size.size_largest") }} | {{ pollen("rubus_saxatilis", "sculpture") }} |
-
-#### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -286,8 +270,6 @@ Valla meestal al in helderveld duidelijk; perforaties bij goede acetolyse.
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
 | *Dryas octopetala* (zilverkruid) | {{ pollen("dryas_octopetala", "size.size_smallest") }}–{{ pollen("dryas_octopetala", "size.size_largest") }} | {{ pollen("dryas_octopetala", "sculpture") }} |
-
-#### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -317,8 +299,6 @@ Tricolpaat–psilaat / 3-colporaat. Zie [Beug 13](../../Identificatiesleutels/be
 | :--- | :--- | :--- |
 | [*Sanguisorba minor*](../../pollen/species/sanguisorba_minor.md) (kleine pimpernel) | {{ pollen("sanguisorba_minor", "size.size_smallest") }}–{{ pollen("sanguisorba_minor", "size.size_largest") }} | {{ pollen("sanguisorba_minor", "sculpture") }} |
 
-#### Beelden
-
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
@@ -335,8 +315,6 @@ Stephanocolporaat, 6-colporaat. Zie [Beug 25](../../Identificatiesleutels/beug25
 | Taxon | Grootte | Sculptuur |
 | :--- | :--- | :--- |
 | [*Sanguisorba officinalis*](../../pollen/species/sanguisorba_officinalis.md) (grote pimpernel) | {{ pollen("sanguisorba_officinalis", "size.size_smallest") }}–{{ pollen("sanguisorba_officinalis", "size.size_largest") }} | {{ pollen("sanguisorba_officinalis", "sculpture") }} |
-
-#### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
@@ -357,8 +335,6 @@ Beug 14.24 (in [Tricolporatae psilaat](../../Identificatiesleutels/beug14-tricol
 | :--- | :--- | :--- |
 | [*Filipendula ulmaria*](../../pollen/species/filipendula_ulmaria.md) (moerasspirea) | {{ pollen("filipendula_ulmaria", "size.size_smallest") }}–{{ pollen("filipendula_ulmaria", "size.size_largest") }} | {{ pollen("filipendula_ulmaria", "sculpture") }} |
 | [*Filipendula vulgaris*](../../pollen/species/filipendula_vulgaris.md) (knolspirea) | {{ pollen("filipendula_vulgaris", "size.size_smallest") }} | {{ pollen("filipendula_vulgaris", "sculpture") }} |
-
-### Beelden
 
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">
