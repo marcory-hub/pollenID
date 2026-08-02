@@ -25,7 +25,7 @@
 - kleurt buitenlaag van de pollenkorrel
 - achtergrond informatie over [fuchsine](https://www.labshop.nl/wp-content/uploads/2024/08/K94110-Fuchsine-Details.pdf)
 - Balsemien honing, fuchsine gekleurd met neerslag, mgl agv alkalische reactie?
-![../assets/images/non-pollen/FuchsineWerkBijBalsemien2026-04-09.JPG]
+![Fuchsine bij balsemien](../assets/images/non-pollen/FuchsineWerkBijBalsemien2026-04-09.JPG)
 
 ### 2. **Safranin O + Astra Blue:**
 - ([Novikov](https://www.researchgate.net/publication/352463294_Modified_staining_protocol_with_Safranin_O_and_Astra_Blue_for_the_plant_histology#fullTextFileContent))
@@ -53,14 +53,14 @@
 - Alexander, M. P. (1969). Differential staining of aborted and nonaborted pollen. *Stain Technology*. [doi:10.3109/10520296909063335](https://doi.org/10.3109/10520296909063335)
 
 ## Andere kleuringen voor pollen
-![Safranin (Ali 2021)](../assets/images/non-pollen/safranin1%ali2021.png)
+![Safranin (Ali 2021)](../assets/images/non-pollen/safranin1-ali2021.png)
 - Hayat, K., et al. (2023). Pollen morphological investigation of selected species of family Asteraceae from Pakistan by using light and scanning electron microscopy. *Microscopy Research and Technique*. _Originele referentie waarna ze in materiaal en methode verwijzen (Ali 2021) zit achter betaalmuur_
 ![Alcian blue](../assets/images/non-pollen/alcian-blue.jpg)
 In de foto's in het artikel onvoldoende details aangekleurd 
 - Nunes, A. R. S., et al. (2024). Melissopalynological methodologies for investigating honey samples: a critical approach. *Anais da Academia Brasileira de Ciencias*. [doi:10.1590/0001-3765202420230703](https://doi.org/10.1590/0001-3765202420230703)
 
 ### Viability stainings
-![../assets/images/non-pollen/viability-stainings.png]
+![Viability stainings](../assets/images/non-pollen/viability-stainings.png)
 [Skrzypkowski 2023](https://www.researchgate.net/publication/375049635_Pollen_Development_and_Stainability_in_Vicia_faba_L_and_Lupinus_angustifolius_L)
 
 | Kleuring | Werkoplossing | Incubatie | Levende cel | Dode cel |

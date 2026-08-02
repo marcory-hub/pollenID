@@ -19,6 +19,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Material for MkDocs prints a MkDocs 2.0 banner to stderr; keep CI logs clean.
+      NO_MKDOCS_2_WARNING: "true"
+      LANG: C.UTF-8
+      PYTHONUTF8: "1"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,7 +41,11 @@ jobs:
         run: python scripts/build_docs_data.py
 
       - name: Build MkDocs site
-        run: mkdocs build --strict
+        run: |
+          set -o pipefail
+          mkdocs build --strict 2>&1 | tee mkdocs-build.log
+          echo "---- mkdocs warnings (if any) ----"
+          grep -E 'WARNING|ERROR|Aborted' mkdocs-build.log || true
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

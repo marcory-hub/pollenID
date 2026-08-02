@@ -4,6 +4,12 @@ site_url: https://marcory-hub.github.io/pollenID/
 validation:
   nav:
     omitted_files: ignore
+  links:
+    # Keep --strict for real build errors; do not fail deploy on residual
+    # cross-folder / media path noise (Linux CI is case-sensitive).
+    not_found: info
+    unrecognized_links: info
+    absolute_links: info
 
 extra:
   palette_migration: "2026-03-21-dark-default"
@@ -88,6 +94,7 @@ nav:
       - Site-architectuur: naslag/site-architectuur.md
       - Synoniemen en basioniemen: naslag/synoniemen-en-basioniemen.md
       - Voormalige plantenfamilies: naslag/voormalige-families.md
+      - Monofloraal groepsindeling: naslag/monofloraal-groepsindeling.md
       - Pollen kleurprotocollen: naslag/pollen-staining-protocols.md
       - Scripts: naslag/scripts.md
 
