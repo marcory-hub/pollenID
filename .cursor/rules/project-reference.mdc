@@ -1,67 +1,35 @@
 ---
-description: Completion prompts and pointers to internal notes.
+description: Project hygiene guardrails and public docs layout pointer.
 alwaysApply: true
 ---
 
 # Mandatory procedures
+
 - **Workflow**: Notes are edited in Obsidian; sync is the user's responsibility (`notes/pollenID/_cli_pid.md` if present).
 - **Source of truth**: Notes tagged **SoT: Yes** at the top are treated as verified; all others are `[to be verified]`.
+- **`notes/`**: read-only for agents (canonical: `rules-notes-boundary.mdc`).
 
 ## Do not suggest (hard guardrails)
 
 ### Project & documentation hygiene
+
 - **Standalone logs**: No new random log files.
 - **Root clutter**: No new root-level clutter except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.) and focused helpers under **`scripts/`** when the user asks for automation.
 - **Redundant plugins**: Check **`mkdocs.yml`** and Material built-ins before proposing new MkDocs plugins.
 
 ### Technical & publication
+
 - **Slugs**: Renaming existing `docs/` pages requires an explicit **broken-links / SEO** warning and a small migration plan.
 - **Large assets**: Avoid embedding very large images in `docs/` without noting optimization or external hosting.
-- **Hardcoded nav**: This project uses explicit `nav` in **`mkdocs.yml`**; do not suggest bulk manual nav edits for every tiny page—prefer batching and link checks.
+- **Hardcoded nav**: Explicit `nav` in **`mkdocs.yml`**; do not suggest bulk manual nav edits for every tiny page; prefer batching and link checks.
 - **Public/private**: Do not move raw research data from `notes/` to `docs/` unless the user explicitly asks to publish that material.
 
 ### Palynology & UI
+
 - **Terminology**: Prefer standard palynological terms.
-- **No emojis** never, also not in docs or agent output (see global rules).
+- **No emojis** in docs or agent output (`interaction-style.mdc`).
 - **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).
 
+## Public site layout
 
-## Summary of the public MkDocs site structure
-
-docs/
-├── index.md
-├── Identificatiesleutels/
-│   ├── _index.md                     # nav: Keys
-│   ├── beug*.md
-│   ├── kerkvliet-determinatietabel.md
-│   └── pollen-tabel-vanderham.md
-├── monoflorale-honing-pollen/
-│   ├── _index.md                     # nav: Monofloraal (Overzicht)
-│   └── <uniflorale_honing>.md        # nav children (Zonnebloem, ...)
-├── pollen/
-│   ├── families/
-│   │   ├── _index.md                 # nav: Pollen > Families
-│   │   └── <family_slug>.md          # Latin family slug (boraginaceae, …)
-│   └── species/
-│       ├── _index.md                 # nav: Pollen > Species (overview only)
-│       └── <pollen_key>.md           # one canonical page per species/type
-├── lookalikes/
-│   ├── _index.md                     # nav: Lookalikes (Overzicht)
-│   └── <lookalike>.md                # nav children (Acer/Amaryllidaceae/Betulaceae/...)
-├── gallerie/
-│   └── gallery-nl-pollen-types.md    # nav: Pollentypen
-├── naslag/
-│   ├── _index.md                     # nav: Naslag
-│   ├── synoniemen-en-basioniemen.md
-│   ├── pollen-staining-protocols.md
-│   └── palynoquest.md                # also nav: Willekeurig
-├── assets/                            # shared media (relative paths assets/images/…)
-├── stylesheets/
-│   └── extra.css                      # in mkdocs.yml
-├── javascripts/
-│   ├── pollentabel.js
-│   ├── kerkvliet-determinatietabel.js
-│   └── palynoquest.js
-└── tags.md
-
-Note: Geography/frequency live in `data/pollen.yaml` (`frequency_in_*_honey`, `is_secondary_contributor`), not as separate browse folders. `notes/pollenID/_project_layout_pid.md` may mention stale folders; do not treat those as current layout. Agent docs for scripts live under `.cursor/docs/`, not `docs/naslag/`.
+Full `docs/` tree: `.cursor/docs/site-layout.md` (load when doing nav or folder work). Geography/frequency live in `data/pollen.yaml`, not as separate browse folders. Public script index: `docs/naslag/scripts.md`. Agent script notes: `.cursor/docs/scripts.md`.

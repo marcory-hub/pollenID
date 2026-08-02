@@ -30,13 +30,13 @@
 ### 2. **Safranin O + Astra Blue:**
 - ([Novikov](https://www.researchgate.net/publication/352463294_Modified_staining_protocol_with_Safranin_O_and_Astra_Blue_for_the_plant_histology#fullTextFileContent))
 - Eerste test 2026-05-09
-![Safranin O + Astra Blue, Taraxacum officinale](../assets/images/non-pollen/safranineO-AstraBlue-Taraxacum-officinale.PNG)
+![Safranin O + Astra Blue, Taraxacum officinale](../assets/images/non-pollen/safranineO-AstraBlue-Taraxacum-officinale.png)
 ![Astra Blue + Safranin O (Novikov)](../assets/images/non-pollen/astra-blue-safraninO-novikov.png)
 - Novikov, A., et al. (2021). Modified staining protocol with Safranin O and Astra Blue for the plant histology. *Plant Introduct*. [doi:10.46341/pi2021005](https://doi.org/10.46341/pi2021005)
 
 ### 3. **Chrysoidine (oranje-geel) en malachiet (groen):**
 - 2026-07-11
-- ![Chrysoidine + Malachiet, Phacelia](../assets/images/non-pollen/chrysiodine-malachiet-phacelia.jpg)
+- ![Chrysoidine + Malachiet, Phacelia](../assets/images/non-pollen/chrysiodine-malachiet-phacelia.jpeg)
 4. **Eosine Y**
 2019 Biobloemenhoning Langnese
   ![HE](../assets/images/non-pollen/HE.jpg)

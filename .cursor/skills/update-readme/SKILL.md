@@ -10,16 +10,16 @@ description: Make or update README files with project voice and GitHub conventio
 ## Audience
 
 1. **Operator:** knows the stack; needs the command fast.
-2. **Builder:** beekeeper, ecologist, or field researcher assembling the detector; needs context, then clear steps.
+2. **Builder:** collaborator setting up MkDocs locally; needs context, then clear steps.
 
 Serve both: terse procedures, welcoming intro. No dumbing down steps or burying commands.
 
 ## Edits
 
-- Operate on the user-specified path only (e.g. `gv2_firmware/README.md`).
+- Operate on the user-specified path only (e.g. `README.md`).
 - Do not rewrite existing sections unless the user asks to polish or rewrite.
-- Insert new content at the requested anchor. User-edit authority: `.cursor/rules/global-rules.mdc`.
-- If path, anchor, or variable data (versions, URLs, hex) is missing, ask before writing.
+- Insert new content at the requested anchor. User-edit authority: `.cursor/rules/interaction-style.mdc`.
+- If path, anchor, or variable data (versions, URLs) is missing, ask before writing.
 
 ## Intro contract (root and public READMEs)
 
@@ -28,7 +28,7 @@ Two lines after the title:
 1. **What:** concrete noun, no hype.
 2. **Who:** operator and/or builder (see above).
 
-Optional on submodule READMEs. Never open with background, roadmap, or TOC.
+Optional on nested READMEs. Never open with background, roadmap, or TOC.
 
 ## Section modes
 
@@ -37,15 +37,15 @@ Do not mix modes in one section.
 | Mode | Use in | Rules |
 | :--- | :--- | :--- |
 | **Prose** | Intro, background | Inverted pyramid (main point first). No throat-clearing openers. |
-| **Procedure** | Setup, Flash, CLI, Troubleshooting | Goal, prerequisites, numbered steps, expected output. No hooks or digressions. End with next step or success criteria. |
+| **Procedure** | Setup, CLI, Deploy, Troubleshooting | Goal, prerequisites, numbered steps, expected output. No hooks or digressions. End with next step or success criteria. |
 
 ## Voice
 
-Colleague notes, not blog or chatbot. Follow project-wide ban: no em dash, no emojis (`global-rules.mdc`).
+Colleague notes, not blog or chatbot. Follow project-wide ban: no em dash, no emojis (`interaction-style.mdc`).
 
 **Banned:** "In this section we will…", "It's worth noting…", "Let's dive in", empty enthusiasm, tricolon stacks ("fast, reliable, and scalable"), filler under every heading, "Simply/Just follow these easy steps", generic sentences that fit any repo.
 
-**Preferred:** direct and specific; concrete nouns ("921600 baud"); explain jargon once or drop it; active voice; bold UI and key commands for scanning only; simplify without distorting facts.
+**Preferred:** direct and specific; concrete nouns; explain jargon once or drop it; active voice; bold UI and key commands for scanning only; simplify without distorting facts.
 
 ## Images
 
@@ -61,7 +61,7 @@ Relevant screenshots only; credit if not yours.
 - Link to sections instead of repeating (`See [Setup](#setup)`).
 - Update TOC when adding sections.
 - Downloads: `blob/main` to `raw/main`.
-- Placeholders for unknown values (`0xYOUR_ADDRESS`); flag to user.
+- Placeholders for unknown values; flag to user.
 
 ## Pre-publish test
 
@@ -71,4 +71,4 @@ Relevant screenshots only; credit if not yours.
 
 ## Destructive ops
 
-Warn per `safety-guardrails.mdc` before flash, erase, or overwrite steps.
+Warn per `anti-hallucination-verification.mdc` before irreversible git or filesystem steps.

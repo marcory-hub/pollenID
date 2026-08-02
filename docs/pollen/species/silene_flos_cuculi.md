@@ -1,6 +1,6 @@
-# *Lychnis flos-cuculi*
+# *Silene flos-cuculi* (echte koekoeksbloem)
 
-{{ gallery("lychnis_flos-cuculi") }}
+{{ gallery("silene_flos_cuculi") }}
 
 ## Kenmerken
 
@@ -19,11 +19,10 @@
 | Frequentie in EU-honing | rare |
 | Plantnotitie | syn. Lychnis flos-cuculi |
 
-
 ### SoT (`data/pollen.yaml`)
 
 ```yaml
-lychnis_flos-cuculi:
+silene_flos_cuculi:
   name:
     latin_name: Silene flos-cuculi
     dutch_name: echte koekoeksbloem
@@ -64,18 +63,18 @@ lychnis_flos-cuculi:
   frequency_in_eu_honey: rare
   frequency_in_non_eu_honey: null
   links:
-    pollenX: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi
-    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lychnis_flos-cuculi
-    paldat: https://www.paldat.org/pub/Lychnis_flos-cuculi
-    waarneming: https://waarneming.nl/search/?q=lychnis+flos-cuculi
+    pollenX: https://pollenx.eu/species.php?species=Silene_flos-cuculi
+    tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Silene_flos-cuculi
+    paldat: https://www.paldat.org/pub/Silene_flos-cuculi
+    waarneming: https://waarneming.nl/search/?q=silene+flos-cuculi
   images:
-  - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_1.png
+  - path: assets/images/by-taxon/silene_flos_cuculi/silene_flos_cuculi_1.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_2.png
+  - path: assets/images/by-taxon/silene_flos_cuculi/silene_flos_cuculi_2.png
     kind: by_taxon
     source: by_taxon
-  - path: assets/images/by-taxon/lychnis_flos-cuculi/lychnis_flos-cuculi_3.png
+  - path: assets/images/by-taxon/silene_flos_cuculi/silene_flos_cuculi_3.png
     kind: by_taxon
     source: by_taxon
   is_secondary_contributor: null
@@ -83,11 +82,16 @@ lychnis_flos-cuculi:
 
 ## Determinatiesleutels
 
-[to be verified]
+### Kerkvliet
+<details><summary>kerkvliet_determinatietabel</summary>
+
+- Sectie: Pollen met een netwerk op het oppervlak (reticulate pollen) en ander reliëf op oppervlak
+
+</details>
 
 ## Online databases
 
-- pollenX: https://pollenx.eu/species.php?species=Lychnis_flos-cuculi
-- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Lychnis_flos-cuculi
-- paldat: https://www.paldat.org/pub/Lychnis_flos-cuculi
-- waarneming: https://waarneming.nl/search/?q=lychnis+flos-cuculi
+- pollenX: https://pollenx.eu/species.php?species=Silene_flos-cuculi
+- tstebler: https://pollen.tstebler.ch/MediaWiki/index.php?title=Silene_flos-cuculi
+- paldat: https://www.paldat.org/pub/Silene_flos-cuculi
+- waarneming: https://waarneming.nl/search/?q=silene+flos-cuculi

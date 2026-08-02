@@ -93,11 +93,13 @@ Optional YAML `links:` block overrides auto-generated atlas URLs in `pollen.json
 
 ## Regenerate the runtime index and manifests
 
-`docs/javascripts/pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate site data (not tracked in git):
+`docs/javascripts/pollentabel.js` reads `docs/data/pollen.json` for endpoints that use `id.pollen_key`. After any change to `data/pollen.yaml`, regenerate site data (not tracked in git). Prefer validate (rebuilds data once):
 
 ```bash
-./.venv/bin/python scripts/build_docs_data.py
+./.venv/bin/python scripts/validate_pollen_site.py --rebuild-data --images --links
 ```
+
+Or data-only: `./.venv/bin/python scripts/build_docs_data.py` (do not also pass `--rebuild-data` in the same turn).
 
 Rules:
 - Do not edit `docs/data/pollen.json` or `docs/assets/manifests/*.json` by hand; they are generated.

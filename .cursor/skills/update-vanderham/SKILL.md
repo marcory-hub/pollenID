@@ -40,9 +40,12 @@ Prefer stable names: **`assets/images/by-taxon/<slug>/<slug>_1.png`**, … (see 
 
 ## Regenerate and validate
 
+`validate_pollen_site.py --rebuild-data` already runs `build_docs_data.py`. Do not call both.
+
 ```bash
-./.venv/bin/python scripts/build_docs_data.py
 ./.venv/bin/python scripts/validate_pollen_site.py --rebuild-data --images --links
+# or after an add-taxon batch:
+./.venv/bin/python scripts/add_taxon.py --skip-rename --skip-sync
 ```
 
 ## MkDocs

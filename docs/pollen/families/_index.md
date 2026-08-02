@@ -43,7 +43,7 @@ Overzicht van pollenfamilies.
 - [grossulariaceae](grossulariaceae.md)
 - [hippocastanaceae](hippocastanaceae.md)
 - [hydrangeaceae](hydrangeaceae.md)
-- [hydrophylaceae](hydrophylaceae.md)
+- [hydrophyllaceae](hydrophyllaceae.md)
 - [hypericaceae](hypericaceae.md)
 - [iridaceae](iridaceae.md)
 - [juglandaceae](juglandaceae.md)

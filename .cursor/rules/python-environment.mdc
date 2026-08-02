@@ -1,24 +1,21 @@
 ---
 description: Python tooling runs only inside the project virtualenv
-globs: scripts/**,requirements/**
-alwaysApply: true
+globs: scripts/**/*.py,requirements.txt,docs/naslag/scripts.md
+alwaysApply: false
 ---
 
 # Python environment
 
 - Use **`.venv/` only** for Python in this repo. Do not install packages with system `python3` or `pip`.
-- **Homebrew:** optional for `python@3.x` to create the venv (`brew install python@3.12`). Docling, PyYAML, and other project libs are **not** Homebrew formulae; install them with `.venv/bin/pip` only.
+- **Homebrew:** optional for `python@3.x` to create the venv (`brew install python@3.12`). Project libs are **not** Homebrew formulae; install with `.venv/bin/pip` only.
 - Create once: `python3 -m venv .venv`
-- Install deps (no extra args after the requirements file):
-  - `.venv/bin/pip install -r requirements/validate_schemas.txt`
-  - `.venv/bin/pip install -r requirements/extract.txt`
-  - `.venv/bin/pip install -r requirements/dev.txt` (tests)
-- Run scripts: `.venv/bin/python scripts/validate/validate_schemas.py` (or `source .venv/bin/activate` first).
-- Run tests: `.venv/bin/pytest tests/`
-- Add new dependencies to a file under `requirements/`, not ad hoc installs.
+- Install deps: `.venv/bin/pip install -r requirements.txt`
+- Run scripts: `.venv/bin/python scripts/<script>.py` (or `source .venv/bin/activate` first).
+- Add new dependencies to root **`requirements.txt`**, not ad hoc installs.
 
 # pollenID specific
+
 - All Python scripts live under **`scripts/`**. Do not add new `.py` files at the repo root or in ad hoc folders.
 - MkDocs macros module: **`scripts/mkdocs_macros.py`**, wired with `macros.module_name: scripts/mkdocs_macros` in `mkdocs.yml`.
 - One-time / throwaway scripts: remove them after use; do not leave them in the tree.
-- Always add durable scripts to `docs/naslag/scripts.md`
+- Always add durable scripts to **`docs/naslag/scripts.md`**.

@@ -86,8 +86,8 @@
 - [14. Tricolporatae PK met psilate, scabrate, (micro)verrucate sculpturen](beug14-tricolporatae-ps.md)
     - [14.9 (Bistorta-) Polygonum bistorta-type](beug14-tricolpatae-ps-bistorta.md) (adderwortel)
     - [14.11 Apiaceae](beug14-tricolpatae-ps-apiaceae.md)
-        -[14.11.14 Berula erecta-groep](beug14-tricolpatae-ps-berula.md) (watereppe)
-        -[14.11.23 Pleurospermum, Smyrium, Laserpitium nitidum](beug14-tricolpatae-ps-pleurospermum.md) (aantal overige schermbloemige)
+        - [14.11.14 Berula erecta-groep](beug14-tricolpatae-ps-berula.md) (watereppe)
+        - [14.11.23 Pleurospermum, Smyrium, Laserpitium nitidum](beug14-tricolpatae-ps-pleurospermum.md) (aantal overige schermbloemige)
     - [14.29 Lotus tetragonolobus](beug14-tricolpatae-ps-lotus.md) (asperge-erwt)
 
 ### 15. Tricolporoidatae - PK met psilate, scabrate of (micro)verrucate sculpturen
@@ -142,16 +142,17 @@
 
 ### 24. Stephanocolpatae
 - [24. Stephanocolpatae](beug24-stephanocolpatae.md)
-    - [24.10 Salvia pratensis-groep](beug24-stephanocolpatae-salvia.md) (salie)
-    - [24.13 Primula veris-groep](beug24-stephanocolpatae-primula.md) (gulden sleutelbloem)
+    - [24.10 Salvia pratensis-groep](beug24-stephanocolpatae-salvia-pratensis.md) (salie)
+    - [24.10 Salvia verticillata](beug24-stephanocolpatae-salvia-verticillata.md) (kranssalie)
+    - [24.13 Primula veris-groep](beug24-stephanocolpatae-primula-veris.md) (gulden sleutelbloem)
 
 ### 25. Stephanocolporatae
 - [25. Stephanocolporatae](beug25-stephanocolporatae.md)
-    -[25.4 Pulmonaria-groep](beug25-stephanocolporatae-pulmonaria.md) (longkruid)
+    - [25.4 Pulmonaria-groep](beug25-stephanocolporatae-pulmonaria.md) (longkruid)
 
 ### 26. Pericolpatae
 - [26. Pericolpatae](beug26-pericolpatae.md)
-    -[26.6 Corydalis-groep](beug26-pericolpatae-corydalis.md) (vingerhelmbloem)
+    - [26.6 Corydalis-groep](beug26-pericolpatae-corydalis.md) (vingerhelmbloem)
 
 ### 27. Pericolporatae
 - [27. Pericolporatae](beug27-pericolporatae.md)

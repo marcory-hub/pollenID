@@ -11,20 +11,20 @@ README procedures: `.cursor/skills/update-readme/SKILL.md`.
 
 ## Read first
 
-Run `read-notes` for hardware, model, and recent roadmap (`_hardware_vst.md`, `_model_vst.md`, `_timeline_vst.md` recent entries only). Add `README.md` for public-facing stack summary.
+Run `read-notes` for layout and recent roadmap (`_project_layout_pid.md`, `_timeline_pid.md` recent entries only). Add `README.md` for public-facing stack summary. Confirm live site URL from README if stated.
 
 ## Deliver
 
 | Request | Output |
 | :--- | :--- |
-| Elevator pitch | 3 to 5 sentences: problem, on-device GV2 inference, T-SIM SMS, solar/off-grid |
+| Elevator pitch | 3 to 5 sentences: problem (melissopalynology / pollen ID), MkDocs Material reference site, Dutch keys and taxon pages, GitHub Pages |
 | Stakeholder summary | Short prose or bullets; gloss jargon once |
 | External talk draft | Offer `@grill-me` before finalizing |
 
-**Must state:** GV2 runs inference; T-SIM handles LTE/SMS; training is dev-time (Colab); deployed trap runs offline.
+**Must state:** published content lives under `docs/`; taxon SoT is `data/pollen.yaml`; interactive keys use JSON + `pollentabel.js`; site deploys via GitHub Actions to Pages.
 
 ## Do not
 
-- Invent pipeline steps, counts, or paths
+- Invent pipeline steps, taxon counts, or paths
 - Publish note content to git unless user asks
-- Edit `presentations/*.md` unless user explicitly requests slide file changes
+- Edit presentation files unless user explicitly requests

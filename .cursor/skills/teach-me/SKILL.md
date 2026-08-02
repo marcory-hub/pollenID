@@ -19,7 +19,7 @@ Stateful across sessions. Ground in mission, glossary, learning records, and res
 | `teaching/NOTES.md` | User preferences | freeform |
 | `teaching/learning-records/` | ADR-style insight | [LEARNING-RECORD-FORMAT.md](LEARNING-RECORD-FORMAT.md) |
 | `teaching/lessons/` | One concept per file | `0001-slug.md`, increment |
-| `teaching/reference/` | Cheat sheets, pinouts | revisit often |
+| `teaching/reference/` | Cheat sheets | revisit often |
 
 Create on disk when user says apply to file or agrees to persist; else teach in chat.
 
@@ -27,11 +27,11 @@ Create on disk when user says apply to file or agrees to persist; else teach in 
 
 1. Read `teaching/MISSION.md` if present; else interview for why (one question at a time; use `MISSION-FORMAT.md`).
 2. Read `teaching/learning-records/` and `teaching/GLOSSARY.md` for zone of proximal development.
-3. **vespa_smart_trap facts:** `.cursor/skills/read-notes/SKILL.md` only; never invent hardware or model data.
+3. **pollenID facts:** `.cursor/skills/read-notes/SKILL.md` and verified `data/pollen.yaml` / `docs/` only; never invent morphology or Latin names.
 
 ## Lesson
 
-One tight concept; tied to mission; markdown in `teaching/lessons/`. Flow: minimal why → practice → check understanding. Cite `RESOURCES.md` entries. Use `GLOSSARY.md` terms in lessons once promoted. Hardware/flash: `safety-guardrails.mdc` warnings. No em dash or emojis in files.
+One tight concept; tied to mission; markdown in `teaching/lessons/`. Flow: minimal why → practice → check understanding. Cite `RESOURCES.md` entries. Use `GLOSSARY.md` terms in lessons once promoted. Prefer standard palynological terms. No em dash or emojis in files.
 
 ## Feedback
 

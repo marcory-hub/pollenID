@@ -1,21 +1,19 @@
 ---
-description: Science-communication style while drafting and editing the article
-globs: paper/draft.md,paper/main.md
+description: Science-communication style while drafting and editing article-like docs
+globs: docs/**/*.md,docs/naslag/**
 alwaysApply: false
 ---
 
 # Writing process (popular science style)
 
-Companion while you **write or revise** files in `docs/`. Full checklists: `docs/naslag/wetenschapscommunicatie-digest.md`.
+Companion while you **write or revise** prose under `docs/`. Full checklists: `.cursor/docs/wetenschapscommunicatie.md`.
 
 **Digest is craft/style only: never a factual source.**
 
-This rule keeps style during the writing process. For a separate editor read-through on finished prose, use `@editorial-review`.
-
 ## Before you write
 
-- Audience and word budget: melisopalynology learners.
-- Text blocks in this repo should be short and easy to read. 
+- Audience and word budget: melissopalynology learners.
+- Text blocks in this repo should be short and easy to read.
 
 ## Structure
 
@@ -35,14 +33,15 @@ This rule keeps style during the writing process. For a separate editor read-thr
 
 ## Metaphors
 
-- Use when abstract → tangible (e.g. luchtalarm/parfum is good *if* it clarifies faster than it confuses).
+- Use when abstract → tangible (only if it clarifies faster than it confuses).
 - Drop metaphors that need more explanation than the science itself.
 
-## Graphs (PubMed figure)
+## Graphs
 
-- One clear message; labeled axes; honest scale (no truncated y-axis = lieggrafiek).
+- One clear message; labeled axes; honest scale (no truncated y-axis).
 - Prefer counts over naked percentages when scale matters.
 
 ## After a writing session
 
 - Run the digest "Quick pre-publish" checklist before you call a section done.
+- Also respect `interaction-style.mdc` MkDocs slide-sheet defaults for new pages.
