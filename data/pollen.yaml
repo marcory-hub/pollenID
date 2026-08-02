@@ -835,8 +835,9 @@ artemisia_typ:
     dutch_name: bijvoet/alsem type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Artemisia
   size:
@@ -854,7 +855,7 @@ artemisia_typ:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note: 'Kerkvliet: echinaat H en'
+    pollen-note: 'Kerkvliet: echinaat H en; mixed sculpture: echinaat H en reticulaat/verrucaat (Kerkvliet) [to be verified]'
   flowering_time:
     start:
     end:
@@ -1500,8 +1501,9 @@ cosmos_typ:
     dutch_name: cosmea type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Cosmos
   size:
@@ -1564,8 +1566,9 @@ crepis_typ:
     dutch_name: streepzaad type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Crepis
   size:
@@ -2223,8 +2226,9 @@ hieracium_typ:
     dutch_name: havikskruid type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Hieracium
   size:
@@ -4008,8 +4012,9 @@ arctium_minus:
     dutch_name: klit
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -4019,7 +4024,7 @@ arctium_minus:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: rond tot driekantig, afhankelijk van de ligging
-    sculpture: echinaat
+    sculpture: echinaat S
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
@@ -4027,7 +4032,7 @@ arctium_minus:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: echinaat S'
   flowering_time:
     start:
     end:
@@ -4078,8 +4083,9 @@ arctium_lappa:
     dutch_name: grote klis
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -4089,7 +4095,7 @@ arctium_lappa:
   pollen_class_beug:
   pollen_features:
     shape:
-    sculpture:
+    sculpture: echinaat S
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -4097,7 +4103,7 @@ arctium_lappa:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: echinaat S'
   flowering_time:
     start:
     end:
@@ -4592,7 +4598,7 @@ aster_amellus:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: rond tot gering driehoekig, sferoid tot gering oblaat
-    sculpture: echinaat
+    sculpture: echinaat H
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
@@ -4600,7 +4606,7 @@ aster_amellus:
     ornamentation_visibility:
     polarity: 0.86
     pe_ratio:
-    pollen-note:
+    pollen-note: 'echinaat H (genus-level, via Aster synonymy) [to be verified]'
   flowering_time:
     start: 7
     end: 10
@@ -6646,7 +6652,7 @@ symphyotrichum_lanceolatum:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: rond tot gering driehoekig, sferoid
-    sculpture: echinaat
+    sculpture: echinaat H
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
@@ -6654,7 +6660,7 @@ symphyotrichum_lanceolatum:
     ornamentation_visibility:
     polarity: 0.89
     pe_ratio:
-    pollen-note:
+    pollen-note: 'echinaat H (genus-level, via Aster synonymy) [to be verified]'
   flowering_time:
     start: 8
     end: 10
@@ -8192,7 +8198,7 @@ carduus_typ:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: driehoekig, sferoid
-    sculpture: echinaat op verrucaat
+    sculpture: echinaat S
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
@@ -8200,7 +8206,7 @@ carduus_typ:
     ornamentation_visibility:
     polarity: isopolair
     pe_ratio: ca. 0,89 (0,84-0,94)
-    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); exemplaar Carduus defloratus'
+    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); exemplaar Carduus defloratus; echinaat S (genus-level, via Carduus nutans) [to be verified]'
   flowering_time:
     start:
     end:
@@ -8882,8 +8888,9 @@ centaurea_jacea:
     dutch_name: knoopkruid
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -9466,8 +9473,9 @@ cirsium_arvense:
     dutch_name: akkerdistel
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -9524,8 +9532,9 @@ cirsium_vulgare:
     dutch_name: speerdistel
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -12800,8 +12809,9 @@ eupatorium_cannabinum:
     dutch_name: leverkruid
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -14351,8 +14361,9 @@ helianthus_annuus:
     dutch_name: zonnebloem
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -17082,8 +17093,9 @@ matricaria_chamomilla:
     dutch_name: echte kamille
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -17140,8 +17152,9 @@ matricaria_recutita:
     dutch_name: echte kamille
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -17151,7 +17164,7 @@ matricaria_recutita:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape:
-    sculpture: echinaat
+    sculpture: echinaat A
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -17159,7 +17172,7 @@ matricaria_recutita:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: echinaat A'
   flowering_time:
     start:
     end:
@@ -23283,8 +23296,9 @@ solidago_virgaurea:
     dutch_name: echte guldenroede
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Solidago
   size:
@@ -23294,7 +23308,7 @@ solidago_virgaurea:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape:
-    sculpture: echinaat
+    sculpture: echinaat H
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -23302,7 +23316,7 @@ solidago_virgaurea:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note: "Kerkvliet: 24"
+    pollen-note: 'Kerkvliet: 24; Kerkvliet: echinaat H'
   flowering_time:
     start:
     end:
@@ -26287,7 +26301,7 @@ crepis_biennis:
     ornamentation_visibility:
     polarity: isopolaar
     pe_ratio:
-    pollen-note: 'Pollenatlas Wien (2020): 21–30 µm (gehydrateerd LM); lofaat, echinaat LM; microreticulaat, echinaat SEM. Beug 29.4 *Crepis*-type: *C. biennis* 40,0–47,5 µm, MiW 43,6 µm.'
+    pollen-note: 'Pollenatlas Wien (2020): 21–30 µm (gehydrateerd LM); lofaat, echinaat LM; microreticulaat, echinaat SEM. Beug 29.4 *Crepis*-type: *C. biennis* 40,0–47,5 µm, MiW 43,6 µm.; Kerkvliet: echinaat T'
   flowering_time:
     start:
     end:
@@ -32331,8 +32345,9 @@ aster_typ:
     dutch_name: aster type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Aster
   size:
@@ -33819,8 +33834,9 @@ bidens_typ:
     dutch_name: tandzaad type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Bidens
   size:
@@ -36773,7 +36789,7 @@ carduus_defloratus:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: driehoekig, sferoid
-    sculpture: echinaat op verrucaat
+    sculpture: echinaat S
     sculpture_visibility:
     aperture: tricolporaat
     aperture_visibility:
@@ -36781,7 +36797,7 @@ carduus_defloratus:
     ornamentation_visibility:
     polarity: isopolair
     pe_ratio: ca. 0,89 (0,84-0,94)
-    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); Beug 51,3-60,5 µm, MiW 56,8 µm'
+    pollen-note: 'PolFeldI ca. 0,46 (0,42-0,51); equatoriale poordiameter ca. 8 µm (6,5-9,4 µm), poorten iets gestrekt richting pool; veel pollenkitt. Beug 17.1.11 Carduus-Typ (Carduus, Cynara, Silybum); Beug 51,3-60,5 µm, MiW 56,8 µm; echinaat S (genus-level, via Carduus nutans) [to be verified]'
   flowering_time:
     start:
     end:
@@ -36820,8 +36836,9 @@ carlina_aucalis:
     dutch_name: zilverdistel
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -47870,8 +47887,9 @@ galinsoga_typ:
     dutch_name: knopkruid type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Galinsoga
   size:
@@ -56696,8 +56714,9 @@ leucanthemum_vulgare:
     dutch_name:
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus:
   size:
@@ -56707,7 +56726,7 @@ leucanthemum_vulgare:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape:
-    sculpture: echinaat
+    sculpture: echinaat A
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -56715,7 +56734,7 @@ leucanthemum_vulgare:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: echinaat A'
   flowering_time:
     start:
     end:
@@ -65326,8 +65345,9 @@ picris_hieracioides:
     dutch_name: echt bitterkruid
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Picris
   size:
@@ -65337,7 +65357,7 @@ picris_hieracioides:
   pollen_class_beug: Fenestrat
   pollen_features:
     shape:
-    sculpture:
+    sculpture: echinaat T
     sculpture_visibility:
     aperture: fenestraat
     aperture_visibility:
@@ -65345,7 +65365,7 @@ picris_hieracioides:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note: "Kerkvliet: 31"
+    pollen-note: 'Kerkvliet: 31; Kerkvliet: echinaat T'
   flowering_time:
     start:
     end:
@@ -75816,8 +75836,9 @@ senecio_typ:
     dutch_name: kruiskruid type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Senecio
   size:
@@ -75989,7 +76010,7 @@ serratula_typ:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: driehoekig-convex, sferoid tot optisch licht oblaat
-    sculpture: echinaat op verrucaat
+    sculpture: echinaat S
     sculpture_visibility:
     aperture: tricolporaat; poren licht uitpuilend
     aperture_visibility:
@@ -75997,7 +76018,7 @@ serratula_typ:
     ornamentation_visibility:
     polarity: isopolair
     pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.86; 0.82-0.89)
-    pollen-note: Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm
+    pollen-note: 'Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm; Kerkvliet: echinaat S'
   flowering_time:
     start:
     end:
@@ -76035,7 +76056,7 @@ serratula_tinctoria:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: driehoekig-convex, sferoid tot optisch licht oblaat
-    sculpture: echinaat op verrucaat
+    sculpture: echinaat S
     sculpture_visibility:
     aperture: tricolporaat; poren licht uitpuilend
     aperture_visibility:
@@ -76043,7 +76064,7 @@ serratula_tinctoria:
     ornamentation_visibility:
     polarity: isopolair
     pe_ratio: sferoid tot optisch licht oblaat (PoFormI ca. 0.86; 0.82-0.89)
-    pollen-note: Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm
+    pollen-note: 'Beug 17.1.8 Saussurea-type; middelgroot tot groot polair veld (PolFeldI ca. 0.50); zeer dicht PK; maten 50 (46.7-54.2) en 43 (40.3-45.9) µm; Kerkvliet: echinaat S'
   flowering_time:
     start:
     end:
@@ -76784,7 +76805,7 @@ solidago_canadensis:
   pollen_class_beug: Tricol-echinat
   pollen_features:
     shape: rond tot licht driehoekig, sferoid
-    sculpture: echinaat
+    sculpture: echinaat H
     sculpture_visibility:
     aperture: tricolporaat; porenradius ca. 2.6-2.8 µm
     aperture_visibility:
@@ -76792,7 +76813,7 @@ solidago_canadensis:
     ornamentation_visibility:
     polarity: isopolair
     pe_ratio:
-    pollen-note: Beug 17.1.12 Senecio-type
+    pollen-note: 'Beug 17.1.12 Senecio-type; Kerkvliet: echinaat H'
   flowering_time:
     start:
     end:
@@ -79627,8 +79648,9 @@ taraxacum_typ:
     dutch_name: paardenbloem type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Taraxacum
   size:
@@ -79638,7 +79660,7 @@ taraxacum_typ:
   pollen_class_beug:
   pollen_features:
     shape:
-    sculpture:
+    sculpture: echinaat T
     sculpture_visibility:
     aperture:
     aperture_visibility:
@@ -79646,7 +79668,7 @@ taraxacum_typ:
     ornamentation_visibility:
     polarity:
     pe_ratio:
-    pollen-note:
+    pollen-note: 'Kerkvliet: echinaat T'
   flowering_time:
     start:
     end:
@@ -80941,8 +80963,9 @@ tragopogon_typ:
     dutch_name: morgenster type
   classification:
     order:
-    family_latin:
-    family_dutch:
+    family_latin: Asteraceae
+    family_dutch: composietenfamilie
+
     tribe:
     genus: Tragopogon
   size:
