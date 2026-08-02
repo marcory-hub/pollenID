@@ -68,11 +68,19 @@ nav:
       - Lookalikes: lookalikes/_index.md
   - Herkennen:
       - Overzicht: herkennen/_index.md
+      - "Pollenkenmerken": herkennen/pollenkenmerken/_index.md
       - "Niveau 1 - Vaak in NL-honing": herkennen/niveau-1-vaak-in-nl-honing/_index.md
       - "Niveau 2 - Alle prioriteit": herkennen/niveau-2-alle-prioriteit/_index.md
       - "Niveau 3 - Alles": herkennen/niveau-3-alles/_index.md
       - "Composieten (ABCHJST)": herkennen/composieten-abchjst/_index.md
       - "Rosaceae (Beug-typen)": herkennen/rosaceae-beugtypen/_index.md
+      - "Apiaceae (Beug-typen)": herkennen/apiaceae-beugtypen/_index.md
+      - "Sapindaceae Acer (Beug)": herkennen/sapindaceae-acer/_index.md
+      - "Salicaceae (Beug-typen)": herkennen/salicaceae-beugtypen/_index.md
+      - "Malvaceae (Beug-typen)": herkennen/malvaceae-beugtypen/_index.md
+      - "Brassicaceae (Beug)": herkennen/brassicaceae-beugtypen/_index.md
+      - "Ranunculaceae (Beug-typen)": herkennen/ranunculaceae-beugtypen/_index.md
+      - "Fabaceae (Beug-typen)": herkennen/fabaceae-beugtypen/_index.md
   - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md
