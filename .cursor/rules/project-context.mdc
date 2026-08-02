@@ -45,10 +45,14 @@ alwaysApply: true
 
 ## 4b. Operational defaults (MkDocs and assets)
 
-- Run **`mkdocs build --strict`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors.
+- Run **`mkdocs build --strict`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors. CI (`.github/workflows/ci.yml`) also runs `--strict`; a green local build on macOS is not enough if link/asset paths only fail on Linux.
+- **`--strict` / link validation:** MkDocs treats missing relative targets as warnings that fail `--strict`. Before pushing: fix or remove broken `.md` links; do not invent stub pages unless the user asks. Prefer adding a real target to `nav` (or an intentional stub) when many published pages already link to it.
+- **Case-sensitive paths (Linux CI):** Image and page paths must match on-disk spelling exactly (`.png` ≠ `.PNG`, `.jpeg` ≠ `.jpg`). Verify with `test -f docs/...` after renames.
+- **Image Markdown:** Always `![alt](relative/path.ext)`. Never `![path]` without `(url)`. Avoid `%` and other URL-special characters in asset filenames.
 - **Internal links**: relative Markdown paths under **`docs/`**.
 - **Images**: under **`docs/assets/`**. Pollen bitmaps: **`docs/assets/images/by-taxon/<slug>/slug_N.png`**; non-pollen: **`docs/assets/images/non-pollen/`**. SoT: **`data/pollen.yaml`**; **`docs/data/pollen.json`** is generated only.
 - **Display width**: `display_width_px = round(largest_size_um × 2.5)` (default **125 px** without size). Optional per-image `width_px`/`height_px` in YAML for aspect ratio.
+- **CI env:** Keep `NO_MKDOCS_2_WARNING=true` in the deploy workflow when Material prints the MkDocs 2.0 stderr banner (noise, not a content error).
 
 ## 5. Directory integrity
 

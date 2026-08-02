@@ -4,8 +4,8 @@
   <p style="margin: 0 0 12px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
     <label for="pq-level">Niveau</label>
     <select data-pq-level id="pq-level" style="width: min(420px, 100%);">
-      <option value="1">1: Monofloraal</option>
-      <option value="2">2: + Veelvoorkomend in NL</option>
+      <option value="1">1: Vaak in NL-honing</option>
+      <option value="2">2: + Alle prioriteit</option>
       <option value="3">3: Alles</option>
     </select>
   </p>

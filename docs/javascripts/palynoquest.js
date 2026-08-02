@@ -376,17 +376,20 @@
       return groupKeyFromImagePath(item.image) || "";
     }
 
+    var LEVEL1_MAX_RANK = 20;
+
     function itemInLevel(item, level) {
       if (level >= 3) return true;
       var slug = slugForCurrentItem(item);
       if (!slug) return false;
       var rec = state.pollen[slug];
       if (!rec || typeof rec !== "object") return false;
-      var isMono = !isMissingValue(rec.monofloral_honey_page);
-      if (level <= 1) return isMono;
       var rank = rec.learning_priority_rank;
       var hasRank = typeof rank === "number" && isFinite(rank) && rank > 0;
-      return isMono || hasRank;
+      if (!hasRank) return false;
+      // Do not use monofloral_honey_page for quiz tiers (that flag marks honey pages, many taxa).
+      if (level <= 1) return rank <= LEVEL1_MAX_RANK;
+      return true;
     }
 
     function buildPool(level) {
@@ -464,9 +467,9 @@
       });
       var levelLabel =
         state.level === 1
-          ? "Monofloraal"
+          ? "Vaak in NL-honing"
           : state.level === 2
-            ? "Veelvoorkomend in NL"
+            ? "Alle prioriteit"
             : "Alles";
       progressEl.innerHTML =
         '<span class="md-typeset">' +
