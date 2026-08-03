@@ -214,31 +214,18 @@
 
   function parseLevelValue(raw) {
     var s = String(raw == null ? "1" : raw).trim().toLowerCase();
-    if (s === "kenmerken" || s === "kenmerken-1" || s === "feature" || s === "features") {
+    var kenMatch = s.match(/^kenmerken(?:-(\d+))?$/);
+    if (kenMatch || s === "feature" || s === "features") {
+      var kenLv = kenMatch && kenMatch[1] ? Number(kenMatch[1]) : 1;
+      if (!isFinite(kenLv) || kenLv < 1) kenLv = 1;
+      if (kenLv > 3) kenLv = 3;
+      kenLv = Math.floor(kenLv);
       return {
         kenmerkenMode: true,
         lookalikeMode: false,
         lookalikeDiff: "all",
-        level: 1,
-        value: "kenmerken",
-      };
-    }
-    if (s === "kenmerken-2") {
-      return {
-        kenmerkenMode: true,
-        lookalikeMode: false,
-        lookalikeDiff: "all",
-        level: 2,
-        value: "kenmerken-2",
-      };
-    }
-    if (s === "kenmerken-3") {
-      return {
-        kenmerkenMode: true,
-        lookalikeMode: false,
-        lookalikeDiff: "all",
-        level: 3,
-        value: "kenmerken-3",
+        level: kenLv,
+        value: kenLv === 1 ? "kenmerken" : "kenmerken-" + kenLv,
       };
     }
     if (s === "lookalike" || s === "lookalike-all") {
@@ -266,30 +253,12 @@
     if (lv > 3) lv = 3;
     lv = Math.floor(lv);
     // Numeric tiers use the Kenmerken drill (legacy open-name quiz removed from Willekeurig UI).
-    if (lv === 1) {
-      return {
-        kenmerkenMode: true,
-        lookalikeMode: false,
-        lookalikeDiff: "all",
-        level: 1,
-        value: "kenmerken",
-      };
-    }
-    if (lv === 2) {
-      return {
-        kenmerkenMode: true,
-        lookalikeMode: false,
-        lookalikeDiff: "all",
-        level: 2,
-        value: "kenmerken-2",
-      };
-    }
     return {
       kenmerkenMode: true,
       lookalikeMode: false,
       lookalikeDiff: "all",
-      level: 3,
-      value: "kenmerken-3",
+      level: lv,
+      value: lv === 1 ? "kenmerken" : "kenmerken-" + lv,
     };
   }
 
@@ -430,7 +399,18 @@
     function showWrongPreview(opt) {
       if (!wrongPreviewEl) return;
       wrongPreviewEl.replaceChildren();
-      if (!opt || !opt.image) {
+      var imgs = [];
+      if (opt && opt.chosenSlug) {
+        imgs = imagesForSlug(opt.chosenSlug);
+      }
+      if ((!imgs || !imgs.length) && opt && opt.image) {
+        var gk = groupKeyFromImagePath(opt.image);
+        imgs = gk ? state.groupToImages[gk] || [] : [];
+        if (!Array.isArray(imgs) || imgs.length === 0) {
+          imgs = [{ image: opt.image, imageWidthPx: opt.imageWidthPx }];
+        }
+      }
+      if (!imgs || !imgs.length) {
         wrongPreviewEl.hidden = true;
         return;
       }
@@ -440,15 +420,14 @@
       wrap.className = "admonition warning";
       wrap.style.margin = "0";
 
-      var p = document.createElement("p");
-      p.innerHTML = "<strong>Gekozen (onjuist)</strong>";
-      wrap.appendChild(p);
-
-      var gk = groupKeyFromImagePath(opt.image);
-      var imgs = gk ? state.groupToImages[gk] || [] : [];
-      if (!Array.isArray(imgs) || imgs.length === 0) {
-        imgs = [{ image: opt.image, imageWidthPx: opt.imageWidthPx }];
-      }
+      var title = document.createElement("p");
+      var name =
+        (opt && opt.text) ||
+        (opt && opt.chosenSlug ? labelForSlug(opt.chosenSlug) : "") ||
+        "onjuiste keuze";
+      title.innerHTML =
+        "<strong>Ter vergelijking:</strong> " + esc(name) + " (jouw keuze)";
+      wrap.appendChild(title);
 
       var row = document.createElement("div");
       row.style.display = "flex";
@@ -456,7 +435,7 @@
       row.style.gap = "6px";
       row.style.overflowX = "auto";
       row.style.alignItems = "flex-start";
-      row.style.maxWidth = "50vw";
+      row.style.maxWidth = "100%";
 
       var maxW = 0;
       imgs.forEach(function (im) {
@@ -464,23 +443,22 @@
         var w = im.imageWidthPx;
         if (typeof w === "number" && isFinite(w) && w > maxW) maxW = w;
       });
-      // Scale so the largest pollen preview stays compact, while preserving relative size ratios.
-      var targetMaxPx = 180;
+      var targetMaxPx = 220;
       var scale = maxW > 0 ? Math.min(1, targetMaxPx / maxW) : 1;
 
       imgs.forEach(function (im) {
         if (!im || !im.image) return;
         var img = document.createElement("img");
         img.src = resolveUrl(String(im.image).replace(/^\//, ""));
-        img.alt = "Onjuist gekozen pollen";
+        img.alt = name;
         img.style.display = "block";
         img.style.height = "auto";
         img.style.borderRadius = "4px";
         var w = im.imageWidthPx;
         if (typeof w === "number" && isFinite(w) && w > 0) {
-          img.style.width = String(Math.max(44, Math.round(w * scale))) + "px";
+          img.style.width = String(Math.max(56, Math.round(w * scale))) + "px";
         } else {
-          img.style.width = "72px";
+          img.style.width = "96px";
         }
         img.style.maxWidth = "100%";
         row.appendChild(img);
@@ -709,8 +687,7 @@
     function buildFeaturePool() {
       var slugs = [];
       var lv = clampLevel(state.level || 1);
-      Object.keys(state.pollen || {}).forEach(function (slug) {
-        var rec = state.pollen[slug];
+      function consider(slug, rec, requireAboveL1) {
         if (!rec || typeof rec !== "object") return;
         var rank = rec.learning_priority_rank;
         var hasRank = typeof rank === "number" && isFinite(rank) && rank > 0;
@@ -718,11 +695,21 @@
           if (!(hasRank && rank <= LEVEL1_MAX_RANK)) return;
         } else if (lv === 2) {
           if (!hasRank) return;
+          if (requireAboveL1 && !(rank > LEVEL1_MAX_RANK)) return;
         }
         if (!controlledForSlug(slug)) return;
         if (!imagesForSlug(slug).length) return;
         slugs.push(slug);
+      }
+      Object.keys(state.pollen || {}).forEach(function (slug) {
+        consider(slug, state.pollen[slug], lv === 2);
       });
+      // Niveau 2/3: if no controlled+images yet for that tier, fall back so MCQ options still appear.
+      if (!slugs.length && lv >= 2) {
+        Object.keys(state.pollen || {}).forEach(function (slug) {
+          consider(slug, state.pollen[slug], false);
+        });
+      }
       state.featurePool = slugs;
       return state.featurePool;
     }
@@ -924,9 +911,17 @@
     }
 
     function applyLevel(raw, restart) {
+      var force = (lockLevel || "").trim().toLowerCase();
       var parsed = parseLevelValue(lockLevel || raw);
+      if (force.indexOf("kenmerken") === 0) {
+        parsed.kenmerkenMode = true;
+        parsed.lookalikeMode = false;
+      } else if (force.indexOf("lookalike") === 0) {
+        parsed.kenmerkenMode = false;
+        parsed.lookalikeMode = true;
+      }
       state.kenmerkenMode = !!parsed.kenmerkenMode;
-      state.lookalikeMode = parsed.lookalikeMode;
+      state.lookalikeMode = !!parsed.lookalikeMode;
       state.lookalikeDiff = parsed.lookalikeDiff;
       state.level = parsed.level;
       if (!lockLevel) {
@@ -1191,7 +1186,9 @@
             return;
           }
           setMcqStatus(
-            o.correct ? "<strong>Juist.</strong>" : "<strong>Onjuist.</strong>"
+            o.correct
+              ? "<strong>Juist.</strong>"
+              : "<strong>Onjuist.</strong> Vergelijk met het beeld hieronder."
           );
           var progressSlug =
             state.lookalikeMode && state.currentLookalike
