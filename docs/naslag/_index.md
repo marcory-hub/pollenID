@@ -1,8 +1,8 @@
 # Naslag
 
-## PalynoQuest
+## Willekeurig
 
-- [PalynoQuest](palynoquest.md)
+- [Willekeurig (PalynoQuest)](palynoquest.md)
 
 ## Nomenclatuur
 

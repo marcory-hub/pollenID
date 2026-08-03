@@ -2,7 +2,7 @@
 
 Algemene kenmerken om pollen te beschrijven: **vorm**, **apertuur**, **sculptuur** en **grootte**. Voorbeelden komen uit de herkennen-pagina's (Niveau 1-families + Asteraceae/Rosaceae) plus enkele duidelijke atlasbeelden.
 
-Oefen hieronder (Niveau 1). Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
+Kenmerken-quiz hieronder. Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
 
 <div data-palynoquest data-pq-lock-level="kenmerken" class="md-typeset">
   <p data-pq-progress style="margin: 0 0 12px 0;"></p>

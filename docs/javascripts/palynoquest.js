@@ -62,12 +62,19 @@
   /** Site root (…/pollenID/) from the loaded palynoquest.js URL; stable under site_url and instant nav. */
   function siteRootUrl() {
     try {
-      var scripts = document.querySelectorAll('script[src*="javascripts/palynoquest.js"]');
+      var scripts = document.querySelectorAll('script[src*="palynoquest.js"]');
       var el = scripts.length ? scripts[scripts.length - 1] : null;
-      // .src is absolute (resolved at parse time); getAttribute can stay page-relative and break after instant nav.
       var abs = el && el.src ? el.src : "";
       if (abs) {
-        return abs.replace(/javascripts\/palynoquest\.js(\?[^#]*)?(#.*)?$/i, "");
+        var u = new URL(abs);
+        var marker = "/javascripts/palynoquest.js";
+        var idx = u.pathname.toLowerCase().indexOf(marker);
+        if (idx !== -1) {
+          u.pathname = u.pathname.slice(0, idx + 1);
+          u.search = "";
+          u.hash = "";
+          return u.href;
+        }
       }
     } catch (e) {}
     try {
@@ -75,18 +82,26 @@
         "header.md-header a.md-logo, header.md-header a.md-header__button.md-logo"
       );
       if (logo && logo.href) {
-        var u = new URL(logo.href, document.baseURI);
-        var p = u.pathname.replace(/\/+$/, "");
+        var lu = new URL(logo.href, document.baseURI);
+        var p = lu.pathname.replace(/\/+$/, "");
         if (/\.(html?|php)$/i.test(p)) p = p.replace(/\/[^/]+$/, "");
-        u.pathname = (p || "/") + "/";
-        u.hash = "";
-        u.search = "";
-        return u.href;
+        lu.pathname = (p || "/") + "/";
+        lu.hash = "";
+        lu.search = "";
+        return lu.href;
       }
     } catch (e2) {}
     try {
+      // GitHub project pages: /<repo>/…
+      var path = String(location.pathname || "");
+      var m = path.match(/^(\/[^/]+\/)/);
+      if (m && /\.github\.io$/i.test(location.hostname || "")) {
+        return location.origin + m[1];
+      }
+    } catch (e3) {}
+    try {
       return new URL("./", document.baseURI).href;
-    } catch (e3) {
+    } catch (e4) {
       return document.baseURI;
     }
   }
@@ -106,15 +121,21 @@
 
   function fetchJson(url) {
     return fetch(resolveUrl(url), { credentials: "same-origin" }).then(function (r) {
-      if (!r.ok) throw new Error(r.status + " " + r.statusText);
+      if (!r.ok) throw new Error(r.status + " " + r.statusText + " (" + url + ")");
       return r.json();
     });
   }
 
   function loadAll() {
+    // Kenmerken / lookalike need pollen (+ optional lookalike manifest).
+    // keys/items are optional so a missing quiz manifest does not blank the whole UI.
     return Promise.all([
-      fetchJson("assets/manifests/keys.json"),
-      fetchJson("assets/manifests/palynoquest-items.json"),
+      fetchJson("assets/manifests/keys.json").catch(function () {
+        return { keys: [] };
+      }),
+      fetchJson("assets/manifests/palynoquest-items.json").catch(function () {
+        return { items: [] };
+      }),
       fetchJson("data/pollen.json"),
       fetchJson("assets/manifests/lookalike-groups.json").catch(function () {
         return { pairs: [], groups: {} };
@@ -244,12 +265,31 @@
     if (!isFinite(lv) || lv < 1) lv = 1;
     if (lv > 3) lv = 3;
     lv = Math.floor(lv);
+    // Numeric tiers use the Kenmerken drill (legacy open-name quiz removed from Willekeurig UI).
+    if (lv === 1) {
+      return {
+        kenmerkenMode: true,
+        lookalikeMode: false,
+        lookalikeDiff: "all",
+        level: 1,
+        value: "kenmerken",
+      };
+    }
+    if (lv === 2) {
+      return {
+        kenmerkenMode: true,
+        lookalikeMode: false,
+        lookalikeDiff: "all",
+        level: 2,
+        value: "kenmerken-2",
+      };
+    }
     return {
-      kenmerkenMode: false,
+      kenmerkenMode: true,
       lookalikeMode: false,
       lookalikeDiff: "all",
-      level: lv,
-      value: String(lv),
+      level: 3,
+      value: "kenmerken-3",
     };
   }
 
@@ -808,10 +848,16 @@
         fPool.forEach(function (slug) {
           if (boxForSlug(featureProgressKey(slug)) >= BOX_MAX) masteredF += 1;
         });
+        var kenLabel =
+          state.level === 2
+            ? "overige pollen"
+            : state.level === 3
+              ? "minder frequent"
+              : "vaak in NL-honing";
         progressEl.innerHTML =
           '<span class="md-typeset">' +
-          "<strong>Kenmerken (Niveau " +
-          esc(String(state.level || 1)) +
+          "<strong>Kenmerken (" +
+          esc(kenLabel) +
           ")</strong>: " +
           esc(String(masteredF)) +
           "/" +

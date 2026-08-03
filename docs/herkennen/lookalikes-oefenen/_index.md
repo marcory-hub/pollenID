@@ -1,10 +1,10 @@
-# Minder frequente pollen in honing
+# Lookalikes
 
-Alle pollen in de quizpool. Bladeren via Gallerie.
+Eén beeld, twee namen: kies welke lookalike bij het pollen hoort.
 
-Kenmerken-quiz hieronder. Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
+Volledige quiz (alle lookalike-klassen): [Willekeurig](../../naslag/palynoquest.md).
 
-<div data-palynoquest data-pq-lock-level="kenmerken-3" class="md-typeset">
+<div data-palynoquest data-pq-lock-level="lookalike" class="md-typeset">
   <p data-pq-progress style="margin: 0 0 12px 0;"></p>
   <div style="display: grid; grid-template-columns: minmax(260px, 420px) minmax(320px, 1fr); gap: 12px 16px; align-items: start;">
     <div style="max-width: 420px;">
@@ -20,9 +20,9 @@ Kenmerken-quiz hieronder. Volledige quiz: [Willekeurig](../../naslag/palynoquest
     <div style="min-width: min(320px, 100%);">
       <p data-pq-status style="margin: 0 0 12px 0;"></p>
 
-      <div data-pq-kenmerken-panel>
-        <h3 style="margin-top: 0;">Kenmerken</h3>
-        <p data-pq-feature-prompt style="margin: 0 0 8px 0;">Welk kenmerk zie je?</p>
+      <div data-pq-lookalike-panel>
+        <h3 style="margin-top: 0;">Lookalike</h3>
+        <p data-pq-lookalike-prompt style="margin: 0 0 8px 0;">Welke naam hoort bij dit beeld?</p>
       </div>
 
       <p data-pq-mcqstatus style="margin: 0 0 8px 0;"></p>
@@ -31,11 +31,4 @@ Kenmerken-quiz hieronder. Volledige quiz: [Willekeurig](../../naslag/palynoquest
   </div>
 </div>
 
----
-
-| Reeks | Pad |
-| :--- | :--- |
-| Overzicht | [Gallerie](../../gallerie/_index.md) |
-| Veel voorkomend (NL) | [gallery-nl-common](../../gallerie/gallery-nl-common.md) |
-| Pollentypen | [gallery-nl-pollen-types](../../gallerie/gallery-nl-pollen-types.md) |
-| Lookalikes | [lookalikes](../../lookalikes/_index.md) |
+Naslag: [Lookalikes](../../lookalikes/_index.md).

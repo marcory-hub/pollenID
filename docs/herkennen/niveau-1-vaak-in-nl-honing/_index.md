@@ -1,4 +1,4 @@
-# Niveau 1 - Vaak in NL-honing
+# Vaak in Nederlandse honing
 
 | Rank | Taxon |
 | ---: | :--- |

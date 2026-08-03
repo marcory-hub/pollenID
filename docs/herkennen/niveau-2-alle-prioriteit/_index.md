@@ -1,8 +1,8 @@
-# Niveau 2 - Alle prioriteit
+# Overige pollen in Nederlandse honing
 
-Taxa bovenop [niveau 1](../niveau-1-vaak-in-nl-honing/_index.md).
+Taxa bovenop [vaak in Nederlandse honing](../niveau-1-vaak-in-nl-honing/_index.md).
 
-Oefen hieronder (Kenmerken). Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
+Kenmerken-quiz hieronder. Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
 
 <div data-palynoquest data-pq-lock-level="kenmerken-2" class="md-typeset">
   <p data-pq-progress style="margin: 0 0 12px 0;"></p>
