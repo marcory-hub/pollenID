@@ -1353,6 +1353,13 @@
         stack.length = 0;
         showStep(String(start));
       },
+      stepBack: function () {
+        if (stack.length === 0) return false;
+        const prev = stack.pop();
+        if (prev === undefined) return false;
+        showStep(prev);
+        return true;
+      },
       showStep: function (sid) {
         showStep(String(sid));
       },

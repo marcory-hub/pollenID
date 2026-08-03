@@ -48,9 +48,9 @@ extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - javascripts/pollentabel.js?v=2026-07-18-rename
+  - javascripts/pollentabel.js?v=2026-08-03-stepback
   - javascripts/kerkvliet-determinatietabel.js?v=2026-05-07-2028
-  - javascripts/palynoquest.js?v=2026-08-02-lookalike-binary
+  - javascripts/palynoquest.js?v=2026-08-03-kenmerken
 
 nav:
   - Home: index.md
@@ -72,6 +72,7 @@ nav:
       - "Niveau 1 - Vaak in NL-honing": herkennen/niveau-1-vaak-in-nl-honing/_index.md
       - "Niveau 2 - Alle prioriteit": herkennen/niveau-2-alle-prioriteit/_index.md
       - "Niveau 3 - Alles": herkennen/niveau-3-alles/_index.md
+      - "Microscoop-sessie": herkennen/microscoop-sessie/_index.md
       - "Asteraceae (composietenfamilie)": herkennen/composieten-abchjst/_index.md
       - "Rosaceae (rozenfamilie)": herkennen/rosaceae-beugtypen/_index.md
       - "Apiaceae (schermbloemenfamilie)": herkennen/apiaceae-beugtypen/_index.md

@@ -1,0 +1,68 @@
+# Controlled feature vocabulary for Kenmerken-drill (PalynoQuest).
+# Coarse LM codes only. Free-text morphology in pollen.yaml stays unchanged.
+# Size bands use the midpoint of size_smallest / size_largest (µm).
+
+sculptuur:
+  reticulaat:
+    label: reticulaat
+  fenestraat:
+    label: fenestraat (echinaat T)
+  striaat:
+    label: striaat
+  psilaat:
+    label: psilaat / glad
+  verrucaat:
+    label: verrucaat
+  scabraat:
+    label: scabraat
+  foveolaat:
+    label: foveolaat
+
+apertuur:
+  tricolpaat:
+    label: tricolpaat
+  tricolporaat:
+    label: tricolporaat
+  monocolpaat:
+    label: monocolpaat
+  periporaat:
+    label: periporaat
+  stephanocolpaat:
+    label: stephanocolpaat
+  syncolpaat:
+    label: syncolpaat
+
+vorm:
+  rond:
+    label: rond / sferoïd
+  driehoekig:
+    label: driehoekig (pool)
+  prolaat:
+    label: prolaat / ovaal
+  oblaat:
+    label: oblaat
+
+grootteband:
+  under_15:
+    label: onder 15 µm
+    mid_min: null
+    mid_max: 15
+  band_15_25:
+    label: 15–25 µm
+    mid_min: 15
+    mid_max: 25
+  band_25_40:
+    label: 25–40 µm
+    mid_min: 25
+    mid_max: 40
+  band_40_60:
+    label: 40–60 µm
+    mid_min: 40
+    mid_max: 60
+  over_60:
+    label: boven 60 µm
+    mid_min: 60
+    mid_max: null
+
+# Assignment rule: mid = (size_smallest + size_largest) / 2
+# band when mid_min <= mid < mid_max (over_60: mid >= 60; under_15: mid < 15).

@@ -242,6 +242,9 @@ def build_lookalike_groups_manifest(pollen_yaml: Path) -> Dict[str, Any]:
             diff = item.get("difficulty")
             if isinstance(diff, str) and diff.strip() and "difficulty" not in meta:
                 meta["difficulty"] = diff.strip()
+            note = item.get("note")
+            if isinstance(note, str) and note.strip() and "note" not in meta:
+                meta["note"] = note.strip()
         for g in block.get("groups") or []:
             if not isinstance(g, str) or not g.strip():
                 continue
@@ -266,6 +269,8 @@ def build_lookalike_groups_manifest(pollen_yaml: Path) -> Dict[str, Any]:
         meta = pairs_meta[(a, b)]
         if meta.get("difficulty"):
             row["difficulty"] = meta["difficulty"]
+        if meta.get("note"):
+            row["note"] = meta["note"]
         pairs.append(row)
     return {"pairs": pairs, "groups": dict(sorted(groups.items()))}
 

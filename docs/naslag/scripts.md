@@ -20,8 +20,8 @@ python scripts/<script>.py …
 | :--- | :--- |
 | `scripts/validate_pollen_site.py` | Controleert YAML-beeldpaden; optioneel rebuild, asset-layout, atlas-links, `mkdocs build` |
 | `scripts/build_docs_data.py` | Genereert `docs/data/pollen.json` en manifesten |
-| `scripts/export_pollen_json.py` | Exporteert alleen `docs/data/pollen.json` (subset van `build_docs_data.py`) |
-| `scripts/build_manifests.py` | Bouwt asset-manifesten onder `docs/assets/manifests/` |
+| `scripts/export_pollen_json.py` | Exporteert alleen `docs/data/pollen.json` (subset van `build_docs_data.py`); inclusief `controlled` kenmerkcodes |
+| `scripts/build_manifests.py` | Bouwt asset-manifesten onder `docs/assets/manifests/` (lookalike-paren inclusief `note`) |
 | `scripts/audit_pollen_assets.py` | Read-only inventaris: beelden, YAML-dekking, pollen_key-resolutie |
 
 ```bash

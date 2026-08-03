@@ -5,9 +5,10 @@ Pollen herkennen: grootte, vorm, apertuur en sculptuur.
 | Niveau | Inhoud |
 | :--- | :--- |
 | [Pollenkenmerken](pollenkenmerken/_index.md) | vorm, apertuur, sculptuur, grootte (voorbeelden) |
-| [Niveau 1 - Vaak in NL-honing](niveau-1-vaak-in-nl-honing/_index.md) | 13 taxa; beschrijving + lookalike-verschillen |
+| [Niveau 1 - Vaak in NL-honing](niveau-1-vaak-in-nl-honing/_index.md) | 13 taxa met beelden; quiz gebruikt rank ≤20 |
 | [Niveau 2 - Alle prioriteit](niveau-2-alle-prioriteit/_index.md) | +22 prioriteitstaxa |
 | [Niveau 3 - Alles](niveau-3-alles/_index.md) | volledige pool |
+| [Microscoop-sessie](microscoop-sessie/_index.md) | sessiekaart: regels zonder beelden |
 | [Asteraceae (composietenfamilie) — ABCHJST](composieten-abchjst/_index.md) | typen A/C/H/J/S/T (Kerkvliet) |
 | [Rosaceae (rozenfamilie)](rosaceae-beugtypen/_index.md) | Beug 20 + Sanguisorba/Filipendula; Reitsma/Eide |
 | [Apiaceae (schermbloemenfamilie)](apiaceae-beugtypen/_index.md) | Beug 14.11 |

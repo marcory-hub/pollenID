@@ -115,18 +115,70 @@
 
   var LS_LEVEL = "pid_pq_level";
   var LS_PROGRESS = "pid_pq_progress";
+  var LS_CONFUSIONS = "pid_pq_confusions";
   var BOX_MAX = 4;
   var LOOKALIKE_DIFFS = { easy: true, moderate: true, difficult: true };
+  var LEVEL1_MAX_RANK = 20;
+  // Mirrors data/feature_vocab.yaml (coarse LM codes for Kenmerken-drill).
+  var FEATURE_VOCAB = {
+    sculptuur: {
+      reticulaat: "reticulaat",
+      fenestraat: "fenestraat (echinaat T)",
+      striaat: "striaat",
+      psilaat: "psilaat / glad",
+      verrucaat: "verrucaat",
+      scabraat: "scabraat",
+      foveolaat: "foveolaat",
+    },
+    apertuur: {
+      tricolpaat: "tricolpaat",
+      tricolporaat: "tricolporaat",
+      monocolpaat: "monocolpaat",
+      periporaat: "periporaat",
+      stephanocolpaat: "stephanocolpaat",
+      syncolpaat: "syncolpaat",
+    },
+    vorm: {
+      rond: "rond / sferoïd",
+      driehoekig: "driehoekig (pool)",
+      prolaat: "prolaat / ovaal",
+      oblaat: "oblaat",
+    },
+    grootteband: {
+      under_15: "onder 15 µm",
+      band_15_25: "15–25 µm",
+      band_25_40: "25–40 µm",
+      band_40_60: "40–60 µm",
+      over_60: "boven 60 µm",
+    },
+  };
+  var FEATURE_FIELDS = ["sculptuur", "apertuur", "grootteband"];
 
   function parseLevelValue(raw) {
     var s = String(raw == null ? "1" : raw).trim().toLowerCase();
+    if (s === "kenmerken" || s === "feature" || s === "features") {
+      return {
+        kenmerkenMode: true,
+        lookalikeMode: false,
+        lookalikeDiff: "all",
+        level: 1,
+        value: "kenmerken",
+      };
+    }
     if (s === "lookalike" || s === "lookalike-all") {
-      return { lookalikeMode: true, lookalikeDiff: "all", level: 1, value: "lookalike" };
+      return {
+        kenmerkenMode: false,
+        lookalikeMode: true,
+        lookalikeDiff: "all",
+        level: 1,
+        value: "lookalike",
+      };
     }
     if (s.indexOf("lookalike-") === 0) {
       var diff = s.slice("lookalike-".length);
       if (!LOOKALIKE_DIFFS[diff]) diff = "all";
       return {
+        kenmerkenMode: false,
         lookalikeMode: true,
         lookalikeDiff: diff,
         level: 1,
@@ -137,7 +189,13 @@
     if (!isFinite(lv) || lv < 1) lv = 1;
     if (lv > 3) lv = 3;
     lv = Math.floor(lv);
-    return { lookalikeMode: false, lookalikeDiff: "all", level: lv, value: String(lv) };
+    return {
+      kenmerkenMode: false,
+      lookalikeMode: false,
+      lookalikeDiff: "all",
+      level: lv,
+      value: String(lv),
+    };
   }
 
   function readLocalJson(key, fallback) {
@@ -194,16 +252,23 @@
       keys: [],
       items: [],
       pool: [],
+      featurePool: [],
       level: 1,
+      kenmerkenMode: false,
       lookalikeMode: false,
       lookalikeDiff: "all",
       lookalikePairs: [],
       lookalikePool: [],
       currentLookalike: null,
+      currentFeature: null,
+      featureStep: 0,
+      featureCorrect: 0,
       progress: {},
+      confusions: [],
       current: null,
       selectedKeyJsonUrl: null,
       expectedPath: null,
+      expectedStepIdx: 0,
       diverged: false,
       pendingJump: false,
       endpointToExample: {},
@@ -224,6 +289,7 @@
     var loadKeyEl = qs(root, "[data-pq-loadkey]");
     var keyWrapEl = qs(root, "[data-pq-keywrap]");
     var jumpEl = qs(root, "[data-pq-jump]");
+    var backtrackEl = qs(root, "[data-pq-backtrack]");
     var pathEl = qs(root, "[data-pq-path]");
     var wrongPreviewEl = qs(root, "[data-pq-wrongpreview]");
     var galleryEl = qs(root, "[data-pq-gallery]");
@@ -232,6 +298,10 @@
     var progressEl = qs(root, "[data-pq-progress]");
     var normalPanels = root.querySelectorAll("[data-pq-normal-panel]");
     var lookalikePanelEl = qs(root, "[data-pq-lookalike-panel]");
+    var kenmerkenPanelEl = qs(root, "[data-pq-kenmerken-panel]");
+    var featurePromptEl = qs(root, "[data-pq-feature-prompt]");
+    var lookalikePromptEl = qs(root, "[data-pq-lookalike-prompt]");
+    var exportConfusionsEl = qs(root, "[data-pq-export-confusions]");
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -417,26 +487,111 @@
     }
 
     function exampleForSlug(slug) {
+      return pickImageForSlug(slug, false);
+    }
+
+    function imagesForSlug(slug) {
+      if (!slug) return [];
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") return [];
+      var imgs = rec.images;
+      if (!Array.isArray(imgs) || imgs.length === 0) return [];
+      var out = [];
+      imgs.forEach(function (im) {
+        if (!im || typeof im.path !== "string" || !im.path) return;
+        var path = String(im.path).replace(/^\//, "").replace(/^\.\//, "");
+        var w = im.width_px;
+        if (!(typeof w === "number" && isFinite(w) && w > 0)) {
+          w = rec.display_width_px;
+        }
+        out.push({
+          image: path,
+          imageWidthPx: typeof w === "number" && isFinite(w) && w > 0 ? w : null,
+        });
+      });
+      return out;
+    }
+
+    function seenImagesForSlug(slug) {
+      if (!slug) return [];
+      var row = state.progress[slug];
+      if (!row || typeof row !== "object" || !Array.isArray(row.seenImages)) return [];
+      return row.seenImages;
+    }
+
+    function markImageSeen(slug, path) {
+      if (!slug || !path) return;
+      var row = state.progress[slug];
+      if (!row || typeof row !== "object") {
+        row = { box: 0, seen: 0, seenImages: [] };
+      }
+      var seenImages = Array.isArray(row.seenImages) ? row.seenImages.slice() : [];
+      if (seenImages.indexOf(path) === -1) seenImages.push(path);
+      row.seenImages = seenImages;
+      if (typeof row.box !== "number") row.box = boxForSlug(slug);
+      if (typeof row.seen !== "number") row.seen = 0;
+      state.progress[slug] = row;
+      writeLocalJson(LS_PROGRESS, state.progress);
+    }
+
+    function pickImageForSlug(slug, preferUnseen) {
+      var imgs = imagesForSlug(slug);
+      if (!imgs.length) return null;
+      if (preferUnseen) {
+        var seen = seenImagesForSlug(slug);
+        var unseen = imgs.filter(function (im) {
+          return seen.indexOf(im.image) === -1;
+        });
+        if (unseen.length) return pickRandom(unseen);
+      }
+      return pickRandom(imgs);
+    }
+
+    function featureProgressKey(slug) {
+      return "feat|" + slug;
+    }
+
+    function controlledForSlug(slug) {
       if (!slug) return null;
       var rec = state.pollen[slug];
       if (!rec || typeof rec !== "object") return null;
-      var imgs = rec.images;
-      if (!Array.isArray(imgs) || imgs.length === 0) return null;
-      var im = imgs[0];
-      if (!im || typeof im.path !== "string" || !im.path) return null;
-      var path = String(im.path).replace(/^\//, "").replace(/^\.\//, "");
-      var w = im.width_px;
-      if (!(typeof w === "number" && isFinite(w) && w > 0)) {
-        w = rec.display_width_px;
-      }
-      return {
-        image: path,
-        imageWidthPx: typeof w === "number" && isFinite(w) && w > 0 ? w : null,
-      };
+      var c = rec.controlled;
+      if (!c || typeof c !== "object") return null;
+      if (!c.sculptuur || !c.apertuur || !c.grootteband) return null;
+      return c;
+    }
+
+    function featureLabel(field, code) {
+      var map = FEATURE_VOCAB[field] || {};
+      return map[code] || code;
     }
 
     function pairKey(a, b) {
       return a <= b ? a + "|" + b : b + "|" + a;
+    }
+
+    function usableLookalikeNote(note) {
+      if (typeof note !== "string") return "";
+      var t = note.trim();
+      if (!t) return "";
+      if (t.toLowerCase() === "user: lookalike") return "";
+      if (t.toLowerCase().indexOf("lookalike (") === 0) return "";
+      return t;
+    }
+
+    function recordConfusion(shownSlug, chosenSlug, imagePath) {
+      if (!shownSlug || !chosenSlug || shownSlug === chosenSlug) return;
+      if (!Array.isArray(state.confusions)) state.confusions = [];
+      state.confusions.push({
+        at: new Date().toISOString().slice(0, 10),
+        shown: shownSlug,
+        chosen: chosenSlug,
+        image: imagePath || null,
+      });
+      if (state.confusions.length > 200) {
+        state.confusions = state.confusions.slice(-200);
+      }
+      writeLocalJson(LS_CONFUSIONS, state.confusions);
     }
 
     function buildLookalikePool() {
@@ -449,7 +604,22 @@
       return state.lookalikePool;
     }
 
-    var LEVEL1_MAX_RANK = 20;
+    function buildFeaturePool() {
+      var slugs = [];
+      Object.keys(state.pollen || {}).forEach(function (slug) {
+        var rec = state.pollen[slug];
+        if (!rec || typeof rec !== "object") return;
+        var rank = rec.learning_priority_rank;
+        if (!(typeof rank === "number" && isFinite(rank) && rank > 0 && rank <= LEVEL1_MAX_RANK)) {
+          return;
+        }
+        if (!controlledForSlug(slug)) return;
+        if (!imagesForSlug(slug).length) return;
+        slugs.push(slug);
+      });
+      state.featurePool = slugs;
+      return state.featurePool;
+    }
 
     function itemInLevel(item, level) {
       if (level >= 3) return true;
@@ -484,11 +654,11 @@
       return Math.floor(b);
     }
 
-    function recordAnswer(slug, correct) {
+    function recordAnswer(slug, correct, imagePath) {
       if (!slug) return;
       var row = state.progress[slug];
       if (!row || typeof row !== "object") {
-        row = { box: 0, seen: 0 };
+        row = { box: 0, seen: 0, seenImages: [] };
       }
       var box = boxForSlug(slug);
       var seen = Number(row.seen);
@@ -499,7 +669,11 @@
       } else {
         box = 0;
       }
-      state.progress[slug] = { box: box, seen: seen };
+      var seenImages = Array.isArray(row.seenImages) ? row.seenImages.slice() : [];
+      if (imagePath && seenImages.indexOf(imagePath) === -1) {
+        seenImages.push(imagePath);
+      }
+      state.progress[slug] = { box: box, seen: seen, seenImages: seenImages };
       writeLocalJson(LS_PROGRESS, state.progress);
       renderProgress();
     }
@@ -524,13 +698,13 @@
       return pool[pool.length - 1];
     }
 
-    function pickWeightedLookalike(pool) {
+    function pickWeightedSlug(pool, keyFn) {
       if (!Array.isArray(pool) || pool.length === 0) return null;
       var weights = [];
       var total = 0;
       for (var i = 0; i < pool.length; i += 1) {
-        var pk = pairKey(pool[i].a, pool[i].b);
-        var w = BOX_MAX + 1 - boxForSlug(pk);
+        var key = keyFn(pool[i]);
+        var w = BOX_MAX + 1 - boxForSlug(key);
         if (w < 1) w = 1;
         weights.push(w);
         total += w;
@@ -544,16 +718,39 @@
       return pool[pool.length - 1];
     }
 
+    function pickWeightedLookalike(pool) {
+      return pickWeightedSlug(pool, function (p) {
+        return pairKey(p.a, p.b);
+      });
+    }
+
     function syncModePanels() {
       var i;
+      var hideNormal = !!state.lookalikeMode || !!state.kenmerkenMode;
       for (i = 0; i < normalPanels.length; i += 1) {
-        normalPanels[i].hidden = !!state.lookalikeMode;
+        normalPanels[i].hidden = hideNormal;
       }
       if (lookalikePanelEl) lookalikePanelEl.hidden = !state.lookalikeMode;
+      if (kenmerkenPanelEl) kenmerkenPanelEl.hidden = !state.kenmerkenMode;
     }
 
     function renderProgress() {
       if (!progressEl) return;
+      if (state.kenmerkenMode) {
+        var fPool = state.featurePool || [];
+        var masteredF = 0;
+        fPool.forEach(function (slug) {
+          if (boxForSlug(featureProgressKey(slug)) >= BOX_MAX) masteredF += 1;
+        });
+        progressEl.innerHTML =
+          '<span class="md-typeset">' +
+          "<strong>Kenmerken (Niveau 1)</strong>: " +
+          esc(String(masteredF)) +
+          "/" +
+          esc(String(fPool.length)) +
+          " taxa in hoogste box</span>";
+        return;
+      }
       if (state.lookalikeMode) {
         var laPool = state.lookalikePool || [];
         var masteredLa = 0;
@@ -614,13 +811,16 @@
 
     function applyLevel(raw, restart) {
       var parsed = parseLevelValue(raw);
+      state.kenmerkenMode = !!parsed.kenmerkenMode;
       state.lookalikeMode = parsed.lookalikeMode;
       state.lookalikeDiff = parsed.lookalikeDiff;
       state.level = parsed.level;
       writeLocalJson(LS_LEVEL, parsed.value);
       if (levelEl) levelEl.value = parsed.value;
       syncModePanels();
-      if (state.lookalikeMode) {
+      if (state.kenmerkenMode) {
+        buildFeaturePool();
+      } else if (state.lookalikeMode) {
         buildLookalikePool();
       } else {
         buildPool(state.level);
@@ -757,22 +957,44 @@
 
       if (state.lookalikeMode && state.currentLookalike) {
         var la = state.currentLookalike;
-        var correctLabel = labelForSlug(la.shownSlug) || la.shownSlug;
-        var wrongLabel = labelForSlug(la.partnerSlug) || la.partnerSlug;
-        var wrongEx = exampleForSlug(la.partnerSlug);
-        opts.push({
-          text: correctLabel,
-          correct: true,
-          image: la.image,
-          imageWidthPx: la.imageWidthPx,
-        });
-        opts.push({
-          text: wrongLabel,
-          correct: false,
-          image: wrongEx ? wrongEx.image : null,
-          imageWidthPx: wrongEx ? wrongEx.imageWidthPx : null,
-        });
-        opts = shuffle(opts).slice(0, 2);
+        if (la.phase === "rule" && la.ruleText) {
+          opts.push({ text: la.ruleText, correct: true, kind: "rule" });
+          var distractors = shuffle(
+            [
+              "Grootte alleen is genoeg",
+              "Familie-naam volstaat",
+              "Sculptuur is identiek; negeer apertuur",
+              "Vorm in poolaanzicht is irrelevant",
+            ].filter(function (t) {
+              return t !== la.ruleText;
+            })
+          ).slice(0, 3);
+          distractors.forEach(function (t) {
+            opts.push({ text: t, correct: false, kind: "rule" });
+          });
+          opts = shuffle(opts);
+        } else {
+          var correctLabel = labelForSlug(la.shownSlug) || la.shownSlug;
+          var wrongLabel = labelForSlug(la.partnerSlug) || la.partnerSlug;
+          var wrongEx = pickImageForSlug(la.partnerSlug, false);
+          opts.push({
+            text: correctLabel,
+            correct: true,
+            kind: "name",
+            image: la.image,
+            imageWidthPx: la.imageWidthPx,
+            chosenSlug: la.shownSlug,
+          });
+          opts.push({
+            text: wrongLabel,
+            correct: false,
+            kind: "name",
+            image: wrongEx ? wrongEx.image : null,
+            imageWidthPx: wrongEx ? wrongEx.imageWidthPx : null,
+            chosenSlug: la.partnerSlug,
+          });
+          opts = shuffle(opts).slice(0, 2);
+        }
       } else {
         var anchorSlug = slugForCurrentItem(item);
         if (item && item.strict && item.strict.endpointText) {
@@ -837,13 +1059,47 @@
         b.style.justifyContent = "flex-start";
         b.style.whiteSpace = "normal";
         b.addEventListener("click", function () {
+          if (state.lookalikeMode && state.currentLookalike && o.kind === "rule") {
+            setMcqStatus(
+              o.correct
+                ? "<strong>Juist.</strong> Nu de naam."
+                : "<strong>Onjuist.</strong> Lees de beslissingsregel opnieuw."
+            );
+            if (o.correct) {
+              state.currentLookalike.phase = "name";
+              if (lookalikePromptEl) {
+                lookalikePromptEl.textContent = "Welke naam hoort bij dit beeld?";
+              }
+              buildMcq(null);
+            }
+            return;
+          }
           setMcqStatus(
             o.correct ? "<strong>Juist.</strong>" : "<strong>Onjuist.</strong>"
           );
-          var progressSlug = state.lookalikeMode && state.currentLookalike
-            ? state.currentLookalike.pairKey
-            : slugForCurrentItem(state.current);
-          recordAnswer(progressSlug, !!o.correct);
+          var progressSlug =
+            state.lookalikeMode && state.currentLookalike
+              ? state.currentLookalike.pairKey
+              : slugForCurrentItem(state.current);
+          var imagePath =
+            state.lookalikeMode && state.currentLookalike
+              ? state.currentLookalike.image
+              : state.current
+                ? state.current.image
+                : null;
+          recordAnswer(progressSlug, !!o.correct, imagePath);
+          if (
+            state.lookalikeMode &&
+            state.currentLookalike &&
+            !o.correct &&
+            o.chosenSlug
+          ) {
+            recordConfusion(
+              state.currentLookalike.shownSlug,
+              o.chosenSlug,
+              state.currentLookalike.image
+            );
+          }
           if (o.correct) {
             clearWrongPreview();
             renderInfo(
@@ -858,15 +1114,171 @@
         });
         mcqEl.appendChild(b);
       });
+      if (mcqEl) mcqEl.hidden = false;
+    }
+
+    function revealFeatureName() {
+      var cf = state.currentFeature;
+      if (!cf) return;
+      var allOk = state.featureCorrect >= FEATURE_FIELDS.length;
+      recordAnswer(featureProgressKey(cf.slug), allOk, cf.image);
+      markImageSeen(cf.slug, cf.image);
+      var ctrl = controlledForSlug(cf.slug) || {};
+      var bits = FEATURE_FIELDS.map(function (f) {
+        return featureLabel(f, ctrl[f]);
+      });
+      setStatus(
+        '<p class="admonition ' +
+          (allOk ? "success" : "warning") +
+          '"><strong>' +
+          esc(labelForSlug(cf.slug) || cf.slug) +
+          "</strong><br/>" +
+          esc(bits.join(" · ")) +
+          (allOk ? "" : "<br/>Niet alle kenmerken juist; naam alsnog getoond.") +
+          "</p>"
+      );
+      renderInfo(cf.slug);
+      if (mcqEl) {
+        mcqEl.hidden = true;
+        mcqEl.replaceChildren();
+      }
+      setMcqStatus("");
+      if (featurePromptEl) featurePromptEl.textContent = "Naam onthuld. Kies Volgende.";
+    }
+
+    function buildFeatureMcq() {
+      if (!mcqEl || !state.currentFeature) return;
+      mcqEl.replaceChildren();
+      var cf = state.currentFeature;
+      var field = FEATURE_FIELDS[state.featureStep];
+      if (!field) {
+        revealFeatureName();
+        return;
+      }
+      var ctrl = controlledForSlug(cf.slug);
+      var correctCode = ctrl[field];
+      var vocab = FEATURE_VOCAB[field] || {};
+      var codes = Object.keys(vocab);
+      var opts = [{ code: correctCode, correct: true }];
+      var distractors = shuffle(
+        codes.filter(function (c) {
+          return c !== correctCode;
+        })
+      );
+      while (opts.length < 4 && distractors.length) {
+        opts.push({ code: distractors.pop(), correct: false });
+      }
+      opts = shuffle(opts);
+      if (featurePromptEl) {
+        var titles = {
+          sculptuur: "Welke sculptuur zie je?",
+          apertuur: "Welke apertuur zie je?",
+          grootteband: "Welke grootteband schat je? (true-scale beeld)",
+        };
+        featurePromptEl.textContent =
+          titles[field] || "Welk kenmerk zie je?";
+      }
+      opts.forEach(function (o) {
+        var b = document.createElement("button");
+        b.type = "button";
+        b.className = "md-button";
+        b.innerHTML = esc(featureLabel(field, o.code));
+        b.style.textAlign = "left";
+        b.style.whiteSpace = "normal";
+        b.addEventListener("click", function () {
+          if (o.correct) {
+            state.featureCorrect += 1;
+            setMcqStatus("<strong>Juist.</strong>");
+          } else {
+            setMcqStatus(
+              "<strong>Onjuist.</strong> Juist was: " +
+                esc(featureLabel(field, correctCode))
+            );
+          }
+          state.featureStep += 1;
+          if (state.featureStep >= FEATURE_FIELDS.length) {
+            revealFeatureName();
+          } else {
+            buildFeatureMcq();
+          }
+        });
+        mcqEl.appendChild(b);
+      });
+      mcqEl.hidden = false;
+    }
+
+    function newFeatureQuestion() {
+      state.current = null;
+      state.currentLookalike = null;
+      state.currentFeature = null;
+      state.diverged = false;
+      state.expectedPath = null;
+      state.expectedStepIdx = 0;
+      state.pendingJump = false;
+      state.selectedKeyJsonUrl = null;
+      if (keyWrapEl) keyWrapEl.replaceChildren();
+      var pool = state.featurePool || [];
+      var slug = pickWeightedSlug(pool, featureProgressKey);
+      if (!slug) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen kenmerken-taxa beschikbaar.</strong> Vul controlled-features + beelden voor Niveau 1.</p>'
+        );
+        if (mcqEl) {
+          mcqEl.hidden = true;
+          mcqEl.replaceChildren();
+        }
+        setMcqStatus("");
+        clearWrongPreview();
+        clearInfo();
+        clearGallery();
+        renderProgress();
+        return;
+      }
+      var preferUnseen = boxForSlug(featureProgressKey(slug)) >= 3;
+      var ex = pickImageForSlug(slug, preferUnseen);
+      if (!ex || !ex.image) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen beeld voor dit taxon.</strong> Probeer Volgende.</p>'
+        );
+        renderProgress();
+        return;
+      }
+      state.currentFeature = {
+        slug: slug,
+        image: ex.image,
+        imageWidthPx: ex.imageWidthPx,
+      };
+      state.featureStep = 0;
+      state.featureCorrect = 0;
+      if (inputEl) inputEl.value = "";
+      setStatus(
+        '<p class="admonition info"><strong>Kenmerken eerst.</strong> Naam volgt na sculptuur, apertuur en grootteband.</p>'
+      );
+      setImage(ex.image);
+      applyImageWidth({ imageWidthPx: ex.imageWidthPx });
+      clearGallery();
+      clearWrongPreview();
+      clearInfo();
+      setMcqStatus("");
+      if (pathEl) {
+        pathEl.hidden = true;
+        pathEl.replaceChildren();
+      }
+      if (jumpEl) jumpEl.hidden = true;
+      if (backtrackEl) backtrackEl.hidden = true;
+      buildFeatureMcq();
+      renderProgress();
     }
 
     function newLookalikeQuestion() {
       var pool = state.lookalikePool || [];
       var pair = pickWeightedLookalike(pool);
       state.current = null;
+      state.currentFeature = null;
       state.currentLookalike = null;
       state.diverged = false;
       state.expectedPath = null;
+      state.expectedStepIdx = 0;
       state.pendingJump = false;
       state.selectedKeyJsonUrl = null;
       if (keyWrapEl) keyWrapEl.replaceChildren();
@@ -888,9 +1300,11 @@
       var showA = Math.random() < 0.5;
       var shownSlug = showA ? pair.a : pair.b;
       var partnerSlug = showA ? pair.b : pair.a;
-      var ex = exampleForSlug(shownSlug);
+      var pk = pairKey(pair.a, pair.b);
+      var preferUnseen = boxForSlug(pk) >= 3;
+      var ex = pickImageForSlug(shownSlug, preferUnseen);
       if (!ex || !ex.image) {
-        ex = exampleForSlug(partnerSlug);
+        ex = pickImageForSlug(partnerSlug, preferUnseen);
         if (ex && ex.image) {
           var swap = shownSlug;
           shownSlug = partnerSlug;
@@ -904,16 +1318,22 @@
         renderProgress();
         return;
       }
+      var ruleText = usableLookalikeNote(pair.note);
+      var phase = ruleText ? "rule" : "name";
       state.currentLookalike = {
         a: pair.a,
         b: pair.b,
         shownSlug: shownSlug,
         partnerSlug: partnerSlug,
-        pairKey: pairKey(pair.a, pair.b),
+        pairKey: pk,
         difficulty: pair.difficulty || null,
+        note: pair.note || null,
+        ruleText: ruleText,
+        phase: phase,
         image: ex.image,
         imageWidthPx: ex.imageWidthPx,
       };
+      markImageSeen(shownSlug, ex.image);
       if (inputEl) inputEl.value = "";
       setStatus("");
       setImage(ex.image);
@@ -922,22 +1342,33 @@
       clearWrongPreview();
       clearInfo();
       setMcqStatus("");
+      if (lookalikePromptEl) {
+        lookalikePromptEl.textContent = ruleText
+          ? "Welke beslissingsregel past bij dit lookalike-paar?"
+          : "Welke naam hoort bij dit beeld?";
+      }
       if (pathEl) {
         pathEl.hidden = true;
         pathEl.replaceChildren();
       }
       if (jumpEl) jumpEl.hidden = true;
+      if (backtrackEl) backtrackEl.hidden = true;
       buildMcq(null);
       if (mcqEl) mcqEl.hidden = false;
       renderProgress();
     }
 
     function newQuestion() {
+      if (state.kenmerkenMode) {
+        newFeatureQuestion();
+        return;
+      }
       if (state.lookalikeMode) {
         newLookalikeQuestion();
         return;
       }
       state.currentLookalike = null;
+      state.currentFeature = null;
       var pool = state.pool || [];
       if (!pool.length) {
         pool = state.items || [];
@@ -945,6 +1376,7 @@
       state.current = pickWeighted(pool);
       state.diverged = false;
       state.expectedPath = state.current && state.current.expectedPath ? state.current.expectedPath : null;
+      state.expectedStepIdx = 0;
       state.pendingJump = false;
       state.selectedKeyJsonUrl = null;
       if (keyWrapEl) {
@@ -976,6 +1408,7 @@
         pathEl.replaceChildren();
       }
       if (jumpEl) jumpEl.hidden = true;
+      if (backtrackEl) backtrackEl.hidden = true;
 
       // Preselect recommended key for this item (but don't auto-load).
       var rec = state.current && state.current.strict ? state.current.strict.keyJsonUrl : "";
@@ -1068,6 +1501,10 @@
     function loadKey(jsonUrl) {
       if (!keyWrapEl) return;
       state.selectedKeyJsonUrl = jsonUrl || null;
+      state.expectedStepIdx = 0;
+      state.diverged = false;
+      if (backtrackEl) backtrackEl.hidden = true;
+      if (jumpEl) jumpEl.hidden = true;
       keyWrapEl.replaceChildren();
       if (!jsonUrl) return;
       var normUrl = String(jsonUrl).replace(/^\.\//, "").replace(/^\//, "");
@@ -1097,19 +1534,54 @@
       // If the wrong key is loaded, don't attempt divergence logic.
       var recKey = state.current && state.current.strict ? state.current.strict.keyJsonUrl : "";
       if (recKey && state.selectedKeyJsonUrl && state.selectedKeyJsonUrl !== recKey) return;
-      var exp = state.expectedPath[0];
+      var idx = state.expectedStepIdx || 0;
+      var exp = state.expectedPath[idx];
       if (!exp) return;
       if (String(ev.detail && ev.detail.stepId) !== String(exp.stepId)) return;
       var ok =
         String(ev.detail && ev.detail.choiceLabel) === String(exp.choiceLabel) ||
         Number(ev.detail && ev.detail.choiceIdx) === Number(exp.choiceIdx);
-      if (!ok) {
-        state.diverged = true;
-        if (jumpEl) jumpEl.hidden = false;
+      if (ok) {
+        state.expectedStepIdx = idx + 1;
+        state.diverged = false;
+        if (backtrackEl) backtrackEl.hidden = true;
+        if (jumpEl) jumpEl.hidden = true;
+        return;
+      }
+      state.diverged = true;
+      if (jumpEl) jumpEl.hidden = false;
+      if (backtrackEl) backtrackEl.hidden = false;
+      var charHint = exp.choiceLabel ? String(exp.choiceLabel) : "";
+      setStatus(
+        '<p class="admonition warning"><strong>Afwijking bij stap ' +
+          esc(exp.stepId) +
+          ".</strong> Dit kenmerk werd gevraagd: <em>" +
+          esc(charHint || "(geen label)") +
+          "</em>. Gebruik <strong>Eén stap terug</strong> en kies opnieuw, of spring naar het verwachte pad.</p>"
+      );
+    }
+
+    function backtrackOneStep() {
+      var keyRoot = keyWrapEl ? keyWrapEl.querySelector("#pollentabel-root") : null;
+      if (!keyRoot) return;
+      var ctl = keyRoot.__pollentabelController;
+      if (!ctl || typeof ctl.stepBack !== "function") {
         setStatus(
-          '<p class="admonition warning"><strong>Afwijking bij stap ' +
-            esc(exp.stepId) +
-            ".</strong> Je keuze wijkt af van het verwachte pad.</p>"
+          '<p class="admonition warning"><strong>Terugstap niet beschikbaar.</strong> Gebruik de knop in de sleutel of spring naar het pad.</p>'
+        );
+        return;
+      }
+      if (ctl.stepBack()) {
+        if (state.expectedStepIdx > 0) state.expectedStepIdx -= 1;
+        state.diverged = false;
+        if (backtrackEl) backtrackEl.hidden = true;
+        if (jumpEl) jumpEl.hidden = true;
+        var exp = state.expectedPath && state.expectedPath[state.expectedStepIdx];
+        var hint = exp && exp.choiceLabel ? String(exp.choiceLabel) : "";
+        setStatus(
+          '<p class="admonition info"><strong>Eén stap terug.</strong> Probeer opnieuw' +
+            (hint ? ": <em>" + esc(hint) + "</em>" : ".") +
+            "</p>"
         );
       }
     }
@@ -1127,6 +1599,7 @@
         // Follow the key normally so its back-stack is populated.
         ctl.chooseByIndex(exp.choiceIdx);
       }
+      state.expectedStepIdx = state.expectedPath.length;
       return true;
     }
 
@@ -1160,6 +1633,40 @@
     root.addEventListener("pid:vdh-choice", onVdhChoice);
     if (jumpEl) {
       jumpEl.addEventListener("click", jumpToExpected);
+    }
+    if (backtrackEl) {
+      backtrackEl.addEventListener("click", backtrackOneStep);
+    }
+    if (exportConfusionsEl) {
+      exportConfusionsEl.addEventListener("click", function () {
+        var payload = {
+          exported_at: new Date().toISOString(),
+          confusions: state.confusions || [],
+        };
+        var text = JSON.stringify(payload, null, 2);
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(
+            function () {
+              setStatus(
+                '<p class="admonition success"><strong>Verwarringen gekopieerd.</strong> ' +
+                  esc(String((state.confusions || []).length)) +
+                  " items in klembord (plak in je logboek / review).</p>"
+              );
+            },
+            function () {
+              setStatus(
+                '<p class="admonition warning"><strong>Klembord mislukt.</strong> Open de console voor JSON.</p>'
+              );
+              console.log(text);
+            }
+          );
+        } else {
+          console.log(text);
+          setStatus(
+            '<p class="admonition info"><strong>JSON in console.</strong> Klembord niet beschikbaar.</p>'
+          );
+        }
+      });
     }
     if (showMcqEl) {
       showMcqEl.addEventListener("click", function () {
@@ -1196,7 +1703,12 @@
             typeof p.difficulty === "string" && LOOKALIKE_DIFFS[p.difficulty]
               ? p.difficulty
               : null;
-          state.lookalikePairs.push({ a: p.a, b: p.b, difficulty: diff });
+          state.lookalikePairs.push({
+            a: p.a,
+            b: p.b,
+            difficulty: diff,
+            note: typeof p.note === "string" ? p.note : null,
+          });
         });
         state.endpointToExample = {};
         state.groupToImages = {};
@@ -1204,6 +1716,8 @@
         if (typeof state.progress !== "object" || Array.isArray(state.progress)) {
           state.progress = {};
         }
+        state.confusions = readLocalJson(LS_CONFUSIONS, []) || [];
+        if (!Array.isArray(state.confusions)) state.confusions = [];
         (state.items || []).forEach(function (it) {
           if (!it || !it.strict || !it.strict.endpointText) return;
           var name = displayNameFromEndpointText(it.strict.endpointText) || it.strict.endpointText;
@@ -1224,7 +1738,7 @@
           }
         });
         populateKeys();
-        applyLevel(readLocalJson(LS_LEVEL, 1), true);
+        applyLevel(readLocalJson(LS_LEVEL, "kenmerken"), true);
       })
       .catch(function (e) {
         setStatus(

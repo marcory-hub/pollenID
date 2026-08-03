@@ -220,6 +220,15 @@ def _normalize_entry(raw: Dict[str, Any]) -> Dict[str, Any]:
         flat = merged.get(fk)
         feat_src[fk] = _merge_scalar(feat_src.get(fk), flat)
 
+    # Preserve optional controlled feature codes (Kenmerken-drill) when present.
+    controlled_src = feat_src.get("controlled")
+    if not isinstance(controlled_src, dict):
+        flat_ctrl = merged.get("controlled")
+        controlled_src = flat_ctrl if isinstance(flat_ctrl, dict) else None
+    controlled_out = None
+    if isinstance(controlled_src, dict) and controlled_src:
+        controlled_out = deepcopy(controlled_src)
+
     # Legacy flat value fields
     value_src["nectar_value"] = _merge_scalar(
         value_src.get("nectar_value"), merged.get("nectar_value")
@@ -261,6 +270,9 @@ def _normalize_entry(raw: Dict[str, Any]) -> Dict[str, Any]:
         if isinstance(merged.get("images"), list)
         else [],
     }
+
+    if controlled_out is not None:
+        out["pollen_features"]["controlled"] = controlled_out
 
     # Preserve only canonical top-level order (already built).
     assert tuple(out.keys()) == CANONICAL_TOP
