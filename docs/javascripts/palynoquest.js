@@ -59,11 +59,48 @@
     return "";
   }
 
-  function resolveUrl(rel) {
+  /** Site root (…/pollenID/) from the loaded palynoquest.js URL; stable under site_url and instant nav. */
+  function siteRootUrl() {
     try {
-      return new URL(rel, document.baseURI).href;
+      var scripts = document.querySelectorAll('script[src*="javascripts/palynoquest.js"]');
+      var el = scripts.length ? scripts[scripts.length - 1] : null;
+      // .src is absolute (resolved at parse time); getAttribute can stay page-relative and break after instant nav.
+      var abs = el && el.src ? el.src : "";
+      if (abs) {
+        return abs.replace(/javascripts\/palynoquest\.js(\?[^#]*)?(#.*)?$/i, "");
+      }
+    } catch (e) {}
+    try {
+      var logo = document.querySelector(
+        "header.md-header a.md-logo, header.md-header a.md-header__button.md-logo"
+      );
+      if (logo && logo.href) {
+        var u = new URL(logo.href, document.baseURI);
+        var p = u.pathname.replace(/\/+$/, "");
+        if (/\.(html?|php)$/i.test(p)) p = p.replace(/\/[^/]+$/, "");
+        u.pathname = (p || "/") + "/";
+        u.hash = "";
+        u.search = "";
+        return u.href;
+      }
+    } catch (e2) {}
+    try {
+      return new URL("./", document.baseURI).href;
+    } catch (e3) {
+      return document.baseURI;
+    }
+  }
+
+  /** Resolve a site-root-relative path (assets/…, data/…). Strips accidental leading ../. */
+  function resolveUrl(rel) {
+    var path = String(rel == null ? "" : rel).replace(/^\//, "");
+    while (path.indexOf("../") === 0) {
+      path = path.slice(3);
+    }
+    try {
+      return new URL(path, siteRootUrl()).href;
     } catch (e) {
-      return rel;
+      return path;
     }
   }
 
@@ -76,10 +113,10 @@
 
   function loadAll() {
     return Promise.all([
-      fetchJson("../../assets/manifests/keys.json"),
-      fetchJson("../../assets/manifests/palynoquest-items.json"),
-      fetchJson("../../data/pollen.json"),
-      fetchJson("../../assets/manifests/lookalike-groups.json").catch(function () {
+      fetchJson("assets/manifests/keys.json"),
+      fetchJson("assets/manifests/palynoquest-items.json"),
+      fetchJson("data/pollen.json"),
+      fetchJson("assets/manifests/lookalike-groups.json").catch(function () {
         return { pairs: [], groups: {} };
       }),
     ]).then(function (xs) {
@@ -376,7 +413,7 @@
       imgs.forEach(function (im) {
         if (!im || !im.image) return;
         var img = document.createElement("img");
-        img.src = resolveUrl("../../" + String(im.image).replace(/^\//, ""));
+        img.src = resolveUrl(String(im.image).replace(/^\//, ""));
         img.alt = "Onjuist gekozen pollen";
         img.style.display = "block";
         img.style.height = "auto";
@@ -397,7 +434,7 @@
 
     function setImage(rel) {
       if (!imgEl) return;
-      imgEl.src = resolveUrl("../../" + rel.replace(/^\//, ""));
+      imgEl.src = resolveUrl(rel.replace(/^\//, ""));
       imgEl.alt = "Quiz afbeelding";
     }
 
@@ -458,7 +495,7 @@
         btn.style.lineHeight = "0";
 
         var th = document.createElement("img");
-        th.src = resolveUrl("../../" + String(im.image).replace(/^\//, ""));
+        th.src = resolveUrl(String(im.image).replace(/^\//, ""));
         th.alt = "Variant";
         th.style.display = "block";
         th.style.height = "auto";
@@ -1528,7 +1565,7 @@
       }
       var rootEl = document.createElement("div");
       rootEl.id = "pollentabel-root";
-      rootEl.setAttribute("data-json-url", "../../" + normUrl);
+      rootEl.setAttribute("data-json-url", resolveUrl(normUrl));
       keyWrapEl.appendChild(rootEl);
       if (window.PID_VDH_POLLENTABEL && typeof window.PID_VDH_POLLENTABEL.boot === "function") {
         window.PID_VDH_POLLENTABEL.boot();
