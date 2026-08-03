@@ -193,13 +193,31 @@
 
   function parseLevelValue(raw) {
     var s = String(raw == null ? "1" : raw).trim().toLowerCase();
-    if (s === "kenmerken" || s === "feature" || s === "features") {
+    if (s === "kenmerken" || s === "kenmerken-1" || s === "feature" || s === "features") {
       return {
         kenmerkenMode: true,
         lookalikeMode: false,
         lookalikeDiff: "all",
         level: 1,
         value: "kenmerken",
+      };
+    }
+    if (s === "kenmerken-2") {
+      return {
+        kenmerkenMode: true,
+        lookalikeMode: false,
+        lookalikeDiff: "all",
+        level: 2,
+        value: "kenmerken-2",
+      };
+    }
+    if (s === "kenmerken-3") {
+      return {
+        kenmerkenMode: true,
+        lookalikeMode: false,
+        lookalikeDiff: "all",
+        level: 3,
+        value: "kenmerken-3",
       };
     }
     if (s === "lookalike" || s === "lookalike-all") {
@@ -650,12 +668,16 @@
 
     function buildFeaturePool() {
       var slugs = [];
+      var lv = clampLevel(state.level || 1);
       Object.keys(state.pollen || {}).forEach(function (slug) {
         var rec = state.pollen[slug];
         if (!rec || typeof rec !== "object") return;
         var rank = rec.learning_priority_rank;
-        if (!(typeof rank === "number" && isFinite(rank) && rank > 0 && rank <= LEVEL1_MAX_RANK)) {
-          return;
+        var hasRank = typeof rank === "number" && isFinite(rank) && rank > 0;
+        if (lv <= 1) {
+          if (!(hasRank && rank <= LEVEL1_MAX_RANK)) return;
+        } else if (lv === 2) {
+          if (!hasRank) return;
         }
         if (!controlledForSlug(slug)) return;
         if (!imagesForSlug(slug).length) return;
@@ -788,7 +810,9 @@
         });
         progressEl.innerHTML =
           '<span class="md-typeset">' +
-          "<strong>Kenmerken (Niveau 1)</strong>: " +
+          "<strong>Kenmerken (Niveau " +
+          esc(String(state.level || 1)) +
+          ")</strong>: " +
           esc(String(masteredF)) +
           "/" +
           esc(String(fPool.length)) +
@@ -1220,9 +1244,6 @@
       if (featurePromptEl) {
         featurePromptEl.textContent = "Welke naam hoort bij dit beeld?";
       }
-      setStatus(
-        '<p class="admonition info"><strong>Laatste stap.</strong> Kies de juiste naam (4 opties).</p>'
-      );
       opts.forEach(function (o) {
         var b = document.createElement("button");
         b.type = "button";
@@ -1320,7 +1341,7 @@
       var slug = pickWeightedSlug(pool, featureProgressKey);
       if (!slug) {
         setStatus(
-          '<p class="admonition warning"><strong>Geen kenmerken-taxa beschikbaar.</strong> Vul controlled-features + beelden voor Niveau 1.</p>'
+          '<p class="admonition warning"><strong>Geen kenmerken-taxa beschikbaar.</strong> Vul controlled-features + beelden voor dit niveau.</p>'
         );
         if (mcqEl) {
           mcqEl.hidden = true;
@@ -1349,9 +1370,7 @@
       state.featureStep = 0;
       state.featureCorrect = 0;
       if (inputEl) inputEl.value = "";
-      setStatus(
-        '<p class="admonition info"><strong>Kenmerken eerst.</strong> Vorm, apertuur, sculptuur, grootteband (alle opties); daarna naam (4 opties).</p>'
-      );
+      setStatus("");
       setImage(ex.image);
       applyImageWidth({ imageWidthPx: ex.imageWidthPx });
       clearGallery();
