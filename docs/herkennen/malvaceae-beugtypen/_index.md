@@ -27,11 +27,11 @@ Tricolporaat; reticulaat met trechtermondingen; vaak heteropolair. Tel sculptuur
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_platyphyllos", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png") }}
-      <figcaption>*T. platyphyllos* (grootbladige linde)</figcaption>
+      <figcaption><em>T. platyphyllos</em> (grootbladige linde)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_typ", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_2.png") }}
-      <figcaption>*Tilia* typ (linde type)</figcaption>
+      <figcaption><em>Tilia</em> typ (linde type)</figcaption>
     </figure>
   </div>
 </div>
@@ -61,11 +61,7 @@ Periporaat, lange stekels; morfologisch ver van *Tilia*. Subtypen o.a. *Malva ne
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("malva_typ", "assets/images/by-taxon/malva_arborea/malva_arborea_1.png") }}
-      <figcaption>*Malva* typ (kaasjeskruid type)</figcaption>
-    </figure>
-    <figure class="pid-scale-item">
-      {{ pollen_img("abelmoschus_esculentus", "assets/images/by-taxon/abelmoschus_esculentus/abelmoschus_esculentus_2.png") }}
-      <figcaption>*Abelmoschus* (okra)</figcaption>
+      <figcaption><em>Malva</em> typ (kaasjeskruid type)</figcaption>
     </figure>
   </div>
 </div>

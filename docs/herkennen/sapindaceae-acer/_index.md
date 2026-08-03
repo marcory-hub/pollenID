@@ -31,19 +31,19 @@ Niveau 1-anker: `acer_platanoides`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
-      <figcaption>*A. platanoides* (Noorse esdoorn)</figcaption>
+      <figcaption><em>A. platanoides</em> (Noorse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_pseudoplatanus", "assets/images/by-taxon/acer_pseudoplatanus/acer_pseudoplatanus_1.png") }}
-      <figcaption>*A. pseudoplatanus* (Esdoorn)</figcaption>
+      <figcaption><em>A. pseudoplatanus</em> (Esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_campestre", "assets/images/by-taxon/acer_campestre/acer_campestre_1.png") }}
-      <figcaption>*A. campestre* (Spaanse aak)</figcaption>
+      <figcaption><em>A. campestre</em> (Spaanse aak)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_negundo", "assets/images/by-taxon/acer_negundo/acer_negundo_1.png") }}
-      <figcaption>*A. negundo* (verderesdoorn)</figcaption>
+      <figcaption><em>A. negundo</em> (verderesdoorn)</figcaption>
     </figure>
   </div>
 </div>
@@ -54,27 +54,27 @@ Niveau 1-anker: `acer_platanoides`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("acer_japonicum", "assets/images/by-taxon/acer_japonicum/acer_japonicum_1.png") }}
-      <figcaption>*A. japonicum* (Japanse esdoorn)</figcaption>
+      <figcaption><em>A. japonicum</em> (Japanse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_palmatum", "assets/images/by-taxon/acer_palmatum/acer_palmatum_1.png") }}
-      <figcaption>*A. palmatum* (Japanse esdoorn)</figcaption>
+      <figcaption><em>A. palmatum</em> (Japanse esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_cappadocicum", "assets/images/by-taxon/acer_cappadocicum/acer_cappadocicum_1.png") }}
-      <figcaption>*A. cappadocicum* (Colchische esdoorn of Kolchische esdoorn)</figcaption>
+      <figcaption><em>A. cappadocicum</em> (Colchische esdoorn of Kolchische esdoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_griseum", "assets/images/by-taxon/acer_griseum/acer_griseum_1.png") }}
-      <figcaption>*A. griseum*</figcaption>
+      <figcaption><em>A. griseum</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_macrophyllum", "assets/images/by-taxon/acer_macrophyllum/acer_macrophyllum_1.png") }}
-      <figcaption>*A. macrophyllum*</figcaption>
+      <figcaption><em>A. macrophyllum</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_monspessulanum", "assets/images/by-taxon/acer_monspessulanum/acer_monspessulanum_1.png") }}
-      <figcaption>*A. monspessulanum*</figcaption>
+      <figcaption><em>A. monspessulanum</em></figcaption>
     </figure>
   </div>
 </div>

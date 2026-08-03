@@ -28,27 +28,27 @@ Interactieve sleutel: [Beug 21.27 Brassicaceae](../../Identificatiesleutels/beug
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_typ", "assets/images/by-taxon/brassica_nigra/brassica_nigra_4.png") }}
-      <figcaption>*Brassica* typ (kool type)</figcaption>
+      <figcaption><em>Brassica</em> typ (kool type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
-      <figcaption>*B. napus* (koolzaad)</figcaption>
+      <figcaption><em>B. napus</em> (koolzaad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_nigra", "assets/images/by-taxon/brassica_nigra/brassica_nigra_1.png") }}
-      <figcaption>*B. nigra*</figcaption>
+      <figcaption><em>B. nigra</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("raphanus_typ", "assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png") }}
-      <figcaption>*Raphanus* typ (Radijs type)</figcaption>
+      <figcaption><em>Raphanus</em> typ (Radijs type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sinapis_typ", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_2.png") }}
-      <figcaption>*Sinapis* typ (Mosterd type)</figcaption>
+      <figcaption><em>Sinapis</em> typ (Mosterd type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
-      <figcaption>*S. arvensis* (herik)</figcaption>
+      <figcaption><em>S. arvensis</em> (herik)</figcaption>
     </figure>
   </div>
 </div>
@@ -69,27 +69,27 @@ Interactieve sleutel: [Beug 21.27 Brassicaceae](../../Identificatiesleutels/beug
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("alyssum_typ", "assets/images/by-taxon/alyssum_saxatile/alyssum_saxatile_2.png") }}
-      <figcaption>*Alyssum* typ (schildzaad type)</figcaption>
+      <figcaption><em>Alyssum</em> typ (schildzaad type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("alyssum_montanum", "assets/images/by-taxon/alyssum_montanum/alyssum_montanum_1.png") }}
-      <figcaption>*A. montanum* (bergschildzaad)</figcaption>
+      <figcaption><em>A. montanum</em> (bergschildzaad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cakile_maritima", "assets/images/by-taxon/cakile_maritima/cakile_maritima_1.png") }}
-      <figcaption>*Cakile* (zeeraket)</figcaption>
+      <figcaption><em>Cakile</em> (zeeraket)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("diplotaxis_tenuifolia", "assets/images/by-taxon/diplotaxis_tenuifolia/diplotaxis_tenuifolia_1.png") }}
-      <figcaption>*Diplotaxis* (rucola)</figcaption>
+      <figcaption><em>Diplotaxis</em> (rucola)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("eruca_sativa", "assets/images/by-taxon/eruca_sativa/eruca_sativa_1.png") }}
-      <figcaption>*Eruca* (Eruca)</figcaption>
+      <figcaption><em>Eruca</em> (Eruca)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cardamine_pratensis", "assets/images/by-taxon/cardamine_pratensis/cardamine_pratensis_1.png") }}
-      <figcaption>*Cardamine* (pinksterbloem)</figcaption>
+      <figcaption><em>Cardamine</em> (pinksterbloem)</figcaption>
     </figure>
   </div>
 </div>

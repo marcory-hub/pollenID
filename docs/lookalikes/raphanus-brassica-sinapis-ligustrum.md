@@ -25,19 +25,19 @@ Pollen die op elkaar lijken in honingpreparaten.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png" style="height: 70px; width: auto;" alt="Raphanus">
-      <figcaption>*Raphanus*</figcaption>
+      <figcaption><em>Raphanus</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/brassica_napus/brassica_napus_3.png" style="height: 65px; width: auto;" alt="Brassica napus">
-      <figcaption>*B. napus*</figcaption>
+      <figcaption><em>B. napus</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_2.png" style="height: 70px; width: auto;" alt="Sinapis">
-      <figcaption>*Sinapis*</figcaption>
+      <figcaption><em>Sinapis</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png" style="height: 78px; width: auto;" alt="Ligustrum vulgare">
-      <figcaption>*Ligustrum*</figcaption>
+      <figcaption><em>Ligustrum</em></figcaption>
     </figure>
   </div>
 </div>

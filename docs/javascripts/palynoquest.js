@@ -152,7 +152,7 @@
       over_60: "boven 60 µm",
     },
   };
-  var FEATURE_FIELDS = ["sculptuur", "apertuur", "grootteband"];
+  var FEATURE_FIELDS = ["vorm", "apertuur", "sculptuur", "grootteband"];
 
   function parseLevelValue(raw) {
     var s = String(raw == null ? "1" : raw).trim().toLowerCase();
@@ -248,6 +248,7 @@
   }
 
   function bootOne(root) {
+    var lockLevel = (root.getAttribute("data-pq-lock-level") || "").trim();
     var state = {
       keys: [],
       items: [],
@@ -302,6 +303,12 @@
     var featurePromptEl = qs(root, "[data-pq-feature-prompt]");
     var lookalikePromptEl = qs(root, "[data-pq-lookalike-prompt]");
     var exportConfusionsEl = qs(root, "[data-pq-export-confusions]");
+
+    if (lockLevel && levelEl) {
+      var levelRow = levelEl.closest("p");
+      if (levelRow) levelRow.hidden = true;
+      else levelEl.hidden = true;
+    }
 
     function setStatus(html) {
       if (!statusEl) return;
@@ -557,7 +564,7 @@
       if (!rec || typeof rec !== "object") return null;
       var c = rec.controlled;
       if (!c || typeof c !== "object") return null;
-      if (!c.sculptuur || !c.apertuur || !c.grootteband) return null;
+      if (!c.vorm || !c.sculptuur || !c.apertuur || !c.grootteband) return null;
       return c;
     }
 
@@ -810,13 +817,15 @@
     }
 
     function applyLevel(raw, restart) {
-      var parsed = parseLevelValue(raw);
+      var parsed = parseLevelValue(lockLevel || raw);
       state.kenmerkenMode = !!parsed.kenmerkenMode;
       state.lookalikeMode = parsed.lookalikeMode;
       state.lookalikeDiff = parsed.lookalikeDiff;
       state.level = parsed.level;
-      writeLocalJson(LS_LEVEL, parsed.value);
-      if (levelEl) levelEl.value = parsed.value;
+      if (!lockLevel) {
+        writeLocalJson(LS_LEVEL, parsed.value);
+      }
+      if (levelEl && !lockLevel) levelEl.value = parsed.value;
       syncModePanels();
       if (state.kenmerkenMode) {
         buildFeaturePool();
@@ -1171,8 +1180,9 @@
       opts = shuffle(opts);
       if (featurePromptEl) {
         var titles = {
-          sculptuur: "Welke sculptuur zie je?",
+          vorm: "Welke vorm zie je?",
           apertuur: "Welke apertuur zie je?",
+          sculptuur: "Welke sculptuur zie je?",
           grootteband: "Welke grootteband schat je? (true-scale beeld)",
         };
         featurePromptEl.textContent =
@@ -1234,8 +1244,7 @@
         renderProgress();
         return;
       }
-      var preferUnseen = boxForSlug(featureProgressKey(slug)) >= 3;
-      var ex = pickImageForSlug(slug, preferUnseen);
+      var ex = pickImageForSlug(slug, true);
       if (!ex || !ex.image) {
         setStatus(
           '<p class="admonition warning"><strong>Geen beeld voor dit taxon.</strong> Probeer Volgende.</p>'
@@ -1681,7 +1690,7 @@
       loadKeyEl.addEventListener("click", function () {
         loadKey(keySelEl ? keySelEl.value : "");
       });
-    if (levelEl) {
+    if (levelEl && !lockLevel) {
       levelEl.addEventListener("change", function () {
         applyLevel(levelEl.value, true);
       });
@@ -1738,7 +1747,7 @@
           }
         });
         populateKeys();
-        applyLevel(readLocalJson(LS_LEVEL, "kenmerken"), true);
+        applyLevel(lockLevel || readLocalJson(LS_LEVEL, "kenmerken"), true);
       })
       .catch(function (e) {
         setStatus(

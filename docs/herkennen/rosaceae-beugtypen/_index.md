@@ -34,11 +34,11 @@ Nog geen soortpagina's (wel PNG's).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("agrimonia_eupatoria", "assets/images/by-taxon/agrimonia_eupatoria/agrimonia_eupatoria_1.png") }}
-      <figcaption>*A. eupatoria* (gewone agrimonie)</figcaption>
+      <figcaption><em>A. eupatoria</em> (gewone agrimonie)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("agrimonia_odorata", "assets/images/by-taxon/agrimonia_odorata/agrimonia_odorata_1.png") }}
-      <figcaption>*A. odorata* (welriekende agrimonie)</figcaption>
+      <figcaption><em>A. odorata</em> (welriekende agrimonie)</figcaption>
     </figure>
   </div>
 </div>
@@ -60,19 +60,19 @@ Beug [20.5](../../Identificatiesleutels/beug20-tricolporoidatae-str-potentilla.m
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("potentilla_anserina", "assets/images/by-taxon/potentilla_anserina/potentilla_anserina_1.png") }}
-      <figcaption>*P. anserina* (zilverschoon)</figcaption>
+      <figcaption><em>P. anserina</em> (zilverschoon)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("potentilla_erecta", "assets/images/by-taxon/potentilla_erecta/potentilla_erecta_1.png") }}
-      <figcaption>*P. erecta* (tormentil)</figcaption>
+      <figcaption><em>P. erecta</em> (tormentil)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("fragaria_vesca", "assets/images/by-taxon/fragaria_vesca/fragaria_vesca_1.png") }}
-      <figcaption>*F. vesca* (bosaardbei)</figcaption>
+      <figcaption><em>F. vesca</em> (bosaardbei)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("fragaria_viridis", "assets/images/by-taxon/fragaria_viridis/fragaria_viridis_1.png") }}
-      <figcaption>*F. viridis* (heuvelaardbei)</figcaption>
+      <figcaption><em>F. viridis</em> (heuvelaardbei)</figcaption>
     </figure>
   </div>
 </div>
@@ -94,19 +94,19 @@ Beug [20.6](../../Identificatiesleutels/beug20-tricolporoidatae-str-rosa.md). Op
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("rosa_canina", "assets/images/by-taxon/rosa_canina/rosa_canina_1.png") }}
-      <figcaption>*R. canina* (hondsroos)</figcaption>
+      <figcaption><em>R. canina</em> (hondsroos)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rosa_rubiginosa", "assets/images/by-taxon/rosa_rubiginosa/rosa_rubiginosa_1.png") }}
-      <figcaption>*R. rubiginosa* (egelantier)</figcaption>
+      <figcaption><em>R. rubiginosa</em> (egelantier)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rosa_pimpinellifolia", "assets/images/by-taxon/rosa_pimpinellifolia/rosa_pimpinellifolia_1.png") }}
-      <figcaption>*R. pimpinellifolia* (duinroos)</figcaption>
+      <figcaption><em>R. pimpinellifolia</em> (duinroos)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rosa_gallica_officinalis", "assets/images/by-taxon/rosa_gallica_officinalis/rosa_gallica_officinalis_1.png") }}
-      <figcaption>*R. gallica* (apothekersroos)</figcaption>
+      <figcaption><em>R. gallica</em> (apothekersroos)</figcaption>
     </figure>
   </div>
 </div>
@@ -126,11 +126,11 @@ Beug [20.10](../../Identificatiesleutels/beug20-tricolporoidatae-str-aruncus.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("aruncus_dioicus", "assets/images/by-taxon/aruncus_dioicus/aruncus_dioicus_1.png") }}
-      <figcaption>*Aruncus* (geitenbaard)</figcaption>
+      <figcaption><em>Aruncus</em> (geitenbaard)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("spiraea_japonica", "assets/images/by-taxon/spiraea_japonica/spiraea_japonica_1.png") }}
-      <figcaption>*Spiraea* (Japanse spirea)</figcaption>
+      <figcaption><em>Spiraea</em> (Japanse spirea)</figcaption>
     </figure>
   </div>
 </div>
@@ -151,15 +151,15 @@ Beug [20.11](../../Identificatiesleutels/beug20-tricolporoidatae-str-geum.md): *
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("geum_rivale", "assets/images/by-taxon/geum_rivale/geum_rivale_1.png") }}
-      <figcaption>*G. rivale*</figcaption>
+      <figcaption><em>G. rivale</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("geum_urbanum", "assets/images/by-taxon/geum_urbanum/geum_urbanum_1.png") }}
-      <figcaption>*G. urbanum* (geel nagelkruid)</figcaption>
+      <figcaption><em>G. urbanum</em> (geel nagelkruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sibbaldia_procumbens", "assets/images/by-taxon/sibbaldia_procumbens/sibbaldia_procumbens_1.png") }}
-      <figcaption>*Sibbaldia*</figcaption>
+      <figcaption><em>Sibbaldia</em></figcaption>
     </figure>
   </div>
 </div>
@@ -189,27 +189,27 @@ Beug [20.12](../../Identificatiesleutels/beug20-tricolporoidatae-str-sorbus.md):
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_avium", "assets/images/by-taxon/prunus_avium/prunus_avium_1.png") }}
-      <figcaption>*P. avium* (zoete kers)</figcaption>
+      <figcaption><em>P. avium</em> (zoete kers)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_spinosa", "assets/images/by-taxon/prunus_spinosa/prunus_spinosa_1.png") }}
-      <figcaption>*P. spinosa* (sleedoorn)</figcaption>
+      <figcaption><em>P. spinosa</em> (sleedoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
-      <figcaption>*P. padus* (vogelkers)</figcaption>
+      <figcaption><em>P. padus</em> (vogelkers)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_laurocerasus", "assets/images/by-taxon/prunus_laurocerasus/prunus_laurocerasus_1.png") }}
-      <figcaption>*P. laurocerasus* (laurierkers)</figcaption>
+      <figcaption><em>P. laurocerasus</em> (laurierkers)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("malus_domestica", "assets/images/by-taxon/malus_domestica/malus_domestica_1.png") }}
-      <figcaption>*Malus* (appel)</figcaption>
+      <figcaption><em>Malus</em> (appel)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("crataegus_monogyna", "assets/images/by-taxon/crataegus_monogyna/crataegus_monogyna_1.png") }}
-      <figcaption>*Crataegus* (eenstijlige meidoorn)</figcaption>
+      <figcaption><em>Crataegus</em> (eenstijlige meidoorn)</figcaption>
     </figure>
   </div>
 </div>
@@ -227,11 +227,11 @@ Valla contrastarm; perforaties tussen de valla.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("sorbus_aucuparia", "assets/images/by-taxon/sorbus_aucuparia/sorbus_aucuparia_1.png") }}
-      <figcaption>*Sorbus* (wilde lijsterbes)</figcaption>
+      <figcaption><em>Sorbus</em> (wilde lijsterbes)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cotoneaster_intergerrimus", "assets/images/by-taxon/cotoneaster_intergerrimus/cotoneaster_intergerrimus_1.png") }}
-      <figcaption>*Cotoneaster* (wilde dwergmispel)</figcaption>
+      <figcaption><em>Cotoneaster</em> (wilde dwergmispel)</figcaption>
     </figure>
   </div>
 </div>
@@ -250,15 +250,15 @@ Perforaties bij goed ontwikkelde PK; niet-gesculpteerde PK → Rosaceae indet.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("rubus_idaeus", "assets/images/by-taxon/rubus_idaeus/rubus_idaeus_1.png") }}
-      <figcaption>*R. idaeus* (framboos)</figcaption>
+      <figcaption><em>R. idaeus</em> (framboos)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rubus_fruticosus", "assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png") }}
-      <figcaption>*R. fruticosus* (braam)</figcaption>
+      <figcaption><em>R. fruticosus</em> (braam)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rubus_saxatilis", "assets/images/by-taxon/rubus_saxatilis/rubus_saxatilis_1.png") }}
-      <figcaption>*R. saxatilis* (steenbraam)</figcaption>
+      <figcaption><em>R. saxatilis</em> (steenbraam)</figcaption>
     </figure>
   </div>
 </div>
@@ -275,7 +275,7 @@ Valla meestal al in helderveld duidelijk; perforaties bij goede acetolyse.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("dryas_octopetala", "assets/images/by-taxon/dryas_octopetala/dryas_octopetala_1.png") }}
-      <figcaption>*Dryas* (zilverkruid)</figcaption>
+      <figcaption><em>Dryas</em> (zilverkruid)</figcaption>
     </figure>
   </div>
 </div>
@@ -303,7 +303,7 @@ Tricolpaat–psilaat / 3-colporaat. Zie [Beug 13](../../Identificatiesleutels/be
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("sanguisorba_minor", "assets/images/by-taxon/sanguisorba_minor/sanguisorba_minor_1.png") }}
-      <figcaption>*S. minor* (kleine pimpernel)</figcaption>
+      <figcaption><em>S. minor</em> (kleine pimpernel)</figcaption>
     </figure>
   </div>
 </div>
@@ -320,7 +320,7 @@ Stephanocolporaat, 6-colporaat. Zie [Beug 25](../../Identificatiesleutels/beug25
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("sanguisorba_officinalis", "assets/images/by-taxon/sanguisorba_officinalis/sanguisorba_officinalis_1.png") }}
-      <figcaption>*S. officinalis* (grote pimpernel)</figcaption>
+      <figcaption><em>S. officinalis</em> (grote pimpernel)</figcaption>
     </figure>
   </div>
 </div>
@@ -340,11 +340,11 @@ Beug 14.24 (in [Tricolporatae psilaat](../../Identificatiesleutels/beug14-tricol
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("filipendula_ulmaria", "assets/images/by-taxon/filipendula_ulmaria/filipendula_ulmaria_1.png") }}
-      <figcaption>*F. ulmaria* (moerasspirea)</figcaption>
+      <figcaption><em>F. ulmaria</em> (moerasspirea)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("filipendula_vulgaris", "assets/images/by-taxon/filipendula_vulgaris/filipendula_vulgaris_1.png") }}
-      <figcaption>*F. vulgaris* (knolspirea)</figcaption>
+      <figcaption><em>F. vulgaris</em> (knolspirea)</figcaption>
     </figure>
   </div>
 </div>

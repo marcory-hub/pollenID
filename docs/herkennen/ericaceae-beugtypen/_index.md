@@ -26,11 +26,11 @@ Tetraden meestal onregelmatig; EPK vaak met 4 korte, brede colpi; sculptuur grof
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("calluna_vulgaris", "assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_1.png") }}
-      <figcaption>*Calluna* (struikheide)</figcaption>
+      <figcaption><em>Calluna</em> (struikheide)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("calluna_vulgaris", "assets/images/by-taxon/calluna_vulgaris/calluna_vulgaris_2.png") }}
-      <figcaption>*Calluna* (struikheide)</figcaption>
+      <figcaption><em>Calluna</em> (struikheide)</figcaption>
     </figure>
   </div>
 </div>
@@ -50,11 +50,11 @@ Vergelijkingsbeelden uit dezelfde tetradengroep (niet Niveau 2-ankers).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("empetrum_nigrum", "assets/images/by-taxon/empetrum_nigrum/empetrum_nigrum_1.png") }}
-      <figcaption>*Empetrum* (kraaihei)</figcaption>
+      <figcaption><em>Empetrum</em> (kraaihei)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("erica_tetralix", "assets/images/by-taxon/erica_tetralix/erica_tetralix_1.png") }}
-      <figcaption>*Erica tetralix* (dopheide)</figcaption>
+      <figcaption><em>Erica tetralix</em> (dopheide)</figcaption>
     </figure>
   </div>
 </div>

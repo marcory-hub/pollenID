@@ -25,11 +25,11 @@ Door grootte en langgerekte vorm van de andere Midden-Europese soorten te scheid
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("cornus_sanguinea", "assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_1.png") }}
-      <figcaption>*C. sanguinea* (rode kornoelje)</figcaption>
+      <figcaption><em>C. sanguinea</em> (rode kornoelje)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cornus_sanguinea", "assets/images/by-taxon/cornus_sanguinea/cornus_sanguinea_2.png") }}
-      <figcaption>*C. sanguinea* (rode kornoelje)</figcaption>
+      <figcaption><em>C. sanguinea</em> (rode kornoelje)</figcaption>
     </figure>
   </div>
 </div>
@@ -48,11 +48,11 @@ Kleiner; microverrucae vaak zwak; perforaties schijnen te ontbreken. Beug: *C. m
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("cornus_mas", "assets/images/by-taxon/cornus_mas/cornus_mas_1.png") }}
-      <figcaption>*C. mas* (gele kornoelje)</figcaption>
+      <figcaption><em>C. mas</em> (gele kornoelje)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cornus_mas", "assets/images/by-taxon/cornus_mas/cornus_mas_2.png") }}
-      <figcaption>*C. mas* (gele kornoelje)</figcaption>
+      <figcaption><em>C. mas</em> (gele kornoelje)</figcaption>
     </figure>
   </div>
 </div>

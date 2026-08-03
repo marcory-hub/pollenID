@@ -25,15 +25,15 @@ Beug: geen soortsbepaling binnen de 39 Midden-Europese soorten. Niveau 1-anker: 
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("salix_typ", "assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_3.png") }}
-      <figcaption>*Salix* typ (wilg type)</figcaption>
+      <figcaption><em>Salix</em> typ (wilg type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("salix_caprea", "assets/images/by-taxon/salix_caprea/salix_caprea_1.png") }}
-      <figcaption>*S. caprea* (boswilg)</figcaption>
+      <figcaption><em>S. caprea</em> (boswilg)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("salix_alba_var_tristis", "assets/images/by-taxon/salix_alba_var_tristis/salix_alba_var_tristis_1.png") }}
-      <figcaption>*S. alba* var. *tristis* (treurwilg)</figcaption>
+      <figcaption><em>S. alba</em> var. <em>tristis</em> (treurwilg)</figcaption>
     </figure>
   </div>
 </div>
@@ -53,11 +53,11 @@ Inaperturaat; scabraat–microechinaat; exine ca. 0,5 µm. Niveau 2: `populus_ty
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("populus_typ", "assets/images/by-taxon/populus_nigra/populus_nigra_3.png") }}
-      <figcaption>*Populus* typ (populier type)</figcaption>
+      <figcaption><em>Populus</em> typ (populier type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("populus_nigra", "assets/images/by-taxon/populus_nigra/populus_nigra_1.png") }}
-      <figcaption>*P. nigra* (zwarte populier)</figcaption>
+      <figcaption><em>P. nigra</em> (zwarte populier)</figcaption>
     </figure>
   </div>
 </div>

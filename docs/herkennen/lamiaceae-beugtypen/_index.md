@@ -27,11 +27,11 @@ Sferoïdisch tot prolaat (PFormI 1,05–1,55); exine 1,5–2 µm, volledig glad;
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("lamium_typ", "assets/images/by-taxon/lamium_album/lamium_album_4.png") }}
-      <figcaption>*Lamium* typ (dovenetel type)</figcaption>
+      <figcaption><em>Lamium</em> typ (dovenetel type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("lamium_album", "assets/images/by-taxon/lamium_album/lamium_album_1.png") }}
-      <figcaption>*L. album* (witte dovenetel)</figcaption>
+      <figcaption><em>L. album</em> (witte dovenetel)</figcaption>
     </figure>
   </div>
 </div>

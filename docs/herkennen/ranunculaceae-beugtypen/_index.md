@@ -31,15 +31,15 @@ Tricolpaat; sculptuurelementen op columellae. Honinganker: `ranunculus_typ`. *Fi
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("ranunculus_typ", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_3.png") }}
-      <figcaption>*Ranunculus* typ (Ranonkel type)</figcaption>
+      <figcaption><em>Ranunculus</em> typ (Ranonkel type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ranunculus_acris", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png") }}
-      <figcaption>*R. acris* (scherpe boterbloem)</figcaption>
+      <figcaption><em>R. acris</em> (scherpe boterbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ranunculus_ficaria", "assets/images/by-taxon/ranunculus_ficaria/ranunculus_ficaria_1.png") }}
-      <figcaption>*R. ficaria* (gewoon speenkruid)</figcaption>
+      <figcaption><em>R. ficaria</em> (gewoon speenkruid)</figcaption>
     </figure>
   </div>
 </div>
@@ -61,11 +61,11 @@ Tricolpaat–psilaat. Subtypen: *Aquilegia*, *Aconitum*, *Consolida*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("aconitum_typ", "assets/images/by-taxon/aconitum_napellus/aconitum_napellus_4.png") }}
-      <figcaption>*Aconitum* typ (ridderspoor type)</figcaption>
+      <figcaption><em>Aconitum</em> typ (ridderspoor type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("aconitum_napellus", "assets/images/by-taxon/aconitum_napellus/aconitum_napellus_1.png") }}
-      <figcaption>*A. napellus* (Blauwe monnikskap)</figcaption>
+      <figcaption><em>A. napellus</em> (Blauwe monnikskap)</figcaption>
     </figure>
   </div>
 </div>
@@ -84,7 +84,7 @@ Tricolpaat; exine 3,2–5,0 µm; scabraat–microechinaat.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("nigella_sativa", "assets/images/by-taxon/nigella_sativa/nigella_sativa_1.png") }}
-      <figcaption>*Nigella* (zwarte komijn)</figcaption>
+      <figcaption><em>Nigella</em> (zwarte komijn)</figcaption>
     </figure>
   </div>
 </div>
@@ -104,7 +104,7 @@ Beug 33.22 (*A. coronaria*) is **periporaat**. De atlasbeelden onder `anemone_ty
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("anemone_typ", "assets/images/by-taxon/anemone_blanda/anemone_blanda_1.png") }}
-      <figcaption>*Anemone* typ (anemoon type)</figcaption>
+      <figcaption><em>Anemone</em> typ (anemoon type)</figcaption>
     </figure>
   </div>
 </div>
@@ -124,7 +124,7 @@ Periporaat; scabraat.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("thalictrum_typ", "assets/images/by-taxon/thalictrum_flavum/thalictrum_flavum_1.png") }}
-      <figcaption>*Thalictrum* (ruit type)</figcaption>
+      <figcaption><em>Thalictrum</em> (ruit type)</figcaption>
     </figure>
   </div>
 </div>
@@ -143,7 +143,7 @@ Met PNG's in atlas; Beug-eindpunt in repo-keys nog niet als aparte JSON gelokali
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("clematis_vitalba", "assets/images/by-taxon/clematis_vitalba/clematis_vitalba_1.png") }}
-      <figcaption>*C. vitalba* (bosrank)</figcaption>
+      <figcaption><em>C. vitalba</em> (bosrank)</figcaption>
     </figure>
   </div>
 </div>

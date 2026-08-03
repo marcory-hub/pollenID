@@ -32,19 +32,19 @@ Niet in dit letter-schema (echinaat A–T): *Galinsoga* (echinaat zonder letter)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("achillea_millefolium", "assets/images/by-taxon/achillea_millefolium/achillea_millefolium_1.png") }}
-      <figcaption>*Achillea* (gewoon duizendblad)</figcaption>
+      <figcaption><em>Achillea</em> (gewoon duizendblad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("anthemis_nobilis", "assets/images/by-taxon/anthemis_nobilis/anthemis_nobilis_1.png") }}
-      <figcaption>*Anthemis* (roomse kamille)</figcaption>
+      <figcaption><em>Anthemis</em> (roomse kamille)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("leucanthemum_vulgare", "assets/images/by-taxon/leucanthemum_vulgare/leucanthemum_vulgare_1.png") }}
-      <figcaption>*Leucanthemum*</figcaption>
+      <figcaption><em>Leucanthemum</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("matricaria_recutita", "assets/images/by-taxon/matricaria_recutita/matricaria_recutita_1.png") }}
-      <figcaption>*Matricaria* (echte kamille)</figcaption>
+      <figcaption><em>Matricaria</em> (echte kamille)</figcaption>
     </figure>
   </div>
 </div>
@@ -64,11 +64,11 @@ Exine verrucaat/reticulaat, **geen** stekels.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_cyanus", "assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png") }}
-      <figcaption>*C. cyanus* (korenbloem)</figcaption>
+      <figcaption><em>C. cyanus</em> (korenbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_montana", "assets/images/by-taxon/centaurea_montana/centaurea_montana_1.png") }}
-      <figcaption>*C. montana* (bergcentaurie)</figcaption>
+      <figcaption><em>C. montana</em> (bergcentaurie)</figcaption>
     </figure>
   </div>
 </div>
@@ -102,27 +102,27 @@ Niet C-type: *Centaurea jacea* (echinaat **J**). *Echinops* staat in Kerkvliet a
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("helianthus_annuus", "assets/images/by-taxon/helianthus_annuus/helianthus_annuus_3.png") }}
-      <figcaption>*Helianthus* (zonnebloem)</figcaption>
+      <figcaption><em>Helianthus</em> (zonnebloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("calendula_officinalis", "assets/images/by-taxon/calendula_officinalis/calendula_officinalis_1.png") }}
-      <figcaption>*Calendula* (goudsbloem)</figcaption>
+      <figcaption><em>Calendula</em> (goudsbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("solidago_virgaurea", "assets/images/by-taxon/solidago_virgaurea/solidago_virgaurea_1.png") }}
-      <figcaption>*Solidago* (echte guldenroede)</figcaption>
+      <figcaption><em>Solidago</em> (echte guldenroede)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("senecio_jacobaea", "assets/images/by-taxon/senecio_jacobaea/senecio_jacobaea_1.png") }}
-      <figcaption>*Senecio* (Jacobs kruiskruid)</figcaption>
+      <figcaption><em>Senecio</em> (Jacobs kruiskruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("aster_amellus", "assets/images/by-taxon/aster_amellus/aster_amellus_1.png") }}
-      <figcaption>*Aster* (bergaster, italiaanse aster)</figcaption>
+      <figcaption><em>Aster</em> (bergaster, italiaanse aster)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("eupatorium_cannabinum", "assets/images/by-taxon/eupatorium_cannabinum/eupatorium_cannabinum_1.png") }}
-      <figcaption>*Eupatorium* (leverkruid)</figcaption>
+      <figcaption><em>Eupatorium</em> (leverkruid)</figcaption>
     </figure>
   </div>
 </div>
@@ -144,15 +144,15 @@ Nog geen foto's (bron bevestigt genus/soort): *Erigeron*, *Petasites*, *Tagetes*
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_jacea", "assets/images/by-taxon/centaurea_jacea/centaurea_jacea_1.png") }}
-      <figcaption>*C. jacea* (knoopkruid)</figcaption>
+      <figcaption><em>C. jacea</em> (knoopkruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ambrosia_artemisiifolia", "assets/images/by-taxon/ambrosia_artemisiifolia/ambrosia_artemisiifolia_1.png") }}
-      <figcaption>*Ambrosia* (Ambrosia)</figcaption>
+      <figcaption><em>Ambrosia</em> (Ambrosia)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("carthamus_tinctorius", "assets/images/by-taxon/carthamus_tinctorius/carthamus_tinctorius_1.png") }}
-      <figcaption>*Carthamus* (saffloer)</figcaption>
+      <figcaption><em>Carthamus</em> (saffloer)</figcaption>
     </figure>
   </div>
 </div>
@@ -179,19 +179,19 @@ Nog geen foto's: *Cnicus benedictus*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("carduus_nutans", "assets/images/by-taxon/carduus_nutans/carduus_nutans_1.png") }}
-      <figcaption>*Carduus* (knikkende distel)</figcaption>
+      <figcaption><em>Carduus</em> (knikkende distel)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cirsium_arvense", "assets/images/by-taxon/cirsium_arvense/cirsium_arvense_1.png") }}
-      <figcaption>*Cirsium* (akkerdistel)</figcaption>
+      <figcaption><em>Cirsium</em> (akkerdistel)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("arctium_minus", "assets/images/by-taxon/arctium_minus/arctium_minus_1.png") }}
-      <figcaption>*Arctium* (klit)</figcaption>
+      <figcaption><em>Arctium</em> (klit)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("carlina_aucalis", "assets/images/by-taxon/carlina_aucalis/carlina_aucalis_1.png") }}
-      <figcaption>*Carlina* (zilverdistel)</figcaption>
+      <figcaption><em>Carlina</em> (zilverdistel)</figcaption>
     </figure>
   </div>
 </div>
@@ -217,23 +217,23 @@ Nog geen foto's: *Serratula tinctoria*, *Onopordum* / *Onopordon*, *Silybum* (*S
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png") }}
-      <figcaption>*Taraxacum* (paardenbloem)</figcaption>
+      <figcaption><em>Taraxacum</em> (paardenbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cichorium_intybus", "assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png") }}
-      <figcaption>*Cichorium* (cichorei)</figcaption>
+      <figcaption><em>Cichorium</em> (cichorei)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("hieracium_aurantiacum", "assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png") }}
-      <figcaption>*Hieracium* (oranje havikskruid)</figcaption>
+      <figcaption><em>Hieracium</em> (oranje havikskruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("crepis_biennis", "assets/images/by-taxon/crepis_biennis/crepis_biennis_1.png") }}
-      <figcaption>*Crepis* (groot streepzaad)</figcaption>
+      <figcaption><em>Crepis</em> (groot streepzaad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sonchus_arvensis", "assets/images/by-taxon/sonchus_arvensis/sonchus_arvensis_1.png") }}
-      <figcaption>*Sonchus* (akkermelkdistel)</figcaption>
+      <figcaption><em>Sonchus</em> (akkermelkdistel)</figcaption>
     </figure>
   </div>
 </div>

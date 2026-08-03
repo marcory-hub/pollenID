@@ -32,11 +32,11 @@ Niveau 1: `trifolium_repens`. Niveau 2: `trifolium_pratense`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_repens", "assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png") }}
-      <figcaption>*T. repens* (witte klaver)</figcaption>
+      <figcaption><em>T. repens</em> (witte klaver)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_pratense", "assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png") }}
-      <figcaption>*T. pratense* (rode klaver)</figcaption>
+      <figcaption><em>T. pratense</em> (rode klaver)</figcaption>
     </figure>
   </div>
 </div>
@@ -57,15 +57,15 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_typ", "assets/images/by-taxon/vicia_faba/vicia_faba_2.png") }}
-      <figcaption>*Vicia* typ (Wikke type)</figcaption>
+      <figcaption><em>Vicia</em> typ (Wikke type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_cracca", "assets/images/by-taxon/vicia_cracca/vicia_cracca_1.png") }}
-      <figcaption>*V. cracca* (vogelwikke)</figcaption>
+      <figcaption><em>V. cracca</em> (vogelwikke)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
-      <figcaption>*V. faba* (tuinboon)</figcaption>
+      <figcaption><em>V. faba</em> (tuinboon)</figcaption>
     </figure>
   </div>
 </div>
@@ -84,15 +84,15 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("medicago_sativa", "assets/images/by-taxon/medicago_sativa/medicago_sativa_1.png") }}
-      <figcaption>*Medicago* (luzerne)</figcaption>
+      <figcaption><em>Medicago</em> (luzerne)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("melilotus_officinalis", "assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png") }}
-      <figcaption>*Melilotus* (citroengele honingklaver)</figcaption>
+      <figcaption><em>Melilotus</em> (citroengele honingklaver)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("onosis_spinoza", "assets/images/by-taxon/onosis_spinoza/onosis_spinoza_1.png") }}
-      <figcaption>*Ononis* (kattendoorn)</figcaption>
+      <figcaption><em>Ononis</em> (kattendoorn)</figcaption>
     </figure>
   </div>
 </div>
@@ -109,7 +109,7 @@ Niveau 1: `vicia_typ`. Zie ook [*Lathyrus*–*Vicia*](../../Identificatiesleutel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("robinia_pseudoacacia", "assets/images/by-taxon/robinia_pseudoacacia/robinia_pseudoacacia_1.png") }}
-      <figcaption>*Robinia* (valse acacia)</figcaption>
+      <figcaption><em>Robinia</em> (valse acacia)</figcaption>
     </figure>
   </div>
 </div>
@@ -132,19 +132,19 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("cytisus_typ", "assets/images/by-taxon/cytisus_scoparius/cytisus_scoparius_2.png") }}
-      <figcaption>*Cytisus* typ (brem type)</figcaption>
+      <figcaption><em>Cytisus</em> typ (brem type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cytisus_scoparius", "assets/images/by-taxon/cytisus_scoparius/cytisus_scoparius_1.png") }}
-      <figcaption>*C. scoparius* (gewone brem)</figcaption>
+      <figcaption><em>C. scoparius</em> (gewone brem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ulex_europaeus", "assets/images/by-taxon/ulex_europaeus/ulex_europaeus_1.png") }}
-      <figcaption>*Ulex* (gaspeldoorn)</figcaption>
+      <figcaption><em>Ulex</em> (gaspeldoorn)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("lupinus_polyphyllus", "assets/images/by-taxon/lupinus_polyphyllus/lupinus_polyphyllus_1.png") }}
-      <figcaption>*Lupinus* (vaste lupine)</figcaption>
+      <figcaption><em>Lupinus</em> (vaste lupine)</figcaption>
     </figure>
   </div>
 </div>
@@ -161,7 +161,7 @@ Brem / gaspeldoorn-cluster (incl. *Ulex*).
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("lotus_corniculatus", "assets/images/by-taxon/lotus_corniculatus/lotus_corniculatus_1.png") }}
-      <figcaption>*Lotus* (rolklaver)</figcaption>
+      <figcaption><em>Lotus</em> (rolklaver)</figcaption>
     </figure>
   </div>
 </div>
@@ -183,19 +183,19 @@ Triporaat (*Phaseolus*); *Pisum* als apart type in honing.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("phaseolus_coccineus", "assets/images/by-taxon/phaseolus_coccineus/phaseolus_coccineus_1.png") }}
-      <figcaption>*Phaseolus* (pronkboon)</figcaption>
+      <figcaption><em>Phaseolus</em> (pronkboon)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("pisum_typ", "assets/images/by-taxon/pisum_sativum/pisum_sativum_2.png") }}
-      <figcaption>*Pisum* typ (erwt type)</figcaption>
+      <figcaption><em>Pisum</em> typ (erwt type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("pisum_sativum", "assets/images/by-taxon/pisum_sativum/pisum_sativum_1.png") }}
-      <figcaption>*P. sativum* (erwt)</figcaption>
+      <figcaption><em>P. sativum</em> (erwt)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sophora_japonica", "assets/images/by-taxon/sophora_japonica/sophora_japonica_1.png") }}
-      <figcaption>*Sophora* (honingboom)</figcaption>
+      <figcaption><em>Sophora</em> (honingboom)</figcaption>
     </figure>
   </div>
 </div>

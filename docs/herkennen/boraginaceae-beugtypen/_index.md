@@ -27,11 +27,11 @@ Zeer kleine korrels; polen duidelijk afgeplat; 6 colpi (porate colpi korter). Ni
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("myosotis_typ", "assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_1.png") }}
-      <figcaption>*Myosotis* typ (vergeet-me-nietje type)</figcaption>
+      <figcaption><em>Myosotis</em> typ (vergeet-me-nietje type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("myosotis_scorpioides", "assets/images/by-taxon/myosotis_scorpioides/myosotis_scorpioides_4.png") }}
-      <figcaption>*M. scorpioides* (vergeet-me-nietje)</figcaption>
+      <figcaption><em>M. scorpioides</em> (vergeet-me-nietje)</figcaption>
     </figure>
   </div>
 </div>
@@ -51,15 +51,15 @@ Sferoïdisch tot prolaat; 6 of 8 colpi; porate en niet-porate colpi verbonden do
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("cynoglossum_typ", "assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_2.png") }}
-      <figcaption>*Cynoglossum* typ (hondstong type)</figcaption>
+      <figcaption><em>Cynoglossum</em> typ (hondstong type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cynoglossum_officinale", "assets/images/by-taxon/cynoglossum_officinale/cynoglossum_officinale_1.png") }}
-      <figcaption>*C. officinale* (echte hondstong)</figcaption>
+      <figcaption><em>C. officinale</em> (echte hondstong)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cynoglossum_creticum", "assets/images/by-taxon/cynoglossum_creticum/cynoglossum_creticum_1.png") }}
-      <figcaption>*C. creticum*</figcaption>
+      <figcaption><em>C. creticum</em></figcaption>
     </figure>
   </div>
 </div>
@@ -79,11 +79,11 @@ Zes colpi; elke tweede colpus grenst aan contrastrijk korrelig opgeloste interco
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("phacelia_typ", "assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_2.png") }}
-      <figcaption>*Phacelia* typ (phacelia type)</figcaption>
+      <figcaption><em>Phacelia</em> typ (phacelia type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("phacelia_tanacetifolia", "assets/images/by-taxon/phacelia_tanacetifolia/phacelia_tanacetifolia_1.png") }}
-      <figcaption>*P. tanacetifolia* (phacelia, bijenvoer)</figcaption>
+      <figcaption><em>P. tanacetifolia</em> (phacelia, bijenvoer)</figcaption>
     </figure>
   </div>
 </div>

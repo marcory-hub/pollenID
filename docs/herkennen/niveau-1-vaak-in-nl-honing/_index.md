@@ -36,19 +36,19 @@ Op basis van *Brassica napus*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
-      <figcaption>*B. napus* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+      <figcaption><em>B. napus</em> ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("raphanus_raphanistrum", "assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png") }}
-      <figcaption>*Raphanus* ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Raphanus</em> ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
-      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+      <figcaption><em>Sinapis</em> ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ligustrum_vulgare", "assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png") }}
-      <figcaption>*Ligustrum* ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
+      <figcaption><em>Ligustrum</em> ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -77,19 +77,19 @@ Op basis van soorten in het type.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
-      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+      <figcaption><em>P. padus</em> ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_avium", "assets/images/by-taxon/prunus_avium/prunus_avium_1.png") }}
-      <figcaption>*P. avium* ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
+      <figcaption><em>P. avium</em> ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
-      <figcaption>*Acer* ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
+      <figcaption><em>Acer</em> ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("rubus_fruticosus", "assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png") }}
-      <figcaption>*Rubus* ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
+      <figcaption><em>Rubus</em> ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -120,11 +120,11 @@ Soortpagina: [*Rubus typ*](../../pollen/species/rubus_typ.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("rubus_fruticosus", "assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png") }}
-      <figcaption>*Rubus* ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
+      <figcaption><em>Rubus</em> ({{ pollen("rubus_fruticosus", "size.size_smallest") }}–{{ pollen("rubus_fruticosus", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
-      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+      <figcaption><em>P. padus</em> ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -155,23 +155,23 @@ Op basis van *Taraxacum officinale*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("taraxacum_officinale", "assets/images/by-taxon/taraxacum_officinale/taraxacum_officinale_1.png") }}
-      <figcaption>*T. officinale* ({{ pollen("taraxacum_officinale", "size.size_smallest") }})</figcaption>
+      <figcaption><em>T. officinale</em> ({{ pollen("taraxacum_officinale", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("cichorium_intybus", "assets/images/by-taxon/cichorium_intybus/cichorium_intybus_1.png") }}
-      <figcaption>*Cichorium* ({{ pollen("cichorium_intybus", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Cichorium</em> ({{ pollen("cichorium_intybus", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("hieracium_aurantiacum", "assets/images/by-taxon/hieracium_aurantiacum/hieracium_aurantiacum_1.png") }}
-      <figcaption>*Hieracium*</figcaption>
+      <figcaption><em>Hieracium</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("crepis_biennis", "assets/images/by-taxon/crepis_biennis/crepis_biennis_1.png") }}
-      <figcaption>*Crepis*</figcaption>
+      <figcaption><em>Crepis</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sonchus_arvensis", "assets/images/by-taxon/sonchus_arvensis/sonchus_arvensis_1.png") }}
-      <figcaption>*Sonchus*</figcaption>
+      <figcaption><em>Sonchus</em></figcaption>
     </figure>
   </div>
 </div>
@@ -202,19 +202,19 @@ Soortpagina: [*Centaurea cyanus*](../../pollen/species/centaurea_cyanus.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_cyanus", "assets/images/by-taxon/centaurea_cyanus/centaurea_cyanus_1.png") }}
-      <figcaption>*C. cyanus* ({{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }})</figcaption>
+      <figcaption><em>C. cyanus</em> ({{ pollen("centaurea_cyanus", "size.size_smallest") }}–{{ pollen("centaurea_cyanus", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("heracleum_sphondylium", "assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png") }}
-      <figcaption>*Heracleum* ({{ pollen("heracleum_sphondylium", "size.size_smallest") }}–{{ pollen("heracleum_sphondylium", "size.size_largest") }})</figcaption>
+      <figcaption><em>Heracleum</em> ({{ pollen("heracleum_sphondylium", "size.size_smallest") }}–{{ pollen("heracleum_sphondylium", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_pratense", "assets/images/by-taxon/trifolium_pratense/trifolium_pratense_3.png") }}
-      <figcaption>*T. pratense* ({{ pollen("trifolium_pratense", "size.size_smallest") }}–{{ pollen("trifolium_pratense", "size.size_largest") }})</figcaption>
+      <figcaption><em>T. pratense</em> ({{ pollen("trifolium_pratense", "size.size_smallest") }}–{{ pollen("trifolium_pratense", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
-      <figcaption>*Vicia* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Vicia</em> ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -245,15 +245,15 @@ Soortpagina: [*Trifolium repens*](../../pollen/species/trifolium_repens.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("trifolium_repens", "assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png") }}
-      <figcaption>*T. repens* ({{ pollen("trifolium_repens", "size.size_smallest") }}–{{ pollen("trifolium_repens", "size.size_largest") }})</figcaption>
+      <figcaption><em>T. repens</em> ({{ pollen("trifolium_repens", "size.size_smallest") }}–{{ pollen("trifolium_repens", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("melilotus_officinalis", "assets/images/by-taxon/melilotus_officinalis/melilotus_officinalis_1.png") }}
-      <figcaption>*Melilotus* ({{ pollen("melilotus_officinalis", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Melilotus</em> ({{ pollen("melilotus_officinalis", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("aesculus_hippocastanum", "assets/images/by-taxon/aesculus_hippocastanum/aesculus_hippocastanum_1.png") }}
-      <figcaption>*Aesculus* ({{ pollen("aesculus_hippocastanum", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Aesculus</em> ({{ pollen("aesculus_hippocastanum", "size.size_smallest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -283,11 +283,11 @@ Op basis van *Vicia sepium*. Beeld: *Vicia faba*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
-      <figcaption>*V. faba* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+      <figcaption><em>V. faba</em> ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
-      <figcaption>*Anthriscus* ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
+      <figcaption><em>Anthriscus</em> ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -317,15 +317,15 @@ Soortpagina: [*Acer platanoides*](../../pollen/species/acer_platanoides.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("acer_platanoides", "assets/images/by-taxon/acer_platanoides/acer_platanoides_1.png") }}
-      <figcaption>*Acer* ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
+      <figcaption><em>Acer</em> ({{ pollen("acer_platanoides", "size.size_smallest") }}–{{ pollen("acer_platanoides", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_padus", "assets/images/by-taxon/prunus_padus/prunus_padus_1.png") }}
-      <figcaption>*P. padus* ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
+      <figcaption><em>P. padus</em> ({{ pollen("prunus_padus", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("prunus_avium", "assets/images/by-taxon/prunus_avium/prunus_avium_1.png") }}
-      <figcaption>*P. avium* ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
+      <figcaption><em>P. avium</em> ({{ pollen("prunus_avium", "size.size_smallest") }}–{{ pollen("prunus_avium", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -359,11 +359,11 @@ Op basis van *Anthriscus sylvestris*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
-      <figcaption>*Anthriscus* ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
+      <figcaption><em>Anthriscus</em> ({{ pollen("anthriscus_sylvestris", "size.size_smallest") }}–{{ pollen("anthriscus_sylvestris", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("vicia_faba", "assets/images/by-taxon/vicia_faba/vicia_faba_1.png") }}
-      <figcaption>*V. faba* ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
+      <figcaption><em>V. faba</em> ({{ pollen("vicia_faba", "size.size_smallest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -392,15 +392,15 @@ Soortpagina: [*Salix typ*](../../pollen/species/salix_typ.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("salix_caprea", "assets/images/by-taxon/salix_caprea/salix_caprea_1.png") }}
-      <figcaption>*Salix* ({{ pollen("salix_caprea", "size.size_smallest") }}–{{ pollen("salix_caprea", "size.size_largest") }})</figcaption>
+      <figcaption><em>Salix</em> ({{ pollen("salix_caprea", "size.size_smallest") }}–{{ pollen("salix_caprea", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
-      <figcaption>*Brassica* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+      <figcaption><em>Brassica</em> ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("fraxinus_ornus", "assets/images/by-taxon/fraxinus_ornus/fraxinus_ornus_1.png") }}
-      <figcaption>*Fraxinus* ({{ pollen("fraxinus_ornus", "size.size_smallest") }}–{{ pollen("fraxinus_ornus", "size.size_largest") }})</figcaption>
+      <figcaption><em>Fraxinus</em> ({{ pollen("fraxinus_ornus", "size.size_smallest") }}–{{ pollen("fraxinus_ornus", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -430,7 +430,7 @@ Soortpagina: [*Tilia typ*](../../pollen/species/tilia_typ.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("tilia_platyphyllos", "assets/images/by-taxon/tilia_platyphyllos/tilia_platyphyllos_1.png") }}
-      <figcaption>*Tilia* ({{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }})</figcaption>
+      <figcaption><em>Tilia</em> ({{ pollen("tilia_platyphyllos", "size.size_smallest") }}–{{ pollen("tilia_platyphyllos", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -457,15 +457,15 @@ Soortpagina: [*Ranunculus typ*](../../pollen/species/ranunculus_typ.md)
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("ranunculus_acris", "assets/images/by-taxon/ranunculus_acris/ranunculus_acris_1.png") }}
-      <figcaption>*Ranunculus* ({{ pollen("ranunculus_acris", "size.size_smallest") }}–{{ pollen("ranunculus_acris", "size.size_largest") }})</figcaption>
+      <figcaption><em>Ranunculus</em> ({{ pollen("ranunculus_acris", "size.size_smallest") }}–{{ pollen("ranunculus_acris", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("centaurea_montana", "assets/images/by-taxon/centaurea_montana/centaurea_montana_1.png") }}
-      <figcaption>*Centaurea* typ</figcaption>
+      <figcaption><em>Centaurea</em> typ</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
-      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+      <figcaption><em>Sinapis</em> ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>
@@ -495,19 +495,19 @@ Op basis van *Raphanus raphanistrum*.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("raphanus_raphanistrum", "assets/images/by-taxon/raphanus_raphanistrum/raphanus_raphanistrum_1.png") }}
-      <figcaption>*Raphanus* ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
+      <figcaption><em>Raphanus</em> ({{ pollen("raphanus_raphanistrum", "size.size_smallest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("brassica_napus", "assets/images/by-taxon/brassica_napus/brassica_napus_3.png") }}
-      <figcaption>*B. napus* ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
+      <figcaption><em>B. napus</em> ({{ pollen("brassica_napus", "size.size_smallest") }}–{{ pollen("brassica_napus", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("sinapis_arvensis", "assets/images/by-taxon/sinapis_arvensis/sinapis_arvensis_1.png") }}
-      <figcaption>*Sinapis* ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
+      <figcaption><em>Sinapis</em> ({{ pollen("sinapis_arvensis", "size.size_smallest") }}–{{ pollen("sinapis_arvensis", "size.size_largest") }})</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("ligustrum_vulgare", "assets/images/by-taxon/ligustrum_vulgare/ligustrum_vulgare_1.png") }}
-      <figcaption>*Ligustrum* ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
+      <figcaption><em>Ligustrum</em> ({{ pollen("ligustrum_vulgare", "size.size_smallest") }}–{{ pollen("ligustrum_vulgare", "size.size_largest") }})</figcaption>
     </figure>
   </div>
 </div>

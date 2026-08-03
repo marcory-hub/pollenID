@@ -24,11 +24,11 @@ Pollen die op elkaar lijken in honingpreparaten.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/rubus_fruticosus/rubus_fruticosus_1.png" style="height: 75px; width: auto;" alt="Rubus fruticosus">
-      <figcaption>*Rubus*</figcaption>
+      <figcaption><em>Rubus</em></figcaption>
     </figure>
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/prunus_padus/prunus_padus_1.png" style="height: 63px; width: auto;" alt="Prunus padus">
-      <figcaption>*P. padus*</figcaption>
+      <figcaption><em>P. padus</em></figcaption>
     </figure>
   </div>
 </div>

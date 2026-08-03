@@ -27,7 +27,7 @@ Vooral bij *Rubus*, *Trifolium repens* en veel tuincultivars kunnen verschrompel
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       <img src="../assets/images/by-taxon/trifolium_repens/trifolium_repens_1.png" style="height: 58px; width: auto;" alt="Trifolium repens">
-      <figcaption>*T. repens*</figcaption>
+      <figcaption><em>T. repens</em></figcaption>
     </figure>
   </div>
 </div>

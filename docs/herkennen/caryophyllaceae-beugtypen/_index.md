@@ -25,11 +25,11 @@ Periporaat (Beug: *Silene* p.p. vaak 17–35 poren); exine scabraat of microechi
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("silene_flos_cuculi", "assets/images/by-taxon/silene_flos_cuculi/silene_flos_cuculi_1.png") }}
-      <figcaption>*S. flos-cuculi* (echte koekoeksbloem)</figcaption>
+      <figcaption><em>S. flos-cuculi</em> (echte koekoeksbloem)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("silene_flos_cuculi", "assets/images/by-taxon/silene_flos_cuculi/silene_flos_cuculi_2.png") }}
-      <figcaption>*S. flos-cuculi* (echte koekoeksbloem)</figcaption>
+      <figcaption><em>S. flos-cuculi</em> (echte koekoeksbloem)</figcaption>
     </figure>
   </div>
 </div>

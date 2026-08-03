@@ -30,11 +30,11 @@ Beug: columellae **polair** langer dan equatoriaal. Niveau 1/2: `heracleum_typ`.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("heracleum_sphondylium", "assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_1.png") }}
-      <figcaption>*H. sphondylium* (gewone berenklauw)</figcaption>
+      <figcaption><em>H. sphondylium</em> (gewone berenklauw)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("heracleum_typ", "assets/images/by-taxon/heracleum_sphondylium/heracleum_sphondylium_2.png") }}
-      <figcaption>*Heracleum* typ (Reuzenkruiskruid type)</figcaption>
+      <figcaption><em>Heracleum</em> typ (Reuzenkruiskruid type)</figcaption>
     </figure>
   </div>
 </div>
@@ -53,7 +53,7 @@ Columellae equatoriaal ten minste tweemaal zo lang als polair. In Beug o.a. *Ane
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("anethum_graveolens", "assets/images/by-taxon/anethum_graveolens/anethum_graveolens_1.png") }}
-      <figcaption>*Anethum* (dille)</figcaption>
+      <figcaption><em>Anethum</em> (dille)</figcaption>
     </figure>
   </div>
 </div>
@@ -74,7 +74,7 @@ Groot (vaak > 40 µm), hoge CL-index, dunne contrastarme columellae. Beug: *Astr
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("astrantia_major", "assets/images/by-taxon/astrantia_major/astrantia_major_1.png") }}
-      <figcaption>*Astrantia* (Zeeuws knoopje)</figcaption>
+      <figcaption><em>Astrantia</em> (Zeeuws knoopje)</figcaption>
     </figure>
   </div>
 </div>
@@ -94,7 +94,7 @@ C-zijde convex («boemerang»); exine 1,5–2,5 µm, columellae kort/dun.
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("eryngium_campestre", "assets/images/by-taxon/eryngium_campestre/eryngium_campestre_1.png") }}
-      <figcaption>*E. campestre* (kruisdistel)</figcaption>
+      <figcaption><em>E. campestre</em> (kruisdistel)</figcaption>
     </figure>
   </div>
 </div>
@@ -115,7 +115,7 @@ C-zijde recht; A-/I-contour vaak ingebogen. Beug: o.a. *Daucus*, *Chaerophyllum 
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("daucus_carota", "assets/images/by-taxon/daucus_carota/daucus_carota_1.png") }}
-      <figcaption>*Daucus* (wilde wortel)</figcaption>
+      <figcaption><em>Daucus</em> (wilde wortel)</figcaption>
     </figure>
   </div>
 </div>
@@ -137,19 +137,19 @@ Niveau 1-anker: `anthriscus_typ` (beelden van *A. sylvestris*). Beug splitst *An
   <div class="pid-scale-row pid-scale-row--snug">
     <figure class="pid-scale-item">
       {{ pollen_img("anthriscus_sylvestris", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_1.png") }}
-      <figcaption>*A. sylvestris* (fluitenkruid)</figcaption>
+      <figcaption><em>A. sylvestris</em> (fluitenkruid)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("anthriscus_typ", "assets/images/by-taxon/anthriscus_sylvestris/anthriscus_sylvestris_3.png") }}
-      <figcaption>*Anthriscus* typ (Berenklauw type)</figcaption>
+      <figcaption><em>Anthriscus</em> typ (Berenklauw type)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("carum_carvi", "assets/images/by-taxon/carum_carvi/carum_carvi_1.png") }}
-      <figcaption>*Carum* (karwijzaad)</figcaption>
+      <figcaption><em>Carum</em> (karwijzaad)</figcaption>
     </figure>
     <figure class="pid-scale-item">
       {{ pollen_img("foeniculum_vulgaris", "assets/images/by-taxon/foeniculum_vulgaris/foeniculum_vulgaris_1.png") }}
-      <figcaption>*Foeniculum* (venkel)</figcaption>
+      <figcaption><em>Foeniculum</em> (venkel)</figcaption>
     </figure>
   </div>
 </div>

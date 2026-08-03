@@ -42,10 +42,7 @@ abelmoschus_esculentus:
     tstebler: not in the database
     paldat: not in the database
     waarneming: https://waarneming.nl/search/?q=abelmoschus+esculentus
-  images:
-  - path: assets/images/by-taxon/abelmoschus_esculentus/abelmoschus_esculentus_2.png
-    kind: by_taxon
-    source: by_taxon
+  images: []
   is_secondary_contributor:
 acacia_dealbata:
   name:

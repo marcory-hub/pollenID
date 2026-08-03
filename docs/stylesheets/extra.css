@@ -69,6 +69,15 @@
   vertical-align: middle;
 }
 
+/* Material defaults figcaption to italic; keep upright except Latin <em>. */
+.md-typeset figcaption {
+  font-style: normal;
+}
+
+.md-typeset figcaption em {
+  font-style: italic;
+}
+
 .pid-scale-caption,
 .md-typeset .pid-scale-item figcaption {
   display: block;
@@ -79,11 +88,16 @@
   font-size: 0.72rem;
   line-height: 1.25;
   text-align: center;
+  font-style: normal;
   color: var(--md-default-fg-color--light);
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: break-word;
   overflow: hidden;
+}
+
+.pid-scale-caption em {
+  font-style: italic;
 }
 
 /* Pollentabel (van der Ham) interactief */
