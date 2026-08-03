@@ -1166,7 +1166,8 @@
     function revealFeatureName() {
       var cf = state.currentFeature;
       if (!cf) return;
-      var allOk = state.featureCorrect >= FEATURE_FIELDS.length;
+      var need = FEATURE_FIELDS.length + 1;
+      var allOk = state.featureCorrect >= need;
       recordAnswer(featureProgressKey(cf.slug), allOk, cf.image);
       markImageSeen(cf.slug, cf.image);
       var ctrl = controlledForSlug(cf.slug) || {};
@@ -1180,7 +1181,7 @@
           esc(labelForSlug(cf.slug) || cf.slug) +
           "</strong><br/>" +
           esc(bits.join(" · ")) +
-          (allOk ? "" : "<br/>Niet alle kenmerken juist; naam alsnog getoond.") +
+          (allOk ? "" : "<br/>Niet alles juist; juiste naam en kenmerken hierboven.") +
           "</p>"
       );
       renderInfo(cf.slug);
@@ -1189,7 +1190,60 @@
         mcqEl.replaceChildren();
       }
       setMcqStatus("");
-      if (featurePromptEl) featurePromptEl.textContent = "Naam onthuld. Kies Volgende.";
+      if (featurePromptEl) featurePromptEl.textContent = "Klaar. Kies Volgende.";
+    }
+
+    function buildFeatureNameMcq() {
+      if (!mcqEl || !state.currentFeature) return;
+      mcqEl.replaceChildren();
+      var cf = state.currentFeature;
+      var correctSlug = cf.slug;
+      var correctLabel = labelForSlug(correctSlug) || correctSlug;
+      var opts = [{ slug: correctSlug, text: correctLabel, correct: true }];
+      var pool = shuffle(
+        (state.featurePool || []).filter(function (s) {
+          return s && s !== correctSlug;
+        })
+      );
+      while (opts.length < 4 && pool.length) {
+        var s = pool.pop();
+        var lab = labelForSlug(s) || s;
+        if (
+          !opts.some(function (o) {
+            return o.text === lab || o.slug === s;
+          })
+        ) {
+          opts.push({ slug: s, text: lab, correct: false });
+        }
+      }
+      opts = shuffle(opts);
+      if (featurePromptEl) {
+        featurePromptEl.textContent = "Welke naam hoort bij dit beeld?";
+      }
+      setStatus(
+        '<p class="admonition info"><strong>Laatste stap.</strong> Kies de juiste naam (4 opties).</p>'
+      );
+      opts.forEach(function (o) {
+        var b = document.createElement("button");
+        b.type = "button";
+        b.className = "md-button";
+        b.innerHTML = esc(o.text);
+        b.style.textAlign = "left";
+        b.style.whiteSpace = "normal";
+        b.addEventListener("click", function () {
+          if (o.correct) {
+            state.featureCorrect += 1;
+            setMcqStatus("<strong>Juist.</strong>");
+          } else {
+            setMcqStatus(
+              "<strong>Onjuist.</strong> Juist was: " + esc(correctLabel)
+            );
+          }
+          revealFeatureName();
+        });
+        mcqEl.appendChild(b);
+      });
+      mcqEl.hidden = false;
     }
 
     function buildFeatureMcq() {
@@ -1198,23 +1252,21 @@
       var cf = state.currentFeature;
       var field = FEATURE_FIELDS[state.featureStep];
       if (!field) {
-        revealFeatureName();
+        buildFeatureNameMcq();
         return;
       }
       var ctrl = controlledForSlug(cf.slug);
       var correctCode = ctrl[field];
       var vocab = FEATURE_VOCAB[field] || {};
       var codes = Object.keys(vocab);
-      var opts = [{ code: correctCode, correct: true }];
-      var distractors = shuffle(
-        codes.filter(function (c) {
-          return c !== correctCode;
+      if (correctCode && codes.indexOf(correctCode) === -1) {
+        codes = codes.concat([correctCode]);
+      }
+      var opts = shuffle(
+        codes.map(function (c) {
+          return { code: c, correct: c === correctCode };
         })
       );
-      while (opts.length < 4 && distractors.length) {
-        opts.push({ code: distractors.pop(), correct: false });
-      }
-      opts = shuffle(opts);
       if (featurePromptEl) {
         var titles = {
           vorm: "Welke vorm zie je?",
@@ -1244,7 +1296,7 @@
           }
           state.featureStep += 1;
           if (state.featureStep >= FEATURE_FIELDS.length) {
-            revealFeatureName();
+            buildFeatureNameMcq();
           } else {
             buildFeatureMcq();
           }
@@ -1298,7 +1350,7 @@
       state.featureCorrect = 0;
       if (inputEl) inputEl.value = "";
       setStatus(
-        '<p class="admonition info"><strong>Kenmerken eerst.</strong> Naam volgt na sculptuur, apertuur en grootteband.</p>'
+        '<p class="admonition info"><strong>Kenmerken eerst.</strong> Vorm, apertuur, sculptuur, grootteband (alle opties); daarna naam (4 opties).</p>'
       );
       setImage(ex.image);
       applyImageWidth({ imageWidthPx: ex.imageWidthPx });
