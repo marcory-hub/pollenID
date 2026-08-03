@@ -198,7 +198,7 @@
     },
     vorm: {
       rond: "rond / sferoïd",
-      driehoekig: "driehoekig (pool)",
+      driehoekig: "driehoekig (polair aanzicht)",
       prolaat: "prolaat / ovaal",
       oblaat: "oblaat",
     },
