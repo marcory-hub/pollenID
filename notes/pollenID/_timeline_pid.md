@@ -7,11 +7,24 @@
 ---
 
 # Working on
-- add images to kerkvliet-determinatietabel
-- add pollen in nederlandse honing
-- make names and sizes uniform
-- translate beug completely (and make it readable with single lines)
+[[pid todo]]
+[[pid images zoeken]]
+[[polygama myrtifolia]]
+
 # Done
+
+
+2026-06-29
+- 
+2026-05-10
+- beug 1
+2026-05-08
+- deduplicated pollen.yaml
+- improved willekeurig
+- nederlandse honing SoT
+2026-04-15
+- make [[cio metadata prompt]] with SoT for each pollen
+- [[pid prompt snippets]]
 2026-04-14
 - add diverse to kerkvliet determinatietabel
 - fixed image size of pollen in calluna vulgaris pollenpage
@@ -23,7 +36,7 @@
 - add images
 - [[pid synonym audit]]
 - add `willekeurig`
-- make layout pollen-page (see calluna) and skill `pollen-page`
+- make layout pollen-page (see calluna) and skill `polle[meetingn-page`
 2026-04-09
 - add images to eide and reitsma
 2026-03-03

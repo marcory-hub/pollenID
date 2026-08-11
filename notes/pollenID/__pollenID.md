@@ -14,7 +14,8 @@
 
 [[_github_pid]]
 
-
+[[pid scripts]]
+[[pid prompt snippets]]
 
 
 ---
