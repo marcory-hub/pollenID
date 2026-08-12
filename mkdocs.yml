@@ -51,7 +51,7 @@ extra_javascript:
   - javascripts/pid-core.js?v=2026-08-12
   - javascripts/pollentabel.js?v=2026-08-03-stepback
   - javascripts/kerkvliet-determinatietabel.js?v=2026-05-07-2028
-  - javascripts/palynoquest.js?v=2026-08-12-willekeurig-pool
+  - javascripts/palynoquest.js?v=2026-08-12-name-mcq
 
 nav:
   - Home: index.md
@@ -88,7 +88,6 @@ nav:
       - "Ericaceae (heidefamilie)": herkennen/ericaceae-beugtypen/_index.md
       - "Cornaceae (kornoeljefamilie)": herkennen/cornaceae-beugtypen/_index.md
       - "Caryophyllaceae (anjerfamilie)": herkennen/caryophyllaceae-beugtypen/_index.md
-  - Willekeurig: naslag/palynoquest.md
   - Monofloraal:
       - Overzicht: monoflorale-honing-pollen/_index.md
       - Zonnebloem (Helianthus annuus): monoflorale-honing-pollen/zonnebloemhoning.md

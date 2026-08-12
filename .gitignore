@@ -48,6 +48,7 @@ docs/assets/manifests/keys.json
 docs/assets/manifests/images.json
 docs/assets/manifests/palynoquest-items.json
 docs/assets/manifests/lookalike-groups.json
+docs/assets/manifests/morph-neighbours.json
 temp/reports/
 
 # Search index and temporary build files

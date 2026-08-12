@@ -23,7 +23,6 @@ Zelfde kenmerken-stappen als op [Pollenkenmerken](../herkennen/pollenkenmerken/_
       <div data-pq-wrongpreview hidden style="margin-top: 8px;"></div>
       <p style="margin: 12px 0 0 0; display: flex; flex-wrap: wrap; gap: 8px;">
         <button data-pq-next type="button" class="md-button">Volgende (random)</button>
-        <button data-pq-export-confusions type="button" class="md-button" title="Kopieer lokale verwarringen als JSON">Exporteer verwarringen</button>
       </p>
       <div data-pq-info hidden style="margin-top: 12px;"></div>
     </div>

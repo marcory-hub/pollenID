@@ -121,7 +121,7 @@
   }
 
   function loadAll() {
-    // Kenmerken / lookalike need pollen (+ optional lookalike manifest).
+    // Kenmerken / lookalike / name-MCQ need pollen (+ optional manifests).
     // keys/items are optional so a missing quiz manifest does not blank the whole UI.
     return Promise.all([
       fetchJson("assets/manifests/keys.json").catch(function () {
@@ -134,8 +134,17 @@
       fetchJson("assets/manifests/lookalike-groups.json").catch(function () {
         return { pairs: [], groups: {} };
       }),
+      fetchJson("assets/manifests/morph-neighbours.json").catch(function () {
+        return { version: 1, neighbours: {} };
+      }),
     ]).then(function (xs) {
-      return { keys: xs[0], items: xs[1], pollen: xs[2], lookalikes: xs[3] };
+      return {
+        keys: xs[0],
+        items: xs[1],
+        pollen: xs[2],
+        lookalikes: xs[3],
+        morphNeighbours: xs[4],
+      };
     });
   }
 
@@ -246,13 +255,13 @@
     if (!isFinite(lv) || lv < 1) lv = 1;
     if (lv > 3) lv = 3;
     lv = Math.floor(lv);
-    // Numeric tiers use the Kenmerken drill (legacy open-name quiz removed from Willekeurig UI).
+    // Numeric tiers: name-MCQ (image + 4 names). Kenmerken drill uses kenmerken / kenmerken-N.
     return {
-      kenmerkenMode: true,
+      kenmerkenMode: false,
       lookalikeMode: false,
       lookalikeDiff: "all",
       level: lv,
-      value: lv === 1 ? "kenmerken" : "kenmerken-" + lv,
+      value: String(lv),
     };
   }
 
@@ -330,6 +339,7 @@
       keys: [],
       items: [],
       pool: [],
+      namePool: [],
       featurePool: [],
       level: 1,
       kenmerkenMode: false,
@@ -337,8 +347,10 @@
       lookalikeDiff: "all",
       lookalikePairs: [],
       lookalikePool: [],
+      morphNeighbours: {},
       currentLookalike: null,
       currentFeature: null,
+      currentName: null,
       featureStep: 0,
       featureCorrect: 0,
       progress: {},
@@ -727,6 +739,88 @@
       return state.featurePool;
     }
 
+    function taxonInNameLevel(slug, rec, level) {
+      if (!rec || typeof rec !== "object") return false;
+      if (!imagesForSlug(slug).length) return false;
+      var rank = rec.learning_priority_rank;
+      var hasRank = typeof rank === "number" && isFinite(rank) && rank > 0;
+      if (level <= 1) return hasRank && rank <= LEVEL1_MAX_RANK;
+      if (level === 2) return hasRank && rank > LEVEL1_MAX_RANK;
+      return true;
+    }
+
+    function buildNamePool() {
+      var lv = clampLevel(state.level || 1);
+      var slugs = [];
+      Object.keys(state.pollen || {}).forEach(function (slug) {
+        if (taxonInNameLevel(slug, state.pollen[slug], lv)) slugs.push(slug);
+      });
+      state.namePool = slugs;
+      return state.namePool;
+    }
+
+    function apertureFamily(slug) {
+      var rec = state.pollen[slug];
+      if (!rec || typeof rec !== "object") return "";
+      var raw = "";
+      var c = rec.controlled;
+      if (c && typeof c === "object" && c.apertuur) raw = String(c.apertuur);
+      else if (!isMissingValue(rec.aperture)) raw = String(rec.aperture);
+      raw = raw.toLowerCase();
+      if (!raw) return "";
+      if (raw.indexOf("fenestra") >= 0) return "fenestraat";
+      if (raw.indexOf("inapertur") >= 0) return "inaperturaat";
+      if (raw.indexOf("tetrade") >= 0 || raw.indexOf("tetrad") >= 0) return "tetrade";
+      if (raw.indexOf("polyade") >= 0 || raw.indexOf("polyad") >= 0) return "polyade";
+      if (raw.indexOf("colpor") >= 0) return "colpor";
+      if (raw.indexOf("colp") >= 0) return "colp";
+      if (raw.indexOf("por") >= 0) return "por";
+      var m = raw.match(/[a-z]+/);
+      return m ? m[0] : "";
+    }
+
+    function pickNameDistractors(correctSlug, count) {
+      var need = typeof count === "number" && count > 0 ? count : 3;
+      var used = {};
+      used[correctSlug] = true;
+      var out = [];
+      function tryAdd(slug) {
+        if (!slug || used[slug]) return false;
+        if (!imagesForSlug(slug).length) return false;
+        used[slug] = true;
+        out.push(slug);
+        return true;
+      }
+      var neigh =
+        (state.morphNeighbours && state.morphNeighbours[correctSlug]) || [];
+      var i;
+      for (i = 0; i < neigh.length && out.length < need; i += 1) {
+        tryAdd(neigh[i]);
+      }
+      if (out.length < need) {
+        var fam = apertureFamily(correctSlug);
+        if (fam) {
+          var sameAp = [];
+          Object.keys(state.pollen || {}).forEach(function (slug) {
+            if (used[slug]) return;
+            if (!imagesForSlug(slug).length) return;
+            if (apertureFamily(slug) === fam) sameAp.push(slug);
+          });
+          sameAp = shuffle(sameAp);
+          while (out.length < need && sameAp.length) tryAdd(sameAp.pop());
+        }
+      }
+      if (out.length < need) {
+        var levelPool = shuffle((state.namePool || []).slice());
+        while (out.length < need && levelPool.length) tryAdd(levelPool.pop());
+      }
+      if (out.length < need) {
+        var any = shuffle(Object.keys(state.pollen || {}));
+        while (out.length < need && any.length) tryAdd(any.pop());
+      }
+      return out;
+    }
+
     function itemInLevel(item, level) {
       if (level >= 3) return true;
       var slug = slugForCurrentItem(item);
@@ -890,37 +984,27 @@
           " paren in hoogste box</span>";
         return;
       }
-      var pool = state.pool || [];
-      var slugs = {};
-      pool.forEach(function (it) {
-        var s = slugForCurrentItem(it);
-        if (s) slugs[s] = true;
-      });
-      var keys = Object.keys(slugs);
-      var total = keys.length;
+      var pool = state.namePool || [];
+      var total = pool.length;
       var mastered = 0;
-      keys.forEach(function (s) {
+      pool.forEach(function (s) {
         if (boxForSlug(s) >= BOX_MAX) mastered += 1;
       });
       var levelLabel =
         state.level === 1
           ? "Vaak in NL-honing"
           : state.level === 2
-            ? "Alle prioriteit"
+            ? "Overige prioriteit"
             : "Alles";
       progressEl.innerHTML =
         '<span class="md-typeset">' +
-        "<strong>Niveau " +
-        esc(String(state.level)) +
-        " (" +
+        "<strong>Naam (" +
         esc(levelLabel) +
         ")</strong>: " +
         esc(String(mastered)) +
         "/" +
         esc(String(total)) +
-        " taxa in hoogste box · " +
-        esc(String(pool.length)) +
-        " quizbeelden</span>";
+        " taxa in hoogste box</span>";
     }
 
     function applyLevel(raw, restart) {
@@ -933,11 +1017,6 @@
         parsed.kenmerkenMode = false;
         parsed.lookalikeMode = true;
       }
-      // Willekeurig UI has no legacy open-name tier; never leave both modes off
-      // (stale localStorage "1"/"2"/"3" + old cached JS showed Niveau N · 0 quizbeelden).
-      if (!parsed.lookalikeMode) {
-        parsed.kenmerkenMode = true;
-      }
       state.kenmerkenMode = !!parsed.kenmerkenMode;
       state.lookalikeMode = !!parsed.lookalikeMode;
       state.lookalikeDiff = parsed.lookalikeDiff;
@@ -949,8 +1028,10 @@
       syncModePanels();
       if (state.lookalikeMode) {
         buildLookalikePool();
-      } else {
+      } else if (state.kenmerkenMode) {
         buildFeaturePool();
+      } else {
+        buildNamePool();
       }
       renderProgress();
       if (restart) newQuestion();
@@ -1122,6 +1203,29 @@
           });
           opts = shuffle(opts).slice(0, 2);
         }
+      } else if (state.currentName && state.currentName.slug) {
+        var cn = state.currentName;
+        var rightText = labelForSlug(cn.slug) || cn.slug;
+        opts.push({
+          text: rightText,
+          correct: true,
+          kind: "name",
+          image: cn.image,
+          imageWidthPx: cn.imageWidthPx,
+          chosenSlug: cn.slug,
+        });
+        pickNameDistractors(cn.slug, 3).forEach(function (dSlug) {
+          var dex = pickImageForSlug(dSlug, false);
+          opts.push({
+            text: labelForSlug(dSlug) || dSlug,
+            correct: false,
+            kind: "name",
+            image: dex ? dex.image : null,
+            imageWidthPx: dex ? dex.imageWidthPx : null,
+            chosenSlug: dSlug,
+          });
+        });
+        opts = shuffle(opts).slice(0, 4);
       } else {
         var anchorSlug = slugForCurrentItem(item);
         if (item && item.strict && item.strict.endpointText) {
@@ -1201,21 +1305,43 @@
             }
             return;
           }
-          setMcqStatus(
-            o.correct
-              ? "<strong>Juist.</strong>"
-              : "<strong>Onjuist.</strong> Vergelijk met het beeld hieronder."
-          );
+          var correctNameLabel = "";
+          if (state.currentName && state.currentName.slug) {
+            correctNameLabel = labelForSlug(state.currentName.slug) || state.currentName.slug;
+          } else if (state.lookalikeMode && state.currentLookalike) {
+            correctNameLabel =
+              labelForSlug(state.currentLookalike.shownSlug) ||
+              state.currentLookalike.shownSlug;
+          }
+          if (state.currentName && state.currentName.slug) {
+            setMcqStatus(
+              o.correct
+                ? "<strong>Juist.</strong> " + esc(correctNameLabel)
+                : "<strong>Onjuist.</strong> Juiste naam: " +
+                    esc(correctNameLabel) +
+                    ". Vergelijk met het beeld hieronder."
+            );
+          } else {
+            setMcqStatus(
+              o.correct
+                ? "<strong>Juist.</strong>"
+                : "<strong>Onjuist.</strong> Vergelijk met het beeld hieronder."
+            );
+          }
           var progressSlug =
             state.lookalikeMode && state.currentLookalike
               ? state.currentLookalike.pairKey
-              : slugForCurrentItem(state.current);
+              : state.currentName && state.currentName.slug
+                ? state.currentName.slug
+                : slugForCurrentItem(state.current);
           var imagePath =
             state.lookalikeMode && state.currentLookalike
               ? state.currentLookalike.image
-              : state.current
-                ? state.current.image
-                : null;
+              : state.currentName && state.currentName.image
+                ? state.currentName.image
+                : state.current
+                  ? state.current.image
+                  : null;
           recordAnswer(progressSlug, !!o.correct, imagePath);
           if (
             state.lookalikeMode &&
@@ -1234,7 +1360,9 @@
             renderInfo(
               state.lookalikeMode && state.currentLookalike
                 ? state.currentLookalike.shownSlug
-                : slugForCurrentItem(state.current)
+                : state.currentName && state.currentName.slug
+                  ? state.currentName.slug
+                  : slugForCurrentItem(state.current)
             );
           } else {
             clearInfo();
@@ -1534,6 +1662,73 @@
       renderProgress();
     }
 
+    function newNameQuestion() {
+      state.currentLookalike = null;
+      state.currentFeature = null;
+      var pool = state.namePool || [];
+      if (!pool.length) {
+        state.currentName = null;
+        state.current = null;
+        setStatus(
+          '<p class="admonition warning"><strong>Geen taxa met beelden in dit niveau.</strong></p>'
+        );
+        if (mcqEl) {
+          mcqEl.hidden = true;
+          mcqEl.replaceChildren();
+        }
+        renderProgress();
+        return;
+      }
+      var slug = pickWeightedSlug(pool, function (s) {
+        return s;
+      });
+      if (!slug) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen quiz-taxon beschikbaar.</strong></p>'
+        );
+        renderProgress();
+        return;
+      }
+      var preferUnseen = boxForSlug(slug) >= 3;
+      var ex = pickImageForSlug(slug, preferUnseen);
+      if (!ex || !ex.image) {
+        setStatus(
+          '<p class="admonition warning"><strong>Geen beeld voor dit taxon.</strong> Probeer Volgende.</p>'
+        );
+        renderProgress();
+        return;
+      }
+      state.currentName = {
+        slug: slug,
+        image: ex.image,
+        imageWidthPx: ex.imageWidthPx,
+      };
+      state.current = {
+        image: ex.image,
+        imageWidthPx: ex.imageWidthPx,
+      };
+      markImageSeen(slug, ex.image);
+      if (inputEl) inputEl.value = "";
+      setStatus(
+        '<p class="admonition info"><strong>Welke naam hoort bij dit beeld?</strong></p>'
+      );
+      setImage(ex.image);
+      applyImageWidth({ imageWidthPx: ex.imageWidthPx });
+      clearGallery();
+      clearWrongPreview();
+      clearInfo();
+      setMcqStatus("");
+      if (pathEl) {
+        pathEl.hidden = true;
+        pathEl.replaceChildren();
+      }
+      if (jumpEl) jumpEl.hidden = true;
+      if (backtrackEl) backtrackEl.hidden = true;
+      buildMcq(null);
+      if (mcqEl) mcqEl.hidden = false;
+      renderProgress();
+    }
+
     function newQuestion() {
       if (state.kenmerkenMode) {
         newFeatureQuestion();
@@ -1543,60 +1738,7 @@
         newLookalikeQuestion();
         return;
       }
-      state.currentLookalike = null;
-      state.currentFeature = null;
-      var pool = state.pool || [];
-      if (!pool.length) {
-        pool = state.items || [];
-      }
-      state.current = pickWeighted(pool);
-      state.diverged = false;
-      state.expectedPath = state.current && state.current.expectedPath ? state.current.expectedPath : null;
-      state.expectedStepIdx = 0;
-      state.pendingJump = false;
-      state.selectedKeyJsonUrl = null;
-      if (keyWrapEl) {
-        keyWrapEl.replaceChildren();
-      }
-      if (!state.current) {
-        setStatus(
-          '<p class="admonition warning"><strong>Geen quiz-items in dit niveau.</strong> Kies een hoger niveau of voeg meer beelden toe.</p>'
-        );
-        renderProgress();
-        return;
-      }
-      if (inputEl) inputEl.value = "";
-      setStatus("");
-      setImage(state.current.image);
-      applyImageWidth(state.current);
-      renderGallery(state.current);
-      // Keep MCQ hidden until user explicitly reveals it.
-      if (mcqEl) {
-        mcqEl.hidden = true;
-        mcqEl.replaceChildren();
-      }
-      setMcqStatus("");
-      clearWrongPreview();
-      clearInfo();
-      // Gallery stays visible for this question.
-      if (pathEl) {
-        pathEl.hidden = true;
-        pathEl.replaceChildren();
-      }
-      if (jumpEl) jumpEl.hidden = true;
-      if (backtrackEl) backtrackEl.hidden = true;
-
-      // Preselect recommended key for this item (but don't auto-load).
-      var rec = state.current && state.current.strict ? state.current.strict.keyJsonUrl : "";
-      if (keySelEl && rec) {
-        for (var i = 0; i < keySelEl.options.length; i += 1) {
-          if (keySelEl.options[i].value === rec) {
-            keySelEl.selectedIndex = i;
-            break;
-          }
-        }
-      }
-      renderProgress();
+      newNameQuestion();
     }
 
     function renderExpectedPath() {
@@ -1871,6 +2013,11 @@
         state.pollen =
           pollenRoot && typeof pollenRoot === "object" && !Array.isArray(pollenRoot) ? pollenRoot : {};
         state.imageToSlug = buildImageToSlugFromPollen(state.pollen);
+        state.morphNeighbours = {};
+        var mn = all.morphNeighbours || {};
+        if (mn && typeof mn === "object" && mn.neighbours && typeof mn.neighbours === "object") {
+          state.morphNeighbours = mn.neighbours;
+        }
         state.lookalikePairs = [];
         var la = all.lookalikes || {};
         (la.pairs || []).forEach(function (p) {

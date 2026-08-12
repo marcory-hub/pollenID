@@ -1,8 +1,8 @@
 # Vaak in Nederlandse honing
 
-Kenmerken-quiz (vaak in NL-honing). Volledige quiz: [Willekeurig](../../naslag/palynoquest.md).
+Naam-quiz (vaak in NL-honing). Kenmerken-drill: [Pollenkenmerken](../pollenkenmerken/_index.md).
 
-<div data-palynoquest data-pq-lock-level="kenmerken" class="md-typeset">
+<div data-palynoquest data-pq-lock-level="1" class="md-typeset">
   <p data-pq-progress style="margin: 0 0 12px 0;"></p>
   <div style="display: grid; grid-template-columns: minmax(260px, 420px) minmax(320px, 1fr); gap: 12px 16px; align-items: start;">
     <div style="max-width: 420px;">
@@ -17,12 +17,6 @@ Kenmerken-quiz (vaak in NL-honing). Volledige quiz: [Willekeurig](../../naslag/p
 
     <div style="min-width: min(320px, 100%);">
       <p data-pq-status style="margin: 0 0 12px 0;"></p>
-
-      <div data-pq-kenmerken-panel>
-        <h3 style="margin-top: 0;">Kenmerken</h3>
-        <p data-pq-feature-prompt style="margin: 0 0 8px 0;">Welk kenmerk zie je?</p>
-      </div>
-
       <p data-pq-mcqstatus style="margin: 0 0 8px 0;"></p>
       <div data-pq-mcq hidden style="display: flex; flex-wrap: wrap; gap: 8px;"></div>
     </div>

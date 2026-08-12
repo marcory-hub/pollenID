@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Morph lookalike clustering (v3): preferred key size + path-gate.
 
-Writes temp/lookalike_calculation.md only (no YAML/key promotion).
+Writes:
+  - temp/lookalike_calculation.md (report; no YAML/key promotion)
+  - docs/assets/manifests/morph-neighbours.json (closest imaged neighbours)
 
 v2: conflict mask must not erase Beug/Eide/Reitsma outcome sizes.
 v3: keep species-matched outcome size for mid; keep PK path-gates separately and
@@ -15,6 +17,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+import time
 from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -31,6 +34,8 @@ REVIEW_PATH = REPO / "data" / "lookalike_review.yaml"
 CONFLICT_PATH = REPO / "temp" / "reports" / "key-path-conflicts.md"
 KEYS_DIR = REPO / "docs" / "keys"
 OUT_PATH = REPO / "temp" / "lookalike_calculation.md"
+NEIGHBOURS_PATH = REPO / "docs" / "assets" / "manifests" / "morph-neighbours.json"
+NEIGHBOURS_MAX = 8
 
 RE_NUM = re.compile(r"\d+(?:\.\d+)?")
 MORPH_TOKEN_RE = re.compile(
@@ -329,6 +334,8 @@ def intervals_overlap(a: SizeInterval, b: SizeInterval) -> bool:
 
 def parse_conflict_mask(path: Path) -> Dict[str, Set[str]]:
     masks: Dict[str, Set[str]] = defaultdict(set)
+    if not path.is_file():
+        return {}
     for line in path.read_text(encoding="utf-8").splitlines():
         if not line.startswith("| `"):
             continue
@@ -347,6 +354,46 @@ def parse_conflict_mask(path: Path) -> Dict[str, Set[str]]:
         if "morphology" in claim or "contradictory path morphology" in claim:
             masks[slug].add("sculpt")
     return dict(masks)
+
+
+def taxa_with_images(data: Dict[str, Any]) -> Set[str]:
+    """Slugs that have at least one image path in YAML."""
+    out: Set[str] = set()
+    for slug, entry in data.items():
+        if not isinstance(entry, dict):
+            continue
+        imgs = entry.get("images")
+        if not isinstance(imgs, list):
+            continue
+        for im in imgs:
+            if isinstance(im, dict) and isinstance(im.get("path"), str) and im["path"].strip():
+                out.add(str(slug))
+                break
+    return out
+
+
+def build_neighbours_json(
+    clusterable: List[str],
+    dist_map: Dict[Tuple[str, str], float],
+    imaged: Set[str],
+    max_n: int = NEIGHBOURS_MAX,
+) -> Dict[str, Any]:
+    """Closest morph neighbours per imaged slug (closest first, max_n)."""
+    neighbours: Dict[str, List[str]] = {}
+    imaged_clusterable = [s for s in clusterable if s in imaged]
+    for a in imaged_clusterable:
+        pairs: List[Tuple[float, str]] = []
+        for b in imaged_clusterable:
+            if a == b:
+                continue
+            key = (a, b) if a < b else (b, a)
+            d = dist_map.get(key)
+            if d is None:
+                continue
+            pairs.append((d, b))
+        pairs.sort(key=lambda x: (x[0], x[1]))
+        neighbours[a] = [b for _, b in pairs[:max_n]]
+    return {"version": 1, "neighbours": neighbours}
 
 
 def collect_pollen_keys_from_choice(ch: Dict[str, Any]) -> List[str]:
@@ -1159,10 +1206,15 @@ def calibrate_thresholds(
 
 
 def main() -> None:
+    t0 = time.perf_counter()
     print("Loading YAML…")
     data = yaml.safe_load(YAML_PATH.read_text(encoding="utf-8"))
     assert isinstance(data, dict)
+    imaged = taxa_with_images(data)
+    print(f"  taxa with images: {len(imaged)}")
     print("Parsing conflict mask…")
+    if not CONFLICT_PATH.is_file():
+        print(f"  note: {CONFLICT_PATH.relative_to(REPO)} missing; using empty mask")
     masks = parse_conflict_mask(CONFLICT_PATH)
     print(f"  masked taxa: {len(masks)}")
     print("Scanning keys…")
@@ -1208,6 +1260,17 @@ def main() -> None:
                 dist_map[key] = d
                 evid_map[key] = ev
 
+    neighbours_payload = build_neighbours_json(clusterable, dist_map, imaged)
+    NEIGHBOURS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    NEIGHBOURS_PATH.write_text(
+        json.dumps(neighbours_payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    print(
+        f"Wrote {NEIGHBOURS_PATH.relative_to(REPO)} "
+        f"({len(neighbours_payload['neighbours'])} imaged taxa with neighbour lists)"
+    )
+
     tight_t, loose_t, cal_notes = calibrate_thresholds(feats, decided, dist_map)
     print("Calibration:", cal_notes)
     linkage_note = (
@@ -1235,7 +1298,13 @@ def main() -> None:
     lines.append("# Morph lookalike clustering (one-shot)")
     lines.append("")
     lines.append(f"Generated read-only from `{YAML_PATH.relative_to(REPO)}`, `docs/keys/**`,")
-    lines.append(f"`{CONFLICT_PATH.relative_to(REPO)}`, and `{REVIEW_PATH.relative_to(REPO)}`.")
+    conflict_note = (
+        f"`{CONFLICT_PATH.relative_to(REPO)}`"
+        if CONFLICT_PATH.is_file()
+        else f"`{CONFLICT_PATH.relative_to(REPO)}` (missing; empty mask)"
+    )
+    lines.append(f"{conflict_note}, and `{REVIEW_PATH.relative_to(REPO)}`.")
+    lines.append(f"Also writes `{NEIGHBOURS_PATH.relative_to(REPO)}` for PalynoQuest name-MCQ distractors.")
     lines.append("")
     lines.append("## 1. Method summary")
     lines.append("")
@@ -1245,7 +1314,7 @@ def main() -> None:
     lines.append("- **Size priority:** species-matched Beug/Eide/Reitsma/van der Ham outcome for mid; PK path-gates kept separately and hard-separate when non-overlapping.")
     lines.append("- **Conflict mask:** YAML/Kerkvliet-analytic size masked when cross-key size conflicts exist; dichotomous key sizes still used.")
     lines.append("- **Clustering:** pure-Python complete-linkage cut; " + linkage_note + ".")
-    lines.append("- **Non-goals:** no promotion; write only this report.")
+    lines.append("- **Non-goals:** no promotion; write only this report + morph-neighbours JSON.")
     lines.append("")
     lines.append("## 2. Feature inventory")
     lines.append("")
@@ -1255,6 +1324,8 @@ def main() -> None:
     lines.append(f"| Taxa with ≥1 usable morph feature | {len(feats)} |")
     lines.append(f"| Clusterable | {len(clusterable)} |")
     lines.append(f"| Sparse / appendix | {len(sparse)} |")
+    lines.append(f"| With images (YAML) | {len(imaged)} |")
+    lines.append(f"| Neighbours JSON keys | {len(neighbours_payload['neighbours'])} |")
     lines.append(f"| Conflict-masked (YAML size and/or sculpt) | {len(masks)} |")
     lines.append(f"| Key-enriched taxa | {sum(1 for f in feats.values() if f.key_hits)} |")
     lines.append(f"| With dichotomous key size | {sum(1 for f in feats.values() if f.size_source.startswith(('beug','eide','reitsma','vanderham','path-gate','feagri')))} |")
@@ -1433,9 +1504,12 @@ def main() -> None:
         lines.append(f"- {fmt_member(feats[s])}")
     lines.append("")
 
+    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    elapsed = time.perf_counter() - t0
     print(f"Wrote {OUT_PATH}")
     print(f"SUMMARY tight={len(tight_sets)} loose={len(loose_sets)}")
+    print(f"RUNTIME {elapsed:.1f}s")
     print("TOP TIGHT (ranked):")
     for i, c in enumerate(tight_sets[:12], 1):
         summ = cluster_summary_bits(c, feats)

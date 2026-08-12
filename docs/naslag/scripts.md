@@ -19,7 +19,7 @@ python scripts/<script>.py …
 | Script | Doel |
 | :--- | :--- |
 | `scripts/validate_pollen_site.py` | Controleert YAML-beeldpaden; optioneel rebuild, asset-layout, atlas-links, `mkdocs build` |
-| `scripts/build_docs_data.py` | Export JSON + taxa-detail + species-leaves + manifesten |
+| `scripts/build_docs_data.py` | Export JSON + taxa-detail + species-leaves + manifesten + morph-neighbours |
 | `scripts/export_pollen_json.py` | Exporteert `docs/data/pollen.json` (widgetindex) en `docs/data/taxa/<slug>.json` (links) |
 | `scripts/build_manifests.py` | Bouwt asset-manifesten onder `docs/assets/manifests/` (lookalike-paren inclusief `note`) |
 | `scripts/audit_pollen_assets.py` | Read-only inventaris: beelden, YAML-dekking, pollen_key-resolutie (default: `temp/reports/pollen_asset_audit.json`) |
@@ -51,7 +51,7 @@ python scripts/<script>.py …
 | `scripts/sync_placeholder_taxa_from_keys.py` | Placeholder-taxa vanuit sleutel-JSON |
 | `scripts/lookalike_candidates.py` | Kandidaten-shortlist (grootte ±10 µm, apertuur-bucket, Beug multi-class) → `data/lookalike_review.yaml` |
 | `scripts/promote_lookalikes.py` | Promoveert `status: confirmed` uit review naar `lookalikes` in `data/pollen.yaml` |
-| `scripts/morph_lookalike_cluster.py` | Morph-clustering (YAML + keys, conflict mask, path-gates) → `temp/lookalike_calculation.md` (geen promotie) |
+| `scripts/morph_lookalike_cluster.py` | Morph-clustering (YAML + keys, conflict mask, path-gates) → `temp/lookalike_calculation.md` + `docs/assets/manifests/morph-neighbours.json` (geen promotie) |
 
 ```bash
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --dry-run
