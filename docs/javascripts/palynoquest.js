@@ -3,10 +3,31 @@
   "use strict";
 
   const P = window.PidCore || {};
-  const esc = P.esc;
-  const visibilityLabelNl = P.visibilityLabelNl;
-  const morphWithVisibility = P.morphWithVisibility;
-  const isMissingValue = P.isMissingValue;
+
+  function esc(s) {
+    if (typeof P.esc === "function") return P.esc(s);
+    var d = document.createElement("div");
+    d.textContent = s == null ? "" : String(s);
+    return d.innerHTML;
+  }
+
+  function visibilityLabelNl(code) {
+    if (typeof P.visibilityLabelNl === "function") return P.visibilityLabelNl(code);
+    return "";
+  }
+
+  function morphWithVisibility(text, visibilityCode) {
+    if (typeof P.morphWithVisibility === "function") {
+      return P.morphWithVisibility(text, visibilityCode);
+    }
+    var t = text != null ? String(text).trim() : "";
+    return t;
+  }
+
+  function isMissingValue(v) {
+    if (typeof P.isMissingValue === "function") return P.isMissingValue(v);
+    return v == null || String(v).trim() === "" || String(v).trim() === "-";
+  }
 
   function qs(root, sel) {
     return root.querySelector(sel);
@@ -267,18 +288,37 @@
     return parts[0] + "_" + parts[1];
   }
 
+  function slugQuizScore(rec) {
+    if (!rec || typeof rec !== "object") return 0;
+    var score = 0;
+    var rank = rec.learning_priority_rank;
+    if (typeof rank === "number" && isFinite(rank) && rank > 0) score += 1000 - Math.min(rank, 999);
+    var c = rec.controlled;
+    if (c && typeof c === "object" && c.vorm && c.sculptuur && c.apertuur && c.grootteband) {
+      score += 100;
+    }
+    return score;
+  }
+
   function buildImageToSlugFromPollen(pollen) {
     var map = {};
+    var scores = {};
     if (!pollen || typeof pollen !== "object") return map;
     Object.keys(pollen).forEach(function (slug) {
       var rec = pollen[slug];
       if (!rec || typeof rec !== "object") return;
       var imgs = rec.images;
       if (!Array.isArray(imgs)) return;
+      var score = slugQuizScore(rec);
       imgs.forEach(function (im) {
         if (!im || typeof im.path !== "string" || !im.path) return;
-        var p = im.path.replace(/^\//, "").replace(/^\.\//, "");
-        map[p] = slug;
+        var path = im.path.replace(/^\//, "").replace(/^\.\//, "");
+        // Prefer learning-priority / controlled taxa when several slugs share an image
+        // (e.g. brassica_typ reuses brassica_napus assets).
+        if (!map[path] || score > (scores[path] || 0)) {
+          map[path] = slug;
+          scores[path] = score;
+        }
       });
     });
     return map;
@@ -893,6 +933,11 @@
         parsed.kenmerkenMode = false;
         parsed.lookalikeMode = true;
       }
+      // Willekeurig UI has no legacy open-name tier; never leave both modes off
+      // (stale localStorage "1"/"2"/"3" + old cached JS showed Niveau N · 0 quizbeelden).
+      if (!parsed.lookalikeMode) {
+        parsed.kenmerkenMode = true;
+      }
       state.kenmerkenMode = !!parsed.kenmerkenMode;
       state.lookalikeMode = !!parsed.lookalikeMode;
       state.lookalikeDiff = parsed.lookalikeDiff;
@@ -902,12 +947,10 @@
       }
       if (levelEl && !lockLevel) levelEl.value = parsed.value;
       syncModePanels();
-      if (state.kenmerkenMode) {
-        buildFeaturePool();
-      } else if (state.lookalikeMode) {
+      if (state.lookalikeMode) {
         buildLookalikePool();
       } else {
-        buildPool(state.level);
+        buildFeaturePool();
       }
       renderProgress();
       if (restart) newQuestion();
