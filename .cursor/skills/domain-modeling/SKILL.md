@@ -8,7 +8,7 @@ description: >-
 
 # Domain modeling
 
-Actively sharpen ubiquitous language and record hard decisions as they crystallise during design. Read existing `CONTEXT.md` before adding terms. This is not `notes/` (read-only SoT) and not a dump of `knowledge/` tables.
+Actively sharpen ubiquitous language and record hard decisions as they crystallise during design. Read existing `CONTEXT.md` before adding terms. This is not `notes/` (read-only SoT) and not a dump of YAML or naslag tables.
 
 ## File layout (single context)
 

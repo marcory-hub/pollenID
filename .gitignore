@@ -41,11 +41,14 @@ site/
 
 # Generated docs data (rebuild with: python scripts/build_docs_data.py)
 docs/data/pollen.json
+docs/data/taxa/
+docs/pollen/species/*.md
+!docs/pollen/species/_index.md
 docs/assets/manifests/keys.json
 docs/assets/manifests/images.json
 docs/assets/manifests/palynoquest-items.json
 docs/assets/manifests/lookalike-groups.json
-_build/
+temp/reports/
 
 # Search index and temporary build files
 .cache/

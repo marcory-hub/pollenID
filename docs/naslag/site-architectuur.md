@@ -11,15 +11,17 @@ data/pollen.yaml          docs/**/*.md          docs/keys/**/*.json
         │                        │                         │
         └──────── build_docs_data.py ──────────────────────┘
                          │
-           docs/data/pollen.json
-           docs/assets/manifests/*.json
+           docs/data/pollen.json          docs/data/taxa/<slug>.json
+           docs/pollen/species/*.md       docs/assets/manifests/*.json
                          │
-                  mkdocs build  (+ scripts/mkdocs_macros.py)
+                  mkdocs build  (+ scripts/mkdocs_macros.py → pollen.json)
                          │
               GitHub Actions → GitHub Pages (site/)
 ```
 
 CI: `.github/workflows/ci.yml` — op push naar `main`: `pip install`, `python scripts/build_docs_data.py`, `mkdocs build`, deploy artifact.
+
+ADR: `docs/adr/0003-mkdocs-display-shell.md` (MkDocs shell; split display JSON; gegenereerde species-leaves).
 
 ## Repository
 
@@ -30,6 +32,7 @@ CI: `.github/workflows/ci.yml` — op push naar `main`: `pip install`, `python s
 | `requirements.txt` | MkDocs Material, macros-plugin, PyYAML |
 | `data/pollen.yaml` | **SoT** taxonmetadata (één blok per `pollen_key`) |
 | `docs/` | Alle site-inhoud en statische assets |
+| `temp/reports/` | Lokaal script-uitvoer (gitignored; bijv. asset-audit JSON) |
 | `.github/workflows/ci.yml` | Build + deploy |
 
 
@@ -40,7 +43,7 @@ CI: `.github/workflows/ci.yml` — op push naar `main`: `pip install`, `python s
 | Theme | Material (`navigation.instant`, tabs, sections) |
 | Plugins | `search` (nl), `tags`, `macros` (`module_name: scripts/mkdocs_macros`) |
 | Globale CSS | `docs/stylesheets/extra.css` |
-| Globale JS | `pollentabel.js`, `kerkvliet-determinatietabel.js`, `palynoquest.js` |
+| Globale JS | `pid-core.js`, `pollentabel.js`, `kerkvliet-determinatietabel.js`, `palynoquest.js` |
 | Nav | Expliciete boom; veel pagina's staan **niet** in nav maar worden wel gebouwd |
 
 Pagina's buiten `nav` (linkbaar, geen menupunten): o.a. `docs/pollen/species/`, `docs/pollen/families/`, `docs/lookalikes/`, individuele Beug-deelsleutels.
@@ -54,6 +57,8 @@ Topniveau = `pollen_key` (ASCII slug, meestal `genus_species` of `genus_typ`).
 | `name` | `latin_name`, `dutch_name` |
 | `classification` | `family_latin`, `family_dutch`, … |
 | `size` | `size_smallest`, `size_largest`; optioneel `height_px` |
+| `pollen_class_beug` | Beug Aperturtyp-label (bijv. `Tricolpat-striat`) |
+| `beug_key_paths` | Compacte Beug-flow uit `docs/keys/beug/` (optioneel; alleen bij hits) |
 | `pollen_features` | `shape`, `sculpture`, `aperture`, `ornamentation`, `*_visibility` (`lm_clear` \| `lm_poor` \| `em_only`) |
 | `frequency_in_*_honey` | geografie in YAML, niet als aparte mappen |
 | `images[]` | `path` (docs-relatief `assets/…`), `kind`, `source`; optioneel `width_px` / `height_px` |
@@ -65,7 +70,9 @@ Weergavebreedte site-breed: `display_width_px ≈ round(grootste maat µm × 2,5
 
 | Bestand | Bron | Gebruik |
 | :--- | :--- | :--- |
-| `docs/data/pollen.json` | `export_pollen_json.py` | Runtime-index voor alle JS-widgets; taxonvelden, beelden, `has_taxon_page`, `monofloral_honey_page` |
+| `docs/data/pollen.json` | `export_pollen_json.py` | Runtime-widgetindex: taxonvelden, beelden, `has_taxon_page`, `monofloral_honey_page` (geen atlas-`links`) |
+| `docs/data/taxa/<slug>.json` | idem | Leaf/detail: atlas-`links` en andere build-only velden |
+| `data/species_page_slugs.txt` | handmatig bij nieuwe leaf | Slugs waarvoor `build_docs_data` een species-pagina genereert |
 | `docs/assets/manifests/keys.json` | `build_manifests.py` | PalynoQuest: lijst interactieve sleutels |
 | `docs/assets/manifests/palynoquest-items.json` | idem | Quiz-items (beeld + verwacht label + sleutel-URL) |
 | `docs/assets/manifests/images.json` | idem | Beeldinventaris + gebruik in sleutels |
@@ -83,7 +90,8 @@ docs/
 ├── lookalikes/                       Verwisselbare typen
 ├── monoflorale-honing-pollen/        Honingsoorten (nav)
 ├── pollen/
-│   ├── species/<pollen_key>.md       Taxonpagina's (niet in nav)
+│   ├── species/<pollen_key>.md       Taxonpagina's (gegenereerd; niet in nav)
+│   ├── species/_index.md             Curated index (gecommit)
 │   └── families/<family_slug>.md     Familie-overzichten
 ├── naslag/                           Referentie
 ├── assets/
@@ -105,16 +113,16 @@ Gallerie-tabellen, lookalikes, naslag, monofloraal-proza. Geen JS-mount.
 
 ### 2. Macro-pagina's (`scripts/mkdocs_macros.py`)
 
-Macros lezen `data/pollen.yaml` at build time (Jinja in Markdown):
+Macros lezen `docs/data/pollen.json` at build time (curated gallerie/herkennen; Jinja in Markdown):
 
 | Macro | Functie |
 | :--- | :--- |
-| `pollen("slug", "field")` | Enkel YAML-veld |
+| `pollen("slug", "field")` | Enkel index-veld |
 | `pollen_vis_suffix("slug", "sculpture")` | LM/EM-zichtbaarheidssuffix |
 | `pollen_img("slug", "assets/…")` | Afbeelding met schaalbreedte |
-| `gallery("slug")` | Alle YAML-`images` in `.pid-scale-gallery` |
+| `gallery("slug")` | Alle index-`images` in `.pid-scale-gallery` |
 
-Voorbeeld taxonpagina: `docs/pollen/species/calluna_vulgaris.md` — titel, gallery-macro, kenmerkentabel, YAML-dump, determinatiesleutel-blokken.
+Species-leaves onder `docs/pollen/species/` worden gegenereerd (statische gallery + kenmerken; geen macros). Voorbeeld: `calluna_vulgaris.md` na `build_docs_data.py`.
 
 ### 3. Interactieve sleutels (client-side)
 
@@ -163,7 +171,7 @@ Pagina: [PalynoQuest](palynoquest.md) (nav: Willekeurig). HTML met `data-pq-*` a
 
 ## JavaScript — gedeeld gedrag
 
-Alle drie scripts:
+`pid-core.js` deelt fetch-cache, pollen.json-index en LM/EM-labels. Entrypoints (`pollentabel.js`, `kerkvliet-determinatietabel.js`, `palynoquest.js`):
 
 - Boot via `document$.subscribe` (Material instant nav) of `DOMContentLoaded`
 - Resolven van relatieve `data-json-url` / asset-paden t.o.v. `document.baseURI`
@@ -193,5 +201,7 @@ Sleutel-JSON verwijst niet meer naar inline duplicaten wanneer `pollen_key` in Y
 
 Eindpunten/rijen dragen `pollen_key` (= YAML top-level slug). Runtime vult aan uit `pollen.json`. Legacy inline velden (`latin`, `grootte`, `images`, …) worden nog ondersteund maar zijn uitgefaseerd ten gunste van slimme rijen.
 
-Taxonpagina's kunnen Kerkvliet/Beug/vdH-paden tonen via determinatiesleutel-secties ( gegenereerd met `extract_key_paths.py` — zie [Scripts](scripts.md)).
+Taxonpagina's kunnen Kerkvliet/Beug/vdH-paden tonen via determinatiesleutel-secties (gegenereerd met `extract_key_paths.py` — zie [Scripts](scripts.md)).
+
+Compacte Beug-flows staan ook in YAML als `beug_key_paths` (sync via `scripts/sync_beug_key_paths.py`; zelfde bron als `extract_key_paths.py`, andere vorm).
 

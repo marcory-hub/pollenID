@@ -36,11 +36,12 @@ Installeer de benodigde software (MkDocs en plugins):
 pip install -r requirements.txt
 ```
 
-4. **_pollen.json_ en manifesten genereren**
-Vanuit de hoofdmap:
+4. **_pollen.json_, taxa-detail, species-leaves en manifesten genereren**
+Vanuit de hoofdmap (verplicht vóór `mkdocs serve` / `mkdocs build`):
 ```bash 
 python scripts/build_docs_data.py
 ```
+Genereert o.a. `docs/data/pollen.json`, `docs/data/taxa/<slug>.json`, en `docs/pollen/species/<slug>.md` (slugs uit `data/species_page_slugs.txt`).
 
 5. **Server starten**
 Draai de lokale server vanuit de hoofdmap:
@@ -62,11 +63,11 @@ Open http://127.0.0.1:8000 in je browser.
   - `path`: docs-relatief pad, bijv. `assets/images/by-taxon/mijn_sleutel/mijn_sleutel_1.png`
   - `kind` en `source`: corpus of herkomst (bijv. `pollenwiki`, `paldat`, `beug`, `kerkvliet`)
   - optioneel `width_px` / `height_px` per afbeelding (voor beeldverhouding); **weergavebreedte** voor index/sleutels komt uit export: `display_width_px ≈ round(grootste maat in µm × 2,5)`, default **125 px** als er geen maat is.
-- **Externe atlas-URL’s**: standaard gegenereerd naar `pollen.json` vanuit `latin` (`pollenx`, `tstebler`, `paldat`); overschrijf of zet op `null` via optioneel blok `links:` in YAML waar een URL fout is.
-- **Standaardhoogte voor macro’s**: blok `image:` met `height_px` als er geen per-afbeelding `width_px`/`height_px` staat (zie `scripts/mkdocs_macros.py`).
-- **Pagina met alle YAML-foto’s**: in Markdown `{{ gallery("pollen_key") }}` (macro’s staan in `scripts/mkdocs_macros.py`).
+- **Externe atlas-URL's**: standaard gegenereerd naar `docs/data/taxa/<slug>.json` vanuit `latin` (`pollenx`, `tstebler`, `paldat`); overschrijf of zet op `null` via optioneel blok `links:` in YAML waar een URL fout is.
+- **Species-pagina**: voeg `pollen_key` toe aan `data/species_page_slugs.txt`; pagina-inhoud komt uit `build_docs_data.py` (niet handmatig bewerken onder `docs/pollen/species/`).
+- **Curated gallery**: in Markdown `{{ gallery("pollen_key") }}` op gallerie/herkennen-pagina's (macro leest `pollen.json`).
 - **Na elke YAML-wijziging**: `python scripts/build_docs_data.py` en daarna `mkdocs serve` (of `mkdocs build`).
-- **Niet bewerken**: `docs/data/pollen.json` en `docs/assets/manifests/*.json` worden automatisch gegenereerd.
+- **Niet bewerken**: `docs/data/pollen.json`, `docs/data/taxa/`, `docs/pollen/species/*.md` (behalve `_index.md`), en `docs/assets/manifests/*.json` worden automatisch gegenereerd.
 - **Validatie (aanbevolen)**:
   ```bash
   ./.venv/bin/python scripts/validate_pollen_site.py --rebuild-data --images --links

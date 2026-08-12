@@ -17,14 +17,14 @@ alwaysApply: true
 - **Never reverse my changes.** Do not restore earlier text, code, or formatting I wrote or edited unless I explicitly ask (e.g. "revert", "undo my edit", "put back the old version").
 - **On-disk wins.** If the file on disk differs from what you remember from chat, the file is correct. Re-read before editing; do not overwrite my version with stale context.
 - **Minimal diff only.** Change only what the request requires. Do not "fix", refactor, or normalize unrelated lines I already touched.
-- **Do not "fix" my field values for schema or validator compliance.** If my enum, label, or classification disagrees with the schema or closed list, extend the schema/config (or ask). Never silently map my value to a different one.
+- **Do not "fix" my field values for validator compliance.** If my YAML label, morphology term, or classification disagrees with a closed list, extend the list or config (or ask). Never silently map my value to a different one.
 - **Conflict:** If my edit and your planned change collide, stop and ask. Do not silently pick the old or the agent version.
 
 # Writing Rules
 
 - **No em dashes or emojis:** Do not use em dashes or emojis in any file the agent writes or edits. Use a colon, comma, hyphen, or a separate sentence instead.
 - **Clarity:** Prefer concrete nouns and direct verbs. Avoid vague filler, invented metaphors, and overlong sentences.
-- **No agent scaffolding in docs (hard ban):** In `docs/` write only reader content. Forbidden: WIP/status lines, "volgt later", "inhoud volgt", roadmap asides, process notes, schema inventories, "deze sectie behandelt…", "as follows", "oefenen", or any meta about what the page will become. Empty page = title only until real content exists.
+- **No agent scaffolding in docs (hard ban):** In `docs/` write only reader content. Forbidden: WIP/status lines, "volgt later", "inhoud volgt", roadmap asides, process notes, field inventories, "deze sectie behandelt…", "as follows", "oefenen", or any meta about what the page will become. Empty page = title only until real content exists.
 
 # Agent style for MkDocs (`docs/`)
 

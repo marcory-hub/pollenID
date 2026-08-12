@@ -17,7 +17,7 @@
         {
           "label": "PK kleiner dan 37 µm.",
           "outcome": {
-            "text": "8.2.8 Wildgras-type (S. 87) — zie `beug08-monoporatae-wildgras.md`"
+            "text": "8.2.8 Wildgras-type (S. 87) — zie [beug08-monoporatae-wildgras](beug08-monoporatae-wildgras.md)"
           }
         },
         {
@@ -37,7 +37,7 @@
         {
           "label": "Maten van porie en annulus kleiner.",
           "outcome": {
-            "text": "8.2.8 Wildgras-type (S. 87) — zie `beug08-monoporatae-wildgras.md`"
+            "text": "8.2.8 Wildgras-type (S. 87) — zie [beug08-monoporatae-wildgras](beug08-monoporatae-wildgras.md)"
           }
         }
       ]
@@ -129,7 +129,7 @@
         {
           "label": "Fasecontrastpatroon met 0,8–2,2 µm grote, meestal polyhedrische velden (tabel 8: 1).",
           "outcome": {
-            "text": "Sorghum-type (S. 86) — zie `beug08-monoporatae-panicum.md`"
+            "text": "Sorghum-type (S. 86) — zie [beug08-monoporatae-panicum](beug08-monoporatae-panicum.md)"
           }
         },
         {
@@ -153,7 +153,7 @@
         {
           "label": "Puntgroepen uit tot 5–6 punten.",
           "outcome": {
-            "text": "8.2.7 *Panicum*-type (S. 84/86) — zie `beug08-monoporatae-panicum.md`"
+            "text": "8.2.7 *Panicum*-type (S. 84/86) — zie [beug08-monoporatae-panicum](beug08-monoporatae-panicum.md)"
           }
         }
       ]

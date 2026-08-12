@@ -1,1 +1,0 @@
-# *Capsicum annuum*\n\n[to be verified]\n

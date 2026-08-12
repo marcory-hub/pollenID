@@ -24,9 +24,9 @@ Every teaching decision traces back here.
 ## Rules
 
 - **One mission per `teaching/` workspace.** Unrelated topics: separate workspace or mission swap with user confirm.
-- **Concrete over abstract.** "Flash YOLO11n to GV2 without bricking the board" beats "understand embedded AI."
+- **Concrete over abstract.** "Name the Beug class and sculpture for *Calluna* from an LM photo" beats "understand pollen morphology."
 - **Push back on vagueness.** Interview before writing; bad mission worse than none.
 - **Revise when reality shifts.** Update file; add learning record (see `LEARNING-RECORD-FORMAT.md`).
 - **Keep short.** Past one screen it is a plan, not a compass.
 
-Project trap facts (pinouts, model versions) stay in `notes/` via `read-notes`; mission is why the user learns, not hardware SoT.
+Project facts (taxon fields, key paths) stay in `data/pollen.yaml` / `docs/` / `notes/`; mission is why the user learns, not SoT.

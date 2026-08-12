@@ -283,3 +283,57 @@ def per_image_width_px(im: Dict[str, Any], entry_default: int) -> int:
     if isinstance(h, float) and h > 0:
         return int(round(h))
     return entry_default
+
+
+# Macro field paths used in curated MD → exported pollen.json keys.
+JSON_FIELD_ALIASES: Dict[str, str] = {
+    "latin": "latin",
+    "dutch": "dutch",
+    "family": "family",
+    "shape": "shape",
+    "sculpture": "sculpture",
+    "ornamentation": "ornamentation",
+    "aperture": "aperture",
+    "sculpture_visibility": "sculpture_visibility",
+    "aperture_visibility": "aperture_visibility",
+    "ornamentation_visibility": "ornamentation_visibility",
+    "size.size_smallest": "size.smallest_size",
+    "size.smallest_size": "size.smallest_size",
+    "size.size_largest": "size.largest_size",
+    "size.largest_size": "size.largest_size",
+}
+
+
+def resolve_json_field(entry: Dict[str, Any], field: str) -> Any:
+    """Resolve a macro field from an exported pollen.json index entry."""
+    if not isinstance(entry, dict) or not field:
+        return None
+    mapped = JSON_FIELD_ALIASES.get(field, field)
+    if "." in mapped:
+        return get_dotted(entry, mapped)
+    if mapped in entry:
+        return entry.get(mapped)
+    # Legacy YAML-style aliases via FIELD_ALIASES top-level morph names
+    alias = FIELD_ALIASES.get(field)
+    if alias and "." not in alias:
+        return entry.get(alias.split(".")[-1])
+    return None
+
+
+def display_width_px_for_json_entry(entry: Dict[str, Any]) -> int:
+    """Display width from exported index entry."""
+    w = entry.get("display_width_px")
+    if isinstance(w, int) and w > 0:
+        return w
+    if isinstance(w, float) and w > 0:
+        return int(round(w))
+    size = entry.get("size")
+    ss = ls = None
+    if isinstance(size, dict):
+        ss = size.get("smallest_size")
+        ls = size.get("largest_size")
+    max_um = parse_max_um_from_size_strings(
+        str(ss).strip() if ss is not None else None,
+        str(ls).strip() if ls is not None else None,
+    )
+    return display_width_px_from_max_um(max_um)

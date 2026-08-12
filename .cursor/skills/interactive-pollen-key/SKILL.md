@@ -1,7 +1,10 @@
 ---
 name: interactive-pollen-key
 description: >-
-  Dichotomous pollen keys as JSON + MkDocs page using pollentabel.js. German source, Dutch in docs/ and JSON strings. Use for Beug/van der Ham style keys and branches from docs/Identificatiesleutels/_index.md.
+  Dichotomous pollen keys as JSON + MkDocs page using pollentabel.js. German
+  source, Dutch in docs/ and JSON strings. Use for Beug/van der Ham style keys,
+  branches from docs/Identificatiesleutels/_index.md, OCR/scan attachment to
+  Beug JSON, or @interactive-pollen-key.
 ---
 
 # Interactive pollen / honey key (JSON + MkDocs)
@@ -14,10 +17,22 @@ description: >-
 
 - Dichotomous keys like van der Ham / Beug; German in, **Dutch** in `docs/` and JSON `label` / `outcome.text`.
 - Follow the branch the user names; **docs/Identificatiesleutels/_index.md** is the outline.
+- OCR / scan / pasted transcript → Beug JSON: follow **OCR / attachment** below.
 
 ## Before you start
 
-Read **one** existing JSON under `docs/keys/vanderham/` or `docs/keys/beug/` and its paired `.md` under `docs/Identificatiesleutels/`. Implementation details: `docs/javascripts/pollentabel.js`, italics via `docs/stylesheets/extra.css` (`.pollentabel-btn--choice em`).
+For site authoring from an existing key pattern: read **one** existing JSON under `docs/keys/vanderham/` or `docs/keys/beug/` and its paired `.md` under `docs/Identificatiesleutels/` **for contract shape only**. Implementation: `docs/javascripts/pollentabel.js`, italics via `docs/stylesheets/extra.css` (`.pollentabel-btn--choice em`).
+
+## OCR / attachment (Beug)
+
+When the user attaches, @-references, or pastes a scan/OCR/transcript:
+
+- **All key content** (taxa, sizes, MiW, couplets, morphology, table/figure refs): **only** from that supplied source. Do **not** take values from other `docs/keys/`, `notes/`, or the open editor unless that path is the user’s named source.
+- Illegible or missing: **[te verifiëren]** or omit; **do not guess**.
+- Do **not** read other key JSON for content (schema from this skill only).
+- Beug `meta`: `key` = paired `.md` slug without extension; `title` from scan (Dutch); `locale` `nl`; `source` exactly `"Beug"`; `note` `"-"`; set `start` / `stepCount`.
+- Labels/outcomes: Nederlands; measurements with decimal comma (`61,0–81,3 µm`); keep MiW/T/PK as on the attachment.
+- Map source order → steps `"1"`, `"2"`, …; `label` = diagnostic arm; terminal → `outcome.text` with data as on the attachment.
 
 ## JSON contract
 
@@ -27,12 +42,8 @@ Images (overview + endpoint + placeholders):
 - Prefer multi-image arrays:
   - `choice.images`: `[{ image, imageWidthPx }]` shown in the overzicht. In the interactive choice list, only placeholder images are shown.
   - `outcome.images`: `[{ image, imageWidthPx }]` shown at the endpoint and in the overzicht.
-- Backward compatible single-image fields:
-  - `choice.image` + `choice.imageWidthPx`
-  - `outcome.image` + `outcome.imageWidthPx`
-
-Placeholder policy (site authoring):
-- Use `../../assets/images/non-pollen/placeholder.png` (repeated if needed) with `imageWidthPx: 1` when the user asks to add placeholder slots broadly.
+- Backward compatible: `choice.image` + `choice.imageWidthPx`; `outcome.image` + `outcome.imageWidthPx`.
+- Placeholders: `../../assets/images/non-pollen/placeholder.png` with `imageWidthPx: 1` when asked.
 
 Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 
@@ -50,11 +61,11 @@ Italics: paired `*asterisks*` only (e.g. `*Ephedra*`), not full Markdown.
 
 `data-json-url` relative to the `.md` (often `../../keys/...` from `docs/Identificatiesleutels/`). No extra page JS; `mkdocs.yml` loads the script.
 
-**No boilerplate above the widgets** unless the user explicitly requests it: do not add lines such as "Onderdeel van…", "Uitkomst … volgt…", "Deelsleutel bij §…", "Zie […]", or "PK = …" between the `H1` and the first `div`. Stick to the snippet above. Pages without a key JSON may keep a single relative Markdown link directly under the `H1` (no extra prose).
+**No boilerplate above the widgets** unless the user explicitly requests it. Pages without a key JSON may keep a single relative Markdown link directly under the `H1`.
 
-## Dutch in labels (examples)
+## Dutch in labels
 
-*Pollenkorrels (PK)* / *PK* for German PK; prefer **colpi/colpus**, **poriën/porie**, **exine**, **tectum**, **aperturen** like existing `docs/`. Use **verdiepingen**, not *vertiepingen*. Gaps: **[te verifiëren]** per project rules.
+*Pollenkorrels (PK)* / *PK* for German PK; prefer **colpi/colpus**, **poriën/porie**, **exine**, **tectum**, **aperturen**. Use **verdiepingen**, not *vertiepingen*. Gaps: **[te verifiëren]**.
 
 ## Boundaries
 

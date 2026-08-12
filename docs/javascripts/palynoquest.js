@@ -2,14 +2,14 @@
 (function () {
   "use strict";
 
+  const P = window.PidCore || {};
+  const esc = P.esc;
+  const visibilityLabelNl = P.visibilityLabelNl;
+  const morphWithVisibility = P.morphWithVisibility;
+  const isMissingValue = P.isMissingValue;
+
   function qs(root, sel) {
     return root.querySelector(sel);
-  }
-
-  function esc(s) {
-    var d = document.createElement("div");
-    d.textContent = s == null ? "" : String(s);
-    return d.innerHTML;
   }
 
   function normText(s) {
@@ -30,33 +30,6 @@
       s = s.replace(/\s*,\s*[^,]*[0-9][^,]*[µμ]m\b.*$/u, "");
     }
     return s.trim();
-  }
-
-  function isMissingValue(v) {
-    return v == null || String(v).trim() === "" || String(v).trim() === "-";
-  }
-
-  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
-  var VISIBILITY_LABELS_NL = {
-    lm_clear: "goed zichtbaar met LM",
-    lm_poor: "matig zichtbaar met LM",
-    em_only: "alleen zichtbaar met EM",
-  };
-
-  function visibilityLabelNl(code) {
-    if (code == null) return "";
-    var s = String(code).trim();
-    if (!s || s === "-" || s === "null" || s === "None") return "";
-    return VISIBILITY_LABELS_NL[s] || "";
-  }
-
-  function morphWithVisibility(text, visibilityCode) {
-    var t = text != null ? String(text).trim() : "";
-    var label = visibilityLabelNl(visibilityCode);
-    if (t && label) return t + " (" + label + ")";
-    if (t) return t;
-    if (label) return "(" + label + ")";
-    return "";
   }
 
   /** Site root (…/pollenID/) from the loaded palynoquest.js URL; stable under site_url and instant nav. */

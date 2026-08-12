@@ -1,5 +1,5 @@
 ---
-description: Repository map, SoT matrix, and MkDocs pipeline context.
+description: Repository map, SoT matrix, MkDocs pipeline, and hygiene guardrails.
 alwaysApply: true
 ---
 
@@ -7,7 +7,7 @@ alwaysApply: true
 
 **Focus**: Palynological reference, pollen morphology, and learning materials via MkDocs Material and GitHub Pages. MkDocs search is Dutch; keep published terminology aligned.
 
-`notes/` is read-only for agents (canonical: `rules-notes-boundary.mdc`).
+`notes/` is read-only for agents (canonical: `rules-notes-boundary.mdc`). Notes tagged **SoT: Yes** at the top are treated as verified; all others are `[to be verified]`. Sync is the user's responsibility (`notes/pollenID/_cli_pid.md` if present).
 
 ## 1. Before architectural or roadmap answers
 
@@ -15,9 +15,9 @@ alwaysApply: true
 
 ## 1b. Layout & privacy
 
-- **Layout SoT**: `project-reference.mdc` (guardrails); public tree detail on request via that rule's pointer.
 - **`docs/`**: Public site content.
 - **`notes/`**: Private / internal; do not move content to `docs/` without an explicit publish ask.
+- Full `docs/` tree: `.cursor/docs/site-layout.md` (load when doing nav or folder work). Geography/frequency live in `data/pollen.yaml`, not as separate browse folders. Public script index: `docs/naslag/scripts.md`. Agent script notes: `.cursor/docs/scripts.md`.
 
 ## 2. Source of truth matrix
 
@@ -26,11 +26,30 @@ alwaysApply: true
 | **Navigation & UI** | `mkdocs.yml` |
 | **CI/CD** | `.github/workflows/ci.yml` |
 | **Knowledge capture** | `notes/` (general) |
-| **Taxon page key paths** | `.cursor/skills/trace-key-paths/SKILL.md`, `scripts/extract_key_paths.py` |
-| **Add pollen (images + YAML + pages)** | `.cursor/skills/add-pollen/SKILL.md` |
-| **Add images + user metadata (single taxon)** | `.cursor/skills/add-images-information/SKILL.md` |
-| **Add tstebler atlas text only** | `.cursor/skills/add-tstebler/SKILL.md` |
-| **Interactive key JSON** | `.cursor/skills/interactive-pollen-key/SKILL.md` |
+| **Taxon add/update (images, YAML, pages, validate)** | `.cursor/skills/update-pollen/SKILL.md` |
+| **Author/edit dichotomous key** | `.cursor/skills/interactive-pollen-key/SKILL.md` |
+
+### When → skill (entry points)
+
+| When | Skill |
+| :--- | :--- |
+| Images or taxon info added/changed; YAML/page/sleutels/validate | `@update-pollen` |
+| Author or reshape key JSON + Identificatiesleutels page | `@interactive-pollen-key` |
+| Design interview | `@grill-me` / `@grill-with-docs` |
+| Glossary / ADR | `@domain-modeling` |
+| Multi-session teaching | `@teach-me` |
+| Compact for next agent | `@handoff` |
+| Fix Cursor ignore / unignore paths | `@cursor-unignore` |
+
+Library (auto-pick off): `grilling`. Inventory: `docs/adr/0002-skill-entry-points.md`. Note facts: read `notes/` via topic table in `rules-notes-boundary.mdc` (no `@read-notes` skill).
+
+### New / edited skills (hygiene)
+
+- Put workflows in `.cursor/skills/<name>/SKILL.md` only (never `~/.cursor/skills-cursor/`).
+- Keep `SKILL.md` under ~100 lines; long schema → `REFERENCE.md`.
+- No `scripts/` under a skill; use repo-root `scripts/`.
+- New public entry point: add one row to the when→skill table above.
+- No foreign-project examples. Use Cursor’s built-in create-skill for generic structure.
 
 ## 3. Knowledge sync
 
@@ -67,13 +86,27 @@ alwaysApply: true
 - **Gated edits**: Do not create, modify, delete, rename, or add placeholder files under **`docs/keys/`** unless the user **explicitly** asks for a keys change.
 - **Layout**: `docs/keys/beug/`, `docs/keys/vanderham/`, `docs/keys/kerkvliet/`. Paired pages under `docs/Identificatiesleutels/` load JSON via `data-json-url`; behaviour in `docs/javascripts/pollentabel.js`.
 - **JSON contract**: `.cursor/skills/interactive-pollen-key/SKILL.md` (do not invent sibling keys the script does not use).
+- **JSON syntax fixes:** structure only (`{}` `[]` `,` escapes). Leave string values (Dutch labels, taxa, Markdown, URLs) verbatim unless the user explicitly allows copy edits.
 - Note: `beug03-polyadeae.md` and `beug05-dyade.md` do NOT link to JSON; do not invent JSON for them.
 
-## 6. Conflict handling
+## 6. Do not suggest (hard guardrails)
+
+- **Standalone logs**: No new random log files.
+- **Root clutter**: No new root-level clutter except essential configs (`mkdocs.yml`, `.gitignore`, `requirements.txt`, etc.) and focused helpers under **`scripts/`** when the user asks for automation.
+- **Redundant plugins**: Check **`mkdocs.yml`** and Material built-ins before proposing new MkDocs plugins.
+- **Slugs**: Renaming existing `docs/` pages requires an explicit **broken-links / SEO** warning and a small migration plan.
+- **Large assets**: Avoid embedding very large images in `docs/` without noting optimization or external hosting.
+- **Hardcoded nav**: Explicit `nav` in **`mkdocs.yml`**; do not suggest bulk manual nav edits for every tiny page; prefer batching and link checks.
+- **Public/private**: Do not move raw research data from `notes/` to `docs/` unless the user explicitly asks to publish that material.
+- **Terminology**: Prefer standard palynological terms.
+- **No emojis** in docs or agent output (`interaction-style.mdc`).
+- **Mobile**: Avoid layouts that break Material on small screens (huge tables, ultra-wide diagrams).
+
+## 7. Conflict handling
 
 1. Prefer verified palynological statements over speculation.
 2. Ask user.
 
-## 7. Things to remember
+## 8. Things to remember
 
 Use *Frangula alnus* (not the syn. *Rhamnus frangula*).

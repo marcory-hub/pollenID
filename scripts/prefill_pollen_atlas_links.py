@@ -2,7 +2,7 @@
 """Fill empty pollenX / tstebler / paldat / waarneming slots in data/pollen.yaml from latin binomial.
 
 Only writes URLs into empty (null/blank) link fields; does not overwrite custom URLs.
-Use explicit null in YAML to suppress a default atlas link (see update-pollen-yaml skill).
+Use explicit null in YAML to suppress a default atlas link (see update-pollen skill).
 
 Usage:
   python scripts/prefill_pollen_atlas_links.py --dry-run

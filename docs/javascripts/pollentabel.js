@@ -7,57 +7,19 @@
 (function () {
   "use strict";
 
+  const P = window.PidCore || {};
+  const esc = P.esc;
+  const escAttr = P.escAttr;
+  const visibilityLabelNl = P.visibilityLabelNl;
+  const morphWithVisibility = P.morphWithVisibility;
+  const isMissingValue = P.isMissingValue;
+  const resolveDataJsonUrl = P.resolveDataJsonUrl;
+  const fetchJsonCached = P.fetchJsonCached;
+  const fetchPollenIndex = P.fetchPollenIndex;
+  const getDocsRootUrl = P.getDocsRootUrl;
+
   const ROOT_KEY = "pollentabel-root";
   const ROOT_TABLE = "pollentabel-table-root";
-
-  /** @type {Map<string, Promise<unknown>>} */
-  const jsonCache = new Map();
-
-  function esc(s) {
-    const d = document.createElement("div");
-    d.textContent = s;
-    return d.innerHTML;
-  }
-
-  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
-  const VISIBILITY_LABELS_NL = {
-    lm_clear: "goed zichtbaar met LM",
-    lm_poor: "matig zichtbaar met LM",
-    em_only: "alleen zichtbaar met EM",
-  };
-
-  function visibilityLabelNl(code) {
-    if (code == null) return "";
-    const s = String(code).trim();
-    if (!s || s === "-" || s === "null" || s === "None") return "";
-    return VISIBILITY_LABELS_NL[s] || "";
-  }
-
-  function morphWithVisibility(text, visibilityCode) {
-    const t = text != null ? String(text).trim() : "";
-    const label = visibilityLabelNl(visibilityCode);
-    if (t && label) return t + " (" + label + ")";
-    if (t) return t;
-    if (label) return "(" + label + ")";
-    return "";
-  }
-
-  function escAttr(s) {
-    return String(s)
-      .replace(/&/g, "&amp;")
-      .replace(/"/g, "&quot;")
-      .replace(/</g, "&lt;");
-  }
-
-  /** Relatieve data-json-url → absolute URL voor fetch (zelfde regels als browser voor <a href>). */
-  function resolveDataJsonUrl(url) {
-    if (typeof url !== "string" || !url) return url;
-    try {
-      return new URL(url, document.baseURI).href;
-    } catch (e) {
-      return url;
-    }
-  }
 
   /** MkDocs site root (…/pollenID/) for docs-root-relative .md links under Identificatiesleutels/ (directory URLs). */
   function resolveDocsSiteRoot() {
@@ -214,76 +176,6 @@
     }
     out += formatEmphasisAst(s.slice(last));
     return out.replace(/\n/g, "<br />");
-  }
-
-  function isMissingValue(v) {
-    return v == null || String(v).trim() === "" || String(v).trim() === "-";
-  }
-
-  function fetchJsonCached(url) {
-    var abs = resolveDataJsonUrl(url);
-    if (!jsonCache.has(abs)) {
-      jsonCache.set(
-        abs,
-        fetch(abs, { credentials: "same-origin" }).then(function (r) {
-          if (!r.ok) throw new Error(r.status + " " + r.statusText);
-          return r.json();
-        })
-      );
-    }
-    return jsonCache.get(abs);
-  }
-
-  /**
-   * Pollen SoT index, produced by scripts/export_pollen_json.py from data/pollen.yaml.
-   * Loaded at runtime so endpoints that carry a `pollen_key` can render latin/dutch/
-   * size/images without duplicating those strings in key JSON files.
-   */
-  let pollenIndexPromise = null;
-  let docsRootUrl = null;
-
-  function computePollenIndexUrl(keyAbsUrl) {
-    try {
-      const u = new URL(keyAbsUrl, document.baseURI);
-      // Carry over cache-busting query params from the key URL (e.g. ?v=...),
-      // otherwise pollen.json can remain stale even when key JSON/JS update.
-      const keyQ = u.search;
-      if (/\/keys\//.test(u.pathname)) {
-        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/data/pollen.json");
-      } else {
-        u.pathname = u.pathname.replace(/\/[^/]*$/, "/data/pollen.json");
-      }
-      u.search = keyQ || "";
-      u.hash = "";
-      return u.href;
-    } catch (e) {
-      return null;
-    }
-  }
-
-  function fetchPollenIndex(fromAbsUrl) {
-    if (pollenIndexPromise) return pollenIndexPromise;
-    const url = computePollenIndexUrl(fromAbsUrl);
-    if (!url) {
-      pollenIndexPromise = Promise.resolve({});
-      return pollenIndexPromise;
-    }
-    try {
-      // pollen.json lives at `<site-prefix>/data/pollen.json`; one "../" yields the MkDocs site root
-      // (e.g. /pollenID/). "../../" wrongly strips subdirectory deploys like GitHub Pages.
-      docsRootUrl = new URL("../", url).href;
-    } catch (e) {
-      docsRootUrl = null;
-    }
-    pollenIndexPromise = fetch(url, { credentials: "same-origin" })
-      .then(function (r) {
-        if (!r.ok) throw new Error(r.status + " " + r.statusText);
-        return r.json();
-      })
-      .catch(function () {
-        return {};
-      });
-    return pollenIndexPromise;
   }
 
   function formatSizeFromIndex(size) {
@@ -508,8 +400,9 @@
         // Pollen-index paths are anchored at the docs root (e.g. "assets/images/...").
         // Resolve them against docsRootUrl so they render correctly from any page.
         let src = im.path;
-        if (docsRootUrl) {
-          try { src = new URL(im.path, docsRootUrl).href; } catch (e) { /* keep raw */ }
+        const root = getDocsRootUrl();
+        if (root) {
+          try { src = new URL(im.path, root).href; } catch (e) { /* keep raw */ }
         }
         const tileW = tileWidthPxFromPollenJsonImage(im, wFb);
         out.push({ image: src, imageWidthPx: tileW });
@@ -654,9 +547,10 @@
 
   function resolveNoImageFoundUrl(baseUrl) {
     // Always prefer the real docs root if we managed to compute it from pollen.json.
-    if (docsRootUrl) {
+    const root = getDocsRootUrl();
+    if (root) {
       try {
-        return new URL("assets/images/non-pollen/no_image_found.jpg", docsRootUrl).href;
+        return new URL("assets/images/non-pollen/no_image_found.jpg", root).href;
       } catch (e) {
         // fall through
       }
@@ -681,9 +575,10 @@
       }
       if (typeof im.path === "string" && im.path.trim()) {
         var src = im.path;
-        if (docsRootUrl) {
+        const root = getDocsRootUrl();
+        if (root) {
           try {
-            src = new URL(im.path, docsRootUrl).href;
+            src = new URL(im.path, root).href;
           } catch (e) {
             /* keep raw */
           }

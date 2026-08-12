@@ -158,6 +158,16 @@ def main() -> int:
                 path.write_text(render_taxon_page(slug, entry), encoding="utf-8")
                 print(f"wrote {path.relative_to(REPO_ROOT)}")
 
+    # Keep Beug flow paths in pollen.yaml in sync for newly-added/updated slugs.
+    # This is separate from Determinatiesleutels generation on species pages.
+    if args.slug:
+        cmd = [str(PY), str(SCRIPTS / "sync_beug_key_paths.py")]
+        for slug in args.slug:
+            cmd.extend(["--slug", slug])
+        rc = run(cmd, dry_run=args.dry_run)
+        if rc != 0:
+            return rc
+
     validate_cmd = [
         str(PY),
         str(SCRIPTS / "validate_pollen_site.py"),

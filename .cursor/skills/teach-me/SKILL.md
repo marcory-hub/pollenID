@@ -27,7 +27,7 @@ Create on disk when user says apply to file or agrees to persist; else teach in 
 
 1. Read `teaching/MISSION.md` if present; else interview for why (one question at a time; use `MISSION-FORMAT.md`).
 2. Read `teaching/learning-records/` and `teaching/GLOSSARY.md` for zone of proximal development.
-3. **pollenID facts:** `.cursor/skills/read-notes/SKILL.md` and verified `data/pollen.yaml` / `docs/` only; never invent morphology or Latin names.
+3. **pollenID facts:** `notes/` (topic table in `rules-notes-boundary.mdc`) and verified `data/pollen.yaml` / `docs/` only; never invent morphology or Latin names.
 
 ## Lesson
 
@@ -48,4 +48,4 @@ If project facts changed, ask user to update `notes/` (`project-context.mdc`).
 ## Out of scope
 
 - Default chat without `@teach-me`
-- Replacing `read-notes` SoT
+- Replacing YAML / `docs/` / `notes/` SoT with invented lesson facts

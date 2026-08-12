@@ -1,1 +1,0 @@
-# *Impatiens glandulifera*\n\n[to be verified]\n

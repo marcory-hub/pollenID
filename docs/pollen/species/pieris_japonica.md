@@ -1,1 +1,0 @@
-# *Pieris Japonica*\n\n[to be verified]\n

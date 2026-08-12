@@ -7,98 +7,15 @@
 (function () {
   "use strict";
 
+  const P = window.PidCore || {};
+  const esc = P.esc;
+  const visibilityLabelNl = P.visibilityLabelNl;
+  const morphWithVisibility = P.morphWithVisibility;
+  const resolveDataJsonUrl = P.resolveDataJsonUrl;
+  const fetchJsonCached = P.fetchJsonCached;
+  const fetchPollenIndex = P.fetchPollenIndex;
+
   const ROOT_ID = "kerkvliet-determinatietabel-root";
-
-  /** @type {Map<string, Promise<unknown>>} */
-  const jsonCache = new Map();
-
-  function esc(s) {
-    const d = document.createElement("div");
-    d.textContent = s == null ? "" : String(s);
-    return d.innerHTML;
-  }
-
-  /** LM/EM visibility codes from pollen.yaml / pollen.json → Dutch labels. */
-  const VISIBILITY_LABELS_NL = {
-    lm_clear: "goed zichtbaar met LM",
-    lm_poor: "matig zichtbaar met LM",
-    em_only: "alleen zichtbaar met EM",
-  };
-
-  function visibilityLabelNl(code) {
-    if (code == null) return "";
-    const s = String(code).trim();
-    if (!s || s === "-" || s === "null" || s === "None") return "";
-    return VISIBILITY_LABELS_NL[s] || "";
-  }
-
-  function morphWithVisibility(text, visibilityCode) {
-    const t = text != null ? String(text).trim() : "";
-    const label = visibilityLabelNl(visibilityCode);
-    if (t && label) return t + " (" + label + ")";
-    if (t) return t;
-    if (label) return "(" + label + ")";
-    return "";
-  }
-
-  function fetchJsonCached(url) {
-    if (!jsonCache.has(url)) {
-      jsonCache.set(
-        url,
-        fetch(url, { credentials: "same-origin" }).then(function (r) {
-          if (!r.ok) throw new Error(r.status + " " + r.statusText);
-          return r.json();
-        })
-      );
-    }
-    return jsonCache.get(url);
-  }
-
-  function resolveDataJsonUrl(url) {
-    if (typeof url !== "string" || !url) return url;
-    try {
-      return new URL(url, document.baseURI).href;
-    } catch (e) {
-      return url;
-    }
-  }
-
-  /** @type {Promise<Record<string, unknown>>|null} */
-  let kerkvlietPollenIndexPromise = null;
-
-  function computePollenIndexUrl(keyAbsUrl) {
-    try {
-      const u = new URL(keyAbsUrl, document.baseURI);
-      if (/\/keys\//.test(u.pathname)) {
-        u.pathname = u.pathname.replace(/\/keys\/.*$/, "/data/pollen.json");
-      } else {
-        u.pathname = u.pathname.replace(/\/[^/]*$/, "/data/pollen.json");
-      }
-      u.search = "";
-      u.hash = "";
-      return u.href;
-    } catch (e) {
-      return null;
-    }
-  }
-
-  function fetchPollenIndexForKerk(fromAbsUrl) {
-    if (kerkvlietPollenIndexPromise) return kerkvlietPollenIndexPromise;
-    const url = computePollenIndexUrl(fromAbsUrl);
-    if (!url) {
-      kerkvlietPollenIndexPromise = Promise.resolve({});
-      return kerkvlietPollenIndexPromise;
-    }
-    kerkvlietPollenIndexPromise = fetch(url, { credentials: "same-origin" })
-      .then(function (r) {
-        if (!r.ok) throw new Error(r.status + " " + r.statusText);
-        return r.json();
-      })
-      .catch(function () {
-        return {};
-      });
-    return kerkvlietPollenIndexPromise;
-  }
 
   /**
    * Parse a free-form size string (µm) and return an estimated max dimension.
@@ -179,7 +96,7 @@
     root.innerHTML = '<p class="kerkvliet-status">' + esc("Tabel laden…") + "</p>";
 
     const dataAbsUrl = resolveDataJsonUrl(jsonUrl);
-    Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndexForKerk(dataAbsUrl)])
+    Promise.all([fetchJsonCached(jsonUrl), fetchPollenIndex(dataAbsUrl)])
       .then(function (parts) {
         root.replaceChildren();
         run(root, parts[0], parts[1] || {});

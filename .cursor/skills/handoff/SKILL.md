@@ -59,18 +59,18 @@ Use this structure exactly (keep the headings):
 
 ### Artifacts empty
 
-If there are no durable artifacts yet, write `None yet.` then a **Propose** sublist of 1–3 concrete files or docs the next session should create (path + purpose). Prefer project conventions and donor-repo research over new invention. Do not create those files in the handoff turn unless the user asks.
+If there are no durable artifacts yet, write `None yet.` then a **Propose** sublist of 1–3 concrete files or docs the next session should create (path + purpose). Prefer existing project conventions over new invention. Do not create those files in the handoff turn unless the user asks.
 
 ### Suggested skills
 
-Scan project skills under `.cursor/skills/` and personal skills under `~/.cursor/skills/` (names only; do not invent skills). Recommend only skills that clearly help the next steps. If none apply, write `None.`
+Scan project skills under `.cursor/skills/` (names only; do not invent skills). Recommend only skills that clearly help the next steps. If none apply, write `None.`
 
 ## Example
 
-User argument: `finish add-pollen batch for Salvia and sync YAML`
+User argument: `finish update-pollen batch for Salvia and sync YAML`
 
 ```markdown
-# Handoff: Finish Salvia add-pollen batch
+# Handoff: Finish Salvia update-pollen batch
 
 ## Goal
 Complete by-taxon images, YAML fields, and species pages for the remaining Salvia taxa, then validate the site.
@@ -80,7 +80,7 @@ Complete by-taxon images, YAML fields, and species pages for the remaining Salvi
 - Species pages for some keys still missing Determinatiesleutels sections.
 
 ## Next steps
-1. Run `scripts/add_taxon.py` (or `@add-pollen`) for the queued slugs.
+1. Run `scripts/add_taxon.py` (or `@update-pollen`) for the queued slugs.
 2. Confirm Dutch names and sizes against source notes; mark gaps `[to be verified]`.
 3. Run `validate_pollen_site.py --rebuild-data --images --links`.
 
@@ -89,6 +89,5 @@ Complete by-taxon images, YAML fields, and species pages for the remaining Salvi
 - `docs/pollen/species/` — published pages
 
 ## Suggested skills
-- `@add-pollen` — full taxon add pipeline
-- `@trace-key-paths` — fill Determinatiesleutels blocks
+- `@update-pollen` — full taxon pipeline + validate
 ```

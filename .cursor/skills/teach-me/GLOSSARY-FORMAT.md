@@ -11,13 +11,13 @@ Canonical language for this teaching workspace. Lessons and learning records use
 
 ## Terms
 
-**int8_vela.tflite**:
-Full-integer quantized TFLite after Arm VELA compile for Himax GV2 SRAM.
-_Avoid_: int8.tflite, plain tflite
+**pollen_key**:
+ASCII slug for a taxon or type aggregate in `data/pollen.yaml` (e.g. `calluna_vulgaris`, `cynoglossum_typ`).
+_Avoid_: species id, folder name (when used as a separate concept)
 
-**INVOKE**:
-WE2 JSON serial message name carrying one inference result from GV2 firmware.
-_Avoid_: detection packet, inference blob
+**colpaat**:
+Apertuurtype met spleetvormige colpi (Beug/Dutch site wording).
+_Avoid_: colpate (in Dutch learner text unless quoting English source)
 ```
 
 ## Rules
@@ -26,8 +26,8 @@ _Avoid_: detection packet, inference blob
 - **Be opinionated.** Pick one term; list loose synonyms under `_Avoid_`.
 - **Definitions tight.** One or two sentences; what it IS, not full procedure.
 - **Use glossary terms inside other definitions** once promoted.
-- **Subheadings** when clusters emerge (e.g. `## Hardware`, `## Training`).
-- **Flag ambiguities.** "In this workspace, UART means GV2 USB debug serial unless noted as T-SIM link."
+- **Subheadings** when clusters emerge (e.g. `## Morphology`, `## Keys`).
+- **Flag ambiguities.** "In this workspace, *type* means Beug pollentype unless noted as honey type."
 - **Revise in place** when understanding deepens.
 
-Do not duplicate `notes/` SoT tables; glossary is teaching vocabulary, not project pinouts.
+Do not duplicate `notes/` or YAML SoT tables; glossary is teaching vocabulary.

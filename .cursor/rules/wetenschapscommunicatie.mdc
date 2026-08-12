@@ -1,5 +1,5 @@
 ---
-description: Science-communication style while drafting and editing article-like docs
+description: Science-communication style while drafting and editing prose under docs/
 globs: docs/**/*.md,docs/naslag/**
 alwaysApply: false
 ---
@@ -13,14 +13,14 @@ Companion while you **write or revise** prose under `docs/`. Full checklists: `.
 ## Before you write
 
 - Audience and word budget: melissopalynology learners.
-- Text blocks in this repo should be short and easy to read.
+- Prefer short, easy-to-read blocks (see also `interaction-style.mdc` slide-sheet defaults).
 
 ## Structure
 
 - Open with curiosity, not background ("Reeds de oude Grieken…" = afhaker).
 - Front-load the main point (omgekeerde piramide / not zandloper).
 - Use: **pakkend begin → onderhoudend midden → helder einde**.
-- One idea per section (~400 words max per block).
+- One idea per section; keep sections short.
 
 ## Style
 
@@ -35,11 +35,6 @@ Companion while you **write or revise** prose under `docs/`. Full checklists: `.
 
 - Use when abstract → tangible (only if it clarifies faster than it confuses).
 - Drop metaphors that need more explanation than the science itself.
-
-## Graphs
-
-- One clear message; labeled axes; honest scale (no truncated y-axis).
-- Prefer counts over naked percentages when scale matters.
 
 ## After a writing session
 

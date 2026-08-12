@@ -12,12 +12,13 @@ Each exported taxon includes:
   - learning_priority_rank — optional int from YAML (Level 2 PalynoQuest priority)
   - controlled — optional coarse LM codes (sculptuur/apertuur/vorm/grootteband) for Kenmerken-drill
   - lookalikes — optional confirmed pairs + group slugs when set in YAML
-  - has_taxon_page — true when monofloral_honey_page is set or a page exists under
-    docs/pollen/species/<pollen_key>.md; false otherwise. Consumers use it to skip
-    linking the Latin name to a non-existent default taxon page.
+  - has_taxon_page — true when monofloral_honey_page is set or slug is listed in
+    data/species_page_slugs.txt (or a species MD exists on disk); false otherwise.
   - display_width_px — round(max_um * 2.5) from YAML size strings, else 125 (50 µm default)
-  - links — optional pollenx, tstebler, paldat URLs (YAML `links` overrides)
   - images[] — path, optional kind/source, width_px (per-image override or display_width_px)
+
+Atlas links (pollenx, tstebler, paldat, waarneming) are written to
+``docs/data/taxa/<slug>.json`` (leaf/build detail), not the widget index.
 
 Usage: python3 scripts/export_pollen_json.py
 """
@@ -46,8 +47,10 @@ from pollen_display import (
 REPO = Path(__file__).resolve().parents[1]
 YAML_PATH = REPO / "data" / "pollen.yaml"
 JSON_PATH = REPO / "docs" / "data" / "pollen.json"
+TAXA_DETAIL_DIR = REPO / "docs" / "data" / "taxa"
 MONOFLORAL_MD_DIR = REPO / "docs" / "monoflorale-honing-pollen"
 SPECIES_MD_DIR = REPO / "docs" / "pollen" / "species"
+SPECIES_SLUGS_FILE = REPO / "data" / "species_page_slugs.txt"
 BY_TAXON_REF_RE = re.compile(r"by-taxon/([a-z0-9_]+)/", re.I)
 
 
@@ -74,15 +77,19 @@ def _build_monofloral_primary_slug_map() -> Dict[str, str]:
     return out
 
 
-def _species_page_slugs() -> set[str]:
-    """pollen_key slugs with an existing page under docs/pollen/species/."""
-    if not SPECIES_MD_DIR.is_dir():
-        return set()
-    return {
-        p.stem
-        for p in SPECIES_MD_DIR.glob("*.md")
-        if p.name != "_index.md"
-    }
+def _species_page_slugs_set() -> set[str]:
+    """pollen_key slugs listed in data/species_page_slugs.txt (+ any on-disk species MD)."""
+    slugs: set[str] = set()
+    if SPECIES_SLUGS_FILE.is_file():
+        for line in SPECIES_SLUGS_FILE.read_text(encoding="utf-8").splitlines():
+            s = line.strip()
+            if s and not s.startswith("#") and s != "_index":
+                slugs.add(s)
+    if SPECIES_MD_DIR.is_dir():
+        for p in SPECIES_MD_DIR.glob("*.md"):
+            if p.name != "_index.md":
+                slugs.add(p.stem)
+    return slugs
 
 
 def _clean_scalar(v: Any) -> Any:
@@ -96,10 +103,24 @@ def _clean_scalar(v: Any) -> Any:
     return v
 
 
-def _build_entry(
+def _build_links_detail(pollen_key_slug: str, src: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+    """Per-slug detail payload (links only for now). None when empty."""
+    latin = _clean_scalar(entry_latin(src))
+    latin_s = latin if isinstance(latin, str) else ""
+    merged = merge_links_yaml_defaults(latin_s, src.get("links"))
+    links_out: Dict[str, str] = {}
+    for lk, url in merged.items():
+        if isinstance(url, str) and url.strip():
+            links_out[lk] = url.strip()
+    if not links_out:
+        return None
+    return {"pollen_key": pollen_key_slug, "links": links_out}
+
+
+def _build_index_entry(
     pollen_key_slug: str, src: Dict[str, Any], species_slugs: set[str]
 ) -> Dict[str, Any]:
-    """Build one JSON object keyed by pollen_key_slug elsewhere."""
+    """Build one widget-index JSON object (no links)."""
     out: Dict[str, Any] = {}
 
     latin = _clean_scalar(entry_latin(src))
@@ -153,15 +174,6 @@ def _build_entry(
 
     display_w = display_width_px_for_yaml_entry(src)
     out["display_width_px"] = display_w
-
-    latin_s = latin if isinstance(latin, str) else ""
-    merged = merge_links_yaml_defaults(latin_s, src.get("links"))
-    links_out: Dict[str, str] = {}
-    for lk, url in merged.items():
-        if isinstance(url, str) and url.strip():
-            links_out[lk] = url.strip()
-    if links_out:
-        out["links"] = links_out
 
     images_src = src.get("images")
     if isinstance(images_src, list) and images_src:
@@ -230,14 +242,28 @@ def main() -> int:
         raise SystemExit(f"Unexpected top-level YAML type: {type(data).__name__}")
 
     monofloral_pages = _build_monofloral_primary_slug_map()
-    species_slugs = _species_page_slugs()
+    species_slugs = _species_page_slugs_set()
     exported: Dict[str, Dict[str, Any]] = {}
+    detail_count = 0
+    if TAXA_DETAIL_DIR.is_dir():
+        for old in TAXA_DETAIL_DIR.glob("*.json"):
+            old.unlink()
+    TAXA_DETAIL_DIR.mkdir(parents=True, exist_ok=True)
     for key in sorted(data.keys()):
         entry = data.get(key)
         if not isinstance(entry, dict):
             continue
-        built = _build_entry(str(key), entry, species_slugs)
-        mf = monofloral_pages.get(str(key))
+        slug = str(key)
+        built = _build_index_entry(slug, entry, species_slugs)
+        detail = _build_links_detail(slug, entry)
+        if detail:
+            detail_path = TAXA_DETAIL_DIR / f"{slug}.json"
+            detail_path.write_text(
+                json.dumps(detail, ensure_ascii=False, indent=2, sort_keys=False) + "\n",
+                encoding="utf-8",
+            )
+            detail_count += 1
+        mf = monofloral_pages.get(slug)
         if mf:
             built["monofloral_honey_page"] = mf
         rank = entry.get("learning_priority_rank")
@@ -248,7 +274,7 @@ def main() -> int:
         # Runtime taxon-page link resolution (pollentabel.js, kerkvliet-determinatietabel.js)
         # defaults to pollen/species/<pollen_key>.md when no monofloral page is set.
         # Flag entries with neither so the JS can skip the link instead of pointing at a 404.
-        built["has_taxon_page"] = bool(mf) or str(key) in species_slugs
+        built["has_taxon_page"] = bool(mf) or slug in species_slugs
         exported[key] = built
 
     JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -257,6 +283,7 @@ def main() -> int:
         encoding="utf-8",
     )
     print(f"Wrote {JSON_PATH.relative_to(REPO)} ({len(exported)} entries).")
+    print(f"Wrote {TAXA_DETAIL_DIR.relative_to(REPO)}/ ({detail_count} detail files).")
     return 0
 
 

@@ -38,7 +38,7 @@
           "label": "pollenkorrel met velen tezamen.",
           "pollen_key": "acacia_dealbata",
           "outcome": {
-            "text": "Polyadeae — zie `beug03-polyadeae.md`",
+            "text": "Polyadeae — zie [beug03-polyadeae](beug03-polyadeae.md)",
             "pollen_key": "acacia_dealbata"
           }
         },
@@ -63,7 +63,7 @@
             "erica_tetralix"
           ],
           "outcome": {
-            "text": "Tetradeae — zie `beug04-tetradeae.md`",
+            "text": "Tetradeae — zie [beug04-tetradeae](beug04-tetradeae.md)",
             "pollen_keys": [
               "calluna_vulgaris",
               "erica_tetralix"
@@ -76,7 +76,7 @@
             "acacia_dealbata"
           ],
           "outcome": {
-            "text": "Dyadeae — zie `beug05-dyade.md`",
+            "text": "Dyadeae — zie [beug05-dyade](beug05-dyade.md)",
             "pollen_keys": [
               "acacia_dealbata"
             ]
@@ -96,7 +96,7 @@
             "picea_omorika"
           ],
           "outcome": {
-            "text": "Vesiculatae — zie `beug06-vesiculatae.md`. Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)",
+            "text": "Vesiculatae — zie [beug06-vesiculatae](beug06-vesiculatae.md). Diverse gymnospermen, zoals Den (Pinus) en Spar (Picea)",
             "pollen_keys": [
               "pinus_sylvestris",
               "pinus_nigra",
@@ -121,7 +121,7 @@
             "welwitschia_mirabilis"
           ],
           "outcome": {
-            "text": "Inaperturatae / Polyplicatae — zie `beug07-inaperturatae.md`",
+            "text": "Inaperturatae / Polyplicatae — zie [beug07-inaperturatae](beug07-inaperturatae.md)",
             "pollen_keys": [
               "ephedra_spinosa",
               "welwitschia_mirabilis"
@@ -145,7 +145,7 @@
             "cichorium_intybus"
           ],
           "outcome": {
-            "text": "Fenestratae — zie `beug29-fenestratae.md`",
+            "text": "Fenestratae — zie [beug29-fenestratae](beug29-fenestratae.md)",
             "pollen_keys": [
               "taraxacum_officinale",
               "cichorium_intybus"
@@ -184,7 +184,7 @@
           "label": "Pollenkorrel met 1 porus.",
           "pollen_key": "zea_mays",
           "outcome": {
-            "text": "Monoporatae — zie `beug08-monoporatae.md`",
+            "text": "Monoporatae — zie [beug08-monoporatae](beug08-monoporatae.md)",
             "pollen_key": "zea_mays"
           }
         },
@@ -192,7 +192,7 @@
           "label": "Pollenkorrel met 1 colpus.",
           "pollen_key": "allium_schoenoprasum",
           "outcome": {
-            "text": "Monocolpatae — zie `beug09-monocolpatae.md`",
+            "text": "Monocolpatae — zie [beug09-monocolpatae](beug09-monocolpatae.md)",
             "pollen_key": "allium_schoenoprasum"
           }
         }
@@ -210,7 +210,7 @@
             "passiflora_caerulea"
           ],
           "outcome": {
-            "text": "Syncolpatae — zie `beug10-syncolpatae.md`",
+            "text": "Syncolpatae — zie [beug10-syncolpatae](beug10-syncolpatae.md)",
             "pollen_keys": [
               "berberis_vulgaris",
               "mahonia_aquifolium",
@@ -249,7 +249,7 @@
         {
           "label": "Pollenkorrel met 2 colpi die equatoriaal elk een pori bezitten.",
           "outcome": {
-            "text": "Dicolporatae — zie `beug12-dicolporatae.md`"
+            "text": "Dicolporatae — zie [beug12-dicolporatae](beug12-dicolporatae.md)"
           }
         }
       ]
@@ -261,13 +261,13 @@
         {
           "label": "Pollenkorrel met 2 colpi.",
           "outcome": {
-            "text": "Dicolpatae — zie `beug11-dicolpatae.md`"
+            "text": "Dicolpatae — zie [beug11-dicolpatae](beug11-dicolpatae.md)"
           }
         },
         {
           "label": "Pollenkorrel met 2 pori.",
           "outcome": {
-            "text": "Diporatae — zie `beug30-diporatae.md`"
+            "text": "Diporatae — zie [beug30-diporatae](beug30-diporatae.md)"
           }
         }
       ]
@@ -285,7 +285,7 @@
             "epilobium_angustifolium"
           ],
           "outcome": {
-            "text": "Triporatae — zie `beug31-triporatae.md`",
+            "text": "Triporatae — zie [beug31-triporatae](beug31-triporatae.md)",
             "pollen_keys": [
               "corylus_avellana",
               "betula_nigra",
@@ -326,7 +326,7 @@
             "malus_domestica"
           ],
           "outcome": {
-            "text": "Tricolpatae — zie `beug13-tricolpatae-ps.md`; Tricolporatae — zie `beug14-tricolporatae-ps.md`; Tricolporoidatae — zie `beug15-tricolporoidatae-ps.md`",
+            "text": "Tricolpatae — zie [beug13-tricolpatae-ps](beug13-tricolpatae-ps.md); Tricolporatae — zie [beug14-tricolporatae-ps](beug14-tricolporatae-ps.md); Tricolporoidatae — zie [beug15-tricolporoidatae-ps](beug15-tricolporoidatae-ps.md)",
             "pollen_keys": [
               "brassica_napus",
               "valerianella_officinalis",
@@ -412,7 +412,7 @@
             "lavandula_angustifolia"
           ],
           "outcome": {
-            "text": "Stephanocolpatae — zie `beug24-stephanocolpatae.md`",
+            "text": "Stephanocolpatae — zie [beug24-stephanocolpatae](beug24-stephanocolpatae.md)",
             "pollen_keys": [
               "phacelia_tanacetifolia",
               "borago_officinalis",
@@ -427,7 +427,7 @@
             "campanula_rotundifolia"
           ],
           "outcome": {
-            "text": "Stephanoporatae — zie `beug32-stephanoporatae.md`",
+            "text": "Stephanoporatae — zie [beug32-stephanoporatae](beug32-stephanoporatae.md)",
             "pollen_keys": [
               "alnus_glutinosa",
               "campanula_rotundifolia"
@@ -448,7 +448,7 @@
             "borago_officinalis"
           ],
           "outcome": {
-            "text": "Stephanocolporatae — zie `beug25-stephanocolporatae.md`",
+            "text": "Stephanocolporatae — zie [beug25-stephanocolporatae](beug25-stephanocolporatae.md)",
             "pollen_keys": [
               "buddleja_davidii",
               "borago_officinalis"
@@ -461,7 +461,7 @@
             "myosotis_scorpioides"
           ],
           "outcome": {
-            "text": "Heterocolpatae — zie `beug28-heterocolpatae.md`",
+            "text": "Heterocolpatae — zie [beug28-heterocolpatae](beug28-heterocolpatae.md)",
             "pollen_keys": [
               "myosotis_scorpioides"
             ]
@@ -481,7 +481,7 @@
             "silene_cucubalis"
           ],
           "outcome": {
-            "text": "Periporatae — zie `beug33-periporatae.md`",
+            "text": "Periporatae — zie [beug33-periporatae](beug33-periporatae.md)",
             "pollen_keys": [
               "amarantus_caudatus",
               "phlox_paniculata",
@@ -502,13 +502,13 @@
         {
           "label": "pollenkorrel colpaat.",
           "outcome": {
-            "text": "Pericolpatae — zie `beug26-pericolpatae.md`"
+            "text": "Pericolpatae — zie [beug26-pericolpatae](beug26-pericolpatae.md)"
           }
         },
         {
           "label": "pollenkorrel colporaat.",
           "outcome": {
-            "text": "Pericolporatae — zie `beug27-pericolporatae.md`"
+            "text": "Pericolporatae — zie [beug27-pericolporatae](beug27-pericolporatae.md)"
           }
         }
       ]

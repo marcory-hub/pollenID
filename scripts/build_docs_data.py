@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate docs site data artifacts from data/pollen.yaml.
 
-Order: export pollen.json -> build manifests (keys, images inventory, PalynoQuest).
+Order: export pollen.json (+ taxa detail) -> species pages -> build manifests.
 """
 
 from __future__ import annotations
@@ -12,6 +12,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
 EXPORT = REPO / "scripts" / "export_pollen_json.py"
+RENDER = REPO / "scripts" / "render_taxon_pages_from_sot.py"
 MANIFESTS = REPO / "scripts" / "build_manifests.py"
 
 
@@ -19,6 +20,13 @@ def main() -> int:
     r1 = subprocess.run([sys.executable, str(EXPORT)], cwd=REPO, check=False)
     if r1.returncode != 0:
         return r1.returncode
+    r1b = subprocess.run(
+        [sys.executable, str(RENDER), "--build-all-species"],
+        cwd=REPO,
+        check=False,
+    )
+    if r1b.returncode != 0:
+        return r1b.returncode
     r2 = subprocess.run([sys.executable, str(MANIFESTS)], cwd=REPO, check=False)
     return r2.returncode
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Read-only inventory: image files, YAML coverage, and pollen_key resolution from stems.
 
-Writes JSON to --out (default: _build/pollen_asset_audit.json).
+Writes JSON to --out (default: temp/reports/pollen_asset_audit.json).
 """
 
 from __future__ import annotations
@@ -27,7 +27,7 @@ from pollen_asset_lib import (
 )
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_OUT = REPO_ROOT / "_build" / "pollen_asset_audit.json"
+DEFAULT_OUT = REPO_ROOT / "temp" / "reports" / "pollen_asset_audit.json"
 
 
 def collect_md_asset_refs() -> Dict[str, List[str]]:

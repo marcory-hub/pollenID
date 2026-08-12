@@ -9,10 +9,10 @@ Curated trusted sources. Draw lesson facts from here and cited links, not parame
 
 ## Knowledge
 
-- [GV2 flashing — repo README](../../README.md)
-  Operator steps for xmodem flash. Use for: flash workflow teaching.
-- [Seeed Colab notebooks](https://github.com/marcory-hub/Seeed_Grove_Vision_AI_Module_V2)
-  Train/quant SoT. Use for: Colab cell walkthroughs after `@sync-colab-notebooks`.
+- [Site naslag scripts](../../docs/naslag/scripts.md)
+  Closed Beug class labels and script index. Use for: class / field teaching.
+- [Published taxon pages](../../docs/pollen/species/)
+  Macro-driven Kenmerken. Use for: reading live examples after YAML edits.
 
 ## Wisdom (Communities)
 
@@ -26,11 +26,11 @@ Curated trusted sources. Draw lesson facts from here and cited links, not parame
 
 ## Rules
 
-- **High-trust only.** Primary sources, vendor docs, peer-reviewed work, moderated communities.
+- **High-trust only.** Primary sources, peer-reviewed work, moderated communities, verified repo paths.
 - **Annotate every entry.** One line: what it covers, when to reach for it.
 - **Knowledge / Wisdom** groups mirror teach philosophy.
 - **`## Gaps`** when mission needs coverage you lack.
 - **Prune** wrong or shallow entries.
 - **Record opt-out** if user declines communities.
 
-For this repo: prefer `notes/`, `README.md`, `colab-notebooks/` after sync over generic web summaries.
+For this repo: prefer `notes/` (topic table in `rules-notes-boundary.mdc`), `README.md`, `data/pollen.yaml`, and published `docs/` over generic web summaries.

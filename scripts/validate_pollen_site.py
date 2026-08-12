@@ -16,6 +16,7 @@ from pollen_asset_lib import DOCS_DIR, POLLEN_YAML, REPO_ROOT, yaml_image_paths
 
 BUILD_DATA = REPO_ROOT / "scripts" / "build_docs_data.py"
 POLLEN_JSON = DOCS_DIR / "data" / "pollen.json"
+TAXA_DETAIL_DIR = DOCS_DIR / "data" / "taxa"
 
 
 LEGACY_IMAGE_PREFIXES = (
@@ -55,6 +56,19 @@ def broken_yaml_paths(data: dict) -> List[str]:
     return sorted(set(broken))
 
 
+def _links_from_detail_or_index(key: str, index_rec: dict) -> dict | None:
+    detail_path = TAXA_DETAIL_DIR / f"{key}.json"
+    if detail_path.is_file():
+        try:
+            detail = json.loads(detail_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return None
+        if isinstance(detail, dict) and isinstance(detail.get("links"), dict):
+            return detail["links"]
+    links = index_rec.get("links")
+    return links if isinstance(links, dict) else None
+
+
 def check_pollen_json_links() -> List[str]:
     """Fail entries with a binomial latin name but no exported atlas URLs."""
     errs: List[str] = []
@@ -75,7 +89,7 @@ def check_pollen_json_links() -> List[str]:
         lat = rec.get("latin")
         if not isinstance(lat, str) or len(lat.strip().split()) < 2:
             continue
-        links = rec.get("links")
+        links = _links_from_detail_or_index(str(key), rec)
         if not isinstance(links, dict) or not any(
             isinstance(links.get(k), str) and links[k].strip() for k in atlas_keys
         ):

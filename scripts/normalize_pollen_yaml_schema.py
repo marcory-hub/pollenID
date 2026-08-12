@@ -49,6 +49,7 @@ CANONICAL_TOP: Tuple[str, ...] = (
     "classification",
     "size",
     "pollen_class_beug",
+    "beug_key_paths",
     "pollen_features",
     "flowering_time",
     "value",
@@ -247,6 +248,7 @@ def _normalize_entry(raw: Dict[str, Any]) -> Dict[str, Any]:
         "classification": _subdict(CLASSIFICATION_KEYS, class_src),
         "size": _subdict(SIZE_KEYS, size_src),
         "pollen_class_beug": merged.get("pollen_class_beug", _empty_scalar()),
+        "beug_key_paths": merged.get("beug_key_paths", _empty_scalar()),
         "pollen_features": _subdict(FEATURE_KEYS, feat_src),
         "flowering_time": _subdict(
             FLOWERING_TIME_KEYS, _as_dict(merged.get("flowering_time"))

@@ -31,7 +31,7 @@
         {
           "label": "PK groot, psilaat-scabraat.",
           "outcome": {
-            "text": "*Medicago sativa*-type (S. 207)\n\n*Medicago sativa* L. (4)\n38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\nZie ook `beug23-tricolporoidatae-ret-medicago-lupulina.md`.",
+            "text": "*Medicago sativa*-type (S. 207)\n\n*Medicago sativa* L. (4)\n38,0–57,5 µm, MiW 48,0 µm; 50 PK, 0a\n\nZie ook [beug23-tricolporoidatae-ret-medicago-lupulina](beug23-tricolporoidatae-ret-medicago-lupulina.md).",
             "pollen_key": "medicago_sativa"
           }
         },
@@ -48,13 +48,13 @@
         {
           "label": "PK 24–33 µm; rugulate elementen los; fossulaat daardoor duidelijk (Tafel 80: 1–5).",
           "outcome": {
-            "text": "*Laburnum* (S. 363) — zie `beug23-tricolporoidatae-ret-laburnum`."
+            "text": "*Laburnum* (S. 363) — zie [beug23-tricolporoidatae-ret-laburnum](beug23-tricolporoidatae-ret-laburnum.md)."
           }
         },
         {
           "label": "PK 30–40 µm; rugulate elementen dicht, vaak vernet (Tafel 80: 6–9).",
           "outcome": {
-            "text": "*Robinia pseudoacacia* (S. 363) — zie `beug23-tricolporoidatae-ret-robinia`.",
+            "text": "*Robinia pseudoacacia* (S. 363) — zie [beug23-tricolporoidatae-ret-robinia](beug23-tricolporoidatae-ret-robinia.md).",
             "pollen_key": "robinia_pseudoacacia"
           }
         }

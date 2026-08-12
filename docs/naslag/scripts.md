@@ -19,21 +19,22 @@ python scripts/<script>.py …
 | Script | Doel |
 | :--- | :--- |
 | `scripts/validate_pollen_site.py` | Controleert YAML-beeldpaden; optioneel rebuild, asset-layout, atlas-links, `mkdocs build` |
-| `scripts/build_docs_data.py` | Genereert `docs/data/pollen.json` en manifesten |
-| `scripts/export_pollen_json.py` | Exporteert alleen `docs/data/pollen.json` (subset van `build_docs_data.py`); inclusief `controlled` kenmerkcodes |
+| `scripts/build_docs_data.py` | Export JSON + taxa-detail + species-leaves + manifesten |
+| `scripts/export_pollen_json.py` | Exporteert `docs/data/pollen.json` (widgetindex) en `docs/data/taxa/<slug>.json` (links) |
 | `scripts/build_manifests.py` | Bouwt asset-manifesten onder `docs/assets/manifests/` (lookalike-paren inclusief `note`) |
-| `scripts/audit_pollen_assets.py` | Read-only inventaris: beelden, YAML-dekking, pollen_key-resolutie |
+| `scripts/audit_pollen_assets.py` | Read-only inventaris: beelden, YAML-dekking, pollen_key-resolutie (default: `temp/reports/pollen_asset_audit.json`) |
 
 ```bash
 ./.venv/bin/python scripts/validate_pollen_site.py --rebuild-data --images --links
 ./.venv/bin/python scripts/build_docs_data.py
+./.venv/bin/python scripts/audit_pollen_assets.py
 ```
 
 | Vlag (`validate_pollen_site.py`) | Betekenis |
 | :--- | :--- |
 | `--rebuild-data` | Eerst `build_docs_data.py` |
 | `--images` | Alias voor `--enforce-asset-layout` (canonieke `by-taxon/`-paden) |
-| `--links` | Atlas-URL's in `pollen.json` voor binomiale taxa |
+| `--links` | Atlas-URL's in `docs/data/taxa/<slug>.json` voor binomiale taxa |
 | `--mkdocs-build` | `mkdocs build` na geslaagde checks |
 
 ## Pollen YAML
@@ -41,6 +42,7 @@ python scripts/<script>.py …
 | Script | Doel |
 | :--- | :--- |
 | `scripts/fill_pollen_yaml_from_beug.py` | Vult lege velden in `data/pollen.yaml` vanuit Beug-key JSON en `notes/pollenID/Beug.txt`. `pollen_class_beug` = Aperturtyp-label (bijv. `Tricolpat-psilat`), geen hoofdstuknummer. |
+| `scripts/sync_beug_key_paths.py` | Sync't de Beug flows naar `beug_key_paths` in `data/pollen.yaml` (compact). |
 | `scripts/normalize_pollen_yaml_schema.py` | Normaliseert schema-layout |
 | `scripts/prefill_pollen_atlas_links.py` | Vult lege atlas-links |
 | `scripts/sync_yaml_confident_images.py` | Voegt ontbrekende image-paden toe |
@@ -53,6 +55,8 @@ python scripts/<script>.py …
 ```bash
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --dry-run
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py
+./.venv/bin/python scripts/sync_beug_key_paths.py --slug <pollen_key>
+./.venv/bin/python scripts/sync_beug_key_paths.py
 ./.venv/bin/python scripts/fill_typ_images.py --dry-run
 ./.venv/bin/python scripts/sync_yaml_confident_images.py
 ./.venv/bin/python scripts/lookalike_candidates.py --confirm-published
@@ -66,9 +70,9 @@ python scripts/<script>.py …
 
 | Script | Doel |
 | :--- | :--- |
-| `scripts/add_taxon.py` | Orchestrator: rename → sync YAML-beelden → optioneel inject/slim → validate `--rebuild-data` |
+| `scripts/add_taxon.py` | Orchestrator: rename → sync YAML-beelden → sync `beug_key_paths` (met `--slug`) → optioneel inject/slim → validate `--rebuild-data` |
 | `scripts/rename_kerkvliet_screenshot_imports.py` | Hernoemt Schermafbeelding*.png naar `<slug>_N.png` |
-| `scripts/render_taxon_pages_from_sot.py` | Genereert species-pagina's vanuit `data/pollen.yaml` |
+| `scripts/render_taxon_pages_from_sot.py` | Genereert `docs/pollen/species/<slug>.md` uit display JSON (+ YAML SoT); `--build-all-species` via `build_docs_data.py` |
 | `scripts/bootstrap_by_taxon_task.py` | Maakt `by-taxon-task/`-mappen voor taxa zonder bruikbare bitmaps |
 | `scripts/update_monofloral_pages.py` | Vernieuwt kenmerkentabellen op monoflorale honingpagina's vanuit YAML |
 
@@ -79,7 +83,7 @@ python scripts/<script>.py …
 | `scripts/inject_pollen_keys_into_key_json.py` | Zet `pollen_key` op Kerkvliet-rijen (match op Latijn ↔ YAML-slug) |
 | `scripts/slim_pollen_key_endpoints.py` | Strip inline taxonvelden uit key-JSON wanneer slug in YAML staat |
 | `scripts/extract_key_paths.py` | Determinatiesleutels-sectie per taxon voor species-pagina's |
-| `scripts/merge_pollen.py` | Legacy: merge Kerkvliet-inlinevelden naar pollen-YAML |
+| `scripts/merge_pollen.py` | Legacy: merge Kerkvliet-inlinevelden naar pollen-YAML (optioneel `--report temp/reports/merge_pollen_report.txt`) |
 | `scripts/audit_key_synonyms.py` | Audit synoniemen in sleutel-JSON |
 | `scripts/build_vanderham_pollentabel_scans_json.py` | Bouwt van der Ham pollentabel-JSON uit transcript |
 

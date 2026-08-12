@@ -7,6 +7,6 @@ description: >-
 disable-model-invocation: true
 ---
 
-1. Read and follow [.cursor/skills/grilling/SKILL.md](.cursor/skills/grilling/SKILL.md) in full.
-2. Read and follow [.cursor/skills/domain-modeling/SKILL.md](.cursor/skills/domain-modeling/SKILL.md) in full.
+1. Read and follow [.cursor/skills/grilling/SKILL.md](../grilling/SKILL.md) in full.
+2. Read and follow [.cursor/skills/domain-modeling/SKILL.md](../domain-modeling/SKILL.md) in full.
 3. When a term or decision is ready, draft in chat and wait for **approve** before any disk write.

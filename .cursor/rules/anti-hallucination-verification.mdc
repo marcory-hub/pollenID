@@ -19,13 +19,13 @@ Apply in this order. Layout: `project-context.mdc`. `notes/` boundary: `rules-no
 
 | Layer | Path | Role for agents |
 | :--- | :--- | :--- |
-| Design SoT | `notes/` | Plans, drafts, indexes. **Read only.** Cite `(path)` when KB lacks the item. |
+| Design SoT | `notes/` | Plans, drafts, indexes. **Read only.** Cite `(path)` when chat lacks the item. |
 | Taxon SoT | `data/pollen.yaml` | Canonical taxon fields, sizes, images. `docs/data/pollen.json` is generated only. |
 | Published site | `docs/` | MkDocs pages, keys under `docs/keys/`, assets under `docs/assets/`. |
 | Contracts | `mkdocs.yml`, key JSON shape in `.cursor/skills/interactive-pollen-key/SKILL.md` | Nav, plugins, key wizard contract. Do not invent fields. |
 | Verification | `scripts/validate_pollen_site.py` | YAML paths, optional rebuild/images/links/mkdocs. Exit 0 before treating site data as valid. |
 
-**Not factual sources:** unpromoted drafts, general palynology knowledge not present in the layers above, stale generated `docs/data/` until rebuild.
+**Not factual sources:** unpublished `notes/` drafts, general palynology knowledge not present in the layers above, stale generated `docs/data/` until rebuild.
 
 ## 3. Whitelist (treat as fact only)
 
@@ -37,7 +37,7 @@ Apply in this order. Layout: `project-context.mdc`. `notes/` boundary: `rules-no
 ## 4. Strict prohibitions
 
 - Never invent or alter taxon content without a YAML entry, cited `notes/` path, or user confirmation.
-- Do not invent file paths, slugs, Latin names, or enum values not in the codebase or YAML.
+- Do not invent file paths, slugs, Latin names, or field values not in the codebase or YAML.
 - New files and ids: human-readable names that convey **why** and **how**.
 - **Environment:** Do not assume packages beyond root `requirements.txt` / `.venv`.
 - **notes/:** Never create, modify, or delete anything under `notes/` (canonical statement: `rules-notes-boundary.mdc`).
@@ -45,14 +45,14 @@ Apply in this order. Layout: `project-context.mdc`. `notes/` boundary: `rules-no
 ## 5. Traceability
 
 - Cite data as `(path)` when describing provenance in chat.
-- Low-confidence ingest, OCR, or bilingual items: flag for human review; do not guess.
+- Low-confidence OCR, atlas extracts, or bilingual items: flag for human review; do not guess.
 - Prefer a single resolved Latin species (or accepted infraspecific) name as `pollen_key` slug; type aggregates use `genus_typ` (see `project-context.mdc`).
 
 ## 6. Destructive commands
 
 Never suggest `git push --force`, `rm -rf`, or wholesale asset/`nav` rewrites without a clear, bold warning:
 
-**WARNING: Irreversible operation. This risks data loss, broken lineage, or loss of auditability.**
+**WARNING: Irreversible operation. This risks data loss or broken site links.**
 
 ## 7. Tool and read failures
 

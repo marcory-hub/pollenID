@@ -28,7 +28,7 @@ SKIP_TOP_DIRS = {
     "__pycache__",
     ".venv",
     "site",
-    "_build",
+    "temp",
     "notes",
 }
 

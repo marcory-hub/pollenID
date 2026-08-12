@@ -1,11 +1,11 @@
 from __future__ import annotations
 
+import json
 import sys
 from html import escape
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-import yaml
 from mkdocs.utils import normalize_url
 
 _SCRIPTS = Path(__file__).resolve().parent
@@ -13,22 +13,25 @@ if str(_SCRIPTS) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS))
 
 from pollen_display import (  # noqa: E402
-    display_width_px_for_yaml_entry,
-    entry_latin,
+    display_width_px_for_json_entry,
     entry_visibility,
     per_image_width_px,
-    resolve_pollen_field,
+    resolve_json_field,
     visibility_label_nl,
 )
 
 _REPO_ROOT = _SCRIPTS.parent
+POLLEN_JSON = _REPO_ROOT / "docs" / "data" / "pollen.json"
 
 
-def _load_pollen_data() -> Dict[str, Any]:
-    path = _REPO_ROOT / "data" / "pollen.yaml"
-    if not path.exists():
+def _load_display_index() -> Dict[str, Any]:
+    if not POLLEN_JSON.is_file():
         return {}
-    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    try:
+        payload = json.loads(POLLEN_JSON.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    return payload if isinstance(payload, dict) else {}
 
 
 def _canonical_assets_uri(src: str) -> Optional[str]:
@@ -55,7 +58,7 @@ def _resolve_assets_href(canonical_uri: Optional[str], macros_plugin: Any) -> st
 
 
 def define_env(env) -> None:
-    pollen_data = _load_pollen_data()
+    pollen_data = _load_display_index()
     # Do not name this variable 'pollen' to avoid shadowing the pollen() macro in templates.
     env.variables["pollen_data"] = pollen_data
 
@@ -64,7 +67,7 @@ def define_env(env) -> None:
         entry = pollen_data.get(key)
         if not isinstance(entry, dict):
             return ""
-        value = resolve_pollen_field(entry, field)
+        value = resolve_json_field(entry, field)
         if value is None:
             return ""
         if isinstance(value, (dict, list)):
@@ -77,7 +80,10 @@ def define_env(env) -> None:
         entry = pollen_data.get(key)
         if not isinstance(entry, dict):
             return ""
-        label = visibility_label_nl(entry_visibility(entry, morph_field))
+        vis_key = f"{morph_field}_visibility"
+        label = visibility_label_nl(entry.get(vis_key))
+        if not label:
+            label = visibility_label_nl(entry_visibility(entry, morph_field))
         if not label:
             return ""
         return f" ({label})"
@@ -92,7 +98,7 @@ def define_env(env) -> None:
         entry = pollen_data.get(key, {}) if isinstance(pollen_data, dict) else {}
         height_px: Optional[int] = None
         if isinstance(entry, dict):
-            height_px = display_width_px_for_yaml_entry(entry)
+            height_px = display_width_px_for_json_entry(entry)
 
         ih = item_height_px
         if isinstance(ih, int) and ih > 0:
@@ -104,8 +110,8 @@ def define_env(env) -> None:
         resolved_src = _resolve_assets_href(canonical, env) if canonical else src
 
         safe_src = escape(resolved_src or "", quote=True)
-        lat = entry_latin(entry) if isinstance(entry, dict) else ""
-        safe_alt = escape(alt or lat or key, quote=True)
+        lat = entry.get("latin") if isinstance(entry, dict) else ""
+        safe_alt = escape(alt or (lat if isinstance(lat, str) else "") or key, quote=True)
 
         if height_px is None:
             return f'<img class="pid-true-scale" src="{safe_src}" alt="{safe_alt}">'
@@ -117,14 +123,15 @@ def define_env(env) -> None:
 
     @env.macro
     def gallery(key: str) -> str:
-        """Render all YAML `images` for taxon `key` in gallery layout."""
+        """Render all index `images` for taxon `key` in gallery layout."""
         entry = pollen_data.get(key) if isinstance(pollen_data, dict) else None
         if not isinstance(entry, dict):
             return ""
 
-        latin = entry_latin(entry) or ""
+        latin = entry.get("latin")
+        latin_s = latin.strip() if isinstance(latin, str) else ""
 
-        default_w = display_width_px_for_yaml_entry(entry)
+        default_w = display_width_px_for_json_entry(entry)
 
         imgs = entry.get("images")
         if not isinstance(imgs, list) or not imgs:
@@ -148,7 +155,7 @@ def define_env(env) -> None:
             safe_src = escape(href, quote=True)
 
             fname = Path(canon).name
-            caption = latin or key
+            caption = latin_s or key
             safe_alt = escape(f"{caption} ({fname})", quote=True)
 
             style = ""
