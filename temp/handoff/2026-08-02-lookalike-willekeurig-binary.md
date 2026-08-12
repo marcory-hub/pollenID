@@ -10,7 +10,7 @@ Ship confirmed lookalike pairs (with E/M/D) as a Willekeurig Niveau option: one 
 - Willekeurig UI: Lookalike is a **Niveau select option** (not a checkbox). Options: Alle / Makkelijk / Matig / Moeilijk in (`docs/naslag/palynoquest.md`); binary MCQ in (`docs/javascripts/palynoquest.js`); cache-bust `?v=2026-08-02-lookalike-binary` in (`mkdocs.yml`).
 - Lookalike mode: hides open vraag + sleutel; shows one image from a random side of a pair; exactly two buttons; SRS keyed by `a|b` pair id.
 - Brassica type scale fix: (`brassica_typ`) leads with `brassica_napus` image + size (~28.2 µm → 70 px). Laurocerasus face for review: `_3.png`.
-- Review HTML: (`temp/lookalike-all-review.html`) + index (`temp/lookalike-all-index.json`).
+- Review Markdown: (`temp/lookalike-all-review.md`) + index (`temp/lookalike-all-index.json`).
 - Domain term SoT: Lookalike in (`CONTEXT.md`). Gallery footnote already points at product vs table sense in (`docs/gallerie/gallery-nl-pollen-types.md`).
 - No commit requested this stream; manifests under `docs/assets/manifests/` are gitignored and rebuilt in CI.
 
@@ -26,7 +26,7 @@ Ship confirmed lookalike pairs (with E/M/D) as a Willekeurig Niveau option: one 
 - `scripts/lookalike_candidates.py` / `scripts/promote_lookalikes.py` / `scripts/build_manifests.py` — pipeline
 - `docs/naslag/palynoquest.md` + `docs/javascripts/palynoquest.js` — Willekeurig Lookalike option
 - `docs/assets/manifests/lookalike-groups.json` — generated quiz feed (local/CI)
-- `temp/lookalike-all-review.html` — true-scale pair review
+- `temp/lookalike-all-review.md` — true-scale pair review
 
 ## Suggested skills
 - `@update-pollen-yaml` — edit/confirm lookalike pairs or difficulties in YAML

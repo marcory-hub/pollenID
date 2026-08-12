@@ -64,6 +64,7 @@ Library (auto-pick off): `grilling`. Inventory: `docs/adr/0002-skill-entry-point
 
 ## 4b. Operational defaults (MkDocs and assets)
 
+- **Site check:** Do not use local `mkdocs serve` / `localhost` / built `site/` as the browser SoT. Verify UI only after **push → GitHub Actions → GitHub Pages** (live site). Local `mkdocs build --strict` and validators remain OK for CI-parity checks.
 - Run **`mkdocs build --strict`** after changes to **`mkdocs.yml`** `nav`, plugin config, or broad internal-link refactors. CI (`.github/workflows/ci.yml`) also runs `--strict`; a green local build on macOS is not enough if link/asset paths only fail on Linux.
 - **`--strict` / link validation:** MkDocs treats missing relative targets as warnings that fail `--strict`. Before pushing: fix or remove broken `.md` links; do not invent stub pages unless the user asks. Prefer adding a real target to `nav` (or an intentional stub) when many published pages already link to it.
 - **Case-sensitive paths (Linux CI):** Image and page paths must match on-disk spelling exactly (`.png` ≠ `.PNG`, `.jpeg` ≠ `.jpg`). Verify with `test -f docs/...` after renames.
