@@ -44,4 +44,4 @@ During a grill, one item per approve is fine; do not batch silent writes at the 
 
 **Draft glossary updates.** When a term is settled, show the `CONTEXT.md` addition or edit in chat using [context-format.md](context-format.md). Glossary only: no implementation detail, specs, or scratch notes. Write on **approve** only.
 
-**Offer ADRs sparingly.** Only when all three hold: hard to reverse, surprising without context, real trade-off. Show draft in chat using [ADR-format.md](ADR-format.md); write on **approve** only.
+**Offer ADRs sparingly.** Only when all three hold: hard to reverse, surprising without context, real trade-off. Show draft in chat using [ADR-format.md](ADR-format.md); write on **approve** only. For PalynoQuest mode/lock ADRs, read **`docs/naslag/palynoquest-modes.md`** first (do not invent a parallel mode table in the ADR body).

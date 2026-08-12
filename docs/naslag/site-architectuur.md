@@ -74,7 +74,9 @@ Weergavebreedte site-breed: `display_width_px ≈ round(grootste maat µm × 2,5
 | `docs/data/taxa/<slug>.json` | idem | Leaf/detail: atlas-`links` en andere build-only velden |
 | `data/species_page_slugs.txt` | handmatig bij nieuwe leaf | Slugs waarvoor `build_docs_data` een species-pagina genereert |
 | `docs/assets/manifests/keys.json` | `build_manifests.py` | PalynoQuest: lijst interactieve sleutels |
-| `docs/assets/manifests/palynoquest-items.json` | idem | Quiz-items (beeld + verwacht label + sleutel-URL) |
+| `docs/assets/manifests/palynoquest-items.json` | idem | Legacy quiz-items (beeld + endpoint; niet voor naam-MCQ niveaus) |
+| `docs/assets/manifests/lookalike-groups.json` | idem | Lookalike-paren voor lookalike-modus |
+| `docs/assets/manifests/morph-neighbours.json` | `morph_lookalike_cluster.py` | Naam-MCQ: morfologische afleiders |
 | `docs/assets/manifests/images.json` | idem | Beeldinventaris + gebruik in sleutels |
 
 Regenereren: `./.venv/bin/python scripts/build_docs_data.py` (lokaal vóór `mkdocs serve`; CI doet dit automatisch).
@@ -167,7 +169,15 @@ Grootteklassen (max parsed µm): VerySmall &lt;15, Small 15–25, Medium 26–50
 
 #### PalynoQuest (`palynoquest.js`)
 
-Pagina: [PalynoQuest](palynoquest.md) (nav: Willekeurig). HTML met `data-pq-*` attributen; laadt `keys.json` + `palynoquest-items.json` + embedded `pollentabel.js`-wizard voor sleutelpad.
+Modus-contract (locks, pools, verboden regressies): [PalynoQuest-modi](palynoquest-modes.md). ADR: `docs/adr/0004-palynoquest-mode-locks.md`.
+
+| Lock | Modus | Waar |
+| :--- | :--- | :--- |
+| `1` / `2` / `3` | Naam-MCQ (beeld + 4 namen) | Herkennen niveau-pagina’s |
+| `kenmerken` / `kenmerken-N` | Kenmerken-drill | Pollenkenmerken |
+| `lookalike*` | Lookalike | Lookalikes oefenen |
+
+Vrije selector (niet in `nav`): [Willekeurig](palynoquest.md). HTML met `data-pq-*`; laadt `pollen.json`, `morph-neighbours.json`, `lookalike-groups.json` (items/keys optioneel).
 
 ## JavaScript — gedeeld gedrag
 

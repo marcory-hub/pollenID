@@ -28,6 +28,7 @@ alwaysApply: true
 | **Knowledge capture** | `notes/` (general) |
 | **Taxon add/update (images, YAML, pages, validate)** | `.cursor/skills/update-pollen/SKILL.md` |
 | **Author/edit dichotomous key** | `.cursor/skills/interactive-pollen-key/SKILL.md` |
+| **PalynoQuest / herkennen quiz** | **Read first:** `docs/naslag/palynoquest-modes.md` (contract). ADR: `docs/adr/0004-palynoquest-mode-locks.md`. No dedicated skill. |
 
 ### When → skill (entry points)
 
@@ -40,6 +41,7 @@ alwaysApply: true
 | Multi-session teaching | `@teach-me` |
 | Compact for next agent | `@handoff` |
 | Fix Cursor ignore / unignore paths | `@cursor-unignore` |
+| PalynoQuest locks, pools, `palynoquest.js`, morph-neighbours | (no skill) **read** `docs/naslag/palynoquest-modes.md` before editing |
 
 Library (auto-pick off): `grilling`. Inventory: `docs/adr/0002-skill-entry-points.md`. Note facts: read `notes/` via topic table in `rules-notes-boundary.mdc` (no `@read-notes` skill).
 
@@ -89,6 +91,12 @@ Library (auto-pick off): `grilling`. Inventory: `docs/adr/0002-skill-entry-point
 - **JSON contract**: `.cursor/skills/interactive-pollen-key/SKILL.md` (do not invent sibling keys the script does not use).
 - **JSON syntax fixes:** structure only (`{}` `[]` `,` escapes). Leave string values (Dutch labels, taxa, Markdown, URLs) verbatim unless the user explicitly allows copy edits.
 - Note: `beug03-polyadeae.md` and `beug05-dyade.md` do NOT link to JSON; do not invent JSON for them.
+
+### PalynoQuest / Herkennen quiz
+
+- **Contract SoT (in `docs/`):** `docs/naslag/palynoquest-modes.md`. Do not restate mode tables or pool rules in `.mdc` / skills.
+- **Before editing** `docs/javascripts/palynoquest.js`, `data-pq-lock-level` on herkennen pages, Willekeurig selector options, or morph-neighbours build wiring: **open and follow** that page (and ADR `docs/adr/0004-palynoquest-mode-locks.md` if changing the decision).
+- **Hard invariant:** numeric locks `1`/`2`/`3` = name-MCQ; `kenmerken*` = feature drill; `lookalike*` = lookalike. Never coerce numeric tiers into kenmerken mode.
 
 ## 6. Do not suggest (hard guardrails)
 

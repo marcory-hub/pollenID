@@ -1,6 +1,10 @@
 # Willekeurig
 
-Zelfde kenmerken-stappen als op [Pollenkenmerken](../herkennen/pollenkenmerken/_index.md): vorm, apertuur, sculptuur, grootteband (alle opties), daarna naam (4 opties). Of lookalike: één beeld, twee namen.
+Vrije PalynoQuest-selector (niet in hoofdnavigatie). Contract: [PalynoQuest-modi](palynoquest-modes.md).
+
+- Kenmerken: zelfde stappen als [Pollenkenmerken](../herkennen/pollenkenmerken/_index.md)
+- Lookalike: één beeld, twee namen
+- Naam-MCQ zit op de Herkennen-niveaupagina’s (`lock` 1 / 2 / 3), niet in deze dropdown
 
 <div data-palynoquest class="md-typeset">
   <p style="margin: 0 0 12px 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">

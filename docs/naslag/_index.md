@@ -1,8 +1,9 @@
 # Naslag
 
-## Willekeurig
+## PalynoQuest
 
-- [Willekeurig (PalynoQuest)](palynoquest.md)
+- [Modi en niveau-locks](palynoquest-modes.md) (contract: naam / kenmerken / lookalike)
+- [Willekeurig](palynoquest.md) (vrije selector; niet in hoofdnavigatie)
 
 ## Nomenclatuur
 
@@ -16,6 +17,7 @@
 ## Site
 
 - [Site-architectuur (GitHub)](site-architectuur.md)
+- [PalynoQuest-modi](palynoquest-modes.md)
 
 ## Scripts
 

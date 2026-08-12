@@ -1,4 +1,4 @@
-/* PalynoQuest: image-first quiz that can embed a JSON key (pollentabel.js). */
+/* PalynoQuest: see docs/naslag/palynoquest-modes.md (mode locks; do not coerce 1/2/3 into kenmerken). */
 (function () {
   "use strict";
 

@@ -59,3 +59,5 @@ Do not also run `build_docs_data.py` in the same turn. For van der Ham taxa afte
 ## Out of scope
 
 Author/reshape dichotomous key trees → **`@interactive-pollen-key`**.
+
+Do not change PalynoQuest mode locks or coerce name-MCQ into kenmerken. If touching `docs/javascripts/palynoquest.js` or herkennen `data-pq-lock-level`, read **`docs/naslag/palynoquest-modes.md`** first.

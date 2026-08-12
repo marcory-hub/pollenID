@@ -113,6 +113,7 @@ nav:
   - Naslag:
       - Overzicht: naslag/_index.md
       - Site-architectuur: naslag/site-architectuur.md
+      - PalynoQuest-modi: naslag/palynoquest-modes.md
       - Synoniemen en basioniemen: naslag/synoniemen-en-basioniemen.md
       - Voormalige plantenfamilies: naslag/voormalige-families.md
       - Monofloraal groepsindeling: naslag/monofloraal-groepsindeling.md
