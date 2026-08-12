@@ -1,3 +1,10 @@
 # notes/ (Obsidian mirror; agent Read)
 !notes/
 !notes/**
+
+# temp/ (local scratch; temp/reports/ is gitignored)
+!temp/
+!temp/**
+temp/reports/*
+!temp/reports/
+!temp/reports/**

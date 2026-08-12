@@ -6,6 +6,7 @@ and MkDocs macros can resolve taxon info from the SoT.
 
 Each exported taxon includes:
   - pollen_key, latin, dutch, family, shape, sculpture, ornamentation, aperture, size
+  - optional polarity, pe_ratio, pollen-note (curated herkennen macro fields)
   - optional sculpture_visibility / aperture_visibility / ornamentation_visibility
     (lm_clear | lm_poor | em_only) when set in YAML
   - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
@@ -140,6 +141,17 @@ def _build_index_entry(
         mv = _clean_scalar(entry_feature(src, morph))
         if mv is not None:
             out[morph] = mv
+
+    for extra in ("polarity", "pe_ratio"):
+        ev = _clean_scalar(entry_feature(src, extra))
+        if ev is not None:
+            out[extra] = ev
+
+    pnote = _clean_scalar(
+        entry_feature(src, "pollen-note") or entry_feature(src, "pollen_note")
+    )
+    if pnote is not None:
+        out["pollen-note"] = pnote
 
     for vis in (
         "sculpture_visibility",

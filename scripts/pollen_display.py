@@ -301,6 +301,10 @@ JSON_FIELD_ALIASES: Dict[str, str] = {
     "size.smallest_size": "size.smallest_size",
     "size.size_largest": "size.largest_size",
     "size.largest_size": "size.largest_size",
+    "pollen-note": "pollen-note",
+    "pollen_note": "pollen-note",
+    "pe_ratio": "pe_ratio",
+    "polarity": "polarity",
 }
 
 
