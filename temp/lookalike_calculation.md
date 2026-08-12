@@ -177,7 +177,7 @@ Clusters with ≥2 members at tight≤1.000 cut. Learning-priority first.
   - `rosa_glauca` | *Rosa glauca* | unranked | ap=tricol* | class=medium | mid=31.3µm | size_src=yaml | sc={striaat}
   - `rosa_spinosissima` | *Rosa spinosissima* | unranked | ap=tricol* | class=medium | mid=33.4µm | size_src=yaml | sc={striaat}
 - Closest pair evidence `potentilla_norvegica`–`rosa_glauca` (d=0.435): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same medium', 'size_mid_gap_um': 0.25, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['striaat']}, 'beug_fam': 'same tricolpor', 'shape': 'missing_one_or_both', 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.435}`
-- Provenance (sample): `potentilla_norvegica`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `prunus_mahaleb`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `prunus_pirus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `rosa_glauca`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug
+- Provenance (sample): `potentilla_norvegica`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `prunus_mahaleb`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `prunus_pirus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `rosa_glauca`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug
 
 ### C3 (n=3, mean_d=0.549, max_d=0.778) — ranks [4]
 
@@ -223,7 +223,7 @@ Clusters with ≥2 members at tight≤1.000 cut. Learning-priority first.
   - `aesculus` | *Aesculus* | rank=8 | ap=tricol* | class=small | mid=20.0µm | size_src=yaml | sc={psilaat}
   - `solanum_lycopers` | *Solanum lycopersicum* | unranked | ap=tricol* | class=small | mid=20.0µm | size_src=yaml
 - Closest pair evidence `aesculus`–`solanum_lycopers` (d=0.675): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same small', 'size_mid_gap_um': 0.0, 'sculpture': 'missing_one_or_both', 'shape': {'jaccard_dist': 0.0, 'shared': ['rond']}, 'ornamentation': 'missing_one_or_both', 'dims_used': 3, 'distance': 0.675}`
-- Provenance (sample): `aesculus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `solanum_lycopers`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
+- Provenance (sample): `aesculus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `solanum_lycopers`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
 
 ### C7 (n=2, mean_d=0.937, max_d=0.937) — ranks [10]
 
@@ -235,7 +235,7 @@ Clusters with ≥2 members at tight≤1.000 cut. Learning-priority first.
   - `vicia_typ` | *Vicia typ* | rank=10 | ap=tricol* | class=medium | mid=32.5µm | size_src=yaml | sc={reticulaat}
   - `euphorbia_cyparissias` | *Euphorbia cyparissias* | unranked | ap=tricol* | class=medium | mid=32.5µm | size_src=yaml | sc={reticulaat}
 - Closest pair evidence `euphorbia_cyparissias`–`vicia_typ` (d=0.937): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same medium', 'size_mid_gap_um': 0.05, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'coarse_sculpt_penalty': 'reticulaat', 'shape': 'missing_one_or_both', 'ornamentation': 'missing_one_or_both', 'dims_used': 3, 'distance': 0.937}`
-- Provenance (sample): `euphorbia_cyparissias`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `vicia_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband
+- Provenance (sample): `euphorbia_cyparissias`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `vicia_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse
 
 ### C8 (n=2, mean_d=0.745, max_d=0.745) — ranks [11]
 
@@ -284,7 +284,7 @@ Clusters with ≥2 members at tight≤1.000 cut. Learning-priority first.
   - `parthenocissus` | *Parthenocissus* | rank=17 | ap=tricol* | class=medium | mid=32.5µm | size_src=yaml | sc={reticulaat}
   - `ulex_europaeus` | *Ulex europaeus* | unranked | ap=tricol* | class=medium | mid=33.0µm | size_src=yaml | sc={reticulaat}
 - Closest pair evidence `parthenocissus`–`ulex_europaeus` (d=0.233): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same medium', 'size_mid_gap_um': 0.45, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'shape': {'jaccard_dist': 0.0, 'shared': ['rond']}, 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.233}`
-- Provenance (sample): `parthenocissus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `ulex_europaeus`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
+- Provenance (sample): `parthenocissus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `ulex_europaeus`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
 
 ### C12 (n=4, mean_d=0.543, max_d=0.961) — ranks [18, 19]
 
@@ -298,7 +298,7 @@ Clusters with ≥2 members at tight≤1.000 cut. Learning-priority first.
   - `diplotaxis_tenuifolia` | *Diplotaxis tenuifolia* | unranked | ap=tricol* | class=small | mid=20.0µm | size_src=yaml | sc={reticulaat}
   - `salix_purpurea` | *Salix purpurea* | unranked | ap=tricol* | class=small | mid=19.9µm | size_src=yaml | sc={reticulaat}
 - Closest pair evidence `diplotaxis_tenuifolia`–`raphanus_typ` (d=0.125): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same small', 'size_mid_gap_um': 0.0, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'shape': {'jaccard_dist': 0.0, 'shared': ['rond']}, 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.125}`
-- Provenance (sample): `diplotaxis_tenuifolia`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `raphanus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `salix_purpurea`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `verbascum`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband
+- Provenance (sample): `diplotaxis_tenuifolia`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `raphanus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `salix_purpurea`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `verbascum`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse
 
 ### C13 (n=3, mean_d=0.775, max_d=0.975) — ranks [21]
 
@@ -2160,7 +2160,7 @@ Clusters with ≥2 members at loose≤1.750 cut. Learning-priority first.
   - `salix_purpurea` | *Salix purpurea* | unranked | ap=tricol* | class=small | mid=19.9µm | size_src=yaml | sc={reticulaat}
   - `tamarix_gallica` | *Tamarix gallica* | unranked | ap=tricol* | class=small | mid=17.5µm | size_src=yaml | sc={reticulaat}
 - Closest pair evidence `lepidium_sativum`–`tamarix_gallica` (d=0.925): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same small', 'size_mid_gap_um': 0.0, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'coarse_sculpt_penalty': 'reticulaat', 'beug_fam': 'same tricol', 'shape': 'missing_one_or_both', 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.925}`
-- Provenance (sample): `arabis_procurrens`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `echium`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `lepidium_sativum`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `rhamnus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband
+- Provenance (sample): `arabis_procurrens`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `echium`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `lepidium_sativum`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `rhamnus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse
 
 ### C8 (n=6, mean_d=1.008, max_d=1.625) — ranks [8, 18, 19]
 
@@ -2175,7 +2175,7 @@ Clusters with ≥2 members at loose≤1.750 cut. Learning-priority first.
   - `erigeron_canaden` | *Erigeron canadensis* | unranked | ap=tricol* | class=small | mid=20.0µm | size_src=yaml | sc={echinaat}
   - `solanum_lycopers` | *Solanum lycopersicum* | unranked | ap=tricol* | class=small | mid=20.0µm | size_src=yaml
 - Closest pair evidence `diplotaxis_tenuifolia`–`raphanus_typ` (d=0.125): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same small', 'size_mid_gap_um': 0.0, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'shape': {'jaccard_dist': 0.0, 'shared': ['rond']}, 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.125}`
-- Provenance (sample): `aesculus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `diplotaxis_tenuifolia`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `erigeron_canaden`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `raphanus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband
+- Provenance (sample): `aesculus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `diplotaxis_tenuifolia`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `erigeron_canaden`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape · `raphanus_typ`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse
 
 ### C9 (n=5, mean_d=1.195, max_d=1.619) — ranks [9]
 
@@ -2207,7 +2207,7 @@ Clusters with ≥2 members at loose≤1.750 cut. Learning-priority first.
   - `trifolium_fragiferum` | *Trifolium fragiferum* | unranked | ap=tricol* | class=medium | mid=33.2µm | size_src=yaml | sc={reticulaat}
   - `ulex_europaeus` | *Ulex europaeus* | unranked | ap=tricol* | class=medium | mid=33.0µm | size_src=yaml | sc={reticulaat}
 - Closest pair evidence `parthenocissus`–`ulex_europaeus` (d=0.233): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same medium', 'size_mid_gap_um': 0.45, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['reticulaat']}, 'shape': {'jaccard_dist': 0.0, 'shared': ['rond']}, 'ornamentation': 'missing_one_or_both', 'dims_used': 4, 'distance': 0.233}`
-- Provenance (sample): `euphorbia_cyparissias`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `glaucium_flavum`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `parthenocissus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `sinapis_arvensis`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
+- Provenance (sample): `euphorbia_cyparissias`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `glaucium_flavum`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `parthenocissus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `sinapis_arvensis`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
 
 ### C11 (n=4, mean_d=0.946, max_d=1.499) — ranks [11]
 
@@ -2285,7 +2285,7 @@ Clusters with ≥2 members at loose≤1.750 cut. Learning-priority first.
   - `aquilegia_vulgaris` | *Aquilegia vulgaris* | unranked | ap=tricol* | class=small | mid=20.5µm | size_src=yaml | sc={psilaat}
   - `sedum_typ` | *Sedum typ* | unranked | ap=tricol* | class=small | mid=20.0µm | size_src=yaml | sc={psilaat,striaat}
 - Closest pair evidence `aquilegia_vulgaris`–`lotus` (d=1.045): `{'aperture': 'same tricol*', 'size_source': 'yaml vs yaml', 'size_class': 'same small', 'size_mid_gap_um': 0.5, 'sculpture': {'jaccard_dist': 0.0, 'shared': ['psilaat']}, 'coarse_sculpt_penalty': 'psilaat', 'shape': 'missing_one_or_both', 'ornamentation': 'missing_one_or_both', 'dims_used': 3, 'distance': 1.045}`
-- Provenance (sample): `aquilegia_vulgaris`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `lotus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteband · `sedum_typ`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
+- Provenance (sample): `aquilegia_vulgaris`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:pollen_class_beug · `lotus`: data/pollen.yaml:controlled.sculptuur; data/pollen.yaml:controlled.apertuur; data/pollen.yaml:controlled.vorm; data/pollen.yaml:controlled.grootteklasse · `sedum_typ`: data/pollen.yaml:size; data/pollen.yaml:aperture; data/pollen.yaml:sculpture; data/pollen.yaml:shape
 
 ### C16 (n=4, mean_d=0.994, max_d=1.359) — ranks [21, 40]
 

@@ -402,7 +402,7 @@ acer_platanoides:
       sculptuur: striaat
       apertuur: tricolpaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
   flowering_time:
     start: 4
     end: 4
@@ -6761,7 +6761,7 @@ salix_typ:
       sculptuur: reticulaat
       apertuur: tricolpaat
       vorm: rond
-      grootteband: band_15_25
+      grootteklasse: band_15_25
   flowering_time:
     start:
     end:
@@ -7490,7 +7490,7 @@ tilia_typ:
       sculptuur: foveolaat
       apertuur: tricolporaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
   flowering_time:
     start:
     end:
@@ -9710,7 +9710,7 @@ centaurea_cyanus:
       sculptuur: striaat
       apertuur: tricolporaat
       vorm: prolaat
-      grootteband: band_25_40
+      grootteklasse: band_25_40
   flowering_time:
     start:
     end:
@@ -27695,7 +27695,7 @@ trifolium_repens:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: driehoekig
-      grootteband: band_15_25
+      grootteklasse: band_15_25
   flowering_time:
     start:
     end:
@@ -30784,7 +30784,7 @@ aesculus:
       sculptuur: psilaat
       apertuur: tricolporaat
       vorm: rond
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: aesculus_hippocastanum
   flowering_time:
     start:
@@ -33946,7 +33946,7 @@ anthriscus_typ:
       sculptuur: verrucaat
       apertuur: tricolporaat
       vorm: prolaat
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: anthriscus_sylvestris
   flowering_time:
     start:
@@ -38057,7 +38057,7 @@ brassica_typ:
       sculptuur: reticulaat
       apertuur: tricolpaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: brassica_napus
   flowering_time:
     start:
@@ -48747,7 +48747,7 @@ echium:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: prolaat
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: echium_vulgare
   flowering_time:
     start:
@@ -64092,7 +64092,7 @@ lotus:
       sculptuur: psilaat
       apertuur: tricolporaat
       vorm: prolaat
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: lotus_corniculatus
   flowering_time:
     start:
@@ -69883,7 +69883,7 @@ parthenocissus:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: parthenocissus_quinquefolia
   flowering_time:
     start:
@@ -74341,7 +74341,7 @@ prunus_pirus_typ:
       sculptuur: striaat
       apertuur: tricolporaat
       vorm: driehoekig
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: prunus_avium
   flowering_time:
     start:
@@ -76047,7 +76047,7 @@ ranunculus_typ:
       sculptuur: verrucaat
       apertuur: tricolpaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
   flowering_time:
     start:
     end:
@@ -76218,7 +76218,7 @@ raphanus_typ:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: rond
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: raphanus_raphanistrum
   flowering_time:
     start:
@@ -76496,7 +76496,7 @@ rhamnus:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: driehoekig
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: rhamnus_cathartica
   flowering_time:
     start:
@@ -77286,7 +77286,7 @@ robinia:
       sculptuur: scabraat
       apertuur: tricolpaat
       vorm: driehoekig
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: robinia_pseudoacacia
   flowering_time:
     start:
@@ -78823,7 +78823,7 @@ rubus_typ:
       sculptuur: striaat
       apertuur: tricolporaat
       vorm: driehoekig
-      grootteband: band_25_40
+      grootteklasse: band_25_40
   flowering_time:
     start:
     end:
@@ -87079,7 +87079,7 @@ taraxacum_typ:
       sculptuur: fenestraat
       apertuur: tricolpaat
       vorm: rond
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: taraxacum_officinale
   flowering_time:
     start:
@@ -89543,7 +89543,7 @@ verbascum:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: rond
-      grootteband: band_15_25
+      grootteklasse: band_15_25
       source_slug: verbascum_nigrum
   flowering_time:
     start:
@@ -90938,7 +90938,7 @@ vicia_typ:
       sculptuur: reticulaat
       apertuur: tricolporaat
       vorm: prolaat
-      grootteband: band_25_40
+      grootteklasse: band_25_40
       source_slug: vicia_sepium
   flowering_time:
     start:

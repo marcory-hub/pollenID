@@ -11,7 +11,7 @@ Each exported taxon includes:
     (lm_clear | lm_poor | em_only) when set in YAML
   - monofloral_honey_page — optional docs-relative path when inferred from monoflorale markdown
   - learning_priority_rank — optional int from YAML (Level 2 PalynoQuest priority)
-  - controlled — optional coarse LM codes (sculptuur/apertuur/vorm/grootteband) for Kenmerken-drill
+  - controlled — optional coarse LM codes (sculptuur/apertuur/vorm/grootteklasse) for Kenmerken-drill
   - lookalikes — optional confirmed pairs + group slugs when set in YAML
   - has_taxon_page — true when monofloral_honey_page is set or slug is listed in
     data/species_page_slugs.txt (or a species MD exists on disk); false otherwise.
@@ -168,7 +168,7 @@ def _build_index_entry(
         controlled = feats.get("controlled")
         if isinstance(controlled, dict):
             ctrl_out: Dict[str, str] = {}
-            for ck in ("sculptuur", "apertuur", "vorm", "grootteband", "source_slug"):
+            for ck in ("sculptuur", "apertuur", "vorm", "grootteklasse", "source_slug"):
                 cv = _clean_scalar(controlled.get(ck))
                 if cv is not None:
                     ctrl_out[ck] = str(cv)

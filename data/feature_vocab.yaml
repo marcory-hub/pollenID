@@ -42,7 +42,7 @@ vorm:
   oblaat:
     label: oblaat
 
-grootteband:
+grootteklasse:
   under_15:
     label: onder 15 µm
     mid_min: null

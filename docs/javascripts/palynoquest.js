@@ -205,7 +205,7 @@
       prolaat: "prolaat / ovaal",
       oblaat: "oblaat",
     },
-    grootteband: {
+    grootteklasse: {
       under_15: "onder 15 µm",
       band_15_25: "15–25 µm",
       band_25_40: "25–40 µm",
@@ -213,7 +213,7 @@
       over_60: "boven 60 µm",
     },
   };
-  var FEATURE_FIELDS = ["vorm", "apertuur", "sculptuur", "grootteband"];
+  var FEATURE_FIELDS = ["vorm", "apertuur", "sculptuur", "grootteklasse"];
 
   function parseLevelValue(raw) {
     var s = String(raw == null ? "1" : raw).trim().toLowerCase();
@@ -288,6 +288,21 @@
     return parseLevelValue(n).level;
   }
 
+  /** Willekeurig dropdown has no numeric options; migrate stale localStorage 1/2/3 → kenmerken*. */
+  function normalizeUnlockedLevel(raw, levelEl) {
+    var parsed = parseLevelValue(raw);
+    if (!levelEl) return parsed.value;
+    var want = parsed.value;
+    var i;
+    for (i = 0; i < levelEl.options.length; i += 1) {
+      if (levelEl.options[i].value === want) return want;
+    }
+    if (parsed.lookalikeMode) return "lookalike";
+    if (parsed.level === 2) return "kenmerken-2";
+    if (parsed.level === 3) return "kenmerken-3";
+    return "kenmerken";
+  }
+
   function groupKeyFromImagePath(p) {
     if (typeof p !== "string" || !p) return "";
     var base = p.split("/").pop() || "";
@@ -303,7 +318,7 @@
     var rank = rec.learning_priority_rank;
     if (typeof rank === "number" && isFinite(rank) && rank > 0) score += 1000 - Math.min(rank, 999);
     var c = rec.controlled;
-    if (c && typeof c === "object" && c.vorm && c.sculptuur && c.apertuur && c.grootteband) {
+    if (c && typeof c === "object" && c.vorm && c.sculptuur && c.apertuur && c.grootteklasse) {
       score += 100;
     }
     return score;
@@ -662,7 +677,7 @@
       if (!rec || typeof rec !== "object") return null;
       var c = rec.controlled;
       if (!c || typeof c !== "object") return null;
-      if (!c.vorm || !c.sculptuur || !c.apertuur || !c.grootteband) return null;
+      if (!c.vorm || !c.sculptuur || !c.apertuur || !c.grootteklasse) return null;
       return c;
     }
 
@@ -1392,7 +1407,7 @@
           esc(labelForSlug(cf.slug) || cf.slug) +
           "</strong><br/>" +
           esc(bits.join(" · ")) +
-          (allOk ? "" : "<br/>Niet alles juist; juiste naam en kenmerken hierboven.") +
+          (allOk ? "" : "<br/>Niet alles juist.") +
           "</p>"
       );
       renderInfo(cf.slug);
@@ -1401,7 +1416,7 @@
         mcqEl.replaceChildren();
       }
       setMcqStatus("");
-      if (featurePromptEl) featurePromptEl.textContent = "Klaar. Kies Volgende.";
+      if (featurePromptEl) featurePromptEl.textContent = "Kies Volgende.";
     }
 
     function buildFeatureNameMcq() {
@@ -1480,7 +1495,7 @@
           vorm: "Welke vorm zie je?",
           apertuur: "Welke apertuur zie je?",
           sculptuur: "Welke sculptuur zie je?",
-          grootteband: "Welke grootteband schat je? (true-scale beeld)",
+          grootteklasse: "Welke grootteklasse schat je? (true-scale beeld)",
         };
         featurePromptEl.textContent =
           titles[field] || "Welk kenmerk zie je?";
@@ -2061,7 +2076,10 @@
           }
         });
         populateKeys();
-        applyLevel(lockLevel || readLocalJson(LS_LEVEL, "kenmerken"), true);
+        var initial = lockLevel
+          ? lockLevel
+          : normalizeUnlockedLevel(readLocalJson(LS_LEVEL, "kenmerken"), levelEl);
+        applyLevel(initial, true);
       })
       .catch(function (e) {
         setStatus(

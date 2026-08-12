@@ -7,7 +7,7 @@ Contract voor de quiz-widget (`docs/javascripts/palynoquest.js`). Doel: modi nie
 | Modus | `data-pq-lock-level` / select-waarde | Vraagvorm | Pool |
 | :--- | :--- | :--- | :--- |
 | **Naam-MCQ** | `1`, `2`, `3` | één beeld + vier namen | `learning_priority_rank` + beelden in `pollen.json` |
-| **Kenmerken** | `kenmerken`, `kenmerken-2`, `kenmerken-3` | vorm → apertuur → sculptuur → grootteband → naam | alleen taxa met volledige `controlled` + beelden |
+| **Kenmerken** | `kenmerken`, `kenmerken-2`, `kenmerken-3` | vorm → apertuur → sculptuur → grootteklasse → naam | alleen taxa met volledige `controlled` + beelden |
 | **Lookalike** | `lookalike`, `lookalike-easy`, … | regel (optioneel) + twee namen | `lookalike-groups.json` |
 
 Regel: numerieke locks zijn **nooit** kenmerken-drill. Kenmerken-drill alleen via `kenmerken*`.
@@ -50,7 +50,7 @@ Fout antwoord: `[data-pq-wrongpreview]` toont beeld(en) van het **gekozen** taxo
 
 ## Kenmerken-drill (niet wijzigen voor naam-niveaus)
 
-- Vereist `controlled`: `vorm`, `apertuur`, `sculptuur`, `grootteband`
+- Vereist `controlled`: `vorm`, `apertuur`, `sculptuur`, `grootteklasse`
 - Progress-key: `feat|<slug>`
 - Alleen op Pollenkenmerken (en optioneel Willekeurig-dropdown)
 

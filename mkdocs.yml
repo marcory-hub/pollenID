@@ -51,7 +51,7 @@ extra_javascript:
   - javascripts/pid-core.js?v=2026-08-12
   - javascripts/pollentabel.js?v=2026-08-03-stepback
   - javascripts/kerkvliet-determinatietabel.js?v=2026-05-07-2028
-  - javascripts/palynoquest.js?v=2026-08-12-name-mcq
+  - javascripts/palynoquest.js?v=2026-08-12-ls-migrate
 
 nav:
   - Home: index.md

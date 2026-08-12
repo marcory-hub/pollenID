@@ -733,7 +733,7 @@ def build_features(
                 sc_c = clean_text(ctrl.get("sculptuur") or ctrl.get("sculpture"))
                 ap_c = clean_text(ctrl.get("apertuur") or ctrl.get("aperture"))
                 sh_c = clean_text(ctrl.get("vorm") or ctrl.get("shape"))
-                gb_c = clean_text(ctrl.get("grootteband") or ctrl.get("size_band"))
+                gb_c = clean_text(ctrl.get("grootteklasse") or ctrl.get("size_band"))
                 if sc_c:
                     tf.sculpture |= split_morph_tokens(tokenize_morph(sc_c))[0]
                     tf.provenance.append("data/pollen.yaml:controlled.sculptuur")
@@ -751,7 +751,7 @@ def build_features(
                     if len(nums) >= 2 and tf.yaml_mid is None:
                         tf.yaml_mid = (min(nums) + max(nums)) / 2.0
                         yaml_max = max(nums)
-                        tf.provenance.append("data/pollen.yaml:controlled.grootteband")
+                        tf.provenance.append("data/pollen.yaml:controlled.grootteklasse")
 
         mset = masks.get(slug, set())
         tf.mask_yaml_size = "size" in mset
