@@ -3,7 +3,6 @@ from __future__ import annotations
 import argparse
 import json
 import re
-from html import escape
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
@@ -11,7 +10,6 @@ import yaml
 
 from extract_key_paths import render_paths_markdown
 from pollen_display import (
-    display_width_px_for_json_entry,
     entry_dutch,
     entry_family,
     entry_feature,
@@ -19,7 +17,6 @@ from pollen_display import (
     entry_size_strings,
     entry_visibility,
     format_morph_with_visibility,
-    per_image_width_px,
     resolve_pollen_field,
 )
 
@@ -251,44 +248,9 @@ def _overview_table(
     return "\n".join(out)
 
 
-def _static_gallery_html(key: str, index_entry: Dict[str, Any]) -> str:
-    latin = index_entry.get("latin")
-    latin_s = latin.strip() if isinstance(latin, str) else key
-    default_w = display_width_px_for_json_entry(index_entry)
-    imgs = index_entry.get("images")
-    if not isinstance(imgs, list) or not imgs:
-        return ""
-
-    figures: List[str] = []
-    for im in imgs:
-        if not isinstance(im, dict):
-            continue
-        raw_path = im.get("path")
-        if not isinstance(raw_path, str) or not raw_path.strip():
-            continue
-        canon = raw_path.strip().replace("\\", "/").lstrip("./")
-        if not canon.startswith("assets/"):
-            continue
-        rel = "../../" + canon
-        iw = per_image_width_px(im, default_w)
-        fname = Path(canon).name
-        safe_src = escape(rel, quote=True)
-        safe_alt = escape(f"{latin_s} ({fname})", quote=True)
-        style = f' style="width: {iw}px; height: auto;"' if iw > 0 else ""
-        figures.append(
-            f'<figure class="pid-scale-item"><img src="{safe_src}"{style} alt="{safe_alt}"></figure>'
-        )
-
-    if not figures:
-        return ""
-
-    inner = "".join(figures)
-    return (
-        '<div class="pid-scale-gallery">'
-        '<div class="pid-scale-row pid-scale-row--snug">'
-        f"{inner}"
-        "</div></div>"
-    )
+def _gallery_macro(key: str) -> str:
+    """MkDocs macro so image hrefs follow page depth (use_directory_urls)."""
+    return f'{{{{ gallery("{key}") }}}}'
 
 
 def _links_section_from_detail(detail: Optional[Dict[str, Any]]) -> str:
@@ -328,9 +290,7 @@ def render_taxon_page_from_display(
     parts: List[str] = []
     parts.append(_title_from_index(index_entry, key))
     parts.append("")
-    gallery = _static_gallery_html(key, index_entry)
-    if gallery:
-        parts.append(gallery)
+    parts.append(_gallery_macro(key))
     parts.append("")
     parts.append("## Kenmerken")
     parts.append("")
