@@ -457,6 +457,9 @@
 </div>
 
 ### to be determined
+#### [Koffiebloesem](koffiebloesemhoning.md) (*Coffea arabica*) (75–78%)
+{{ gallery("coffea_arabica") }}
+
 #### [Ligustrum vulgare](ligusterhoning.md) (liguster)
 <div class="pid-scale-gallery">
   <div class="pid-scale-row pid-scale-row--snug">

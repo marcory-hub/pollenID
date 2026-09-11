@@ -26,7 +26,7 @@ alwaysApply: true
 | **Navigation & UI** | `mkdocs.yml` |
 | **CI/CD** | `.github/workflows/ci.yml` |
 | **Knowledge capture** | `notes/` (general) |
-| **Taxon add/update (images, YAML, pages, validate)** | `.cursor/skills/update-pollen/SKILL.md` |
+| **Taxon add/update (images, YAML, pages, validate)** | New taxon → `.cursor/skills/add-pollen/SKILL.md`. Existing → `.cursor/skills/update-pollen/SKILL.md` |
 | **Author/edit dichotomous key** | `.cursor/skills/interactive-pollen-key/SKILL.md` |
 | **PalynoQuest / herkennen quiz** | **Read first:** `docs/naslag/palynoquest-modes.md` (contract). ADR: `docs/adr/0004-palynoquest-mode-locks.md`. No dedicated skill. |
 
@@ -34,7 +34,8 @@ alwaysApply: true
 
 | When | Skill |
 | :--- | :--- |
-| Images or taxon info added/changed; YAML/page/sleutels/validate | `@update-pollen` |
+| New taxon (no by-taxon folder yet); `@add-pollen`, nieuwe soort | `@add-pollen` |
+| Images or taxon info added/changed for an existing pollen_key; YAML/page/sleutels/validate | `@update-pollen` |
 | Author or reshape key JSON + Identificatiesleutels page | `@interactive-pollen-key` |
 | Design interview | `@grill-me` / `@grill-with-docs` |
 | Glossary / ADR | `@domain-modeling` |

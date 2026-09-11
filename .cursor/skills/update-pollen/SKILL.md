@@ -4,15 +4,16 @@ description: >-
   Full taxon pipeline: by-taxon images, data/pollen.yaml, species page
   (Kenmerken + Determinatiesleutels), optional Kerkvliet/beug_key_paths wiring,
   synonyms on rename, then validate so nothing is left broken. Use when images
-  or taxon information are added or changed; update pollen, @update-pollen,
-  add pollen, @add-pollen, add images information, @add-tstebler, pollenwiki
+  or taxon information are added or changed for an existing pollen_key; update
+  pollen, @update-pollen, add images information, @add-tstebler, pollenwiki
   text, update pollen.yaml, @trace-key-paths, @pollen-pagina, van der Ham
-  by-taxon sync, @add-by-taxon-images, or @add-kerkvliet-images.
+  by-taxon sync, @add-by-taxon-images, or @add-kerkvliet-images. New taxa with
+  no by-taxon folder yet → @add-pollen.
 ---
 
 # Update pollen (whole codebase)
 
-Run when atlas PNGs or taxon metadata arrive. Do not invent taxa, morphology, or paths. End every run with validation.
+Run when atlas PNGs or taxon metadata arrive for a taxon that already has (or should get) a YAML entry. New taxa with no folder yet → **`@add-pollen`**. Do not invent taxa, morphology, or paths. End every run with validation.
 
 ## Modes (same skill)
 
