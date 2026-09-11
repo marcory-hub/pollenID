@@ -1,0 +1,990 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-tricolporate",
+    "title": "Tricolporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 42
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Isopolair",
+          "next": "2"
+        },
+        {
+          "label": "Heteropolair",
+          "next": "42"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur echinaat",
+          "next": "3"
+        },
+        {
+          "label": "Primaire sculptuur echinolophaat",
+          "outcome": {
+            "text": "*Hypochaeris radicata* (Plaat 3L)"
+          },
+          "pollen_key": "hypochaeris_radicata"
+        },
+        {
+          "label": "Primaire sculptuur psilaat",
+          "next": "6"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "9"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "28"
+        },
+        {
+          "label": "Primaire sculptuur striaat",
+          "next": "40"
+        },
+        {
+          "label": "Primaire sculptuur striaat-reticulaat",
+          "outcome": {
+            "text": "*Lycium ferocissimum* (Plaat 6F)"
+          },
+          "pollen_key": "lycium_ferocissimum"
+        },
+        {
+          "label": "Primaire sculptuur verriculaat",
+          "outcome": {
+            "text": "*Anthospermum spathulatum* (Plaat 7B)"
+          },
+          "pollen_key": "anthospermum_spathulatum"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat-cristaat",
+          "next": "41"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "4"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "next": "5"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Stekels piramidevormig",
+          "outcome": {
+            "text": "*Heterolepis aliena* (Plaat 3J)"
+          },
+          "pollen_key": "heterolepis_aliena"
+        },
+        {
+          "label": "Stekels met afgeronde toppen",
+          "outcome": {
+            "text": "*Cullumia squarrosa* (Plaat 3I)"
+          },
+          "pollen_key": "cullumia_squarrosa"
+        },
+        {
+          "label": "Stekels op een maansikkelformige exine, columellae zichtbaar",
+          "outcome": {
+            "text": "*Medium Pentzia*-type (Plaat 3)"
+          },
+          "pollen_key": "medium_pentzia_typ"
+        },
+        {
+          "label": "Stekels ongespecialiseerd",
+          "outcome": {
+            "text": "*Medium Felicia*-type (Plaat 1–2)"
+          },
+          "pollen_key": "medium_felicia_typ"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Stekels op een maansikkelformige exine, columellae zichtbaar",
+          "outcome": {
+            "text": "*Small Pentzia*-type (Plaat 3)"
+          },
+          "pollen_key": "small_pentzia_typ"
+        },
+        {
+          "label": "Stekels ongespecialiseerd",
+          "outcome": {
+            "text": "*Small Felicia*-type (Plaat 1–2)"
+          },
+          "pollen_key": "small_felicia_typ"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht gelobd",
+          "outcome": {
+            "text": "*Heteromorpha arborescens* (Plaat 19I)\n*Trimeria grandifolia* (Plaat 11Z)"
+          },
+          "pollen_keys": [
+            "heteromorpha_arborescens",
+            "trimeria_grandifolia"
+          ]
+        },
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "outcome": {
+            "text": "*Curtisia dentata* (Plaat 11M)\n*Liparia splendens* ssp. *splendens* (Plaat 15I)"
+          },
+          "pollen_keys": [
+            "curtisia_dentata",
+            "liparia_splendens_splendens"
+          ]
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een brug",
+          "next": "8"
+        },
+        {
+          "label": "Apertuur zonder brug",
+          "outcome": {
+            "text": "*Manulea* cf. *cheiranthus* (Plaat 11R)\n*Manulea corymbosa* (Plaat 11S)"
+          },
+          "pollen_keys": [
+            "manulea_cheiranthus",
+            "manulea_corymbosa"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Acokanthera oppositifolia* (Plaat 15F)"
+          },
+          "pollen_key": "acokanthera_oppositifolia"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Codon royenii* (Plaat 15H)"
+          },
+          "pollen_key": "codon_royenii"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm)",
+          "next": "10"
+        },
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "12"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "next": "22"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een margo",
+          "outcome": {
+            "text": "*Euphorbia caput-medusae* (Plaat 6E)\n*Euphorbia mauritanica* (Plaat 6H)"
+          },
+          "pollen_keys": [
+            "euphorbia_caput_medusae",
+            "euphorbia_mauritanica"
+          ]
+        },
+        {
+          "label": "Apertuur zonder margo",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brevicolporaat; lumina heterobrochaat, middelgroot",
+          "outcome": {
+            "text": "*Pelargonium suburbanum* (Plaat 5G)"
+          },
+          "pollen_key": "pelargonium_suburbanum"
+        },
+        {
+          "label": "colpi ongespecialiseerd; lumina homobrochaat, klein",
+          "outcome": {
+            "text": "*Chironia baccifera* (Plaat 6D)"
+          },
+          "pollen_key": "chironia_baccifera"
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch",
+          "next": "13"
+        },
+        {
+          "label": "prolaat",
+          "next": "19"
+        },
+        {
+          "label": "afgeplat",
+          "outcome": {
+            "text": "*Aspalathus astroites* (Plaat 16J)"
+          },
+          "pollen_key": "aspalathus_astroites"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina klein",
+          "next": "14"
+        },
+        {
+          "label": "Lumina middelgroot",
+          "next": "17"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "outcome": {
+            "text": "*Rafnia triflora* (Plaat 15N)"
+          },
+          "pollen_key": "rafnia_triflora"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "15"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een margo",
+          "outcome": {
+            "text": "*Hebenstretia robusta* (Plaat 15S)"
+          },
+          "pollen_key": "hebenstretia_robusta"
+        },
+        {
+          "label": "Apertuur zonder margo; porie overschrijdt de colpusrand niet",
+          "outcome": {
+            "text": "*Putterlickia pyracantha* (Plaat 16G)\n*Gymnosporia buxifolia* (Plaat 15K)"
+          },
+          "pollen_keys": [
+            "putterlickia_pyracantha",
+            "gymnosporia_buxifolia"
+          ]
+        },
+        {
+          "label": "Apertuur zonder margo; porie overschrijdt de colpusrand",
+          "next": "16"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Porie overschrijdt de colpusrand met minder dan de breedte van de colpus",
+          "outcome": {
+            "text": "*Clutia ericoides* (Plaat 16E)\n*Clutia polygonoides* (Plaat 16F)\n*Phyllopodium capillare* (Plaat 15U)"
+          },
+          "pollen_keys": [
+            "clutia_ericoides",
+            "clutia_polygonoides",
+            "phyllopodium_capillare"
+          ]
+        },
+        {
+          "label": "Porie overschrijdt de colpusrand met de breedte van de colpus",
+          "outcome": {
+            "text": "*Polycarena lilacina* (Plaat 15V)\n*Rumex cordatus* (Plaat 15R)"
+          },
+          "pollen_keys": [
+            "polycarena_lilacina",
+            "rumex_cordatus"
+          ]
+        },
+        {
+          "label": "Porie overschrijdt de colpusrand met tweemaal de breedte van de colpus",
+          "outcome": {
+            "text": "*Pseudoselago rapunculoides* (Plaat 16D)"
+          },
+          "pollen_key": "pseudoselago_rapunculoides"
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "outcome": {
+            "text": "*Indigofera brachystachya* (Plaat 15Q)"
+          },
+          "pollen_key": "indigofera_brachystachya"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "18"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een margo; lumina heterobrochaat",
+          "outcome": {
+            "text": "*Psoralea bracteolata* (Plaat 15P)"
+          },
+          "pollen_key": "psoralea_bracteolata"
+        },
+        {
+          "label": "Apertuur zonder margo; lumina homobrochaat",
+          "outcome": {
+            "text": "*Psoralea arborea* (Plaat 15O)\n*Zaluzianskya capensis* (Plaat 16A)"
+          },
+          "pollen_keys": [
+            "psoralea_arborea",
+            "zaluzianskya_capensis"
+          ]
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht gelobd",
+          "next": "20"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "21"
+        }
+      ]
+    },
+    "20": {
+      "id": "20",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een margo",
+          "outcome": {
+            "text": "*Orphium frutescens* (Plaat 19K)"
+          },
+          "pollen_key": "orphium_frutescens"
+        },
+        {
+          "label": "Apertuur zonder margo; exine dun",
+          "outcome": {
+            "text": "*Sparrmannia africana* (Plaat 20E)"
+          },
+          "pollen_key": "sparrmannia_africana"
+        },
+        {
+          "label": "Apertuur zonder margo; exine dik",
+          "outcome": {
+            "text": "*Gerbera ambigua* (Plaat 19C)"
+          },
+          "pollen_key": "gerbera_ambigua"
+        }
+      ]
+    },
+    "21": {
+      "id": "21",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina klein",
+          "outcome": {
+            "text": "*Coleonema pulchellum* (Plaat 19M)\n*Diosma aspalathoides* (Plaat 19N)\n*Diosma hirsuta* (Plaat 19O)\n*Diosma pedicellata* (Plaat 19P)\n*Diosma subulata* (Plaat 20A)"
+          },
+          "pollen_keys": [
+            "coleonema_pulchellum",
+            "diosma_aspalathoides",
+            "diosma_hirsuta",
+            "diosma_pedicellata",
+            "diosma_subulata"
+          ]
+        },
+        {
+          "label": "Lumina middelgroot",
+          "outcome": {
+            "text": "*Vicia sativa* (Plaat 19D)"
+          },
+          "pollen_key": "vicia_sativa"
+        }
+      ]
+    },
+    "22": {
+      "id": "22",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "next": "23"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "24"
+        }
+      ]
+    },
+    "23": {
+      "id": "23",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina heterobrochaat en middelgroot",
+          "outcome": {
+            "text": "*Trichocephalus stipularis* (Plaat 11G)"
+          },
+          "pollen_key": "trichocephalus_stipularis"
+        },
+        {
+          "label": "Lumina homobrochaat en klein",
+          "outcome": {
+            "text": "*Phylica harveyi* (Plaat 11C)\n*Osyris compressa* (Plaat 11H)"
+          },
+          "pollen_keys": [
+            "phylica_harveyi",
+            "osyris_compressa"
+          ]
+        }
+      ]
+    },
+    "24": {
+      "id": "24",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch",
+          "next": "25"
+        },
+        {
+          "label": "prolaat",
+          "outcome": {
+            "text": "*Aspalathus cymbiformis* (Plaat 16I)\n*Agathosma bisulca* (Plaat 19F)"
+          },
+          "pollen_keys": [
+            "aspalathus_cymbiformis",
+            "agathosma_bisulca"
+          ]
+        }
+      ]
+    },
+    "25": {
+      "id": "25",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brevicolporaat",
+          "outcome": {
+            "text": "*Euclea racemosa* (Plaat 15L)"
+          },
+          "pollen_key": "euclea_racemosa"
+        },
+        {
+          "label": "colpi ongespecialiseerd",
+          "next": "26"
+        }
+      ]
+    },
+    "26": {
+      "id": "26",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een margo",
+          "outcome": {
+            "text": "*Microdon capitatus* (Plaat 15T)"
+          },
+          "pollen_key": "microdon_capitatus"
+        },
+        {
+          "label": "Apertuur zonder margo",
+          "next": "27"
+        }
+      ]
+    },
+    "27": {
+      "id": "27",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina klein; apocolpiale index zeer klein",
+          "outcome": {
+            "text": "*Chaenostoma* cf. *hispidum* (Plaat 15M)"
+          },
+          "pollen_key": "chaenostoma_hispidum"
+        },
+        {
+          "label": "Lumina klein; apocolpiale index klein",
+          "outcome": {
+            "text": "*Selago canescens* (Plaat 16B)\n*Selago venosa* (Plaat 16H)\n*Zaluzianskya villosa* (Plaat 16C)"
+          },
+          "pollen_keys": [
+            "selago_canescens",
+            "selago_venosa",
+            "zaluzianskya_villosa"
+          ]
+        },
+        {
+          "label": "Lumina klein; apocolpiale index middelgroot",
+          "outcome": {
+            "text": "*Aspalathus angustifolia* (Plaat 16K)"
+          },
+          "pollen_key": "aspalathus_angustifolia"
+        },
+        {
+          "label": "Lumina middelgroot",
+          "outcome": {
+            "text": "*Phylica dodii* (Plaat 11E)"
+          },
+          "pollen_key": "phylica_dodii"
+        }
+      ]
+    },
+    "28": {
+      "id": "28",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht gelobd",
+          "next": "29"
+        },
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "next": "30"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "34"
+        }
+      ]
+    },
+    "29": {
+      "id": "29",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch",
+          "outcome": {
+            "text": "*Artemisia afra* (Plaat 11AB)"
+          },
+          "pollen_key": "artemisia_afra"
+        },
+        {
+          "label": "prolaat",
+          "outcome": {
+            "text": "*Melianthus major* (Plaat 19J)\n*Agathosma collina* (Plaat 19G)"
+          },
+          "pollen_keys": [
+            "melianthus_major",
+            "agathosma_collina"
+          ]
+        }
+      ]
+    },
+    "30": {
+      "id": "30",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "31"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "next": "32"
+        }
+      ]
+    },
+    "31": {
+      "id": "31",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch; zeer klein apocolpiale index",
+          "outcome": {
+            "text": "*Cotyledon orbiculata* (Plaat 14E)\n*Crassula fascicularis* (Plaat 14G)"
+          },
+          "pollen_keys": [
+            "cotyledon_orbiculata",
+            "crassula_fascicularis"
+          ]
+        },
+        {
+          "label": "isodiametrisch; klein apocolpiale index",
+          "outcome": {
+            "text": "*Monopsis*-type (Plaat 12;14–15)"
+          },
+          "pollen_key": "monopsis_typ"
+        },
+        {
+          "label": "isodiametrisch; middelgroot apocolpiale index",
+          "outcome": {
+            "text": "*Ornithopus sativus* (Plaat 14T)"
+          },
+          "pollen_key": "ornithopus_sativus"
+        },
+        {
+          "label": "afgeplat; klein apocolpiale index",
+          "outcome": {
+            "text": "*Aspalathus biflora* (Plaat 14M)"
+          },
+          "pollen_key": "aspalathus_biflora"
+        }
+      ]
+    },
+    "32": {
+      "id": "32",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch; colpi spleetvormig in polair aanzicht",
+          "outcome": {
+            "text": "*Phylica cephalantha* (Plaat 11D)\n*Phylica ericoides* (Plaat 11F)"
+          },
+          "pollen_keys": [
+            "phylica_cephalantha",
+            "phylica_ericoides"
+          ]
+        },
+        {
+          "label": "isodiametrisch; colpi driehoekig in polair aanzicht",
+          "outcome": {
+            "text": "*Rafnia angulata* (Plaat 14P)\n*Wiborgia fusca* (Plaat 14R)\n*Wiborgia monoptera* (Plaat 15G)"
+          },
+          "pollen_keys": [
+            "rafnia_angulata",
+            "wiborgia_fusca",
+            "wiborgia_monoptera"
+          ]
+        },
+        {
+          "label": "afgeplat",
+          "next": "33"
+        }
+      ]
+    },
+    "33": {
+      "id": "33",
+      "type": "step",
+      "choices": [
+        {
+          "label": "parasyncolporaat",
+          "outcome": {
+            "text": "*Melaleuca virens* (Plaat 11B)"
+          },
+          "pollen_key": "melaleuca_virens"
+        },
+        {
+          "label": "colpi ongespecialiseerd",
+          "outcome": {
+            "text": "*Aspalathus albens* (Plaat 15A)"
+          },
+          "pollen_key": "aspalathus_albens"
+        }
+      ]
+    },
+    "34": {
+      "id": "34",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "35"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "next": "38"
+        }
+      ]
+    },
+    "35": {
+      "id": "35",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een oncus",
+          "outcome": {
+            "text": "*Hermannia ternifolia* (Plaat 7E)"
+          },
+          "pollen_key": "hermannia_ternifolia"
+        },
+        {
+          "label": "Apertuur met één operculum",
+          "outcome": {
+            "text": "*Cliffortia falcata* (Plaat 7H)"
+          },
+          "pollen_key": "cliffortia_falcata"
+        },
+        {
+          "label": "Apertuur zonder oncus of opercula",
+          "next": "36"
+        }
+      ]
+    },
+    "36": {
+      "id": "36",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch",
+          "next": "37"
+        },
+        {
+          "label": "prolaat",
+          "outcome": {
+            "text": "*Melianthus elongatus* (Plaat 19L)\n*Macrostylis crassifolia* (Plaat 20B)"
+          },
+          "pollen_keys": [
+            "melianthus_elongatus",
+            "macrostylis_crassifolia"
+          ]
+        }
+      ]
+    },
+    "37": {
+      "id": "37",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein apocolpiale index; colpi driehoekig in polair aanzicht",
+          "outcome": {
+            "text": "*Tylecodon*-type (Plaat 14–15)"
+          },
+          "pollen_key": "tylecodon_typ"
+        },
+        {
+          "label": "Klein apocolpiale index; colpi spleetvormig in polair aanzicht",
+          "outcome": {
+            "text": "*Diospyros austro-africana* var. *rugosa* (Plaat 15E)\n*Medicago polymorpha* (Plaat 15D)"
+          },
+          "pollen_keys": [
+            "diospyros_austro_africana_rugosa",
+            "medicago_polymorpha"
+          ]
+        },
+        {
+          "label": "Middelgrote apocolpiale index",
+          "outcome": {
+            "text": "*Punica granatum* (Plaat 15C)"
+          },
+          "pollen_key": "punica_granatum"
+        }
+      ]
+    },
+    "38": {
+      "id": "38",
+      "type": "step",
+      "choices": [
+        {
+          "label": "isodiametrisch",
+          "next": "39"
+        },
+        {
+          "label": "prolaat",
+          "outcome": {
+            "text": "*Capnophyllum*-type (Plaat 19–20)"
+          },
+          "pollen_key": "capnophyllum_typ"
+        },
+        {
+          "label": "afgeplat",
+          "outcome": {
+            "text": "*Aspalathus stricticlada* (Plaat 14O)"
+          },
+          "pollen_key": "aspalathus_stricticlada"
+        }
+      ]
+    },
+    "39": {
+      "id": "39",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een brug",
+          "outcome": {
+            "text": "*Solanum nigrum* (Plaat 11AA)"
+          },
+          "pollen_key": "solanum_nigrum"
+        },
+        {
+          "label": "Apertuur zonder brug; zeer klein apocolpiale index",
+          "outcome": {
+            "text": "*Crassula dichotoma* (Plaat 14F)\n*Halleria lucida* (Plaat 11Y)"
+          },
+          "pollen_keys": [
+            "crassula_dichotoma",
+            "halleria_lucida"
+          ]
+        },
+        {
+          "label": "Apertuur zonder brug; klein apocolpiale index",
+          "outcome": {
+            "text": "*Vahlia*-type (Plaat 11; 14)"
+          },
+          "pollen_key": "vahlia_typ"
+        },
+        {
+          "label": "Apertuur zonder brug; middelgrote apocolpiale index",
+          "outcome": {
+            "text": "*Roepera debilis* (Plaat 11N)"
+          },
+          "pollen_key": "roepera_debilis"
+        },
+        {
+          "label": "Apertuur annulaat en met opercula",
+          "outcome": {
+            "text": "*Cliffortia odorata* (Plaat 7G)"
+          },
+          "pollen_key": "cliffortia_odorata"
+        }
+      ]
+    },
+    "40": {
+      "id": "40",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht gelobd",
+          "outcome": {
+            "text": "*Loxostylis alata* (Plaat 10P)"
+          },
+          "pollen_key": "loxostylis_alata"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Schinus molle* (Plaat 15J)"
+          },
+          "pollen_key": "schinus_molle"
+        }
+      ]
+    },
+    "41": {
+      "id": "41",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Brevicolporaat; apertuur zonder sculptuur",
+          "outcome": {
+            "text": "*Pelargonium fulgidum* (Plaat 5C)"
+          },
+          "pollen_key": "pelargonium_fulgidum"
+        },
+        {
+          "label": "colpi ongespecialiseerd; apertuur met sculptuur",
+          "outcome": {
+            "text": "*Lagenaria sphaerica* (Plaat 7A)"
+          },
+          "pollen_key": "lagenaria_sphaerica"
+        }
+      ]
+    },
+    "42": {
+      "id": "42",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur psilaat",
+          "outcome": {
+            "text": "*Lobostemon fruticosus* (Plaat 10O)"
+          },
+          "pollen_key": "lobostemon_fruticosus"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "outcome": {
+            "text": "*Lobostemon glaucophyllus* (Plaat 10N)"
+          },
+          "pollen_key": "lobostemon_glaucophyllus"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "outcome": {
+            "text": "*Lobostemon curvifolius* (Plaat 10M)"
+          },
+          "pollen_key": "lobostemon_curvifolius"
+        }
+      ]
+    }
+  }
+}

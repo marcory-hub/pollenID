@@ -1,0 +1,3401 @@
+{
+  "source": "Delport et al. 2025 Greater Cape Floristic Region pollen atlas",
+  "main_pdf": "pdf/pollen-determinatie/Delport 2025 - Pollen atlas Greater Cape Floristic Region.pdf",
+  "supplement_pdf": "pdf/pollen-determinatie/Delport 2025 - Pollen atlas Greater Cape Floristic Region - Supplementary.pdf",
+  "taxon_count": 339,
+  "unique_pollen_keys": 335,
+  "already_in_yaml": 7,
+  "new_for_yaml": 328,
+  "taxa": [
+    {
+      "plate": "26D",
+      "plate_num": 26,
+      "plate_letter": "D",
+      "latin_name": "Albuca clanwilliamae-gloria",
+      "pollen_key": "albuca_clanwilliamae_gloria",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "27A",
+      "plate_num": 27,
+      "plate_letter": "A",
+      "latin_name": "Albuca flaccida",
+      "pollen_key": "albuca_flaccida",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "26E",
+      "plate_num": 26,
+      "plate_letter": "E",
+      "latin_name": "Albuca juncifolia",
+      "pollen_key": "albuca_juncifolia",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25L",
+      "plate_num": 25,
+      "plate_letter": "L",
+      "latin_name": "Drimia capensis",
+      "pollen_key": "drimia_capensis",
+      "family_latin": "Asparagaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25M",
+      "plate_num": 25,
+      "plate_letter": "M",
+      "latin_name": "Eucomis autumnalis ssp. autumnalis",
+      "pollen_key": "eucomis_autumnalis_autumnalis",
+      "family_latin": "Asparagaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25N",
+      "plate_num": 25,
+      "plate_letter": "N",
+      "latin_name": "Lachenalia unifolia",
+      "pollen_key": "lachenalia_unifolia",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "26A",
+      "plate_num": 26,
+      "plate_letter": "A",
+      "latin_name": "Lachenalia variegata",
+      "pollen_key": "lachenalia_variegata",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "26C",
+      "plate_num": 26,
+      "plate_letter": "C",
+      "latin_name": "Ornithogalum conicum",
+      "pollen_key": "ornithogalum_conicum",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "26B",
+      "plate_num": 26,
+      "plate_letter": "B",
+      "latin_name": "Ornithogalum dubium",
+      "pollen_key": "ornithogalum_dubium",
+      "family_latin": "Asparagaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25C",
+      "plate_num": 25,
+      "plate_letter": "C",
+      "latin_name": "Aloe speciosa",
+      "pollen_key": "aloe_speciosa",
+      "family_latin": "Asphodelaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25G",
+      "plate_num": 25,
+      "plate_letter": "G",
+      "latin_name": "Aloe thraskii",
+      "pollen_key": "aloe_thraskii",
+      "family_latin": "Asphodelaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25E",
+      "plate_num": 25,
+      "plate_letter": "E",
+      "latin_name": "Bulbine foleyi",
+      "pollen_key": "bulbine_foleyi",
+      "family_latin": "Asphodelaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25F",
+      "plate_num": 25,
+      "plate_letter": "F",
+      "latin_name": "Trachyandra ciliata",
+      "pollen_key": "trachyandra_ciliata",
+      "family_latin": "Asphodelaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25D",
+      "plate_num": 25,
+      "plate_letter": "D",
+      "latin_name": "Trachyandra divaricata",
+      "pollen_key": "trachyandra_divaricata",
+      "family_latin": "Asphodelaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25H",
+      "plate_num": 25,
+      "plate_letter": "H",
+      "latin_name": "Trachyandra muricata",
+      "pollen_key": "trachyandra_muricata",
+      "family_latin": "Asphodelaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25I",
+      "plate_num": 25,
+      "plate_letter": "I",
+      "latin_name": "Trachyandra revoluta",
+      "pollen_key": "trachyandra_revoluta",
+      "family_latin": "Asphodelaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "4C",
+      "plate_num": 4,
+      "plate_letter": "C",
+      "latin_name": "Ficinia indica",
+      "pollen_key": "ficinia_indica",
+      "family_latin": "Cyperaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "27B",
+      "plate_num": 27,
+      "plate_letter": "B",
+      "latin_name": "Aristea dichotoma",
+      "pollen_key": "aristea_dichotoma",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "27C",
+      "plate_num": 27,
+      "plate_letter": "C",
+      "latin_name": "Aristea glauca",
+      "pollen_key": "aristea_glauca",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24B",
+      "plate_num": 24,
+      "plate_letter": "B",
+      "latin_name": "Babiana ambigua",
+      "pollen_key": "babiana_ambigua",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23A",
+      "plate_num": 23,
+      "plate_letter": "A",
+      "latin_name": "Babiana nana",
+      "pollen_key": "babiana_nana",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24D",
+      "plate_num": 24,
+      "plate_letter": "D",
+      "latin_name": "Bobartia orientalis ssp. orientalis",
+      "pollen_key": "bobartia_orientalis_orientalis",
+      "family_latin": "Iridaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24E",
+      "plate_num": 24,
+      "plate_letter": "E",
+      "latin_name": "Chasmanthe floribunda",
+      "pollen_key": "chasmanthe_floribunda",
+      "family_latin": "Iridaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24F",
+      "plate_num": 24,
+      "plate_letter": "F",
+      "latin_name": "Ferraria crispa",
+      "pollen_key": "ferraria_crispa",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23G",
+      "plate_num": 23,
+      "plate_letter": "G",
+      "latin_name": "Gladiolus alatus",
+      "pollen_key": "gladiolus_alatus",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23B",
+      "plate_num": 23,
+      "plate_letter": "B",
+      "latin_name": "Gladiolus caeruleus",
+      "pollen_key": "gladiolus_caeruleus",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23C",
+      "plate_num": 23,
+      "plate_letter": "C",
+      "latin_name": "Gladiolus carinatus",
+      "pollen_key": "gladiolus_carinatus",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25B",
+      "plate_num": 25,
+      "plate_letter": "B",
+      "latin_name": "Gladiolus gracilis var. gracilis",
+      "pollen_key": "gladiolus_gracilis_gracilis",
+      "family_latin": "Iridaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23H",
+      "plate_num": 23,
+      "plate_letter": "H",
+      "latin_name": "Gladiolus variegatus",
+      "pollen_key": "gladiolus_variegatus",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24C",
+      "plate_num": 24,
+      "plate_letter": "C",
+      "latin_name": "Hesperantha falcata",
+      "pollen_key": "hesperantha_falcata",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24A",
+      "plate_num": 24,
+      "plate_letter": "A",
+      "latin_name": "Ixia flexuosa",
+      "pollen_key": "ixia_flexuosa",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23I",
+      "plate_num": 23,
+      "plate_letter": "I",
+      "latin_name": "Lapeirousia jacquinii",
+      "pollen_key": "lapeirousia_jacquinii",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24G",
+      "plate_num": 24,
+      "plate_letter": "G",
+      "latin_name": "Moraea bulbillifera",
+      "pollen_key": "moraea_bulbillifera",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24H",
+      "plate_num": 24,
+      "plate_letter": "H",
+      "latin_name": "Moraea fugax",
+      "pollen_key": "moraea_fugax",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24I",
+      "plate_num": 24,
+      "plate_letter": "I",
+      "latin_name": "Moraea gawleri",
+      "pollen_key": "moraea_gawleri",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24J",
+      "plate_num": 24,
+      "plate_letter": "J",
+      "latin_name": "Moraea setifolia",
+      "pollen_key": "moraea_setifolia",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25A",
+      "plate_num": 25,
+      "plate_letter": "A",
+      "latin_name": "Moraea tripetala",
+      "pollen_key": "moraea_tripetala",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23D",
+      "plate_num": 23,
+      "plate_letter": "D",
+      "latin_name": "Romulea cf. setifolia",
+      "pollen_key": "romulea_setifolia",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23E",
+      "plate_num": 23,
+      "plate_letter": "E",
+      "latin_name": "Romulea dichotoma",
+      "pollen_key": "romulea_dichotoma",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "24K",
+      "plate_num": 24,
+      "plate_letter": "K",
+      "latin_name": "Sparaxis grandiflora ssp. grandiflora",
+      "pollen_key": "sparaxis_grandiflora_grandiflora",
+      "family_latin": "Iridaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23F",
+      "plate_num": 23,
+      "plate_letter": "F",
+      "latin_name": "Watsonia meriana",
+      "pollen_key": "watsonia_meriana",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "23J",
+      "plate_num": 23,
+      "plate_letter": "J",
+      "latin_name": "Watsonia stenosiphon",
+      "pollen_key": "watsonia_stenosiphon",
+      "family_latin": "Iridaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "8B",
+      "plate_num": 8,
+      "plate_letter": "B",
+      "latin_name": "Disa lugens",
+      "pollen_key": "disa_lugens",
+      "family_latin": "Orchidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "9B",
+      "plate_num": 9,
+      "plate_letter": "B",
+      "latin_name": "Disperis capensis",
+      "pollen_key": "disperis_capensis",
+      "family_latin": "Orchidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "9A",
+      "plate_num": 9,
+      "plate_letter": "A",
+      "latin_name": "Pterygodium catholicum",
+      "pollen_key": "pterygodium_catholicum",
+      "family_latin": "Orchidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "9C",
+      "plate_num": 9,
+      "plate_letter": "C",
+      "latin_name": "Satyrium carneum",
+      "pollen_key": "satyrium_carneum",
+      "family_latin": "Orchidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "9D",
+      "plate_num": 9,
+      "plate_letter": "D",
+      "latin_name": "Satyrium coriifolium",
+      "pollen_key": "satyrium_coriifolium",
+      "family_latin": "Orchidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7F",
+      "plate_num": 7,
+      "plate_letter": "F",
+      "latin_name": "Ehrharta calycina",
+      "pollen_key": "ehrharta_calycina",
+      "family_latin": "Poaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25J",
+      "plate_num": 25,
+      "plate_letter": "J",
+      "latin_name": "Cyanella hyacinthoides",
+      "pollen_key": "cyanella_hyacinthoides",
+      "family_latin": "Tecophilaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "25K",
+      "plate_num": 25,
+      "plate_letter": "K",
+      "latin_name": "Xyris capensis",
+      "pollen_key": "xyris_capensis",
+      "family_latin": "Xyridaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3K",
+      "plate_num": 3,
+      "plate_letter": "K",
+      "latin_name": "Barleria obtusa",
+      "pollen_key": "barleria_obtusa",
+      "family_latin": "Acanthaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19A",
+      "plate_num": 19,
+      "plate_letter": "A",
+      "latin_name": "Hypoestes aristata",
+      "pollen_key": "hypoestes_aristata",
+      "family_latin": "Acanthaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19B",
+      "plate_num": 19,
+      "plate_letter": "B",
+      "latin_name": "Hypoestes forskaolii",
+      "pollen_key": "hypoestes_forskaolii",
+      "family_latin": "Acanthaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10I",
+      "plate_num": 10,
+      "plate_letter": "I",
+      "latin_name": "Isoglossa ciliata",
+      "pollen_key": "isoglossa_ciliata",
+      "family_latin": "Acanthaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12A",
+      "plate_num": 12,
+      "plate_letter": "A",
+      "latin_name": "Aizoon crystallinum",
+      "pollen_key": "aizoon_crystallinum",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12B",
+      "plate_num": 12,
+      "plate_letter": "B",
+      "latin_name": "Aizoon sarmentosum",
+      "pollen_key": "aizoon_sarmentosum",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12C",
+      "plate_num": 12,
+      "plate_letter": "C",
+      "latin_name": "Carpanthea pomeridiana",
+      "pollen_key": "carpanthea_pomeridiana",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13X",
+      "plate_num": 13,
+      "plate_letter": "X",
+      "latin_name": "Carpobrotus acinaciformis",
+      "pollen_key": "carpobrotus_acinaciformis",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12E",
+      "plate_num": 12,
+      "plate_letter": "E",
+      "latin_name": "Cleretum bellidiforme",
+      "pollen_key": "cleretum_bellidiforme",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12F",
+      "plate_num": 12,
+      "plate_letter": "F",
+      "latin_name": "Conicosia pugioni-",
+      "pollen_key": "conicosia_pugioni",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13G",
+      "plate_num": 13,
+      "plate_letter": "G",
+      "latin_name": "Drosanthemum ambiguum",
+      "pollen_key": "drosanthemum_ambiguum",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13H",
+      "plate_num": 13,
+      "plate_letter": "H",
+      "latin_name": "Jordaaniella dubia",
+      "pollen_key": "jordaaniella_dubia",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13I",
+      "plate_num": 13,
+      "plate_letter": "I",
+      "latin_name": "Lampranthus densifolius",
+      "pollen_key": "lampranthus_densifolius",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12D",
+      "plate_num": 12,
+      "plate_letter": "D",
+      "latin_name": "Mesembryanthemum crystallinum",
+      "pollen_key": "mesembryanthemum_crystallinum",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12H",
+      "plate_num": 12,
+      "plate_letter": "H",
+      "latin_name": "Mesembryanthemum guerichianum",
+      "pollen_key": "mesembryanthemum_guerichianum",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12G",
+      "plate_num": 12,
+      "plate_letter": "G",
+      "latin_name": "Ruschia sarmentosa",
+      "pollen_key": "ruschia_sarmentosa",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12I",
+      "plate_num": 12,
+      "plate_letter": "I",
+      "latin_name": "Stoeberia utilis",
+      "pollen_key": "stoeberia_utilis",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12J",
+      "plate_num": 12,
+      "plate_letter": "J",
+      "latin_name": "Tetragonia fruticosa",
+      "pollen_key": "tetragonia_fruticosa",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12N",
+      "plate_num": 12,
+      "plate_letter": "N",
+      "latin_name": "Tetragonia nigrescens",
+      "pollen_key": "tetragonia_nigrescens",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12K",
+      "plate_num": 12,
+      "plate_letter": "K",
+      "latin_name": "Tetragonia rosea",
+      "pollen_key": "tetragonia_rosea",
+      "family_latin": "Aizoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21A",
+      "plate_num": 21,
+      "plate_letter": "A",
+      "latin_name": "Atriplex bolusii",
+      "pollen_key": "atriplex_bolusii",
+      "family_latin": "Amaranthaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10P",
+      "plate_num": 10,
+      "plate_letter": "P",
+      "latin_name": "Loxostylis alata",
+      "pollen_key": "loxostylis_alata",
+      "family_latin": "Anacardiaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15J",
+      "plate_num": 15,
+      "plate_letter": "J",
+      "latin_name": "Schinus molle",
+      "pollen_key": "schinus_molle",
+      "family_latin": "Anacardiaceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "19E",
+      "plate_num": 19,
+      "plate_letter": "E",
+      "latin_name": "Capnophyllum africanum",
+      "pollen_key": "capnophyllum_africanum",
+      "family_latin": "Apiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19H",
+      "plate_num": 19,
+      "plate_letter": "H",
+      "latin_name": "Dasispermum capense",
+      "pollen_key": "dasispermum_capense",
+      "family_latin": "Apiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19I",
+      "plate_num": 19,
+      "plate_letter": "I",
+      "latin_name": "Heteromorpha arborescens",
+      "pollen_key": "heteromorpha_arborescens",
+      "family_latin": "Apiaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15F",
+      "plate_num": 15,
+      "plate_letter": "F",
+      "latin_name": "Acokanthera oppositifolia",
+      "pollen_key": "acokanthera_oppositifolia",
+      "family_latin": "Apocynaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11K",
+      "plate_num": 11,
+      "plate_letter": "K",
+      "latin_name": "Microloma sagittatum",
+      "pollen_key": "microloma_sagittatum",
+      "family_latin": "Apocynaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1A",
+      "plate_num": 1,
+      "plate_letter": "A",
+      "latin_name": "Amellus tenuifolius",
+      "pollen_key": "amellus_tenuifolius",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1B",
+      "plate_num": 1,
+      "plate_letter": "B",
+      "latin_name": "Arctotis hirsuta",
+      "pollen_key": "arctotis_hirsuta",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11AB",
+      "plate_num": 11,
+      "plate_letter": "AB",
+      "latin_name": "Artemisia afra",
+      "pollen_key": "artemisia_afra",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3A",
+      "plate_num": 3,
+      "plate_letter": "A",
+      "latin_name": "Athanasia crithmifolia ssp. palmatifida",
+      "pollen_key": "athanasia_crithmifolia_palmatifida",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3B",
+      "plate_num": 3,
+      "plate_letter": "B",
+      "latin_name": "Athanasia quinquedentata",
+      "pollen_key": "athanasia_quinquedentata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3C",
+      "plate_num": 3,
+      "plate_letter": "C",
+      "latin_name": "Cotula turbinata",
+      "pollen_key": "cotula_turbinata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1C",
+      "plate_num": 1,
+      "plate_letter": "C",
+      "latin_name": "Crassothonna cacalioides",
+      "pollen_key": "crassothonna_cacalioides",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1D",
+      "plate_num": 1,
+      "plate_letter": "D",
+      "latin_name": "Crassothonna cylindrica",
+      "pollen_key": "crassothonna_cylindrica",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3I",
+      "plate_num": 3,
+      "plate_letter": "I",
+      "latin_name": "Cullumia squarrosa",
+      "pollen_key": "cullumia_squarrosa",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1E",
+      "plate_num": 1,
+      "plate_letter": "E",
+      "latin_name": "Dimorphotheca jucunda",
+      "pollen_key": "dimorphotheca_jucunda",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1G",
+      "plate_num": 1,
+      "plate_letter": "G",
+      "latin_name": "Dimorphotheca pluvialis",
+      "pollen_key": "dimorphotheca_pluvialis",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1F",
+      "plate_num": 1,
+      "plate_letter": "F",
+      "latin_name": "Dimorphotheca pluvialis",
+      "pollen_key": "dimorphotheca_pluvialis",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1H",
+      "plate_num": 1,
+      "plate_letter": "H",
+      "latin_name": "Dimorphotheca sinuata",
+      "pollen_key": "dimorphotheca_sinuata",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1I",
+      "plate_num": 1,
+      "plate_letter": "I",
+      "latin_name": "Edmondia sesamoides",
+      "pollen_key": "edmondia_sesamoides",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3D",
+      "plate_num": 3,
+      "plate_letter": "D",
+      "latin_name": "Eriocephalus africanus",
+      "pollen_key": "eriocephalus_africanus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1J",
+      "plate_num": 1,
+      "plate_letter": "J",
+      "latin_name": "Euryops linifolius",
+      "pollen_key": "euryops_linifolius",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1K",
+      "plate_num": 1,
+      "plate_letter": "K",
+      "latin_name": "Euryops oligoglossus ssp. oligoglossus",
+      "pollen_key": "euryops_oligoglossus_oligoglossus",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1L",
+      "plate_num": 1,
+      "plate_letter": "L",
+      "latin_name": "Euryops pectinatus",
+      "pollen_key": "euryops_pectinatus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1M",
+      "plate_num": 1,
+      "plate_letter": "M",
+      "latin_name": "Euryops virgineus",
+      "pollen_key": "euryops_virgineus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1O",
+      "plate_num": 1,
+      "plate_letter": "O",
+      "latin_name": "Felicia amelloides",
+      "pollen_key": "felicia_amelloides",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1N",
+      "plate_num": 1,
+      "plate_letter": "N",
+      "latin_name": "Felicia amelloides ssp. amoena",
+      "pollen_key": "felicia_amelloides_amoena",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1Q",
+      "plate_num": 1,
+      "plate_letter": "Q",
+      "latin_name": "Felicia dubia",
+      "pollen_key": "felicia_dubia",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1R",
+      "plate_num": 1,
+      "plate_letter": "R",
+      "latin_name": "Felicia echinata",
+      "pollen_key": "felicia_echinata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1S",
+      "plate_num": 1,
+      "plate_letter": "S",
+      "latin_name": "Felicia elongata",
+      "pollen_key": "felicia_elongata",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1P",
+      "plate_num": 1,
+      "plate_letter": "P",
+      "latin_name": "Felicia filifolia",
+      "pollen_key": "felicia_filifolia",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3E",
+      "plate_num": 3,
+      "plate_letter": "E",
+      "latin_name": "Foveolina tenella",
+      "pollen_key": "foveolina_tenella",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1T",
+      "plate_num": 1,
+      "plate_letter": "T",
+      "latin_name": "Garuleum bipinnatum",
+      "pollen_key": "garuleum_bipinnatum",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19C",
+      "plate_num": 19,
+      "plate_letter": "C",
+      "latin_name": "Gerbera ambigua",
+      "pollen_key": "gerbera_ambigua",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1U",
+      "plate_num": 1,
+      "plate_letter": "U",
+      "latin_name": "Helichrysum dasyanthum",
+      "pollen_key": "helichrysum_dasyanthum",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "1V",
+      "plate_num": 1,
+      "plate_letter": "V",
+      "latin_name": "Helichrysum moeserianum",
+      "pollen_key": "helichrysum_moeserianum",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3J",
+      "plate_num": 3,
+      "plate_letter": "J",
+      "latin_name": "Heterolepis aliena",
+      "pollen_key": "heterolepis_aliena",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3L",
+      "plate_num": 3,
+      "plate_letter": "L",
+      "latin_name": "Hypochaeris radicata",
+      "pollen_key": "hypochaeris_radicata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "2A",
+      "plate_num": 2,
+      "plate_letter": "A",
+      "latin_name": "Leysera gnaphalodes",
+      "pollen_key": "leysera_gnaphalodes",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2B",
+      "plate_num": 2,
+      "plate_letter": "B",
+      "latin_name": "Metalasia adunca",
+      "pollen_key": "metalasia_adunca",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2C",
+      "plate_num": 2,
+      "plate_letter": "C",
+      "latin_name": "Metalasia densa",
+      "pollen_key": "metalasia_densa",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2D",
+      "plate_num": 2,
+      "plate_letter": "D",
+      "latin_name": "Metalasia muricata",
+      "pollen_key": "metalasia_muricata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2E",
+      "plate_num": 2,
+      "plate_letter": "E",
+      "latin_name": "Mikania chenopodiifolia",
+      "pollen_key": "mikania_chenopodiifolia",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2F",
+      "plate_num": 2,
+      "plate_letter": "F",
+      "latin_name": "Nidorella resedifolia ssp. resedifolia",
+      "pollen_key": "nidorella_resedifolia_resedifolia",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2G",
+      "plate_num": 2,
+      "plate_letter": "G",
+      "latin_name": "Oedera capensis",
+      "pollen_key": "oedera_capensis",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3F",
+      "plate_num": 3,
+      "plate_letter": "F",
+      "latin_name": "Oncosiphon grandiflorus",
+      "pollen_key": "oncosiphon_grandiflorus",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3G",
+      "plate_num": 3,
+      "plate_letter": "G",
+      "latin_name": "Oncosiphon grandiflorus",
+      "pollen_key": "oncosiphon_grandiflorus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3H",
+      "plate_num": 3,
+      "plate_letter": "H",
+      "latin_name": "Oncosiphon suffruticosum",
+      "pollen_key": "oncosiphon_suffruticosum",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2H",
+      "plate_num": 2,
+      "plate_letter": "H",
+      "latin_name": "Osteospermum incanum",
+      "pollen_key": "osteospermum_incanum",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2I",
+      "plate_num": 2,
+      "plate_letter": "I",
+      "latin_name": "Osteospermum moniliferum",
+      "pollen_key": "osteospermum_moniliferum",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2L",
+      "plate_num": 2,
+      "plate_letter": "L",
+      "latin_name": "Othonna arborescens",
+      "pollen_key": "othonna_arborescens",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2M",
+      "plate_num": 2,
+      "plate_letter": "M",
+      "latin_name": "Othonna quercifolia",
+      "pollen_key": "othonna_quercifolia",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2J",
+      "plate_num": 2,
+      "plate_letter": "J",
+      "latin_name": "Othonna quinquedentata",
+      "pollen_key": "othonna_quinquedentata",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2K",
+      "plate_num": 2,
+      "plate_letter": "K",
+      "latin_name": "Printzia polifolia",
+      "pollen_key": "printzia_polifolia",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2N",
+      "plate_num": 2,
+      "plate_letter": "N",
+      "latin_name": "Pteronia camphorata",
+      "pollen_key": "pteronia_camphorata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2O",
+      "plate_num": 2,
+      "plate_letter": "O",
+      "latin_name": "Pteronia divaricata",
+      "pollen_key": "pteronia_divaricata",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2P",
+      "plate_num": 2,
+      "plate_letter": "P",
+      "latin_name": "Pteronia onobromoides",
+      "pollen_key": "pteronia_onobromoides",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2Q",
+      "plate_num": 2,
+      "plate_letter": "Q",
+      "latin_name": "Senecio burchelli",
+      "pollen_key": "senecio_burchelli",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2R",
+      "plate_num": 2,
+      "plate_letter": "R",
+      "latin_name": "Senecio chrysocoma",
+      "pollen_key": "senecio_chrysocoma",
+      "family_latin": "Asteraceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2S",
+      "plate_num": 2,
+      "plate_letter": "S",
+      "latin_name": "Senecio littoreus",
+      "pollen_key": "senecio_littoreus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2T",
+      "plate_num": 2,
+      "plate_letter": "T",
+      "latin_name": "Senecio purpureus",
+      "pollen_key": "senecio_purpureus",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "2U",
+      "plate_num": 2,
+      "plate_letter": "U",
+      "latin_name": "Ursinia anthemoides",
+      "pollen_key": "ursinia_anthemoides",
+      "family_latin": "Asteraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13M",
+      "plate_num": 13,
+      "plate_letter": "M",
+      "latin_name": "Tecomaria capensis",
+      "pollen_key": "tecomaria_capensis",
+      "family_latin": "Bignoniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10J",
+      "plate_num": 10,
+      "plate_letter": "J",
+      "latin_name": "Amsinckia menziesii",
+      "pollen_key": "amsinckia_menziesii",
+      "family_latin": "Boraginaceae",
+      "method": "A",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "15H",
+      "plate_num": 15,
+      "plate_letter": "H",
+      "latin_name": "Codon royenii",
+      "pollen_key": "codon_royenii",
+      "family_latin": "Boraginaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10M",
+      "plate_num": 10,
+      "plate_letter": "M",
+      "latin_name": "Lobostemon curvifolius",
+      "pollen_key": "lobostemon_curvifolius",
+      "family_latin": "Boraginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10O",
+      "plate_num": 10,
+      "plate_letter": "O",
+      "latin_name": "Lobostemon fruticosus",
+      "pollen_key": "lobostemon_fruticosus",
+      "family_latin": "Boraginaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10N",
+      "plate_num": 10,
+      "plate_letter": "N",
+      "latin_name": "Lobostemon glaucophyllus",
+      "pollen_key": "lobostemon_glaucophyllus",
+      "family_latin": "Boraginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12M",
+      "plate_num": 12,
+      "plate_letter": "M",
+      "latin_name": "Heliophila digitata",
+      "pollen_key": "heliophila_digitata",
+      "family_latin": "Brassicaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12L",
+      "plate_num": 12,
+      "plate_letter": "L",
+      "latin_name": "Heliophila linearis var. linearifolia",
+      "pollen_key": "heliophila_linearis_linearifolia",
+      "family_latin": "Brassicaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12Q",
+      "plate_num": 12,
+      "plate_letter": "Q",
+      "latin_name": "Heliophila linearis var. reticulata",
+      "pollen_key": "heliophila_linearis_reticulata",
+      "family_latin": "Brassicaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12P",
+      "plate_num": 12,
+      "plate_letter": "P",
+      "latin_name": "Heliophila linearis",
+      "pollen_key": "heliophila_linearis",
+      "family_latin": "Brassicaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13J",
+      "plate_num": 13,
+      "plate_letter": "J",
+      "latin_name": "Raphanus raphanistrum",
+      "pollen_key": "raphanus_raphanistrum",
+      "family_latin": "Brassicaceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "14L",
+      "plate_num": 14,
+      "plate_letter": "L",
+      "latin_name": "Berzelia lanuginosa",
+      "pollen_key": "berzelia_lanuginosa",
+      "family_latin": "Bruniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14A",
+      "plate_num": 14,
+      "plate_letter": "A",
+      "latin_name": "Lobelia cf. coronopifolia",
+      "pollen_key": "lobelia_coronopifolia",
+      "family_latin": "Campanulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14B",
+      "plate_num": 14,
+      "plate_letter": "B",
+      "latin_name": "Lobelia comosa",
+      "pollen_key": "lobelia_comosa",
+      "family_latin": "Campanulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14C",
+      "plate_num": 14,
+      "plate_letter": "C",
+      "latin_name": "Lobelia coronopifolia",
+      "pollen_key": "lobelia_coronopifolia",
+      "family_latin": "Campanulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14D",
+      "plate_num": 14,
+      "plate_letter": "D",
+      "latin_name": "Monopsis debilis",
+      "pollen_key": "monopsis_debilis",
+      "family_latin": "Campanulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7I",
+      "plate_num": 7,
+      "plate_letter": "I",
+      "latin_name": "Wahlenbergia paniculata",
+      "pollen_key": "wahlenbergia_paniculata",
+      "family_latin": "Campanulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "3M",
+      "plate_num": 3,
+      "plate_letter": "M",
+      "latin_name": "Scabiosa africana",
+      "pollen_key": "scabiosa_africana",
+      "family_latin": "Caprifoliaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21B",
+      "plate_num": 21,
+      "plate_letter": "B",
+      "latin_name": "Silene undulata",
+      "pollen_key": "silene_undulata",
+      "family_latin": "Caryophyllaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15K",
+      "plate_num": 15,
+      "plate_letter": "K",
+      "latin_name": "Gymnosporia buxifolia",
+      "pollen_key": "gymnosporia_buxifolia",
+      "family_latin": "Celastraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16G",
+      "plate_num": 16,
+      "plate_letter": "G",
+      "latin_name": "Putterlickia pyracantha",
+      "pollen_key": "putterlickia_pyracantha",
+      "family_latin": "Celastraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13U",
+      "plate_num": 13,
+      "plate_letter": "U",
+      "latin_name": "Cuscuta nitida",
+      "pollen_key": "cuscuta_nitida",
+      "family_latin": "Convolvulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14E",
+      "plate_num": 14,
+      "plate_letter": "E",
+      "latin_name": "Cotyledon orbiculata",
+      "pollen_key": "cotyledon_orbiculata",
+      "family_latin": "Crassulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14F",
+      "plate_num": 14,
+      "plate_letter": "F",
+      "latin_name": "Crassula dichotoma",
+      "pollen_key": "crassula_dichotoma",
+      "family_latin": "Crassulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14G",
+      "plate_num": 14,
+      "plate_letter": "G",
+      "latin_name": "Crassula fascicularis",
+      "pollen_key": "crassula_fascicularis",
+      "family_latin": "Crassulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14H",
+      "plate_num": 14,
+      "plate_letter": "H",
+      "latin_name": "Tylecodon paniculatus",
+      "pollen_key": "tylecodon_paniculatus",
+      "family_latin": "Crassulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14I",
+      "plate_num": 14,
+      "plate_letter": "I",
+      "latin_name": "Tylecodon wallichii",
+      "pollen_key": "tylecodon_wallichii",
+      "family_latin": "Crassulaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7A",
+      "plate_num": 7,
+      "plate_letter": "A",
+      "latin_name": "Lagenaria sphaerica",
+      "pollen_key": "lagenaria_sphaerica",
+      "family_latin": "Cucurbitaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10L",
+      "plate_num": 10,
+      "plate_letter": "L",
+      "latin_name": "Cunonia capensis",
+      "pollen_key": "cunonia_capensis",
+      "family_latin": "Cunoniaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11M",
+      "plate_num": 11,
+      "plate_letter": "M",
+      "latin_name": "Curtisia dentata",
+      "pollen_key": "curtisia_dentata",
+      "family_latin": "Curtisiaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "4D",
+      "plate_num": 4,
+      "plate_letter": "D",
+      "latin_name": "Drosera cistiflora",
+      "pollen_key": "drosera_cistiflora",
+      "family_latin": "Droseraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15E",
+      "plate_num": 15,
+      "plate_letter": "E",
+      "latin_name": "Diospyros austro-africana var. rugosa",
+      "pollen_key": "diospyros_austro_africana_rugosa",
+      "family_latin": "Ebenaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15L",
+      "plate_num": 15,
+      "plate_letter": "L",
+      "latin_name": "Euclea racemosa",
+      "pollen_key": "euclea_racemosa",
+      "family_latin": "Ebenaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10E",
+      "plate_num": 10,
+      "plate_letter": "E",
+      "latin_name": "Erica coccinea",
+      "pollen_key": "erica_coccinea",
+      "family_latin": "Ericaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10F",
+      "plate_num": 10,
+      "plate_letter": "F",
+      "latin_name": "Erica irregularis",
+      "pollen_key": "erica_irregularis",
+      "family_latin": "Ericaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10C",
+      "plate_num": 10,
+      "plate_letter": "C",
+      "latin_name": "Erica sessiliflora",
+      "pollen_key": "erica_sessiliflora",
+      "family_latin": "Ericaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10D",
+      "plate_num": 10,
+      "plate_letter": "D",
+      "latin_name": "Erica vestita",
+      "pollen_key": "erica_vestita",
+      "family_latin": "Ericaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6E",
+      "plate_num": 6,
+      "plate_letter": "E",
+      "latin_name": "Euphorbia caput-medusae",
+      "pollen_key": "euphorbia_caput_medusae",
+      "family_latin": "Euphorbiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6H",
+      "plate_num": 6,
+      "plate_letter": "H",
+      "latin_name": "Euphorbia mauritanica",
+      "pollen_key": "euphorbia_mauritanica",
+      "family_latin": "Euphorbiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10A",
+      "plate_num": 10,
+      "plate_letter": "A",
+      "latin_name": "Acacia cyclops",
+      "pollen_key": "acacia_cyclops",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10B",
+      "plate_num": 10,
+      "plate_letter": "B",
+      "latin_name": "Acacia saligna",
+      "pollen_key": "acacia_saligna",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15A",
+      "plate_num": 15,
+      "plate_letter": "A",
+      "latin_name": "Aspalathus albens",
+      "pollen_key": "aspalathus_albens",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16K",
+      "plate_num": 16,
+      "plate_letter": "K",
+      "latin_name": "Aspalathus angustifolia",
+      "pollen_key": "aspalathus_angustifolia",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16J",
+      "plate_num": 16,
+      "plate_letter": "J",
+      "latin_name": "Aspalathus astroites",
+      "pollen_key": "aspalathus_astroites",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14M",
+      "plate_num": 14,
+      "plate_letter": "M",
+      "latin_name": "Aspalathus biflora",
+      "pollen_key": "aspalathus_biflora",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12R",
+      "plate_num": 12,
+      "plate_letter": "R",
+      "latin_name": "Aspalathus cf. pycnantha",
+      "pollen_key": "aspalathus_pycnantha",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12S",
+      "plate_num": 12,
+      "plate_letter": "S",
+      "latin_name": "Aspalathus ciliaris",
+      "pollen_key": "aspalathus_ciliaris",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16I",
+      "plate_num": 16,
+      "plate_letter": "I",
+      "latin_name": "Aspalathus cymbiformis",
+      "pollen_key": "aspalathus_cymbiformis",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12O",
+      "plate_num": 12,
+      "plate_letter": "O",
+      "latin_name": "Aspalathus forbesii",
+      "pollen_key": "aspalathus_forbesii",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12T",
+      "plate_num": 12,
+      "plate_letter": "T",
+      "latin_name": "Aspalathus hispida ssp. hispida",
+      "pollen_key": "aspalathus_hispida_hispida",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13K",
+      "plate_num": 13,
+      "plate_letter": "K",
+      "latin_name": "Aspalathus quinquefolia ssp. quinquefolia",
+      "pollen_key": "aspalathus_quinquefolia_quinquefolia",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12V",
+      "plate_num": 12,
+      "plate_letter": "V",
+      "latin_name": "Aspalathus spinescens",
+      "pollen_key": "aspalathus_spinescens",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12W",
+      "plate_num": 12,
+      "plate_letter": "W",
+      "latin_name": "Aspalathus spinescens ssp. spinescens",
+      "pollen_key": "aspalathus_spinescens_spinescens",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14O",
+      "plate_num": 14,
+      "plate_letter": "O",
+      "latin_name": "Aspalathus stricticlada",
+      "pollen_key": "aspalathus_stricticlada",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13L",
+      "plate_num": 13,
+      "plate_letter": "L",
+      "latin_name": "Aspalathus ternata",
+      "pollen_key": "aspalathus_ternata",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14J",
+      "plate_num": 14,
+      "plate_letter": "J",
+      "latin_name": "Calobota angustifolia",
+      "pollen_key": "calobota_angustifolia",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13N",
+      "plate_num": 13,
+      "plate_letter": "N",
+      "latin_name": "Calobota angustifolia",
+      "pollen_key": "calobota_angustifolia",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13O",
+      "plate_num": 13,
+      "plate_letter": "O",
+      "latin_name": "Crotalaria capensis",
+      "pollen_key": "crotalaria_capensis",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13Q",
+      "plate_num": 13,
+      "plate_letter": "Q",
+      "latin_name": "Cyclopia genistoides",
+      "pollen_key": "cyclopia_genistoides",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15Q",
+      "plate_num": 15,
+      "plate_letter": "Q",
+      "latin_name": "Indigofera brachystachya",
+      "pollen_key": "indigofera_brachystachya",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14S",
+      "plate_num": 14,
+      "plate_letter": "S",
+      "latin_name": "Indigofera procumbens",
+      "pollen_key": "indigofera_procumbens",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "12U",
+      "plate_num": 12,
+      "plate_letter": "U",
+      "latin_name": "Lebeckia plukenetiana",
+      "pollen_key": "lebeckia_plukenetiana",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14N",
+      "plate_num": 14,
+      "plate_letter": "N",
+      "latin_name": "Lessertia frutescens",
+      "pollen_key": "lessertia_frutescens",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14K",
+      "plate_num": 14,
+      "plate_letter": "K",
+      "latin_name": "Lessertia herbacea",
+      "pollen_key": "lessertia_herbacea",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15I",
+      "plate_num": 15,
+      "plate_letter": "I",
+      "latin_name": "Liparia splendens ssp. splendens",
+      "pollen_key": "liparia_splendens_splendens",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15D",
+      "plate_num": 15,
+      "plate_letter": "D",
+      "latin_name": "Medicago polymorpha",
+      "pollen_key": "medicago_polymorpha",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13A",
+      "plate_num": 13,
+      "plate_letter": "A",
+      "latin_name": "Melolobium humile",
+      "pollen_key": "melolobium_humile",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14T",
+      "plate_num": 14,
+      "plate_letter": "T",
+      "latin_name": "Ornithopus sativus",
+      "pollen_key": "ornithopus_sativus",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "15O",
+      "plate_num": 15,
+      "plate_letter": "O",
+      "latin_name": "Psoralea arborea",
+      "pollen_key": "psoralea_arborea",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15P",
+      "plate_num": 15,
+      "plate_letter": "P",
+      "latin_name": "Psoralea bracteolata",
+      "pollen_key": "psoralea_bracteolata",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13P",
+      "plate_num": 13,
+      "plate_letter": "P",
+      "latin_name": "Psoralea fruticans",
+      "pollen_key": "psoralea_fruticans",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14P",
+      "plate_num": 14,
+      "plate_letter": "P",
+      "latin_name": "Rafnia angulata",
+      "pollen_key": "rafnia_angulata",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15N",
+      "plate_num": 15,
+      "plate_letter": "N",
+      "latin_name": "Rafnia triflora",
+      "pollen_key": "rafnia_triflora",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13B",
+      "plate_num": 13,
+      "plate_letter": "B",
+      "latin_name": "Sesbania punicea",
+      "pollen_key": "sesbania_punicea",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19D",
+      "plate_num": 19,
+      "plate_letter": "D",
+      "latin_name": "Vicia sativa",
+      "pollen_key": "vicia_sativa",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14R",
+      "plate_num": 14,
+      "plate_letter": "R",
+      "latin_name": "Wiborgia fusca",
+      "pollen_key": "wiborgia_fusca",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15G",
+      "plate_num": 15,
+      "plate_letter": "G",
+      "latin_name": "Wiborgia monoptera",
+      "pollen_key": "wiborgia_monoptera",
+      "family_latin": "Fabaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13W",
+      "plate_num": 13,
+      "plate_letter": "W",
+      "latin_name": "Xiphotheca reflexa",
+      "pollen_key": "xiphotheca_reflexa",
+      "family_latin": "Fabaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19L",
+      "plate_num": 19,
+      "plate_letter": "L",
+      "latin_name": "Melianthus elongatus",
+      "pollen_key": "melianthus_elongatus",
+      "family_latin": "Francoaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19J",
+      "plate_num": 19,
+      "plate_letter": "J",
+      "latin_name": "Melianthus major",
+      "pollen_key": "melianthus_major",
+      "family_latin": "Francoaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6D",
+      "plate_num": 6,
+      "plate_letter": "D",
+      "latin_name": "Chironia baccifera",
+      "pollen_key": "chironia_baccifera",
+      "family_latin": "Gentianaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19K",
+      "plate_num": 19,
+      "plate_letter": "K",
+      "latin_name": "Orphium frutescens",
+      "pollen_key": "orphium_frutescens",
+      "family_latin": "Gentianaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5D",
+      "plate_num": 5,
+      "plate_letter": "D",
+      "latin_name": "Erodium moschatum",
+      "pollen_key": "erodium_moschatum",
+      "family_latin": "Geraniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5E",
+      "plate_num": 5,
+      "plate_letter": "E",
+      "latin_name": "Pelargonium capitatum",
+      "pollen_key": "pelargonium_capitatum",
+      "family_latin": "Geraniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6B",
+      "plate_num": 6,
+      "plate_letter": "B",
+      "latin_name": "Pelargonium elegans",
+      "pollen_key": "pelargonium_elegans",
+      "family_latin": "Geraniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5C",
+      "plate_num": 5,
+      "plate_letter": "C",
+      "latin_name": "Pelargonium fulgidum",
+      "pollen_key": "pelargonium_fulgidum",
+      "family_latin": "Geraniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5G",
+      "plate_num": 5,
+      "plate_letter": "G",
+      "latin_name": "Pelargonium suburbanum",
+      "pollen_key": "pelargonium_suburbanum",
+      "family_latin": "Geraniaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5B",
+      "plate_num": 5,
+      "plate_letter": "B",
+      "latin_name": "Sarcocaulon spinosum",
+      "pollen_key": "sarcocaulon_spinosum",
+      "family_latin": "Geraniaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21K",
+      "plate_num": 21,
+      "plate_letter": "K",
+      "latin_name": "Coleus madagascariensis",
+      "pollen_key": "coleus_madagascariensis",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21L",
+      "plate_num": 21,
+      "plate_letter": "L",
+      "latin_name": "Coleus neochilus",
+      "pollen_key": "coleus_neochilus",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21M",
+      "plate_num": 21,
+      "plate_letter": "M",
+      "latin_name": "Lavandula dentata",
+      "pollen_key": "lavandula_dentata",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13C",
+      "plate_num": 13,
+      "plate_letter": "C",
+      "latin_name": "Leonotis leonurus",
+      "pollen_key": "leonotis_leonurus",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21N",
+      "plate_num": 21,
+      "plate_letter": "N",
+      "latin_name": "Plectranthus \"Mona Lavender\"",
+      "pollen_key": "plectranthus_mona_lavender",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21O",
+      "plate_num": 21,
+      "plate_letter": "O",
+      "latin_name": "Salvia aurea",
+      "pollen_key": "salvia_aurea",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21P",
+      "plate_num": 21,
+      "plate_letter": "P",
+      "latin_name": "Salvia rosmarinus",
+      "pollen_key": "salvia_rosmarinus",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13D",
+      "plate_num": 13,
+      "plate_letter": "D",
+      "latin_name": "Stachys aethiopica",
+      "pollen_key": "stachys_aethiopica",
+      "family_latin": "Lamiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "14Q",
+      "plate_num": 14,
+      "plate_letter": "Q",
+      "latin_name": "Limeum africanum",
+      "pollen_key": "limeum_africanum",
+      "family_latin": "Limeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15C",
+      "plate_num": 15,
+      "plate_letter": "C",
+      "latin_name": "Punica granatum",
+      "pollen_key": "punica_granatum",
+      "family_latin": "Lythraceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "8A",
+      "plate_num": 8,
+      "plate_letter": "A",
+      "latin_name": "Anisodontea scabrosa",
+      "pollen_key": "anisodontea_scabrosa",
+      "family_latin": "Malvaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7E",
+      "plate_num": 7,
+      "plate_letter": "E",
+      "latin_name": "Hermannia ternifolia",
+      "pollen_key": "hermannia_ternifolia",
+      "family_latin": "Malvaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "4A",
+      "plate_num": 4,
+      "plate_letter": "A",
+      "latin_name": "Hibiscus diversifolius",
+      "pollen_key": "hibiscus_diversifolius",
+      "family_latin": "Malvaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "4B",
+      "plate_num": 4,
+      "plate_letter": "B",
+      "latin_name": "Malva multiflora",
+      "pollen_key": "malva_multiflora",
+      "family_latin": "Malvaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "20E",
+      "plate_num": 20,
+      "plate_letter": "E",
+      "latin_name": "Sparrmannia africana",
+      "pollen_key": "sparrmannia_africana",
+      "family_latin": "Malvaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7C",
+      "plate_num": 7,
+      "plate_letter": "C",
+      "latin_name": "Melia azedarach",
+      "pollen_key": "melia_azedarach",
+      "family_latin": "Meliaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11V",
+      "plate_num": 11,
+      "plate_letter": "V",
+      "latin_name": "Adenogramma glomerata",
+      "pollen_key": "adenogramma_glomerata",
+      "family_latin": "Molluginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11W",
+      "plate_num": 11,
+      "plate_letter": "W",
+      "latin_name": "Coelanthum grandiflorum",
+      "pollen_key": "coelanthum_grandiflorum",
+      "family_latin": "Molluginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11U",
+      "plate_num": 11,
+      "plate_letter": "U",
+      "latin_name": "Pharnaceum lanatum",
+      "pollen_key": "pharnaceum_lanatum",
+      "family_latin": "Molluginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11A",
+      "plate_num": 11,
+      "plate_letter": "A",
+      "latin_name": "Myrica quercifolia",
+      "pollen_key": "myrica_quercifolia",
+      "family_latin": "Myricaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11B",
+      "plate_num": 11,
+      "plate_letter": "B",
+      "latin_name": "Melaleuca virens",
+      "pollen_key": "melaleuca_virens",
+      "family_latin": "Myrtaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10G",
+      "plate_num": 10,
+      "plate_letter": "G",
+      "latin_name": "Grielum grandiflorum",
+      "pollen_key": "grielum_grandiflorum",
+      "family_latin": "Neuradaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "10H",
+      "plate_num": 10,
+      "plate_letter": "H",
+      "latin_name": "Grielum humifusum",
+      "pollen_key": "grielum_humifusum",
+      "family_latin": "Neuradaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6C",
+      "plate_num": 6,
+      "plate_letter": "C",
+      "latin_name": "Jasminum glaucum",
+      "pollen_key": "jasminum_glaucum",
+      "family_latin": "Oleaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13R",
+      "plate_num": 13,
+      "plate_letter": "R",
+      "latin_name": "Olea exasperata",
+      "pollen_key": "olea_exasperata",
+      "family_latin": "Oleaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13E",
+      "plate_num": 13,
+      "plate_letter": "E",
+      "latin_name": "Harveya squamosa",
+      "pollen_key": "harveya_squamosa",
+      "family_latin": "Orobanchaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13F",
+      "plate_num": 13,
+      "plate_letter": "F",
+      "latin_name": "Hyobanche sanguinea",
+      "pollen_key": "hyobanche_sanguinea",
+      "family_latin": "Orobanchaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13S",
+      "plate_num": 13,
+      "plate_letter": "S",
+      "latin_name": "Oxalis pes-caprae",
+      "pollen_key": "oxalis_pes_caprae",
+      "family_latin": "Oxalidaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13T",
+      "plate_num": 13,
+      "plate_letter": "T",
+      "latin_name": "Argemone ochroleuca",
+      "pollen_key": "argemone_ochroleuca",
+      "family_latin": "Papaveraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "13V",
+      "plate_num": 13,
+      "plate_letter": "V",
+      "latin_name": "Papaver rhoeas",
+      "pollen_key": "papaver_rhoeas",
+      "family_latin": "Papaveraceae",
+      "method": "NA,S",
+      "yaml_status": "exists"
+    },
+    {
+      "plate": "10K",
+      "plate_num": 10,
+      "plate_letter": "K",
+      "latin_name": "Penaea fucata",
+      "pollen_key": "penaea_fucata",
+      "family_latin": "Penaeaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16E",
+      "plate_num": 16,
+      "plate_letter": "E",
+      "latin_name": "Clutia ericoides",
+      "pollen_key": "clutia_ericoides",
+      "family_latin": "Peraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16F",
+      "plate_num": 16,
+      "plate_letter": "F",
+      "latin_name": "Clutia polygonoides",
+      "pollen_key": "clutia_polygonoides",
+      "family_latin": "Peraceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5F",
+      "plate_num": 5,
+      "plate_letter": "F",
+      "latin_name": "Limonium capense",
+      "pollen_key": "limonium_capense",
+      "family_latin": "Plumbaginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6A",
+      "plate_num": 6,
+      "plate_letter": "A",
+      "latin_name": "Plumbago auriculata",
+      "pollen_key": "plumbago_auriculata",
+      "family_latin": "Plumbaginaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22F",
+      "plate_num": 22,
+      "plate_letter": "F",
+      "latin_name": "Muraltia filiformis",
+      "pollen_key": "muraltia_filiformis",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22G",
+      "plate_num": 22,
+      "plate_letter": "G",
+      "latin_name": "Muraltia satureioides",
+      "pollen_key": "muraltia_satureioides",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22H",
+      "plate_num": 22,
+      "plate_letter": "H",
+      "latin_name": "Muraltia scoparia",
+      "pollen_key": "muraltia_scoparia",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22I",
+      "plate_num": 22,
+      "plate_letter": "I",
+      "latin_name": "Muraltia spinosa",
+      "pollen_key": "muraltia_spinosa",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22J",
+      "plate_num": 22,
+      "plate_letter": "J",
+      "latin_name": "Muraltia thymifolia",
+      "pollen_key": "muraltia_thymifolia",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22K",
+      "plate_num": 22,
+      "plate_letter": "K",
+      "latin_name": "Polygala myrtifolia",
+      "pollen_key": "polygala_myrtifolia",
+      "family_latin": "Polygalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15R",
+      "plate_num": 15,
+      "plate_letter": "R",
+      "latin_name": "Rumex cordatus",
+      "pollen_key": "rumex_cordatus",
+      "family_latin": "Polygonaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18A",
+      "plate_num": 18,
+      "plate_letter": "A",
+      "latin_name": "Aulax umbellata",
+      "pollen_key": "aulax_umbellata",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18B",
+      "plate_num": 18,
+      "plate_letter": "B",
+      "latin_name": "Leucadendron coniferum",
+      "pollen_key": "leucadendron_coniferum",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18C",
+      "plate_num": 18,
+      "plate_letter": "C",
+      "latin_name": "Leucadendron pubescens",
+      "pollen_key": "leucadendron_pubescens",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18D",
+      "plate_num": 18,
+      "plate_letter": "D",
+      "latin_name": "Leucadendron tinctum",
+      "pollen_key": "leucadendron_tinctum",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "17B",
+      "plate_num": 17,
+      "plate_letter": "B",
+      "latin_name": "Leucospermum hypophyllocarpodendron ssp. hypophyllocarpodendron",
+      "pollen_key": "leucospermum_hypophyllocarpodendron_hypophyllocarpodendron",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "17A",
+      "plate_num": 17,
+      "plate_letter": "A",
+      "latin_name": "Leucospermum patersonii",
+      "pollen_key": "leucospermum_patersonii",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18H",
+      "plate_num": 18,
+      "plate_letter": "H",
+      "latin_name": "Leucospermum rodolentum",
+      "pollen_key": "leucospermum_rodolentum",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18G",
+      "plate_num": 18,
+      "plate_letter": "G",
+      "latin_name": "Mimetes cucullatus",
+      "pollen_key": "mimetes_cucullatus",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18F",
+      "plate_num": 18,
+      "plate_letter": "F",
+      "latin_name": "Protea obtusifolia",
+      "pollen_key": "protea_obtusifolia",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18E",
+      "plate_num": 18,
+      "plate_letter": "E",
+      "latin_name": "Protea scolymocephala",
+      "pollen_key": "protea_scolymocephala",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18I",
+      "plate_num": 18,
+      "plate_letter": "I",
+      "latin_name": "Serruria fucifolia",
+      "pollen_key": "serruria_fucifolia",
+      "family_latin": "Proteaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11D",
+      "plate_num": 11,
+      "plate_letter": "D",
+      "latin_name": "Phylica cephalantha",
+      "pollen_key": "phylica_cephalantha",
+      "family_latin": "Rhamnaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11E",
+      "plate_num": 11,
+      "plate_letter": "E",
+      "latin_name": "Phylica dodii",
+      "pollen_key": "phylica_dodii",
+      "family_latin": "Rhamnaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11F",
+      "plate_num": 11,
+      "plate_letter": "F",
+      "latin_name": "Phylica ericoides",
+      "pollen_key": "phylica_ericoides",
+      "family_latin": "Rhamnaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11C",
+      "plate_num": 11,
+      "plate_letter": "C",
+      "latin_name": "Phylica harveyi",
+      "pollen_key": "phylica_harveyi",
+      "family_latin": "Rhamnaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11G",
+      "plate_num": 11,
+      "plate_letter": "G",
+      "latin_name": "Trichocephalus stipularis",
+      "pollen_key": "trichocephalus_stipularis",
+      "family_latin": "Rhamnaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7H",
+      "plate_num": 7,
+      "plate_letter": "H",
+      "latin_name": "Cliffortia falcata",
+      "pollen_key": "cliffortia_falcata",
+      "family_latin": "Rosaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7G",
+      "plate_num": 7,
+      "plate_letter": "G",
+      "latin_name": "Cliffortia odorata",
+      "pollen_key": "cliffortia_odorata",
+      "family_latin": "Rosaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7B",
+      "plate_num": 7,
+      "plate_letter": "B",
+      "latin_name": "Anthospermum spathulatum",
+      "pollen_key": "anthospermum_spathulatum",
+      "family_latin": "Rubiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "7D",
+      "plate_num": 7,
+      "plate_letter": "D",
+      "latin_name": "Galium tomentosum",
+      "pollen_key": "galium_tomentosum",
+      "family_latin": "Rubiaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "20C",
+      "plate_num": 20,
+      "plate_letter": "C",
+      "latin_name": "Agathosma abrupta",
+      "pollen_key": "agathosma_abrupta",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19F",
+      "plate_num": 19,
+      "plate_letter": "F",
+      "latin_name": "Agathosma bisulca",
+      "pollen_key": "agathosma_bisulca",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19G",
+      "plate_num": 19,
+      "plate_letter": "G",
+      "latin_name": "Agathosma collina",
+      "pollen_key": "agathosma_collina",
+      "family_latin": "Rutaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "20D",
+      "plate_num": 20,
+      "plate_letter": "D",
+      "latin_name": "Agathosma serpyllacea",
+      "pollen_key": "agathosma_serpyllacea",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19M",
+      "plate_num": 19,
+      "plate_letter": "M",
+      "latin_name": "Coleonema pulchellum",
+      "pollen_key": "coleonema_pulchellum",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19N",
+      "plate_num": 19,
+      "plate_letter": "N",
+      "latin_name": "Diosma aspalathoides",
+      "pollen_key": "diosma_aspalathoides",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19O",
+      "plate_num": 19,
+      "plate_letter": "O",
+      "latin_name": "Diosma hirsuta",
+      "pollen_key": "diosma_hirsuta",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "19P",
+      "plate_num": 19,
+      "plate_letter": "P",
+      "latin_name": "Diosma pedicellata",
+      "pollen_key": "diosma_pedicellata",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "20A",
+      "plate_num": 20,
+      "plate_letter": "A",
+      "latin_name": "Diosma subulata",
+      "pollen_key": "diosma_subulata",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "20B",
+      "plate_num": 20,
+      "plate_letter": "B",
+      "latin_name": "Macrostylis crassifolia",
+      "pollen_key": "macrostylis_crassifolia",
+      "family_latin": "Rutaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11Z",
+      "plate_num": 11,
+      "plate_letter": "Z",
+      "latin_name": "Trimeria grandifolia",
+      "pollen_key": "trimeria_grandifolia",
+      "family_latin": "Salicaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11H",
+      "plate_num": 11,
+      "plate_letter": "H",
+      "latin_name": "Osyris compressa",
+      "pollen_key": "osyris_compressa",
+      "family_latin": "Santalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11I",
+      "plate_num": 11,
+      "plate_letter": "I",
+      "latin_name": "Thesium commutatum",
+      "pollen_key": "thesium_commutatum",
+      "family_latin": "Santalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11J",
+      "plate_num": 11,
+      "plate_letter": "J",
+      "latin_name": "Thesium nudicaule",
+      "pollen_key": "thesium_nudicaule",
+      "family_latin": "Santalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11L",
+      "plate_num": 11,
+      "plate_letter": "L",
+      "latin_name": "Thesium strictum",
+      "pollen_key": "thesium_strictum",
+      "family_latin": "Santalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15B",
+      "plate_num": 15,
+      "plate_letter": "B",
+      "latin_name": "Viscum capense",
+      "pollen_key": "viscum_capense",
+      "family_latin": "Santalaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "18J",
+      "plate_num": 18,
+      "plate_letter": "J",
+      "latin_name": "Allophylus decipiens",
+      "pollen_key": "allophylus_decipiens",
+      "family_latin": "Sapindaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15M",
+      "plate_num": 15,
+      "plate_letter": "M",
+      "latin_name": "Chaenostoma cf. hispidum",
+      "pollen_key": "chaenostoma_hispidum",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21Q",
+      "plate_num": 21,
+      "plate_letter": "Q",
+      "latin_name": "Diascia capensis",
+      "pollen_key": "diascia_capensis",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15S",
+      "plate_num": 15,
+      "plate_letter": "S",
+      "latin_name": "Hebenstretia robusta",
+      "pollen_key": "hebenstretia_robusta",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21R",
+      "plate_num": 21,
+      "plate_letter": "R",
+      "latin_name": "Hemimeris racemosa",
+      "pollen_key": "hemimeris_racemosa",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22B",
+      "plate_num": 22,
+      "plate_letter": "B",
+      "latin_name": "Hemimeris sabulosa",
+      "pollen_key": "hemimeris_sabulosa",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11Q",
+      "plate_num": 11,
+      "plate_letter": "Q",
+      "latin_name": "Jamesbrittenia albomarginata",
+      "pollen_key": "jamesbrittenia_albomarginata",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "5A",
+      "plate_num": 5,
+      "plate_letter": "A",
+      "latin_name": "Lyperia lychnidea",
+      "pollen_key": "lyperia_lychnidea",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11T",
+      "plate_num": 11,
+      "plate_letter": "T",
+      "latin_name": "Manulea altissima",
+      "pollen_key": "manulea_altissima",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11R",
+      "plate_num": 11,
+      "plate_letter": "R",
+      "latin_name": "Manulea cf. cheiranthus",
+      "pollen_key": "manulea_cheiranthus",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11S",
+      "plate_num": 11,
+      "plate_letter": "S",
+      "latin_name": "Manulea corymbosa",
+      "pollen_key": "manulea_corymbosa",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15T",
+      "plate_num": 15,
+      "plate_letter": "T",
+      "latin_name": "Microdon capitatus",
+      "pollen_key": "microdon_capitatus",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22D",
+      "plate_num": 22,
+      "plate_letter": "D",
+      "latin_name": "Nemesia affinis",
+      "pollen_key": "nemesia_affinis",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22A",
+      "plate_num": 22,
+      "plate_letter": "A",
+      "latin_name": "Nemesia bicornis",
+      "pollen_key": "nemesia_bicornis",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22E",
+      "plate_num": 22,
+      "plate_letter": "E",
+      "latin_name": "Nemesia lucida",
+      "pollen_key": "nemesia_lucida",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "22C",
+      "plate_num": 22,
+      "plate_letter": "C",
+      "latin_name": "Nemesia versicolor",
+      "pollen_key": "nemesia_versicolor",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15U",
+      "plate_num": 15,
+      "plate_letter": "U",
+      "latin_name": "Phyllopodium capillare",
+      "pollen_key": "phyllopodium_capillare",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "15V",
+      "plate_num": 15,
+      "plate_letter": "V",
+      "latin_name": "Polycarena lilacina",
+      "pollen_key": "polycarena_lilacina",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16D",
+      "plate_num": 16,
+      "plate_letter": "D",
+      "latin_name": "Pseudoselago rapunculoides",
+      "pollen_key": "pseudoselago_rapunculoides",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16B",
+      "plate_num": 16,
+      "plate_letter": "B",
+      "latin_name": "Selago canescens",
+      "pollen_key": "selago_canescens",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16H",
+      "plate_num": 16,
+      "plate_letter": "H",
+      "latin_name": "Selago venosa",
+      "pollen_key": "selago_venosa",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16A",
+      "plate_num": 16,
+      "plate_letter": "A",
+      "latin_name": "Zaluzianskya capensis",
+      "pollen_key": "zaluzianskya_capensis",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "16C",
+      "plate_num": 16,
+      "plate_letter": "C",
+      "latin_name": "Zaluzianskya villosa",
+      "pollen_key": "zaluzianskya_villosa",
+      "family_latin": "Scrophulariaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6G",
+      "plate_num": 6,
+      "plate_letter": "G",
+      "latin_name": "Lycium afrum",
+      "pollen_key": "lycium_afrum",
+      "family_latin": "Solanaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "6F",
+      "plate_num": 6,
+      "plate_letter": "F",
+      "latin_name": "Lycium ferocissimum",
+      "pollen_key": "lycium_ferocissimum",
+      "family_latin": "Solanaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11AA",
+      "plate_num": 11,
+      "plate_letter": "AA",
+      "latin_name": "Solanum nigrum",
+      "pollen_key": "solanum_nigrum",
+      "family_latin": "Solanaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11Y",
+      "plate_num": 11,
+      "plate_letter": "Y",
+      "latin_name": "Halleria lucida",
+      "pollen_key": "halleria_lucida",
+      "family_latin": "Stillbaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21C",
+      "plate_num": 21,
+      "plate_letter": "C",
+      "latin_name": "Gnidia geminiflora",
+      "pollen_key": "gnidia_geminiflora",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21D",
+      "plate_num": 21,
+      "plate_letter": "D",
+      "latin_name": "Gnidia squarrosa",
+      "pollen_key": "gnidia_squarrosa",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21E",
+      "plate_num": 21,
+      "plate_letter": "E",
+      "latin_name": "Lachnaea grandiflora",
+      "pollen_key": "lachnaea_grandiflora",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21F",
+      "plate_num": 21,
+      "plate_letter": "F",
+      "latin_name": "Passerina paleacea",
+      "pollen_key": "passerina_paleacea",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21G",
+      "plate_num": 21,
+      "plate_letter": "G",
+      "latin_name": "Struthiola leptantha",
+      "pollen_key": "struthiola_leptantha",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21H",
+      "plate_num": 21,
+      "plate_letter": "H",
+      "latin_name": "Struthiola salteri",
+      "pollen_key": "struthiola_salteri",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21J",
+      "plate_num": 21,
+      "plate_letter": "J",
+      "latin_name": "Struthiola striata",
+      "pollen_key": "struthiola_striata",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "21I",
+      "plate_num": 21,
+      "plate_letter": "I",
+      "latin_name": "Struthiola tomentosa",
+      "pollen_key": "struthiola_tomentosa",
+      "family_latin": "Thymelaeaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11X",
+      "plate_num": 11,
+      "plate_letter": "X",
+      "latin_name": "Vahlia capensis ssp. vulgaris",
+      "pollen_key": "vahlia_capensis_vulgaris",
+      "family_latin": "Vahliaceae",
+      "method": "A",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11N",
+      "plate_num": 11,
+      "plate_letter": "N",
+      "latin_name": "Roepera debilis",
+      "pollen_key": "roepera_debilis",
+      "family_latin": "Zygophyllaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11O",
+      "plate_num": 11,
+      "plate_letter": "O",
+      "latin_name": "Roepera flexuosa",
+      "pollen_key": "roepera_flexuosa",
+      "family_latin": "Zygophyllaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    },
+    {
+      "plate": "11P",
+      "plate_num": 11,
+      "plate_letter": "P",
+      "latin_name": "Roepera morgsana",
+      "pollen_key": "roepera_morgsana",
+      "family_latin": "Zygophyllaceae",
+      "method": "NA,S",
+      "yaml_status": "new"
+    }
+  ]
+}

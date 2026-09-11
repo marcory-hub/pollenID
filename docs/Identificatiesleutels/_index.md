@@ -187,6 +187,30 @@
 
 ---
 
+## Flora regio Kaap (Delport et al. 2025)
+- [Overzicht](flora-regio-kaap.md)
+- [Massula](flora-regio-kaap-massula.md)
+- [Polyade](flora-regio-kaap-polyad.md)
+- [Pseudomonade](flora-regio-kaap-pseudomonad.md)
+- [Tetrade](flora-regio-kaap-tetrad.md)
+- [Inaperturaat](flora-regio-kaap-inaperturate.md)
+- [Monoporaat](flora-regio-kaap-monoporate.md)
+- [Diporaat](flora-regio-kaap-diporate.md)
+- [Triporaat](flora-regio-kaap-triporate.md)
+- [Pantoporaat](flora-regio-kaap-pantoporate.md)
+- [Tricolpaat](flora-regio-kaap-tricolpate.md)
+- [Tetracolpaat](flora-regio-kaap-tetracolpate.md)
+- [Stephanocolpaat](flora-regio-kaap-stephanocolpate.md)
+- [Tricolporaat](flora-regio-kaap-tricolporate.md)
+- [Tetracolporaat](flora-regio-kaap-tetracolporate.md)
+- [Stephanocolporaat](flora-regio-kaap-stephanocolporate.md)
+- [Monosulcaat](flora-regio-kaap-monosulcate.md)
+- [Trisulcaat](flora-regio-kaap-trisulcate.md)
+- [Heteroaperturaat](flora-regio-kaap-heteroaperturate.md)
+- [Trisindemicolporaat](flora-regio-kaap-trisindemicolporate.md)
+
+---
+
 ### Online pollendatabases
 - [Pollen Wiki (tstebler.ch)](https://pollen.tstebler.ch/)
 - [PollenX](https://pollenx.eu/)

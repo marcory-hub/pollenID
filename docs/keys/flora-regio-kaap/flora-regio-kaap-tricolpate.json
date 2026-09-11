@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-tricolpate",
+    "title": "Tricolpaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 19
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur clavulaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur echinaat",
+          "outcome": {
+            "text": "*Scabiosa africana* (Plaat 3M)"
+          },
+          "pollen_key": "scabiosa_africana"
+        },
+        {
+          "label": "Primaire sculptuur micro-echinaat",
+          "outcome": {
+            "text": "*Carpobrotus acinaciformis* (Plaat 13X)"
+          },
+          "pollen_key": "carpobrotus_acinaciformis"
+        },
+        {
+          "label": "Primaire sculptuur gemmulaat",
+          "outcome": {
+            "text": "*Papaver rhoeas* (Plaat 13V)"
+          },
+          "pollen_key": "papaver_rhoeas"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "3"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "10"
+        },
+        {
+          "label": "Primaire sculptuur verriculaat",
+          "next": "19"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat-cristaat",
+          "outcome": {
+            "text": "*Sarcocaulon spinosum* (Plaat 5B)"
+          },
+          "pollen_key": "sarcocaulon_spinosum"
+        },
+        {
+          "label": "Primaire sculptuur rugulaat",
+          "outcome": {
+            "text": "*Stoeberia utilis* (Plaat 12I)"
+          },
+          "pollen_key": "stoeberia_utilis"
+        },
+        {
+          "label": "Primaire sculptuur micro-gemmulaat",
+          "outcome": {
+            "text": "*Cuscuta nitida* (Plaat 13U)"
+          },
+          "pollen_key": "cuscuta_nitida"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Caput-grootte en -vorm variabel",
+          "outcome": {
+            "text": "*Plumbago auriculata* (Plaat 6A)"
+          },
+          "pollen_key": "plumbago_auriculata"
+        },
+        {
+          "label": "Caput-grootte en -vorm uniform",
+          "outcome": {
+            "text": "*Lycium afrum* (Plaat 6 G)"
+          },
+          "pollen_key": "lycium_afrum"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apocolpium-index zeer klein",
+          "next": "4"
+        },
+        {
+          "label": "Apocolpium-index klein",
+          "next": "5"
+        },
+        {
+          "label": "Apocolpium-index middelgroot",
+          "next": "7"
+        },
+        {
+          "label": "Apocolpium-index groot",
+          "outcome": {
+            "text": "*Lampranthus densifolius* (Plaat 13I)"
+          },
+          "pollen_key": "lampranthus_densifolius"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm); secundaire sculptuur clavulaat",
+          "outcome": {
+            "text": "*Limonium capense* (Plaat 5F)"
+          },
+          "pollen_key": "limonium_capense"
+        },
+        {
+          "label": "Klein (10–25 µm); secundaire sculptuur afwezig",
+          "outcome": {
+            "text": "*Raphanus raphanistrum* (Plaat 13J)"
+          },
+          "pollen_key": "raphanus_raphanistrum"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met een brug",
+          "outcome": {
+            "text": "*Crotalaria capensis* (Plaat 13O)"
+          },
+          "pollen_key": "crotalaria_capensis"
+        },
+        {
+          "label": "Apertuur met een brug en een margo",
+          "outcome": {
+            "text": "*Calobota angustifolia* (Plaat 13N)"
+          },
+          "pollen_key": "calobota_angustifolia"
+        },
+        {
+          "label": "Zonder brug of margo",
+          "next": "6"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "outcome": {
+            "text": "*Aspalathus quinquefolia* ssp. *quinquefolia* (Plaat 13K)"
+          },
+          "pollen_key": "aspalathus_quinquefolia_quinquefolia"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Tecomaria*-type (Plaat 12–13)"
+          },
+          "pollen_key": "tecomaria_typ"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm)",
+          "outcome": {
+            "text": "*Jasminum glaucum* (Plaat 6C)"
+          },
+          "pollen_key": "jasminum_glaucum"
+        },
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "8"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Olea*-type (Plaat 13)"
+          },
+          "pollen_key": "olea_typ"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig; apertuur zonder margo",
+          "outcome": {
+            "text": "*Aspalathus ternata* (Plaat 13L)"
+          },
+          "pollen_key": "aspalathus_ternata"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig; apertuur met een margo",
+          "next": "9"
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina heterobrochaat",
+          "outcome": {
+            "text": "*Cyclopia genistoides* (Plaat 13Q)"
+          },
+          "pollen_key": "cyclopia_genistoides"
+        },
+        {
+          "label": "Lumina homobrochaat",
+          "outcome": {
+            "text": "*Psoralea fruticans* (Plaat 13P)"
+          },
+          "pollen_key": "psoralea_fruticans"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apocolpium-index zeer klein",
+          "next": "11"
+        },
+        {
+          "label": "Apocolpium-index klein",
+          "next": "15"
+        },
+        {
+          "label": "Apocolpium-index middelgroot",
+          "outcome": {
+            "text": "*Cleretum bellidiforme* (Plaat 12E)"
+          },
+          "pollen_key": "cleretum_bellidiforme"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "next": "12"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "14"
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein (10–25 µm); pseudoparasyncolpaat",
+          "outcome": {
+            "text": "*Thesium strictum* (Plaat 11L)"
+          },
+          "pollen_key": "thesium_strictum"
+        },
+        {
+          "label": "Middelgroot (26–50 µm); colpi ongespecialiseerd",
+          "next": "13"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "outcome": {
+            "text": "*Aspalathus spinescens* (Plaat 12V)"
+          },
+          "pollen_key": "aspalathus_spinescens"
+        },
+        {
+          "label": "Vorm afgeplat",
+          "outcome": {
+            "text": "*Melolobium humile* (Plaat 13A)"
+          },
+          "pollen_key": "melolobium_humile"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Harveya*-type (Plaat 12–13)"
+          },
+          "pollen_key": "harveya_typ"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Coelanthum grandiflorum* (Plaat 11W)"
+          },
+          "pollen_key": "coelanthum_grandiflorum"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig",
+          "next": "16"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "17"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein (10–25 µm); pseudoparasyncolpaat",
+          "outcome": {
+            "text": "*Microloma sagittatum* (Plaat 11K)\n*Thesium commutatum* (Plaat 11I)\n*Thesium nudicaule* (Plaat 11J)"
+          },
+          "pollen_keys": [
+            "microloma_sagittatum",
+            "thesium_commutatum",
+            "thesium_nudicaule"
+          ]
+        },
+        {
+          "label": "Middelgroot (26–50 µm); colpi ongespecialiseerd",
+          "outcome": {
+            "text": "*Aspalathus forbesii* (Plaat 12O)\n*Aspalathus hispida* ssp. *hispida* (Plaat 12T)\n*Aspalathus spinescens* ssp. *spinescens* (Plaat 12W)\n*Sesbania punicea* (Plaat 13B)"
+          },
+          "pollen_keys": [
+            "aspalathus_forbesii",
+            "aspalathus_hispida_hispida",
+            "aspalathus_spinescens_spinescens",
+            "sesbania_punicea"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "18"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Adenogramma*-type (Plaat 11–12)"
+          },
+          "pollen_key": "adenogramma_typ"
+        }
+      ]
+    },
+    "18": {
+      "id": "18",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "outcome": {
+            "text": "*Tetragonia*-type (Plaat 12–13)"
+          },
+          "pollen_key": "tetragonia_typ"
+        },
+        {
+          "label": "Vorm afgeplat",
+          "outcome": {
+            "text": "*Hyobanche sanguinea* (Plaat 13F)"
+          },
+          "pollen_key": "hyobanche_sanguinea"
+        }
+      ]
+    },
+    "19": {
+      "id": "19",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm); apocolpium-index zeer klein",
+          "outcome": {
+            "text": "*Argemone ochroleuca* (Plaat 13T)"
+          },
+          "pollen_key": "argemone_ochroleuca"
+        },
+        {
+          "label": "Middelgroot (26–50 µm); apocolpium-index klein",
+          "outcome": {
+            "text": "*Xiphotheca reflexa* (Plaat 13W)"
+          },
+          "pollen_key": "xiphotheca_reflexa"
+        }
+      ]
+    }
+  }
+}

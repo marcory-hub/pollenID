@@ -1,0 +1,304 @@
+{
+  "source": "Delport et al. 2025 §3.3 pollen types + flora-regio-kaap key paths",
+  "types": [
+    {
+      "name": "tecomaria-type",
+      "pollen_key": "tecomaria_typ",
+      "members": [
+        "oxalis_pes_caprae",
+        "tecomaria_capensis",
+        "ruschia_sarmentosa"
+      ],
+      "features": {
+        "aperture": "tricolpaat",
+        "sculpture": "reticulaat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Apocolpium-index klein"
+      }
+    },
+    {
+      "name": "olea-type",
+      "pollen_key": "olea_typ",
+      "members": [
+        "drosanthemum_ambiguum",
+        "jordaaniella_dubia",
+        "olea_exasperata"
+      ],
+      "features": {
+        "aperture": "tricolpaat",
+        "sculpture": "reticulaat"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "harveya-type",
+      "pollen_key": "harveya_typ",
+      "members": [
+        "harveya_squamosa",
+        "aizoon_crystallinum",
+        "leonotis_leonurus",
+        "stachys_aethiopica",
+        "heliophila_digitata",
+        "heliophila_linearis_linearifolia",
+        "heliophila_linearis"
+      ],
+      "features": {
+        "aperture": "tricolpaat",
+        "sculpture": "scabraat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Apocolpium-index zeer klein"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "tetragonia-type",
+      "pollen_key": "tetragonia_typ",
+      "members": [
+        "aizoon_sarmentosum",
+        "carpanthea_pomeridiana",
+        "mesembryanthemum_crystallinum",
+        "tetragonia_nigrescens",
+        "tetragonia_rosea",
+        "tetragonia_fruticosa",
+        "aspalathus_pycnantha",
+        "lebeckia_plukenetiana",
+        "heliophila_linearis_reticulata",
+        "conicosia_pugioni"
+      ],
+      "features": {
+        "aperture": "tricolpaat",
+        "sculpture": "scabraat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Apocolpium-index klein"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "adenogramma-type",
+      "pollen_key": "adenogramma_typ",
+      "members": [
+        "adenogramma_glomerata",
+        "pharnaceum_lanatum",
+        "mesembryanthemum_guerichianum"
+      ],
+      "features": {
+        "aperture": "tricolpaat",
+        "sculpture": "scabraat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Apocolpium-index klein"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "medium felicia-type",
+      "pollen_key": "medium_felicia_typ",
+      "members": [
+        "amellus_tenuifolius",
+        "crassothonna_cylindrica",
+        "dimorphotheca_jucunda",
+        "euryops_linifolius",
+        "euryops_pectinatus",
+        "euryops_virgineus",
+        "felicia_amelloides_amoena",
+        "felicia_amelloides",
+        "felicia_echinata",
+        "felicia_filifolia",
+        "leysera_gnaphalodes",
+        "metalasia_adunca",
+        "metalasia_densa",
+        "metalasia_muricata",
+        "oedera_capensis",
+        "osteospermum_moniliferum",
+        "othonna_arborescens",
+        "printzia_polifolia",
+        "pteronia_camphorata",
+        "pteronia_divaricata",
+        "pteronia_onobromoides",
+        "senecio_littoreus",
+        "senecio_purpureus",
+        "ursinia_anthemoides"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "echinaat",
+        "ornamentation": "Stekels ongespecialiseerd"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "small felicia-type",
+      "pollen_key": "small_felicia_typ",
+      "members": [
+        "arctotis_hirsuta",
+        "crassothonna_cacalioides",
+        "dimorphotheca_pluvialis",
+        "dimorphotheca_sinuata",
+        "edmondia_sesamoides",
+        "euryops_oligoglossus_oligoglossus",
+        "felicia_dubia",
+        "felicia_elongata",
+        "garuleum_bipinnatum",
+        "helichrysum_dasyanthum",
+        "helichrysum_moeserianum",
+        "mikania_chenopodiifolia",
+        "nidorella_resedifolia_resedifolia",
+        "osteospermum_incanum",
+        "othonna_quercifolia",
+        "othonna_quinquedentata",
+        "senecio_burchelli",
+        "senecio_chrysocoma"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "echinaat",
+        "ornamentation": "Stekels ongespecialiseerd"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "medium pentzia-type",
+      "pollen_key": "medium_pentzia_typ",
+      "members": [
+        "athanasia_quinquedentata",
+        "cotula_turbinata",
+        "eriocephalus_africanus"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "echinaat",
+        "ornamentation": "Stekels op een maansikkelformige exine, columellae zichtbaar"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "small pentzia-type",
+      "pollen_key": "small_pentzia_typ",
+      "members": [
+        "athanasia_crithmifolia_palmatifida",
+        "foveolina_tenella",
+        "oncosiphon_grandiflorus",
+        "oncosiphon_suffruticosum"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "echinaat",
+        "ornamentation": "Stekels op een maansikkelformige exine, columellae zichtbaar"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "monopsis-type",
+      "pollen_key": "monopsis_typ",
+      "members": [
+        "aspalathus_ciliaris",
+        "lessertia_herbacea",
+        "lobelia_coronopifolia",
+        "monopsis_debilis",
+        "indigofera_procumbens"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "scabraat",
+        "shape": "driehoekig"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "tylecodon-type",
+      "pollen_key": "tylecodon_typ",
+      "members": [
+        "tylecodon_paniculatus",
+        "tylecodon_wallichii",
+        "calobota_angustifolia",
+        "viscum_capense",
+        "lobelia_comosa"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "scabraat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Klein apocolpiale index; colpi driehoekig in polair aanzicht"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    },
+    {
+      "name": "vahlia-type",
+      "pollen_key": "vahlia_typ",
+      "members": [
+        "lessertia_frutescens",
+        "limeum_africanum",
+        "jamesbrittenia_albomarginata",
+        "manulea_altissima",
+        "vahlia_capensis_vulgaris",
+        "roepera_flexuosa",
+        "roepera_morgsana",
+        "berzelia_lanuginosa"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "scabraat",
+        "shape": "cirkelvormig",
+        "ornamentation": "Apertuur zonder brug; klein apocolpiale index"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "capnophyllum-type",
+      "pollen_key": "capnophyllum_typ",
+      "members": [
+        "capnophyllum_africanum",
+        "dasispermum_capense",
+        "agathosma_abrupta",
+        "agathosma_serpyllacea"
+      ],
+      "features": {
+        "aperture": "tricolporaat",
+        "polarity": "isopolair",
+        "sculpture": "scabraat",
+        "shape": "prolaat"
+      },
+      "size_class": "klein (10–25 µm)"
+    },
+    {
+      "name": "gnidia-type",
+      "pollen_key": "gnidia_typ",
+      "members": [
+        "gnidia_geminiflora",
+        "lachnaea_grandiflora",
+        "struthiola_leptantha",
+        "gnidia_squarrosa",
+        "struthiola_salteri",
+        "struthiola_tomentosa"
+      ],
+      "features": {
+        "aperture": "pantoporaat",
+        "sculpture": "crotonoïd, reticulaat-cristaat"
+      }
+    },
+    {
+      "name": "aloe-type",
+      "pollen_key": "aloe_typ",
+      "members": [
+        "bobartia_orientalis_orientalis",
+        "chasmanthe_floribunda",
+        "eucomis_autumnalis_autumnalis",
+        "aloe_speciosa",
+        "aloe_thraskii"
+      ],
+      "features": {
+        "aperture": "monosulcaat",
+        "sculpture": "reticulaat",
+        "shape": "afgeplat",
+        "ornamentation": "Klein lumina"
+      },
+      "size_class": "middelgroot (26–50 µm)"
+    }
+  ]
+}

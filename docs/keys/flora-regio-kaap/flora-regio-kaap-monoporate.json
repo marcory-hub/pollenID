@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-monoporate",
+    "title": "Monoporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Ulceraat en annulaat",
+          "outcome": {
+            "text": "*Ehrharta calycina* (Plaat 7F)"
+          },
+          "pollen_key": "ehrharta_calycina"
+        }
+      ]
+    }
+  }
+}

@@ -29,7 +29,7 @@ YAML schema, atlas field map, page/sleutel details, helpers: [REFERENCE.md](REFE
 
 - PNGs under `docs/assets/images/by-taxon/<pollen_key>/` (move from `_todo/<slug>/` if needed).
 - Folder = `pollen_key` (`genus_species` or `genus_typ`). Type aggregates: latin `Genus typ`, dutch `{vernacular} type`.
-- New image rows: `kind` / `source` = `by_taxon` unless user names another corpus.
+- New image rows: `kind` / `source` default `pollenwiki`; `paldat` if from PalDat; `by_taxon` for own/local photos; `kerkvliet` only if the user explicitly asks. Never `pollenx` (PollenX copies other sites).
 - Beug sizes in `size.*`; Kerkvliet sizes in `pollen-note` (`Kerkvliet: … µm`). No plant height in pollen `size`.
 
 ## Steps

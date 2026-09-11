@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-pantoporate",
+    "title": "Pantoporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 5
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur echinaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur psilaat",
+          "outcome": {
+            "text": "*Atriplex bolusii* (Plaat 21A)"
+          },
+          "pollen_key": "atriplex_bolusii"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "4"
+        },
+        {
+          "label": "Primaire sculptuur crotonoïd, reticulaat-cristaat",
+          "next": "5"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zeer groot (>100 µm); porie zonder annulus",
+          "next": "3"
+        },
+        {
+          "label": "Groot (51–100 µm); porie annulaat",
+          "outcome": {
+            "text": "*Barleria obtusa* (Plaat 3K)"
+          },
+          "pollen_key": "barleria_obtusa"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Secundaire sculptuur scabraat",
+          "outcome": {
+            "text": "*Malva multiflora* (Plaat 4B)"
+          },
+          "pollen_key": "malva_multiflora"
+        },
+        {
+          "label": "Secundaire sculptuur reticulaat",
+          "outcome": {
+            "text": "*Hibiscus diversifolius* (Plaat 4A)"
+          },
+          "pollen_key": "hibiscus_diversifolius"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina",
+          "outcome": {
+            "text": "*Silene undulata* (Plaat 21B)"
+          },
+          "pollen_key": "silene_undulata"
+        },
+        {
+          "label": "Middelgroot lumina",
+          "outcome": {
+            "text": "*Passerina paleacea* (Plaat 21F)"
+          },
+          "pollen_key": "passerina_paleacea"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina",
+          "outcome": {
+            "text": "*Struthiola striata* (Plaat 21 J)"
+          },
+          "pollen_key": "struthiola_striata"
+        },
+        {
+          "label": "Middelgroot lumina",
+          "outcome": {
+            "text": "*Gnidia*-type (Plaat 21)"
+          },
+          "pollen_key": "gnidia_typ"
+        }
+      ]
+    }
+  }
+}

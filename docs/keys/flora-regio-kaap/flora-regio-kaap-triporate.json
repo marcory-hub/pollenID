@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-triporate",
+    "title": "Triporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 8
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur micro-echinaat",
+          "outcome": {
+            "text": "*Wahlenbergia paniculata* (Plaat 7I)"
+          },
+          "pollen_key": "wahlenbergia_paniculata"
+        },
+        {
+          "label": "Primaire sculptuur gemmulaat",
+          "outcome": {
+            "text": "*Aulax umbellata* (Plaat 18A)"
+          },
+          "pollen_key": "aulax_umbellata"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "5"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina",
+          "outcome": {
+            "text": "*Leucospermum hypophyllocarpodendron* ssp. *hypophyllocarpodendron* (Plaat 17B)\n*Leucospermum rodolentum* (Plaat 18H)"
+          },
+          "pollen_keys": [
+            "leucospermum_hypophyllocarpodendron_hypophyllocarpodendron",
+            "leucospermum_rodolentum"
+          ]
+        },
+        {
+          "label": "Middelgroot lumina",
+          "next": "3"
+        },
+        {
+          "label": "Groot lumina",
+          "outcome": {
+            "text": "*Anisodontea scabrosa* (Plaat 8A)"
+          },
+          "pollen_key": "anisodontea_scabrosa"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Secundaire sculptuur clavulaat",
+          "outcome": {
+            "text": "*Erodium moschatum* (Plaat 5D)\n*Pelargonium capitatum* (Plaat 5E)"
+          },
+          "pollen_keys": [
+            "erodium_moschatum",
+            "pelargonium_capitatum"
+          ]
+        },
+        {
+          "label": "Secundaire sculptuur afwezig",
+          "next": "4"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig; vorm afgeplat en concaaf",
+          "outcome": {
+            "text": "*Leucospermum patersonii* (Plaat 17A)"
+          },
+          "pollen_key": "leucospermum_patersonii"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig; vorm isodiametrisch",
+          "outcome": {
+            "text": "*Pelargonium elegans* (Plaat 6B)"
+          },
+          "pollen_key": "pelargonium_elegans"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "next": "6"
+        },
+        {
+          "label": "Vorm afgeplat",
+          "next": "8"
+        },
+        {
+          "label": "Vorm afgeplat en concaaf",
+          "outcome": {
+            "text": "*Mimetes cucullatus* (Plaat 18G)\n*Serruria fucifolia* (Plaat 18I)"
+          },
+          "pollen_keys": [
+            "mimetes_cucullatus",
+            "serruria_fucifolia"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht driehoekig; apertuur ongespecialiseerd",
+          "next": "7"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig; apertuur met een oncus",
+          "outcome": {
+            "text": "*Myrica quercifolia* (Plaat 11A)"
+          },
+          "pollen_key": "myrica_quercifolia"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Leucadendron coniferum* (Plaat 18B)\n*Leucadendron tinctum* (Plaat 18D)\n*Protea obtusifolia* (Plaat 18F)"
+          },
+          "pollen_keys": [
+            "leucadendron_coniferum",
+            "leucadendron_tinctum",
+            "protea_obtusifolia"
+          ]
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Protea scolymocephala* (Plaat 18E)"
+          },
+          "pollen_key": "protea_scolymocephala"
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Leucadendron pubescens* (Plaat 18C)"
+          },
+          "pollen_key": "leucadendron_pubescens"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Allophylus decipiens* (Plaat 18J)"
+          },
+          "pollen_key": "allophylus_decipiens"
+        }
+      ]
+    }
+  }
+}

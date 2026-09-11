@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-tetracolporate",
+    "title": "Tetracolporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm); brevicolporaat",
+          "outcome": {
+            "text": "*Lyperia lychnidea* (Plaat 5A)"
+          },
+          "pollen_key": "lyperia_lychnidea"
+        },
+        {
+          "label": "Middelgroot (26–50 µm); colpi ongespecialiseerd",
+          "outcome": {
+            "text": "*Melia azedarach* (Plaat 7C)"
+          },
+          "pollen_key": "melia_azedarach"
+        }
+      ]
+    }
+  }
+}

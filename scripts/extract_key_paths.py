@@ -58,6 +58,7 @@ def _iter_key_files() -> Iterable[Tuple[str, Path]]:
     yield ("beug", KEYS_DIR / "beug")
     yield ("vanderham", KEYS_DIR / "vanderham")
     yield ("kerkvliet", KEYS_DIR / "kerkvliet")
+    yield ("flora-regio-kaap", KEYS_DIR / "flora-regio-kaap")
 
 
 def _key_title(meta: Any, fallback: str) -> str:
@@ -66,7 +67,19 @@ def _key_title(meta: Any, fallback: str) -> str:
     return fallback
 
 
+def _choice_matches_taxon(choice: Dict[str, Any], taxon_key: str) -> bool:
+    pk = choice.get("pollen_key")
+    if isinstance(pk, str) and pk.strip() == taxon_key:
+        return True
+    pks = choice.get("pollen_keys")
+    if isinstance(pks, list) and any(isinstance(x, str) and x.strip() == taxon_key for x in pks):
+        return True
+    return False
+
+
 def _is_terminal_for_taxon(choice: Dict[str, Any], taxon_key: str) -> bool:
+    if _choice_matches_taxon(choice, taxon_key):
+        return True
     cid = choice.get("id")
     if isinstance(cid, dict):
         pk = cid.get("pollen_key")
@@ -77,6 +90,8 @@ def _is_terminal_for_taxon(choice: Dict[str, Any], taxon_key: str) -> bool:
             return True
     out = choice.get("outcome")
     if isinstance(out, dict):
+        if _choice_matches_taxon(out, taxon_key):
+            return True
         pk = out.get("pollen_key")
         if isinstance(pk, str) and pk.strip() == taxon_key:
             return True
@@ -104,7 +119,35 @@ def _choice_outcome_label(choice: Dict[str, Any], taxon_key: str) -> str:
     out = choice.get("outcome")
     if isinstance(out, dict) and isinstance(out.get("text"), str) and out["text"].strip():
         return out["text"].strip()
+    pk = choice.get("pollen_key")
+    if isinstance(pk, str) and pk.strip():
+        return pk.strip()
     return taxon_key
+
+
+def _flora_regio_kaap_type_keys_for_member(taxon_key: str) -> List[str]:
+    """Return type pollen_keys that list taxon_key as a §3.3 member."""
+    path = KEYS_DIR / "flora-regio-kaap" / "type-members.json"
+    if not path.is_file():
+        return []
+    try:
+        payload = _read_json(path)
+    except Exception:
+        return []
+    if not isinstance(payload, dict):
+        return []
+    out: List[str] = []
+    for t in payload.get("types") or []:
+        if not isinstance(t, dict):
+            continue
+        members = t.get("members") or []
+        if not isinstance(members, list):
+            continue
+        if any(isinstance(m, str) and m.strip() == taxon_key for m in members):
+            tpk = t.get("pollen_key")
+            if isinstance(tpk, str) and tpk.strip():
+                out.append(tpk.strip())
+    return out
 
 
 def _extract_paths_from_steps(key_json: Dict[str, Any], taxon_key: str) -> List[PathRender]:
@@ -254,7 +297,12 @@ def _extract_kerkvliet_sections(key_json: Dict[str, Any], taxon_key: str) -> Lis
 
 
 def extract_paths_for_taxon(taxon_key: str) -> Dict[str, List[PathRender]]:
-    out: Dict[str, List[PathRender]] = {"beug": [], "vanderham": [], "kerkvliet": []}
+    out: Dict[str, List[PathRender]] = {
+        "beug": [],
+        "vanderham": [],
+        "kerkvliet": [],
+        "flora-regio-kaap": [],
+    }
 
     # Beug: step graphs with base->subkey chaining per beug number
     beug_root = KEYS_DIR / "beug"
@@ -341,12 +389,33 @@ def extract_paths_for_taxon(taxon_key: str) -> Dict[str, List[PathRender]]:
         if isinstance(k_data, dict):
             out["kerkvliet"].extend(_extract_kerkvliet_sections(k_data, taxon_key))
 
+    # Flora regio Kaap (Delport): step graphs; type members resolve via type-members.json
+    frk_root = KEYS_DIR / "flora-regio-kaap"
+    if frk_root.exists():
+        lookup_keys = [taxon_key] + _flora_regio_kaap_type_keys_for_member(taxon_key)
+        seen_path_ids: set[tuple[str, str]] = set()
+        for path in sorted(frk_root.glob("flora-regio-kaap-*.json")):
+            if path.name.endswith("-index.json"):
+                continue
+            data = _read_json(path)
+            if not isinstance(data, dict):
+                continue
+            for lk in lookup_keys:
+                for pr in _extract_paths_from_steps(data, lk):
+                    sig = (pr.key_id, pr.outcome_label)
+                    if sig in seen_path_ids:
+                        continue
+                    seen_path_ids.add(sig)
+                    # If resolved via type key, keep type outcome label (already in pr)
+                    out["flora-regio-kaap"].append(pr)
+
     return out
 
 
 _SUMMARY_BY_SYSTEM = {
     "vanderham": "Pollentabel (van der Ham)",
     "kerkvliet": "kerkvliet_determinatietabel",
+    "flora-regio-kaap": "Flora regio Kaap (Delport)",
 }
 
 
@@ -375,7 +444,7 @@ def render_paths_markdown(taxon_key: str, *, page_section: bool = False) -> str:
             step_lines.append(f"- Eindpunt: {safe_out}")
         return "\n".join(step_lines)
 
-    for system in ["beug", "vanderham", "kerkvliet"]:
+    for system in ["beug", "vanderham", "kerkvliet", "flora-regio-kaap"]:
         sys_paths = paths.get(system, [])
         if not sys_paths:
             continue
@@ -384,7 +453,12 @@ def render_paths_markdown(taxon_key: str, *, page_section: bool = False) -> str:
         for pr in sys_paths:
             grouped.setdefault(pr.key_id, []).append(pr)
 
-        heading = {"beug": "Beug", "vanderham": "Vanderham", "kerkvliet": "Kerkvliet"}[system]
+        heading = {
+            "beug": "Beug",
+            "vanderham": "Vanderham",
+            "kerkvliet": "Kerkvliet",
+            "flora-regio-kaap": "Flora regio Kaap",
+        }[system]
         blocks.append(f"### {heading}")
         def sort_key(item: tuple[str, List[PathRender]]) -> tuple[int, str]:
             key_id, _prs = item
@@ -397,7 +471,7 @@ def render_paths_markdown(taxon_key: str, *, page_section: bool = False) -> str:
 
         for _, prs in sorted(grouped.items(), key=sort_key):
             title = _SUMMARY_BY_SYSTEM.get(system) or prs[0].key_title
-            if system == "beug":
+            if system in ("beug", "flora-regio-kaap"):
                 title = prs[0].key_title
             blocks.append(f"<details><summary>{title}</summary>\n")
             for idx, pr in enumerate(prs, start=1):
@@ -421,7 +495,7 @@ if __name__ == "__main__":
     import argparse
 
     ap = argparse.ArgumentParser(
-        description="Trace pollen_key through Beug, van der Ham, and Kerkvliet key JSON."
+        description="Trace pollen_key through Beug, van der Ham, Kerkvliet, and Flora regio Kaap key JSON."
     )
     ap.add_argument("taxon_key", help="pollen_key slug from data/pollen.yaml")
     ap.add_argument(
@@ -437,7 +511,7 @@ if __name__ == "__main__":
     args = ap.parse_args()
     paths = extract_paths_for_taxon(args.taxon_key)
     if args.status:
-        for system in ("beug", "vanderham", "kerkvliet"):
+        for system in ("beug", "vanderham", "kerkvliet", "flora-regio-kaap"):
             count = len(paths.get(system, []))
             print(f"{system}: {count} path(s)", file=__import__("sys").stderr)
     rendered = render_paths_markdown(args.taxon_key, page_section=args.page_section)

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-tetracolpate",
+    "title": "Tetracolpaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tetracolpaat",
+          "outcome": {
+            "text": "*Galium tomentosum* (Plaat 7D)"
+          },
+          "pollen_key": "galium_tomentosum"
+        }
+      ]
+    }
+  }
+}

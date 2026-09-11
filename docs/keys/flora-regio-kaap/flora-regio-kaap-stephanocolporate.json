@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-stephanocolporate",
+    "title": "Stephanocolporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 7
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Endocingulum afwezig",
+          "next": "2"
+        },
+        {
+          "label": "Endocingulum aanwezig",
+          "next": "4"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "outcome": {
+            "text": "*Nemesia lucida* (Plaat 22E)\n*Nemesia versicolor* (Plaat 22C)"
+          },
+          "pollen_keys": [
+            "nemesia_lucida",
+            "nemesia_versicolor"
+          ]
+        },
+        {
+          "label": "Vorm afgeplat",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm); primaire sculptuur reticulaat",
+          "outcome": {
+            "text": "*Diascia capensis* (Plaat 21Q)"
+          },
+          "pollen_key": "diascia_capensis"
+        },
+        {
+          "label": "Klein (10–25 µm); primaire sculptuur scabraat",
+          "outcome": {
+            "text": "*Nemesia affinis* (Plaat 22D)\n*Nemesia bicornis* (Plaat 22A)"
+          },
+          "pollen_keys": [
+            "nemesia_affinis",
+            "nemesia_bicornis"
+          ]
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur psilaat",
+          "next": "5"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "6"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "7"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apocolpium-index klein",
+          "outcome": {
+            "text": "*Muraltia spinosa* (Plaat 22I)"
+          },
+          "pollen_key": "muraltia_spinosa"
+        },
+        {
+          "label": "Apocolpium-index middelgroot",
+          "outcome": {
+            "text": "*Polygala myrtifolia* (Plaat 22 K)"
+          },
+          "pollen_key": "polygala_myrtifolia"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm); lumina middelgroot",
+          "outcome": {
+            "text": "*Muraltia filiformis* (Plaat 22F)"
+          },
+          "pollen_key": "muraltia_filiformis"
+        },
+        {
+          "label": "Middelgroot (26–50 µm); lumina groot",
+          "outcome": {
+            "text": "*Muraltia thymifolia* (Plaat 22J)"
+          },
+          "pollen_key": "muraltia_thymifolia"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apocolpium-index klein",
+          "outcome": {
+            "text": "*Muraltia satureioides* (Plaat 22G)"
+          },
+          "pollen_key": "muraltia_satureioides"
+        },
+        {
+          "label": "Apocolpium-index middelgroot",
+          "outcome": {
+            "text": "*Muraltia scoparia* (Plaat 22H)"
+          },
+          "pollen_key": "muraltia_scoparia"
+        }
+      ]
+    }
+  }
+}

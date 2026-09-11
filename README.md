@@ -61,7 +61,7 @@ Open http://127.0.0.1:8000 in je browser.
 - **Ontbrekende afbeeldingen (taken)**: lege mappen `docs/assets/images/by-taxon-task/<bron>/<pollen_key>/` (met `.gitkeep`) markeren werkitems; voer `python scripts/bootstrap_by_taxon_task.py` opnieuw uit na grote wijzigingen aan sleutels/pagina’s.
 - **Koppeling in YAML**: onder het taxon een lijst `images:` met per bestand:
   - `path`: docs-relatief pad, bijv. `assets/images/by-taxon/mijn_sleutel/mijn_sleutel_1.png`
-  - `kind` en `source`: corpus of herkomst (bijv. `pollenwiki`, `paldat`, `beug`, `kerkvliet`)
+  - `kind` en `source`: corpus of herkomst (bijv. `pollenwiki`, `paldat`, `beug`, `kerkvliet`). Niet `pollenx`: die site toont kopieën van andere atlassen.
   - optioneel `width_px` / `height_px` per afbeelding (voor beeldverhouding); **weergavebreedte** voor index/sleutels komt uit export: `display_width_px ≈ round(grootste maat in µm × 2,5)`, default **125 px** als er geen maat is.
 - **Externe atlas-URL's**: standaard gegenereerd naar `docs/data/taxa/<slug>.json` vanuit `latin` (`pollenx`, `tstebler`, `paldat`); overschrijf of zet op `null` via optioneel blok `links:` in YAML waar een URL fout is.
 - **Species-pagina**: voeg `pollen_key` toe aan `data/species_page_slugs.txt`; pagina-inhoud komt uit `build_docs_data.py` (niet handmatig bewerken onder `docs/pollen/species/`).

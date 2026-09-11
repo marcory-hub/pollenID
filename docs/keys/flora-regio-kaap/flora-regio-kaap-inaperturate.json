@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-inaperturate",
+    "title": "Inaperturaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Monade, zeer klein (<10 µm)",
+          "outcome": {
+            "text": "*Cunonia capensis* (Plaat 10L)"
+          },
+          "pollen_key": "cunonia_capensis"
+        }
+      ]
+    }
+  }
+}

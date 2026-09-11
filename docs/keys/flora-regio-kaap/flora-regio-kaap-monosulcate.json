@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-monosulcate",
+    "title": "Monosulcaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 17
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "16"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat-cristaat",
+          "next": "17"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zeer groot (>100 µm)",
+          "outcome": {
+            "text": "*Albuca clanwilliamae-gloria* (Plaat 26D)"
+          },
+          "pollen_key": "albuca_clanwilliamae_gloria"
+        },
+        {
+          "label": "Groot (51–100 µm)",
+          "next": "3"
+        },
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "9"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht onregelmatig",
+          "outcome": {
+            "text": "*Disperis capensis* (Plaat 9B)"
+          },
+          "pollen_key": "disperis_capensis"
+        },
+        {
+          "label": "Omtrek in polair aanzicht elliptisch",
+          "next": "4"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "next": "8"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "next": "5"
+        },
+        {
+          "label": "Vorm afgeplat",
+          "next": "6"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met twee opercula",
+          "outcome": {
+            "text": "*Lapeirousia jacquinii* (Plaat 23I)\n*Watsonia meriana* (Plaat 23F)\n*Watsonia stenosiphon* (Plaat 23 J)"
+          },
+          "pollen_keys": [
+            "lapeirousia_jacquinii",
+            "watsonia_meriana",
+            "watsonia_stenosiphon"
+          ]
+        },
+        {
+          "label": "Apertuur zonder opercula",
+          "outcome": {
+            "text": "*Albuca flaccida* (Plaat 27A)\n*Ornithogalum conicum* (Plaat 26C)"
+          },
+          "pollen_keys": [
+            "albuca_flaccida",
+            "ornithogalum_conicum"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina klein",
+          "outcome": {
+            "text": "*Ferraria crispa* (Plaat 24F)\n*Moraea setifolia* (Plaat 24 J)"
+          },
+          "pollen_keys": [
+            "ferraria_crispa",
+            "moraea_setifolia"
+          ]
+        },
+        {
+          "label": "Lumina middelgroot",
+          "next": "7"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met twee opercula",
+          "outcome": {
+            "text": "*Gladiolus variegatus* (Plaat 23H)"
+          },
+          "pollen_key": "gladiolus_variegatus"
+        },
+        {
+          "label": "Apertuur zonder opercula",
+          "outcome": {
+            "text": "*Babiana ambigua* (Plaat 24B)\n*Sparaxis grandiflora* ssp. *grandiflora* (Plaat 24 K)"
+          },
+          "pollen_keys": [
+            "babiana_ambigua",
+            "sparaxis_grandiflora_grandiflora"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "id": "8",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met twee opercula",
+          "outcome": {
+            "text": "*Babiana nana* (Plaat 23A)\n*Gladiolus alatus* (Plaat 23 G)\n*Gladiolus caeruleus* (Plaat 23B)\n*Gladiolus carinatus* (Plaat 23C)"
+          },
+          "pollen_keys": [
+            "babiana_nana",
+            "gladiolus_alatus",
+            "gladiolus_caeruleus",
+            "gladiolus_carinatus"
+          ]
+        },
+        {
+          "label": "Apertuur zonder opercula",
+          "outcome": {
+            "text": "*Moraea bulbillifera* (Plaat 24G)\n*Moraea fugax* (Plaat 24H)\n*Moraea tripetala* (Plaat 25A)"
+          },
+          "pollen_keys": [
+            "moraea_bulbillifera",
+            "moraea_fugax",
+            "moraea_tripetala"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "id": "9",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Vorm isodiametrisch",
+          "next": "10"
+        },
+        {
+          "label": "Vorm afgeplat",
+          "next": "13"
+        }
+      ]
+    },
+    "10": {
+      "id": "10",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur met één operculum",
+          "outcome": {
+            "text": "*Ixia flexuosa* (Plaat 24A)"
+          },
+          "pollen_key": "ixia_flexuosa"
+        },
+        {
+          "label": "Apertuur met twee opercula",
+          "outcome": {
+            "text": "*Romulea dichotoma* (Plaat 23E)"
+          },
+          "pollen_key": "romulea_dichotoma"
+        },
+        {
+          "label": "Apertuur zonder opercula",
+          "next": "11"
+        }
+      ]
+    },
+    "11": {
+      "id": "11",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht elliptisch",
+          "next": "12"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Hesperantha falcata* (Plaat 24C)"
+          },
+          "pollen_key": "hesperantha_falcata"
+        }
+      ]
+    },
+    "12": {
+      "id": "12",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina homobrochaat en klein",
+          "outcome": {
+            "text": "*Bulbine foleyi* (Plaat 25E)"
+          },
+          "pollen_key": "bulbine_foleyi"
+        },
+        {
+          "label": "Lumina heterobrochaat en middelgroot",
+          "outcome": {
+            "text": "*Drimia capensis* (Plaat 25L)"
+          },
+          "pollen_key": "drimia_capensis"
+        }
+      ]
+    },
+    "13": {
+      "id": "13",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina",
+          "next": "14"
+        },
+        {
+          "label": "Middelgroot lumina",
+          "next": "15"
+        }
+      ]
+    },
+    "14": {
+      "id": "14",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Apertuur zonder opercula; omtrek in polair aanzicht elliptisch",
+          "outcome": {
+            "text": "*Aloe*-type (Plaat 24–25)"
+          },
+          "pollen_key": "aloe_typ"
+        },
+        {
+          "label": "Apertuur zonder opercula; omtrek in polair aanzicht elliptisch, schelpvormig",
+          "outcome": {
+            "text": "*Lachenalia unifolia* (Plaat 25N)\n*Lachenalia variegata* (Plaat 26A)"
+          },
+          "pollen_keys": [
+            "lachenalia_unifolia",
+            "lachenalia_variegata"
+          ]
+        },
+        {
+          "label": "Apertuur met twee opercula; omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Romulea* cf. *setifolia* (Plaat 23D)"
+          },
+          "pollen_key": "romulea_setifolia"
+        }
+      ]
+    },
+    "15": {
+      "id": "15",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Lumina heterobrochaat",
+          "outcome": {
+            "text": "*Ornithogalum dubium* (Plaat 26B)"
+          },
+          "pollen_key": "ornithogalum_dubium"
+        },
+        {
+          "label": "Lumina homobrochaat",
+          "outcome": {
+            "text": "*Gladiolus gracilis* var. *gracilis* (Plaat 25B)"
+          },
+          "pollen_key": "gladiolus_gracilis_gracilis"
+        }
+      ]
+    },
+    "16": {
+      "id": "16",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Xyris capensis* (Plaat 25K)\n*Trachyandra ciliata* (Plaat 25F)\n*Trachyandra muricata* (Plaat 25H)\n*Trachyandra revoluta* (Plaat 25I)"
+          },
+          "pollen_keys": [
+            "xyris_capensis",
+            "trachyandra_ciliata",
+            "trachyandra_muricata",
+            "trachyandra_revoluta"
+          ]
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Cyanella hyacinthoides* (Plaat 25J)\n*Trachyandra divaricata* (Plaat 25D)"
+          },
+          "pollen_keys": [
+            "cyanella_hyacinthoides",
+            "trachyandra_divaricata"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "id": "17",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht elliptisch",
+          "outcome": {
+            "text": "*Albuca juncifolia* (Plaat 26E)"
+          },
+          "pollen_key": "albuca_juncifolia"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Moraea gawleri* (Plaat 24I)"
+          },
+          "pollen_key": "moraea_gawleri"
+        }
+      ]
+    }
+  }
+}

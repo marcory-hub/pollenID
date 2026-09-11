@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-pseudomonad",
+    "title": "Pseudomonade (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Pseudomonade",
+          "outcome": {
+            "text": "*Ficinia indica* (Plaat 4C)"
+          },
+          "pollen_key": "ficinia_indica"
+        }
+      ]
+    }
+  }
+}

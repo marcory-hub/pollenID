@@ -42,6 +42,7 @@ python scripts/<script>.py …
 | Script | Doel |
 | :--- | :--- |
 | `scripts/fill_pollen_yaml_from_beug.py` | Vult lege velden in `data/pollen.yaml` vanuit Beug-key JSON en `notes/pollenID/Beug.txt`. `pollen_class_beug` = Aperturtyp-label (bijv. `Tricolpat-psilat`), geen hoofdstuknummer. |
+| `scripts/fill_pollen_yaml_from_delport.py` | Vult lege Cape `pollen_features` vanuit `docs/keys/flora-regio-kaap/` paden + `type-members.json`. Grootteklassen alleen in `pollen-note`. Optioneel `--probe-links` (Wiki/PalDat 404 → `not in the database`). |
 | `scripts/sync_beug_key_paths.py` | Sync't de Beug flows naar `beug_key_paths` in `data/pollen.yaml` (compact). |
 | `scripts/normalize_pollen_yaml_schema.py` | Normaliseert schema-layout |
 | `scripts/prefill_pollen_atlas_links.py` | Vult lege atlas-links |
@@ -56,6 +57,9 @@ python scripts/<script>.py …
 ```bash
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py --dry-run
 ./.venv/bin/python scripts/fill_pollen_yaml_from_beug.py
+./.venv/bin/python scripts/fill_pollen_yaml_from_delport.py --dry-run
+./.venv/bin/python scripts/fill_pollen_yaml_from_delport.py --apply
+./.venv/bin/python scripts/fill_pollen_yaml_from_delport.py --apply --skip-features --probe-links
 ./.venv/bin/python scripts/sync_beug_key_paths.py --slug <pollen_key>
 ./.venv/bin/python scripts/sync_beug_key_paths.py
 ./.venv/bin/python scripts/fill_typ_images.py --dry-run
@@ -73,7 +77,9 @@ python scripts/<script>.py …
 | Script | Doel |
 | :--- | :--- |
 | `scripts/add_taxon.py` | Orchestrator: rename → sync YAML-beelden → sync `beug_key_paths` (met `--slug`) → optioneel inject/slim → validate `--rebuild-data` |
-| `scripts/rename_kerkvliet_screenshot_imports.py` | Hernoemt Schermafbeelding*.png naar `<slug>_N.png` |
+| `scripts/crop_delport_plate_grains.py` | Knip gelabelde Delport-platepanelen naar `docs/assets/images/by-taxon/<pollen_key>/` (geen YAML-wijziging) |
+| `scripts/ingest_flora_regio_kaap_taxa.py` | Voegt Delport GCFR-taxa toe aan `data/pollen.yaml`, slugs en `gallery-non-eu.md` (`--apply`); daarna `fill_pollen_yaml_from_delport.py` tenzij `--skip-fill` |
+| `scripts/rename_kerkvliet_screenshot_imports.py` | Hernoemt Schermafbeelding*.png naar `<slug>_N.png` (alleen bestandsnaam; geen YAML-bron) |
 | `scripts/render_taxon_pages_from_sot.py` | Genereert `docs/pollen/species/<slug>.md` uit display JSON (+ YAML SoT); `--build-all-species` via `build_docs_data.py` |
 | `scripts/bootstrap_by_taxon_task.py` | Maakt `by-taxon-task/`-mappen voor taxa zonder bruikbare bitmaps |
 | `scripts/update_monofloral_pages.py` | Vernieuwt kenmerkentabellen op monoflorale honingpagina's vanuit YAML |
@@ -84,7 +90,7 @@ python scripts/<script>.py …
 | :--- | :--- |
 | `scripts/inject_pollen_keys_into_key_json.py` | Zet `pollen_key` op Kerkvliet-rijen (match op Latijn ↔ YAML-slug) |
 | `scripts/slim_pollen_key_endpoints.py` | Strip inline taxonvelden uit key-JSON wanneer slug in YAML staat |
-| `scripts/extract_key_paths.py` | Determinatiesleutels-sectie per taxon voor species-pagina's |
+| `scripts/extract_key_paths.py` | Determinatiesleutels-sectie per taxon voor species-pagina's (Beug, van der Ham, Kerkvliet, Flora regio Kaap) |
 | `scripts/merge_pollen.py` | Legacy: merge Kerkvliet-inlinevelden naar pollen-YAML (optioneel `--report temp/reports/merge_pollen_report.txt`) |
 | `scripts/audit_key_synonyms.py` | Audit synoniemen in sleutel-JSON |
 | `scripts/build_vanderham_pollentabel_scans_json.py` | Bouwt van der Ham pollentabel-JSON uit transcript |

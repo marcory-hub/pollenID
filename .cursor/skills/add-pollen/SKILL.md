@@ -27,11 +27,11 @@ Existing slug in `data/pollen.yaml` → stop; use **`@update-pollen`**.
    - PollenX / Waarneming.nl as needed.
    **STOP.** Do not draft YAML until the user says images are in, or that this taxon is text-only (`images: []`).
 
-2. **Images.** List files under the folder. Rename `Schermafbeelding*` with:
+2. **Images.** List files under the folder. Rename `Schermafbeelding*` (filename only; the script name is not a source) with:
    ```bash
    ./.venv/bin/python scripts/rename_kerkvliet_screenshot_imports.py --only-folder <pollen_key>
    ```
-   New image rows: `kind` / `source` = `by_taxon`. Ask only if unclear: keep/drop extras, polar vs equatorial vs SEM vs optical section, mixed sources, gallery order. Do not invent view labels.
+   `kind` / `source` (same both): default `pollenwiki`; `paldat` if from PalDat; `by_taxon` only for own/local photos. Never `kerkvliet` on this intake. Never `pollenx` (PollenX copies other sites; attribute the original). Ask if PalDat vs wiki is unclear; also keep/drop extras, polar vs equatorial vs SEM vs optical section, gallery order. Do not invent view labels.
 
 3. **Sources (no invented morphology).**
    - Fetch Pollen-Wiki (`tstebler`) and PalDat. On 404: set that `links` value to the site’s usual “not in the database” wording; skip morphology from that source.

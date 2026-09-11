@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-trisulcate",
+    "title": "Trisulcaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgrote lumina",
+          "outcome": {
+            "text": "*Aristea glauca* (Plaat 27C)"
+          },
+          "pollen_key": "aristea_glauca"
+        },
+        {
+          "label": "Grote lumina",
+          "outcome": {
+            "text": "*Aristea dichotoma* (Plaat 27B)"
+          },
+          "pollen_key": "aristea_dichotoma"
+        }
+      ]
+    }
+  }
+}

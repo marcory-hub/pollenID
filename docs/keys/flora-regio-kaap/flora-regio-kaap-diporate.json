@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-diporate",
+    "title": "Diporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Diporaat",
+          "outcome": {
+            "text": "*Isoglossa ciliata* (Plaat 10I)"
+          },
+          "pollen_key": "isoglossa_ciliata"
+        }
+      ]
+    }
+  }
+}

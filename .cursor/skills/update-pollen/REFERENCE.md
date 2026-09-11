@@ -47,9 +47,11 @@ slug:
 ```yaml
   images:
   - path: assets/images/by-taxon/foo_bar/foo_bar_1.png
-    kind: by_taxon
-    source: by_taxon
+    kind: pollenwiki
+    source: pollenwiki
 ```
+
+`kind` / `source`: `pollenwiki` (default for atlas screenshots), `paldat`, `beug`, `kerkvliet` (only when asked), `by_taxon` (own/local). Never `pollenx` (that site copies other atlases).
 
 Visibility: `lm_clear` / `lm_poor` / `em_only`. Lookalikes: `lookalike_candidates.py` → `lookalike_review.yaml` → `promote_lookalikes.py` → `build_manifests.py`.
 
@@ -85,7 +87,7 @@ python scripts/extract_key_paths.py <pollen_key> --status
 python scripts/extract_key_paths.py <pollen_key> --page-section
 ```
 
-Replace from `## Determinatiesleutels` through the line before `## Online databases`. Keep `### Beug` / `### Vanderham` / `### Kerkvliet`. Fallbacks (verified only): monofloral/notes for Beug; inject then re-extract for van der Ham; state no Kerkvliet row if absent.
+Replace from `## Determinatiesleutels` through the line before `## Online databases`. Keep `### Beug` / `### Vanderham` / `### Kerkvliet` / `### Flora regio Kaap`. Fallbacks (verified only): monofloral/notes for Beug; inject then re-extract for van der Ham; state no Kerkvliet row if absent.
 
 ## Helpers
 
@@ -93,3 +95,4 @@ Replace from `## Determinatiesleutels` through the line before `## Online databa
 - `scripts/sync_yaml_confident_images.py` (`--only-by-taxon`, `--include-by-taxon`)
 - `scripts/migrate_pollen_images_by_taxon.py --apply`
 - By-taxon folder coverage: stub missing YAML keys with `images:` for every `*.png`
+- Cape / Flora regio Kaap bulk morphology: `scripts/fill_pollen_yaml_from_delport.py` (Delport key paths + `docs/keys/flora-regio-kaap/type-members.json`; not per-taxon Wiki/PalDat). Optional `--probe-links`.

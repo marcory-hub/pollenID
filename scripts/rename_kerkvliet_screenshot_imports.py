@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Rename Schermafbeelding*.png files under docs/assets/images/by-taxon/<slug>/ (or another --root).
 
+The script name is historical. This only renames macOS screenshots; it does not set YAML
+kind/source to kerkvliet. Provenance belongs in pollen.yaml (usually pollenwiki or paldat).
+
 Each matching file becomes <slug>_N.png using the folder basename as slug. Numbering starts
 at the first free index after any existing <slug>_<digits>.png files, so new screenshots can
 be added alongside older numbered bitmaps without skipping the whole folder.

@@ -36,6 +36,9 @@ __main__.py
 .Spotlight-V100
 .Trashes
 
+# GitHub rejects files over 100 MB; keep this atlas local
+pdf/pollen-determinatie/Delport 2025 - Pollen atlas Greater Cape Floristic Region.pdf
+
 # MkDocs build directory
 site/
 

@@ -20,10 +20,11 @@
 
 ### After images
 
-1. Rename screenshots → `callicarpa_bodinieri_1.png` …
-2. Ask only if views/sources are unclear.
-3. Fetch atlas pages + local docs/keys/notes/paste; draft YAML in chat with provenance.
-4. **STOP** for confirm; then write YAML, append `species_page_slugs.txt`, run `add_taxon.py --render-pages` and validate.
+1. Rename screenshots → `callicarpa_bodinieri_1.png` … (rename is not a Kerkvliet claim).
+2. Default `kind` / `source`: `pollenwiki`. Use `paldat` only if from PalDat. Never `kerkvliet` or `pollenx`.
+3. Ask only if PalDat vs wiki, or views, are unclear.
+4. Fetch atlas pages + local docs/keys/notes/paste; draft YAML in chat with provenance.
+5. **STOP** for confirm; then write YAML, append `species_page_slugs.txt`, run `add_taxon.py --render-pages` and validate.
 
 Atlas field mapping for tstebler blocks: [`../update-pollen/EXAMPLES.md`](../update-pollen/EXAMPLES.md) and [`../update-pollen/REFERENCE.md`](../update-pollen/REFERENCE.md).
 

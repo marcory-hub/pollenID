@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-trisindemicolporate",
+    "title": "Trisindemicolporaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Trisindemicolporaat",
+          "outcome": {
+            "text": "*Grielum grandiflorum* (Plaat 10G)\n*Grielum humifusum* (Plaat 10H)"
+          },
+          "pollen_keys": [
+            "grielum_grandiflorum",
+            "grielum_humifusum"
+          ]
+        }
+      ]
+    }
+  }
+}

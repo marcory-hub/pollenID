@@ -61,7 +61,7 @@ Topniveau = `pollen_key` (ASCII slug, meestal `genus_species` of `genus_typ`).
 | `beug_key_paths` | Compacte Beug-flow uit `docs/keys/beug/` (optioneel; alleen bij hits) |
 | `pollen_features` | `shape`, `sculpture`, `aperture`, `ornamentation`, `*_visibility` (`lm_clear` \| `lm_poor` \| `em_only`) |
 | `frequency_in_*_honey` | geografie in YAML, niet als aparte mappen |
-| `images[]` | `path` (docs-relatief `assets/…`), `kind`, `source`; optioneel `width_px` / `height_px` |
+| `images[]` | `path` (docs-relatief `assets/…`), `kind`, `source` (`pollenwiki`, `paldat`, `beug`, `kerkvliet`, `by_taxon`; niet `pollenx`); optioneel `width_px` / `height_px` |
 | `links` | Externe atlas-URL's (overschrijft defaults) |
 
 Weergavebreedte site-breed: `display_width_px ≈ round(grootste maat µm × 2,5)`, default **125 px** zonder maat.

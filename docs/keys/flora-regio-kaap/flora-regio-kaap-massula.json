@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-massula",
+    "title": "Massula (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur areolaat",
+          "outcome": {
+            "text": "*Disa lugens* (Plaat 8B)"
+          },
+          "pollen_key": "disa_lugens"
+        },
+        {
+          "label": "Primaire sculptuur psilaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "outcome": {
+            "text": "*Disperis capensis* (Plaat 9B)"
+          },
+          "pollen_key": "disperis_capensis"
+        },
+        {
+          "label": "Primaire sculptuur striaat",
+          "outcome": {
+            "text": "*Pterygodium catholicum* (Plaat 9A)"
+          },
+          "pollen_key": "pterygodium_catholicum"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Zeer groot (>100 µm)",
+          "outcome": {
+            "text": "*Satyrium carneum* (Plaat 9C)"
+          },
+          "pollen_key": "satyrium_carneum"
+        },
+        {
+          "label": "Groot (51–100 µm)",
+          "outcome": {
+            "text": "*Satyrium coriifolium* (Plaat 9D)"
+          },
+          "pollen_key": "satyrium_coriifolium"
+        }
+      ]
+    }
+  }
+}

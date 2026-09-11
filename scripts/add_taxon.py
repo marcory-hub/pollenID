@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Orchestrate common add-taxon pipeline steps after YAML/page edits.
 
-Chains: rename screenshots → sync YAML images → optional Kerkvliet inject/slim →
+Chains: rename screenshots (filename only; not a Kerkvliet source claim) →
+sync YAML images → optional Kerkvliet inject/slim →
 optional render species page → validate with --rebuild-data (includes build_docs_data).
 
 Manual YAML field edits and agent-note application stay with the agent/skills.

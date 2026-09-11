@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-heteroaperturate",
+    "title": "Heteroaperturaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 2
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur psilaat",
+          "outcome": {
+            "text": "*Amsinckia menziesii* (Plaat 10J)"
+          },
+          "pollen_key": "amsinckia_menziesii"
+        },
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "outcome": {
+            "text": "*Penaea fucata* (Plaat 10K)"
+          },
+          "pollen_key": "penaea_fucata"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm); omtrek in polair aanzicht cirkelvormig",
+          "outcome": {
+            "text": "*Hypoestes aristata* (Plaat 19A)"
+          },
+          "pollen_key": "hypoestes_aristata"
+        },
+        {
+          "label": "Klein (10–25 µm); omtrek in polair aanzicht gelobd",
+          "outcome": {
+            "text": "*Hypoestes forskaolii* (Plaat 19B)"
+          },
+          "pollen_key": "hypoestes_forskaolii"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-tetrad",
+    "title": "Tetrade (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 3
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Tricolporaat",
+          "next": "2"
+        },
+        {
+          "label": "Stephanoporaat",
+          "outcome": {
+            "text": "*Drosera cistiflora* (Plaat 4D)"
+          },
+          "pollen_key": "drosera_cistiflora"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm)",
+          "outcome": {
+            "text": "*Erica sessiliflora* (Plaat 10C)\n*Erica vestita* (Plaat 10D)"
+          },
+          "pollen_keys": [
+            "erica_sessiliflora",
+            "erica_vestita"
+          ]
+        },
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "3"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur scabraat",
+          "outcome": {
+            "text": "*Erica coccinea* (Plaat 10E)"
+          },
+          "pollen_key": "erica_coccinea"
+        },
+        {
+          "label": "Primaire sculptuur verriculaat",
+          "outcome": {
+            "text": "*Erica irregularis* (Plaat 10F)"
+          },
+          "pollen_key": "erica_irregularis"
+        }
+      ]
+    }
+  }
+}

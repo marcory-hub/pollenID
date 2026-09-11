@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-polyad",
+    "title": "Polyade (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 1
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Polyade",
+          "outcome": {
+            "text": "*Acacia cyclops* (Plaat 10A)\n*Acacia saligna* (Plaat 10B)"
+          },
+          "pollen_keys": [
+            "acacia_cyclops",
+            "acacia_saligna"
+          ]
+        }
+      ]
+    }
+  }
+}

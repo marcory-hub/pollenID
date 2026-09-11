@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "key": "flora-regio-kaap-stephanocolpate",
+    "title": "Stephanocolpaat (Flora regio Kaap)",
+    "locale": "nl",
+    "source": "Delport",
+    "note": "-",
+    "start": "1",
+    "stepCount": 7
+  },
+  "start": "1",
+  "steps": {
+    "1": {
+      "id": "1",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Primaire sculptuur reticulaat",
+          "next": "2"
+        },
+        {
+          "label": "Primaire sculptuur scabraat",
+          "next": "7"
+        }
+      ]
+    },
+    "2": {
+      "id": "2",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Groot (51–100 µm)",
+          "next": "3"
+        },
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "next": "4"
+        }
+      ]
+    },
+    "3": {
+      "id": "3",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht elliptisch; lumina klein, homobrochaat",
+          "outcome": {
+            "text": "*Salvia aurea* (Plaat 21O)"
+          },
+          "pollen_key": "salvia_aurea"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig; lumina groot, heterobrochaat",
+          "outcome": {
+            "text": "*Coleus neochilus* (Plaat 21L)"
+          },
+          "pollen_key": "coleus_neochilus"
+        }
+      ]
+    },
+    "4": {
+      "id": "4",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Omtrek in polair aanzicht elliptisch; lumina homobrochaat",
+          "next": "5"
+        },
+        {
+          "label": "Omtrek in polair aanzicht cirkelvormig; lumina heterobrochaat",
+          "next": "6"
+        }
+      ]
+    },
+    "5": {
+      "id": "5",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina; zeer klein apocolpiale index",
+          "outcome": {
+            "text": "*Salvia rosmarinus* (Plaat 21P)"
+          },
+          "pollen_key": "salvia_rosmarinus"
+        },
+        {
+          "label": "Middelgroot lumina; klein apocolpiale index",
+          "outcome": {
+            "text": "*Plectranthus* 'Mona Lavender' (Plaat 21N)"
+          },
+          "pollen_key": "plectranthus_mona_lavender"
+        }
+      ]
+    },
+    "6": {
+      "id": "6",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Klein lumina",
+          "outcome": {
+            "text": "*Lavandula dentata* (Plaat 21M)"
+          },
+          "pollen_key": "lavandula_dentata"
+        },
+        {
+          "label": "Middelgroot lumina",
+          "outcome": {
+            "text": "*Coleus madagascariensis* (Plaat 21K)"
+          },
+          "pollen_key": "coleus_madagascariensis"
+        }
+      ]
+    },
+    "7": {
+      "id": "7",
+      "type": "step",
+      "choices": [
+        {
+          "label": "Middelgroot (26–50 µm)",
+          "outcome": {
+            "text": "*Hemimeris racemosa* (Plaat 22R)"
+          },
+          "pollen_key": "hemimeris_racemosa"
+        },
+        {
+          "label": "Klein (10–25 µm)",
+          "outcome": {
+            "text": "*Hemimeris sabulosa* (Plaat 23B)"
+          },
+          "pollen_key": "hemimeris_sabulosa"
+        }
+      ]
+    }
+  }
+}
