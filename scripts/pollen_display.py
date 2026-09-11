@@ -189,6 +189,111 @@ def display_width_px_from_max_um(max_um: Optional[float], *, default_um: float =
     return int(round(2.5 * u))
 
 
+# Delport GCFR atlas size bins (Dutch and English labels in pollen-note).
+# Midpoints are for gallery sort/display only; they are not measured sizes.
+_DELPORT_SIZE_CLASS_RE = re.compile(r"Delport size class:\s*([^;]+)", re.I)
+_DELPORT_SIZE_CLASS_UM: Dict[str, float] = {
+    "zeer klein": 8.0,
+    "klein": 18.0,
+    "middelgroot": 38.0,
+    "groot": 75.0,
+    "zeer groot": 120.0,
+}
+_DELPORT_SIZE_CLASS_LABEL_NL: Dict[str, str] = {
+    "zeer klein": "zeer klein (<10 µm)",
+    "klein": "klein (10–25 µm)",
+    "middelgroot": "middelgroot (26–50 µm)",
+    "groot": "groot (51–100 µm)",
+    "zeer groot": "zeer groot (>100 µm)",
+}
+
+
+def canonicalize_delport_size_class(raw: Any) -> Optional[str]:
+    """Map a Delport size-class phrase to a canonical Dutch key, or None."""
+    if not isinstance(raw, str):
+        return None
+    s = raw.strip().lower().replace("–", "-").replace("—", "-")
+    if not s:
+        return None
+    if "zeer klein" in s or "<10" in s or "< 10" in s:
+        return "zeer klein"
+    if "zeer groot" in s or ">100" in s or "> 100" in s:
+        return "zeer groot"
+    if s.startswith("klein") or s.startswith("small") or "10-25" in s:
+        return "klein"
+    if "middelgroot" in s or s.startswith("medium") or "26-50" in s:
+        return "middelgroot"
+    if s.startswith("groot") or "51-100" in s:
+        return "groot"
+    return None
+
+
+def parse_delport_size_class(note: Any) -> Optional[str]:
+    """Canonical size-class key from a pollen-note string, or None."""
+    if not isinstance(note, str) or not note.strip():
+        return None
+    m = _DELPORT_SIZE_CLASS_RE.search(note)
+    if not m:
+        return None
+    return canonicalize_delport_size_class(m.group(1))
+
+
+def json_entry_max_um(entry: Dict[str, Any]) -> Optional[float]:
+    """Largest measured µm from a pollen.json size object, or None."""
+    size_src = entry.get("size") if isinstance(entry.get("size"), dict) else {}
+    ss = size_src.get("smallest_size", size_src.get("size_smallest"))
+    ls = size_src.get("largest_size", size_src.get("size_largest"))
+    ss_s = ss.strip() if isinstance(ss, str) else None
+    ls_s = ls.strip() if isinstance(ls, str) else None
+    return parse_max_um_from_size_strings(ss_s, ls_s)
+
+
+def json_entry_size_class(entry: Dict[str, Any]) -> Optional[str]:
+    note = entry.get("pollen-note", entry.get("pollen_note"))
+    return parse_delport_size_class(note)
+
+
+def json_entry_size_sort_key(entry: Dict[str, Any], latin: str = "") -> tuple:
+    """Sort key: measured or class-midpoint µm ascending; unknown last; then latin."""
+    lat = latin.strip().lower() if latin else str(entry.get("latin") or "").strip().lower()
+    um = json_entry_max_um(entry)
+    if um is not None and um > 0:
+        return (0, um, lat)
+    cls = json_entry_size_class(entry)
+    if cls is not None:
+        return (0, _DELPORT_SIZE_CLASS_UM[cls], lat)
+    return (1, 0.0, lat)
+
+
+def json_entry_gallery_width_px(entry: Dict[str, Any]) -> int:
+    """True-scale width: measured size, else Delport class midpoint, else default."""
+    um = json_entry_max_um(entry)
+    if um is not None and um > 0:
+        return display_width_px_from_max_um(um)
+    cls = json_entry_size_class(entry)
+    if cls is not None:
+        return display_width_px_from_max_um(_DELPORT_SIZE_CLASS_UM[cls])
+    return display_width_px_for_json_entry(entry)
+
+
+def json_entry_size_caption(entry: Dict[str, Any]) -> str:
+    """Caption: measured µm, else Delport class label, else unknown."""
+    um = json_entry_max_um(entry)
+    if um is not None and um > 0:
+        size_src = entry.get("size") if isinstance(entry.get("size"), dict) else {}
+        ss = size_src.get("smallest_size", size_src.get("size_smallest"))
+        ls = size_src.get("largest_size", size_src.get("size_largest"))
+        ss_s = ss.strip() if isinstance(ss, str) and ss.strip() else ""
+        ls_s = ls.strip() if isinstance(ls, str) and ls.strip() else ""
+        if ss_s and ls_s and ss_s != ls_s:
+            return f"{ss_s}–{ls_s}".replace(" µm–", "–")
+        return ls_s or ss_s or f"{um:g} µm"
+    cls = json_entry_size_class(entry)
+    if cls is not None:
+        return _DELPORT_SIZE_CLASS_LABEL_NL[cls]
+    return "grootte onbekend"
+
+
 def latin_binomial_underscore(latin: str) -> Optional[str]:
     """Genus_epitheton for external URLs (e.g. Abeliophyllum_distichum)."""
     if not isinstance(latin, str) or not latin.strip():

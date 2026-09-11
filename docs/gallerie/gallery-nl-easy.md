@@ -2,39 +2,7 @@
 
 To do
 - klein eitje: Echium vulgare (slangekruid)
-- zuurtje: 
-### *Aesculus*
-
-{{ gallery("aesculus_hippocastanum") }}
-
-- Pollenklasse: tricolporaat
-- Vorm: rond tot licht prolaat
-- Grootte: [to be verified]
-- Structuur: [to be verified]
-- Voorbeeld: *Aesculus hippocastanum* (paardenkastanje)
-- Familie: Hippocastanaceae (paardenkastanjefamilie)
-
-### *Parthenocissus*
-
-{{ gallery("parthenocissus_quinquefolia") }}
-
-- Pollenklasse: tricolporaat (Beug 22); colpi met margo
-- Vorm: rond, optisch licht prolaat
-- Grootte: 35 µm (32.7-38.1 µm)
-- Structuur: reticulaat tot rugulaat; brochi veel kleiner dan *Hedera*; veel pollenkitt
-- Voorbeeld: *Parthenocissus quinquefolia* (vijfbladige wingerd)
-- Familie: Vitaceae (wijnstokfamilie)
-
-### *Ailanthus*
-
-{{ gallery("ailanthus_altissima") }}
-
-- Pollenklasse: tricolporaat, porus 5.5 µm
-- Vorm: driehoekig convex, sferoid
-- Grootte: 24 µm–28 µm
-- Structuur: reticulaat tot gering striaat
-- Voorbeeld: *Ailanthus altissima* (hemelboom)
-- Familie: Simaroubaceae (hemelboomfamilie)
+- zuurtje:
 
 ### Hydrangeaceae
 
@@ -47,6 +15,61 @@ To do
 - Voorbeeld: *Hydrangea macrophylla* (hortensia)
 - Familie: Hydrangeaceae (hortensiafamilie)
 
+### Buddlejaceae
+
+{{ gallery("buddleja_davidii") }}
+
+- Pollenklasse: stephanocolporaat, 4-(5)-colporaat (Beug 25)
+- Vorm: vierkant tot vijfhoekig, sferoid
+- Grootte: 16 µm (14.3-17.9 µm)
+- Structuur: psilaat, evt. rugulaat; poren met anulus
+- Voorbeeld: *Buddleja davidii* (vlinderstruik)
+- Familie: Buddlejaceae (vlinderstruikfamilie)
+
+### *Aesculus*
+
+{{ gallery("aesculus_hippocastanum") }}
+
+- Pollenklasse: tricolporaat
+- Vorm: rond tot licht prolaat
+- Grootte: [to be verified]
+- Structuur: [to be verified]
+- Voorbeeld: *Aesculus hippocastanum* (paardenkastanje)
+- Familie: Hippocastanaceae (paardenkastanjefamilie)
+
+### *Cornus mas*
+
+{{ gallery("cornus_mas") }}
+
+- Pollenklasse: tricolporaat
+- Vorm: rond tot driekantig, afhankelijk van de ligging
+- Grootte: 25 µm
+- Structuur: scabraat
+- Voorbeeld: *Cornus mas* (gele kornoelje)
+- Familie: Cornaceae (kornoeljefamilie)
+
+### *Ailanthus*
+
+{{ gallery("ailanthus_altissima") }}
+
+- Pollenklasse: tricolporaat, porus 5.5 µm
+- Vorm: driehoekig convex, sferoid
+- Grootte: 24 µm–28 µm
+- Structuur: reticulaat tot gering striaat
+- Voorbeeld: *Ailanthus altissima* (hemelboom)
+- Familie: Simaroubaceae (hemelboomfamilie)
+
+### *Parthenocissus*
+
+{{ gallery("parthenocissus_quinquefolia") }}
+
+- Pollenklasse: tricolporaat (Beug 22); colpi met margo
+- Vorm: rond, optisch licht prolaat
+- Grootte: 35 µm (32.7-38.1 µm)
+- Structuur: reticulaat tot rugulaat; brochi veel kleiner dan *Hedera*; veel pollenkitt
+- Voorbeeld: *Parthenocissus quinquefolia* (vijfbladige wingerd)
+- Familie: Vitaceae (wijnstokfamilie)
+
 ### *Impatiens glandulifera*
 
 {{ gallery("impatiens_glandulifera") }}
@@ -56,17 +79,6 @@ To do
 - Grootte: [to be verified]
 - Structuur: [to be verified]
 - Voorbeeld: *Impatiens glandulifera* (reuzenbalsemien)
-- Familie: Balsaminaceae (balsemienfamilie)
-
-### *Impatiens parviflora*
-
-{{ gallery("impatiens_parviflora") }}
-
-- Pollenklasse: stephanocolpaat, tetracolpaat (Beug 24, Impatiens)
-- Vorm: elliptisch tot licht rechthoekig, oblaat
-- Grootte: 38 µm (36.4-41.4 µm)
-- Structuur: grof reticulaat met grote brochi
-- Voorbeeld: *Impatiens parviflora* (klein springzaad)
 - Familie: Balsaminaceae (balsemienfamilie)
 
 ### *Symphoricarpos*
@@ -80,16 +92,16 @@ To do
 - Voorbeeld: *Symphoricarpos albus* (gewone sneeuwbes)
 - Familie: Caprifoliaceae (kamperfoeliefamilie)
 
-### Buddlejaceae
+### *Impatiens parviflora*
 
-{{ gallery("buddleja_davidii") }}
+{{ gallery("impatiens_parviflora") }}
 
-- Pollenklasse: stephanocolporaat, 4-(5)-colporaat (Beug 25)
-- Vorm: vierkant tot vijfhoekig, sferoid
-- Grootte: 16 µm (14.3-17.9 µm)
-- Structuur: psilaat, evt. rugulaat; poren met anulus
-- Voorbeeld: *Buddleja davidii* (vlinderstruik)
-- Familie: Buddlejaceae (vlinderstruikfamilie)
+- Pollenklasse: stephanocolpaat, tetracolpaat (Beug 24, Impatiens)
+- Vorm: elliptisch tot licht rechthoekig, oblaat
+- Grootte: 38 µm (36.4-41.4 µm)
+- Structuur: grof reticulaat met grote brochi
+- Voorbeeld: *Impatiens parviflora* (klein springzaad)
+- Familie: Balsaminaceae (balsemienfamilie)
 
 ### Elaeagnaceae
 
@@ -112,14 +124,3 @@ To do
 - Structuur: rugulaat (Beug: psilaat met golvend oppervlak); vele viscinedraden
 - Voorbeeld: *Epilobium angustifolium* (wilgenroosje; geaccepteerd *Chamerion angustifolium*)
 - Familie: Onagraceae (teunisbloemfamilie)
-
-### *Cornus mas*
-
-{{ gallery("cornus_mas") }}
-
-- Pollenklasse: tricolporaat
-- Vorm: rond tot driekantig, afhankelijk van de ligging
-- Grootte: 25 µm
-- Structuur: scabraat
-- Voorbeeld: *Cornus mas* (gele kornoelje)
-- Familie: Cornaceae (kornoeljefamilie)

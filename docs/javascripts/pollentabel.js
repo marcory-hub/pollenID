@@ -294,6 +294,14 @@
    * We cap only extreme outliers; the normal scale is max µm × 2.5 px (e.g. 50 µm → 125 px).
    */
   const POLLEN_THUMB_ROW_MAX_PX = 260;
+  /** Max tiles per choice / overzicht-rij (één taxon: tot 4 foto's; meerdere taxa: 1 per sleutel). */
+  const POLLEN_OVERVIEW_IMAGE_MAX = 4;
+
+  function capOverviewImages(imgs) {
+    if (!Array.isArray(imgs)) return [];
+    if (imgs.length <= POLLEN_OVERVIEW_IMAGE_MAX) return imgs;
+    return imgs.slice(0, POLLEN_OVERVIEW_IMAGE_MAX);
+  }
 
   function parseCssHeightPx(styleHeight) {
     if (typeof styleHeight !== "string" || !styleHeight) return NaN;
@@ -655,6 +663,21 @@
         return imgsC.length > 1 ? [imgsC[0]] : imgsC;
       }
     } else if (Array.isArray(ch && ch.pollen_keys) && ch.pollen_keys.length > 0) {
+      if (ch.pollen_keys.length === 1) {
+        var ckOneChoice = normalizePollenSlug(ch.pollen_keys[0]);
+        if (ckOneChoice && pollenIndex[ckOneChoice]) {
+          const oneTaxonImgs = imagesFromIndexEntry(pollenIndex[ckOneChoice]);
+          if (oneTaxonImgs.length > 0) {
+            return capOverviewImages(imgsFromChoice.concat(oneTaxonImgs));
+          }
+        } else if (ckOneChoice) {
+          return capOverviewImages(
+            imgsFromChoice.concat([
+              { image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 },
+            ])
+          );
+        }
+      }
       const repsPk = [];
       for (var ci = 0; ci < ch.pollen_keys.length; ci++) {
         var ckPk = normalizePollenSlug(ch.pollen_keys[ci]);
@@ -665,7 +688,7 @@
           repsPk.push({ image: "../../assets/images/non-pollen/placeholder.png", imageHeightPx: 1 });
         }
       }
-      if (repsPk.length > 0) return imgsFromChoice.concat(repsPk);
+      if (repsPk.length > 0) return capOverviewImages(imgsFromChoice.concat(repsPk));
     }
     var pollenSlug = endpoint ? normalizePollenSlug(endpoint.pollen_key) : "";
     if (endpoint && isMultiTaxonPollenEndpoint(endpoint)) {
@@ -678,9 +701,9 @@
           if (rep2) reps.push(rep2);
         }
       }
-      imgsFromEndpoint = reps;
+      imgsFromEndpoint = capOverviewImages(reps);
     } else if (pollenSlug && pollenIndex[pollenSlug]) {
-      imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[pollenSlug]);
+      imgsFromEndpoint = capOverviewImages(imagesFromIndexEntry(pollenIndex[pollenSlug]));
     } else if (
       (!imgsFromEndpoint || imgsFromEndpoint.length === 0) &&
       endpoint &&
@@ -689,7 +712,7 @@
     ) {
       var kOne = normalizePollenSlug(endpoint.pollen_keys[0]);
       if (kOne && pollenIndex[kOne]) {
-        imgsFromEndpoint = imagesFromIndexEntry(pollenIndex[kOne]);
+        imgsFromEndpoint = capOverviewImages(imagesFromIndexEntry(pollenIndex[kOne]));
       }
     }
     if (
@@ -700,7 +723,7 @@
     ) {
       imgsFromEndpoint = tilesFromLegacyEndpointImages(endpoint.images);
     }
-    const imgs = imgsFromChoice.concat(imgsFromEndpoint);
+    const imgs = capOverviewImages(imgsFromChoice.concat(imgsFromEndpoint));
     if (imgs.length > 0) return imgs;
     // Branching choices have no taxon yet: do not show a grey placeholder tile.
     if (ch && ch.next) return [];
@@ -1061,6 +1084,18 @@
               outcomeEl.appendChild(p);
               altLabel = String(endpoint.text);
               imgs = Array.isArray(endpoint.images) ? endpoint.images : [];
+              if (imgs.length === 0) {
+                var hasPollenKeys =
+                  !!normalizePollenSlug(ch && ch.pollen_key) ||
+                  !!normalizePollenSlug(endpoint.pollen_key) ||
+                  (Array.isArray(ch && ch.pollen_keys) && ch.pollen_keys.length > 0) ||
+                  (Array.isArray(endpoint.pollen_keys) && endpoint.pollen_keys.length > 0);
+                if (hasPollenKeys) {
+                  imgs = gatherInteractiveChoiceImages(ch, data, pollenIndex);
+                }
+              } else {
+                imgs = capOverviewImages(imgs);
+              }
             } else if (nameHasMarkdownLink(endpoint.name)) {
               const p = document.createElement("p");
               p.innerHTML = formatOutcomeRichText(String(endpoint.name));

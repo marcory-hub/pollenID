@@ -16,11 +16,23 @@
       "choices": [
         {
           "label": "Dispersie-eenheid: massula, polyade, pseudomonade of tetrade (geen enkele monade).",
-          "next": "2"
+          "next": "2",
+          "pollen_keys": [
+            "disa_lugens",
+            "acacia_cyclops",
+            "ficinia_indica",
+            "drosera_cistiflora"
+          ]
         },
         {
           "label": "Dispersie-eenheid: monade.",
-          "next": "3"
+          "next": "3",
+          "pollen_keys": [
+            "cunonia_capensis",
+            "ehrharta_calycina",
+            "scabiosa_africana",
+            "albuca_clanwilliamae_gloria"
+          ]
         }
       ]
     },
@@ -31,26 +43,64 @@
         {
           "label": "Massula (minstens vijf monaden, minder dan een hele theca).",
           "outcome": {
-            "text": "Massula : zie [flora-regio-kaap-massula](flora-regio-kaap-massula.md)"
-          }
+            "text": "Massula : zie [flora-regio-kaap-massula](flora-regio-kaap-massula.md)",
+            "pollen_keys": [
+              "disa_lugens",
+              "disperis_capensis",
+              "pterygodium_catholicum",
+              "satyrium_carneum"
+            ]
+          },
+          "pollen_keys": [
+            "disa_lugens",
+            "disperis_capensis",
+            "pterygodium_catholicum",
+            "satyrium_carneum"
+          ]
         },
         {
           "label": "Polyade (minstens vier monaden, in veelvouden van vier).",
           "outcome": {
-            "text": "Polyade : zie [flora-regio-kaap-polyad](flora-regio-kaap-polyad.md)"
-          }
+            "text": "Polyade : zie [flora-regio-kaap-polyad](flora-regio-kaap-polyad.md)",
+            "pollen_keys": [
+              "acacia_cyclops",
+              "acacia_saligna"
+            ]
+          },
+          "pollen_keys": [
+            "acacia_cyclops",
+            "acacia_saligna"
+          ]
         },
         {
           "label": "Pseudomonade (onvolledige monaden tot een tetrade vergroeid).",
           "outcome": {
-            "text": "Pseudomonade : zie [flora-regio-kaap-pseudomonad](flora-regio-kaap-pseudomonad.md)"
-          }
+            "text": "Pseudomonade : zie [flora-regio-kaap-pseudomonad](flora-regio-kaap-pseudomonad.md)",
+            "pollen_keys": [
+              "ficinia_indica"
+            ]
+          },
+          "pollen_keys": [
+            "ficinia_indica"
+          ]
         },
         {
           "label": "Tetrade (precies vier monaden).",
           "outcome": {
-            "text": "Tetrade : zie [flora-regio-kaap-tetrad](flora-regio-kaap-tetrad.md)"
-          }
+            "text": "Tetrade : zie [flora-regio-kaap-tetrad](flora-regio-kaap-tetrad.md)",
+            "pollen_keys": [
+              "drosera_cistiflora",
+              "erica_sessiliflora",
+              "erica_vestita",
+              "erica_coccinea"
+            ]
+          },
+          "pollen_keys": [
+            "drosera_cistiflora",
+            "erica_sessiliflora",
+            "erica_vestita",
+            "erica_coccinea"
+          ]
         }
       ]
     },
@@ -61,92 +111,236 @@
         {
           "label": "Inaperturaat (geen zichtbare aperturen).",
           "outcome": {
-            "text": "Inaperturaat : zie [flora-regio-kaap-inaperturate](flora-regio-kaap-inaperturate.md)"
-          }
+            "text": "Inaperturaat : zie [flora-regio-kaap-inaperturate](flora-regio-kaap-inaperturate.md)",
+            "pollen_keys": [
+              "cunonia_capensis"
+            ]
+          },
+          "pollen_keys": [
+            "cunonia_capensis"
+          ]
         },
         {
           "label": "Monoporaat (één, meestal cirkelvormige apertuur).",
           "outcome": {
-            "text": "Monoporaat : zie [flora-regio-kaap-monoporate](flora-regio-kaap-monoporate.md)"
-          }
+            "text": "Monoporaat : zie [flora-regio-kaap-monoporate](flora-regio-kaap-monoporate.md)",
+            "pollen_keys": [
+              "ehrharta_calycina"
+            ]
+          },
+          "pollen_keys": [
+            "ehrharta_calycina"
+          ]
         },
         {
           "label": "Diporaat (twee, meestal cirkelvormige aperturen).",
           "outcome": {
-            "text": "Diporaat : zie [flora-regio-kaap-diporate](flora-regio-kaap-diporate.md)"
-          }
+            "text": "Diporaat : zie [flora-regio-kaap-diporate](flora-regio-kaap-diporate.md)",
+            "pollen_keys": [
+              "isoglossa_ciliata"
+            ]
+          },
+          "pollen_keys": [
+            "isoglossa_ciliata"
+          ]
         },
         {
           "label": "Triporaat (drie, meestal cirkelvormige aperturen).",
           "outcome": {
-            "text": "Triporaat : zie [flora-regio-kaap-triporate](flora-regio-kaap-triporate.md)"
-          }
+            "text": "Triporaat : zie [flora-regio-kaap-triporate](flora-regio-kaap-triporate.md)",
+            "pollen_keys": [
+              "wahlenbergia_paniculata",
+              "aulax_umbellata",
+              "leucospermum_hypophyllocarpodendron_hypophyllocarpodendron",
+              "leucospermum_rodolentum"
+            ]
+          },
+          "pollen_keys": [
+            "wahlenbergia_paniculata",
+            "aulax_umbellata",
+            "leucospermum_hypophyllocarpodendron_hypophyllocarpodendron",
+            "leucospermum_rodolentum"
+          ]
         },
         {
           "label": "Pantoporaat (periodiek geplaatste, meestal cirkelvormige aperturen).",
           "outcome": {
-            "text": "Pantoporaat : zie [flora-regio-kaap-pantoporate](flora-regio-kaap-pantoporate.md)"
-          }
+            "text": "Pantoporaat : zie [flora-regio-kaap-pantoporate](flora-regio-kaap-pantoporate.md)",
+            "pollen_keys": [
+              "atriplex_bolusii",
+              "barleria_obtusa",
+              "malva_multiflora",
+              "hibiscus_diversifolius"
+            ]
+          },
+          "pollen_keys": [
+            "atriplex_bolusii",
+            "barleria_obtusa",
+            "malva_multiflora",
+            "hibiscus_diversifolius"
+          ]
         },
         {
           "label": "Tricolpaat (drie equatoriale spleetvormige aperturen / colpi).",
           "outcome": {
-            "text": "Tricolpaat : zie [flora-regio-kaap-tricolpate](flora-regio-kaap-tricolpate.md)"
-          }
+            "text": "Tricolpaat : zie [flora-regio-kaap-tricolpate](flora-regio-kaap-tricolpate.md)",
+            "pollen_keys": [
+              "scabiosa_africana",
+              "carpobrotus_acinaciformis",
+              "papaver_rhoeas",
+              "sarcocaulon_spinosum"
+            ]
+          },
+          "pollen_keys": [
+            "scabiosa_africana",
+            "carpobrotus_acinaciformis",
+            "papaver_rhoeas",
+            "sarcocaulon_spinosum"
+          ]
         },
         {
           "label": "Tetracolpaat (vier equatoriale colpi).",
           "outcome": {
-            "text": "Tetracolpaat : zie [flora-regio-kaap-tetracolpate](flora-regio-kaap-tetracolpate.md)"
-          }
+            "text": "Tetracolpaat : zie [flora-regio-kaap-tetracolpate](flora-regio-kaap-tetracolpate.md)",
+            "pollen_keys": [
+              "galium_tomentosum"
+            ]
+          },
+          "pollen_keys": [
+            "galium_tomentosum"
+          ]
         },
         {
           "label": "Stephanocolpaat (minstens zes equatoriale colpi).",
           "outcome": {
-            "text": "Stephanocolpaat : zie [flora-regio-kaap-stephanocolpate](flora-regio-kaap-stephanocolpate.md)"
-          }
+            "text": "Stephanocolpaat : zie [flora-regio-kaap-stephanocolpate](flora-regio-kaap-stephanocolpate.md)",
+            "pollen_keys": [
+              "salvia_aurea",
+              "coleus_neochilus",
+              "salvia_rosmarinus",
+              "plectranthus_mona_lavender"
+            ]
+          },
+          "pollen_keys": [
+            "salvia_aurea",
+            "coleus_neochilus",
+            "salvia_rosmarinus",
+            "plectranthus_mona_lavender"
+          ]
         },
         {
           "label": "Tricolporaat (drie equatoriale colpori).",
           "outcome": {
-            "text": "Tricolporaat : zie [flora-regio-kaap-tricolporate](flora-regio-kaap-tricolporate.md)"
-          }
+            "text": "Tricolporaat : zie [flora-regio-kaap-tricolporate](flora-regio-kaap-tricolporate.md)",
+            "pollen_keys": [
+              "hypochaeris_radicata",
+              "lycium_ferocissimum",
+              "anthospermum_spathulatum",
+              "heterolepis_aliena"
+            ]
+          },
+          "pollen_keys": [
+            "hypochaeris_radicata",
+            "lycium_ferocissimum",
+            "anthospermum_spathulatum",
+            "heterolepis_aliena"
+          ]
         },
         {
           "label": "Tetracolporaat (vier equatoriale colpori).",
           "outcome": {
-            "text": "Tetracolporaat : zie [flora-regio-kaap-tetracolporate](flora-regio-kaap-tetracolporate.md)"
-          }
+            "text": "Tetracolporaat : zie [flora-regio-kaap-tetracolporate](flora-regio-kaap-tetracolporate.md)",
+            "pollen_keys": [
+              "lyperia_lychnidea",
+              "melia_azedarach"
+            ]
+          },
+          "pollen_keys": [
+            "lyperia_lychnidea",
+            "melia_azedarach"
+          ]
         },
         {
           "label": "Stephanocolporaat (minstens zes equatoriale colpori).",
           "outcome": {
-            "text": "Stephanocolporaat : zie [flora-regio-kaap-stephanocolporate](flora-regio-kaap-stephanocolporate.md)"
-          }
+            "text": "Stephanocolporaat : zie [flora-regio-kaap-stephanocolporate](flora-regio-kaap-stephanocolporate.md)",
+            "pollen_keys": [
+              "nemesia_lucida",
+              "nemesia_versicolor",
+              "diascia_capensis",
+              "nemesia_affinis"
+            ]
+          },
+          "pollen_keys": [
+            "nemesia_lucida",
+            "nemesia_versicolor",
+            "diascia_capensis",
+            "nemesia_affinis"
+          ]
         },
         {
           "label": "Monosulcaat (één distale spleetvormige apertuur / sulcus).",
           "outcome": {
-            "text": "Monosulcaat : zie [flora-regio-kaap-monosulcate](flora-regio-kaap-monosulcate.md)"
-          }
+            "text": "Monosulcaat : zie [flora-regio-kaap-monosulcate](flora-regio-kaap-monosulcate.md)",
+            "pollen_keys": [
+              "albuca_clanwilliamae_gloria",
+              "lapeirousia_jacquinii",
+              "watsonia_meriana",
+              "watsonia_stenosiphon"
+            ]
+          },
+          "pollen_keys": [
+            "albuca_clanwilliamae_gloria",
+            "lapeirousia_jacquinii",
+            "watsonia_meriana",
+            "watsonia_stenosiphon"
+          ]
         },
         {
           "label": "Trisulcaat (drie distale spleetvormige aperturen / sulci).",
           "outcome": {
-            "text": "Trisulcaat : zie [flora-regio-kaap-trisulcate](flora-regio-kaap-trisulcate.md)"
-          }
+            "text": "Trisulcaat : zie [flora-regio-kaap-trisulcate](flora-regio-kaap-trisulcate.md)",
+            "pollen_keys": [
+              "aristea_glauca",
+              "aristea_dichotoma"
+            ]
+          },
+          "pollen_keys": [
+            "aristea_glauca",
+            "aristea_dichotoma"
+          ]
         },
         {
           "label": "Heteroaperturaat (twee niet-vergroeide apertuurtypen, bv. colporus en colpus).",
           "outcome": {
-            "text": "Heteroaperturaat : zie [flora-regio-kaap-heteroaperturate](flora-regio-kaap-heteroaperturate.md)"
-          }
+            "text": "Heteroaperturaat : zie [flora-regio-kaap-heteroaperturate](flora-regio-kaap-heteroaperturate.md)",
+            "pollen_keys": [
+              "amsinckia_menziesii",
+              "penaea_fucata",
+              "hypoestes_aristata",
+              "hypoestes_forskaolii"
+            ]
+          },
+          "pollen_keys": [
+            "amsinckia_menziesii",
+            "penaea_fucata",
+            "hypoestes_aristata",
+            "hypoestes_forskaolii"
+          ]
         },
         {
           "label": "Trisindemicolporaat (drie colpi die per pool tot een syncolpus samenkomen, niet voorbij de evenaar).",
           "outcome": {
-            "text": "Trisindemicolporaat : zie [flora-regio-kaap-trisindemicolporate](flora-regio-kaap-trisindemicolporate.md)"
-          }
+            "text": "Trisindemicolporaat : zie [flora-regio-kaap-trisindemicolporate](flora-regio-kaap-trisindemicolporate.md)",
+            "pollen_keys": [
+              "grielum_grandiflorum",
+              "grielum_humifusum"
+            ]
+          },
+          "pollen_keys": [
+            "grielum_grandiflorum",
+            "grielum_humifusum"
+          ]
         }
       ]
     }

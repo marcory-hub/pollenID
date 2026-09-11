@@ -232,51 +232,146 @@ def unique_taxa(records: List[dict]) -> List[dict]:
     return list(by_key.values())
 
 
-def update_gallery(taxa: List[dict]) -> str:
-    """Rewrite gallery-non-eu.md: keep Coffea block, append Delport taxa."""
-    lines = [
-        "# Buiten EU",
-        "",
-        "| Label | Referentie | Opmerking |",
-        "| :--- | :--- | :--- |",
-        "| *Coffea* | [*Coffea arabica*](../pollen/species/coffea_arabica.md) | koffie; [koffiebloesemhoning](../monoflorale-honing-pollen/koffiebloesemhoning.md) |",
-        "| Flora regio Kaap | [taxa-index](../keys/flora-regio-kaap/taxa-index.md) | Delport et al. 2025; Greater Cape Floristic Region |",
+def _clean_gallery_val(v: Any) -> str:
+    if v is None:
+        return ""
+    s = str(v).strip()
+    if s in ("", "-", "null", "None"):
+        return ""
+    return s
+
+
+def _gallery_size_line(entry: Dict[str, Any], size_class: Optional[str]) -> str:
+    from pollen_display import canonicalize_delport_size_class, entry_size_strings
+
+    ss, ls = entry_size_strings(entry) if entry else (None, None)
+    if ss and ls:
+        if ss == ls:
+            return ss
+        small_num = re.sub(r"\s*µm$", "", ss, flags=re.I)
+        return f"{small_num}-{ls}" if ls.lower().endswith("µm") else f"{small_num}-{ls} µm"
+    if ss or ls:
+        return ss or ls or ""
+    cls = canonicalize_delport_size_class(size_class) if size_class else None
+    labels = {
+        "zeer klein": "zeer klein (<10 µm)",
+        "klein": "klein (10-25 µm)",
+        "middelgroot": "middelgroot (26-50 µm)",
+        "groot": "groot (51-100 µm)",
+        "zeer groot": "zeer groot (>100 µm)",
+    }
+    return labels.get(cls or "", "")
+
+
+def _gallery_block_sort_key(item: Dict[str, Any]) -> Tuple[int, float, str]:
+    from pollen_display import (
+        _DELPORT_SIZE_CLASS_UM,
+        canonicalize_delport_size_class,
+        json_entry_size_sort_key,
+        parse_max_um_from_size_strings,
+    )
+
+    grootte = item.get("grootte") or ""
+    latin = (item.get("latin") or item.get("pk") or "").strip().lower()
+    um = parse_max_um_from_size_strings(grootte, None) if grootte and "to be verified" not in grootte else None
+    if um:
+        return (0, um, latin)
+    syn = {
+        "size": item.get("size") or {},
+        "pollen-note": item.get("pollen_note") or "",
+        "latin": latin,
+    }
+    key = json_entry_size_sort_key(syn, latin)
+    if key[0] == 0:
+        return key
+    cls = canonicalize_delport_size_class(item.get("size_class"))
+    if cls:
+        return (0, _DELPORT_SIZE_CLASS_UM[cls], latin)
+    return (1, 0.0, latin)
+
+
+def update_gallery(taxa: List[dict], yaml_data: Optional[Dict[str, Any]] = None) -> str:
+    """Rewrite gallery-non-eu.md in easy-page format, sorted by size."""
+    from fill_pollen_yaml_from_delport import collect_bundles
+    from pollen_display import entry_dutch, entry_family, entry_feature, entry_latin
+
+    data = yaml_data if isinstance(yaml_data, dict) else {}
+    bundles = collect_bundles()
+    tbv = "[to be verified]"
+    items: List[Dict[str, Any]] = [
+        {
+            "pk": "coffea_arabica",
+            "heading": "*Coffea arabica* (koffie)",
+            "latin": "Coffea arabica",
+        }
     ]
-    # table rows for each unique key (sorted by latin)
-    for rec in sorted(taxa, key=lambda r: r["latin_name"].lower()):
+    for rec in taxa:
         pk = rec["pollen_key"]
         latin = rec["latin_name"]
-        fam = rec.get("family_latin") or ""
-        lines.append(
-            f"| *{latin}* | [*{latin}*](../pollen/species/{pk}.md) | {fam}; Delport plate {', '.join(rec['plates'])} |"
+        items.append({"pk": pk, "heading": f"*{latin}*", "latin": latin})
+
+    blocks: List[Dict[str, Any]] = []
+    for it in items:
+        pk = it["pk"]
+        entry = data.get(pk) if isinstance(data.get(pk), dict) else {}
+        bundle = bundles.get(pk)
+        aperture = _clean_gallery_val(entry_feature(entry, "aperture") if entry else None)
+        shape = _clean_gallery_val(entry_feature(entry, "shape") if entry else None)
+        sculpture = _clean_gallery_val(entry_feature(entry, "sculpture") if entry else None)
+        size_class = getattr(bundle, "size_class", None) if bundle else None
+        if bundle:
+            if not aperture:
+                aperture = _clean_gallery_val(getattr(bundle, "aperture", None))
+            if not shape:
+                shape = _clean_gallery_val(getattr(bundle, "shape", None))
+            if not sculpture:
+                sculpture = _clean_gallery_val(getattr(bundle, "sculpture", None))
+        grootte = _gallery_size_line(entry, size_class)
+        latin = (entry_latin(entry) if entry else None) or it["latin"]
+        dutch = entry_dutch(entry) if entry else None
+        voorbeeld = f"*{latin}*" + (f" ({dutch})" if dutch else "")
+        familie = entry_family(entry) if entry else ""
+        if not familie:
+            fam = ""
+            if isinstance(entry, dict):
+                clas = entry.get("classification")
+                if isinstance(clas, dict):
+                    fam = _clean_gallery_val(clas.get("family_latin"))
+            if not fam:
+                rec = next((r for r in taxa if r.get("pollen_key") == pk), None)
+                fam = (rec or {}).get("family_latin") or ""
+            fd = FAMILY_DUTCH.get(fam, "")
+            familie = f"{fam} ({fd})" if fam and fd else fam
+        blocks.append(
+            {
+                **it,
+                "grootte": grootte or tbv,
+                "size": (entry or {}).get("size") or {},
+                "pollen_note": entry_feature(entry, "pollen-note") if entry else "",
+                "size_class": size_class,
+                "aperture": aperture or tbv,
+                "shape": shape or tbv,
+                "sculpture": sculpture or tbv,
+                "voorbeeld": voorbeeld,
+                "familie": familie or tbv,
+            }
         )
-    lines += [
-        "",
-        "### *Coffea arabica* (koffie)",
-        "",
-        '{{ gallery("coffea_arabica") }}',
-        "",
-        "- Voorbeeld: *Coffea arabica* (koffie)",
-        "- Familie: Rubiaceae (sterbladigenfamilie)",
-        "",
-        "### Flora regio Kaap (Delport et al. 2025)",
-        "",
-    ]
-    for rec in sorted(taxa, key=lambda r: r["latin_name"].lower()):
-        pk = rec["pollen_key"]
-        latin = rec["latin_name"]
-        fam = rec.get("family_latin") or ""
-        fd = FAMILY_DUTCH.get(fam, "")
-        fam_line = f"{fam}" + (f" ({fd})" if fd else "")
-        lines.append(f"### *{latin}*")
-        lines.append("")
-        lines.append(f'{{{{ gallery("{pk}") }}}}')
-        lines.append("")
-        lines.append(f"- *{latin}*")
-        if fam_line.strip():
-            lines.append(f"- Familie: {fam_line}")
-        lines.append(f"- Bronplaat: {', '.join(rec['plates'])} (Delport et al. 2025)")
-        lines.append("")
+    blocks.sort(key=_gallery_block_sort_key)
+    lines = ["# Buiten EU", ""]
+    for b in blocks:
+        lines += [
+            f"### {b['heading']}",
+            "",
+            f'{{{{ gallery("{b["pk"]}") }}}}',
+            "",
+            f"- Pollenklasse: {b['aperture']}",
+            f"- Vorm: {b['shape']}",
+            f"- Grootte: {b['grootte']}",
+            f"- Structuur: {b['sculpture']}",
+            f"- Voorbeeld: {b['voorbeeld']}",
+            f"- Familie: {b['familie']}",
+            "",
+        ]
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -352,7 +447,7 @@ def main() -> int:
             slug_set.add(pk)
             added_slugs.append(pk)
 
-    gallery_text = update_gallery(taxa)
+    gallery_text = update_gallery(taxa, data)
 
     print(
         f"taxa={len(taxa)} created={created} updated={updated} "
